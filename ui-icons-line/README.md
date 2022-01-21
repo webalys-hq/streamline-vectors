@@ -98,6 +98,13 @@ Fully editable strokes, easy to change the colors with any vector software like 
 
 
 
+## About the author
+- Streamline homepage
+- Twitter
+- Dribbble
+- Instagram
+- Product Hunt
+
 ## Creative commons license: Attribution 4.0 International (CC BY 4.0)
 
 **You are free to:**
