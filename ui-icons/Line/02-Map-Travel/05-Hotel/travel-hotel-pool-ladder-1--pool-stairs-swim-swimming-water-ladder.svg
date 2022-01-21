@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <path d="M13.5,13.5H13a2,2,0,0,1-2-2,2,2,0,0,1-4,0,2,2,0,0,1-4,0,2,2,0,0,1-2,2H.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="0.5" y1="5.5" x2="13.5" y2="5.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="4.5" y1="9.5" x2="4.5" y2="0.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="10.5" y1="9.5" x2="10.5" y2="0.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="4.5" y1="2.5" x2="10.5" y2="2.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="4.5" y1="8.5" x2="10.5" y2="8.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

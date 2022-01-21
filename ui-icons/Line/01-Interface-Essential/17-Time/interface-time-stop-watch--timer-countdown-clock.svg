@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <path d="M13.5,6.92a7.62,7.62,0,0,1-.74,3.21" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M7,13.42A6.5,6.5,0,0,1,.5,6.92" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <polyline points="9 8.92 7 6.42 4 6.42" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <circle cx="12" cy="11.42" r="1.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M.92,4.52A6.31,6.31,0,0,1,1.79,3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M3.72,1.28A6.3,6.3,0,0,1,5.53.58" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M13.08,4.52A6.31,6.31,0,0,0,12.21,3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M10.28,1.28A6.3,6.3,0,0,0,8.47.58" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

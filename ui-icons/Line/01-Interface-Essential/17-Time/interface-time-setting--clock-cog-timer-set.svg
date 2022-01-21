@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <path d="M.53,6.06A6.5,6.5,0,1,1,7,13.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <polyline points="6.97 3 6.97 6.5 9.47 6.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <g>
+      <line x1="3.72" y1="6.5" x2="3.72" y2="8" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="0.69" y1="8.25" x2="1.98" y2="9" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="0.69" y1="11.75" x2="1.98" y2="11" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="3.72" y1="13.5" x2="3.72" y2="12" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="6.75" y1="11.75" x2="5.45" y2="11" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="6.75" y1="8.25" x2="5.45" y2="9" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <circle cx="3.72" cy="10" r="2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+  </g>
+</svg>

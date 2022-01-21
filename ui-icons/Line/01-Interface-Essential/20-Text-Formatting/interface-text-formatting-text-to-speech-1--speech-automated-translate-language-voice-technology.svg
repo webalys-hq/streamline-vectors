@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <g>
+      <path d="M3.5,13.5,6.64,6.17a.39.39,0,0,1,.72,0L10.5,13.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="4.91" y1="10.21" x2="9.09" y2="10.21" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+    <path d="M.5,4A3.5,3.5,0,0,1,4,.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M.5,4A3.5,3.5,0,0,1,4,.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M3,4A1,1,0,0,1,4,3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M3,4A1,1,0,0,1,4,3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M10,.5A3.5,3.5,0,0,1,13.5,4" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M10,.5A3.5,3.5,0,0,1,13.5,4" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M10,3a1,1,0,0,1,1,1" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M10,3a1,1,0,0,1,1,1" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

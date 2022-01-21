@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <line x1="5" y1="13.5" x2="7" y2="13.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M6,2A4,4,0,0,0,2,6V9.5A1.5,1.5,0,0,1,.5,11h11A1.5,1.5,0,0,1,10,9.5V7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <polyline points="13.5 0.5 10 4.5 8.5 3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

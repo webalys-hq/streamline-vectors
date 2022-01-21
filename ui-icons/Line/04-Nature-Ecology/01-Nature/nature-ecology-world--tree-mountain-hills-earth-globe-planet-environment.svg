@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <path d="M13.5,7A6.5,6.5,0,0,1,.5,7Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M1,9.5H2.75A1.75,1.75,0,0,0,4.5,7.75V7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M11,12.12v-.87A1.25,1.25,0,0,0,9.75,10,1.75,1.75,0,0,1,8,8.25V7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <polyline points="0.5 4 2.5 2 7.5 7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <g>
+      <polygon points="13.5 4.5 8.5 4.5 11 0.5 13.5 4.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="11" y1="4.5" x2="11" y2="7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+    <line x1="4.25" y1="3.75" x2="6.5" y2="1.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

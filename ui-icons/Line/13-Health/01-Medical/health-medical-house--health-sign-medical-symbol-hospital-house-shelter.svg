@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <line x1="5" y1="9" x2="9" y2="9" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="7" y1="7" x2="7" y2="11" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <g>
+      <polyline points="0.5 7 7 0.5 13.5 7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <polyline points="2 8.5 2 13.5 12 13.5 12 8.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+  </g>
+</svg>

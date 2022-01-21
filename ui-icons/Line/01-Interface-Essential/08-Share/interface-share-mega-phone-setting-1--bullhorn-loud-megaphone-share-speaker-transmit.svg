@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <line x1="10.36" y1="0.5" x2="10.36" y2="2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="7.33" y1="2.25" x2="8.63" y2="3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="7.33" y1="5.75" x2="8.63" y2="5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="10.36" y1="7.5" x2="10.36" y2="6" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="13.39" y1="5.75" x2="12.09" y2="5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="13.39" y1="2.25" x2="12.09" y2="3" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <circle cx="10.36" cy="4" r="2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M11.61,9.5v2.81a.42.42,0,0,1-.56.4L1.18,9.3a.85.85,0,0,1-.57-.8V7.59a.83.83,0,0,1,.57-.8L5.11,5.43" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M7.36,11.44a2.33,2.33,0,0,1-4.64-.27V9.83" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

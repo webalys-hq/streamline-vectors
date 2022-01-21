@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <line x1="6" y1="6.5" x2="7.3" y2="7.8" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="6" y1="13.5" x2="7.3" y2="12.2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="7" y1="10" x2="5.5" y2="10" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="13" y1="6.5" x2="11.7" y2="7.8" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="13" y1="13.5" x2="11.7" y2="12.2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M7,9a2.5,2.5,0,0,1,5,0v2a2.5,2.5,0,0,1-5,0Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="12" y1="10" x2="13.5" y2="10" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <line x1="7" y1="9.5" x2="12" y2="9.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M3.5,12h-2a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1H5.19a1,1,0,0,1,1,.76L6.47,2.5h6a1,1,0,0,1,1,1V4" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+  </g>
+</svg>

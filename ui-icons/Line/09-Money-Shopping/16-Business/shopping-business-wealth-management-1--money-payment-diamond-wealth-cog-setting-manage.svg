@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <g>
+      <polyline points="4.69 9.01 0.5 4.5 3.5 0.5 10.5 0.5 13.5 4.5 12.66 5.4" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="0.5" y1="4.5" x2="13.5" y2="4.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <polyline points="3.5 0.5 7 4.5 10.5 0.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="7" y1="4.5" x2="7" y2="6" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+    <g>
+      <line x1="10.25" y1="6.5" x2="10.25" y2="8" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="7.22" y1="8.25" x2="8.52" y2="9" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="7.22" y1="11.75" x2="8.52" y2="11" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="10.25" y1="13.5" x2="10.25" y2="12" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="13.28" y1="11.75" x2="11.98" y2="11" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <line x1="13.28" y1="8.25" x2="11.98" y2="9" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <circle cx="10.25" cy="10" r="2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+  </g>
+</svg>

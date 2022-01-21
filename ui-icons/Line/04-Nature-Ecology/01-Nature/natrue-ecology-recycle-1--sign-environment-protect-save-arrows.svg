@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <g>
+    <g>
+      <path d="M6,10.08v2a.29.29,0,0,1-.29.28H3.61a1.45,1.45,0,0,1-.88-.51" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <path d="M2.73,11.86s-1.09-.95,1.44-3.48H5.3L3.61,5.59H.5l.85,1.09s-.57.1-.57.89A10,10,0,0,0,2.73,11.86Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+    <path d="M10.35,6.37l1.48-1a.26.26,0,0,1,.21,0,.26.26,0,0,1,.19.12l1.15,1.72a1,1,0,0,1,0,.89" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <path d="M13.42,8S13.1,9.3,9.79,9V8.13L7.85,10.67,9.69,13.5l.1-1.33s.37.45,1,0A18.73,18.73,0,0,0,13.42,8Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    <g>
+      <path d="M4.35,4.28,3,3.66a.3.3,0,0,1-.14-.38L4,1A1,1,0,0,1,4.74.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+      <path d="M4.74.5s1.23,0,2.79,3l-.81,1h3.36l1.19-3.14-1.4.43a1.21,1.21,0,0,0-.73-1A5.87,5.87,0,0,0,7,.5Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
+    </g>
+  </g>
+</svg>
