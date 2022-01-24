@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <rect x="0.5" y="6.5" width="13" height="7" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <circle cx="3.5" cy="4.5" r="2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <line x1="0.5" y1="9.5" x2="13.5" y2="9.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <path d="M3.5,2.5s0-2,1.5-2" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>

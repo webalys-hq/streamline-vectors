@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <circle cx="3" cy="3" r="3" style="fill: #000001"/>
-    <circle cx="11" cy="3" r="3" style="fill: #000001"/>
-    <circle cx="3" cy="11" r="3" style="fill: #000001"/>
-    <circle cx="11" cy="11" r="3" style="fill: #000001"/>
-  </g>
-</svg>

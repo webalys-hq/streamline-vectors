@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <path d="M.5,8a4,4,0,0,1,4,4" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <path d="M.5,10.5A1.5,1.5,0,0,1,2,12" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <path d="M7,12h5.5a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1V5.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>
