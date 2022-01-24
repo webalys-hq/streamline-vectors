@@ -23,9 +23,14 @@ The Streamline UI icon set is one the most comprehensive open source icon sets a
 
 ## Legible and elegant icons for interfaces
 
-![image](https://user-images.githubusercontent.com/703545/150423777-b0c8a454-cc02-4cb2-b05c-abf7e09c46bb.png)
 
-![image](https://user-images.githubusercontent.com/703545/150423907-6611e09a-bbc1-4f46-9edf-800829208c01.png)
+![mobile-app](https://user-images.githubusercontent.com/703545/150838064-c567b447-cb7e-430f-8f35-b2ff720b9bd0.png)
+<br><br>
+![Shopping-website](https://user-images.githubusercontent.com/703545/150838069-bf9083cb-4153-436c-96a1-3ab047111932.png)
+<br><br>
+![Task-management](https://user-images.githubusercontent.com/703545/150838085-d1859417-d3b8-4cd5-9218-57372036a4b3.png)
+<br><br>
+![Travel-website](https://user-images.githubusercontent.com/703545/150838091-c0b4e1f4-95d6-4767-a34b-afa8d6c6a22f.png)
 
 <br>
 <br>
