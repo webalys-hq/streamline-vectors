@@ -13,8 +13,10 @@
 
 The Streamline UI icon set is one the most comprehensive open source icon sets available. Use these for free for all personal and commercial projects. 🎉
 
-→ [**Browse all icons on the Streamline app**](https://app.streamlinehq.com/icons/streamline-mini-line)
+→ [**Download all SVG icons - Github**](https://github.com/webalys-hq/streamline-vectors/tree/main/ui-icons/UI%20Icons%20Line%20-%20SVG)
 
+→ [**Download and customize icons - Streamline app**](https://app.streamlinehq.com/icons/streamline-mini-line)
+<br><br>
 
 <img width="1017" alt="Streamline Mini Sample" src="https://user-images.githubusercontent.com/703545/150422153-6f2f48a9-0d84-461c-82d8-908f8264587c.png">
 
