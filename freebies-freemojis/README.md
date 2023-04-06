@@ -1,18 +1,14 @@
-# Emoji - Free
+# Emojis – Free
 **Licensed under the Creative Commons - CC BY 4.0**
 
-<br>
-<br>
+Get instant access to these emojis with our free app: [Streamline](https://streamlinehq.com). There you can copy or download the emojis in SVG, PNG, and PDF formats, customize them, and export them to your favorite design tool.
 
 ## About the author
-- [Streamline homepage](https://streamlinehq.com/)
+- [Streamline homepage](https://streamlinehq.com)
 - [Twitter](https://twitter.com/streamlinehq)
 - [Dribbble](https://dribbble.com/webalys)
-- [Instagram](https://www.instagram.com/streamlinehq/)
+- [Instagram](https://www.instagram.com/streamlinehq)
 - [Product Hunt](https://www.producthunt.com/posts/streamline-4-0-icons-illustrations)
-
-<br>
-<br>
 
 ## Creative commons license: Attribution 4.0 International (CC BY 4.0)
 
@@ -22,6 +18,3 @@ Adapt — remix, transform, and build upon the material for any purpose, even co
 
 **Under the following terms:**
 Attribution — You must give appropriate credit, provide a link to this Github page or this icon set on the Streamline app, and indicate if changes were made. 
-
-<br>
-<br>
