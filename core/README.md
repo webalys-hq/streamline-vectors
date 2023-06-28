@@ -1,14 +1,18 @@
 # Core free icons
 **Licensed under the Creative Commons - CC BY 4.0**
 
+All the essential icons you need for UI design, based on a tiny 14px grid. These icons works perfectly with inline text or small navigation items.
+
 Get instant access to these icons with our free app: [Streamline](https://streamlinehq.com). There you can copy or download the icons in SVG, PNG, and PDF formats, customize them, and export them to your favorite design tool.
 
-## About the author
+## Links
 - [Streamline homepage](https://streamlinehq.com)
-- [Twitter](https://twitter.com/streamlinehq)
-- [Dribbble](https://dribbble.com/webalys)
-- [Instagram](https://www.instagram.com/streamlinehq)
-- [Product Hunt](https://www.producthunt.com/posts/streamline-4-0-icons-illustrations)
+- [More about Core icons](https://blog.streamlinehq.com/core)
+- [Core icons in our app](https://www.streamlinehq.com/icons/streamline-mini-line)
+- [Core line icons in our app](https://www.streamlinehq.com/icons/core-line)
+- [Core solid icons in our app](https://www.streamlinehq.com/icons/core-solid)
+- [Core duo icons in our app](https://www.streamlinehq.com/icons/core-duo-color)
+- [Core flat icons in our app](https://www.streamlinehq.com/icons/core-flat)
 
 ## Creative commons license: Attribution 4.0 International (CC BY 4.0)
 
