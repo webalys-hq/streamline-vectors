@@ -15,7 +15,7 @@ The Streamline UI icon set is one the most comprehensive open source icon sets a
 
 → [**Download all SVG icons - Github**](https://github.com/webalys-hq/streamline-vectors/tree/main/ui-icons/UI%20Icons%20Line%20-%20SVG)
 
-→ [**Download and customize icons - Streamline app**](https://app.streamlinehq.com/icons/streamline-mini-line)
+→ [**Download and customize icons - Streamline app**](https://app.streamlinehq.com/icons/streamline-mini-line?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
 <br><br>
 
 <img width="1017" alt="Streamline Mini Sample" src="https://user-images.githubusercontent.com/703545/150422153-6f2f48a9-0d84-461c-82d8-908f8264587c.png">
@@ -60,7 +60,7 @@ Fully editable strokes, easy to change the colors with any vector software like 
 
 ## Customize color and size with the Streamline app
 
-→ [**Browse all icons on the Streamline app**](https://app.streamlinehq.com/icons/streamline-mini-line)
+→ [**Browse all icons on the Streamline app**](https://app.streamlinehq.com/icons/streamline-mini-line?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
 
 Find the right icons in seconds with our Web App. Browse, modify and download vectors straight from your browser. 
 
@@ -133,24 +133,19 @@ Access the all UI icons library without ever leaving Figma.
 <br>
 <br>
 
-## About the author
-- [Streamline homepage](https://streamlinehq.com/)
-- [Twitter](https://twitter.com/streamlinehq)
-- [Dribbble](https://dribbble.com/webalys)
-- [Instagram](https://www.instagram.com/streamlinehq/)
-- [Product Hunt](https://www.producthunt.com/posts/streamline-4-0-icons-illustrations)
+### About Streamline
+- [Streamline homepage](https://streamlinehq.com/?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Streamline web app](https://streamlinehq.com/icons?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Streamline Mac desktop app](https://streamlinehq.com/download?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Streamline Figma plugin](https://www.figma.com/community/plugin/852192486284901337/streamline-icons-illustrations-elements-emoji)
 
-<br>
-<br>
-
-## Creative commons license: Attribution 4.0 International (CC BY 4.0)
+### Open-source license
+Creative commons license: Attribution 4.0 International (CC BY 4.0).
 
 **You are free to:**
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+- Share: copy and redistribute the material in any medium or format.
+- Adapt: remix, transform, and build upon the material for any purpose, even commercially.
 
-**Under the following terms:**
-Attribution — You must give appropriate credit, provide a link to this Github page or this icon set on the Streamline app, and indicate if changes were made. 
-
-<br>
-<br>
+**Attribution:**
+- Attribution: You must give appropriate credit and provide a link to the Streamline website (http://streamlinehq.com).
+- Redistribution: Redistribution is encouraged as long as you follow the [license terms](https://streamlinehq.com/free/license?utm_source=github&utm_medium=free-file&utm_campaign=ui-line).
