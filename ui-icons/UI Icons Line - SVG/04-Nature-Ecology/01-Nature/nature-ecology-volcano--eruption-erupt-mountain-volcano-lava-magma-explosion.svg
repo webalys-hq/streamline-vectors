@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <path d="M13.5,13.5s-4-2-4-5h-5c0,3-4,5-4,5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <path d="M10.5,5.5a2,2,0,0,0,0-4,2,2,0,0,0-1.24.43,2.5,2.5,0,0,0-4.52,0A2,2,0,0,0,3.5,1.5a2,2,0,0,0,0,4" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <line x1="5.5" y1="4.5" x2="5.5" y2="8.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <line x1="8.5" y1="4.5" x2="8.5" y2="8.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>

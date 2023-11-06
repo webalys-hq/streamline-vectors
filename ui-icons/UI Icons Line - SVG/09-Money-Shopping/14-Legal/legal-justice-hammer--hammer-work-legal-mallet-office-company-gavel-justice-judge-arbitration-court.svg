@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <line x1="0.5" y1="13.29" x2="8" y2="13.29" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <polyline points="7 13.29 7 10.79 1.5 10.79 1.5 13.29" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <rect x="3.96" y="2.17" width="7.07" height="4.24" rx="1" transform="translate(-0.84 6.56) rotate(-45)" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <line x1="9" y1="5.79" x2="13.5" y2="10.29" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>

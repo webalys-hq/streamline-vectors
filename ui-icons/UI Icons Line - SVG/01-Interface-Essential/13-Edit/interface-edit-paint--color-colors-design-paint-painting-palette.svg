@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <circle cx="8.5" cy="4" r="1" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <circle cx="4.5" cy="9.5" r="0.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <circle cx="4.5" cy="5.5" r="1" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <path d="M9.52,12.28a1,1,0,0,0-.65-.88A2,2,0,0,1,9.5,7.5h1.87a2,2,0,0,0,1.89-2.67A6.5,6.5,0,1,0,7.13,13.5a6.3,6.3,0,0,0,1.74-.24A.9.9,0,0,0,9.52,12.28Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>

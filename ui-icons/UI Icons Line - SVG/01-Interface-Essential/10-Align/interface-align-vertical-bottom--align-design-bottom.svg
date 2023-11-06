@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <line x1="13.5" y1="13.5" x2="0.5" y2="13.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <rect x="7.25" y="5.75" width="6.5" height="4" rx="1" transform="translate(2.75 18.25) rotate(-90)" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <rect x="-1.75" y="3.75" width="10.5" height="4" rx="1" transform="translate(-2.25 9.25) rotate(-90)" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
-  <g>
-    <ellipse cx="1.5" cy="8" rx="1" ry="1.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <ellipse cx="4.5" cy="3.5" rx="1" ry="1.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <ellipse cx="9.5" cy="3.5" rx="1" ry="1.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <ellipse cx="12.5" cy="8" rx="1" ry="1.5" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-    <path d="M10,10c0,1.38-1.62,2-3,2s-3-.62-3-2S5,6.5,7,6.5,10,8.62,10,10Z" style="fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round"/>
-  </g>
-</svg>
