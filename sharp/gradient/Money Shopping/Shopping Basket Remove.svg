@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shopping-Basket-Remove--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shopping Basket Remove Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-basket-remove--shopping-basket">
+    <path id="Union" fill="url(#paint0_linear_630_38280)" fill-rule="evenodd" d="m8.81549 5.34387-.01675-1.54856L12.0003.59375l3.2682 3.26823 0 1.48186-2.2683.00001 0 6.65625h-2l0-6.65624-2.18471.00001Zm.18475 3.65624H6.41742L3.80746 4.43268l-1.73648.99228 2.04294 3.57515H.770508l.250822 1.20399 2.5 12 .16584.796H20.3134l.1659-.796 2.5-12 .2508-1.20399h-3.3435l2.0429-3.57515-1.7365-.99228-2.6099 4.56743h-2.5829v4.99999H9.00024V9.00011Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38280" x1="1.633" x2="27.202" y1="2.404" y2="16.85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

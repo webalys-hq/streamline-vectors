@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hierarchy-16--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Hierarchy 16 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/hierarchy-16">
+    <path id="Union" fill="url(#paint0_linear_644_11356)" fill-rule="evenodd" d="M2 1h9v6H6.99988v4H13V9h10v6H13v-2H6.99988v5.9998H13V17h10v6H13v-2.0002H4.99988V7H1V1h1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11356" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

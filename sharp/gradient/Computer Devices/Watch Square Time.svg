@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Watch-Square-Time--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Watch Square Time Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/watch-square-time--device-timepiece-watch-square-time-clock-analog">
+    <path id="Subtract" fill="url(#paint0_linear_628_19078)" fill-rule="evenodd" d="M17 24h1v-2H6.00001l0 1v1H17ZM6 2h12V0H6v1l0 1Zm12 18H3.5V4h17l0 1 0 14v1H18ZM11.0002 8v5h4v-2h-2V8h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19078" x1="21.973" x2="-5.558" y1="29.083" y2="15.231" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

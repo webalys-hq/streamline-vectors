@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Test-Tube--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Test Tube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/test-tube--science-experiment-lab-chemistry-test-tube-solution">
+    <path id="Union" fill="url(#paint0_linear_628_19706)" fill-rule="evenodd" d="M19 2h2V0H3v2h2v15c0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7V2Zm-2 0H7v4h10V2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19706" x1="22.56" x2="-5.894" y1="29.083" y2="13.924" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

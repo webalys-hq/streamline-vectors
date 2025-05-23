@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hanger--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Hanger Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/hanger--hanger-locker-check-coat-room-cloak-hotel">
+    <path id="Union" fill="url(#paint0_linear_628_19279)" fill-rule="evenodd" d="M12 1c2.4853 0 4.5 2.01472 4.5 4.5v2.30278l-.6679.4453L13.5 9.80278v.32672l9.7442 5.5681.7558.4319V22H0v-5.8705l.755791-.4319L10.5 10.1295V8.19722l.6679-.4453L13.5 6.19722V5.5c0-.82843-.6716-1.5-1.5-1.5s-1.5.67157-1.5 1.5V6h-3v-.5C7.5 3.01472 9.51472 1 12 1Zm9 18v-1.1295l-9-5.1429-9 5.1429V19h18Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19279" x1="3.923" x2="22.007" y1="5.038" y2="16.489" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

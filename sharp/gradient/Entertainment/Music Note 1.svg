@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Music-Note-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Music Note 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/music-note-1--music-audio-note-entertainment">
+    <path id="Union" fill="url(#paint0_linear_628_19859)" fill-rule="evenodd" d="M10.5 0H9v14.416C8.38754 14.1484 7.7111 14 7 14c-2.76142 0-5 2.2386-5 5s2.23858 5 5 5 5-2.2386 5-5V3c3.866 0 7 3.13401 7 7h3c0-5.52285-4.4772-10-10-10h-1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19859" x1="5.269" x2="22.672" y1="4.615" y2="12.65" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Symmetry-Mirror-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Symmetry Mirror 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/symmetry-mirror-1">
+    <path id="Union" fill="url(#paint0_linear_644_12157)" fill-rule="evenodd" d="M11 0h2v4h-2V0ZM6 2C2.68629 2 0 4.68629 0 8c0 1.97212.951244 3.7206 2.41822 4.8138C1.53749 13.7886 1 15.0813 1 16.5 1 19.5376 3.46243 22 6.5 22c.64104 0 1.25853-.1101 1.83325-.3132L9 21.4511V2.76168l-.59963-.26199C7.66403 2.17797 6.85148 2 6 2Zm12 0c-.8515 0-1.664.17797-2.4004.49969L15 2.76168V21.4511l.6668.2357C16.2415 21.8899 16.859 22 17.5 22c3.0376 0 5.5-2.4624 5.5-5.5 0-1.4187-.5375-2.7114-1.4182-3.6862C23.0488 11.7206 24 9.97212 24 8c0-3.31371-2.6863-6-6-6Zm-7 4.6665v4h2v-4h-2Zm0 10.6665v-4h2v4h-2Zm0 2.6668v4h2v-4h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12157" x1="26.08" x2="-6.292" y1="29.083" y2="6.087" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

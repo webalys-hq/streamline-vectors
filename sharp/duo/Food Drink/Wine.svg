@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Wine--Streamline-Sharp">
+  <desc>
+    Wine Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#d7e0ff" d="M4.5 6.5h15v1a7.5 7.5 0 0 1 -15 0v-1Z" stroke-width="1"></path>
+  <path stroke="#4147d5" d="M4.5 2h15v5.5a7.5 7.5 0 0 1 -15 0V2ZM12 15v7m-4 0h8" stroke-width="1"></path>
+  <path stroke="#4147d5" stroke-linejoin="round" d="M4.5 6.5h15" stroke-width="1"></path>
+</svg>

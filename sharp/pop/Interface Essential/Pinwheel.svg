@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pinwheel--Streamline-Sharp">
+  <desc>
+    Pinwheel Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pinwheel--windmill-velocity-weather-wind">
+    <path id="Vector 2203" fill="#7af1ff" d="M1.25 12 12 12l0 -6 -4.75 0c-3.31371 0 -6 2.68629 -6 6Z" stroke-width="1"></path>
+    <path id="Vector 2204" fill="#7af1ff" d="M22.75 12 12 12l0 6 4.75 0c3.3137 0 6 -2.6863 6 -6Z" stroke-width="1"></path>
+    <path id="Vector 2205" fill="#7af1ff" d="M12 22.75 12 12l-6 0 0 4.75c0 3.3137 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="Vector 2206" fill="#7af1ff" d="M12 1.25 12 12l6 0 0 -4.75c0 -3.31371 -2.6863 -6 -6 -6Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M12 0h-1.25v4.75h-3.5C3.24594 4.75 0 7.99594 0 12v1.25h4.75v3.5C4.75 20.7541 7.99594 24 12 24h1.25v-4.75h3.5c4.0041 0 7.25 -3.2459 7.25 -7.25v-1.25l-1.25 0h-3.5v-3.5C19.25 3.24594 16.0041 0 12 0Zm4.75 10.75v-3.5c0 -2.19074 -1.4831 -4.03509 -3.5 -4.58381V10.75h3.5Zm-6 0v-3.5h-3.5c-2.19074 0 -4.03509 1.48308 -4.58381 3.5H10.75Zm0 8.5v-6h-3.5v3.5c0 2.1907 1.48308 4.0351 3.5 4.5838V19.25Zm2.5 -2.5h3.5c2.1907 0 4.0351 -1.4831 4.5838 -3.5H13.25v3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

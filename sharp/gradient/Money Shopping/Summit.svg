@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Summit--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Summit Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="summit--shop-target-flag-summit-mountain-goal">
+    <path id="Union" fill="url(#paint0_linear_630_38345)" fill-rule="evenodd" d="M10.714 1h9v7h-7v2.126l9.7546 11.2178L23.9088 23H.0908203L1.44303 21.3631 10.714 10.1404V1ZM8.54025 15.912l1.17374 1.1738 1.29291-1.2929.7071-.7071.7071.7071 1.2929 1.2929 1.2846-1.2846-3.265-3.7547-3.19335 3.8655Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38345" x1="23.828" x2="-3.257" y1="23.005" y2="6.509" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Phone-Ringing-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Phone Ringing 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/phone-ringing-1--android-phone-mobile-device-smartphone-iphone-ringing-incoming-call">
+    <path id="Union" fill="url(#paint0_linear_628_19146)" fill-rule="evenodd" d="M20.5 12.5c0-4.97056-4.0294-9-9-9v-3c6.6274 0 12 5.37258 12 12h-3Zm-5.5432 0c0-1.9091-1.5477-3.45679-3.4568-3.45679v-3c3.566 0 6.4568 2.89081 6.4568 6.45679h-3Zm-6.17458-.4004-2.18295 1.3029c.53145.7584 1.1362 1.4816 1.8145 2.16.80295.8029 1.66883 1.5028 2.58163 2.1l1.2519-2.0977.3941-.6602.7393.2112 5.6425 1.6122.8196.2341-.1014.8463-.2743 2.2895-.9931-.119.9929.119-.2742 2.2895-.1116.9314-.9366-.0519c-2.7426-.152-5.4587-.9253-7.9187-2.3211-1.38728-.7871-2.69185-1.7715-3.8726-2.9522-1.18074-1.1808-2.16514-2.4853-2.95226-3.8726-1.39581-2.46-2.16911-5.1761-2.32104-7.91869l-.05188-.93662.9314-.11159 2.28945-.27428.11895.9929.0003-.00003-.11894-.99287 2.28945-.27428.84631-.10139.23417.81957 1.61214 5.64248.21123.7393-.66026.3941Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19146" x1="23.424" x2="-3.382" y1="23.323" y2="8.474" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

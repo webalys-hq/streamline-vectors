@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Layers-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Layers 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/layers-1--design-layer-layers-pile-stack-align">
+    <path id="Union" fill="url(#paint0_linear_644_11498)" fill-rule="evenodd" d="M23.0592 6.99943 12 .855469.940918 6.99943 12 13.1434l11.0592-6.14397ZM3.38177 15.6433l-2.440852 1.356L12 23.1433l11.0592-6.144-2.4408-1.3559-8.6183 4.7879-8.61833-4.788Zm-2.440852-3.644 2.440852-1.356 8.61833 4.788 8.6183-4.7879 2.4408 1.3559L12 18.1433.940918 11.9993Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11498" x1="1.791" x2="27.092" y1="2.657" y2="16.808" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

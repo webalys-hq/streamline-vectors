@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bag-Suitcase-Add-Plus--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bag Suitcase Add Plus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-suitcase-add-plus--bag-suitcase-add-plus-business-briefcase">
+    <path id="Subtract" fill="url(#paint0_linear_630_38026)" fill-rule="evenodd" d="M11.7998 1C8.86793 1 6.44418 3.17533 6.05448 6H.999512v17H22.9995V6H17.945c-.3897-2.82467-2.8134-5-5.7452-5h-.4Zm4.1156 5H8.08411c.36738-1.71453 1.8914-3 3.71569-3h.4c1.8242 0 3.3482 1.28547 3.7156 3Zm-4.9155 4v3.5H7.49988v2h3.50002V19h2v-3.5h3.5v-2h-3.5V10h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38026" x1="24.906" x2="-4.769" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

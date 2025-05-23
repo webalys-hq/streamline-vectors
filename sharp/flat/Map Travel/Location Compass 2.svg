@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Location-Compass-2--Streamline-Sharp">
+  <desc>
+    Location Compass 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-compass-2--arrow-compass-location-gps-map-maps-point">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11 -4.925 11 -11S18.075 1 12 1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="m14.83 15.891 -6.72 -6.72 -1.68 8.4 8.401 -1.68Zm1.061 -1.06 1.68 -8.402 -8.402 1.68 6.722 6.722Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

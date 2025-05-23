@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Two-Finger-Tap--Streamline-Sharp">
+  <desc>
+    Two Finger Tap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="two-finger-tap">
+    <path id="Ellipse 595 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10 3a5 5 0 0 0 -5 5H3a7 7 0 0 1 9 -6.71A7 7 0 0 1 21 8h-2a5 5 0 0 0 -6.667 -4.716L12 3.402l-0.333 -0.118A4.99 4.99 0 0 0 10 3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" d="M7.5 14.086V5h1.25a2.5 2.5 0 0 1 2.5 2.5V14h1.5V5H14a2.5 2.5 0 0 1 2.5 2.5v5.667l3.5 2.298L20 23H7l-3.272 -5.142L7.5 14.086Z" stroke-width="1"></path>
+  </g>
+</svg>

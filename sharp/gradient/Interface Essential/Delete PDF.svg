@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Delete-Pdf--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Delete PDF Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/delete-PDF--essential-files-folder-delete-PDF-page">
+    <path id="Union" fill="url(#paint0_linear_644_11114)" fill-rule="evenodd" d="M18.4142 0H4v9.7289c.47352-.14872.9774-.2289 1.5-.2289 2.05032 0 3.8124 1.2341 4.584 3H13v6h-1V24h12V5.58579L18.4142 0ZM5.5 13.5c-.55228 0-1 .4477-1 1h2c0-.5523-.44772-1-1-1Zm4.5 3h1v-2H8.5c0-1.6569-1.34315-3-3-3s-3 1.3431-3 3H0v2h1V24h9v-7.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11114" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

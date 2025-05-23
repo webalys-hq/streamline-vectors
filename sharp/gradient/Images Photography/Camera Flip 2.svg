@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Camera-Flip-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Camera Flip 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-flip-2--camera-flip-rotate-arrow-switch-photo-picture">
+    <path id="Union" fill="url(#paint0_linear_630_37921)" fill-rule="evenodd" d="M2.50818 11.9922c0-5.2424 4.24979-9.4922 9.49222-9.4922 2.9992 0 5.6747 1.3905 7.4154 3.56572l-1.9995 1.99947.919.91906h5.6649V3.31936l-.919-.91906-1.8893 1.88924C18.9933 1.66869 15.6922 0 12.0004 0 5.37726 0 .00817573 5.36909.00817573 11.9922v1.25H2.50818v-1.25Zm21.48432 0v-1.25h-2.5v1.25c0 5.2424-4.2497 9.4922-9.4921 9.4922-3.00259 0-5.68073-1.3936-7.42128-3.5731l2.00581-2.0058-.91906-.919-5.664893438 0v5.6648l.919058438.9191 1.882745-1.8827c2.19867 2.6249 5.50239 4.2967 9.19762 4.2967 6.6231 0 11.9921-5.3691 11.9921-11.9922ZM10.3117 7.25h-.58556l-.14203.5681-.28004 1.12018H7.0293v6.98692h9.9414V8.93828h-2.2748l-.28-1.12018-.142-.5681h-3.9622Zm.4403 3.8398h2.4962v2.4963H10.752v-2.4963Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37921" x1="23.919" x2="-4.493" y1="23.989" y2="7.997" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

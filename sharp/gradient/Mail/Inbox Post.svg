@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Inbox-Post--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Inbox Post Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/inbox-post--mail-flag-new-open-inbox-mailbox-post">
+    <path id="Union" fill="url(#paint0_linear_628_19562)" fill-rule="evenodd" d="M14 0h4v4h5v14h-8v6H9v-6H1v-7c0-3.86599 3.13401-7 7-7h6v5h2V2h-2V0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19562" x1="24.907" x2="-6.448" y1="29.083" y2="8.667" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

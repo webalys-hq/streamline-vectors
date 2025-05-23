@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Phone-Personal-Hotspot--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Phone Personal Hotspot Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/phone-personal-hotspot--phone-personal-hotspot-connection-mobile-signal-device-share">
+    <g id="Union">
+      <path fill="url(#paint0_linear_628_19126)" d="M11.1519 5.36708c0-1.16195.9419-2.1039 2.1039-2.1039h2.4392c1.1619 0 2.1038.94195 2.1038 2.1039s-.9419 2.1039-2.1038 2.1039v2.5c2.5426 0 4.6038-2.06124 4.6038-4.6039S18.2376.763184 15.695.763184h-2.4392c-2.5427 0-4.60395 2.061236-4.60395 4.603896 0 1.11189.39575 2.13466 1.05281 2.93027l1.92764-1.59194c-.3008-.36416-.4804-.8286-.4804-1.33833Z"></path>
+      <path fill="url(#paint1_linear_628_19126)" d="M12 17.4999H8v2.5h4v-2.5Z"></path>
+      <path fill="url(#paint2_linear_628_19126)" d="M16.3048 6.61713c-1.1619 0-2.1039.94194-2.1039 2.10389 0 1.16195.942 2.10388 2.1039 2.10388h2.4392c1.162 0 2.1039-.94193 2.1039-2.10388 0-.45202-.1411-.86735-.3818-1.20913l2.044-1.43942c.5277.74936.8378 1.66461.8378 2.64855 0 2.54268-2.0612 4.60388-4.6039 4.60388h-2.4392c-2.5426 0-4.6039-2.0612-4.6039-4.60388 0-2.54266 2.0613-4.60389 4.6039-4.60389v2.5Z"></path>
+      <path fill="url(#paint3_linear_628_19126)" d="M18 15.3249h-1.6952c-.2724 0-.541-.0165-.8048-.0485v6.2235h-11V4.49988h2.20826c.11852-.9036.41972-1.7497.8653-2.5H2L2 23.9999h16v-8.675Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19126" x1="5.49" x2="23.387" y1="5.232" y2="14.342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_628_19126" x1="5.49" x2="23.387" y1="5.232" y2="14.342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_628_19126" x1="5.49" x2="23.387" y1="5.232" y2="14.342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint3_linear_628_19126" x1="5.49" x2="23.387" y1="5.232" y2="14.342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

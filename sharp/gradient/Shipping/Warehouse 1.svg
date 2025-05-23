@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Warehouse-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Warehouse 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Shipping/warehouse-1--delivery-warehouse-shipping-fulfillment">
+    <path id="Subtract" fill="url(#paint0_linear_628_19972)" fill-rule="evenodd" d="m12 1 11 6.05725V23H1V7.00022L12 1ZM9.25 13.5V8h5.5v5.5h-5.5Zm-3.75 2V21H11v-5.5H5.5ZM13 21v-5.5h5.5V21H13Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19972" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

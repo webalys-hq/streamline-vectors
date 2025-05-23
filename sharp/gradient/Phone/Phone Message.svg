@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Phone-Message--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Phone Message Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/phone-message--android-phone-mobile-device-smartphone-iphone-text-message">
+    <path id="Union" fill="url(#paint0_linear_628_19186)" fill-rule="evenodd" d="M12 0h-1v13.8042l1.53-.9562 3.7568-2.348H24V0H12Zm3.5 21.5v-8.5001H18V24H2V2l1.25 0L9 2v2.5H4.5l0 17h11Zm-3.5-4H8V20h4v-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19186" x1="5.596" x2="24.058" y1="4.615" y2="13.992" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

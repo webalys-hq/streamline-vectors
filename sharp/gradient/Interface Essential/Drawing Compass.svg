@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Drawing-Compass--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Drawing Compass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/drawing-compass">
+    <path id="Union" fill="url(#paint0_linear_644_11184)" fill-rule="evenodd" d="M11 0v2.12602C9.27479 2.57006 8.00002 4.13616 8.00002 6c0 .57619.12183 1.12393.34113 1.61886L5.36488 14H3.00002v2h1.43202l-3.33829 7.1573 1.81254.8454L6.63889 16H11v2h2v-2h4.3611l3.7327 8.0027 1.8125-.8454L19.568 16H21v-2h-2.3648l-2.9763-6.38114C15.8782 7.12393 16 6.57619 16 6c0-1.86384-1.2748-3.42994-3-3.87398V0h-2Zm2 14h3.4283l-2.1861-4.68702C13.6027 9.74665 12.8309 10 12 10s-1.6026-.25335-2.24216-.68702L7.57173 14H11v-2h2v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11184" x1="4.659" x2="23.028" y1="4.616" y2="13.865" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

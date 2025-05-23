@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Party-Popper--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Party Popper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/party-popper--hobby-entertainment-party-popper-confetti-event">
+    <path id="Union" fill="url(#paint0_linear_628_19905)" fill-rule="evenodd" d="M11.9432 1.06487c-.6818 1.29779-.4754 2.9388.614 4.02821L11.143 6.50729C9.41698 4.78123 9.09523 2.18564 10.1726.134766l1.7706.930104ZM8.37236 6.71191C7.22589 4.94177 6.86148 2.80872 7.28344.805998L5.32641.39366c-.52807 2.50632-.07376 5.18051 1.36727 7.40547l1.67868-1.08722ZM2.81848 4.92789H.599914v-2H2.81848v2Zm2.62068 9.92421 5.86294-5.86295V19.4202L5.67838 16.443l-1.19662-.6335.9574-.9574Zm11.85464 7.7402-3.9917-2.1133V6.98916l1.5496-1.54967.9574-.95739.6335 1.19661.8512 1.60772V22.5923Zm2 1.0588.3718.1968.5222-.5222 3.1376-3.1375.5222-.5223-.3456-.6527-4.2082-7.949v12.5869ZM1.05708 11.5814c1.29365-.665 2.91958-.4539 4.00147.628l1.41422-1.4142C4.75856 9.08101 2.18672 8.75195.1427 9.8027l.91438 1.7787Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19905" x1="4.018" x2="23.166" y1="4.695" y2="15.301" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

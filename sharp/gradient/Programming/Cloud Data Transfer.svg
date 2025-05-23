@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cloud-Data-Transfer--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cloud Data Transfer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/cloud-data-transfer--cloud-data-transfer-internet-server-network">
+    <path id="Union" fill="url(#paint0_linear_628_18702)" fill-rule="evenodd" d="M12 1C9.15225 1 6.70378 2.70001 5.61014 5.13815 2.40958 5.78324 0 8.60961 0 12c0 3.171 2.1085 5.8496 4.99998 6.7101v-4.4528L8.25732 11H17.5v6H19l0 1.917c2.8377-.476 5-2.944 5-5.917 0-2.9942-2.1932-5.47615-5.0608-5.92692C18.4857 3.64523 15.5518 1 12 1Zm1 22h1.9142L17 20.9142 17 19h-1.5v-6H13v10Zm-4.5 0H11V13H9.08576l-2.08577 2.0858V17H8.5v6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18702" x1="3.923" x2="22.479" y1="5.231" y2="16.447" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

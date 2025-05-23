@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Division-Circle--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Division Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/division-circle--interface-math-divided-by-sign-mathematics">
+    <path id="Subtract" fill="url(#paint0_linear_644_11140)" fill-rule="evenodd" d="M3.51472 3.51472C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-3.1826 0-6.23484-1.2643-8.48528-3.5147C1.26428 18.2348 0 15.1826 0 12c0-3.1826 1.26428-6.23484 3.51472-8.48528ZM13.25 8.75v-2.5h-2.5v2.5h2.5Zm0 9v-2.5h-2.5v2.5h2.5ZM18 13.5H6v-3h12v3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11140" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

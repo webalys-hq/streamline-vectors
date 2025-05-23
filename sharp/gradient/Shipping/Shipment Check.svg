@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shipment-Check--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shipment Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Shipping/shipment-check--shipping-parcel-shipment-check-approved">
+    <path id="Subtract" fill="url(#paint0_linear_628_20005)" fill-rule="evenodd" d="m1 5.53613 3.5-4.5H11v4.5H1Zm12 0h10l-3.5-4.5H13v4.5ZM1 23.0361V7.53613l22 .001 0 15.49897H1Zm9.685-2.3534 7.047-8.8086L15.3894 10l-4.9531 6.1913-2.31498-2.3149L6 15.9977l4.685 4.685Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20005" x1="24.907" x2="-4.768" y1="27.696" y2="6.617" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

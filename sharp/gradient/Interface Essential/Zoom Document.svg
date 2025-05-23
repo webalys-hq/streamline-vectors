@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Zoom-Document--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Zoom Document Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/zoom-document--zoom-magnifier-square-area">
+    <path id="Union" fill="url(#paint0_linear_644_12509)" fill-rule="evenodd" d="M1 1h14v5.00914C14.8674 6.00307 14.7341 6 14.6 6 9.85036 6 6 9.85034 6 14.6c0 .1341.00307.2674.00914.4H1V1Zm9.675 16H17v-6.3251c1.3196.8087 2.2 2.2641 2.2 3.9251 0 2.5405-2.0595 4.6-4.6 4.6-1.661 0-3.1164-.8804-3.925-2.2ZM8 14.6C8 10.9549 10.9549 8 14.6 8s6.6 2.9549 6.6 6.6c0 1.4617-.4752 2.8124-1.2795 3.9061l3.7866 3.7866-1.4142 1.4142-3.7865-3.7866C17.4126 20.7247 16.0618 21.2 14.6 21.2c-3.6451 0-6.6-2.9549-6.6-6.6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12509" x1="1.873" x2="27.753" y1="2.835" y2="17.422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

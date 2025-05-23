@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Snooze--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Snooze Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/snooze--nap-sleep-rest-break-clock-bed-time-moon">
+    <path id="Union" fill="url(#paint0_linear_644_12057)" fill-rule="evenodd" d="M20.4853 3.51472C18.2348 1.26428 15.1826 0 12 0 8.8174 0 5.76516 1.26428 3.51472 3.51472 1.26428 5.76516 0 8.8174 0 12s1.26428 6.2348 3.51472 8.4853C5.76516 22.7357 8.8174 24 12 24s6.2348-1.2643 8.4853-3.5147c.1583-.1583.3117-.3206.4601-.4866L19.8 18.4156c-.8749.3818-1.8269.5844-2.7999.5844-1.8566 0-3.637-.7375-4.9498-2.0503-1.3127-1.3127-2.0502-3.0932-2.0502-4.9497s.7375-3.63699 2.0502-4.94975C13.3631 5.7375 15.1435 5 17.0001 5c.973 0 1.925.20255 2.7999.58437l1.1454-1.58311c-.1484-.166-.3018-.32826-.4601-.48654ZM17 10h3.2723l-3.0662 4.003-.2061.2691V16h6v-2h-3.2723l3.0662-4.00303L23 9.72786V8h-6v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12057" x1="22.922" x2="-4.86" y1="24.005" y2="9.028" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

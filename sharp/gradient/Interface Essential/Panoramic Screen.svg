@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Panoramic-Screen--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Panoramic Screen Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/panoramic-screen">
+    <path id="Subtract" fill="url(#paint0_linear_644_11698)" fill-rule="evenodd" d="m0 1.52344 1.37139.54855c1.71958.68784 3.48918 1.1747 5.2956 1.48717V20.4418c-1.80642.3125-3.57602.7993-5.2956 1.4871L0 22.4775V1.52344ZM8.66699 20.1672c1.10042-.1131 2.21241-.1667 3.33301-.1667 1.121 0 2.2333.0537 3.334.1668V3.83362c-1.1007.11316-2.213.16685-3.334.16685-1.1206 0-2.23259-.05366-3.33301-.16675V20.1672ZM17.334 3.55899V20.442c1.8061.3124 3.5753.7992 5.2946 1.4869L24 22.4775V1.52344l-1.3714.54856c-1.7193.6877-3.4885 1.17451-5.2946 1.48699Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11698" x1="23.919" x2="-2.521" y1="22.482" y2="5.447" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

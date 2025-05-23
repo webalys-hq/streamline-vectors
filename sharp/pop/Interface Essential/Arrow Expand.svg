@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Expand--Streamline-Sharp">
+  <desc>
+    Arrow Expand Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="line-arrow-expand--expand-small-bigger-retract-smaller-big">
+    <path id="Ellipse 457" fill="#7af1ff" d="M12 24C5.37258 24 0 18.6274 0 12 0 5.37258 5.37258 0 12 0c6.6274 0 12 5.37258 12 12 0 6.6274 -5.3726 12 -12 12Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="m14 23.25 8 0 1.25 0 0 -1.25 0 -8 -2.5 0 0 4.9822 -5.8661 -5.8661 -1.7678 1.7678 5.8661 5.8661 -4.9822 0 0 2.5Zm-8.98223 -20 5.86613 5.86612 -1.76778 1.76778L3.25 5.01777 3.25 10 0.750001 10l0.000001 -8 0 -1.25L2 0.75l8 0.000001L10 3.25l-4.98223 0ZM14 0.749999 22 0.75l1.25 0 0 1.25 0 8 -2.5 0 0 -4.98223 -5.8661 5.86613 -1.7678 -1.76778L18.9822 3.25 14 3.25l0 -2.500001ZM10 23.25l-8 0 -1.249998 0 0 -1.25 -0.000001 -8L3.25 14l0 4.9822 5.86612 -5.8661 1.76778 1.7678L5.01777 20.75 10 20.75l0 2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

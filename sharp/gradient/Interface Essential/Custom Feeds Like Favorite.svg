@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Custom-Feeds-Like-Favorite--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Custom Feeds Like Favorite Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/custom-feeds-like-favorite">
+    <path id="Subtract" fill="url(#paint0_linear_644_11043)" fill-rule="evenodd" d="M5 3h16v16h2V1H5v2ZM1 5h18v18H1V5Zm9 6.4686-.61047-.6187c-.48222-.4887-1.13625-.7632-1.81822-.7632C6.15122 10.0867 5 11.2534 5 12.6925c0 .6911.2709 1.3539.75312 1.8426L10 18.8391l4.2469-4.304c.4822-.4887.7531-1.1515.7532-1.8426 0-1.4391-1.1512-2.6058-2.5713-2.6058-.682 0-1.336.2745-1.8182.7632L10 11.4686Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11043" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

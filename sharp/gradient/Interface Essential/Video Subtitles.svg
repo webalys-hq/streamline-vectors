@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Video-Subtitles--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Video Subtitles Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/video-subtitles">
+    <path id="Subtract" fill="url(#paint0_linear_644_12429)" fill-rule="evenodd" d="M23 21H6.26503l-5.26498 3.001L1 1h22l0 20Zm-8.9999-8H5v-2h9.0001v2ZM16 11h3v2h-3v-2ZM5 17h3v-2H5v2Zm14 0h-9v-2h9v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12429" x1="4.596" x2="22.728" y1="5.423" y2="15.032" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

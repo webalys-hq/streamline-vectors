@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Graph-Dot--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Graph Dot Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="graph-dot--product-data-bars-analysis-analytics-graph-business-chart-dot">
+    <path id="Union" fill="url(#paint0_linear_630_38172)" fill-rule="evenodd" d="M1 1.99976V22.9998h21v-2H3v-4.6636l3.24139-3.4615c.49807.3214 1.09135.5079 1.72818.5079.78426 0 1.50246-.2829 2.05813-.7521l1.8567 1.7316c-.1537.3739-.2384.7833-.2384 1.2125 0 1.7628 1.429 3.1918 3.1917 3.1918 1.7628 0 3.1918-1.429 3.1918-3.1918 0-.907-.3783-1.7256-.9858-2.3067l1.5966-4.38541c1.7348-.03232 3.1311-1.44868 3.1311-3.19118 0-1.76275-1.429-3.19174-3.1917-3.19174-1.7628 0-3.1918 1.42899-3.1918 3.19174 0 1.0721.5286 2.02074 1.3394 2.59953l-1.4985 4.11576c-.1281-.0157-.2587-.0237-.3911-.0237-.6041 0-1.169.1678-1.6506.4594l-2.101-1.9596c.0493-.2228.0752-.4543.0752-.6919 0-1.76273-1.42897-3.19172-3.19172-3.19172-1.76276 0-3.19175 1.42899-3.19175 3.19172 0 .3901.06997.7638.19804 1.1093L3 13.4101V1.99976H1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38172" x1="23.82" x2="-4.506" y1="27.448" y2="7.327" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

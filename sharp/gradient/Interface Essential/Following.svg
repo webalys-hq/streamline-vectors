@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Following--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Following Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/following">
+    <path id="Union" fill="url(#paint0_linear_644_11284)" fill-rule="evenodd" d="M9.00002 0C6.23906 0 4.00085 2.2382 4.00085 4.99916s2.23821 4.99917 4.99917 4.99917c2.76098 0 4.99918-2.23821 4.99918-4.99917C13.9992 2.2382 11.761 0 9.00002 0Zm2.50008 15.4998v4.4985H0v-5.6725l.349209-.2993L1 14.7857c-.650791-.7592-.650414-.7596-.650027-.7599l.000827-.0007.001842-.0016.00444-.0037.011898-.01c.009274-.0077.021233-.0175.035879-.0293.029289-.0235.069334-.0549.120141-.093.1016-.0762.246336-.1793.434243-.3001.375777-.2416.924707-.5542 1.646837-.8637C4.05285 12.1037 6.18639 11.5 9 11.5c2.8136 0 4.9472.6037 6.3939 1.2237.2177.0933.4196.1869.6059.2787l0 2.4974h-4.4997ZM23.9998 19l-4.9999 4.9998h-1.0001l0-3.5H13.5v-3h4.4998L17.9997 14l1.0001.0002 5 4.9998Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11284" x1=".922" x2="28.276" y1="1.939" y2="17.356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

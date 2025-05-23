@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pet-Friendly-Hotel--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Pet Friendly Hotel Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/pet-friendly-hotel--pet-friendly-hotel-animals-canine-feline-cat-dog">
+    <path id="Subtract" fill="url(#paint0_linear_628_19392)" fill-rule="evenodd" d="M12 .00488281 23 9.90488V23.0002H1V9.90488L12 .00488281ZM10.0004 10.2525c.7597-.0004 1.3755-.61636 1.3755-1.37615 0-.76-.6161-1.37611-1.37615-1.37611-.75972.00034-1.37548.61633-1.37548 1.37613 0 .76.6161 1.37613 1.37613 1.37613Zm-1.25248 1.622c0 .7587-.61498 1.3739-1.37371 1.3742C6.61526 13.2487 6 12.6334 6 11.8745c0-.7588.61498-1.374 1.37371-1.3743.75896 0 1.37421.6153 1.37421 1.3743ZM12 11.0003l4 4c0 2.2091-1.7909 4-4 4-2.20914 0-4-1.7909-4-4l4-4Zm3.3759-2.12395c0 .75979-.6158 1.37575-1.3755 1.37615-.76 0-1.3761-.61613-1.3761-1.37613 0-.7598.6157-1.37579 1.3754-1.37613.7601 0 1.3762.61611 1.3762 1.37611Zm1.2478 1.62385c-.7587.0003-1.3737.6155-1.3737 1.3743 0 .7587.615 1.3739 1.3737 1.3742.7587-.0003 1.3742-.6155 1.3742-1.3742 0-.7588-.6155-1.374-1.3742-1.3743Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19392" x1="22.926" x2="-3.669" y1="23.005" y2="8.693" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

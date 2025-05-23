@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Apple--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Apple Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/apple--fruit-sweet-apple-plant">
+    <path id="Union" fill="url(#paint0_linear_628_19683)" fill-rule="evenodd" d="M14.7071 1.70718 13 3.41429v1.2597c.9094-.43197 1.9269-.67391 3-.67391 3.866 0 7 3.134 7 7.00002 0 1.5015-.4445 2.9694-1.2773 4.2188l-5.3803 8.0704L12 21.1181l-4.34237 2.1712-5.38028-8.0704C1.44445 13.9695 1 12.5016 1 11.0001c0-3.86602 3.13401-7.00002 7-7.00002 1.07311 0 2.0906.24194 3 .67391V2.58586l.2929-.29289 2-2.000001 1.4142 1.414211Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19683" x1="22.926" x2="-3.669" y1="23.294" y2="8.982" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

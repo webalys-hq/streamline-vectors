@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Align-Object-Bottom--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Align Object Bottom Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/align-object-bottom">
+    <path id="Subtract" fill="url(#paint0_linear_644_10817)" fill-rule="evenodd" d="M1 1h22v22H1V1Zm17 13H6v4h12v-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10817" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

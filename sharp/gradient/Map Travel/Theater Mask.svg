@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Theater-Mask--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Theater Mask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/theater-mask--hobby-theater-masks-drama-event-show-entertainment-travel-places">
+    <path id="Union" fill="url(#paint0_linear_628_19458)" fill-rule="evenodd" d="M17 1H1v6.71989c0 2.87351 1.15097 5.53661 3.07073 7.48271-.1601-1.4956-.05162-3.0369.35341-4.5536l2.2236-8.32637L17 5.10581V1Zm6.2238 7.85007L8.06314 4.77417 6.35643 11.165c-1.20569 4.5148.71699 9.2864 4.71557 11.6918l.2455.1477.2865-.0047c4.6637-.0772 8.7081-3.2468 9.9139-7.7621l1.7059-6.38763ZM10.5393 12.8029c.0678-.2539.3253-.3996.5715-.3334.2475.0665.3992.3244.3311.5795l1.9323.516c.3514-1.3157-.426-2.6725-1.7442-3.0269-1.3194-.3547-2.67123.4318-3.02294 1.7488l1.93224.516Zm5.6005 1.6502c.0678-.2539.3252-.3996.5714-.3334.2475.0665.3993.3244.3312.5795l1.9322.516c.3514-1.3157-.4259-2.6725-1.7441-3.0269-1.3194-.3547-2.6713.4318-3.023 1.7488l1.9323.516Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19458" x1="1.854" x2="27.061" y1="2.778" y2="17.127" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

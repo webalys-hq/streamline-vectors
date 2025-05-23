@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="User-Identifier-Card--Streamline-Sharp-Gradient-Free">
+  <desc>
+    User Identifier Card Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/user-identifier-card">
+    <path id="Subtract" fill="url(#paint0_linear_644_12341)" fill-rule="evenodd" d="M24 3 14 3V1h-4v2L0 3v18l24 0V3Zm-9 6h5V7h-5v2Zm5 4h-5v-2h5v2Zm-9 2.6531V19l-9 0v-3.3469C3.42664 15.228 4.93739 15 6.5 15c1.56261 0 3.07336.228 4.5.6531ZM3.99899 10.501c0 1.3813 1.11974 2.501 2.501 2.501s2.50099-1.1197 2.50099-2.501C9.00098 9.11973 7.88125 8 6.49999 8s-2.501 1.11973-2.501 2.501Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12341" x1="26.08" x2="-2.13" y1="25.236" y2="1.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Flow-Rows--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Text Flow Rows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/text-flow-rows">
+    <path id="Union" fill="url(#paint0_linear_644_12194)" fill-rule="evenodd" d="M9 1H1v8h8V6h6v1.58579L7.58579 15H1v8h8v-3h9v3h1.4999L23.5 18.9999 19.4999 15H18v3H9v-1.5858L16.4142 9H23V1h-8v3H9V1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12194" x1="1.865" x2="27.227" y1="2.778" y2="17.398" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

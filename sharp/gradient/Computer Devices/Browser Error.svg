@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Browser-Error--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Browser Error Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/browser-error--wireless-wifi-internet-server-network-browser-issue-connection">
+    <path id="Union" fill="url(#paint0_linear_628_18825)" fill-rule="evenodd" d="M0 2v20h12.8795l-1.562-2H2V6h20v5.4897c.6875.2792 1.3569.6177 2 1.0154V2H0Zm13.9365 15.0665v2.248c-.1347.0842-.2667.1747-.3955.2713l-1.2001-1.6c.501-.3757 1.0372-.6821 1.5956-.9193Zm6-4.0665v-.0493c1.4395.3892 2.8185 1.0642 4.0469 2.0253l-1.2325 1.5751c-.8627-.6751-1.816-1.1792-2.8144-1.5123V13Zm0 6.3117v-2.2471c.56.2374 1.0978.5445 1.6001.9212l-1.2001 1.6c-.1302-.0977-.2637-.189-.4-.2741Zm-6-6.3117v-.0481c-1.4379.3894-2.8154 1.0639-4.04246 2.0241l1.23246 1.5751c.8615-.6741 1.8133-1.1778 2.81-1.5108V13Zm4 6.5V13h-2v6.5h2Zm.002 3.5h-2v-2h2v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18825" x1=".922" x2="26.396" y1="3.697" y2="20.106" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

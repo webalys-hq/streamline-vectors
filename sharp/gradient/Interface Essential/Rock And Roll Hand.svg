@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Rock-And-Roll-Hand--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Rock And Roll Hand Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/rock-and-roll-hand">
+    <path id="Subtract" fill="url(#paint0_linear_644_11881)" fill-rule="evenodd" d="M12.5 3c0-1.65685 1.3431-3 3-3H17v10h-4.5V3Zm-1.4994 7H7.5V2H6C4.34315 2 3 3.34315 3 5v19.0001h9c4.9706 0 9-4.0295 9-9V12h-7.9993l0 1.0001c.0001 1.6537 1.3385 2.995 2.9913 2.9999h1.0084v2H15c-1.1046 0-2 .8954-2 2v1h-2v-1c0-1.3451.6639-2.5352 1.682-3.2603-1.0313-.9158-1.6812-2.2517-1.6813-3.7395L11.0006 11l0-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11881" x1="3.692" x2="26.626" y1="1.939" y2="11.634" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

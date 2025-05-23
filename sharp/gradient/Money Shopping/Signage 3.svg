@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Signage-3--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Signage 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="signage-3--street-sandwich-shops-shop-stores-board-sign-store">
+    <path id="Union" fill="url(#paint0_linear_630_38292)" fill-rule="evenodd" d="M17.5117.989258h-3.4263V1H5.71924l-.18937.75746L.529872 21.7575.219238 23H13.8198l.1608-.8039 3.0259-15.1293 2.1517 9.5406h-1.6465v3h2.3231L20.6 23h3.0754L18.975 2.15924 18.7111.989258h-1.1994Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38292" x1="25.708" x2="-4.554" y1="27.662" y2="4.754" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

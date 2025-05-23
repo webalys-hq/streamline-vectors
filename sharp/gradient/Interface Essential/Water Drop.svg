@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Water-Drop--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Water Drop Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/water-drop--drops-rain-rainy-meteorology-water-precipitation-weather">
+    <path id="Subtract" fill="url(#paint0_linear_644_12478)" fill-rule="evenodd" d="M12.6.450001 12 1.25l-.6-.799999L12 0l.6.450001Zm-1.2004.000327C11.3998.450152 11.4.450001 12 1.25c.6-.799999.6002-.799848.6004-.799672l.0007.000483.0019.00143.0062.004706.0221.016727c.0189.014372.0461.035155.081.062119.0698.053921.1706.132596.298.23419.2546.203119.616.498247 1.0485.870687.8635.74363 2.0181 1.80164 3.176 3.05606 1.155 1.2512 2.3331 2.71904 3.2272 4.2837C21.3513 10.5368 22 12.259 22 14c0 5.5229-4.4772 10-10 10-5.52285 0-10-4.4771-10-10 0-1.741.64865-3.4632 1.53801-5.01957.89409-1.56466 2.07223-3.0325 3.22719-4.2837C7.92312 3.44231 9.07766 2.3843 9.94123 1.64067c.43247-.37244.79387-.667568 1.04847-.870687.1274-.101594.2282-.180269.298-.23419.0349-.026964.0621-.047747.081-.062119l.0221-.016727.0062-.004706.0019-.00143.0007-.000483ZM12 18c-2.20914 0-4-1.7909-4-4H6c0 3.3137 2.68629 6 6 6v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12478" x1="21.932" x2="-3.63" y1="24.005" y2="12.022" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

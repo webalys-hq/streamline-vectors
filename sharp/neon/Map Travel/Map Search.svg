@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Map-Search--Streamline-Sharp-Neon">
+  <desc>
+    Map Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="map-search--map-search-magnifier-navigation-gps-travel">
+    <path id="Vector" stroke="#000cfe" d="M21 17c0 2.2091 -1.7909 4 -4 4 -2.2091 0 -4 -1.7909 -4 -4 0 -2.2091 1.7909 -4 4 -4 2.2091 0 4 1.7909 4 4Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="m23 22.9997 -3.1716 -3.1716" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" d="M22 10.0001V2.00009l-6.6667 1.5 -6.66664 -1.5L2 3.53855V22.0001L8.66666 20.5v-2.4999" stroke-width="1"></path>
+    <path id="Union_2" stroke="#c71dff" d="M8.66666 18V2" stroke-width="1"></path>
+    <path id="Union_3" stroke="#c71dff" d="M15.3333 3.5V10" stroke-width="1"></path>
+  </g>
+</svg>

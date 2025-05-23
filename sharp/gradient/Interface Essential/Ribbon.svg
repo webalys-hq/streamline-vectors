@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Ribbon--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Ribbon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/ribbon--ribbon-reward-like-social-rating-media">
+    <path id="Union" fill="url(#paint0_linear_644_11871)" fill-rule="evenodd" d="M8.69471 0H.000976562L4.50397 12.0177c1.56008-2.34259 4.18901-3.91231 7.19023-4.01259L8.69471 0ZM23.9994 0l-4.5029 12.0176c-1.5601-2.34254-4.1891-3.91223-7.1903-4.0125L15.3057 0h8.6937ZM12.0002 10c-3.86595 0-6.99996 3.134-6.99996 7s3.13401 7 6.99996 7c3.866 0 7-3.134 7-7s-3.134-7-7-7ZM10.5 15.5h3.0004v3.0004H10.5V15.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11871" x1="26.079" x2="-6.293" y1="29.083" y2="6.09" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

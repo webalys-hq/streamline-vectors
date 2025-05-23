@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" id="Archive-Box--Streamline-Sharp">
+  <desc>
+    Archive Box Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="archive-box--box-content-banker-archive-file">
+    <path id="Rectangle 37" fill="#d7e0ff" d="M22 3h5v20h-5z" transform="rotate(90 22 3)"></path>
+    <path id="Rectangle 38" fill="#d7e0ff" d="M21 8h13v18H21z" transform="rotate(90 21 8)"></path>
+    <path id="Rectangle 39" stroke="#4147d5" d="m22 3 0 5L2 8l0-5z"></path>
+    <path id="Rectangle 40" stroke="#4147d5" d="m21 8 0 13-18 0L3 8z"></path>
+    <path id="Vector 196" stroke="#4147d5" d="m15 12-6 0"></path>
+  </g>
+</svg>

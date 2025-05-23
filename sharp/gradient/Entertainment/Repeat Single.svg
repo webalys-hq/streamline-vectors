@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Repeat-Single--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Repeat Single Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/repeat-single--repeat-single-track-media-playlist-music-video-entertainment-arrow-one">
+    <path id="Union" fill="url(#paint0_linear_628_19849)" fill-rule="evenodd" d="M20 1.73926V.739258h-2V1.73926c0 .44187-.3582.80007-.8001.80007H16.6v2h.5999c.278 0 .5466-.04052.8001-.11597v3.51646h-1.4v2h4.8v-2H20V1.73926ZM10 4.93958l4 4-4 4.00002H9V10.25H2.5v9.25H0V7.75h9V4.93958h1ZM13 15l-4 4 4 4h1v-2.75h10V12.5h-2.5v5.25H14V15h-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19849" x1="23.919" x2="-3.435" y1="23.005" y2="6.415" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

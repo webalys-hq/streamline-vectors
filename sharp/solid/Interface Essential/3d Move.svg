@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="3d-Move--Streamline-Sharp">
+  <desc>
+    3d Move Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="3d-move">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M11 2 9.1875 3.8125V4.75L11 4.75v2.6543H7.40381V11H4.75l0 -1.8125 -0.9375 0L2 11l-1 1 1 1 1.8125 1.8125H4.75L4.75 13h2.65381v3.5966H11V19.25H9.1875v0.9375L11 22l1 1 1 -1 1.8125 -1.8125V19.25H13v-2.6534h3.5961V13H19.25v1.8125h0.9375L22 13l1 -1 -1 -1 -1.8125 -1.8125H19.25V11h-2.6539V7.4043H13V4.75l1.8125 0v-0.9375L13 2l-1 -1 -1 1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

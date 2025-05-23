@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Drone--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Drone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/drone--artificial-robotics-intelligence-machine-technology-android-flying">
+    <path id="Subtract" fill="url(#paint0_linear_628_18909)" fill-rule="evenodd" d="M1 3h3.5v3H1v6h22V6h-3.5V3H23V1h-9v2h3.5v3h-11V3H10V1H1v2Zm17.7101 11H5.28988c.05977.2008.12831.3979.20518.5907l-3.20217 3.2022L2 18.0858V23h2v-4.0858l2.53704-2.537C7.81994 17.9762 9.79041 19 12 19c2.2096 0 4.1801-1.0238 5.463-2.6228L20 18.9142V23h2v-4.9142l-.2929-.2929-3.2022-3.2022c.0769-.1928.1455-.3899.2052-.5907Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18909" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

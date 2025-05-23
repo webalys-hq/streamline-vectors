@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Safe-Vault--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Safe Vault Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="safe-vault--saving-combo-payment-safe-combination-finance">
+    <path id="Subtract" fill="url(#paint0_linear_630_38242)" fill-rule="evenodd" d="M1 2h22v18h-2v3h-3v-3H6v3H3v-3H1V2Zm3 6v6h2V8H4Zm11 1c-1.1046 0-2 .89543-2 2 0 1.1046.8954 2 2 2s2-.8954 2-2c0-1.10457-.8954-2-2-2Zm1-1.87398V6h-2v1.12602c-.715.18401-1.3526.56073-1.8541 1.07148l-.9761-.56353-1 1.73205.9752.56301C11.0505 10.2699 11 10.6291 11 11s.0505.7301.145 1.071l-.9752.563 1 1.732.9761-.5635c.5015.5107 1.1391.8875 1.8541 1.0715V16h2v-1.126c.7149-.184 1.3525-.5607 1.8541-1.0715l.976.5635 1-1.732-.9751-.563c.0945-.3409.145-.7.145-1.071s-.0505-.7301-.145-1.07101l.9751-.56296-1-1.73206-.976.56349c-.5016-.51073-1.1392-.88743-1.8541-1.07144Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38242" x1="4.596" x2="21.967" y1="6.038" y2="16.121" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

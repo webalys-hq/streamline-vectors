@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Laptop-Camera--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Laptop Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="laptop-camera--photos-photo-picture-photography-camera-pictures-laptop-computer">
+    <path id="Subtract" fill="url(#paint0_linear_630_37966)" fill-rule="evenodd" d="M15 0h-.7808l-.1893.757464L13.7192 2H11v9h13V2h-2.7192L20.9701.757464 20.7808 0H15ZM3.50001 3h-1v11.8769L.529872 22.7575.219238 24H22.7808l-.3106-1.2425-2-8L20.2808 14H4.50001V5h4.50001V3H3.50001ZM9 21h4.5v-2H9v2Zm8.252-16h-1v2.49628h2.4962V5H17.252Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37966" x1="1.133" x2="28.356" y1="1.939" y2="17.143" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

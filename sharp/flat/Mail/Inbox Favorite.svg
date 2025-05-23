@@ -1,0 +1,10 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="Inbox-Favorite--Streamline-Sharp">
+  <desc>
+    Inbox Favorite Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="inbox-favorite--mail-envelope-email-message-star-favorite-important-bookmark">
+    <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M20 1H1v14.5h7.82l-0.827 -0.927 5.945 -1.287L17 8.03l3 5.15V1Z" fill="#8fbffa" stroke-width="1"></path>
+    <path id="Intersect" fill-rule="evenodd" clip-rule="evenodd" d="M1 4.13V2.42l9.5 5.225L20 2.419v1.712l-9.139 5.026 -0.361 0.199 -0.361 -0.199L1 4.131Z" fill="#2859c5" stroke-width="1"></path>
+    <path id="Union" d="m17 11.01 -2.098 3.602 -4.075 0.882 2.778 3.109 -0.42 4.148L17 21.07l3.815 1.68 -0.42 -4.147 2.777 -3.109 -4.074 -0.882L17 11.01Z" fill="#2859c5" stroke-width="1"></path>
+  </g>
+</svg>

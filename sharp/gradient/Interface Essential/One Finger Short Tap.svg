@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="One-Finger-Short-Tap--Streamline-Sharp-Gradient-Free">
+  <desc>
+    One Finger Short Tap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/one-finger-short-tap">
+    <path id="Union" fill="url(#paint0_linear_644_11648)" fill-rule="evenodd" d="M13 1v2h-2V1h2ZM7 7H5v2h2V7Zm12 0h-2v2h2V7ZM9.17112 3.7574 7.75691 2.34319 6.3427 3.7574l1.41421 1.41421L9.17112 3.7574Zm5.65688 0 1.4143-1.41421 1.4142 1.41421-1.4142 1.41421L14.828 3.7574ZM10 5h1c1.6569 0 3 1.34315 3 3v4.3406l6.9999 3v8.6595H8.58579L3 18.4143v-.4142c0-1.1656 1.11562-2.0071 2.23634-1.6869L10 17.6743V5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11648" x1="20.939" x2="-2.566" y1="24.005" y2="13.657" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

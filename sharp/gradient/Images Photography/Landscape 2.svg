@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Landscape-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Landscape 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="landscape-2--photos-photo-landscape-picture-photography-camera-pictures-image">
+    <path id="Union" fill="url(#paint0_linear_630_37952)" fill-rule="evenodd" d="M1 1h22v22H1V1Zm2 18v2h18v-2H3Zm18-2v-5.0023l-4.2726-4.27253-.7071-.7071-.7071.7071L6.03839 17H21ZM5 7.5C5 6.11929 6.11929 5 7.5 5S10 6.11929 10 7.5 8.88071 10 7.5 10 5 8.88071 5 7.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37952" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

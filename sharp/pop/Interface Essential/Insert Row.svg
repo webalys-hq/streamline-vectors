@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Insert-Row--Streamline-Sharp">
+  <desc>
+    Insert Row Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="insert-row">
+    <path id="Rectangle 20" fill="#7af1ff" d="m8.375 9 14 0 0 -7 -14 0 0 7Z" stroke-width="1"></path>
+    <path id="Rectangle 2073" fill="#7af1ff" d="M8.375 22h14v-7h-14v7Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M9.625 3.25v4.5l11.5 0v-4.5l-11.5 0ZM8.375 0.75h15.25v9.5H8.375l-1.25 0V9l0 -7V0.75h1.25Zm15.25 13v9.5h-16.5V22l0 -7v-1.25h1.25l14 0h1.25Zm-14 2.5v4.5h11.5v-4.5l-11.5 0ZM6.37501 12 1.875 7.5h-1.5v9h1.5L6.37501 12Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

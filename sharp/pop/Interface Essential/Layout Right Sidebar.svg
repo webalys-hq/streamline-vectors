@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Layout-Right-Sidebar--Streamline-Sharp">
+  <desc>
+    Layout Right Sidebar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layout-right-sidebar">
+    <path id="Rectangle 19" fill="#fddc5c" d="M2 2h20v20H2V2Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M22 0.75h1.25v22.5H0.75V0.75H22Zm-9 2.5v17.5H3.25V3.25H13Zm6.5 1.5H17v2.5h2.5v-2.5ZM17 9.25h2.5v2.5H17v-2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

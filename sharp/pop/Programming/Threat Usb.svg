@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Threat-Usb--Streamline-Sharp">
+  <desc>
+    Threat Usb Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="threat-usb--bug-usb-file-threat-danger">
+    <path id="Subtract" fill="#79ee8d" fill-rule="evenodd" d="M2.125 7h14v2.5582c-4.2232 0.4949 -7.5 4.0857 -7.5 8.4418 0 1.7594 0.53452 3.3939 1.45 4.75h-2.95c-2.76142 0 -5 -2.2386 -5 -5V7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M4.125 0h-1v5.75H0.875v12c0 3.4518 2.79822 6.25 6.25 6.25h3.9792c-0.7158 -0.7183 -1.30397 -1.5639 -1.72746 -2.5H7.125c-2.07107 0 -3.75 -1.6789 -3.75 -3.75v-9.5h11.5v1.55098c0.7166 -0.19621 1.4711 -0.30098 2.25 -0.30098 0.0836 0 0.167 0.00121 0.25 0.00361V5.75h-2.25V0h-11Zm13 12c-3.3137 0 -6 2.6863 -6 6s2.6863 6 6 6 6 -2.6863 6 -6 -2.6863 -6 -6 -6Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#79ee8d" fill-rule="evenodd" d="M10.125 4V0h-2v4h2Zm5.75 13.9998V14h2.5v3.9998h-2.5Zm0 4.0001V19.5h2.5v2.4999h-2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

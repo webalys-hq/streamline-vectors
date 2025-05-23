@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pinwheel--Streamline-Sharp">
+  <desc>
+    Pinwheel Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pinwheel--windmill-velocity-weather-wind">
+    <path id="Vector 2196" fill="#ffffff" d="M12 2v10h6V8c0 -3.31371 -2.6863 -6 -6 -6Z" stroke-width="1"></path>
+    <path id="Vector 2197" fill="#d7e0ff" d="M22 12H12v6h4c3.3137 0 6 -2.6863 6 -6Z" stroke-width="1"></path>
+    <path id="Vector 2198" fill="#ffffff" d="M12 22V12H6v4c0 3.3137 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="Vector 2202" stroke="#4147d5" d="M12 2v10h6V8c0 -3.31371 -2.6863 -6 -6 -6Z" stroke-width="1"></path>
+    <path id="Vector 2203" stroke="#4147d5" d="M12 22V12H6v4c0 3.3137 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="Vector 2199" fill="#d7e0ff" d="M2 12h10V6H8c-3.31371 0 -6 2.68629 -6 6Z" stroke-width="1"></path>
+    <path id="Vector 2200" stroke="#4147d5" d="M22 12H12v6h4c3.3137 0 6 -2.6863 6 -6Z" stroke-width="1"></path>
+    <path id="Vector 2201" stroke="#4147d5" d="M2 12h10V6H8c-3.31371 0 -6 2.68629 -6 6Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Location-Pin-Store--Streamline-Sharp">
+  <desc>
+    Location Pin Store Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin-store">
+    <path id="Union" fill="#8fbffa" d="M11.55 22.6 12 22l-0.45 0.6 0.45 0.337 0.45 -0.337L12 22l0.45 0.6 0.008 -0.006 0.02 -0.015a15.109 15.109 0 0 0 0.355 -0.277 36.92 36.92 0 0 0 3.968 -3.68c1.084 -1.173 2.187 -2.543 3.021 -3.998 0.832 -1.449 1.428 -3.034 1.428 -4.624 0 -4.789 -3.579 -8.75 -9.25 -8.75 -5.67 0 -9.25 3.961 -9.25 8.75 0 1.59 0.597 3.175 1.428 4.624 0.834 1.455 1.937 2.825 3.022 3.997a36.918 36.918 0 0 0 4.322 3.958l0.02 0.015 0.006 0.004 0.002 0.002Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M10.75 7.5a1.25 1.25 0 1 1 2.5 0v0.25h-2.5V7.5Zm-1.5 0.25V7.5a2.75 2.75 0 1 1 5.5 0v0.25h0.865l1.3 6.5h-9.83l1.3 -6.5h0.865Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

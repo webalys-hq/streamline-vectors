@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Inbox--Streamline-Sharp">
+  <desc>
+    Inbox Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="inbox--mail-email-outbox-drawer-empty-open-inbox">
+    <path id="Rectangle 20" fill="#fddc5c" d="M2 2h20v20H2z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M0.75 0.75h22.5v22.5H0.75V0.75ZM3.25 13H9v1c0 1.6569 1.3431 3 3 3s3 -1.3431 3 -3v-1h5.75V3.25H3.25V13Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

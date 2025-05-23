@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Calendar-Warning--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Calendar Warning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/calendar-warning--alter-calendar-caution-date-day-month-notification-warning">
+    <path id="Union" fill="url(#paint0_linear_644_10939)" fill-rule="evenodd" d="M7 3h10V1h2v2h4v4H1V3h4V1h2v2ZM1 9v14h17v-2l0-11h5V9H1Zm19 10v-7h3v7h-3Zm3 2v3h-3v-3h3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10939" x1="22.926" x2="-3.671" y1="24.005" y2="9.694" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

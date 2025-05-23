@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Computer-Chip-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Computer Chip 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/computer-chip-1--computer-device-chip-electronics-cpu-microprocessor">
+    <path id="Subtract" fill="url(#paint0_linear_628_18809)" fill-rule="evenodd" d="M10 2.5V0H8v2.5H2.5V8H0v2h2.5v4H0v2h2.5v5.5H8V24h2v-2.5h4V24h2v-2.5h5.5V16H24v-2h-2.5v-4H24V8h-2.5V2.5H16V0h-2v2.5h-4ZM17 15h-4v2h4v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18809" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

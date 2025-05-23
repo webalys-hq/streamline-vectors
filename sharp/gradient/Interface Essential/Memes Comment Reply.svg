@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Memes-Comment-Reply--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Memes Comment Reply Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/memes-comment-reply">
+    <path id="Subtract" fill="url(#paint0_linear_644_11581)" fill-rule="evenodd" d="M1 14v-4h4v.5c0 2.7614 2.23858 5 5 5 1.6356 0 3.0878-.7853 4-1.9995.9122 1.2142 2.3644 1.9995 4 1.9995 1.1199 0 2.1538-.3682 2.9872-.9901C20.7217 19.7958 16.3518 24 11 24 5.47715 24 1 19.5228 1 14Zm20-3.5V10h-6v.5c0 1.6569 1.3431 3 3 3s3-1.3431 3-3ZM21 8V0l-5.3333 4H6.33333L1 0v8h20ZM7 10h6v.5c0 1.6569-1.3431 3-3 3-1.65685 0-3-1.3431-3-3V10Zm.79957 6.3994C8.53103 17.3732 9.69236 18 11.0004 18c.5706 0 1.1108-.1189 1.5993-.3323l.8006 1.8328c-.7362.3216-1.5486.4995-2.3999.4995-1.96366 0-3.70701-.9443-4.79997-2.3994l1.59914-1.2012Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11581" x1="1.768" x2="26.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

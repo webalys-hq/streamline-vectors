@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Camera-Disabled--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Camera Disabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/camera-disabled--photos-picture-camera-photography-photo-pictures-disabled-off">
+    <path id="Union" fill="url(#paint0_linear_628_19378)" fill-rule="evenodd" d="M0 1.41421 22.5859 24.0002l1.4143-1.4143-1.4565-1.4564h1.4564V5.12947h-4.9458l-2.2062-3.53-.2938-.47H7.44583l-.29375.47-1.59169 2.5467L1.41421 0 0 1.41421Zm10.0729 7.24446 5.4331 5.43313c.3149-.5715.4941-1.2283.4941-1.9272 0-2.20911-1.7909-3.99997-4-3.99997-.6989 0-1.3557.1792-1.9272.49404ZM.0000755191 5.12947H.887029L16.887 21.1295H.0000755191V5.12947Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19378" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

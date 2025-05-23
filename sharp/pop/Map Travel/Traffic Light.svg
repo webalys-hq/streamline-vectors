@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Traffic-Light--Streamline-Sharp">
+  <desc>
+    Traffic Light Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="traffic-light">
+    <path id="Rectangle 915" fill="#fddc5c" d="M6 1.25h12v21.5H6V1.25Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M6.00001 0h-1.25v4.02403l-3.05317 0.76329 0.60634 2.42536 2.44683 -0.61171V10.024l-3.05317 0.7633 0.60634 2.4254 2.44683 -0.6117v3.423l-3.05317 0.7633 0.60634 2.4254 2.44683 -0.6117V24H19.25v-5.399l2.4468 0.6117 0.6064 -2.4254 -3.0532 -0.7633v-3.423l2.4468 0.6117 0.6064 -2.4254 -3.0532 -0.7633V6.60097l2.4468 0.61171 0.6064 -2.42536 -3.0532 -0.76329V0H6.00001Zm1.25 21.5v-19H16.75v19H7.25001ZM12 8c1.1046 0 2 -0.89543 2 -2s-0.8954 -2 -2 -2 -2 0.89543 -2 2 0.8954 2 2 2Zm0 6c1.1046 0 2 -0.8954 2 -2s-0.8954 -2 -2 -2 -2 0.8954 -2 2 0.8954 2 2 2Zm2 4c0 1.1046 -0.8954 2 -2 2s-2 -0.8954 -2 -2 0.8954 -2 2 -2 2 0.8954 2 2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

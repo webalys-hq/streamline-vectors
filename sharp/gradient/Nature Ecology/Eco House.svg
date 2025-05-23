@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Eco-House--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Eco House Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/eco-house">
+    <path id="Subtract" fill="url(#paint0_linear_628_19751)" fill-rule="evenodd" d="M12 .00488281 23 9.90488V23.0002H1V9.90488L12 .00488281ZM11.7711 7.64016 8.27107 12.6411l-1.65173 2.3601h4.99956l-1.84774 2.6396 2.45764 1.7204 3.5-4.9998 1.6522-2.3602h-5.0003l1.8482-2.64088-2.4578-1.72016Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19751" x1="1.845" x2="27.442" y1="1.863" y2="15.666" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Map-Search--Streamline-Sharp">
+  <desc>
+    Map Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="map-search--map-search-magnifier-navigation-gps-travel">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="m0.828 18.968 6.386 -1.475 2.732 0.63A6.75 6.75 0 0 1 20 10.727L20 0.645 13.614 2.12 7.214 0.646 0.828 2.12v16.848Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M8 0.827 7.214 0.646 6 0.926v16.847l1.214 -0.28 0.786 0.181V0.827Zm5 9.9a6.71 6.71 0 0 1 2 -0.81V1.8l-1.386 0.32L13 1.98v8.748Zm3.5 3.023a2.75 2.75 0 1 0 0 5.5 2.75 2.75 0 0 0 0 -5.5Zm-5.25 2.75a5.25 5.25 0 1 1 9.74 2.722l2.394 2.394 -1.768 1.768 -2.393 -2.394a5.25 5.25 0 0 1 -7.973 -4.49Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

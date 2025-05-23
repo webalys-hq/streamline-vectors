@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Asterisk-Square--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Asterisk Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/asterisk-square--asterisk-star-keyboard-keyboard">
+    <path id="Subtract" fill="url(#paint0_linear_628_18772)" fill-rule="evenodd" d="M1 1h22v22H1V1Zm9.1974 11L6.30248 9.40334l1.1094-1.6641L11 10.1313V6h2v4.1316l3.5884-2.39222 1.1094 1.6641L13.803 12l3.8946 2.5964-1.1094 1.6641L13 13.8684V18h-2v-4.1313l-3.58795 2.3919-1.1094-1.6641L10.1974 12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18772" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Clean-Broom-Wipe--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Clean Broom Wipe Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/clean-broom-wipe">
+    <path id="Union" fill="url(#paint0_linear_644_10965)" fill-rule="evenodd" d="m13.3228.81995-.4114.91144L7.74754 13.1705c1.87677.5337 3.25126 2.2605 3.25126 4.3084v.222c0 1.207.4795 2.3646 1.333 3.2181l2.0812 2.0812H-.000976562L2.26375 16.085c.5035-1.5374 1.7848-2.659 3.32198-2.9866l.00439-.0097L11.0885.908507l.4114-.91143669L13.3228.81995ZM23 23.0002h-7v-2h7v2Zm-3-4h1v-2h-7v2h6Zm-1-4h-7v-2h7v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10965" x1="22.922" x2="-4.317" y1="23.005" y2="7.684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

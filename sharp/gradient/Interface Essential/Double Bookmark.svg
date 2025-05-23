@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Double-Bookmark--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Double Bookmark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/double-bookmark--bookmarks-double-tags-favorite">
+    <path id="Union" fill="url(#paint0_linear_644_11147)" fill-rule="evenodd" d="M6 2h14v18h2V0H6v2ZM2 4h16v20.0027l-8-4.8343-8 4.8343V4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11147" x1="2.768" x2="27.377" y1="1.94" y2="13.496" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

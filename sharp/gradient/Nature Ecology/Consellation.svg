@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Consellation--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Consellation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/consellation--science-space-universe-star">
+    <path id="Union" fill="url(#paint0_linear_628_19722)" fill-rule="evenodd" d="M21.5 6.14494V0h-2v6.14494c-.9568.28476-1.7421.96765-2.1639 1.85657l-6.3685-.97977C10.7344 5.31501 9.27076 4 7.5 4 5.567 4 4 5.567 4 7.5c0 1.1513.55588 2.17276 1.41389 2.8106l-1.7074 4.6954C3.63817 15.002 3.56932 15 3.5 15 1.567 15 0 16.567 0 18.5S1.567 22 3.5 22c1.39677 0 2.60244-.8182 3.16388-2.0015l6.36852.9798C13.2656 22.685 14.7293 24 16.5 24c1.933 0 3.5-1.567 3.5-3.5 0-1.1513-.5559-2.1728-1.4139-2.8106l1.7074-4.6954c.0683.004.1372.006.2065.006 1.933 0 3.5-1.567 3.5-3.5 0-1.58551-1.0543-2.92479-2.5-3.35506Zm-3.0861 6.16566c-.7371-.5479-1.2512-1.379-1.3815-2.33228l-6.3685-.97978C10.1024 10.1818 8.89677 11 7.5 11c-.06931 0-.13816-.002-.20648-.006l-1.7074 4.6954c.7371.548 1.25122 1.379 1.38148 2.3323l6.3685.9798C13.8975 17.8182 15.1032 17 16.5 17c.0693 0 .1382.002.2065.006l1.7074-4.6954Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19722" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

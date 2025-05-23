@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Virtual-Reality--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Virtual Reality Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/virtual-reality--gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear">
+    <path id="Union" fill="url(#paint0_linear_628_19063)" fill-rule="evenodd" d="M14 2h-4v1.26962C6.82881 4.14486 4.5 7.05047 4.5 10.5h2c0-2.33198 1.45132-4.32499 3.5-5.12506V10.5h4V5.37494c2.0487.80007 3.5 2.79308 3.5 5.12506h2c0-3.44953-2.3288-6.35514-5.5-7.23038V2ZM0 12h3v6.5H0V12Zm19.5 0v9h-5L12 18.5 9.5 21h-5v-9h15Zm4.5 0h-3v6.5h3V12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19063" x1="3.923" x2="20.928" y1="5.654" y2="17.555" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

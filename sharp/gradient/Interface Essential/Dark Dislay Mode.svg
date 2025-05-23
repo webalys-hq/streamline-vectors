@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Dark-Dislay-Mode--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Dark Dislay Mode Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/dark-dislay-mode">
+    <path id="Subtract" fill="url(#paint0_linear_644_11071)" fill-rule="evenodd" d="M3.51472 20.4853C1.26428 18.2348 0 15.1826 0 12c0-3.1826 1.26428-6.23484 3.51472-8.48528C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-3.1826 0-6.23484-1.2643-8.48528-3.5147ZM15.4999 5.93775C14.4449 5.32871 13.2394 5 12 5c-1.8565 0-3.63699.7375-4.94975 2.05025C5.7375 8.36301 5 10.1435 5 12s.7375 3.637 2.05025 4.9497C8.36301 18.2625 10.1435 19 12 19c1.2394 0 2.4449-.3287 3.4999-.9378l1.5002-.866-1.5002-.866c-.3752-.2167-.7238-.4829-1.0356-.7947-.9376-.9376-1.4644-2.2094-1.4644-3.5355 0-1.3261.5268-2.59785 1.4644-3.53553.3118-.31174.6604-.57801 1.0356-.79463l1.5002-.86604-1.5002-.86605Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11071" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

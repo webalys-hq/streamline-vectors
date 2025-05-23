@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Forward-Email--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Forward Email Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/forward-email--mail-email-send-message-envelope-actions-action-forward-arrow">
+    <path id="Union" fill="url(#paint0_linear_628_19540)" d="M14.4142 2H12v5H9c-4.97056 0-9 4.0294-9 9v6h2v-1c0-2.7614 2.23858-5 5-5h5v5h2.4142l9.5-9.5-9.5-9.5Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19540" x1=".919" x2="25.616" y1="3.616" y2="20.26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

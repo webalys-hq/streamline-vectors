@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Startup--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Startup Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="startup--shop-rocket-launch-startup">
+    <path id="Union" fill="url(#paint0_linear_630_38302)" fill-rule="evenodd" d="M14.9999 1 3.99988 12l8.00002 8 11-11V1h-8Zm1.3086 5.27726-2.0312 2.03125 1.4142 1.41421 2.0312-2.03125-1.4142-1.41421ZM2.79289 13.793l-1.999997 2 1.414217 1.4142 2-2-1.41422-1.4142Zm-1.5 7.5 4.5-4.5 1.41422 1.4142-4.5 4.5-1.41422-1.4142Zm5.50006.4999 2-2 1.41425 1.4142-2.00003 2-1.41422-1.4142ZM3.5 5.5h4.17146l-5.08573 5.0857L.5 8.5l3-3Zm12 18-2.0858-2.0858L18.5 16.3283V20.5l-3 3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38302" x1="4.178" x2="22.351" y1="5.327" y2="15.396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

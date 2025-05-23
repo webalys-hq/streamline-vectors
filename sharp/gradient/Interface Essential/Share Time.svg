@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Share-Time--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Share Time Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/share-time--hand-clock-time-give-human-person">
+    <path id="Union" fill="url(#paint0_linear_644_11995)" fill-rule="evenodd" d="M18 1c-3.3137 0-6 2.68629-6 6 0 3.3137 2.6863 6 6 6s6-2.6863 6-6c0-3.31371-2.6863-6-6-6Zm-1 6V4.5h2V6h1.5v2H17V7ZM0 16.6647C0 14.3646 1.86461 12.5 4.16472 12.5c.29332 0 .58582.031.87263.0924L12.5 14.1916v2.6226H6.75v2l4.5708 0c.1683 0 .3357-.025.4967-.0742l6.2574-1.912c1.2307-.376 2.5648.0642 3.3299 1.0989.3866.5228.5952 1.1558.5952 1.806L11.6541 23H0v-6.3353Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11995" x1="23.919" x2="-3.261" y1="23.005" y2="6.326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

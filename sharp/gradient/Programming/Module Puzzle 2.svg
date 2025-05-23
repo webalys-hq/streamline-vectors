@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Module-Puzzle-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Module Puzzle 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/module-puzzle-2--code-puzzle-module-programming-plugin-piece">
+    <path id="Union" fill="url(#paint0_linear_628_18694)" d="M10 1C7.79086 1 6 2.79086 6 5H1v6.1634l1.12377-.1401c.12288-.0154.24845-.0233.37635-.0233 1.65686 0 3 1.3431 3 3s-1.34314 3-3 3c-.1279 0-.25347-.0079-.37635-.0233L1 16.8366V23h6.16351l-.14013-1.1237c-.01532-.1229-.02326-.2484-.02326-.3763 0-1.6569 1.34315-3 2.99998-3 1.6569 0 3 1.3431 3 3 0 .1279-.0079.2534-.0232.3763L12.8367 23H19v-5c2.2091 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4V5h-5c0-2.20914-1.7909-4-4-4Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18694" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

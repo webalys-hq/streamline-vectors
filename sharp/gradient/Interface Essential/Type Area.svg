@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Type-Area--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Type Area Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/type-area">
+    <path id="Subtract" fill="url(#paint0_linear_644_12253)" fill-rule="evenodd" d="M23.998 1H.00195312L3.99877 23H20.0012L23.998 1ZM7.00019 5h-1v4h2V7h3.00021v10H9.00019v2h6.00001v-2h-1.9998V7h2.9998v2h2V5H7.00019Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12253" x1="23.917" x2="-3.261" y1="23.005" y2="6.33" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Rate-Stretch-Tool--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Rate Stretch Tool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/rate-stretch-tool">
+    <path id="Union" fill="url(#paint0_linear_644_11831)" fill-rule="evenodd" d="M13 4h-2V1h2v3Zm0 16v3h-2v-3h2Zm0-6.5v-3h-2v3h2Zm-8.00023-3L4.99984 8H11v1.5h2V8h.0001L13 5H4.99993L5 2.5H3.99925L0 6.5l3.99925 4h1.00052ZM19.0002 16l0-2.5h1.0006L24 17.5l-3.9992 4H19l.0001-2.5H11l-.0001-3H11v-1.5h2V16h6.0002Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11831" x1="3.923" x2="22.479" y1="5.231" y2="16.447" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

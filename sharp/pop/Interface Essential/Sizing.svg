@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Sizing--Streamline-Sharp">
+  <desc>
+    Sizing Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sizing">
+    <path id="Rectangle 1787" fill="#fddc5c" d="M1.25 1.25h15v15h-15z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M24 2.5h-0.75V15H24v2.5h-5V15h0.75V2.5H19V0h5v2.5ZM2.5 23.25V24H0v-5h2.5v0.75H15V19h2.5v5H15v-0.75H2.5ZM1.25 0H0v17.5h17.5V0H1.25ZM2.5 15V2.5H15V15H2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

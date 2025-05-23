@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Style--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Text Style Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/text-style--text-style-formatting-format">
+    <path id="Union" fill="url(#paint0_linear_644_12183)" fill-rule="evenodd" d="M2 0h20v8h-4V4h-4v16h4.9998v4H4.99982v-4H10V4H6v4H2V0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12183" x1="21.932" x2="-3.63" y1="24.005" y2="12.022" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

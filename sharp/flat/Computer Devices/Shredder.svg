@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shredder--Streamline-Sharp">
+  <desc>
+    Shredder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shredder--device-electronics-shred-paper-cut-destroy-remove-delete">
+    <path id="Rectangle 743" fill="#2859c5" d="M5 1h14v7H5V1Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M23 8H1v10h5v-4h12v4h5V8Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M13 14.25h1.5V20a3 3 0 0 0 3 3h1v-2h-1a1 1 0 0 1 -1 -1v-5.75H20v-1.5H4v1.5h3.5V20a1 1 0 0 1 -1 1h-1v2h1a3 3 0 0 0 3 -3v-5.75H11V23h2v-8.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

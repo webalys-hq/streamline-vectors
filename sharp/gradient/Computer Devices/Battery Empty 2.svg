@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Battery-Empty-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Battery Empty 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery">
+    <path id="Union" fill="url(#paint0_linear_628_18780)" fill-rule="evenodd" d="m19.0858 20.5001 3.5021 3.5022 1.4142-1.4143L20.5 19.0859v-2.0858H23V8.00014h-2.5v-3.5H5.91423L1.41214-.00195312-.0020752 1.41226 3.0858 4.50014h-.00488L19.0809 20.5001h.0049ZM.999954 5.50014V5.2476L16.2525 20.5001H.999954V5.50014Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18780" x1="26.082" x2="-6.296" y1="29.087" y2="6.087" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

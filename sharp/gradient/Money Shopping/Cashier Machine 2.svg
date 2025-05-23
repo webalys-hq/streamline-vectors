@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cashier-Machine-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cashier Machine 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cashier-machine-2--shop-shopping-pay-payment-cashier-store-cash-register-machine">
+    <g id="Subtract">
+      <path fill="url(#paint0_linear_630_38072)" fill-rule="evenodd" d="M3 0h18v15h-7v2h8v7H2v-7h8v-2H3V0Zm2 2v11h14V2H5Zm9 18h-4v2h4v-2Z" clip-rule="evenodd"></path>
+      <path fill="url(#paint1_linear_630_38072)" d="M10.9375 3.5C9.93363 3.5 8.99999 4.27548 9 5.37496v.5938c0 .88036.61725 1.5884 1.4123 1.80484l2.8734.78219 0 .94427H11v-.50055H9v.62555c0 1.09944.93354 1.87504 1.9375 1.87504h2.4107c1.0034 0 1.9375-.7748 1.9375-1.87473l0-1.17757c0-.88043-.6173-1.58839-1.4123-1.80481L11 5.86079V5.5h2.2857v.50083h2V5.375c0-1.09939-.9336-1.875-1.9375-1.875h-2.4107Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38072" x1="2.768" x2="27.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_630_38072" x1="2.768" x2="27.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

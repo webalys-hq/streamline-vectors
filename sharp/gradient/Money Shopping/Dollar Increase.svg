@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Dollar-Increase--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Dollar Increase Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dollar-increase--dollar-increase-arrow-up-fluctuate-investment">
+    <path id="Union" fill="url(#paint0_linear_630_38125)" fill-rule="evenodd" d="M0 9.01099C0 4.03934 4.03031.0090332 9.00195.0090332c4.97165 0 9.00195 4.0303068 9.00195 9.0019568 0 .48614-.0385.96329-.1127 1.42851h-1.6901l-2.8713 2.8714-.454.454-1.0182-1.0183c.3784-.3639.6138-.8753.6138-1.4417v-1.216c0-.93741-.6511-1.74904-1.5661-1.95239l-3.3728-.7495v-.66728h2.9389v.6463h2v-.6463c0-1.10457-.8954-2-2-2h-.4694V3.52466H8.00195v1.19507H7.5325c-1.10457 0-2 .89543-2 2v.66728c0 .93739.65107 1.74902 1.56614 1.95237l3.37276.74952 0 1.216H7.5325v-.6463h-2v.6463c0 1.1046.89543 2 2 2h.46945v1.1832l-2.72184 2.7218C2.16559 15.7939 0 12.6553 0 9.01099Zm9.73985 6.56771-6.3 6.3L5.56117 24l5.23933-5.2393L14.2399 22.2l1.0606 1.0607L16.3612 22.2l4.3448-4.3448 2.4235 2.4234.871-.871v-6.9681h-6.9681l-.871.871 2.4233 2.4233-3.2842 3.2842-3.4393-3.4393-1.0607-1.0607-1.06065 1.0607Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38125" x1="23.919" x2="-4.497" y1="24.005" y2="8.014" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Music-Note-Trebble-Clef--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Music Note Trebble Clef Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/music-note-trebble-clef--music-audio-note-trebble-clef-entertainment">
+    <path id="Vector 1202 (Stroke)" fill="url(#paint0_linear_628_19864)" fill-rule="evenodd" d="M13.4885 2.50293c-.4142 0-.75.33579-.75.75v2.8829l2.3978-.942c.2871-.11276.4758-.3897.4758-.69807V3.25293c0-.41421-.3358-.75-.75-.75h-1.3736Zm-.75 6.3189 3.312-1.30112c1.2437-.48861 2.0616-1.68869 2.0616-3.02495V3.25293c0-1.79492-1.4551-3.25000031-3.25-3.25000031h-1.3736c-1.7949 0-3.25 1.45507031-3.25 3.25000031v3.86504L5.94957 8.80292c-1.24373.4886-2.06163 1.68868-2.06163 3.02498v3.8016c0 1.795 1.45507 3.25 3.25 3.25h3.10056v1.8677c0 .4142-.33576.75-.74997.75H7.13794c-.41421 0-.75-.3358-.75-.75v-.5588h-2.5v.5588c0 1.795 1.45508 3.25 3.25 3.25h2.35059c1.79497 0 3.24997-1.455 3.24997-3.25v-1.8677h2.1236c1.7949 0 3.25-1.455 3.25-3.25v-3.1176h-2.5v3.1176c0 .4143-.3358.75-.75.75h-2.1236V8.82183Zm-2.5.98214L6.8637 11.1298c-.28701.1128-.47576.3897-.47576.6981v3.8016c0 .4143.33579.75.75.75h3.10056V9.80397Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19864" x1="4.434" x2="23.651" y1="1.942" y2="8.363" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

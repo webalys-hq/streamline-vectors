@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Inbox--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Inbox Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/inbox--mail-email-outbox-drawer-empty-open-inbox">
+    <path id="Subtract" fill="url(#paint0_linear_628_19569)" fill-rule="evenodd" d="M1 1h22v12.0001h-8v1c0 1.6569-1.3431 3-3 3s-3-1.3431-3-3v-1H1V1Zm0 14.0001V23h22v-7.9999h-6.1c-.4633 2.2823-2.481 4-4.9 4-2.41896 0-4.43671-1.7177-4.89998-4H1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19569" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

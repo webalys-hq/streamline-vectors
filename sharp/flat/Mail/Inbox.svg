@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Inbox--Streamline-Sharp">
+  <desc>
+    Inbox Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="inbox--mail-email-outbox-drawer-empty-open-inbox">
+    <path id="Rectangle 849" fill="#8fbffa" d="M1 1h22v22H1z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M23 12.5V23H1V12.5h6.5v1a4.5 4.5 0 1 0 9 0v-1H23Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

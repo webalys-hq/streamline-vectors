@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Sun--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Sun Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/sun--photos-light-camera-mode-brightness-sun-photo-full">
+    <path id="Subtract" fill="url(#paint0_linear_644_12147)" fill-rule="evenodd" d="m12.0002 0 .7071.707107 2.793 2.793043h4.9999v4.99986l2.793 2.79299.7071.7072-.7071.7071-2.793 2.793v4.9999h-4.9999l-2.793 2.793-.7071.7071-.7072-.7071-2.79299-2.793H3.50015v-4.9999l-2.793043-2.793L0 12.0002l.707107-.7072L3.50015 8.5V3.50015H8.5L11.293.707107 12.0002 0ZM12 16.5c2.4853 0 4.5-2.0147 4.5-4.5 0-2.48528-2.0147-4.5-4.5-4.5-2.48528 0-4.5 2.01472-4.5 4.5 0 2.4853 2.01472 4.5 4.5 4.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12147" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

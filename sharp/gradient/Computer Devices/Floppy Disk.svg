@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Floppy-Disk--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Floppy Disk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/floppy-disk--disk-floppy-electronics-device-disc-computer-storage">
+    <path id="Subtract" fill="url(#paint0_linear_628_18950)" fill-rule="evenodd" d="M1 2V1h15.1642l.2929.29289 6.25 6.25.2929.29289V8.25L23 22v1h-4.5v-9.4999h-1l-11 0h-1l0 1L5.5 23H1V2Zm6.5 21h9l0-7.4999-9 0L7.5 23Zm5.9998-17.49988v-4.5h2v6.5H5.49976v-6.5h2v4.5h6.00004Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18950" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

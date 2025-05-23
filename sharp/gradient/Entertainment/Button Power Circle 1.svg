@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Button-Power-Circle-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Button Power Circle 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/button-power-circle-1--power-button-on-off">
+    <path id="Subtract" fill="url(#paint0_linear_628_19898)" fill-rule="evenodd" d="M12 0C5.37258 0 0 5.37258 0 12c0 6.6274 5.37258 12 12 12 6.6274 0 12-5.3726 12-12 0-6.62742-5.3726-12-12-12Zm4.2843 11.99c0-1.5416-.8136-2.89409-2.0397-3.65002l1.0497-1.70242c1.792 1.10485 2.99 3.08833 2.99 5.35244 0 3.4707-2.8135 6.2843-6.2842 6.2843-3.47073 0-6.28428-2.8136-6.28428-6.2843 0-2.26411 1.19805-4.24759 2.99003-5.35244l1.04964 1.70242C8.52944 9.09591 7.71582 10.4484 7.71582 11.99c0 2.3662 1.91812 4.2843 4.28428 4.2843 2.3661 0 4.2842-1.9181 4.2842-4.2843ZM11 4.66956v4.20825h2V4.66956h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19898" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

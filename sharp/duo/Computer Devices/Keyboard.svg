@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" id="Keyboard--Streamline-Sharp">
+  <desc>
+    Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="keyboard--keyboard-device-electronics-dvorak-qwerty">
+    <path id="Rectangle 38" fill="#d7e0ff" d="M22 9h12v20H22z" transform="rotate(90 22 9)"></path>
+    <path id="Rectangle 37" stroke="#4147d5" d="m22 9 0 12-20 0L2 9z"></path>
+    <path id="Vector 2676" stroke="#4147d5" d="M4.75 13h2.5"></path>
+    <path id="Vector 2680" stroke="#4147d5" d="M4.75 17h2.5"></path>
+    <path id="Vector 2677" stroke="#4147d5" d="M8.75 13h2.5"></path>
+    <path id="Vector 2679" stroke="#4147d5" d="M16.75 13h2.5"></path>
+    <path id="Vector 2678" stroke="#4147d5" d="M12.75 13h2.5"></path>
+    <path id="Vector 2681" stroke="#4147d5" d="M16.75 17h2.5"></path>
+    <path id="Vector 2682" stroke="#4147d5" d="M8.75 17h6.5"></path>
+    <path id="Vector 2683" stroke="#4147d5" d="M12 9V6.5l5-2V2"></path>
+  </g>
+</svg>

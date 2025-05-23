@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Iris-Scan--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Iris Scan Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/iris-scan--identification-retina-secure-security-iris-scan-eye-brackets">
+    <path id="Union" fill="url(#paint0_linear_644_11473)" fill-rule="evenodd" d="M2 1H1v7h2V3h5V1H2Zm1 20v-5H1v7h7v-2H3Zm18 0v-5h2v7h-7v-2h5Zm0-18h-5V1h7v7h-2V3Zm-9.0004 2c-2.17053 0-3.69196.79406-4.96129 2.03491-.92477.90402-1.74973 2.08922-2.60356 3.31589-.2465.3541-.49539.7117-.74979 1.067L3.26807 12l.41688.5822c.25438.3552.50326.7128.74972 1.0669l.00003 0 .00002 0c.85384 1.2267 1.67881 2.412 2.60358 3.316C8.30764 18.2059 9.82907 19 11.9996 19c2.1706 0 3.692-.7941 4.9614-2.0349.9247-.904 1.7497-2.0893 2.6036-3.316l.0001-.0001c.2464-.3541.4953-.7116.7496-1.0668L20.7312 12l-.4169-.5822c-.2544-.3553-.5033-.7129-.7498-1.067-.8538-1.22667-1.6788-2.41187-2.6035-3.31589C15.6916 5.79406 14.1702 5 11.9996 5ZM12 9.5c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5 2.5-1.1193 2.5-2.5-1.1193-2.5-2.5-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11473" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

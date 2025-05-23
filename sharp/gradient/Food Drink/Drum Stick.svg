@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Drum-Stick--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Drum Stick Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/drum-stick--cook-animal-drumsticks-products-chicken-cooking-nutrition-food">
+    <path id="Union" fill="url(#paint0_linear_628_19677)" d="M24 7.36396C24 3.29696 20.703 0 16.636 0c-1.953 0-3.8261.775845-5.2071 2.15685L7 6.58579v7.25631l-1.60914 1.6091c-.57146-.5714-1.36094-.9249-2.23297-.9249C1.41384 14.5263 0 15.9402 0 17.6842c0 1.7441 1.41384 3.1579 3.15789 3.1579 0 1.7441 1.41384 3.1579 3.1579 3.1579 1.74406 0 3.15789-1.4138 3.15789-3.1579 0-.872-.35346-1.6615-.92492-2.233L10.1579 17h7.2563l4.4289-4.4289C23.2242 11.1901 24 9.31701 24 7.36396Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19677" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

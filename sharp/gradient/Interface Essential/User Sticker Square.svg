@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="User-Sticker-Square--Streamline-Sharp-Gradient-Free">
+  <desc>
+    User Sticker Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/user-sticker-square">
+    <path id="Subtract" fill="url(#paint0_linear_644_12396)" fill-rule="evenodd" d="M23 1H1v22h14v-8h8V1Zm-5.5858 22H17v-6h6v.4142L17.4142 23ZM9.99998 11 10 8.00001l-2-.00002L7.99998 11l2 0ZM16 8.00001 16 11l-2 0 0-3.00001 2 .00002ZM6.34313 14.6568C7.84342 16.1571 9.87825 17 12 17v-2c-1.5913 0-3.11744-.6322-4.24266-1.7574l-1.41421 1.4142Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12396" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

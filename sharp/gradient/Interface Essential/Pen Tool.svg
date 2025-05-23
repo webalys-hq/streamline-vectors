@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pen-Tool--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Pen Tool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/pen-tool">
+    <path id="Subtract" fill="url(#paint0_linear_644_11748)" fill-rule="evenodd" d="M23.6881 9.77462 14.226.3125l-2.4999 4.99986 6.9622 6.96214 4.9998-2.49988ZM17.4373 13.852l-7.2884-7.28837-8.06589 2.68863L.54834 22.0381l7.0375-7.0375-1.29289-1.2929 1.41421-1.4142 4.00004 4-1.4142 1.4142-1.29294-1.2929-7.03746 7.0374 12.7861-1.5343 2.6886-8.0659Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11748" x1="23.61" x2="-3.793" y1="23.457" y2="8.042" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

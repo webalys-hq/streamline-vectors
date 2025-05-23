@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bluetooth--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bluetooth Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/bluetooth--bluetooth-internet-server-network-wireless-connection">
+    <path id="Vector 2709 (Stroke)" fill="url(#paint0_linear_628_18823)" fill-rule="evenodd" d="M10.75.566406 19.9294 8.2159l-5.676 3.784 5.676 3.7839-9.1794 7.6495v-9.0978l-3.89975 2.5998-1.38675-2.0801 4.28301-2.8553L5.4635 9.14452l1.38675-2.08013L10.75 9.66421V.566406Zm2.5 13.769094 2.5068 1.6712-2.5068 2.089v-3.7602Zm0-4.67129v-3.7602l2.5068 2.089-2.5068 1.6712Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18823" x1="7.828" x2="21.428" y1="4.964" y2="9.731" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

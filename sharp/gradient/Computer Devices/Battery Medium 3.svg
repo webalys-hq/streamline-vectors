@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Battery-Medium-3--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Battery Medium 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/battery-medium-3--phone-mobile-charge-medium-device-electricity-power-battery">
+    <path id="Subtract" fill="url(#paint0_linear_628_18801)" fill-rule="evenodd" d="M0 3h21v4h3v10h-3v4H0V3Zm4 4h8v10H4V7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18801" x1="23.919" x2="-.026" y1="21.004" y2="3.044" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

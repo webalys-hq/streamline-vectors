@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Octagram-Shape--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Octagram Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/octagram-shape">
+    <path id="Union" fill="url(#paint0_linear_644_11644)" fill-rule="evenodd" d="M15.5001 3.50015 11.9999 0 8.49976 3.50015H3.49991V8.5l-3.500154141 3.5002L3.49991 15.5003v4.9999h4.99984l3.50015 3.5001 3.5002-3.5001h4.9998v-4.9999l3.5002-3.5001L20.4999 8.5V3.50015h-4.9998Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11644" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

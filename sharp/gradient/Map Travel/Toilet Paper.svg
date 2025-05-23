@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Toilet-Paper--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Toilet Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/toilet-paper--tussie-roll-bathroom-restroom-toilet">
+    <path id="Union" fill="url(#paint0_linear_628_19468)" fill-rule="evenodd" d="M14.3616 2.01695c.1995-.34301.4362-.68847.7094-1.01695H8C4.13401 1 1 4.13401 1 8v7h3v2H1v6h12V7.5c0-1.99656.4655-3.94284 1.3616-5.48305ZM8.5 17h-3v-2h3v2Zm4.5-2h-3v2h3v-2Zm6-14c-1.2027 0-2.2215.83983-2.9097 2.02274C15.4015 4.20663 15 5.79282 15 7.5c0 1.70718.4015 3.2934 1.0903 4.4773C16.7785 13.1602 17.7973 14 19 14c1.2027 0 2.2215-.8398 2.9097-2.0227C22.5985 10.7934 23 9.20718 23 7.5c0-1.70718-.4015-3.29337-1.0903-4.47726C21.2215 1.83983 20.2027 1 19 1Zm-1 7.5v-2h2v2h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19468" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

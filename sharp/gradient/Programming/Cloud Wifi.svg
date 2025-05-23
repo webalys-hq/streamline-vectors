@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cloud-Wifi--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cloud Wifi Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/cloud-wifi--cloud-wifi-internet-server-network">
+    <path id="Union" fill="url(#paint0_linear_628_18708)" fill-rule="evenodd" d="M11.9999 2C8.40979 2 5.16116 3.45398 2.80752 5.80761L1.39331 4.3934C4.10668 1.68003 7.85805 0 11.9999 0c4.1419 0 7.8932 1.68003 10.6066 4.3934l-1.4142 1.41421C18.8387 3.45398 15.59 2 11.9999 2Zm0 4C9.5143 6 7.26567 7.00626 5.63589 8.63604L4.22168 7.22183C6.21119 5.23231 8.96256 4 11.9999 4c3.0372 0 5.7886 1.23231 7.7781 3.22182l-1.4142 1.41422C16.734 7.00626 14.4854 6 11.9999 6Zm-5.86174 5.6304C7.1669 9.47395 9.41667 8 12 8c3.2102 0 5.9219 2.2868 6.3849 5.3258C20.9801 13.7527 23 15.9349 23 18.625 23 21.6292 20.4808 24 17.4545 24H7.45455C3.92617 24 1 21.2375 1 17.75c0-3.0418 2.22881-5.5344 5.13816-6.1196Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18708" x1="24.907" x2="-6.448" y1="29.083" y2="8.667" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

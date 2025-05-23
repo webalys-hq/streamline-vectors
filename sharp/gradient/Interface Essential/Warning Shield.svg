@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Warning-Shield--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Warning Shield Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/warning-shield--frame-alert-warning-shield-exclamation-caution-security-protection">
+    <path id="Subtract" fill="url(#paint0_linear_644_12470)" fill-rule="evenodd" d="m2 18.5965 9.9999 5.4L22 18.5965V0H2v18.5965ZM10.5 12V5h3v7h-3Zm0 5v-3h3v3h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12470" x1="2.768" x2="27.375" y1="1.939" y2="13.498" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

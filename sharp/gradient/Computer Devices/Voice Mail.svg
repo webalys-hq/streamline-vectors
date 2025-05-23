@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Voice-Mail--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Voice Mail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/voice-mail--mic-audio-mike-music-microphone">
+    <path id="Union" fill="url(#paint0_linear_628_19070)" fill-rule="evenodd" d="M6.00037 1H18.0004v10c0 3.3137-2.6863 6-6 6-3.31374 0-6.00003-2.6863-6.00003-6V1ZM2.00024 11c0 5.1853 3.94662 9.4488 8.99986 9.9506V23h2v-2.0494c5.0534-.5016 9.0001-4.7652 9.0001-9.9506h-2c0 4.4183-3.5817 8-8 8-4.41823 0-7.99996-3.5817-7.99996-8h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19070" x1="5.269" x2="22.109" y1="5.231" y2="13.713" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

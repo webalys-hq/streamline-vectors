@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Gas-Station-Fuel-Petroleum--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Gas Station Fuel Petroleum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/gas-station-fuel-petroleum">
+    <path id="Union" fill="url(#paint0_linear_628_19261)" fill-rule="evenodd" d="M15 1H1v22h14v-4c2.7614 0 5-2.2386 5-5V7h3V5h-2.8293C20.5825 3.83481 21.6938 3 23 3V1c-2.7614 0-5 2.23858-5 5v8c0 1.6569-1.3431 3-3 3V1ZM3 3h10v7H3V3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19261" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

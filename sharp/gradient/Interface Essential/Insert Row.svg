@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Insert-Row--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Insert Row Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/insert-row">
+    <path id="Union" fill="url(#paint0_linear_644_11462)" fill-rule="evenodd" d="M23 1v9L7 10V1h16Zm0 13v9H7v-9l16 0ZM6.5 12 2 7.5H0v9h2L6.5 12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11462" x1="22.922" x2="-3.719" y1="23.005" y2="7.337" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

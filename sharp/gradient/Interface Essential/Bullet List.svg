@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bullet-List--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bullet List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/bullet-list--points-bullet-unordered-list-lists-bullets">
+    <path id="Union" fill="url(#paint0_linear_644_14776)" fill-rule="evenodd" d="M1 1h6v6H1V1Zm0 8h6v6H1V9Zm0 8h6v6H1v-6ZM9 5h14V3H9v2Zm14 8H9v-2h14v2ZM9 21h14v-2H9v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_14776" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

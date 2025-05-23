@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chess-Knight--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Chess Knight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/chess-knight">
+    <path id="Subtract" fill="url(#paint0_linear_628_19917)" fill-rule="evenodd" d="m8.19109.851074 1.17889.214346c1.83792.33417 3.38802 1.05212 4.55802 2.17234 1.175 1.12487 1.9069 2.59848 2.1964 4.33548l.0024.01461.002.01468 1.4179 10.39757H6.61899l1.21536-5.0931 4.18315-1.0457-.4851-1.94033-5.22293 1.30573.00388.0155-.49958.1249-.65591.164-.39655-.5476-1.55137-2.1422-.55906-.77197.74428-.59543 4.79593-3.83674V.851074ZM5 20.0001h14.345l1.3354 4H3.31958l1.33545-4H5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19917" x1="5.598" x2="21.643" y1="5.303" y2="12.226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

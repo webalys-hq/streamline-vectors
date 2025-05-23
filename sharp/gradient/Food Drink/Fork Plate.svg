@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Fork-Plate--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Fork Plate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/fork-plate--fork-plate-food-dine-cook-utensils-eat-restaurant-dining-kitchenware">
+    <path id="Union" fill="url(#paint0_linear_628_19626)" fill-rule="evenodd" d="M.000244141 6V0H2.00024v4h1.99988l0-4h2v4h2.00012V0h1.99996v6c0 2.05036-1.23411 3.81248-3.00008 4.584l0 13.4161h-4l0-13.4162C1.23428 9.81232.000244141 8.05027.000244141 6ZM23 0c-6.6274 0-12 5.37258-12 12 0 6.6274 5.3726 12 12 12v-3c-4.9706 0-9-4.0294-9-9 0-4.97056 4.0294-9 9-9V0Zm-7 12c0-3.86599 3.134-7 7-7v14c-3.866 0-7-3.134-7-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19626" x1=".884" x2="27.624" y1="1.939" y2="16.382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

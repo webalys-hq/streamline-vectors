@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Tailless-Line-Arrow-Diagonal-Scroll-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Tailless Line Arrow Diagonal Scroll 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/tailless-line-arrow-diagonal-scroll-1--move-scroll">
+    <g id="Union">
+      <path fill="url(#paint0_linear_644_11128)" d="M11.0001 23v-3H4l0-7H1l0 10 10.0001 0Z"></path>
+      <path fill="url(#paint1_linear_644_11128)" d="M11.9999 14.1213 14.1212 12l-2.1213-2.12134L9.8786 12l2.1213 2.1213Z"></path>
+      <path fill="url(#paint2_linear_644_11128)" d="m13.0001 1 10 0 0 10h-3V4l-7 0V1Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11128" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_644_11128" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_644_11128" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

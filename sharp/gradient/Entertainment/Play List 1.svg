@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Play-List-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Play List 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/play-list-1--screen-television-display-player-movies-movie-tv-media-players-video-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_628_19821)" fill-rule="evenodd" d="M16.1642 5H23V1h-2.8358l-4 4Zm1.1716-4h-5.6716L7.66421 5h5.67159l4-4ZM2 1h6.83579l-4 4H1V1h1Zm21 6H1v16h22V7Zm-12.4855 4.1426L9 10.2339v9.5324l1.5145-.9087 5-3 1.4292-.8575-1.4292-.8575-5-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19821" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

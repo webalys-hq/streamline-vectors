@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Radioactive-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Radioactive 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/radioactive-1--danger-nuke-radiation-nuclear-warning-alert-radioactive-caution">
+    <g id="Union">
+      <path fill="url(#paint0_linear_644_11829)" d="m14.423 12.5141-2.0781-3.59476L17.1342.634766l.8653.498924c.9006.51925 1.7373 1.15756 2.4854 1.90466C22.7354 5.28604 24 8.33484 24 11.5141v1h-9.577Z"></path>
+      <path fill="url(#paint1_linear_644_11829)" d="M0 12.5141h9.57699L11.655 8.91937 6.8658.63479l-.86534.49893c-.90056.51924-1.73724 1.15754-2.48529 1.90463C1.26459 5.28604 0 8.33484 0 11.5141v1Z"></path>
+      <path fill="url(#paint2_linear_644_11829)" d="M12 23.5c-2.12445 0-4.19091-.5628-5.9995-1.6056l-.8673-.5 4.78983-8.2856 4.15397 0 4.7898 8.2856-.8673.5001C16.1909 22.9372 14.1245 23.5 12 23.5Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11829" x1="23.919" x2="-3.824" y1="23.505" y2="7.124" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_644_11829" x1="23.919" x2="-3.824" y1="23.505" y2="7.124" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_644_11829" x1="23.919" x2="-3.824" y1="23.505" y2="7.124" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

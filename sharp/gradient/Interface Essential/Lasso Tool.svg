@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Lasso-Tool--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Lasso Tool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/lasso-tool">
+    <path id="Union" fill="url(#paint0_linear_644_11493)" fill-rule="evenodd" d="M12 3.5c-5.02407 0-8.5 3.2052-8.5 6.5 0 1.7212.89897 3.3726 2.51303 4.6007C6.3383 14.5343 6.66987 14.5 7 14.5c1.50752 0 3.045.7146 3.875 1.9431.3676.0375.7431.0569 1.125.0569 5.0241 0 8.5-3.2052 8.5-6.5S17.0241 3.5 12 3.5ZM.5 10c0 2.4311 1.08951 4.5868 2.79177 6.215C2.80148 16.8364 2.5 17.6083 2.5 18.5c0 2.4536 2.28241 4 4.5 4 1.40001 0 2.82585-.6163 3.6869-1.6882l3.4529 2.417 1.7204-2.4576-1.9971-1.398C19.1061 18.656 23.5 14.963 23.5 10 23.5 4.45825 18.0216.5 12 .5 5.97837.5.5 4.45825.5 10ZM7 17.5c-1.09612 0-1.5.6922-1.5 1 0 .3078.40388 1 1.5 1s1.5-.6922 1.5-1c0-.3078-.40388-1-1.5-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11493" x1="25.493" x2="-5.283" y1="28.043" y2="5.921" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

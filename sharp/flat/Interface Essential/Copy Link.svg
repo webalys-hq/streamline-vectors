@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Copy-Link--Streamline-Sharp">
+  <desc>
+    Copy Link Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="copy-link">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="m18 0.585693 0.7071 0.707107 4 4 0.7071 0.70711 -0.7071 0.7071 -4 3.99999 -1.4142 -1.4142 3.2929 -3.29289L18 3.41412l-3.2929 3.29289 -1.4142 -1.41421 4 -4L18 0.585693ZM7.79292 10.7928l3.99998 -4 1.4142 1.41421 -3.29286 3.29289L12.5 14.0857l3.2929 -3.2929 1.4142 1.4142 -4 4 -0.7071 0.7071 -0.7071 -0.7071 -3.99998 -4 -0.7071 -0.7071 0.7071 -0.7071Zm5.91418 0.9142 4.5 -4.49999 -1.4142 -1.41421 -4.5 4.5 1.4142 1.4142Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M12.4642 4H1v19h19V11.5352l-7.5001 7.5001 -7.53554 -7.5355L12.4642 4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

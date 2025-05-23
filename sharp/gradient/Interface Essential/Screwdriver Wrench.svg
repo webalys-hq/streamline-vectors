@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Screwdriver-Wrench--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Screwdriver Wrench Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/screwdriver-wrench--tools-construction-tools-wrench-screwdriver-preferences-setting-edit-adjust">
+    <path id="Union" fill="url(#paint0_linear_644_11944)" fill-rule="evenodd" d="m13.666 1.05784.3348-.118387-.0013 5.683027 2.0004 1.68624 1.9997-1.68628V.939629l.3336.117951c.9751.34475 1.8712.90464 2.6165 1.64996C22.2625 4.02029 23 5.80077 23 7.65728c0 1.85652-.7375 3.63702-2.0503 4.94972-.4363.4364-.9244.8092-1.4497 1.1125v9.2809h-7v-9.2809c-.5253-.3033-1.0134-.6761-1.4497-1.1125C9.7375 11.2943 9 9.5138 9 7.65728c0-1.85651.7375-3.63699 2.0503-4.94974.7451-.74513 1.6409-1.30493 2.6157-1.6497ZM2.21939 1.00049h4.56155l1.32657 5.30695L5.5 8.9134v4.0632l2.50017 0-.00011 10.0211H1l.00008-10.0211 2.49992 0V8.916L.892578 6.30703 2.21939 1.00049Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11944" x1="4.506" x2="22.344" y1="5.182" y2="15.086" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

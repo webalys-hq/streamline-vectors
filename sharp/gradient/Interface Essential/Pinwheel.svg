@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pinwheel--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Pinwheel Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/pinwheel--windmill-velocity-weather-wind">
+    <path id="Subtract" fill="url(#paint0_linear_644_11786)" fill-rule="evenodd" d="M12.9999.0712891V11.0004h6v-4c0-3.52647-2.6077-6.443881-6-6.9291109ZM23.929 13.0004H12.9999v6h4c3.5265 0 6.4439-2.6077 6.9291-6ZM10.9999 23.9295V13.0004l-5.99999 0v4c0 3.5265 2.60771 6.4439 5.99999 6.9291ZM.0708008 11.0004H10.9999v-6H6.99991c-3.52647 0-6.443879 2.60771-6.9291092 6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11786" x1="3.971" x2="23.24" y1="4.659" y2="15.336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Gas-Station-Fuel-Petroleum--Streamline-Sharp">
+  <desc>
+    Gas Station Fuel Petroleum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gas-station-fuel-petroleum">
+    <path id="Rectangle 911" fill="#8fbffa" d="M1 3.5h14V23H1V3.5Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M3 7.5h10V12H3V7.5ZM9.5 16v3h2v-3h-2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="m21 5.914 2.207 -2.207 -1.414 -1.414 -5 5 -0.293 0.293V15H19a2 2 0 1 1 0 4h-4v2h4a4 4 0 0 0 0 -8h-0.5v-2H21V5.914Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

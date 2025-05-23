@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Trophy--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Trophy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/trophy--reward-rating-trophy-social-award-media">
+    <path id="Union" fill="url(#paint0_linear_644_12243)" fill-rule="evenodd" d="M1 1h22v9h-2V3h-2v7c0 3.3511-2.3548 6.1522-5.5 6.8389v3.1613H19v3H5v-3h5.5v-3.1613C7.35482 16.1522 5 13.3511 5 10V3H3v7H1V1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12243" x1="1.845" x2="26.92" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

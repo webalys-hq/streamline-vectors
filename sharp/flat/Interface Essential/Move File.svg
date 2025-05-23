@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Move-File--Streamline-Sharp">
+  <desc>
+    Move File Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="move-file">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M23 6.5 17.5 1H3v14.75h3.095l0 -3.25 3.621 0 6 6 -4.5 4.5H23V6.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="M16.5 1v6.5H23v-1L17.5 1h-1Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="m9.095 23 4.5 -4.5 -4.5 -4.5 -1.5 0 0 3.25 -6.5 0 0 2.5 6.5 0 0 3.25h1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

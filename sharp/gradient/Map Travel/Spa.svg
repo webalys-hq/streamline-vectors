@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Spa--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Spa Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/spa--spa-flower-lotus-lily-hotel">
+    <path id="Union" fill="url(#paint0_linear_628_19438)" fill-rule="evenodd" d="m11.9999 1 1.2791.80159c1.7448 1.09336 3.0342 2.73202 3.7033 4.61765-1.9302.54956-3.6433 1.61293-4.9824 3.03139-1.3391-1.41846-3.05213-2.48183-4.98232-3.03139.66903-1.88563 1.95847-3.52429 3.70322-4.61765L11.9999 1ZM24 22.0001H0v-2h24v2ZM0 8.00006h4c3.48293 0 6.5038 1.97844 8 4.87284 1.4962-2.8944 4.5171-4.87284 8-4.87284h4v1c0 4.97054-4.0294 9.00004-9 9.00004H9c-4.97056 0-9-4.0295-9-9.00004v-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19438" x1="3.923" x2="22.007" y1="5.038" y2="16.489" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

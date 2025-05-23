@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Home-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Home 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/home-1--home-house-roof-shelter">
+    <path id="Union" fill="url(#paint0_linear_644_11391)" fill-rule="evenodd" d="M23 9.90488 12 .00488281 1 9.90488V23.0002h22V9.90488Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11391" x1="4.596" x2="22.726" y1="4.427" y2="14.037" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

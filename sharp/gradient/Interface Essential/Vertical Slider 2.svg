@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Vertical-Slider-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Vertical Slider 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/vertical-slider-2--adjustment-adjust-controls-fader-vertical-settings-slider">
+    <path id="Union" fill="url(#paint0_linear_644_12418)" fill-rule="evenodd" d="m3 1 0 17h1c-1.65685 0-3 1.3431-3 3s1.34315 3 3 3 3-1.3431 3-3-1.34315-3-3-3h1L5 1H3Zm8 8.17071V1h2v8.17071c1.1652.41183 2 1.52309 2 2.82929 0 1.3062-.8348 2.4175-2 2.8293V23h-2v-8.1707C9.83481 14.4175 9 13.3062 9 12s.83481-2.41746 2-2.82929ZM19 23V6.82929C17.8348 6.41746 17 5.30622 17 4c0-1.65685 1.3431-3 3-3s3 1.34315 3 3c0 1.30622-.8348 2.41746-2 2.82929V23h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12418" x1="4.596" x2="22.727" y1="5.423" y2="15.032" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

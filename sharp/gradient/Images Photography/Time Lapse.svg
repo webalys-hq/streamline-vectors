@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Time-Lapse--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Time Lapse Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="time-lapse--time-lapse-mode-photo-picture-image-setting">
+    <path id="Union" fill="url(#paint0_linear_630_38009)" fill-rule="evenodd" d="M12 21.5c-5.24671 0-9.5-4.2533-9.5-9.5 0-5.24671 4.25329-9.5 9.5-9.5V0C5.37258 0 0 5.37258 0 12c0 6.6274 5.37258 12 12 12 6.6274 0 12-5.3726 12-12h-2.5c0 5.2467-4.2533 9.5-9.5 9.5Zm8.5505-13.6461c.3419.70389.5993 1.45615.7592 2.2439l2.4501-.49734c-.2023-.99675-.5282-1.94872-.9606-2.83898L20.5505 7.8539Zm-.9497-1.55423c-.5408-.71979-1.1815-1.36042-1.9013-1.90112l1.5014-1.99892c.9082.68219 1.7164 1.49022 2.3987 2.39835l-1.9988 1.50169Zm-5.6996-3.60902c.7878.15991 1.5401.41737 2.2441.75937l1.0925-2.24867c-.8904-.432543-1.8424-.758391-2.8392-.960735l-.4974 2.450035ZM10.75 7.11377v5.40413l.3661.3661 3.9091 3.9091 1.7678-1.7678-3.543-3.5429V7.11377h-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38009" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

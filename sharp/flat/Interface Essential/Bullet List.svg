@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bullet-List--Streamline-Sharp">
+  <desc>
+    Bullet List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bullet-list--points-bullet-unordered-list-lists-bullets">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1 1h6v6H1V1Zm0 8h6v6H1V9Zm6 8H1v6h6v-6Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M23 5H9V3h14v2Zm0 8H9v-2h14v2ZM9 21h14v-2H9v2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

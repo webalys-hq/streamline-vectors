@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Fire-Wall--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Fire Wall Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/fire-wall--code-firewall-programming-secure-security">
+    <path id="Union" fill="url(#paint0_linear_644_11250)" fill-rule="evenodd" d="M11.8757 0h-.4154l-.2932.294353L7.75589 3.71968C6.06424 5.41833 5.59491 7.8787 6.34791 10H17.6521c.5704-1.60719.4387-3.40842-.393-4.92531l-.5951-1.08538-.9361.80993c-.2899.25084-.6644.40094-1.0757.40094-.9083 0-1.6516-.74048-1.6516-1.6626v-.00023L13 .999764 12.9997 0h-1.124ZM2 12H1v4.5h13V12H2ZM1 22v-3.5h7V23H1v-1Zm22 1H10v-4.5h13V23Zm0-10v3.5h-7V12h7v1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11250" x1="4.596" x2="22.727" y1="4.423" y2="14.032" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

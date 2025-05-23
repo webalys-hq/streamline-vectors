@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Virus-Antivirus--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Virus Antivirus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/virus-antivirus--health-medical-covid19-flu-influenza-virus-antivirus">
+    <path id="Union" fill="url(#paint0_linear_628_20199)" fill-rule="evenodd" d="M2 12c0-2.64878 1.02984-5.05703 2.71096-6.8462l3.48638 3.71881c-.49818.60504-.85477 1.33109-1.01906 2.12729H5.36475v2h1.81354c.1274.6175.3704 1.1926.70538 1.7019L6.60051 15.985l1.41421 1.4142 1.28316-1.2832c.50936.3351 1.08462.5781 1.70212.7055v1.8141h2v-1.8142c.6887-.1422 1.3249-.4282 1.8757-.8252l3.4867 3.7191C16.6336 21.1426 14.4169 22 12 22 6.47715 22 2 17.5228 2 12Zm7.75962-4.38519c.38668-.19792.80288-.3462 1.24038-.43644V5.36444h2v1.81401c.6175.12743 1.1927.3705 1.702.70556l1.2833-1.28326 1.4142 1.41422-1.2834 1.28337c.3349.50922.5778 1.08426.7052 1.70156h1.814v2h-1.814c-.1123.5442-.3144 1.0556-.5901 1.5179l3.5401 3.7761C21.165 16.5753 22 14.3851 22 12c0-5.52285-4.4772-10-10-10-2.1536 0-4.1482.68078-5.78032 1.83887l3.53994 3.77594ZM12 0C5.37258 0 0 5.37258 0 12c0 6.6274 5.37258 12 12 12 6.6274 0 12-5.3726 12-12 0-6.62742-5.3726-12-12-12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20199" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

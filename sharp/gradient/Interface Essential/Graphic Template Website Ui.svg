@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Graphic-Template-Website-Ui--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Graphic Template Website Ui Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/graphic-template-website-ui">
+    <path id="Subtract" fill="url(#paint0_linear_644_11308)" fill-rule="evenodd" d="M18.4143 22 8.5 12.0857l-4.5 4.5V22h14.4143ZM14 14c0-1.1046.8954-2 2-2s2 .8954 2 2-.8954 2-2 2-2-.8954-2-2ZM10 3H4.9999v2H10V3Zm3.9999 0H19v2h-5.0001V3ZM22 0H2v8h20V0Zm0 10H2v14h20V10Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11308" x1="2.768" x2="27.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

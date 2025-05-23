@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Drop-Down-Menu--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Drop Down Menu Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/drop-down-menu--input-select-menu-drop-down-internet-form">
+    <path id="Subtract" fill="url(#paint0_linear_628_18744)" fill-rule="evenodd" d="M0 5h24v14H0V5Zm3 3h9v8H3V8Zm11.7929 3.7071 2.5 2.5.7071.7071.7071-.7071 2.5-2.5-1.4142-1.4142L18 12.0858l-1.7929-1.7929-1.4142 1.4142Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18744" x1="26.08" x2="6.463" y1="21.965" y2="-1.923" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

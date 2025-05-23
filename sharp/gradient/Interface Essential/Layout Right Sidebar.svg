@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Layout-Right-Sidebar--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Layout Right Sidebar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/layout-right-sidebar">
+    <path id="Subtract" fill="url(#paint0_linear_644_11509)" fill-rule="evenodd" d="M15 1h8v22h-8V1Zm-2 0H1v22h12V1Zm7 3h-2v2h2V4Zm-2 5h2v2h-2V9Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11509" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

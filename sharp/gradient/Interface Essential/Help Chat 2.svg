@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Help-Chat-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Help Chat 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/help-chat-2--bubble-help-mark-message-query-question-speech-circle">
+    <path id="Subtract" fill="url(#paint0_linear_644_11322)" fill-rule="evenodd" d="M3.51472 3.51472C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-1.8457 0-3.64753-.4252-5.27449-1.2213L.18465 23.8093l1.055-6.4975C.431744 15.6751 0 13.8598 0 12c0-3.1826 1.26428-6.23484 3.51472-8.48528ZM12 7c-1.3807 0-2.5 1.11929-2.5 2.5v.5h-2v-.5C7.5 7.01472 9.51472 5 12 5c2.4853 0 4.5 2.01472 4.5 4.5v.9599l-.3492.2994L13 13.4599V15.5h-2v-2.9599l.3492-.2994L14.5 9.54006V9.5C14.5 8.11929 13.3807 7 12 7Zm-1 12v-2h2v2h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11322" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

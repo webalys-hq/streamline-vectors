@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Passport-Globe--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Passport Globe Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/passport-globe--international-travel-book-id-adventure-visa-airport">
+    <g id="Union">
+      <path fill="url(#paint0_linear_628_19390)" d="M15 0c4.9706 0 9 4.02944 9 9 0 .33801-.0186.67167-.0549 1H21c-.5523 0-1-.44771-1-1V5l-4 .00001c-.5523.00001-1-.44771-1-1V0Z"></path>
+      <path fill="url(#paint1_linear_628_19390)" d="M23.4879 12c-1.2355 3.4956-4.5692 6-8.4879 6-.338 0-.6717-.0186-1-.0549L14 9l-8.00001.00005c0-4.28317 2.99203-7.86758 7.00001-8.777034V4.00001c0 1.65686 1.3431 3.00001 3 3L18 7v2c0 1.6569 1.3431 3 3 3h2.4879Z"></path>
+      <path fill="url(#paint2_linear_628_19390)" fill-rule="evenodd" d="M.999908 11.0001 12 11l0 12.9998-11.000092 0V11.0001ZM8.49999 17.5c0-1.1046-.89543-2-2-2-1.10456 0-2 .8954-2 2s.89544 2 2 2c1.10457 0 2-.8954 2-2Z" clip-rule="evenodd"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19390" x1="4.76" x2="23.699" y1="4.615" y2="14.672" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_628_19390" x1="4.76" x2="23.699" y1="4.615" y2="14.672" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_628_19390" x1="4.76" x2="23.699" y1="4.615" y2="14.672" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

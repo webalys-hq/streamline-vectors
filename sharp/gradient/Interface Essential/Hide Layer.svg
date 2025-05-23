@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hide-Layer--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Hide Layer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/hide-layer--show-layer-work">
+    <path id="Union" fill="url(#paint0_linear_644_11328)" fill-rule="evenodd" d="M0 1.41421 22.5859 24.0002l1.4143-1.4143L19.4142 18H22V0H8v4h10v12.5858l-2-2V6H7.41421l-6-6L0 1.41421ZM2 24V6.24292L16 20.2429V24H2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11328" x1="3.923" x2="23.307" y1="4.615" y2="15.356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

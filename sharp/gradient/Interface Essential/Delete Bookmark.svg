@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Delete-Bookmark--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Delete Bookmark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/delete-bookmark--bookmarks-double-tags-favorite-cross-delete">
+    <path id="Subtract" fill="url(#paint0_linear_644_11108)" fill-rule="evenodd" d="M2 0h20v24.0027l-10-5.8444-10 5.8444V0Zm12.9393 3.93945L12 6.87879 9.06065 3.93945 6.93933 6.06077l2.93934 2.93934-2.93934 2.93939 2.12132 2.1213L12 11.1214l2.9393 2.9394 2.1214-2.1213-2.9394-2.93939 2.9394-2.93934-2.1214-2.12132Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11108" x1="21.932" x2="-3.631" y1="24.008" y2="12.026" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

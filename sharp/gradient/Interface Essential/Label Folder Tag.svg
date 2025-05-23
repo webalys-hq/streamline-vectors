@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Label-Folder-Tag--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Label Folder Tag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/label-folder-tag">
+    <path id="Union" fill="url(#paint0_linear_644_11485)" fill-rule="evenodd" d="M7.41421 0H0v22h13.2572l-3.99988-3.9999L17.2573 10H22V3H10.4142L7.41421 0ZM23.9999 12h-5.9142l-6 6.0001 5.9142 5.9142 6-6.0001V12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11485" x1=".922" x2="28.229" y1="1.933" y2="17.378" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

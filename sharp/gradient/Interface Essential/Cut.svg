@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cut--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cut Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/cut--coupon-cut-discount-price-prices-scissors">
+    <path id="Union" fill="url(#paint0_linear_644_11050)" fill-rule="evenodd" d="M5 3c-1.10457 0-2 .89543-2 2 0 .0327.00078.06521.00234.09753.0009.01885.00207.03764.00349.05635l.00252.03007C3.10121 6.20229 3.95745 7 5 7c1.10457 0 2-.89543 2-2s-.89543-2-2-2Zm2.89442 6.07754C9.16873 8.17134 10 6.68275 10 5c0-2.76142-2.23858-5-5-5S0 2.23858 0 5c0 .52523.0809861 1.03155.231152 1.50715C.595535 7.66627 1.37394 8.67252 2.44622 9.31401L6.93595 12l-4.48973 2.686c-1.07228.6415-1.850685 1.6477-2.215068 2.8069C.0809861 17.9684 0 18.4748 0 19c0 2.7614 2.23858 5 5 5s5-2.2386 5-5c0-1.6827-.83127-3.1713-2.10557-4.0775l1.96326-1.1746 4.37221 2.6157 1.5402-2.5744L12.7794 12l11.2207-6.71277-1.5402-2.57446L9.85769 10.2521 7.89442 9.07754ZM5 21c-1.10457 0-2-.8954-2-2 0-.069.0035-.1373.01033-.2045C3.11275 17.787 3.96447 17 5 17c1.10457 0 2 .8954 2 2s-.89543 2-2 2Zm7-1h3v-2h-3v2Zm4.5 0h3v-2h-3v2Zm7.5 0h-3v-2h3v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11050" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

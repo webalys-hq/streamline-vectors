@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Traffic-Light--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Traffic Light Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/traffic-light">
+    <path id="Subtract" fill="url(#paint0_linear_628_19480)" fill-rule="evenodd" d="M4.99948 0H18.9995v3.70384l3.3638.84095-.7276 2.91042-2.6362-.65905v2.90768l3.3638.84096-.7276 2.9104-2.6362-.659v2.9076l3.3638.841-.7276 2.9104-2.6362-.659V24H4.99948v-5.2038l-2.63619.659-.72761-2.9104 3.3638-.841v-2.9076l-2.63619.659-.72761-2.9104 3.3638-.84096V6.79616l-2.63619.65905-.72761-2.91042 3.3638-.84095V0Zm7.00002 4c-1.1046 0-1.99999.89543-1.99999 2s.89539 2 1.99999 2 2-.89543 2-2-.8954-2-2-2Zm0 6c-1.1046 0-1.99999.8954-1.99999 2s.89539 2 1.99999 2 2-.8954 2-2-.8954-2-2-2Zm-1.99999 8c0-1.1046.89539-2 1.99999-2s2 .8954 2 2-.8954 2-2 2-1.99999-.8954-1.99999-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19480" x1="22.293" x2="-3.85" y1="24.005" y2="11.304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

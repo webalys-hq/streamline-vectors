@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Symmetry-Mirror-1--Streamline-Sharp">
+  <desc>
+    Symmetry Mirror 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="symmetry-mirror-1">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1 7.55556C1 4.48731 3.55837 2 6.71429 2 7.52698 2 8.30004 2.16494 9 2.46227V21.7155C8.46381 21.8997 7.8868 22 7.28571 22c-2.84032 0 -5.14285 -2.2386 -5.14285 -5 0 -1.8114 0.99076 -3.3978 2.47417 -4.275C2.49874 11.912 1 9.90396 1 7.55556Zm22 0C23 4.48731 20.4416 2 17.2857 2 16.473 2 15.7 2.16494 15 2.46227V21.7155c0.5362 0.1842 1.1132 0.2845 1.7143 0.2845 2.8403 0 5.1428 -2.2386 5.1428 -5 0 -1.8114 -0.9907 -3.3978 -2.4741 -4.275C21.5013 11.912 23 9.90396 23 7.55556Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M11 4.5v-3h2v3h-2ZM11 9V6h2v3h-2Zm0 1.5v3h2v-3h-2Zm0 7.5v-3h2v3h-2Zm0 1.5v3h2v-3h-2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

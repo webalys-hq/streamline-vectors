@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Snow-Flake--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Snow Flake Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/snow-flake--winter-freeze-snow-freezing-ice-cold-weather-snowflake">
+    <path id="Union" fill="url(#paint0_linear_644_12071)" fill-rule="evenodd" d="M11.0001 4.76786 8.11621 1.88398 9.88398.116211 12.0001 2.23233 14.1162.116211 15.884 1.88398l-2.8839 2.88388v3.46447l.6768.67677 2.0732-2.07322V4.00009h2.5v1.75h1.75v2.5h-2.8358l-2.0732 2.07321.6768.6768h3.4644l2.8839-2.88389 1.7678 1.76777-2.1161 2.11612 2.1161 2.1161-1.7678 1.7678-2.8839-2.8839h-3.4644l-.6768.6768 2.0732 2.0732h2.8358v2.5h-1.75v1.75h-2.5v-2.8358l-2.0732-2.0732-.6768.6768v3.4644l2.8839 2.8839-1.7678 1.7678-2.1161-2.1161-2.11612 2.1161-1.76777-1.7678 2.88389-2.8839v-3.4644l-.6768-.6768-2.07321 2.0732v2.8358h-2.5v-1.75h-1.75v-2.5h2.83579l2.07322-2.0732-.67677-.6768H4.76786L1.88398 15.884.116211 14.1162l2.116119-2.1161L.116211 9.88398 1.88398 8.11621l2.88388 2.88389h3.46447l.67677-.6768-2.07322-2.07321H4.00009v-2.5h1.75v-1.75h2.5v2.83579L10.3233 8.9091l.6768-.67677V4.76786Zm1 8.46444-1.2322-1.2322 1.2322-1.2322 1.2322 1.2322-1.2322 1.2322Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12071" x1="4.001" x2="23.198" y1="4.687" y2="15.323" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

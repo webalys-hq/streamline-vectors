@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Phone-Vibrate--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Phone Vibrate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/phone-vibrate--android-phone-mobile-device-smartphone-iphone-vibrate-mute">
+    <path id="Union" fill="url(#paint0_linear_628_19200)" fill-rule="evenodd" d="M5.25001 2.52686V4l-2.5 0 0-2.72314V.0268578l1.25-2e-7L20 .0268555h1.25V4l-2.5 0V2.52686l-13.49999 0ZM2.75002 23.999h1.25L20 23.999h1.25V20h-2.5v1.499l-13.49998 0V20h-2.5l0 2.749v1.25ZM.882236 6.88388 2.99835 9 .882236 11.1161-.00164795 12l.88388395.8839L2.99835 15 .882236 17.1161 2.65 18.8839l3-3L6.53389 15 5.65 14.1161 3.53389 12 5.65 9.88388 6.53389 9 5.65 8.11612l-3-3L.882236 6.88388Zm22.235564 0L21.0017 9l2.1161 2.1161.8839.8839-.8839.8839L21.0017 15l2.1161 2.1161-1.7678 1.7678-3-3L17.4661 15l.8839-.8839L20.4661 12 18.35 9.88388 17.4661 9l.8839-.88388 3-3 1.7678 1.76776ZM10 19.5081h4v-2.5h-4v2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19200" x1="23.921" x2="-4.487" y1="24.004" y2="8.003" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

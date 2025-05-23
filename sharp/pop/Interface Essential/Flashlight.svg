@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flashlight--Streamline-Sharp">
+  <desc>
+    Flashlight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flashlight">
+    <path id="Vector" fill="#fddc5c" d="m11 5 8 8 -1.5 1.5H14L6.5 22 2 17.5 9.5 10V6.5L11 5Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="m14.8841 1.11631 -0.8839 -0.883888 -0.8839 0.883888 -4.49999 4.5 -0.36612 0.36611v3.5L1.11631 16.6163l-0.883888 0.8839 0.883888 0.8839 4.5 4.5 0.88388 0.8839 0.88388 -0.8839 7.13393 -7.1339h3.5l0.3661 -0.3661 4.5 -4.5 0.8839 -0.8839 -0.8839 -0.88389 -8 -8Zm-4.1339 8.88389V7.01796l1.1339 -1.13389 6.2322 6.23223 -1.1339 1.1339h-3.5l-0.3661 0.3661 -6.61611 6.6161 -2.73223 -2.7322 6.61614 -6.6161 0.3661 -0.3661v-0.5178Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Attribution--Streamline-Sharp">
+  <desc>
+    Attribution Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="attribution">
+    <path id="Ellipse 571" fill="#8fbffa" d="M1 12a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M12 9c1.1046 0 2 -0.89543 2 -2s-0.8954 -2 -2 -2 -2 0.89543 -2 2 0.8954 2 2 2Zm-3.5 1.8027C9.38252 10.2922 10.9071 10 12 10c1.0929 0 2.6175 0.2922 3.5 0.8027V15h-1.75v4h-3.5v-4H8.5v-4.1973Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

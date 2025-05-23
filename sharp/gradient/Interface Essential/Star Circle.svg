@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Star-Circle--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Star Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/star-circle--reward-social-rating-media-rate-it-star">
+    <path id="Subtract" fill="url(#paint0_linear_644_12124)" fill-rule="evenodd" d="M12 0C8.8174 0 5.76516 1.26428 3.51472 3.51472 1.26428 5.76516 0 8.8174 0 12s1.26428 6.2348 3.51472 8.4853C5.76516 22.7357 8.8174 24 12 24s6.2348-1.2643 8.4853-3.5147C22.7357 18.2348 24 15.1826 24 12c0-3.1826-1.2643-6.23484-3.5147-8.48528C18.2348 1.26428 15.1826 0 12 0Zm2.2585 9.12963L12 5.25781 9.74142 9.12963 5.5592 10.4165l2.87301 2.873-.96329 4.8164L12 16.0618l4.531 2.0441-.9633-4.8164 2.873-2.873-4.1822-1.28687Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12124" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

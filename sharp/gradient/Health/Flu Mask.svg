@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flu-Mask--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Flu Mask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/flu-mask--health-medical-hospital-mask-flu-vaccine-protection">
+    <path id="Subtract" fill="url(#paint0_linear_628_20109)" fill-rule="evenodd" d="M1 5h22.9998l0 1 0 5.8167v.4257l-.3068.2951-4.8654 4.6794c-3.7702 3.7678-9.87731 3.7695-13.64972.0053L.306827 12.5375l-.3068165692-.2951-7.152e-7-.4257L0 6V5h1Zm1 2 2.8755 0-.00001 7.1565-2.87548-2.7655L2 7Zm17.1247 0 0 7.1562 2.8751-2.7651 0-4.3911-2.8751 0Zm-9.53876 5.3053h4.82746v-2H9.58594v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20109" x1="3.923" x2="18.146" y1="7.893" y2="20.465" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

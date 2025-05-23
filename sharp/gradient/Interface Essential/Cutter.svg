@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cutter--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cutter Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/cutter--cutter-company-office-supplies-work">
+    <path id="Union" fill="url(#paint0_linear_644_11061)" fill-rule="evenodd" d="M16.5504 0c-1.5211 0-3.0456.581076-4.2071 1.74264L3.08594 11l8.41426 8.4142 9.2573-9.2573c2.3235-2.32356 2.3235-6.09074 0-8.41426C19.5959.581076 18.0715 0 16.5504 0Zm-3.2576 7.79297 3-3 1.4142 1.41421-3 3-1.4142-1.41421ZM1.5 15.5856l1.67152-1.6715 5.41421 5.4142-4.67152 4.6715H1.5v-8.4142Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11061" x1="22.429" x2="-3.924" y1="24.005" y2="11.033" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

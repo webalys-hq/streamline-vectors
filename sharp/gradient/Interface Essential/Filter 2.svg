@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Filter-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Filter 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/filter-2--funnel-filter-angle-oil">
+    <path id="Union" fill="url(#paint0_linear_644_11237)" fill-rule="evenodd" d="M23 1H1v5.41421l7.5 7.49999v10.0869l7-4.452v-5.6349L23 6.41421V1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11237" x1="22.926" x2="-3.672" y1="24.006" y2="9.695" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

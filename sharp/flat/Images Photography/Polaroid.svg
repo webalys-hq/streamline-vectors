@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Polaroid--Streamline-Sharp">
+  <desc>
+    Polaroid Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="polaroid--photos-polaroid-picture-camera-photography-photo-pictures-image">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1 1h16v11H1V1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1 12h16v5H1v-5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="m3.30201 18.4999 -0.05396 0.2014 15.45485 4.1411L22.844 7.3876 18.5 6.22363V18.4999H3.30201Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chess-Knight--Streamline-Sharp">
+  <desc>
+    Chess Knight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-knight">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="m9.384 1.762 -0.884 -0.16V4.14L3.26 8.332l1.889 3.021 3.592 -0.845 -2.19 9.242H17.36L15.742 7.888l-0.002 -0.011c-0.273 -1.64 -0.962 -3.02 -2.06 -4.071 -1.094 -1.048 -2.551 -1.726 -4.296 -2.044Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M18.04 19H6l-1.54 3.75h15.08L18.04 19Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="m8.344 12.182 3.362 -0.96 -0.412 -1.443 -2.553 0.73 -0.397 1.673Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

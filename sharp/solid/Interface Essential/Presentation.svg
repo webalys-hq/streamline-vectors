@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Presentation--Streamline-Sharp">
+  <desc>
+    Presentation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="presentation">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M22 1H2v13h3.5v-1.927c1.167 -0.584 2.333 -1.04 3.623 -1.294a4 4 0 1 1 5.754 0c1.289 0.254 2.452 0.709 3.623 1.294V14H22V1Zm-3 16 -1.5 6h-11L5 17h14Zm-4.5 -9a2.5 2.5 0 1 1 -5 0 2.5 2.5 0 0 1 5 0ZM7 13s2 -1 5 -1 5 1 5 1v2.5H7V13Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

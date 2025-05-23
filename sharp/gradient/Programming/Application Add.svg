@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Application-Add--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Application Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/application-add--application-new-add-square">
+    <path id="Union" fill="url(#paint0_linear_628_18633)" fill-rule="evenodd" d="M1 1h10v10H1V1Zm0 12h10v10H1V13ZM23 1H13v10h10V1Zm-6.5 12v3.5H13v3h3.5V23h3v-3.5H23v-3h-3.5V13h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18633" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Plane-Flight-Board--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Plane Flight Board Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/plane-flight-board--time-schedule-airplane-list-airport">
+    <path id="Union" fill="url(#paint0_linear_628_19409)" fill-rule="evenodd" d="M5 3V1h2v2h10V1h2v2h4v20H1V3h4Zm7 8.3042L9.52999 12.848l-.67459.4216-.56251-.5625-2-2 1.41422-1.41423L9.1446 10.7304 16.47 6.15204l1.06 1.696L14 10.0543v3.9456h-2v-2.6957ZM4.5 19.5h6v-2h-6v2Zm9 0h6v-2h-6v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19409" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

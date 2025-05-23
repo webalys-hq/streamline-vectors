@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Wrap-Arch--Streamline-Sharp">
+  <desc>
+    Wrap Arch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wrap-arch">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M12 2A18.916 18.916 0 0 0 1.444 5.2L1 5.497v16.407l1.556 -1.042A16.916 16.916 0 0 1 12 18c3.496 0 6.743 1.054 9.444 2.862L23 21.904V5.497l-0.444 -0.297A18.917 18.917 0 0 0 12 2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M23 12.812c-6.541 -4.75 -15.459 -4.75 -22 0v1.899c6.365 -5.282 15.635 -5.282 22 0v-1.899Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Lift--Streamline-Sharp">
+  <desc>
+    Lift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lift--arrow-up-human-down-person-user-lift-elevator">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M18.5 4 15 7.5v1h7v-1L18.5 4Zm0 15.5L15 16v-1h7v1l-3.5 3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M4.25 3.75a2.75 2.75 0 1 1 5.5 0 2.75 2.75 0 0 1 -5.5 0ZM4 23v-6H2v-7s1.5 -2 5 -2 5 2 5 2v7h-2v6H4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

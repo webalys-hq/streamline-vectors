@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Voice-Mail--Streamline-Sharp">
+  <desc>
+    Voice Mail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="voice-mail--mic-audio-mike-music-microphone">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M18 1H6v10a6 6 0 0 0 12 0V1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M11 20.95c-5.053 -0.5 -9 -4.764 -9 -9.95h2a8 8 0 1 0 16 0h2c0 5.185 -3.947 9.449 -9 9.95V23l-2 0v-2.05Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

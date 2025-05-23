@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Input-Box--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Input Box Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/input-box--cursor-text-formatting-type-format">
+    <path id="Subtract" fill="url(#paint0_linear_644_11442)" fill-rule="evenodd" d="M11.5 4H15V1H5v3h3.5v16H5v3h10v-3h-3.5V4Zm-5 14V6H1v12h5.5ZM23 18h-9.5V6H23v12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11442" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

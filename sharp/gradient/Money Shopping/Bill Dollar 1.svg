@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bill-Dollar-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bill Dollar 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bill-dollar-1--billing-bills-payment-finance-cash-currency-money-accounting-dollar">
+    <path id="Union" fill="url(#paint0_linear_630_38052)" fill-rule="evenodd" d="M2 1H1v14h22V1H2Zm6.53235 4.71033c0-1.10457.89543-2 1.99995-2h2.9346c1.1045 0 2 .89543 2 2v.64483h-2v-.64483h-2.9346v.66508l3.3684.74853c.9151.20335 1.5662 1.01497 1.5662 1.95237v1.21339c0 1.1045-.8955 2-2 2h-2.9346c-1.10452 0-1.99995-.8955-1.99995-2v-.64486h1.99995v.64486h2.9346l0-1.21339-3.3684-.74853c-.91509-.20335-1.56615-1.01497-1.56615-1.95237v-.66508ZM20 19H4v-2h16v2Zm-3 4H7v-2h10v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38052" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

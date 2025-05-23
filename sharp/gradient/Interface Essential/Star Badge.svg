@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Star-Badge--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Star Badge Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/star-badge--ribbon-reward-like-social-rating-media">
+    <g id="Union">
+      <path fill="url(#paint0_linear_644_12122)" d="m7.11615 23.8335 3.34735-5.9508c-2.6469-.4082-4.95127-1.8543-6.48431-3.9095L.285156 20.4999H4.64091l2.47524 3.3336Z"></path>
+      <path fill="url(#paint1_linear_644_12122)" d="M20.0204 13.9737c-1.5331 2.0551-3.8376 3.5011-6.4845 3.9091l3.3473 5.9507 2.4752-3.3336h4.3558l-3.6938-6.5262Z"></path>
+      <path fill="url(#paint2_linear_644_12122)" fill-rule="evenodd" d="M12 16c-4.41828 0-8-3.5817-8-8 0-4.41828 3.58172-8 8-8 4.4183 0 8 3.58172 8 8 0 4.4183-3.5817 8-8 8Zm.0004-11.98096 1.3589 2.32955 2.493.76708-1.67 1.67001.5707 2.85362-2.7526-1.2418-2.75267 1.2418.57071-2.85362-1.67-1.67001 2.49306-.76708 1.3589-2.32955Z" clip-rule="evenodd"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12122" x1="1.185" x2="28.107" y1="1.926" y2="16.842" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_644_12122" x1="1.185" x2="28.107" y1="1.926" y2="16.842" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_644_12122" x1="1.185" x2="28.107" y1="1.926" y2="16.842" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

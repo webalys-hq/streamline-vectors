@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="User-Feedback-Heart--Streamline-Sharp-Gradient-Free">
+  <desc>
+    User Feedback Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/user-feedback-heart">
+    <path id="Union" fill="url(#paint0_linear_644_12320)" fill-rule="evenodd" d="M2.5 12c0-5.24671 4.25329-9.5 9.5-9.5 3.3868 0 6.3611 1.77161 8.0446 4.44426L18.9158 8.0731l.9191.91905h4.1649V4.82726l-.9191-.91906-1.233 1.23295C19.6808 2.03545 16.0786 0 12 0 5.37258 0 0 5.37258 0 12h2.5Zm19 0c0 5.2467-4.2533 9.5-9.5 9.5-3.39036 0-6.36772-1.7757-8.04986-4.4525l1.1343-1.1343-.91906-.9191H.000488281v4.1649l.919058719.9191 1.227213-1.2272C4.31349 21.9614 7.9179 24 12 24c6.6274 0 12-5.3726 12-12h-2.5ZM12 8.38786l-.6099-.60991c-1.3475-1.34746-3.53213-1.34747-4.87958-.00002C5.16308 9.12537 5.16308 11.31 6.51051 12.6574L12 18.1469l5.4894-5.4895c1.3475-1.3474 1.3475-3.53202.0001-4.87946-1.3475-1.34746-3.5321-1.34748-4.8796-.00004L12 8.38786Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12320" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

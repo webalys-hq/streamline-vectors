@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Flow-Rows--Streamline-Sharp">
+  <desc>
+    Text Flow Rows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-flow-rows">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M19 4H5v2h11.586L4.293 18.293 2.586 20H18v3h1l4 -4 -4 -4h-1v3H7.414L19.707 5.707 21.414 4H19Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1.5 1.5h7v7h-7v-7Zm0 14h7v7h-7v-7Zm21 -14h-7v7h7v-7Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

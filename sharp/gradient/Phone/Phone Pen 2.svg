@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Phone-Pen-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Phone Pen 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/phone-pen-2--android-phone-mobile-device-smartphone-iphone-pen-pencil">
+    <path id="Union" fill="url(#paint0_linear_628_19193)" fill-rule="evenodd" d="M16.0483 2.5v3h2.5l0-4.25 0-1.25H.0483398v1.25l.000002 21.5 0 1.25H14.4635v-2.5H2.54834l0-19 13.49996 0ZM8.04834 7.1311v-2.5h2.49996v2.5H8.04834ZM20.25 6.83581l.7071.70711 2.75 2.74998.2929.2929V24h-7.5V10.5858l.2929-.2929 2.75-2.74998.7071-.70711Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19193" x1="3.964" x2="23.327" y1="4.615" y2="15.322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

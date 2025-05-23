@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Mine-Cart-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Mine Cart 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/mine-cart-2--outdoor-construction-cart-travel-places">
+    <path id="Union" fill="url(#paint0_linear_628_19370)" fill-rule="evenodd" d="M14.4906.777832 20 4.58679v2.41325H4V4.59207l3.91298-2.75358 2.99572 1.49786L14.4906.777832Zm8.8535 8.222228H.656006L2.98613 16.7672c.71779-.4844 1.58281-.7671 2.51387-.7671 2.48528 0 4.5 2.0147 4.5 4.5 0 .169-.00932.3358-.02746.5h4.05496c-.0182-.1642-.0275-.331-.0275-.5 0-2.4853 2.0147-4.5 4.5-4.5.9311 0 1.7961.2827 2.5139.7671l2.3302-7.76714ZM3 20.5001c0-1.3808 1.11929-2.5 2.5-2.5s2.5 1.1192 2.5 2.5c0 1.3807-1.11929 2.5-2.5 2.5s-2.5-1.1193-2.5-2.5Zm15.5-2.5c-1.3807 0-2.5 1.1192-2.5 2.5 0 1.3807 1.1193 2.5 2.5 2.5s2.5-1.1193 2.5-2.5c0-1.3808-1.1193-2.5-2.5-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19370" x1="23.267" x2="-3.33" y1="23.005" y2="7.73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

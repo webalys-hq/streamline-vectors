@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Closed-Umbrella--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Closed Umbrella Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/closed-umbrella--storm-rain-umbrella-close-weather">
+    <path id="Union" fill="url(#paint0_linear_644_10972)" fill-rule="evenodd" d="M10.8437 0h2.3131l.261.602393 6.5 15.000007L20.5234 17H13v5h3v-3h2v5h-7v-7H3.47705l.60563-1.3976L10.5827.602393 10.8437 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10972" x1="6.263" x2="21.845" y1="4.615" y2="10.747" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

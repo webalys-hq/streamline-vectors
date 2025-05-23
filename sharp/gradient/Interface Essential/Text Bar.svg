@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Bar--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Text Bar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/text-bar--text-bar-formatting-format">
+    <path id="Union" fill="url(#paint0_linear_644_12177)" fill-rule="evenodd" d="M8 3H4V0h4c1.57603 0 2.9972.66289 4 1.72506C13.0028.66289 14.424 0 16 0h4v3h-4c-1.3807 0-2.5 1.11929-2.5 2.5v5H18v3h-4.5v5c0 1.3807 1.1193 2.5 2.5 2.5h4v3h-4c-1.576 0-2.9972-.6629-4-1.7251C10.9972 23.3371 9.57603 24 8 24H4v-3h4c1.38071 0 2.5-1.1193 2.5-2.5v-5H6v-3h4.5v-5C10.5 4.11929 9.38071 3 8 3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12177" x1="6.615" x2="21.477" y1="4.615" y2="10.105" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

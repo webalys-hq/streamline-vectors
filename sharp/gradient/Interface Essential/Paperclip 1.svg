@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Paperclip-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Paperclip 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/paperclip-1--attachment-link-paperclip-unlink">
+    <path id="Vector 1471 (Stroke)" fill="url(#paint0_linear_644_11706)" fill-rule="evenodd" d="M9.60226 2.96912c3.29364-3.29216 8.63344-3.29216 11.92714 0 3.294 3.29254 3.294 8.63108 0 11.92358l-8.1719 8.1682-2.1209-2.1218 8.1719-8.1682c2.1219-2.1208 2.1219-5.55912 0-7.67998-2.1222-2.12123-5.5632-2.12123-7.6854 0L3.91438 12.8961c-1.21917 1.2186-1.21917 3.1941 0 4.4127 1.21956 1.219 3.19714 1.219 4.41669 0l7.80873-7.80514c.3165-.31639.3165-.82908 0-1.14547-.3169-.31676-.831-.31676-1.1479 0L7.18315 16.1633l-2.12084-2.1218L12.871 6.23639c1.4884-1.4877 3.9012-1.4877 5.3896 0 1.4888 1.48807 1.4888 3.90101 0 5.38911l-7.8087 7.8051c-2.39101 2.3899-6.26733 2.3899-8.65835 0-2.391399-2.3903-2.391399-6.266 0-8.6563l7.80871-7.80518Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11706" x1="3.923" x2="22.726" y1="4.839" y2="15.921" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

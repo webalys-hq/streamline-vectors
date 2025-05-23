@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Surveillance-Camera--Streamline-Sharp">
+  <desc>
+    Surveillance Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="surveillance-camera">
+    <path id="Rectangle 1003" fill="#2859c5" d="M20.5 6h2v5h-2z" stroke-width="1"></path>
+    <path id="Rectangle 1001" fill="#2859c5" d="M19 13V5l-8 8h8Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M11 20v-7H9v5H3v-2H1v6h2v-2h8Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 3664" fill="#8fbffa" d="M2 13V3h19L11 13H2Z" stroke-width="1"></path>
+    <path id="Rectangle 1002" fill="#2859c5" d="M5 7h2v2H5z" stroke-width="1"></path>
+  </g>
+</svg>

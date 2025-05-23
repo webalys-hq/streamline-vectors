@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Login-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Login 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/login-2--arrow-enter-left-login-point-circle">
+    <path id="Union" fill="url(#paint0_linear_644_11548)" fill-rule="evenodd" d="M12 0C8.8174 0 5.76516 1.26428 3.51472 3.51472 1.26428 5.76516 0 8.8174 0 12s1.26428 6.2348 3.51472 8.4853C5.76516 22.7357 8.8174 24 12 24s6.2348-1.2643 8.4853-3.5147c1.404-1.404 2.4242-3.1202 2.993-4.9853h-7.4782V18h-3.8285l-5.99997-6 5.99997-6h3.8285v2.5h7.4782c-.5688-1.86515-1.589-3.58126-2.993-4.98528C18.2348 1.26428 15.1826 0 12 0ZM9 12l4-4h1v2.5h10v3H14V16h-1l-4-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11548" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

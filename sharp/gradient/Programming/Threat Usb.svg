@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Threat-Usb--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Threat Usb Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/threat-usb--bug-usb-file-threat-danger">
+    <path id="Union" fill="url(#paint0_linear_628_18723)" fill-rule="evenodd" d="M11 0h5v5H4V0h5v2h2V0ZM2 7h16v2.01446C17.8346 9.00486 17.6678 9 17.5 9 12.8056 9 9 12.8056 9 17.5c0 2.6075 1.1741 4.9407 3.0224 6.5L12 24H8c-3.31371 0-6-2.6863-6-6V7Zm9 10.5c0-3.5899 2.9101-6.5 6.5-6.5s6.5 2.9101 6.5 6.5-2.9101 6.5-6.5 6.5-6.5-2.9101-6.5-6.5Zm5.5-3.4999v3.9998h2v-3.9998h-2ZM16.5 21v-1.9999h2V21h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18723" x1="23.926" x2="-3.167" y1="24.005" y2="10.035" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

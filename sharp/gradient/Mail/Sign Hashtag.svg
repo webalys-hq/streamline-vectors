@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Sign-Hashtag--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Sign Hashtag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/sign-hashtag--mail-sharp-sign-hashtag-tag">
+    <path id="Union" fill="url(#paint0_linear_628_19596)" fill-rule="evenodd" d="m4.52218 23.2432.99878-5.743H.5v-3h5.5427l.86957-5.00002H2.5v-3h4.93401L8.52218.243164l2.95562.514024-.9988 5.742992h4.955L16.5222.243164l2.9556.514024-.9988 5.742992H23.5v3h-5.5427l-.8696 5.00002H21.5v3h-4.934l-1.0882 6.257-2.9556-.514.9988-5.743H8.56599l-1.08817 6.257-2.95564-.514Zm9.52052-8.743.8696-5.00002h-4.955l-.86957 5.00002h4.95497Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19596" x1="1.384" x2="27.874" y1="2.143" y2="16.747" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

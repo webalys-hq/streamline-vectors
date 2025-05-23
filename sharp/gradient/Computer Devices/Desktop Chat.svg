@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Desktop-Chat--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Desktop Chat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/desktop-chat--bubble-chat-customer-service-conversation-display-device">
+    <path id="Union" fill="url(#paint0_linear_628_18875)" fill-rule="evenodd" d="M11.961 11.4918 11.9609 0H24v9.30286l-8.2081.00001-3.8309 2.18893ZM1.25 3.45973H0V19.4597h9v2.0406H6v2.5h10v-2.5h-3v-2.0406h9V11.49h-2.5v5.4697h-17V5.95973H10v-2.5H1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18875" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

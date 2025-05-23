@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Card-Game-Diamond--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Card Game Diamond Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/card-game-diamond">
+    <path id="Subtract" fill="url(#paint0_linear_628_19927)" fill-rule="evenodd" d="M2 0h20v24H2V0Zm3 3v2h2V3H5Zm7 2.69722.8321 1.24808 3 4.5.3698.5547-.3698.5547-3 4.5L12 18.3028l-.8321-1.2481-2.99995-4.5L7.79815 12l.3698-.5547 2.99995-4.5L12 5.69722ZM17 21v-2h2v2h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19927" x1="23.733" x2="-6.324" y1="29.083" y2="11.291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

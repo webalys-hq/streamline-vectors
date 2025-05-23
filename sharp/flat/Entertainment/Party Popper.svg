@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Party-Popper--Streamline-Sharp">
+  <desc>
+    Party Popper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="party-popper--hobby-entertainment-party-popper-confetti-event">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M12.3131 2.46526c-0.5951 1.13285 -0.4147 2.56517 0.5361 3.51589l-1.4143 1.41421c-1.58733 -1.58737 -1.88306 -3.97428 -0.8924 -5.8602l1.7706 0.9301ZM9.08966 7.45654c-1.019 -1.57335 -1.34309 -3.46961 -0.96792 -5.25023L6.1647 1.79398c-0.48127 2.28421 -0.06729 4.7216 1.24629 6.74978l1.67867 -1.08722ZM1.99999 6.00018h2v-2h-2v2Zm0.45736 5.98732c1.12924 -0.5805 2.5484 -0.396 3.49256 0.5482l1.41422 -1.4142c-1.57648 -1.57649 -3.94155 -1.87895 -5.82116 -0.9127l0.91438 1.7787Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M15.6728 5.75146 5.75146 15.6728l13.40784 7.0983 3.6118 -3.6118 -7.0983 -13.40784Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M17.75 9.67501V22.025l1.4093 0.7461 0.0907 -0.0907V12.5083l-1.5 -2.83329Zm-4 10.23239V7.67432l-1.5 1.5v9.93898l1.5 0.7941Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

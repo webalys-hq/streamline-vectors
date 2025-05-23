@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Transfer-Cart--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Transfer Cart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Shipping/transfer-cart--package-box-fulfillment-cart-warehouse-shipping-delivery-transfer">
+    <path id="Union" fill="url(#paint0_linear_628_20014)" fill-rule="evenodd" d="m3.20718.0722656 2.5 2.5000044.29288.29288.00002.41419.00048 14.89166c.85218.3013 1.52758.9768 1.82881 1.8291H19.9143l.2929.2929 2 2-1.4142 1.4142-1.7071-1.7071H7.82937c-.41184 1.1652-1.52308 2-2.82929 2-1.65686 0-3-1.3432-3-3 0-1.3064.83503-2.4178 2.00048-2.8295l-.00047-14.477-2.20712-2.20712L3.20718.0722656ZM9 7H8v11h12V7H9Zm8 8h-4v-2h4v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20014" x1="5.13" x2="22.744" y1="4.674" y2="13" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

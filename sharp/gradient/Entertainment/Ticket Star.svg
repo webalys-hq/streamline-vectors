@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Ticket-Star--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Ticket Star Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/ticket-star--hobby-ticket-star-event-entertainment-stub-theater-entertainment-culture">
+    <path id="Subtract" fill="url(#paint0_linear_628_19964)" fill-rule="evenodd" d="M0 2h24v7.87788l-.6668.23562C22.5551 10.3886 22 11.1307 22 12s.5551 1.6114 1.3332 1.8865l.6668.2356V22H0v-7.8779l.666754-.2356C1.4449 13.6114 2 12.8693 2 12s-.5551-1.6114-1.333246-1.8865L0 9.87788V2Zm12.0002 4.01535.8638 1.48076 1.2459 2.1359 2.0911.52279 1.6018.4004-1.0969 1.2341-1.3585 1.5283.3511 2.4575.2599 1.8196-1.669-.7703-2.2892-1.0565-2.28919 1.0565-1.66896.7703.25995-1.8196.35107-2.4575-1.3585-1.5283-1.09694-1.2341 1.60181-.4004 2.09107-.52279 1.24599-2.1359.8637-1.48076Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19964" x1=".922" x2="25.652" y1="3.616" y2="20.342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

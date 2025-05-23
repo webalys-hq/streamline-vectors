@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cyborg--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cyborg Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/cyborg--artificial-robotics-intelligence-machine-technology-android">
+    <path id="Subtract" fill="url(#paint0_linear_628_18843)" fill-rule="evenodd" d="M13 1v5h10v9.5h-4.9142l-.2929.2929L16.0858 17.5H7.91421l-1.7071-1.7071-.2929-.2929H1V6h10V1h2ZM1 17.5V23h22v-5.5h-4.0858l-1.7071 1.7071-.2929.2929H7.08579l-.2929-.2929L5.08579 17.5H1ZM7 14v-3h2v3H7Zm8-3v3h2v-3h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18843" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

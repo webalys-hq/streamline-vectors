@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Notebook--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Notebook Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/notebook--pencil-content-write-notebook-book-edit-composition-creation">
+    <path id="Union" fill="url(#paint0_linear_644_11632)" fill-rule="evenodd" d="M1 1h18v9.2573l-8 8V23H1V1Zm5 5h8v4H6V6Zm14 6.0859 3.9142 3.9143-7 7H13v-3.9143l7-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11632" x1="4.746" x2="22.891" y1="5.231" y2="15.702" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

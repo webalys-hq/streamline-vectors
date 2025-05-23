@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Triangle-Flag--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Triangle Flag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/triangle-flag--navigation-map-maps-flag-gps-location-destination-goal">
+    <path id="Union" fill="url(#paint0_linear_628_19494)" fill-rule="evenodd" d="M.999512.505371 24.0003 10 4.99951 17.8435V23H.999512V.505371Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19494" x1="25.994" x2="-4.565" y1="27.765" y2="5.569" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Missed-Call--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Missed Call Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/missed-call--android-phone-mobile-device-smartphone-iphone-missed-call">
+    <g id="Union">
+      <path fill="url(#paint0_linear_628_19164)" d="M23.0416 6.6549V.998047h-5.6569l-.7071.707103 1.7632 1.76313-3.202 3.20194-3.6797-3.67974L9.43778 5.1118l5.80102 5.8011 5.3233-5.3233 1.7724 1.77241.7071-.70711Z"></path>
+      <path fill="url(#paint1_linear_628_19164)" d="M6.59927 13.0723c.53145.7585 1.1362 1.4817 1.8145 2.16.80296.803 1.66883 1.5029 2.58163 2.1001l1.646-2.758 7.2014 2.0576-.3757 3.1358-.386 3.2208-.9366-.0519c-2.7426-.1519-5.4587-.9252-7.9187-2.321-1.38728-.7871-2.69185-1.7715-3.8726-2.9523-1.18074-1.1807-2.16514-2.4853-2.95226-3.8725-1.39581-2.46-2.16911-5.17613-2.32104-7.91872l-.05188-.93662 3.22085-.38587 3.13607-.37567 2.05755 7.20138-2.84322 1.6969Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19164" x1="1.874" x2="26.951" y1="2.775" y2="16.924" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_628_19164" x1="1.874" x2="26.951" y1="2.775" y2="16.924" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flash-Timer--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Flash Timer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flash-timer--flash-timer-camera-light-auto">
+    <path id="Union" fill="url(#paint0_linear_630_37942)" fill-rule="evenodd" d="M7.93154 0h9.76206l-1.2251 1.6064-3.296 4.32212h5.5361l-1.4782 1.66411L6.42124 19.7613l-.29837.3359H2.21929l.87905-1.5045 3.64217-6.2336H.131104l.968006-1.5337L7.63725.466268 7.93154 0ZM18 12c-3.3137 0-6 2.6863-6 6s2.6863 6 6 6 6-2.6863 6-6-2.6863-6-6-6Zm-1 6v-2.5h2V17h1.5v2H17v-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37942" x1="26.069" x2="-6.245" y1="29.083" y2="6.255" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Moon-Cloud--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Moon Cloud Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/moon-cloud--cloud-meteorology-cloudy-partly-sunny-weather">
+    <path id="Union" fill="url(#paint0_linear_644_11590)" fill-rule="evenodd" d="m17.236 1.75907.4484-1.6731325-1.6731.4483695c-1.0232.274183-1.9665.813283-2.7286 1.575343C12.1413 3.25112 11.5 4.79929 11.5 6.41357c0 .07265.0013.14517.0039.21752 1.8883.70667 3.5048 1.96771 4.6525 3.58301C16.7492 10.0741 17.3667 10 18 10c1.3335 0 2.5908.3263 3.6964.9033.0659-.0604.1307-.1223.1942-.1858.762-.76208 1.3011-1.70541 1.5753-2.72855l.4484-1.67314-1.6731.44837c-.3421.09166-.6974.13924-1.0577.13924-1.0839 0-2.1233-.43056-2.8897-1.19696s-1.197-1.80585-1.197-2.8897c0-.36033.0476-.71565.1392-1.05769ZM0 16c0-4.4183 3.58172-8 8-8 3.2255 0 6.0034 1.90819 7.2695 4.6562C16.0887 12.2368 17.0173 12 18 12c3.3137 0 6 2.6863 6 6v4H0v-6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11590" x1="23.919" x2="-3.202" y1="22.005" y2="5.296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

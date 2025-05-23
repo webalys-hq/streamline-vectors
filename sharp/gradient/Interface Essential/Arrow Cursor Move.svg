@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Cursor-Move--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Arrow Cursor Move Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/arrow-cursor-move--mouse-select-cursor-move-scroll">
+    <path id="Union" fill="url(#paint0_linear_644_10837)" fill-rule="evenodd" d="M.508789.507812 13.8912 4.52254 4.52352 13.8902.508789.507812ZM12.5 9.99951l3-3 3 3v.99999h-2v3.5l3.5 0v-2h1l3 3-3 3h-1v-2l-3.5 0v3.5h2v1l-3 3-3-3v-1h2v-3.5l-3.5 0v2h-1l-3-3 3-3h1v2l3.5 0v-3.5h-2v-.99999Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10837" x1="26.036" x2="-5.651" y1="28.975" y2="6.467" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

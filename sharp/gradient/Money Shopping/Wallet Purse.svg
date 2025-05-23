@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Wallet-Purse--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Wallet Purse Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wallet-purse--money-payment-finance-wallet-purse">
+    <path id="Union" fill="url(#paint0_linear_630_38378)" fill-rule="evenodd" d="M10 2V1H8v1c0 .86962.27751 1.67442.7488 2.33069-2.63577.54422-5.0352 1.73678-7.02261 3.403l1.28493 1.53262C5.44352 7.22703 8.5771 6 11.9999 6c3.4228 0 6.5564 1.22703 8.9888 3.26631l1.2849-1.53262c-1.9874-1.66618-4.3867-2.85872-7.0224-3.40296C15.7225 3.67446 16 2.86964 16 2V1h-2v1c0 1.10457-.8954 2-2 2s-2-.89543-2-2Zm2 6C5.92487 8 1 12.9249 1 19v4h22v-4c0-6.0751-4.9249-11-11-11Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38378" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

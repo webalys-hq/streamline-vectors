@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Controller-Wireless--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Controller Wireless Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/controller-wireless--remote-gaming-drones-drone-control-controller-technology-console">
+    <path id="Subtract" fill="url(#paint0_linear_628_18788)" fill-rule="evenodd" d="M6.34334 5.34315c3.12419-3.1242 8.18956-3.1242 11.31366 0l1.4143-1.41422C15.166.0236893 8.83437.0236893 4.92912 3.92893l1.41422 1.41422ZM0 16.5559C0 12.9352 2.93518 10 6.55591 10H17.4441C21.0648 10 24 12.9352 24 16.5559c0 3.6207-2.9352 6.5559-6.5559 6.5559h-.4178c-1.8759 0-3.5478-.8689-4.6411-2.2222h-.7705c-1.0933 1.3533-2.76524 2.2222-4.64107 2.2222h-.41772C2.93518 23.1118 0 20.1766 0 16.5559Zm14.8283-8.38433c-1.5621-1.56209-4.0947-1.56209-5.65684 0L7.75725 6.75736c2.34315-2.34315 6.14215-2.34315 8.48525 0l-1.4142 1.41421ZM5.5 19v-1.5H4v-2h1.5V14h2v1.5H9v2H7.5V19h-2Zm9 0h2v-2h-2v2Zm5-3h-2v-2h2v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18788" x1="23.919" x2="-3.336" y1="23.116" y2="6.476" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

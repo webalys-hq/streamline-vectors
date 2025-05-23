@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Tool-Box--Streamline-Sharp">
+  <desc>
+    Tool Box Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tool-box--box-briefcase-tool-settings">
+    <path id="Rectangle 905" fill="#7af1ff" d="M2 7h20v15H2V7Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M8.46338 5.75C8.97818 4.29351 10.3672 3.25 12 3.25s3.0218 1.04351 3.5366 2.5H8.46338Zm-2.58836 0C6.45411 2.8972 8.9763 0.75 12 0.75s5.5459 2.1472 6.125 5h5.125v17.5H0.75V5.75h5.12502ZM3.25 13.5v7.25h17.5V13.5h-7.5V16h-2.5v-2.5h-7.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

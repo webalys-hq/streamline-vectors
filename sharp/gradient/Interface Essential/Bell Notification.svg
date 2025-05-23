@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bell-Notification--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/bell-notification--alert-bell-ring-notification-alarm">
+    <path id="Union" fill="url(#paint0_linear_644_10869)" fill-rule="evenodd" d="M4.00007 9c0-4.41828 3.58172-8 8.00003-8 4.4182 0 8 3.58172 8 8v4.735L23.0015 19H.999023l3.001047-5.265V9ZM10 23h4v-2h-4v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10869" x1="1.844" x2="26.92" y1="2.778" y2="16.913" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

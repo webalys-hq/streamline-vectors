@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Definition-Search-Book--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Definition Search Book Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Work Education/definition-search-book">
+    <path id="Union" fill="url(#paint0_linear_628_20263)" fill-rule="evenodd" d="M1 0H0v18h6.69825C6.24892 16.9571 6 15.8076 6 14.6c0-3.457 2.03972-6.43756 4.9813-7.80389V3.56662C10.9813 1.59683 9.38449 0 7.41469 0H1Zm22 18h-.4988c.4496-1.0437.6988-2.1939.6988-3.4 0-4.74966-3.8504-8.6-8.6-8.6-.5402 0-1.0687.0498-1.5813.14507V3.56662C13.0187 1.59683 14.6155 0 16.5853 0H24v18h-1Zm-13-3.4c0-2.5405 2.0595-4.6 4.6-4.6 2.5405 0 4.6 2.0595 4.6 4.6 0 2.5405-2.0595 4.6-4.6 4.6-2.5405 0-4.6-2.0595-4.6-4.6ZM14.6 8C10.9549 8 8 10.9549 8 14.6s2.9549 6.6 6.6 6.6c1.4618 0 2.8125-.4752 3.9062-1.2796l3.7867 3.7867 1.4142-1.4142-3.7867-3.7867C20.7248 17.4125 21.2 16.0617 21.2 14.6c0-3.6451-2.9549-6.6-6.6-6.6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20263" x1="3.923" x2="23.195" y1="4.559" y2="15.369" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

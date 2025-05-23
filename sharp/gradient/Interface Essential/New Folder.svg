@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="New-Folder--Streamline-Sharp-Gradient-Free">
+  <desc>
+    New Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/new-folder--empty-folder">
+    <path id="Union" fill="url(#paint0_linear_644_11612)" fill-rule="evenodd" d="M8.41421 1H1v22h22V4H11.4142L8.41421 1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11612" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

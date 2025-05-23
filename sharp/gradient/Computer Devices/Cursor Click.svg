@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cursor-Click--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cursor Click Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/cursor-click">
+    <path id="Union" fill="url(#paint0_linear_628_18835)" fill-rule="evenodd" d="M5.91277.758849 6.8866 4.39324l1.93185-.51764L7.84462.241211 5.91277.758849ZM4.39324 6.88672.758849 5.91289.241211 7.84474l3.634389.97383.51764-1.93185Zm-.39618 5.36868L1.3365 14.9159l1.41422 1.4142 2.66055-2.6605-1.41421-1.4142Zm8.25834-8.25858 2.6606-2.66056 1.4142 1.41421-2.6606 2.66056-1.4142-1.41421ZM10.8166 23.1075 7.30493 7.30499 23.1075 10.8167l-3.7036 3.7035 4.5103 4.5103-4.8838 4.8837-4.5102-4.5102-3.7036 3.7035Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18835" x1="4.111" x2="23.231" y1="4.794" y2="15.387" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

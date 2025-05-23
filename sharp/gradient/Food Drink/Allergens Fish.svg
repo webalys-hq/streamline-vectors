@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Allergens-Fish--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Allergens Fish Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/allergens-fish--cook-cooking-fish-seanutrition-food-fish">
+    <path id="Subtract" fill="url(#paint0_linear_628_19641)" fill-rule="evenodd" d="M20.5084 6.22029C18.982 4.45804 16.8834 3 14 3c-2.7289 0-4.69248.82815-6.23645 2.02122-1.16899.90331-2.09104 2.01805-2.89593 3.03418L0 3.79623V20.2038l4.86762-4.2592c.80489 1.0161 1.72694 2.1309 2.89593 3.0342C9.30752 20.1719 11.2711 21 14 21c2.8834 0 4.982-1.458 6.5084-3.2203 1.4293-1.6502 2.4249-3.6462 3.1523-5.1046L23.998 12l-.3373-.6751c-.7274-1.4584-1.723-3.45443-3.1523-5.10461ZM16.638 8.77008c-1.1219.9294-1.6377 2.10222-1.638 3.22912-.0003 1.1274.5155 2.3009 1.638 3.2307l-1.276 1.5402c-1.5448-1.2799-2.3624-3.0026-2.362-4.7714.0004-1.7678.8179-3.48958 2.362-4.76878l1.276 1.54016Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19641" x1="23.917" x2="-.027" y1="21.004" y2="3.046" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

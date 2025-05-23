@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Credit-Card-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Credit Card 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="credit-card-2--deposit-payment-finance-atm-withdraw-atm">
+    <path id="Union" fill="url(#paint0_linear_630_38087)" fill-rule="evenodd" d="m3 7 0-4 18 0v4h2V1H1v6h2Zm2 15v1h14V5H5v17Zm4-8c0 1.6569 1.3431 3 3 3s3-1.3431 3-3-1.3431-3-3-3-3 1.3431-3 3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38087" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

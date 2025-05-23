@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Curves-Levels-Graph--Streamline-Sharp">
+  <desc>
+    Curves Levels Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="curves-levels-graph">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1 1v3.15l2 0L3 1H1Zm20.4473 1.59033h-4.8736v4.87356h1.4072c-0.3187 3.63161 -3.2207 6.52211 -6.8573 6.82301v-1.4104H6.25V17.75h4.8736v-1.4576c4.7418 -0.309 8.5362 -4.0917 8.8635 -8.82851h1.4602V2.59033ZM3 6.775l0 3.15H1v-3.15h2Zm0 6.3 0 3.15H1v-3.15l2 0ZM3 21l0 -2.15H1V23h4.15v-2H3Zm14.225 2h-3.15v-2h3.15v2Zm2.625 -2H23l0 2h-3.15v-2ZM7.775 21h3.15v2h-3.15v-2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

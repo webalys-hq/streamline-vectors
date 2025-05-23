@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Satellite-Dish--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Satellite Dish Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/satellite-dish--broadcast-satellite-share-transmit-satellite">
+    <path id="Union" fill="url(#paint0_linear_644_11927)" fill-rule="evenodd" d="M17 5.58606 11.4999.0859375 8.79275 2.79305c-3.42809 3.42809-3.42809 8.98615 0 12.41425 3.42805 3.428 8.98615 3.428 12.41425 0l2.7071-2.7071-5.4999-5.49993 2.2929-2.29292-1.4142-1.41421L17 5.58606ZM5.82744 14.6648.172852 23.5001H19.8274l-2.5385-3.9663c-3.4613.7487-7.22-.222-9.91037-2.9123-.60358-.6036-1.12061-1.261-1.55109-1.9567Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11927" x1="1.085" x2="27.962" y1="1.978" y2="17.338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

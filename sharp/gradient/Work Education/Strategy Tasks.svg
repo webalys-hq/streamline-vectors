@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Strategy-Tasks--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Strategy Tasks Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Work Education/strategy-tasks--strategy-tasks-work">
+    <path id="Union" fill="url(#paint0_linear_628_20287)" fill-rule="evenodd" d="M8 4h8V0H8v4ZM6 2v4h12V2h4v22H2V2h4Zm2.625 8.5c-.62132 0-1.125.5037-1.125 1.125s.50368 1.125 1.125 1.125c.15892 0 .30769-.0324.44209-.0899.4034-.1727.68291-.5724.68291-1.0351 0-.6213-.50368-1.125-1.125-1.125ZM5.5 11.625C5.5 9.89911 6.89911 8.5 8.625 8.5c1.7259 0 3.125 1.39911 3.125 3.125 0 1.2911-.7828 2.3972-1.89571 2.8737-.37861.1621-.79482.2513-1.22929.2513-1.72589 0-3.125-1.3991-3.125-3.125Zm6.7929 4.0821 1.5429 1.5429-1.5429 1.5429 1.4142 1.4142 1.5429-1.5429 1.5429 1.5429 1.4142-1.4142-1.5429-1.5429 1.5429-1.5429-1.4142-1.4142-1.5429 1.5429-1.5429-1.5429-1.4142 1.4142Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20287" x1="2.768" x2="27.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

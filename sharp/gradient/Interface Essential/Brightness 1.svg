@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Brightness-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Brightness 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/brightness-1--bright-adjust-brightness-adjustment-sun-raise-controls">
+    <path id="Union" fill="url(#paint0_linear_644_14764)" fill-rule="evenodd" d="M10.5 3V0h3v3h-3Zm0 21v-3h3v3h-3Zm8.9247-21.54601-2.1213 2.12132 2.1213 2.12132 2.1213-2.12132-2.1213-2.12132ZM2.45425 19.4244l2.12132-2.1213 2.12132 2.1213-2.12132 2.1213-2.12132-2.1213ZM24 10.5h-3v3h3v-3Zm-24 0h3v3H0v-3Zm21.546 8.9247-2.1213-2.1213-2.1213 2.1213 2.1213 2.1213 2.1213-2.1213ZM4.57557 2.45376l2.12132 2.12132L4.57557 6.6964 2.45425 4.57508l2.12132-2.12132ZM12 17c2.7614 0 5-2.2386 5-5 0-2.76142-2.2386-5-5-5-2.76142 0-5 2.23858-5 5 0 2.7614 2.23858 5 5 5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_14764" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

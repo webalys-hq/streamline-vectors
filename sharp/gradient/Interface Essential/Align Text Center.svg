@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Align-Text-Center--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Align Text Center Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/align-text-center">
+    <path id="Subtract" fill="url(#paint0_linear_644_10823)" fill-rule="evenodd" d="M1 1h22v22H1V1Zm4 10h14V9H5v2Zm0 4h10v-2H5v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10823" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

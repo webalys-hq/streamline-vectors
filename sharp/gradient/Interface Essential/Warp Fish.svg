@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Warp-Fish--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Warp Fish Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/warp-fish">
+    <path id="Union" fill="url(#paint0_linear_644_12476)" d="M23 18.7337V5.26627l-1.5007.86812c-.9136.52847-1.9376.86637-2.9993.86637-.6536 0-1.2735-.29036-1.6919-.79253l-2.4394-2.92764C13.1646 1.83553 11.3808 1 9.4999 1c-1.88081 0-3.66445.83541-4.86852 2.28029L1 7.63795v8.72415l3.63125 4.3575C5.8354 22.1645 7.61917 23 9.5001 23c1.8808 0 3.6644-.8353 4.8686-2.2801l2.4391-2.9266c.4186-.5022 1.0385-.7925 1.6922-.7925 1.0624 0 2.0865.3368 2.9993.8648L23 18.7337Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12476" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

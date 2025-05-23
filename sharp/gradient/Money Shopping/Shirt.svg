@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shirt--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shirt Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shirt--clothing-t-shirt-men-top-shopping-fashion">
+    <path id="Union" fill="url(#paint0_linear_630_38255)" fill-rule="evenodd" d="M8.99996 2.50011V1.45996l-1.27472.36421-6 1.71428-.871236.24893.162086.89148 1 5.50004.1493.8211h2.83457v12l1.00001 0L18 22.9999l1 0v-12h2.8345l.1493-.8211 1-5.5.1621-.89148-.8712-.24893-5.9998-1.71422-1.2747-.36421v1.04015L15 2.50005v.5c0 1.06948-.5597 2.00825-1.4021 2.53946-.4626.29169-1.0105.46047-1.5978.46047-1.6569 0-3.00014-1.3432-3.00014-3.00011v-.49976Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38255" x1="1.711" x2="26.69" y1="3.201" y2="17.771" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

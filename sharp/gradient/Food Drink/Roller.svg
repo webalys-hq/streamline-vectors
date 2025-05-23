@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Roller--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Roller Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/roller--roller-bakery-kitchenware-cooking-baking-knead">
+    <path id="Union" fill="url(#paint0_linear_628_19636)" fill-rule="evenodd" d="M19.5108 0h.4891c2.2092 0 4 1.79084 4.0001 3.99998l0 .4891-3.9919 3.10481 1.9061 1.90614L9.50003 21.9142l-1.90614-1.9061L4.48916 24h-.48909C1.79093 24 .0000548363 22.2092.0000098944 20.0001L0 19.511l3.99192-3.1049L2.08582 14.5 14.5 2.08582l1.9061 1.90609L19.5108 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19636" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

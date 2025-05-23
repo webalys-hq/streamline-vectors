@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Transfer-Truck-Time--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Transfer Truck Time Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Shipping/transfer-truck-time--truck-shipping-delivery-time-waiting-delay-transfer">
+    <path id="Union" fill="url(#paint0_linear_628_20026)" fill-rule="evenodd" d="M18 0c-3.3137 0-6 2.68629-6 6s2.6863 6 6 6 6-2.68629 6-6-2.6863-6-6-6Zm-1 6V3.5h2V5h1.5v2H17V6Zm-3.5 18c-1.1046 0-2-.8954-2-2s.8954-2 2-2 2 .8954 2 2-.8954 2-2 2ZM2 22c0 1.1046.89543 2 2 2s2-.8954 2-2-.89543-2-2-2-2 .8954-2 2Zm9-13H0v13c0-2.2091 1.79086-4 4-4s4 1.7909 4 4h1.5c0-2.2091 1.7909-4 4-4 2.2091 0 4 1.7909 4 4v-4.8205l-.1863-.2607-2.5-3.5L14.5146 13H11V9Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20026" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

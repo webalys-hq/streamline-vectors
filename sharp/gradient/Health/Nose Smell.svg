@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Nose-Smell--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Nose Smell Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/nose-smell--health-medical-nose-smell">
+    <path id="Union" fill="url(#paint0_linear_628_20123)" fill-rule="evenodd" d="M18.0641 17C20.2378 17 22 15.0972 22 12.75S20.2378 8.5 18.0641 8.5L16.2261 0H7.77389L5.93592 8.5C3.76217 8.5 2 10.4028 2 12.75S3.76217 17 5.93592 17h4.23058c-.7325-.2888-1.42468-.7486-2.05325-1.3579H7.07031v-2h1.90353l.29714.3232c.90182.9808 1.85632 1.3883 2.72682 1.3883s1.8251-.4075 2.7269-1.3883l.2971-.3232h1.9084v2h-1.0478c-.6285.6093-1.3207 1.0691-2.0532 1.3579h4.2349ZM5.34521 21.9954c1.31712 0 2.38484-1.0677 2.38484-2.3848h2c0 2.4217-1.96315 4.3848-4.38484 4.3848v-2Zm10.90769-2.3848c0 1.3171 1.0677 2.3848 2.3848 2.3848v2c-2.4217 0-4.3848-1.9631-4.3848-4.3848h2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20123" x1="5.269" x2="22.671" y1="4.615" y2="12.651" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

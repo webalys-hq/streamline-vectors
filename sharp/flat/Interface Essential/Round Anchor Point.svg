@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Round-Anchor-Point--Streamline-Sharp">
+  <desc>
+    Round Anchor Point Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="round-anchor-point">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M12 6.25H1v2h5.70835C5.04751 9.71589 4 11.8606 4 14.25h2c0 -3.3137 2.68629 -6 6 -6 3.3137 0 6 2.6863 6 6h2c0 -2.3894 -1.0475 -4.53411 -2.7084 -6H23v-2H12Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M10 5.25h4v4h-4v-4Zm11.5 11c0 1.3807 -1.1193 2.5 -2.5 2.5s-2.5 -1.1193 -2.5 -2.5 1.1193 -2.5 2.5 -2.5 2.5 1.1193 2.5 2.5ZM5 18.75c1.38071 0 2.5 -1.1193 2.5 -2.5s-1.11929 -2.5 -2.5 -2.5 -2.5 1.1193 -2.5 2.5 1.11929 2.5 2.5 2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

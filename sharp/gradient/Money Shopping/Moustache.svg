@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Moustache--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Moustache Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="moustache--fashion-beauty-moustache-grooming">
+    <path id="Union" fill="url(#paint0_linear_630_38204)" fill-rule="evenodd" d="M8.7 5.77539c-2.37482 0-4.3 1.92518-4.3 4.30001v.65H0v2.1c0 3.5898 2.91015 6.5 6.5 6.5 2.31577 0 4.3487-1.211 5.5-3.0343 1.1513 1.8233 3.1842 3.0343 5.5 3.0343 3.5899 0 6.5-2.9102 6.5-6.5v-2.1h-4.4v-.65c0-2.37483-1.9252-4.30001-4.3-4.30001-1.3257 0-2.5112.5999-3.3 1.54303-.7888-.94313-1.9743-1.54303-3.3-1.54303Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38204" x1="26.08" x2="7.223" y1="22.195" y2="-1.53" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Calendar-Mark--Streamline-Sharp">
+  <desc>
+    Calendar Mark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="calendar-mark--calendar-date-day-month-mark">
+    <path id="Rectangle 11" fill="#ff7972" d="M2 4.125h20v18H2z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M16.75 2.875h-9.5V0.625h-2.5v2.25h-4v20.5h22.5v-20.5h-4V0.625h-2.5v2.25Zm-13.5 6.25v11.75h17.5V9.125H3.25Zm4.5 5.25h-2.5v-2.5h2.5v2.5Zm0 4h-2.5v-2.5h2.5v2.5Zm3 -4h2.5v-2.5h-2.5v2.5Zm8 0h-2.5v-2.5h2.5v2.5Zm-8 4h2.5v-2.5h-2.5v2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

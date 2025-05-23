@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Box-Waterproof--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Box Waterproof Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Shipping/box-waterproof--box-package-label-delivery-shipment-shipping-waterproof-protect-water-wet">
+    <path id="Subtract" fill="url(#paint0_linear_628_19995)" fill-rule="evenodd" d="m9.7325 1.32529 2.5 3 1.5364-1.28037-2.5-2.9999981L9.7325 1.32529Zm-4.5 4-2.5-3 1.53645-1.28037 2.5 3L5.2325 5.32529Zm6.7682 3.31099c-3.2731 0-6.33892.87462-8.97972 2.40222L2.01953 9.30731c2.93701-1.69897 6.3471-2.67103 9.98117-2.67103 3.6341 0 7.0442.97206 9.9812 2.67103l-1.0014 1.73119c-2.6408-1.5276-5.7066-2.40222-8.9798-2.40222Zm7 3.36332v12H5.00073v-12H19.0007Zm.7318-6.67431-2.5-3 1.5364-1.28037 2.5 3-1.5364 1.28037ZM12 21h4v-2h-4v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19995" x1="2.787" x2="27.348" y1="1.981" y2="13.517" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

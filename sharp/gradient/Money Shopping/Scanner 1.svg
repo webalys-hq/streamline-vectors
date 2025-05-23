@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Scanner-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Scanner 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="scanner-1--codes-tags-upc-barcode-qr">
+    <path id="Union" fill="url(#paint0_linear_630_38222)" fill-rule="evenodd" d="M2 1H1v8h2V3h6V1H2Zm0 22H1v-8h2v6h6v2H2ZM23 1v8h-2V3l-6 0 0-2h8Zm0 21v1h-8l0-2h6v-6l2 0v7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38222" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

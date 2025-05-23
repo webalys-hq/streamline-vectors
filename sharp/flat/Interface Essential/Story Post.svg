@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Story-Post--Streamline-Sharp">
+  <desc>
+    Story Post Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="story-post">
+    <path id="Vector 1366 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10.75 10.75V7.5h2.5v3.25h3.25v2.5h-3.25v3.25h-2.5v-3.25H7.5v-2.5h3.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M12 3a9 9 0 1 1 -9 9H1c0 6.075 4.925 11 11 11s11 -4.925 11 -11S18.075 1 12 1v2Zm-8.82 7.199a8.94 8.94 0 0 1 0.72 -2.126l-1.8 -0.874a10.927 10.927 0 0 0 -0.88 2.602l1.96 0.398Zm3.42 -5.4a9.059 9.059 0 0 0 -1.8 1.8L3.2 5.4a11.059 11.059 0 0 1 2.2 -2.2l1.2 1.6Zm1.473 -0.9a8.927 8.927 0 0 1 2.126 -0.719l-0.398 -1.96c-0.914 0.185 -1.786 0.484 -2.602 0.88l0.874 1.8Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

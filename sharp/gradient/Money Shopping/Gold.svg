@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Gold--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Gold Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gold--gold-money-payment-bars-finance-wealth-bullion-jewelry">
+    <path id="Union" fill="url(#paint0_linear_630_38150)" fill-rule="evenodd" d="M9.75005 2h-.75431l-.20722.72528-2 7L6.42432 11H17.5758l-.3642-1.27472-2-7L15.0043 2H9.75005Zm-6.25 11h-.75431l-.20722.7253-1.999998 7L.174316 22H11.3258l-.3642-1.2747-2.00003-7L8.75435 13h-5.2543Zm11.74565 0h6.0086l.2073.7253 2 7L23.8258 22H12.6743l.3642-1.2747 2-7L15.2457 13Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38150" x1="23.746" x2="-1.815" y1="22.004" y2="5.001" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Play-List-1--Streamline-Sharp">
+  <desc>
+    Play List 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="play-list-1--screen-television-display-player-movies-movie-tv-media-players-video-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M23 1H1l0 22h22l0 -22Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M15.972 14.883 9.5 11v7.766l6.472 -3.883Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M15.06 7H23V1h-2l0.03 0.03L15.06 7Zm3.88 -6h-6.19l0.03 0.03L6.81 7h6.13l6 -6ZM1 1h9.69l-6 6H1V1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

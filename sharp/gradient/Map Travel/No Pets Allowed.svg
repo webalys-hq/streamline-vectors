@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="No-Pets-Allowed--Streamline-Sharp-Gradient-Free">
+  <desc>
+    No Pets Allowed Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/no-pets-allowed--travel-wayfinder-no-pets-allowed">
+    <path id="Union" fill="url(#paint0_linear_628_19401)" fill-rule="evenodd" d="M22.5859 24.0002 0 1.41421 1.41421 0l7.99991 7.99991h2.67168L19.0857 1H20v3.80691l4 1.5v1.693c0 1.65685-1.3431 2.99999-3 2.99999h-2v6.5859l5.0002 5.0001-1.4143 1.4143ZM2 9.82929C.834808 9.41746 0 8.30622 0 7V5h2v2c0 .54768.44029.99253.98622.99991h.77077L12.757 16.9999H6.81981l-1.00002 5.0003L2 21.9998V9.82929Zm12.536 8.94961.6442 3.2213 2.5768-.0003-3.221-3.221Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19401" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

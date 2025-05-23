@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Diagonal-Line-Arrow-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Diagonal Line Arrow 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/diagonal-line-arrow-2--expand-smaller-retract-bigger-big-small-diagonal">
+    <path id="Union" fill="url(#paint0_linear_644_10847)" d="M7.82843 5H13.5V1H1.00001L1 13.5l4 0 0-5.67158L16.1716 19H10.5l0 4H23V10.5h-4v5.6716L7.82843 5Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10847" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

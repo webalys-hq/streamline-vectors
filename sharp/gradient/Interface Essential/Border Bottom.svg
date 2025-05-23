@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Border-Bottom--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Border Bottom Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/border-bottom--border-bottom-cell-format-formatting">
+    <path id="Union" fill="url(#paint0_linear_644_10899)" fill-rule="evenodd" d="M11 3H8V1h8v2h-3v3h-2V3ZM3 21v-3H1v5h22v-5h-2v3H3ZM1 8v8h2v-3h3v-2H3V8H1Zm20 3V8h2v8h-2v-3h-3v-2h3ZM6 1H1v5h2V3h3V1Zm12 0h5v5h-2V3h-3V1Zm-7 10V8h2v3h3v2h-3v3h-2v-3H8v-2h3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10899" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

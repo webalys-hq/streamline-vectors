@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Spa--Streamline-Sharp">
+  <desc>
+    Spa Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="spa--spa-flower-lotus-lily-hotel">
+    <path id="Rectangle 2139" fill="#79ee8d" d="M1.25 7.875H4c4.41828 0 8 3.5817 8 8v1H9c-4.41828 0 -7.75 -3.5817 -7.75 -8v-1Z" stroke-width="1"></path>
+    <path id="Rectangle 2140" fill="#79ee8d" d="M12 15.875c0 -4.4183 3.5817 -8 8 -8h2.75v1c0 4.4183 -3.3317 8 -7.75 8h-3v-1Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="m12 0.875 0.5311 0.33277 0.7481 0.46882c1.9746 1.23745 3.366 3.17332 3.935 5.37525 0.8791 -0.27733 1.815 -0.42688 2.7858 -0.42688h4v2.25c0 5.05604 -3.84 9.25004 -9 9.25004H9c-5.16005 0 -9 -4.194 -9 -9.25004v-2.25h4c0.97084 0 1.90674 0.14956 2.78593 0.42691 0.5689 -2.20194 1.96032 -4.13782 3.93497 -5.37528l0.7481 -0.46882L12 0.875Zm-3 14.75c-3.59507 0 -6.3745 -2.8395 -6.49587 -6.50004H4c3.64422 0 6.6139 2.88794 6.7455 6.50004H9Zm4.2545 0H15c3.5951 0 6.3745 -2.8395 6.4959 -6.50004H20c-3.6442 0 -6.6139 2.88794 -6.7455 6.50004ZM0 23.125h24v-3.5H0v3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

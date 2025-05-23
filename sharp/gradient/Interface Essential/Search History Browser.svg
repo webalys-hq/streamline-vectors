@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Search-History-Browser--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Search History Browser Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/search-history-browser">
+    <path id="Union" fill="url(#paint0_linear_644_11963)" fill-rule="evenodd" d="M3.22183 3.22183C5.28473 1.15893 8.08262 0 11 0c2.9174 0 5.7153 1.15893 7.7782 3.22183S22 8.08262 22 11c0 2.2418-.6843 4.413-1.9372 6.2344l3.9341 3.934-2.8285 2.8285-3.934-3.9341C15.413 21.3157 13.2418 22 11 22c-2.91738 0-5.71527-1.1589-7.77817-3.2218S0 13.9174 0 11c0-2.91738 1.15893-5.71527 3.22183-7.77817ZM11 2c-2.38695 0-4.67613.94821-6.36396 2.63604S2 8.61305 2 11c0 2.3869.94821 4.6761 2.63604 6.364C6.32387 19.0518 8.61305 20 11 20c2.3869 0 4.6761-.9482 6.364-2.636C19.0518 15.6761 20 13.3869 20 11c0-2.38695-.9482-4.67613-2.636-6.36396C15.6761 2.94821 13.3869 2 11 2Zm-1 2v8h6v-2h-4V4h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11963" x1="23.916" x2="-4.502" y1="24.002" y2="8.016" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Tracking--Streamline-Sharp">
+  <desc>
+    Text Tracking Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-tracking">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="m4 16 -3 3 3 3h1v-2h14v2h1l3 -3 -3 -3h-1v2H5v-2H4Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M15.28 2h3.44l0.229 0.684 3.5 10.5 -1.898 0.632L19.613 11h-5.226l-0.938 2.816 -1.898 -0.632 3.5 -10.5L15.28 2Zm2 2 1.666 5h-3.892l1.667 -5h0.558ZM2.05 2.816l3.5 10.5 0.228 0.684H8.22l0.229 -0.684 3.5 -10.5 -1.898 -0.632L7 11.338 3.949 2.184l-1.898 0.632Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Camera-Setting-Pin--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Camera Setting Pin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-setting-pin--photos-camera-map-photography-pictures-maps-settings-pin-photo">
+    <path id="Subtract" fill="url(#paint0_linear_630_37934)" fill-rule="evenodd" d="M7.44575 1h9.10845l.2938.47L19.0542 5H23v13h-7.0109l-3.1997 4.1139L12 23.1288l-.7894-1.0149L8.01092 18H1V5h3.94575L7.152 1.47 7.44575 1ZM8 10.5c0-2.20914 1.79086-4 4-4 2.2091 0 4 1.79086 4 4 0 2.2091-1.7909 4-4 4-2.20914 0-4-1.7909-4-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37934" x1="24.907" x2="-4.884" y1="27.816" y2="6.777" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

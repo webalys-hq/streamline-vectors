@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Milk--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Milk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/milk--drink-cook-milk-cooking-carton-nutrition-food">
+    <path id="Union" fill="url(#paint0_linear_628_19650)" fill-rule="evenodd" d="M6 0h12v3H6V0ZM2 8.58579 5.58579 5H18.4142L22 8.58579V9H2v-.41421ZM2 11v13h20V11H2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19650" x1="5.269" x2="22.672" y1="4.615" y2="12.65" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Watch-Circle-Bluetooth--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Watch Circle Bluetooth Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/watch-circle-bluetooth--watch-circle-bluetooth-connection-wireless-signal-device-timepiece">
+    <path id="Subtract" fill="url(#paint0_linear_628_19104)" fill-rule="evenodd" d="M18 24H6.00001v-1l0-2.3862C7.69978 21.8026 9.76851 22.5 12.0001 22.5c2.2315 0 4.3002-.6973 5.9999-1.886L18 23v1Zm0-20.57714c-1.6997-1.18865-3.7684-1.88599-5.9999-1.88599-2.23159 0-4.30032.69741-6.0001 1.88617L6 1V0h12v1l0 2.42286Zm-5.9999.11401c-4.68422 0-8.48155 3.79732-8.48155 8.48153 0 4.6843 3.79733 8.4816 8.48155 8.4816 4.6843 0 8.4816-3.7973 8.4816-8.4816 0-4.68421-3.7973-8.48153-8.4816-8.48153Zm-1.1248 3.31994H9.87366l.00168 1.00169.00337 2.00072-1.31143-.78798-1.03007 1.71436L9.55837 12l-2.02116 1.2144 1.03007 1.7144 1.31864-.7923.00338 2.0084.00168.9983H12.368l.2607-.1863 2.9003-2.0716 1.2402-.8859-1.3064-.785L13.4416 12l2.0212-1.2144 1.3064-.785-1.2402-.88593-2.9003-2.07159-.2607-.18627h-1.4927Zm2.2509 7.28699-1.2415-.746.0027 1.6308 1.2388-.8848Zm-1.249-5.17972.0028 1.64102 1.2462-.74886-1.249-.89216Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19104" x1="21.952" x2="-5.544" y1="29.083" y2="15.279" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

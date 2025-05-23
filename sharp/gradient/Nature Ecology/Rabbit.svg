@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Rabbit--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Rabbit Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/rabbit--nature-head-pet-animals">
+    <path id="Subtract" fill="url(#paint0_linear_628_19755)" fill-rule="evenodd" d="M11 22.8733c-.8939.7056-2.02281 1.1266-3.25004 1.1266-2.89949 0-5.25-2.3505-5.25-5.25v-.4122l2.39669-7.19-3.21302-4.81949C1.23787 5.65958 1 4.87396 1 4.07036v-.22022C1 1.72377 2.72377 0 4.85014 0c1.71901 0 3.22975 1.13955 3.702 2.79242L9.7543 6.99994h4.4914l1.2022-4.20752C15.9201 1.13955 17.4309 0 19.1499 0 21.2762 0 23 1.72377 23 3.85014v.22022c0 .8036-.2379 1.58922-.6836 2.25785l-3.2131 4.81949 2.3967 7.19v.4122c0 2.8995-2.3505 5.25-5.25 5.25-1.2272 0-2.3561-.421-3.25-1.1265V20h1.5v-2h-5v2H11v2.8733ZM8.5 16v-3h2v3h-2Zm5-3v3h2v-3h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19755" x1="22.926" x2="-4.167" y1="24.005" y2="10.034" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

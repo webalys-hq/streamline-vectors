@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hot-Air-Balloon--Streamline-Sharp">
+  <desc>
+    Hot Air Balloon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hot-air-balloon">
+    <path id="Vector" fill="#d7e0ff" d="M9.5 2.39844C6.30607 3.44823 4 6.45484 4 10.0001c0 1.5483 0.9825 3.341 2.25888 5H9.5V2.39844Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M20 10.0001c0 -3.54526 -2.3061 -6.55187 -5.5 -7.60166V15.0001h3.2411c1.2764 -1.659 2.2589 -3.4517 2.2589 -5Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#ffffff" d="M12 2c-0.8731 0 -1.7135 0.13985 -2.5 0.39838V15h5V2.39838C13.7135 2.13985 12.8731 2 12 2Z" stroke-width="1"></path>
+    <path id="Vector 3307" fill="#d7e0ff" d="M9.5 22v-3.5h5V22h-5Z" stroke-width="1"></path>
+    <path id="Vector 3311" stroke="#4147d5" d="M9.5 22v-3.5h5V22h-5Z" stroke-width="1"></path>
+    <path id="Ellipse 1143" stroke="#4147d5" d="M9.5 18.5C7.15288 16.3314 4 12.7737 4 10c0 -4.41828 3.58172 -8 8 -8 4.4183 0 8 3.58172 8 8 0 2.7737 -3.1529 6.3314 -5.5 8.5" stroke-width="1"></path>
+    <path id="Vector 3308" stroke="#4147d5" d="M6.25891 15H17.7411" stroke-width="1"></path>
+    <path id="Vector 3309" stroke="#4147d5" d="M9.5 15.0001V2.39844" stroke-width="1"></path>
+    <path id="Vector 3310" stroke="#4147d5" d="M14.5 15.0001V2.39844" stroke-width="1"></path>
+  </g>
+</svg>

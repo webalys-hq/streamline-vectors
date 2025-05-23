@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Rss-Symbol--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Rss Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/rss-symbol--wireless-feed-rss-transmit-broadcast">
+    <path id="Union" fill="url(#paint0_linear_628_18684)" fill-rule="evenodd" d="M1 4c10.4933 0 18.9998 8.5065 18.9998 18.9998h3C22.9998 10.8496 13.1501 1 1 1v3Zm14.0034 18.9998C15.0034 15.2659 8.73387 8.99634 1 8.99634v-3c9.3907 0 17.0034 7.61266 17.0034 17.00346h-3ZM1 14.0037c4.96841 0 8.99609 4.0276 8.99609 8.9961h3.00001c0-6.6253-5.37084-11.9961-11.9961-11.9961v3Zm0 8.9961v-7c3.86599 0 7 3.134 7 7H1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18684" x1="22.925" x2="-3.127" y1="23.004" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

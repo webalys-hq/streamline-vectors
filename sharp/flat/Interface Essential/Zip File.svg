@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Zip-File--Streamline-Sharp">
+  <desc>
+    Zip File Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zip-file--file-common-zip">
+    <path id="Union" fill="#8fbffa" d="M16.5 1H2v22h20V6.5L16.5 1Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7.5 15v2h2v-2h2v-2h-2v-2.5h2v-2h-2V6h2V4h-2V1h-2v3h-2v2h2v2.5h-2v2h2V13h-2v2h2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

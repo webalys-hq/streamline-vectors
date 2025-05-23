@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Smiley-Shocked--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Smiley Shocked Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/smiley-shocked">
+    <path id="Subtract" fill="url(#paint0_linear_628_19590)" fill-rule="evenodd" d="M0 12C0 5.37258 5.37258 0 12 0c6.6274 0 12 5.37258 12 12 0 6.6274-5.3726 12-12 12-6.62742 0-12-5.3726-12-12Zm8 4c0-2.2091 1.79086-4 4-4 2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.20914 0-4-1.7909-4-4Zm1.91421-7.5 1.29289-1.29289-1.41421-1.41422L8.5 7.08579l-1.29289-1.2929-1.41422 1.41422L7.08579 8.5l-1.2929 1.29289 1.41422 1.41421L8.5 9.91421l1.29289 1.29289 1.41421-1.41421L9.91421 8.5Zm2.87869-1.29289L14.0858 8.5l-1.2929 1.29289 1.4142 1.41421L15.5 9.91421l1.2929 1.29289 1.4142-1.41421L16.9142 8.5l1.2929-1.29289-1.4142-1.41422L15.5 7.08579l-1.2929-1.2929-1.4142 1.41422Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19590" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

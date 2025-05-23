@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Crutch--Streamline-Sharp">
+  <desc>
+    Crutch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="crutch--disability-crutch">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M15 1a2.75 2.75 0 1 0 0 5.5A2.75 2.75 0 0 0 15 1Zm-3 18.648V23h6v-6h2v-7s-1.5 -2 -5 -2 -5 2 -5 2v1.25h3.75v5.5H12.5v1.588l-0.052 0.21a4.134 4.134 0 0 1 -0.448 1.1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M10.75 15H12v-2H4v2h1.25v3.123l0.03 0.12 0.97 -0.243c-0.97 0.242 -0.97 0.243 -0.97 0.244l0 0.001 0.001 0.003 0.002 0.006 0.003 0.013a1.325 1.325 0 0 0 0.036 0.112 2.331 2.331 0 0 0 0.533 0.828c0.281 0.28 0.658 0.52 1.145 0.66V21h-0.899v2H10v-2H9v-1.133a2.63 2.63 0 0 0 1.145 -0.66 2.33 2.33 0 0 0 0.533 -0.828 1.763 1.763 0 0 0 0.036 -0.112l0.003 -0.013 0.002 -0.006 0 -0.003 0 -0.001c0.001 0 0.001 -0.002 -0.969 -0.244l0.97 0.242 0.03 -0.119V15Zm-2 0h-1.5v2.772a0.394 0.394 0 0 0 0.02 0.02c0.05 0.051 0.227 0.208 0.73 0.208s0.68 -0.157 0.73 -0.207a0.394 0.394 0 0 0 0.02 -0.021V15Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

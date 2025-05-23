@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Padlock-Square-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Padlock Square 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/padlock-square-1--combination-combo-lock-locked-padlock-secure-security-shield-keyhole">
+    <path id="Subtract" fill="url(#paint0_linear_644_11665)" fill-rule="evenodd" d="M12 2C9.79086 2 8 3.79086 8 6v4h8V6c0-2.20914-1.7909-4-4-4ZM6 6v4H2v14l20 0 0-14h-4V6c0-3.31371-2.6863-6-6-6-3.31371 0-6 2.68629-6 6Zm5 9v4h2v-4h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11665" x1="5.269" x2="22.672" y1="4.615" y2="12.65" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

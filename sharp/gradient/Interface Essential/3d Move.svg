@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="3d-Move--Streamline-Sharp-Gradient-Free">
+  <desc>
+    3d Move Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/3d-move">
+    <path id="Union" fill="url(#paint0_linear_644_10775)" fill-rule="evenodd" d="M15 3.00015V4.5h-2L13 7h4v4l2.5 0V9h1.5002L24 11.9999 20.9998 15H19.5v-2L17 13v4h-4l0 2.5h2v1.4998L11.9999 24 9 21.0002V19.5h2l0-2.5H7v-4H4.5v2H3.00015L0 11.9999 2.99985 9H4.5v2H7V7h4l0-2.5H9V2.99985L11.9999 0 15 3.00015Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10775" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

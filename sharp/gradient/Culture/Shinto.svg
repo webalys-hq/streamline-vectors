@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shinto--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shinto Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Culture/shinto--religion-gate-culture-shinto-japan-japanese-shrine">
+    <path id="Union" fill="url(#paint0_linear_628_20041)" fill-rule="evenodd" d="M3.10737 1.76596 1.98535 1.125v8.6521H4.5l0 3.7509H2v3h2.5l0 6.4722h3V16.528h9v6.4722h3V16.528H22v-3h-2.5V9.77711h2.5149v-8.6521l-1.122.64095c-2.6211 1.49728-5.6558 2.35316-8.8928 2.35316-3.23691 0-6.27168-.85588-8.89273-2.35316ZM7.5 9.7771v3.7509h3V9.7771h-3Zm6 0h3v3.7509h-3V9.7771Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20041" x1="2.755" x2="26.509" y1="2.893" y2="15.151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

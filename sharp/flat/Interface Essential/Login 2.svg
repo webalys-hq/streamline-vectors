@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Login-2--Streamline-Sharp">
+  <desc>
+    Login 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="login-2--arrow-enter-left-login-point-circle">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M13 9V8v1Zm1.5 0V6.5h-3.12L5.88 12l5.5 5.5h3.12V15h6.042c-1.274 4.057 -5.064 7 -9.542 7 -5.523 0 -10 -4.477 -10 -10S5.477 2 11 2c4.478 0 8.268 2.943 9.542 7H14.5ZM13 15v1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="m12 8 -4 4 4 4h1v-2.5h10v-3H13V8h-1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

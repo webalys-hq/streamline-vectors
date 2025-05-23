@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Line-Arrow-Reload-Horizontal-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Line Arrow Reload Horizontal 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/line-arrow-reload-horizontal-2">
+    <g id="Union">
+      <path fill="url(#paint0_linear_644_10851)" d="M11.3786 7.50029 3 7.5003l0 9h1.99999v3H6.557e-7L0 4.50029l11.3788 0-1.43952-1.43952L12.0606.939453l5.0607 5.060707-5.0607 5.06074-2.12132-2.12127 1.43932-1.43934Z"></path>
+      <path fill="url(#paint1_linear_644_10851)" d="m6.87869 18.0003 5.06071 5.0608 2.1213-2.1214-1.4394-1.4394H24V4.50029l-5 0v2.99999h2v9.00002h-8.3787l1.4394-1.4394-2.1213-2.1213-5.06071 5.0607Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10851" x1="23.919" x2="-3.342" y1="23.066" y2="6.428" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_644_10851" x1="23.919" x2="-3.342" y1="23.066" y2="6.428" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

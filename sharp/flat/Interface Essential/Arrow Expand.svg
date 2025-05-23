@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Expand--Streamline-Sharp">
+  <desc>
+    Arrow Expand Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-expand--expand-small-bigger-retract-smaller-big">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="m0.94 3.06 0.06 0.061V8l1 1 2.44 -2.44 4.5 4.5 2.12 -2.12 -4.5 -4.5L9 2 8 1H3.121l-0.06 -0.06L3 1H1v2l-0.06 0.06Zm12 12 4.5 4.5L15 22l1 1h4.879l0.06 0.06L21 23h2v-2l0.06 -0.06 -0.06 -0.061V16l-1 -1 -2.44 2.44 -4.5 -4.5 -2.12 2.12Zm6.62 -8.5 -4.5 4.5 -2.12 -2.12 4.5 -4.5L15 2l1 -1h4.879l0.06 -0.06L21 1h2v2l0.06 0.06 -0.06 0.061V8l-1 1 -2.44 -2.44Zm-13 13 4.5 -4.5 -2.12 -2.12 -4.5 4.5L2 15l-1 1v4.879l-0.06 0.06L1 21v2h2l0.06 0.06 0.061 -0.06H8l1 -1 -2.44 -2.44Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Link-Chain--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Link Chain Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/link-chain--create-hyperlink-link-make-unlink-connection-chain">
+    <path id="Union" fill="url(#paint0_linear_644_11537)" fill-rule="evenodd" d="m19.9419 8.72465-4.2463 4.24625L17.7246 15 24 8.72465 15.2754 0 9 6.27535l2.0291 2.02907 4.2463-4.24628 4.6665 4.66651ZM7 14.9041 14.9041 7 17 9.09589 9.09589 17 7 14.9041Zm1.30442-3.875-4.24628 4.2462 4.66651 4.6666 4.24625-4.2463L15 17.7247 8.72465 24 0 15.2753 6.27535 9l2.02907 2.0291Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11537" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

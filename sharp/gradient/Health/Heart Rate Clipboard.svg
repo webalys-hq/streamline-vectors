@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Heart-Rate-Clipboard--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Heart Rate Clipboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/heart-rate-clipboard--heart-rate-clipboard-checkup-medical-report-information-data-beat-pulse-monitor">
+    <g id="Subtract">
+      <path fill="url(#paint0_linear_628_20170)" fill-rule="evenodd" d="M2 2h4v4h12V2h4v22H2V2Zm8.4391 7.88918L8.681 13.1395H5.87402v2h3.999l.55638-1.0287 2.0435 3.8196 2.3546-2.791h2.8632v-2h-3.7925l-1.0527 1.2478-2.4064-4.49802Z" clip-rule="evenodd"></path>
+      <path fill="url(#paint1_linear_628_20170)" d="M8 0v4h8V0H8Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20170" x1="23.733" x2="-6.324" y1="29.083" y2="11.291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_628_20170" x1="23.733" x2="-6.324" y1="29.083" y2="11.291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

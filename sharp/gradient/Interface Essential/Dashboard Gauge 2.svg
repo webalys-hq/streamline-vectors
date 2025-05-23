@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Dashboard-Gauge-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Dashboard Gauge 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/dashboard-gauge-2--bar-speed-test-loading-dashboard-internet-gauge-progress">
+    <path id="Subtract" fill="url(#paint0_linear_644_11096)" fill-rule="evenodd" d="M3.51472 6.51472C5.76516 4.26428 8.8174 3 12 3s6.2348 1.26428 8.4853 3.51472C22.7357 8.76516 24 11.8174 24 15c0 1.5076-.2837 2.986-.8215 4.3636L22.9301 20H12.5804l4.2879-7.5038-1.7365-.9923L10.2769 20H1.06992l-.24841-.6364C.283704 17.986 0 16.5076 0 15c0-3.1826 1.26428-6.23484 3.51472-8.48528Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11096" x1="23.919" x2=".974" y1="20.003" y2="1.782" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

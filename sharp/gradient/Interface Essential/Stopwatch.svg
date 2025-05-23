@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Stopwatch--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Stopwatch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/stopwatch--notification-alert-bell-wake-clock-alarm">
+    <path id="Subtract" fill="url(#paint0_linear_644_12131)" fill-rule="evenodd" d="M13 0v2.04552c2.5507.23275 4.9524 1.35044 6.7782 3.17631C21.8411 7.28473 23 10.0826 23 13c0 2.9174-1.1589 5.7153-3.2218 7.7782S14.9174 24 12 24c-2.91733 0-5.71523-1.1589-7.77813-3.2218S1.00005 15.9174 1.00005 13c0-2.9174 1.15892-5.71527 3.22182-7.77817C6.04773 3.39596 8.44939 2.27827 11 2.04552V0h2ZM4.50008.00944519C3.3743.659362 2.32843 1.45827 1.39339 2.39332.972403 2.8143.578998 3.25776.214355 3.72089L1.78574 4.95812c.31599-.40133.65694-.78567 1.02186-1.15059.81044-.81044 1.7168-1.50277 2.69242-2.066L4.50008.00944519ZM22.6066 2.39332c-.9351-.93505-1.9809-1.733958-3.1067-2.38387475L18.5 1.74153c.9756.56323 1.8819 1.25556 2.6924 2.066.3649.36492.7058.74926 1.0218 1.15059l1.5714-1.23723c-.3646-.46313-.758-.90659-1.179-1.32757ZM11 7v7h5v-2h-3V7h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12131" x1="4.067" x2="23.265" y1="4.615" y2="15.062" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

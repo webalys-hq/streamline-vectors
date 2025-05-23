@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Board--Streamline-Sharp">
+  <desc>
+    Board Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="board">
+    <path id="Rectangle 922" fill="#ff7972" d="M2 2h20v20H2z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M0.75 0.75h22.5v22.5H0.75V0.75Zm2.5 2.5v17.5h17.5V3.25H3.25ZM5.5 6H11v12H5.5V6Zm13 0H13v5.5h5.5V6Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

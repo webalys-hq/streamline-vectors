@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Ruler--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Ruler Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/ruler--ruler-company-office-supplies-work-measure">
+    <path id="Subtract" fill="url(#paint0_linear_644_11919)" fill-rule="evenodd" d="M15.5002.0859375 23.9144 8.50015 8.50015 23.9144.0859375 15.5002 3.08582 12.5003l2.70715 2.7071 1.41421-1.4142-2.70715-2.7071 2.58579-2.58583 2.70715 2.70713 1.41423-1.41419-2.70717-2.70715 2.58577-2.58579 2.7072 2.70716 1.4142-1.41422L12.5 3.08606 15.5002.0859375Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11919" x1="25.979" x2="-6.162" y1="28.961" y2="6.13" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

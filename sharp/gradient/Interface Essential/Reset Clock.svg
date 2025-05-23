@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Reset-Clock--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Reset Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/reset-clock--timer-countdown-clock">
+    <path id="Union" fill="url(#paint0_linear_644_11867)" fill-rule="evenodd" d="M20.4853 3.51472C22.7357 5.76516 24 8.8174 24 12c0 4.9379-2.7002 7.7732-5.1304 9.8696L20 23l-1 1h-4v-4l1-1 1.4411 1.4411C19.7931 18.4202 22 16.1817 22 12c0-2.65217-1.0536-5.1957-2.9289-7.07107C17.1957 3.05357 14.6522 2 12 2 9.34783 2 6.80429 3.05357 4.92893 4.92893 3.05357 6.8043 2 9.34783 2 12c0 2.6522 1.05357 5.1957 2.92893 7.0711C6.80429 20.9464 9.34783 22 12 22v2c-3.1826 0-6.23485-1.2643-8.48528-3.5147C1.26428 18.2348 0 15.1826 0 12c0-3.1826 1.26428-6.23485 3.51472-8.48528C5.76515 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472ZM11 5v8h6v-2h-4V5h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11867" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

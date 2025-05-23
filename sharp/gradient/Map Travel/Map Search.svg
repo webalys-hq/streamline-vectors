@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Map-Search--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Map Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/map-search--map-search-magnifier-navigation-gps-travel">
+    <path id="Union" fill="url(#paint0_linear_628_19358)" fill-rule="evenodd" d="M7 1.35833 1 2.74295V23.25l6-1.3501V1.35833ZM9 21.5999V1.05l6 1.35v7.8899c-2.8915.8605-5 3.5391-5 6.7101 0 2.172.9892 4.1129 2.5417 5.3968L9 21.5999ZM17 10c2.5463 0 4.7751 1.3596 6 3.3924V.75L17 2.1V10Zm0 4c-1.6569 0-3 1.3431-3 3 0 1.6568 1.3431 3 3 3s3-1.3432 3-3c0-1.6569-1.3431-3-3-3Zm-5 3c0-2.7614 2.2386-5 5-5s5 2.2386 5 5c0 1.0191-.3049 1.9669-.8284 2.7574l2.5355 2.5354-1.4142 1.4143-2.5355-2.5355C18.967 21.6951 18.0191 22 17 22c-2.7614 0-5-2.2386-5-5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19358" x1="23.63" x2="-3.401" y1="23.712" y2="8.672" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shrink-Window-Osx--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shrink Window Osx Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/shrink-window-osx">
+    <path id="Subtract" fill="url(#paint0_linear_644_12007)" fill-rule="evenodd" d="M12 0C8.8174 0 5.76516 1.26428 3.51472 3.51472 1.26428 5.76516 0 8.8174 0 12s1.26428 6.2348 3.51472 8.4853C5.76516 22.7357 8.8174 24 12 24s6.2348-1.2643 8.4853-3.5147C22.7357 18.2348 24 15.1826 24 12c0-3.1826-1.2643-6.23484-3.5147-8.48528C18.2348 1.26428 15.1826 0 12 0Zm-.5 13.5 0 6h-2v-5l-5 0v-2l6 0h1v1Zm8-4h-5v-5h-2v7h7v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12007" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

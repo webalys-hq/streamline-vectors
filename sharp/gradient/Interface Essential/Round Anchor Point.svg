@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Round-Anchor-Point--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Round Anchor Point Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/round-anchor-point">
+    <path id="Union" fill="url(#paint0_linear_644_11902)" fill-rule="evenodd" d="M8 2h8v3h8v2h-5.6913C19.9694 8.63231 21 10.9045 21 13.4185v.7075c1.7252.4441 3 2.0102 3 3.874 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4 0-1.8638 1.2748-3.4299 3-3.874v-.7075c0-2.3777-1.1857-4.48003-3-5.74559V10H8V7.67291C6.18566 8.93847 5 11.0408 5 13.4185v.7075c1.72523.4441 3 2.0102 3 3.874 0 2.2091-1.79086 4-4 4s-4-1.7909-4-4c0-1.8638 1.27477-3.4299 3-3.874v-.7075C3 10.9045 4.03061 8.63231 5.69127 7H0V5h8V2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11902" x1="3.923" x2="21.492" y1="5.846" y2="17.527" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

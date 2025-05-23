@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Mirror-Horizontally--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Mirror Horizontally Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mirror-horizontally--mirror-horizontally-flip-copy-camera-photo-edit-arrow">
+    <path id="Union" fill="url(#paint0_linear_630_37988)" fill-rule="evenodd" d="M17.2109 4.27143V.844238h1.2318l4.9272 4.927192-4.9272 4.92717h-1.2318V7.27143l-10.43985 0v3.42717l-1.2318 0L.612053 5.77143 5.53925.844238h1.2318V4.27143l10.43985 0Zm-2.2967 8.49997H14l-1 0v10l0 1h11v-1.9142l-.2929-.2929-8.5-8.5-.2929-.2929Zm-5.82841 0H11v10l0 1h-1l-9 0H0v-1.9142l.292892-.2929 8.499998-8.5.2929-.2929Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37988" x1=".922" x2="27.659" y1="2.697" y2="18.471" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

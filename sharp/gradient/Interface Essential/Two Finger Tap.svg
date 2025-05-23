@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Two-Finger-Tap--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Two Finger Tap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/two-finger-tap">
+    <path id="Union" fill="url(#paint0_linear_644_12249)" fill-rule="evenodd" d="M5 8c0-2.76142 2.23858-5 5-5 .5862 0 1.1467.10045 1.6668.28425L12 3.40204l.3332-.11779C12.8533 3.10045 13.4138 3 14 3c2.7614 0 5 2.23858 5 5h2c0-3.86599-3.134-7-7-7-.6937 0-1.3653.1012-2 .29015C11.3653 1.1012 10.6937 1 10 1 6.13401 1 3 4.13401 3 8h2Zm9-3h-1v8h-2V7c0-1.10457-.8954-2-2-2H8v12.6743l-4.76366-1.3611C2.11562 15.993 1 16.8345 1 18.0001v.4142l5.58579 5.5858H18.9999v-8.6595L16 14.0549V7c0-1.10457-.8954-2-2-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12249" x1="1.768" x2="25.987" y1="2.859" y2="14.728" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

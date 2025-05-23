@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Earth-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Earth 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/earth-2--planet-earth-globe-world">
+    <path id="Subtract" fill="url(#paint0_linear_628_19246)" fill-rule="evenodd" d="M0 12C0 5.37258 5.37258 0 12 0c4.0151 0 7.5695 1.97186 9.7479 5h-6.1995C13.0364 5 11 7.03641 11 9.54845c0 1.19245.4683 2.33725 1.304 3.18785L15 15.4801v8.1418c-.9589.2468-1.9641.3781-3 .3781-.6814 0-1.3496-.0568-2-.1659V18c0-2.2091-1.79086-4-4-4H.165917C.0567976 13.3496 0 12.6814 0 12Zm.682823 4C1.88796 19.4097 4.59035 22.112 8 23.3172V18c0-1.1046-.89543-2-2-2H.682823ZM17 22.9119c4.1311-1.896 7-6.0689 7-10.9119 0-1.7844-.3895-3.47789-1.0881-5h-7.3635C14.141 7 13 8.14098 13 9.54845c0 .66815.2624 1.30955.7306 1.78605l2.9827 3.0357.2867.2918v8.2499Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19246" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

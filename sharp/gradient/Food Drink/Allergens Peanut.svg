@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Allergens-Peanut--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Allergens Peanut Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/allergens-peanut--peanuts-food-produce-allergens-allergy-nut">
+    <path id="Subtract" fill="url(#paint0_linear_628_19643)" fill-rule="evenodd" d="M17 0c-3.548 0-6.4794 2.6396-6.9377 6.06213C9.71362 6.02109 9.35912 6 9 6c-4.97056 0-9 4.0294-9 9s4.02944 9 9 9c4.9706 0 9-4.0294 9-9 0-.3591-.0211-.7136-.0621-1.0623C21.3604 13.4794 24 10.548 24 7c0-3.86599-3.134-7-7-7Zm-7 20v-2H8v2h2Zm3-4v2h-2v-2h2Zm5-6V8h-2v2h2Zm-8 4v2H8v-2h2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19643" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

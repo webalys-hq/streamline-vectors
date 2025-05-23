@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Color-Swatches--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Color Swatches Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/color-swatches--color-colors-design-painting-palette-sample-swatch">
+    <path id="Union" fill="url(#paint0_linear_644_10986)" fill-rule="evenodd" d="M11 1H1v4h10V1ZM1 11V7h10v4H1Zm0 2h10v5c0 2.7614-2.23858 5-5 5s-5-2.2386-5-5v-5Zm20.5569-3.48508-8.5564 8.55648c.0002-.0238.0003-.0476.0003-.0714V3.9289l1.4851-1.48505 7.071 7.07107ZM23.0008 23H10.9004l10-10h2.1004v10Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10986" x1="1.845" x2="26.92" y1="2.778" y2="16.911" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

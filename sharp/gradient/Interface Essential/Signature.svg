@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Signature--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Signature Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/signature">
+    <path id="Union" fill="url(#paint0_linear_644_12014)" fill-rule="evenodd" d="M5.5 6c0-1.10457.89543-2 2-2s2 .89543 2 2v4.1006c-1.73794.3592-3.5428.9275-5.03645 1.8249C2.56498 13.0662 1 14.8623 1 17.5 1 20.5376 3.46243 23 6.5 23H7c3.0376 0 5.5-2.4624 5.5-5.5v-4.801c.7923.073 1.5.7768 1.5 1.801V16h3.3705l.4319-.7558.2724-.4768c.8012-1.4021 2.2923-2.2674 3.9071-2.2674H23v-3h-1.0181c-2.1797 0-4.2241.9459-5.632 2.5469-.7704-1.3545-2.1644-2.31713-3.8499-2.35521V6c0-2.76142-2.2386-5-5-5-2.76142 0-5 2.23858-5 5v2h3V6Zm.5086 8.4971c.96298-.5786 2.18239-1.0115 3.4914-1.3235V17.5C9.5 18.8807 8.38071 20 7 20h-.5C5.11929 20 4 18.8807 4 17.5c0-1.2353.66646-2.1965 2.0086-3.0029ZM14 20.5h9v-3h-9v3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12014" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

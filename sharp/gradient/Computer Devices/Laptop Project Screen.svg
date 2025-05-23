@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Laptop-Project-Screen--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Laptop Project Screen Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/laptop-project-screen">
+    <path id="Union" fill="url(#paint0_linear_628_18988)" fill-rule="evenodd" d="M4.99998 1H23v14h-5V6H4.99998V1Zm-1 7h-1v8.8074l-1.92847 4.8212L.522949 23H18.477l-.5485-1.3714L16 16.8074V8H3.99998Zm1 8v-6H14v6H4.99998Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18988" x1="22.924" x2="-3.416" y1="23.005" y2="7.866" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

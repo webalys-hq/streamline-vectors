@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Screen-Tv--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Screen Tv Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/screen-tv--movies-television-cathode-crt-tv-ray-tube-vintage-video">
+    <path id="Subtract" fill="url(#paint0_linear_628_19034)" fill-rule="evenodd" d="m17.2071 2.20718-2.7929 2.7929H23V23.0001H1V5.00008h8.58579l-2.7929-2.7929L8.20711.792969 12 4.58586 15.7929.792969l1.4142 1.414211ZM5 9.00006h14V19.0001H5V9.00006Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19034" x1="24.907" x2="-4.954" y1="27.704" y2="6.69" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

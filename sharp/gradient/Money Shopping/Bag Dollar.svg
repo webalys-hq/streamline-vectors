@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bag-Dollar--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bag Dollar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-dollar--bag-payment-cash-money-finance">
+    <path id="Subtract" fill="url(#paint0_linear_630_38016)" fill-rule="evenodd" d="M6 0H4.31546l.80664 1.47885L7.04273 5h9.91457l1.9206-3.52115L19.6845 0H6ZM2.24074 12.8492 7.25435 7h9.49125l5.0137 5.8492.2407.2809V18c0 3.3137-2.6863 6-6 6H8c-3.31371 0-6-2.6863-6-6v-4.8699l.24074-.2809Zm10.75886-1.6109v-1.1931h-2v1.1931h-.4673c-1.10455 0-1.99998.8954-1.99998 2v.6651c0 .9374.65106 1.749 1.56618 1.9523l3.3683.7486 0 1.2133h-2.9345v-.6448H8.53232v.6448c0 1.1046.89543 2 1.99998 2h.4673v1.1931h2v-1.1931h.4672c1.1046 0 2-.8954 2-2v-1.2133c0-.9374-.651-1.7491-1.5661-1.9524l-3.3684-.7485v-.6651h2.9345v.6448h2v-.6448c0-1.1046-.8954-2-2-2h-.4672Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38016" x1="21.932" x2="-3.63" y1="24.005" y2="12.022" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Timer-Zero--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Timer Zero Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/timer-zero--whole-midnight-hour-clock-time">
+    <path id="Union" fill="url(#paint0_linear_644_12208)" fill-rule="evenodd" d="M10.5 4V0h3v4h-3ZM0 13.5h4v-3H0v3Zm20 0h4v-3h-4v3ZM10.5 20v4h3v-4h-3Zm4.201-15.67799 2-3.4641 2.598 1.5-2 3.4641-2.598-1.5ZM6.70096 18.1782l-2 3.4641 2.59808 1.5 2-3.4641-2.59808-1.5ZM18.1782 6.70096l3.4641-2 1.5 2.59808-3.4641 2-1.5-2.59808ZM4.32178 14.701l-3.464104 2 1.500004 2.598 3.4641-2-1.5-2.598Zm15.35642 0 3.4641 2-1.5 2.598-3.4641-2 1.5-2.598ZM5.82178 6.70096l-3.4641-2L.857676 7.29904l3.464104 2 1.5-2.59808ZM17.2992 18.178l2 3.4641-2.5981 1.5-2-3.4641 2.5981-1.5ZM9.29904 4.32178l-2-3.464104L4.70096 2.35768l2 3.4641 2.59808-1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12208" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

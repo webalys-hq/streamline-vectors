@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Candle--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Candle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/candle--lighting-light-incandescent-candle">
+    <path id="Union" fill="url(#paint0_linear_644_10953)" fill-rule="evenodd" d="M11.8757 0h-.4154l-.2932.294353L7.75589 3.71968c-2.34119 2.35087-2.34119 6.16068 0 8.51152.91653.9203 2.05604 1.4807 3.24411 1.6812v2.2855l-8.21693 1.8259L2 18.1979V24h20V13.7534l-1.2169.2704L13 15.7534v-1.841c1.188-.2005 2.3275-.7609 3.244-1.6812 1.9323-1.9402 2.2682-4.87108 1.0151-7.15651l-.5951-1.08538-.9361.80993c-.2899.25084-.6644.40094-1.0757.40094-.9083 0-1.6516-.74048-1.6516-1.6626v-.00023L13 .999764 12.9997 0h-1.124Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10953" x1="2.768" x2="27.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

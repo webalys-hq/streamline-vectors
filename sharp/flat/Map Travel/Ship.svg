@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Ship--Streamline-Sharp">
+  <desc>
+    Ship Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ship--cruise-travel-boat-transportation-transport-ocean-liner-ship-sea-water">
+    <path id="Vector 3585" fill="#2859c5" d="M1 14v-4h22v4l-3.5 3.5h-15L1 14Z" stroke-width="1"></path>
+    <path id="Ellipse 592 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M3 19.5a1.5 1.5 0 0 0 3 0h2a1.5 1.5 0 0 0 3 0h2a1.5 1.5 0 0 0 3 0h2a1.5 1.5 0 0 0 3 0h2V23H1v-3.5h2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#8fbffa" d="M20 10H4l1.5 -6h13l1.5 6Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" d="M14 1h-4l0 3h4V1Z" stroke-width="1"></path>
+  </g>
+</svg>

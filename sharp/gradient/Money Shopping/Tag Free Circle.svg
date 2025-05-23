@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Tag-Free-Circle--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Tag Free Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tag-free-circle--store-shop-shops-stores-tag-free-circle">
+    <path id="Union" fill="url(#paint0_linear_630_38356)" fill-rule="evenodd" d="M1.89111 6C3.96597 2.41319 7.84403 0 12.2857 0c4.4417 0 8.3198 2.41319 10.3946 6H1.89111Zm0 12c2.07486 3.5868 5.95292 6 10.39459 6 4.4417 0 8.3198-2.4132 10.3946-6H1.89111ZM12.958 8.177h4.8563v2H14.958v.6512h2.3743v2H14.958v1.1333h2.8563v2H12.958V8.177Zm7.1858 0h-1v7.7845h4.8563v-2h-2.8563v-1.1333h2.3743v-2h-2.3743v-.6512h2.8563v-2h-3.8563Zm-20.1208508 0H4.87926v2H2.02295v.6514h2.37427v2H2.02295v2.9947H.0229492V8.177Zm6.1865208 0h4.12203c.9578 0 1.7343.77646 1.7343 1.73427V11.817c0 .6086-.3135 1.1439-.7878 1.4534l1.1391 1.7549-1.6776 1.0889-1.66354-2.5629h-.86649v2.2718h-2V8.177Zm2 3.3743h1.85633V10.177H8.20947v1.3743Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38356" x1="26.078" x2="-6.284" y1="29.083" y2="6.117" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

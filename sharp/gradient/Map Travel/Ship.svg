@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Ship--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Ship Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/ship--cruise-travel-boat-transportation-transport-ocean-liner-ship-sea-water">
+    <path id="Union" fill="url(#paint0_linear_628_19430)" fill-rule="evenodd" d="M14.0002 3.00007h3.754l1.4286 5H4.81702l1.42857-5h3.75461L10.0001.000144005 14.0001 0l.0001 3.00007Zm6.414 14.00143H3.58579L.998535 14.4143v-4.4142H23.0014v4.4142l-2.5872 2.5872ZM3 19.0001H1v4h22v-4h-2v.5c0 .8284-.6716 1.5-1.5 1.5s-1.5-.6716-1.5-1.5v-.5h-2v.5c0 .8284-.6716 1.5-1.5 1.5s-1.5-.6716-1.5-1.5v-.5h-2v.5c0 .8284-.6716 1.5-1.5 1.5-.82843 0-1.5-.6716-1.5-1.5v-.5H6v.5c0 .8284-.67157 1.5-1.5 1.5s-1.5-.6716-1.5-1.5v-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19430" x1="4.595" x2="22.728" y1="4.423" y2="14.034" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

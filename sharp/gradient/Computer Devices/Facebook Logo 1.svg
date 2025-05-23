@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Facebook-Logo-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Facebook Logo 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/facebook-logo-1--media-facebook-social-logo">
+    <path id="Subtract" fill="url(#paint0_linear_628_18943)" fill-rule="evenodd" d="M2 1H1v22h10.5v-7h-2v-3h2v-3c0-1.933 1.567-3.5 3.5-3.5h3v3h-3c-.2761 0-.5.22386-.5.5v3h2v3h-2v7H23V1H2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18943" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

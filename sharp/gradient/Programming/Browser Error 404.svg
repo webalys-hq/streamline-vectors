@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Browser-Error-404--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Browser Error 404 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/browser-error-404--browser-error-404-window-apps-code">
+    <path id="Union" fill="url(#paint0_linear_628_18654)" fill-rule="evenodd" d="M0 2h24v9h-2V6H2v7H0V2Zm4.5 11h-.48908l-.30027.3861-3.500002 4.5L0 18.1569V20.5h4V22h2v-1.5h1v-2H6V13H4.5ZM4 16.2717V18.5H2.26686L4 16.2717Zm6.5-.5703c0-.3235.3023-.7014.8229-.7014h1.3542c.5206 0 .8229.3779.8229.7014v3.5972c0 .3235-.3023.7014-.8229.7014h-1.3542c-.5206 0-.8229-.3779-.8229-.7014v-3.5972ZM11.3229 13C9.82996 13 8.5 14.1456 8.5 15.7014v3.5972C8.5 20.8544 9.82997 22 11.3229 22h1.3542C14.17 22 15.5 20.8544 15.5 19.2986v-3.5972C15.5 14.1456 14.17 13 12.6771 13h-1.3542Zm9.688 0H23v5.5h1v2h-1V22h-2v-1.5h-4v-2.3431l.2106-.2708 3.5-4.5.3003-.3861ZM21 18.5v-2.2283L19.2669 18.5H21Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18654" x1="3.923" x2="21.492" y1="5.846" y2="17.527" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

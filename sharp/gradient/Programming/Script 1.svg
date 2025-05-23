@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Script-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Script 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/script-1--language-programming-code">
+    <path id="Subtract" fill="url(#paint0_linear_628_18758)" fill-rule="evenodd" d="M4 0h20v8h-2V3h-2v21H0v-6h14v3h2v-5H4V0Zm4 8h8V6H8v2Zm8 4H8v-2h8v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18758" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Global-Learning--Streamline-Sharp">
+  <desc>
+    Global Learning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="global-learning--global-learning-education">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M18.74 10.366A8.9 8.9 0 1 0 7.97 19.07v-5.98l8.262 -3.58 2.505 1.087 0.003 -0.23Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M7.97 19.069a8.994 8.994 0 0 1 -0.372 -0.088l-2.403 -7.865H0.973a9.015 9.015 0 0 1 0 -1.5h4.222l2.403 -7.864a8.881 8.881 0 0 1 1.65 -0.266l-2.485 8.13h6.156l-2.485 -8.13a8.881 8.881 0 0 1 1.65 0.266l2.403 7.864h1.502l-3.463 1.5H6.763l1.207 3.95v4.003Zm8.505 -9.453h2.234a9.033 9.033 0 0 1 0.028 0.98l-2.262 -0.98Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="m23.06 14.032 -6.828 -2.958 -6.828 2.958v1.364l0 4.127h1.434v-3.506l1.072 0.464 0.008 4.03 4.313 2.022 4.32 -2.022 0 -4.028 2.508 -1.087v-1.364Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#8fbffa" fill-rule="evenodd" d="m20.55 18.055 -4.03 1.686 -0.289 0.122 -0.29 -0.122 -4.029 -1.686 -0.003 -1.627 4.322 1.808 4.319 -1.807 0 1.626Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

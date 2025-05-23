@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Business-Idea-Money--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Business Idea Money Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="business-idea-money">
+    <path id="Subtract" fill="url(#paint0_linear_630_38063)" fill-rule="evenodd" d="M12.0001 0C6.91998 0 2.80176 4.11823 2.80176 9.19832c0 3.44148 1.89003 6.43978 4.6851 8.01658V20H16.514v-2.7855c2.7947-1.5769 4.6844-4.575 4.6844-8.01618C21.1984 4.11823 17.0802 0 12.0001 0Zm3.7175 24H8.28265v-2h7.43495v2ZM13.0001 5V3.5h-2V5h-.5c-1.10459 0-2.00002.89543-2.00002 2v.9302c0 .95336.67292 1.77419 1.60772 1.96116l3.3923.67844 0 1.4302h-3v-.5H8.50008v.5c0 1.1046.89543 2 2.00002 2h.5v1.5h2V14h.5c1.1045 0 2-.8954 2-2v-1.4302c0-.95336-.6729-1.77419-1.6078-1.96116l-3.3922-.67844V7h3v.5h2V7c0-1.10457-.8955-2-2-2h-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38063" x1="5.809" x2="22.261" y1="4.615" y2="11.603" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

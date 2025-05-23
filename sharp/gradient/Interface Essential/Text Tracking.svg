@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Tracking--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Text Tracking Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/text-tracking">
+    <path id="Union" fill="url(#paint0_linear_644_12188)" fill-rule="evenodd" d="M8.62493 14.0005H5.3751l-.22548-.689L1.54963 2.31153l1.90079-.62208L6.82494 12.0005h.35015L10.5496 1.68945l1.9008.62208L8.85041 13.3115l-.22548.689ZM18.7249 2.00049h-3.2498l-.2255.68896-3.6 11.00005 1.9008.622.9407-2.8744h5.2178l.9407 2.8744 1.9008-.622-3.6-11.00005-.2255-.68896Zm.3294 7.43662h-3.9086l1.7792-5.43662h.3502l1.7792 5.43662ZM5 16.5005l-1.49999 0L0 20.0005l3.5 3.5001h1.50001l0-2.0001H19l0 2.0001h1.5l3.5-3.5001-3.5-3.5-1.5 0 0 2H5l0-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12188" x1=".922" x2="26.953" y1="3.452" y2="19.596" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

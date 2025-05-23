@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Mail-Send-Envelope--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Mail Send Envelope Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/mail-send-envelope--envelope-email-message-unopened-sealed-close">
+    <path id="Subtract" fill="url(#paint0_linear_628_19542)" fill-rule="evenodd" d="M0 2h24v2.31556L12.0001 10.861 0 4.31546V2Zm0 4.59364V22h24V6.59373L12.0001 13.1391 0 6.59364Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19542" x1="3.923" x2="21.492" y1="5.846" y2="17.527" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

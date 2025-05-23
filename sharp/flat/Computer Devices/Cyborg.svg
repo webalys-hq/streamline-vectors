@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cyborg--Streamline-Sharp">
+  <desc>
+    Cyborg Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cyborg--artificial-robotics-intelligence-machine-technology-android">
+    <path id="Rectangle 1054" fill="#8fbffa" d="M1 6h22v17H1z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M23 17v6H1v-6h4.5l2 2h9l2 -2H23Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M13 1v5h-2V1h2ZM6.5 13v-3h2v3h-2Zm9 -3v3h2v-3h-2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

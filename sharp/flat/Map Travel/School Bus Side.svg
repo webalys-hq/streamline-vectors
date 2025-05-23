@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="School-Bus-Side--Streamline-Sharp">
+  <desc>
+    School Bus Side Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="school-bus-side">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1 4v17h22v-9h-3.5V4H1Zm16.5 8V8.5H14V12h3.5ZM3 8.5V12h3.5V8.5H3Zm9 3.5H8.5V8.5H12V12Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M3 8.5V12h3.5V8.5H3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" d="M12 12H8.5V8.5H12V12Z" stroke-width="1"></path>
+    <path id="Union_4" fill="#2859c5" d="M17.5 8.5V12H14V8.5h3.5Z" stroke-width="1"></path>
+    <path id="Union_5" fill="#2859c5" fill-rule="evenodd" d="M6.5 23.25a2.75 2.75 0 1 0 0 -5.5 2.75 2.75 0 0 0 0 5.5Zm11 0a2.75 2.75 0 1 0 0 -5.5 2.75 2.75 0 0 0 0 5.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

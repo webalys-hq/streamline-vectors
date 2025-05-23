@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Camera-Video--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Camera Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/camera-video--film-television-tv-camera-movies-video-recorder">
+    <path id="Union" fill="url(#paint0_linear_628_19784)" fill-rule="evenodd" d="M1 6.5C1 3.46243 3.46243 1 6.5 1S12 3.46243 12 6.5 9.53757 12 6.5 12 1 9.53757 1 6.5ZM17 4c-2.2091 0-4 1.79086-4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4-1.7909 4-4 0-2.20914-1.7909-4-4-4ZM5 13h14v10H5V13Zm16 2v6h2v-6h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19784" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

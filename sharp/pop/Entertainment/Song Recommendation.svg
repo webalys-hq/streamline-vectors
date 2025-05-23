@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Song-Recommendation--Streamline-Sharp">
+  <desc>
+    Song Recommendation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="song-recommendation--song-recommendation-entertainment">
+    <path id="Ellipse 311" fill="#fddc5c" d="M7.75 19.25a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M0 3.75v2.5c0.64503 0 1.5953 0.4464 2.44945 1.30055C3.3036 8.4047 3.75 9.35497 3.75 10h2.5c0 -0.64503 0.4464 -1.5953 1.30055 -2.44945C8.4047 6.6964 9.35497 6.25 10 6.25v-2.5c-0.64503 0 -1.5953 -0.4464 -2.44945 -1.30055C6.6964 1.5953 6.25 0.64503 6.25 0h-2.5c0 0.64503 -0.4464 1.5953 -1.30055 2.44945C1.5953 3.3036 0.64503 3.75 0 3.75ZM13.5 4h2.25C20.3063 4 24 7.69365 24 12.25h-2.5c0 -3.09187 -2.4403 -5.61377 -5.5 -5.74466V19.25c0 2.6234 -2.1266 4.75 -4.75 4.75 -2.62335 0 -4.75 -2.1266 -4.75 -4.75s2.12665 -4.75 4.75 -4.75c0.8141 0 1.5803 0.2048 2.25 0.5657V4Zm-2.25 13c1.2426 0 2.25 1.0074 2.25 2.25s-1.0074 2.25 -2.25 2.25S9 20.4926 9 19.25 10.0074 17 11.25 17Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

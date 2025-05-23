@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chat-Bubble-Square-Block--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Chat Bubble Square Block Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/chat-bubble-square-block--messages-message-bubble-chat-square-block">
+    <path id="Subtract" fill="url(#paint0_linear_628_19528)" fill-rule="evenodd" d="M1.49992 1H22.9999v21.5H6.20736L.18457 23.8093l1.31535-5.9191V1ZM12.25 7.5c-.7418 0-1.4365.20193-2.032.55382l5.4782 5.47818c.3519-.5955.5538-1.2902.5538-2.032 0-2.20914-1.7909-4-4-4Zm-4 4c0-.7418.20193-1.4365.55382-2.03197L14.282 14.9462c-.5955.3519-1.2902.5538-2.032.5538-2.2091 0-4-1.7909-4-4Zm-2 0c0-3.31371 2.68629-6 6-6 3.3137 0 6 2.68629 6 6 0 3.3137-2.6863 6-6 6-3.31371 0-6-2.6863-6-6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19528" x1="1.061" x2="27.061" y1="2.843" y2="17.501" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

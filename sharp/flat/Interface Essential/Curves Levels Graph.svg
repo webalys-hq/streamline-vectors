@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Curves-Levels-Graph--Streamline-Sharp">
+  <desc>
+    Curves Levels Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="curves-levels-graph">
+    <g id="Group 176561">
+      <path id="Ellipse 1469 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M20.2756 5.53418v1c0 5.35852 -4.3439 9.70242 -9.7024 9.70242h-0.99996v-2h0.99996c4.254 0 7.7024 -3.4485 7.7024 -7.70242v-1h2Z" clip-rule="evenodd" stroke-width="1"></path>
+      <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1 1v3.15l2 0L3 1H1Zm20.7503 1.25h-4.9481v4.94804h4.9481V2.25ZM11.198 12.7632H6.25v4.948h4.948v-4.948ZM3 6.775l0 3.15H1v-3.15h2Zm0 6.3 0 3.15H1v-3.15l2 0ZM3 21l0 -2.15H1V23h4.15v-2H3Zm14.225 2h-3.15v-2h3.15v2Zm2.625 -2H23l0 2h-3.15v-2ZM7.775 21h3.15v2h-3.15v-2Z" clip-rule="evenodd" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

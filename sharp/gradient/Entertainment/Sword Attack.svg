@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Sword-Attack--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Sword Attack Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/sword-attack--entertainment-gaming-sword-attack">
+    <g id="Union">
+      <path fill="url(#paint0_linear_628_19939)" d="M23.9822.0117188h-6.0708L5.74955 12.1735l6.07085 6.0708L23.9822 6.08252V.0117188Z"></path>
+      <path fill="url(#paint1_linear_628_19939)" d="m1.79797 13.6587 2.50099 2.501-4.134775 4.1348.000001 3.5354H3.69959l4.13477-4.1348 2.50074 2.5007 1.4142-1.4142-8.53712-8.5371-1.41421 1.4142Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19939" x1="4.058" x2="23.295" y1="4.592" y2="15.251" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_628_19939" x1="4.058" x2="23.295" y1="4.592" y2="15.251" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

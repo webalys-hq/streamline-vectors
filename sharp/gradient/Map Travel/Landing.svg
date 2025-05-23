@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Landing--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Landing Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/landing--land-plane-travel-adventure-airplane-airport">
+    <path id="Union" fill="url(#paint0_linear_628_19317)" fill-rule="evenodd" d="M21 16.75v-3.707c0-2.4143-1.7251-4.48371-4.0999-4.91834L8.70588 6.625l-.55882-4.5L5.91176 1 2 10.5625l6.70588 2.25-2.79412 4.5L9.26471 19l5.02939-4.5L21 16.75ZM0 23h24v-2H0v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19317" x1="23.919" x2="-3.261" y1="23.005" y2="6.326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

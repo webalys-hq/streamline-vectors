@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Syringe--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Syringe Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/syringe--instrument-medical-syringe-health-beauty-needle">
+    <path id="Subtract" fill="url(#paint0_linear_628_20092)" fill-rule="evenodd" d="M23.5392 5.42745 18.1118 0l-2.1213 2.12132 2.0064 2.00644-1.8595 1.85947-2.9199-2.91998-.7071-.70711-.0001.00003L10.6928.542646 9.27859 1.95686l1.81751 1.81753-2.16395 2.16396L12.8155 9.8217l-1.4142 1.4142-3.88336-3.88334-2.00899 2.00899 3.88322 3.88325-1.41422 1.4142-3.88321-3.8832-1.4151 1.4151-.29289.2929v7.2544L0 22.1249l1.41421 1.4142 2.38676-2.3867h7.25443l.2929-.2929 8.4165-8.4165 1.8174 1.8175 1.4142-1.4142-1.8174-1.8175-.7071-.7071-2.9202-2.92026 1.8594-1.85946 2.0068 2.00679 2.1213-2.12132Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20092" x1="3.848" x2="22.86" y1="4.527" y2="15.061" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

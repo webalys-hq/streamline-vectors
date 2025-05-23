@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Page-Break--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Page Break Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/page-break">
+    <path id="Union" fill="url(#paint0_linear_644_11679)" fill-rule="evenodd" d="M16.4142 0H2v9h20V5.58579L16.4142 0ZM22 15H2v9h20v-9Zm2-4v2h-4v-2h4Zm-6.6665 0h-4v2h4v-2ZM6.66699 11H10.667v2H6.66699v-2ZM4 11H0v2h4v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11679" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

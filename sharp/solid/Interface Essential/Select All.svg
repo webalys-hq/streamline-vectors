@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Select-All--Streamline-Sharp">
+  <desc>
+    Select All Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="select-all">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M2 0.75H0.75V6.5h2.5V3.25H6.5V0.75H2ZM0.75 15V9h2.5v6H0.75Zm20 0V9h2.5v6h-2.5ZM17.5 0.75h5.75V6.5h-2.5V3.25H17.5V0.75ZM0.75 17.5v5.75H6.5v-2.5H3.25V17.5H0.75Zm22.5 4.5v-4.5h-2.5v3.25H17.5v2.5h5.75V22ZM9 3.25h6V0.75H9v2.5Zm6 20H9v-2.5h6v2.5ZM17 7H7v10h10V7Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

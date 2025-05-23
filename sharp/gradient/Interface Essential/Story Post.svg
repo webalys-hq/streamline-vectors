@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Story-Post--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Story Post Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/story-post">
+    <path id="Union" fill="url(#paint0_linear_644_12139)" fill-rule="evenodd" d="M22 12c0-5.52285-4.4772-10-10-10V0c6.6274 0 12 5.37258 12 12 0 6.6274-5.3726 12-12 12-6.62742 0-12-5.3726-12-12h2c0 5.5228 4.47715 10 10 10 5.5228 0 10-4.4772 10-10Zm-12-2V6h4v4h4v4h-4v4h-4v-4H6v-4h4Zm-7.79977-.00106c.16836-.82939.43941-1.62144.79942-2.3625L1.2007 6.7625C.768256 7.65266.4425 8.60448.240202 9.60107l1.960028.39787Zm3.80035-6.00028c-.75763.56908-1.43192 1.24329-2.00109 2.00084L2.40051 4.79815c.68237-.90823 1.49059-1.71636 2.39891-2.39862l1.20116 1.59913Zm1.63572-.99919c.74112-.36006 1.53322-.63114 2.36268-.79951L9.60111.239933c-.99667.202314-1.94856.528106-2.83878.960597l.87397 1.79894Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12139" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

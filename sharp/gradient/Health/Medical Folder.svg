@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Medical-Folder--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Medical Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/medical-folder--medical-folder-report-history-cross">
+    <path id="Subtract" fill="url(#paint0_linear_628_20211)" fill-rule="evenodd" d="M1 2h7.06066l4.00004 4H23v17H1V2Zm15.7061 11.0828h-3.0027v-3.0027h-3.4068l0 3.0027H7.29386v3.4068h3.00274v3.0027h3.4068v-3.0027h3.0027v-3.4068Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20211" x1="1.845" x2="26.344" y1="3.697" y2="18.162" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

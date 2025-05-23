@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Car-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Car 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/car-2--transportation-travel-transport-car">
+    <path id="Union" fill="url(#paint0_linear_628_19223)" fill-rule="evenodd" d="M19.7808 2H4.21924l-2 8H0v10h2v2h3v-2h14v2h3v-2h2V10h-2.2192l-2-8ZM6.5596 5h10.8769l1.294 5H5.26562L6.5596 5ZM6 16H3v-2h3v2Zm12-2h3v2h-3v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19223" x1="23.919" x2="-1.784" y1="22.004" y2="4.654" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

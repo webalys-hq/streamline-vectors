@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="User-Collaborate-Group--Streamline-Sharp-Gradient-Free">
+  <desc>
+    User Collaborate Group Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/user-collaborate-group">
+    <path id="Union" fill="url(#paint0_linear_644_12306)" fill-rule="evenodd" d="M2.99902 3.50099C2.99902 1.56745 4.56647 0 6.50002 0 8.43356 0 10.001 1.56745 10.001 3.50099c0 1.93355-1.56744 3.50099-3.50098 3.50099-1.93355 0-3.501-1.56744-3.501-3.50099ZM.626583 9.13293C2.44272 8.40187 4.42566 8 6.5 8s4.0573.40187 5.8734 1.13293L13 9.38515V13H0V9.38515l.626583-.25222ZM13.999 14.501c0-1.9336 1.5675-3.501 3.501-3.501 1.9336 0 3.501 1.5674 3.501 3.501 0 1.9335-1.5674 3.501-3.501 3.501-1.9335 0-3.501-1.5675-3.501-3.501Zm-2.3724 5.6319C13.4427 19.4019 15.4257 19 17.5 19s4.0573.4019 5.8734 1.1329l.6266.2523V24H11v-3.6148l.6266-.2523ZM4 20v-5H2v7h7v-2H4ZM15 4h5v5h2V2h-7v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12306" x1="26.08" x2="-6.293" y1="29.083" y2="6.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

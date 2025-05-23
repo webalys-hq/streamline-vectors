@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Select-All--Streamline-Sharp">
+  <desc>
+    Select All Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="select-all">
+    <path id="Rectangle 846" fill="#d7e0ff" d="M7 7h10v10H7z" stroke-width="1"></path>
+    <path id="Rectangle 847" stroke="#4147d5" d="M7 7h10v10H7z" stroke-width="1"></path>
+    <path id="Vector 1382" stroke="#4147d5" d="M2 9v6" stroke-width="1"></path>
+    <path id="Vector 1386" stroke="#4147d5" d="M22 9v6" stroke-width="1"></path>
+    <path id="Vector 1378" stroke="#4147d5" d="M2 6.5V2h4.5" stroke-width="1"></path>
+    <path id="Vector 1379" stroke="#4147d5" d="M22 6.5V2h-4.5" stroke-width="1"></path>
+    <path id="Vector 1381" stroke="#4147d5" d="M2 17.5V22h4.5" stroke-width="1"></path>
+    <path id="Vector 1387" stroke="#4147d5" d="M22 17.5V22h-4.5" stroke-width="1"></path>
+    <path id="Vector 1384" stroke="#4147d5" d="M9 2h6" stroke-width="1"></path>
+    <path id="Vector 1385" stroke="#4147d5" d="M9 22h6" stroke-width="1"></path>
+  </g>
+</svg>

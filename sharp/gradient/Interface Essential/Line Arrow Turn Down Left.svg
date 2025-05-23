@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Line-Arrow-Turn-Down-Left--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Line Arrow Turn Down Left Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/line-arrow-turn-down-left--arrow-bend-curve-change-direction-return-down">
+    <path id="Union" fill="url(#paint0_linear_644_10857)" d="m7.00015 16.1716-2.08578-2.0858-2.82843 2.8284 6.91421 6.9142 6.91425-6.9142-2.8285-2.8284-2.0857 2.0858V8c0-2.20914 1.7908-4 4-4 2.2091 0 4 1.79086 4 4v4l4 0V8c0-4.41828-3.5818-7.9999998069-8-8-4.4183-1.931e-7-8.00005 3.58172-8.00005 8l0 8.1716Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10857" x1="24.813" x2="-5.751" y1="28.875" y2="9.82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

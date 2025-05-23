@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Elipse-Frame--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Elipse Frame Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/elipse-frame">
+    <path id="Subtract" fill="url(#paint0_linear_644_11204)" fill-rule="evenodd" d="m4.25119 2.83722 7.74871 7.74868 7.7488-7.7488C17.5908 1.01211 14.8476 0 12 0 9.15238 0 6.40912 1.01215 4.25119 2.83722Zm6.33451 9.16288L2.83699 4.25145C1.01206 6.40935 0 9.1525 0 12c0 2.8476 1.01211 5.5908 2.8371 7.7487l7.7486-7.7486Zm1.4142 1.4142 7.7486 7.7487C17.5907 22.9879 14.8475 24 12 24c-2.84756 0-5.59077-1.0121-7.74868-2.8371l7.74858-7.7486Zm9.1629 6.3345-7.7487-7.7487 7.7488-7.74878C22.9879 6.40923 24 9.15244 24 12c0 2.8476-1.0121 5.5909-2.8372 7.7488Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11204" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

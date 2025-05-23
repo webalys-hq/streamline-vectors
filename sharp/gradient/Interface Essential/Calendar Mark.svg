@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Calendar-Mark--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Calendar Mark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/calendar-mark--calendar-date-day-month-mark">
+    <path id="Subtract" fill="url(#paint0_linear_644_10924)" fill-rule="evenodd" d="M17 3H7V1H5v2H1v4h22V3h-4V1h-2v2ZM1 23V9h22v14H1Zm4-8h3v-2H5v2Zm3 4H5v-2h3v2Zm2.5-4h3v-2h-3v2Zm8.5 0h-3v-2h3v2Zm-8.5 4h3v-2h-3v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10924" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

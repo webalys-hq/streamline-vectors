@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="3d-Scale--Streamline-Sharp">
+  <desc>
+    3d Scale Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="3d-scale">
+    <path id="Vector 1792" stroke="#000000" d="M12 13.75V7.39099" stroke-width="1"></path>
+    <path id="Vector 1794" stroke="#000000" d="m12 13.75 5.4855 3.8398" stroke-width="1"></path>
+    <path id="Vector 1793" stroke="#000000" d="m12 13.75 -5.48511 3.8395" stroke-width="1"></path>
+    <path id="Ellipse 634" stroke="#000000" d="M9.25 4.75a2.75 2.75 0 1 0 5.5 0 2.75 2.75 0 1 0 -5.5 0" stroke-width="1"></path>
+    <path id="Ellipse 635" stroke="#000000" d="M1.75 19.25a2.75 2.75 0 1 0 5.5 0 2.75 2.75 0 1 0 -5.5 0" stroke-width="1"></path>
+    <path id="Ellipse 636" stroke="#000000" d="M16.75 19.25a2.75 2.75 0 1 0 5.5 0 2.75 2.75 0 1 0 -5.5 0" stroke-width="1"></path>
+  </g>
+</svg>

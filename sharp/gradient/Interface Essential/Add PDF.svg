@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Add-Pdf--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Add PDF Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/add-PDF--essential-files-folder-edit-PDF-add-plus">
+    <path id="Subtract" fill="url(#paint0_linear_644_10800)" fill-rule="evenodd" d="M1.49992 1H22.9999v21.5H6.20736L.18457 23.8093l1.31535-5.9191V1ZM10.75 6.75v3.5h-3.5v3h3.5v3.5h3v-3.5l3.5 0v-3l-3.5 0v-3.5h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10800" x1="24.977" x2="-5.792" y1="28.64" y2="6.778" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Module--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Module Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/module--cube-code-module-programming-plugin">
+    <path id="Subtract" fill="url(#paint0_linear_628_18690)" fill-rule="evenodd" d="M23.0049 6.93398V19.1469l-10.0001 4.41-.0001-12.2128 10.0002-4.41012Zm-.1071-2.13864L12.0049.00244141 1.11174 4.79543l10.89296 4.8038 10.8931-4.80389ZM1.00488 6.93415l9.99982 4.40995.0001 12.2127-9.99992-4.4099V6.93415Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18690" x1="4.601" x2="22.919" y1="4.532" y2="14.012" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

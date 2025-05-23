@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Notification-Alarm-Snooze--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Notification Alarm Snooze Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/notification-alarm-snooze--android-phone-mobile-device-smartphone-iphone-alert-bell-alarm">
+    <path id="Union" fill="url(#paint0_linear_628_19166)" fill-rule="evenodd" d="M13.3996 5V1.122C12.9452 1.04182 12.4775 1 12.0001 1 7.58184 1 4.00011 4.58172 4.00011 9v4.7639l-1.89442 3.7889L1.38208 19H22.6181l-.7236-1.4472-1.8944-3.7889V12h-6.366V7.38736L15.6512 5h-2.2516Zm-3.3995 16v2h4v-2h-4ZM21.5924 1h1v1.98239l-.2361.27949L18.3531 8h4.4738v2h-7.1928V8.11915l.2361-.27949L19.9593 3h-4.5597V1h6.1928Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19166" x1="2.206" x2="26.945" y1="2.778" y2="16.369" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

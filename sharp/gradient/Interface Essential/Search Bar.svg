@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Search-Bar--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Search Bar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/search-bar--search-bar-input-magnifier-text">
+    <path id="Subtract" fill="url(#paint0_linear_644_11957)" fill-rule="evenodd" d="M24 3H0v18h24V3Zm-9.3 6.5c-1.215 0-2.2.985-2.2 2.2 0 1.215.985 2.2 2.2 2.2 1.215 0 2.2-.985 2.2-2.2 0-1.215-.985-2.2-2.2-2.2Zm-4.2 2.2c0-2.3196 1.8804-4.2 4.2-4.2 2.3196 0 4.2 1.8804 4.2 4.2 0 .7973-.2222 1.5428-.608 2.1778l1.9153 1.9152-1.4142 1.4143-1.9153-1.9153c-.635.3858-1.3805.608-2.1778.608-2.3196 0-4.2-1.8804-4.2-4.2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11957" x1="26.08" x2=".405" y1="24.813" y2=".495" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

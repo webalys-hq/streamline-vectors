@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="End-Point-Arrow--Streamline-Sharp">
+  <desc>
+    End Point Arrow Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="end-point-arrow">
+    <path id="vector" fill="#ff7972" d="M11.998 24c6.6275 0 12 -5.3726 12 -12 0 -6.62742 -5.3725 -12 -12 -12C5.37063 0 -0.00195312 5.37258 -0.00195312 12c0 6.6274 5.37258312 12 11.99995312 12Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="m11.1013 4.03711 2.4221 1.49509 9.1 5.6173 1.3785 0.8509 -1.3785 0.8509 -9.1 5.6173 -2.4221 1.4951 0.9548 -2.6814 1.4354 -4.0316 -13.49345312 -0.0002 0.00003269 -2.5L13.4917 10.7507l-1.4356 -4.03214 -0.9548 -2.68145Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

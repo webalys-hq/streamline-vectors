@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Record-Player--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Record Player Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/record-player--music-audio-note-record-player-vinyl-disc-entertainment">
+    <path id="Union" fill="url(#paint0_linear_628_19866)" fill-rule="evenodd" d="M18 0h6v6.5h-2.0001v6.0006l-.4007.2999-5.4659 4.0919-1.1986-1.6011 5.0652-3.7919V6.5H18V0Zm-2 10V4.554C14.4005 3.56851 12.5166 3 10.5 3 4.70101 3 0 7.70101 0 13.5 0 19.299 4.70101 24 10.5 24c4.9499 0 9.0999-3.4252 10.209-8.0347l-4.9783 3.7267-3.5957-4.8032L16 11.9954V10Zm-6.16602 2h-1v3H11.834v-3H9.83398Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19866" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

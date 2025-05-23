@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Medical-Ribbon-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Medical Ribbon 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/medical-ribbon-1--ribbon-medical-cancer-health-beauty-symbol">
+    <path id="Subtract" fill="url(#paint0_linear_628_20130)" fill-rule="evenodd" d="M6.56043 2.30972c3.07963-3.079627 8.07267-3.079627 11.15227 0 3.0712 3.07115 3.0797 8.04518.0254 11.12688l-4.2009-4.20098c.7526-.77284.7464-2.00951-.0188-2.77465-.7714-.77145-2.0222-.77145-2.7936 0-.77147.77144-.77147 2.0222 0 2.79365l1.3968 1.39678.0015-.0014 5.2269 5.2269.006-.006 3.5584 3.5584.3535.3535-.3535.3536-3.4863 3.4863-.3536.3535-.3535-.3535-3.5583-3.5583.0002-.0001-6.0139-6.014-.00013.0002-.58844-.5885c-3.07962-3.0796-3.07962-8.07265 0-11.15228ZM6.54048 16.2703l-3.18693 3.1869L3 19.8107l.35355.3536 3.47484 3.4748.35355.3536.35355-.3536 3.18691-3.1869-4.18192-4.1819Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20130" x1="22.851" x2="-5.832" y1="29.075" y2="13.561" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

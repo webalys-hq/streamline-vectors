@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Slide-Show-Play--Streamline-Sharp">
+  <desc>
+    Slide Show Play Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="slide-show-play">
+    <path id="Rectangle 695" fill="#79ee8d" d="M20 5.5H4V19h16V5.5Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M1 1h22v6h-1.75v10.75H23v2.5h-9.75V23h-2.5v-2.75H1v-2.5h1.75V7H1V1Zm17.75 6H5.25v10.75h13.5V7ZM9.5 9l6 3.4999L9.5 16V9Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Baggage--Streamline-Sharp">
+  <desc>
+    Baggage Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="baggage--check-baggage-travel-adventure-luggage-bag-checked-airport">
+    <path id="Rectangle 21" fill="#7af1ff" d="M2 6h20v16H2V6Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M10.0002 0.75C8.20532 0.75 6.75024 2.20507 6.75024 4v0.75H0.75v18.5h22.5V4.75h-5.9998V4c0 -1.79492 -1.455 -3.25 -3.25 -3.25h-4Zm4.75 4V4c0 -0.41421 -0.3357 -0.75 -0.75 -0.75h-4c-0.41417 0 -0.74996 0.33579 -0.74996 0.75v0.75h5.49996ZM3.25 20.75V7.25h2.75037l0 13.5H3.25Zm6.7504 0 0 -13.5h4l0 13.5h-4Zm8 0H20.75V7.25h-2.7496l0 13.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

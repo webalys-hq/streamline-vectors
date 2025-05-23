@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Presentation--Streamline-Sharp">
+  <desc>
+    Presentation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="presentation">
+    <path id="Rectangle 1909" fill="#8fbffa" d="M5 17h14l-1.5 6h-11L5 17Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M22 1H2v13h3.5v-1.927c1.167 -0.584 2.333 -1.04 3.623 -1.294a4 4 0 1 1 5.754 0c1.289 0.254 2.452 0.709 3.623 1.294V14H22V1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M12 10.5a2.5 2.5 0 1 0 0 -5 2.5 2.5 0 0 0 0 5Zm0 1.5c-3 0 -5 1 -5 1v2.5h10V13s-2 -1 -5 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

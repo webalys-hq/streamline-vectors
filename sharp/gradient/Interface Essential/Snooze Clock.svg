@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Snooze-Clock--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Snooze Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/snooze-clock--nap-sleep-rest-break-clock">
+    <path id="Union" fill="url(#paint0_linear_644_12062)" fill-rule="evenodd" d="M3.51472 3.51472C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-1.0208 0-2.02818-.1301-3-.381V20H6.45647L9 16.326V12H0c0-3.1826 1.26428-6.23484 3.51472-8.48528ZM11 5v8h6v-2h-4V5h-2ZM0 16h4.36066L0 22.2987V24h7v-2H2.63934L7 15.7013V14H0v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12062" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

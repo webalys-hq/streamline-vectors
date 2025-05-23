@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Feather-Pen--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Feather Pen Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/feather-pen--change-edit-feather-modify-quill-write-writing">
+    <path id="Union" fill="url(#paint0_linear_644_11221)" fill-rule="evenodd" d="M12.6361 1.94975C13.8845.701348 15.5777 0 17.3433 0c3.6764 0 6.6568 2.98038 6.6568 6.65685 0 1.59936-.5755 3.13938-1.6119 4.34315H17.243l2.8787-2.87871-1.4114-1.41133L5.41619 20h-.00186l-4.00011 4.0001L0 22.5859l4.00012-4.0001v-8l8.63598-8.63605ZM15.243 13h5.1713l-7 7H8.24298l7.00002-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11221" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

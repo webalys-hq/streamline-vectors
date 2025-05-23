@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Airplane-Disabled--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Airplane Disabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/airplane-disabled--server-plane-airplane-disabled-off-wireless-mode-internet-network">
+    <path id="Union" fill="url(#paint0_linear_628_19120)" fill-rule="evenodd" d="M0 1.41421 22.5859 24.0002l1.4143-1.4143-8.569-8.5689 6.7561 1.689.7221-3.8987-7.6718-4.08973 0-3.47994c0-1.78805-1.4495-3.23755-3.2376-3.23755-1.788 0-3.23751 1.4495-3.23751 3.23754l-.00001 3.11065L1.41421 0 0 1.41421ZM1.09065 11.8073l4.19976-2.2388L17.2346 21.5127l-.7796 1.5592L12 20.5969l-4.45489 2.475-1.70471-3.4094 2.92209-2.5994-.00001-3.0945-6.94967 1.7374-.72216-3.8987Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19120" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

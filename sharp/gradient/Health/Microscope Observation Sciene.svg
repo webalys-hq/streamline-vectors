@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Microscope-Observation-Sciene--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Microscope Observation Sciene Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/microscope-observation-sciene">
+    <path id="Union" fill="url(#paint0_linear_628_20186)" fill-rule="evenodd" d="M7 5V1h4v4h2v8H5V5h2ZM3 17.0303h15.0537V13c0-1.6569-1.3431-3.00001-3-3.00001H15v-4.9945c4.4454.16056 8 3.815 8 8.29961V23H1v-2h5.5l1.47729-1.9697H3v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20186" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

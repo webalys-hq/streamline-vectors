@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Song-Recommendation--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Song Recommendation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/song-recommendation--song-recommendation-entertainment">
+    <path id="Union" fill="url(#paint0_linear_628_19842)" fill-rule="evenodd" d="M0 4.71429v1.57142c2.60363 0 4.71429 2.11066 4.71429 4.71429h1.57142c0-2.60363 2.11066-4.71429 4.71429-4.71429V4.71429C8.39637 4.71429 6.28571 2.60363 6.28571 0H4.71429c0 2.60363-2.11066 4.71429-4.71429 4.71429Zm13.349-.54431h2.6476C20.4168 4.16998 24 7.75322 24 12.1734h-3c0-2.64487-2.0522-4.8104-4.651-4.9912v11.9403h-.0001l.0001.0318c0 2.6775-2.1706 4.848-4.8481 4.848-2.67748 0-4.84803-2.1705-4.84803-4.848 0-2.6775 2.17055-4.8481 4.84803-4.8481.6544 0 1.2785.1297 1.8481.3647V4.16998Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19842" x1="3.923" x2="23.308" y1="4.616" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Investing-And-Banking--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Investing And Banking Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="investing-and-banking">
+    <path id="Union" fill="url(#paint0_linear_630_38184)" fill-rule="evenodd" d="M16.1967.0808105 17.9038 1.78792l5.0883 5.08834.7071.70711-.7071.70711-5.0883 5.08832-1.7071 1.7071v-4.1541H9.93408V4.2349h6.26262V.0808105ZM7.80334 8.90894 6.09623 10.616l-5.08834 5.0884-.707109.7071.707109.7071 5.08834 5.0883 1.70711 1.7072V19.76h6.26256v-6.697H7.80334V8.90894Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38184" x1="1.2" x2="28.102" y1="2.007" y2="16.893" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

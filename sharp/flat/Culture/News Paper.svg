@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="News-Paper--Streamline-Sharp">
+  <desc>
+    News Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="news-paper--newspaper-periodical-fold-content-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M18.75 2.25H1.25v19.5h21.5V8h-4V2.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M15.25 6.25H4.75v5.5h10.5v-5.5Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M18.75 8v10.5h1.5V8h-1.5Zm-14 8.75h10.5v-1.5H4.75v1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

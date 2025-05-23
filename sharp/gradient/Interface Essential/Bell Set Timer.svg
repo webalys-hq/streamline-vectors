@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bell-Set-Timer--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bell Set Timer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/bell-set-timer--notification-alarm-alert-bell-set-time">
+    <path id="Union" fill="url(#paint0_linear_644_10873)" fill-rule="evenodd" d="M18 0c-3.3137 0-6 2.68629-6 6s2.6863 6 6 6 6-2.68629 6-6-2.6863-6-6-6Zm1 3.5V5h1.5v2H17V3.5h2Zm-9 2.50012c0-1.89015.6555-3.6272 1.7516-4.99621-4.30332.13128-7.75153 3.66106-7.75153 7.99621v4.73498l-3.001047 5.265H23.0015l-2.995-5.2537c-.6412.1656-1.3136.2537-2.0065.2537-4.4183 0-8-3.5817-8-7.99998Zm0 14.99998v2h4v-2h-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10873" x1="4.759" x2="23.336" y1="4.423" y2="14.716" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

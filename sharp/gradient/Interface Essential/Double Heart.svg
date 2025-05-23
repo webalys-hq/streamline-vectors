@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Double-Heart--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Double Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/double-heart--reward-social-rating-media-heart-it-like-favorite-love">
+    <path id="Subtract" fill="url(#paint0_linear_644_11152)" fill-rule="evenodd" d="M0 8.65685C0 4.9804 2.98035 2 6.65682 2c1.76553 0 3.45878.70137 4.70718 1.9498l.6359.63599.6362-.63612C13.8845 2.70131 15.5776 2 17.3431 2 21.0196 2 24 4.98046 23.9999 8.65696c-.0001 1.76544-.7014 3.45854-1.9497 4.70694l-1.43 1.43C20.3084 12.0952 18.0155 10 15.2332 10c-1.1715 0-2.3039.379-3.2332 1.0692C11.0706 10.379 9.93823 10 8.76675 10c-2.78232 0-5.07523 2.0953-5.38697 4.794l-1.43005-1.43C.701338 12.1156 0 10.4223 0 8.65685Zm18.0588 8.69845-6.0589 6.0589-6.05852-6.0586c-.38662-.5652-.59769-1.238-.59769-1.9325C5.34369 13.5326 6.87624 12 8.76675 12c.90787 0 1.77855.3607 2.42055 1.0026l.8127.8128.8128-.8128C13.4547 12.3606 14.3254 12 15.2332 12c1.8905 0 3.4231 1.5326 3.4231 3.4231 0 .6944-.211 1.367-.5975 1.9322Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11152" x1="26.08" x2="-3.732" y1="27.95" y2="4.216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

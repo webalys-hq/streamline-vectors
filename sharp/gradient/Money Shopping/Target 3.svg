@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Target-3--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Target 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="target-3--shop-bullseye-shooting-target">
+    <path id="Union" fill="url(#paint0_linear_630_38369)" fill-rule="evenodd" d="M10.75 2.5815c-4.2469.5582-7.6103 3.9216-8.1685 8.1685h3.06621v2.5H2.5815c.5582 4.2469 3.9216 7.6103 8.1685 8.1685v-3.0662h2.5v3.0662c4.2469-.5582 7.6103-3.9216 8.1685-8.1685h-3.0662l0-2.5h3.0662c-.5582-4.2469-3.9216-7.6103-8.1685-8.1685v3.06622h-2.5V2.5815ZM0 12C0 5.37258 5.37258 0 12 0c6.6274 0 12 5.37258 12 12 0 6.6274-5.3726 12-12 12-6.62742 0-12-5.3726-12-12Zm10.75-1.25V9.06818h2.5V10.75h1.6818v2.5H13.25v1.6818h-2.5V13.25H9.06819l0-2.5H10.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38369" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

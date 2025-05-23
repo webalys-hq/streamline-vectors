@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Following--Streamline-Sharp-Neon">
+  <desc>
+    Following Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="following">
+    <path id="Vector" stroke="#000cfe" d="M22.5 19h-9" stroke-width="1"></path>
+    <path id="Vector 2988" stroke="#000cfe" d="m18.5 15 4 4 -4 4" stroke-width="1"></path>
+    <path id="Ellipse 1206" stroke="#c71dff" d="M11.5 18.9983H1l0 -4.2126S3.66667 12.5 9 12.5c4 0 6.5 1.2857 7.5 1.9286" stroke-width="1"></path>
+    <path id="Ellipse 1207" stroke="#c71dff" d="M5.001 4.999a3.999 3.999 0 1 0 7.998 0 3.999 3.999 0 1 0 -7.998 0" stroke-width="1"></path>
+  </g>
+</svg>

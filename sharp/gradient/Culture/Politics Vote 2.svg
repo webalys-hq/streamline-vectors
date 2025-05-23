@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Politics-Vote-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Politics Vote 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Culture/politics-vote-2">
+    <path id="Union" fill="url(#paint0_linear_628_20077)" fill-rule="evenodd" d="m10.5 1.29297.3535.35355 6.5 6.5.3536.35356-.3536.35355-5 4.99997-.3535.3536-.3536-.3536-6.49997-6.49997-.35355-.35355.35355-.35356 4.99997-5 .3536-.35355ZM4.96447 10.0001H2v9h20v-9h-2.9644l-3.5 3.5H17v2H7v-2h1.46447l-3.5-3.5ZM2 21.0001h20v2H2v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20077" x1="23.733" x2="-4.684" y1="27.598" y2="8.999" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

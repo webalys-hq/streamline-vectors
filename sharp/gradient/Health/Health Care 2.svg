@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Health-Care-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Health Care 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/health-care-2--health-medical-hospital-heart-care-symbol">
+    <path id="Union" fill="url(#paint0_linear_628_20103)" fill-rule="evenodd" d="M11.9994.0253906c-2.33743 0-4.23231 1.8948794-4.23231 4.2323294 0 2.33744 1.89488 4.23232 4.23231 4.23232 2.3375 0 4.2323-1.89488 4.2323-4.23232 0-2.33745-1.8948-4.2323294-4.2323-4.2323294ZM13.0815 10.3984c1.7269-1.72684 4.5267-1.72684 6.2536 0 1.7268 1.7269 1.7268 4.5267 0 6.2536l-.0015.0015-.0089.0089-.0015.0014-6.6174 6.6175-.7071.7071-.7071-.7071-6.61821-6.6182-.00141-.0014-.00831-.0083-.0014-.0014c-1.72547-1.7255-1.72547-4.523 0-6.2485 1.72547-1.72544 4.523-1.72544 6.24843 0 .0686.0686.1345.139.1978.211l.8902.8902.8226-.8227c.082-.0975.1687-.1921.2602-.2836Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20103" x1="4.031" x2="26.287" y1="1.962" y2="10.998" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

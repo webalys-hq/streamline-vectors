@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hotel-Bed-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Hotel Bed 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/hotel-bed-2--bed-double-bedroom-bedrooms-queen-king-full-hotel-hotel">
+    <path id="Subtract" fill="url(#paint0_linear_628_19301)" fill-rule="evenodd" d="M6 1h5v3H6V1ZM5 6h15V1h3v22H1V11h22V9H1V1h3l0 4v1h1Zm13-2h-5l0-3h5v3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19301" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

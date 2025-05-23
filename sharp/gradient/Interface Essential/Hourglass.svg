@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hourglass--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Hourglass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/hourglass--hourglass-loading-measure-clock-time">
+    <path id="Union" fill="url(#paint0_linear_644_11423)" fill-rule="evenodd" d="M4 22v-5.5146L10.2795 12 4 7.51462V2H2V0h20v2h-2v5.51462L13.7205 12 20 16.4854V22h2v2H2v-2h2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11423" x1="2.768" x2="27.376" y1="1.939" y2="13.497" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

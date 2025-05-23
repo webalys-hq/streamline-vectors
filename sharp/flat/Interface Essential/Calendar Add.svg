@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Calendar-Add--Streamline-Sharp">
+  <desc>
+    Calendar Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="calendar-add--add-calendar-date-day-month">
+    <path id="Union" fill="#8fbffa" d="M23 8H1l0 15h22V8Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M16 3H8V1H6v2H1v5h22V3h-5V1h-2v2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M10.75 16.75V20h2.5v-3.25h3.25v-2.5l-3.25 0V11h-2.5v3.25l-3.25 0v2.5h3.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

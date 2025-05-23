@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Earth-2--Streamline-Sharp">
+  <desc>
+    Earth 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="earth-2--planet-earth-globe-world">
+    <path id="Vector" fill="#d7e0ff" d="M12 22.25c5.66 0 10.25 -4.59 10.25 -10.25S17.66 1.75 12 1.75 1.75 6.34 1.75 12 6.34 22.25 12 22.25Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M20.058 5.664h-8.944l0 5.39 4.154 3.748v6.916c4.059 -1.365 6.982 -5.2 6.982 -9.718 0 -2.392 -0.82 -4.592 -2.192 -6.336Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_2" fill="#ffffff" fill-rule="evenodd" d="M9.397 21.916h0.022l0 -6.67 -7.145 0a10.272 10.272 0 0 0 7.123 6.67Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_3" stroke="#4147d5" d="M20.058 5.664h-8.944l0 5.39 4.154 3.748v6.922" stroke-width="1"></path>
+    <path id="Intersect_4" stroke="#4147d5" d="m9.419 21.916 0 -6.67 -7.144 0" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" d="M12 22.25c5.66 0 10.25 -4.59 10.25 -10.25S17.66 1.75 12 1.75 1.75 6.34 1.75 12 6.34 22.25 12 22.25Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Leaf--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Leaf Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/leaf--nature-environment-leaf-ecology-plant-plants-eco">
+    <path id="Union" fill="url(#paint0_linear_628_19741)" fill-rule="evenodd" d="M20.214 18.578 23.2203.779785 5.42215 3.7861l-.22576.22575C1.26961 7.93863.934582 14.116 4.33675 18.2491L.792847 21.793l1.414213 1.4142 3.54389-3.5439 7.95605-7.9561 1.4143 1.4142-7.6743 7.6743c3.9965 2.1232 9.1221 1.4272 12.5412-1.992l.2258-.2257Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19741" x1="4.459" x2="22.573" y1="5.093" y2="15.129" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

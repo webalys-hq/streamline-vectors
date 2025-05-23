@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pie-Chart--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Pie Chart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pie-chart--product-data-analysis-analytics-pie-business-chart">
+    <path id="Union" fill="url(#paint0_linear_630_38214)" fill-rule="evenodd" d="M12.9999.0102539h1c5.5173 0 9.9899 4.4725961 9.9899 9.9898461v1h-1l-8.9899 0-1 0V.0102539ZM.0534668 13.9566c0-5.5172 4.4726032-9.9898 9.9898332-9.9898h1v1l0 7.9898 7.9898 0h1v1c0 5.5173-4.4726 9.9899-9.9898 9.9899-5.51723 0-9.9898332-4.4726-9.9898332-9.9899Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38214" x1="26.064" x2="-6.222" y1="29.016" y2="6.082" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

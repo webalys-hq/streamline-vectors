@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Image-Highlights--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Image Highlights Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/image-highlights">
+    <path id="Subtract" fill="url(#paint0_linear_644_11429)" fill-rule="evenodd" d="M3.51472 3.51472C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-3.1826 0-6.23484-1.2643-8.48528-3.5147C1.26428 18.2348 0 15.1826 0 12c0-3.1826 1.26428-6.23484 3.51472-8.48528Zm2.82843 2.82843C7.84344 4.84285 9.87827 4 12 4v16c-2.12173 0-4.15656-.8429-5.65685-2.3431C4.84285 16.1566 4 14.1217 4 12c0-2.12173.84285-4.15656 2.34315-5.65685Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11429" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Safari-Logo--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Safari Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/safari-logo">
+    <path id="Union" fill="url(#paint0_linear_628_19021)" fill-rule="evenodd" d="M11 2.04938C11.3289 2.01672 11.6625 2 12 2s.6711.01672 1 .04937V4h-2V2.04938ZM3.88234 6.1589c-.38871.53926-.72502 1.11882-1.00145 1.73121l1.95014 1.12591 1-1.73205L3.88234 6.1589ZM11 21.9506c.3289.0327.6625.0494 1 .0494s.6711-.0167 1-.0494V20h-2v1.9506Zm9.1175-4.1093c.3887-.5392.7251-1.1188 1.0015-1.7312l-1.9505-1.1261-1 1.732 1.949 1.1253ZM12 0C5.37258 0 0 5.37258 0 12c0 6.6274 5.37258 12 12 12 6.6274 0 12-5.3726 12-12 0-6.62742-5.3726-12-12-12Zm4.7906 7.20942-.3162.94869-2 5.99999-.0791.2372-.2372.079-5.99997 2-.94868.3163.31622-.9487 2-6.00002.07906-.23717.23717-.07906 6-2 .9487-.31623Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19021" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

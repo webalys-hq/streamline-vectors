@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chat-Bubble-Typing-Oval--Streamline-Sharp">
+  <desc>
+    Chat Bubble Typing Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-typing-oval--messages-message-bubble-typing-chat">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M12 1C5.925 1 1 5.925 1 12c0 2.392 0.765 4.608 2.062 6.413L0.196 23 12 23c6.075 0 11 -4.925 11 -11S18.075 1 12 1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M6 10.75h2.5v2.5H6v-2.5Zm4.75 0h2.5v2.5h-2.5v-2.5Zm7.25 0h-2.5v2.5H18v-2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

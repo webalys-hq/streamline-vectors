@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Gift-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Gift 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gift-2--reward-box-social-present-gift-media-rating-bow">
+    <path id="Subtract" fill="url(#paint0_linear_630_38138)" fill-rule="evenodd" d="M9 3c-1.10457 0-2 .89543-2 2H5c0-2.20914 1.79086-4 4-4 1.1947 0 2.2671.52376 3 1.35418C12.7329 1.52376 13.8053 1 15 1c2.2091 0 4 1.79086 4 4h-2c0-1.10457-.8954-2-2-2s-2 .89543-2 2h-2c0-1.10457-.8954-2-2-2ZM1 7h22v5.5H1V7Zm1 7.5L2 22v1h9v-8.5H2Zm11 0V23h9v-8.5h-9Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38138" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

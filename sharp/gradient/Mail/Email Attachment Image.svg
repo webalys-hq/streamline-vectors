@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Email-Attachment-Image--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Email Attachment Image Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/email-attachment-image--mail-send-email-attachment-file-image-png-jpg">
+    <path id="Union" fill="url(#paint0_linear_628_19548)" fill-rule="evenodd" d="M24 0H4v10.0709C4.3266 10.0242 4.66048 10 5 10c3.86599 0 7 3.134 7 7v3h12V0ZM8 6c0-1.10457.89543-2 2-2 1.1046 0 2 .89543 2 2s-.8954 2-2 2c-1.10457 0-2-.89543-2-2Zm14 3.58588-4.5001-4.50006-5.8498 5.84978C13.1098 12.5354 14 14.6637 14 17v1h8V9.58588ZM5 12c-2.76142 0-5 2.2386-5 5v4c0 1.6569 1.34315 3 3 3s3-1.3431 3-3v-5H4v5c0 .5523-.44772 1-1 1s-1-.4477-1-1v-4c0-1.6569 1.34315-3 3-3s3 1.3431 3 3v7h2v-7c0-2.7614-2.23858-5-5-5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19548" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

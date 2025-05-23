@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shopping-Cart-Add--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shopping Cart Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-cart-add--shopping-cart-checkout-add-plus-new">
+    <path id="Subtract" fill="url(#paint0_linear_630_38270)" fill-rule="evenodd" d="m1 3 3.5 0v15l1 0 12 0h.7208l.2279-.6838 4-11.99997L22.8874 4H6.5V1l-1 0H1v2Zm4.5 17.2495h-1v2.7504h2.75043v-2.7504H5.5Zm5 0h2.7504v2.7504H10.5v-2.7504Zm2.875-8.2492h2.5v-2h-2.5V7.5h-2v2.5003h-2.5v2h2.5V14.5h2v-2.4997Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38270" x1="24.784" x2="-4.84" y1="27.66" y2="6.724" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

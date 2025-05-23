@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Router-Wifi-Network--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Router Wifi Network Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/router-wifi-network">
+    <path id="Subtract" fill="url(#paint0_linear_628_19008)" fill-rule="evenodd" d="m3.89436 1.17725.41156.91138 3.57261 7.91157H16.121l3.5726-7.91157.4115-.91138 1.8228.8231-.4115.91139-3.201 7.08846H24v9.9999h-4.8462v2.0001h-2v-2.0001H6.84619v2.0001h-2v-2.0001H0v-9.9999h5.68407L2.48315 2.91174l-.41156-.91139 1.82277-.8231ZM10.2871 14.0002h8.7127v2h-8.7127v-2Zm-4.09081 0h-1v2h2.16284v-2H6.19629Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19008" x1="26.08" x2="-3.081" y1="26.411" y2="2.536" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

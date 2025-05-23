@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pathfinder-Outline--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Pathfinder Outline Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/pathfinder-outline">
+    <path id="Union" fill="url(#paint0_linear_644_11727)" fill-rule="evenodd" d="M1 1h16v4h-2V3H3v12h2v2H1V1Zm20 8h-2V7h4v16H7v-4h2v2h12V9ZM7 7h10v10H7V7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11727" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

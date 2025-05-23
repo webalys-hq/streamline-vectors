@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Google-Drive-Logo--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Google Drive Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/google-drive-logo">
+    <path id="Subtract" fill="url(#paint0_linear_628_18957)" fill-rule="evenodd" d="M23.0958 14 16.8795 2.52372 16.5958 2H9.57449l7.00001 12 6.5213 0ZM7.33454 2.12934l-.21362.39438L.620917 14.5237l-.286933.5297.334175.5013 3.667631 5.5014L11.0568 8.51032 7.33454 2.12934ZM6.09906 22l3.21431-6H23.0746l-3.2106 5.5039-.2894.4961H6.09906Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18957" x1="1.209" x2="25.427" y1="3.616" y2="19.151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

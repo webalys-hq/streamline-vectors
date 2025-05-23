@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chat-Bubble-Typing-Oval--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Chat Bubble Typing Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Mail/chat-bubble-typing-oval--messages-message-bubble-typing-chat">
+    <path id="Subtract" fill="url(#paint0_linear_628_19505)" fill-rule="evenodd" d="M3.51472 3.51472C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-1.8457 0-3.64753-.4252-5.27449-1.2213L.18465 23.8093l1.055-6.4975C.431744 15.6751 0 13.8598 0 12c0-3.1826 1.26428-6.23484 3.51472-8.48528Zm5.35799 7.11258H6.1272v2.7455h2.74551v-2.7455Zm1.75449 0h2.7455v2.7455h-2.7455v-2.7455Zm7.2455 0h-2.7455v2.7455h2.7455v-2.7455Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19505" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

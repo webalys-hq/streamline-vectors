@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Cursor-Move--Streamline-Sharp-Neon">
+  <desc>
+    Arrow Cursor Move Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-cursor-move--mouse-select-cursor-move-scroll">
+    <path id="Union" stroke="#c71dff" d="m2 2 3 10 7 -7L2 2Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="m11 13 -2.5 2.5L11 18" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="m13 11 2.5 -2.5L18 11" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" d="m20 13 2.5 2.5L20 18" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" d="m13 20 2.5 2.5L18 20" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" d="m15.5 8.5 0 14" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000cfe" d="m22.5 15.5 -14 0" stroke-width="1"></path>
+  </g>
+</svg>

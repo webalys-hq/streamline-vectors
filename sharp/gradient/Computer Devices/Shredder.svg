@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shredder--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Shredder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/shredder--device-electronics-shred-paper-cut-destroy-remove-delete">
+    <path id="Union" fill="url(#paint0_linear_628_19044)" fill-rule="evenodd" d="M6 1H5v5h14V1H6ZM1 8h22v10h-4v-4h1v-2H4v2h1v4H1V8Zm8 6H7v6c0 .5523-.44772 1-1 1H5v2h1c1.65685 0 3-1.3431 3-3v-6Zm6 0h2v6c0 .5523.4477 1 1 1h1v2h-1c-1.6569 0-3-1.3431-3-3v-6Zm-4 0v9h2v-9h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19044" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

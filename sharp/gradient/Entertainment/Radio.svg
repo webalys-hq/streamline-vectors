@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Radio--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Radio Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/radio--antenna-audio-music-radio-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_628_19879)" fill-rule="evenodd" d="M0 5.49995V3.39281l.847059-.13109L21.8471.0117188l.3058 1.9764712L2.69231 4.99995H24v2.99999H0V5.49995Zm0 4.49999V24h24V9.99994H0Zm12 6.50586c0 2.2091-1.7909 4-4 4-2.20914 0-4-1.7909-4-4 0-2.2091 1.79086-4 4-4 2.2091 0 4 1.7909 4 4Zm3-1.0059h4v-2h-4v2Zm4 4h-4v-2h4v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19879" x1="23.919" x2="-4.496" y1="24.005" y2="8.013" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

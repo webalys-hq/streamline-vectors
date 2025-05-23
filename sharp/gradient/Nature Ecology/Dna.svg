@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Dna--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Dna Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/dna--science-biology-experiment-lab-science">
+    <path id="Union" fill="url(#paint0_linear_628_19710)" fill-rule="evenodd" d="M17.5 11.3787V0h3v3.5H24v3h-3.5v6.1213l-.4393.4394-7 7-.4394.4393H8v-3h3.3787l2-2L8.5 10.6213l-2 2V24h-3v-3.5H0v-3h3.5v-6.1213l.43934-.4394 6.99996-6.99996.4394-.43934H16v3h-3.3787l-2 2L15.5 13.3787l2-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19710" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

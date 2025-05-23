@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Location-Office--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Location Office Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/location-office--travel-places-location-office">
+    <path id="Union" fill="url(#paint0_linear_628_19333)" fill-rule="evenodd" d="M0 0h14v10.5091c-1.8274 1.3838-3 3.5868-3 6.0441 0 1.3291.4338 2.51.9346 3.4468H8v-5H6v5H0V0Zm4 6V4h2v2H4Zm0 4V8h2v2H4Zm4-2v2h2V8H8Zm0-2V4h2v2H8Zm10.5 16.7734-.5777.8163-.0023-.0016-.0039-.0028-.0126-.009-.0438-.0318c-.0371-.0271-.0899-.0661-.1561-.1161-.1322-.1-.3185-.2444-.5409-.4268-.4432-.3635-1.0374-.8839-1.6352-1.5086-.5948-.6216-1.2138-1.3677-1.6888-2.1846-.4714-.8106-.8387-1.7553-.8387-2.7552C13 13.4973 15.4514 11 18.5 11s5.5 2.4973 5.5 5.5532c0 .9999-.3673 1.9446-.8387 2.7552-.475.8169-1.094 1.563-1.6888 2.1846-.5978.6247-1.192 1.1451-1.6352 1.5086-.2224.1824-.4087.3268-.5409.4268-.0662.05-.119.089-.1561.1161l-.0438.0318-.0126.009-.0039.0028-.0023.0016-.5777.4088-.5777-.4088c.0001.0001.0001.0001.0753-.1062l.5024-.7101Zm1.25-7.5234v2.5h-2.5v-2.5h2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19333" x1=".922" x2="28.275" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

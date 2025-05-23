@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="News-Paper--Streamline-Sharp-Gradient-Free">
+  <desc>
+    News Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Culture/news-paper--newspaper-periodical-fold-content-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_628_20062)" fill-rule="evenodd" d="M0 2h19v16h2V9h3v13H0V2Zm5 4H4v6h11V6H5Zm9.75 11H4.25v-2h10.5v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20062" x1="3.923" x2="21.492" y1="5.846" y2="17.527" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

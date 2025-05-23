@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Recycle-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Recycle 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Nature Ecology/recycle-1--nature-sign-environment-protect-save-arrows">
+    <g id="Union">
+      <path fill="url(#paint0_linear_628_19730)" d="M17.1162 1H8.98535L5.55664 5.80019l3.42883 2.0573 1.02903-1.71498-1.5712-.9427L10.0146 3h1.3894l1.7251 3.18891-.9502-.17278-.3578 1.96774 6.205 1.12819 2.848-5.12642-1.7483-.97128-.5224.94038L17.1162 1Z"></path>
+      <path fill="url(#paint1_linear_628_19730)" d="m23.6238 13.9512-2.7624-4.83426-3.3759 2.02556 1.0289 1.715 1.6241-.9745 1.2376 2.1658-.6698 1.4512h-4.0045l.6302-.9453-1.6641-1.1094L12.2981 18.5l3.3698 5.0547 1.6641-1.1094-.6302-.9453h3.438l3.484-7.5488Z"></path>
+      <path fill="url(#paint2_linear_628_19730)" d="m9.69064 14.6549-2.6926-5.44567-6.062395.39098.128715 1.99589 1.13376-.0732-1.718994 2.9774L5.27453 21.292l5.56787.0248-.0663-3.9364-1.99967.0336.03185 1.8937-2.49435-.0111-.9219-1.3057 2.00224-3.468.50355 1.0185 1.79282-.8865Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19730" x1="4.262" x2="22.726" y1="5.337" y2="15.835" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_628_19730" x1="4.262" x2="22.726" y1="5.337" y2="15.835" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_628_19730" x1="4.262" x2="22.726" y1="5.337" y2="15.835" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

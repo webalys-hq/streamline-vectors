@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Fire-Alarm-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Fire Alarm 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/fire-alarm-1--fire-signal-ring-bell">
+    <path id="Union" fill="url(#paint0_linear_628_19252)" fill-rule="evenodd" d="M18 9c0-4.41828-3.5817-8-8-8-4.41828 0-8 3.58172-8 8 0 4.4183 3.58172 8 8 8 4.4183 0 8-3.5817 8-8ZM1.99927 15H1v8.1146h18.0001v-3.1251H23V4h-4.023v2H21v11.9895h-1.9999V15h-.9994c-1.8244 2.4289-4.7291 4-8.0007 4-3.27164 0-6.17632-1.5711-8.00073-4ZM11.5 7.5h-3v3h3v-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19252" x1="1.845" x2="26.982" y1="2.787" y2="16.881" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

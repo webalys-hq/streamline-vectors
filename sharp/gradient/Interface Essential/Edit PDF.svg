@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Edit-Pdf--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Edit PDF Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/edit-PDF--essential-files-folder-edit-PDF">
+    <path id="Union" fill="url(#paint0_linear_644_11192)" fill-rule="evenodd" d="M0 0h14.4142L20 5.58579v4.67151l-1-.99998-9 8.99998V24H0V0Zm4 20h4v-2H7v-4h1v-2H4v2h1v4H4v2Zm15-7.9141 4.9142 4.9143-7 7H12v-4.9143l7-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11192" x1="23.833" x2="-4.535" y1="24.005" y2="8.104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

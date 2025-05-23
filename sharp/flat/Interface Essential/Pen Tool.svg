@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pen-Tool--Streamline-Sharp">
+  <desc>
+    Pen Tool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pen-tool">
+    <path id="Vector 1847" fill="#8fbffa" d="M3.49988 9.5 10.9999 7l6 6 -2.5 7.5L0.999878 23 3.49988 9.5Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="m11 7 3 -6 9 9 -6 3 -6 -6ZM1 23l1.73581 -0.3214 5.76427 -5.7643 1.29289 1.2929 1.41423 -1.4142 -4.00002 -4 -1.41421 1.4142 1.29289 1.2929 -5.76448 5.7645L1 23Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

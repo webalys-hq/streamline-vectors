@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Stock--Streamline-Sharp">
+  <desc>
+    Stock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="stock--price-stock-wallstreet-dollar-money-currency-fluctuate-candlestick-business">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5 20V1H3v19h2Zm8 3V8h-2v15h2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M7 6H1v11h6V6Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M15 13H9v6h6v-6Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_4" fill="#2859c5" fill-rule="evenodd" d="M18.5 2.5H18a2 2 0 0 0 -2 2v0.93a2 2 0 0 0 1.608 1.961L21 8.07l0 1.43h-3v-1h-2v1a2 2 0 0 0 2 2h0.5V13h2v-1.5h0.5a2 2 0 0 0 2 -2V8.07a2 2 0 0 0 -1.608 -1.961L18 5.43V4.5h3v1h2v-1a2 2 0 0 0 -2 -2h-0.5V1h-2v1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

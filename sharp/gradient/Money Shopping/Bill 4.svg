@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bill-4--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Bill 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bill-4--accounting-billing-payment-finance-cash-currency-money-bill-dollar-stack">
+    <path id="Union" fill="url(#paint0_linear_630_38042)" fill-rule="evenodd" d="M1 3H0v15.0001h20V3H1Zm9 4.5c-1.65685 0-3 1.34315-3 3 0 1.6569 1.34315 3 3 3 1.6569 0 3-1.3431 3-3 0-1.65685-1.3431-3-3-3Zm14 13.5001V8h-2v12.0001H5v2h19v-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38042" x1="26.08" x2="-.903" y1="26.024" y2="1.813" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

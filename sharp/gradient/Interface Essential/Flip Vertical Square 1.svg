@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flip-Vertical-Square-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Flip Vertical Square 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/flip-vertical-square-1--design-down-flip-reflect-vertical">
+    <path id="Union" fill="url(#paint0_linear_644_11273)" fill-rule="evenodd" d="M1 1h22v12H1V1Zm0 14v3h2l0-3H1Zm3.5 6H3v-1.5H1V23h3.5l0-2ZM9 23H6v-2h3v2Zm1.5 0h3v-2h-3v2Zm7.5 0h-3l0-2h3v2Zm3-8v3h2v-3h-2Zm2 4.5V23h-3.5v-2H21v-1.5h2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11273" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

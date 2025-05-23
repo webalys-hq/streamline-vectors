@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Incognito-Mode--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Incognito Mode Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/incognito-mode--internet-safe-mode-browser">
+    <path id="Union" fill="url(#paint0_linear_628_18735)" fill-rule="evenodd" d="M18.8114 1H5.18863L3.39916 9.5H1v3h22v-3h-2.3991L18.8114 1ZM4 18.5C4 17.1193 5.11929 16 6.5 16S9 17.1193 9 18.5 7.88071 21 6.5 21 4 19.8807 4 18.5ZM6.5 14c1.58023 0 2.97022.8145 3.773 2.0466.4883-.3443 1.084-.5466 1.727-.5466s1.2387.2023 1.727.5466C14.5298 14.8145 15.9198 14 17.5 14c2.4853 0 4.5 2.0147 4.5 4.5S19.9853 23 17.5 23 13 20.9853 13 18.5c0-.5523-.4477-1-1-1s-1 .4477-1 1c0 2.4853-2.01472 4.5-4.5 4.5S2 20.9853 2 18.5 4.01472 14 6.5 14Zm11 7c-1.3807 0-2.5-1.1193-2.5-2.5s1.1193-2.5 2.5-2.5 2.5 1.1193 2.5 2.5-1.1193 2.5-2.5 2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18735" x1="24.907" x2="-4.768" y1="27.66" y2="6.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

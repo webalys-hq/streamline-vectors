@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pin-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Pin 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/pin-1--pin-push-thumbtack">
+    <path id="Union" fill="url(#paint0_linear_644_11781)" fill-rule="evenodd" d="M6.33585 16.2499.128402 10.0425 10.8675 6.65105 15.3516.0371094 23.963 8.64855l-6.6139 4.48405-3.3915 10.7391-6.20753-6.2075L1.41421 24 0 22.5858l6.33585-6.3359Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11781" x1="3.917" x2="23.271" y1="4.645" y2="15.369" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

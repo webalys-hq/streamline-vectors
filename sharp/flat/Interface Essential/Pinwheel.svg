@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pinwheel--Streamline-Sharp">
+  <desc>
+    Pinwheel Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pinwheel--windmill-velocity-weather-wind">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M12 12V1h1c3.3137 0 6 2.68629 6 6v5h-7Zm0 0H5v5c0 3.3137 2.68629 6 6 6h1V12Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M12 12H1v-1c0 -3.31371 2.68629 -6 6 -6h5v7Zm0 0v7h5c3.3137 0 6 -2.6863 6 -6v-1H12Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

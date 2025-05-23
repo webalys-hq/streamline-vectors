@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hot-Air-Balloon--Streamline-Sharp">
+  <desc>
+    Hot Air Balloon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hot-air-balloon">
+    <path id="Ellipse 1143 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M12 3c-3.86599 0 -7 3.13401 -7 7 0 1.0576 0.62613 2.4222 1.68228 3.8939 1.02892 1.4338 2.85221 3.8145 3.99632 4.8716l-1.35722 1.469c-1.20299 -1.1115 -3.1297 -3.5939 -4.264 -5.1746C3.95031 13.5173 3 11.7162 3 10c0 -4.97056 4.02944 -9 9 -9 4.9706 0 9 4.02944 9 9 0 1.7162 -0.9503 3.5173 -2.0574 5.0599 -1.1343 1.5807 -3.061 4.0631 -4.264 5.1746l-1.3572 -1.469c1.1441 -1.0571 2.9674 -3.4378 3.9963 -4.8716C18.3739 12.4222 19 11.0576 19 10c0 -3.86599 -3.134 -7 -7 -7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M12 1c-4.97056 0 -9 4.02944 -9 9 0 1.6801 0.91225 3.4523 2.01441 5H18.9856C20.0877 13.4523 21 11.6801 21 10c0 -4.97056 -4.0294 -9 -9 -9Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M7.72119 18.5h8.55771c-0.4521 0.5378 -0.8913 1.0315 -1.2789 1.4229V23H9v-3.0772c-0.38754 -0.3913 -0.82674 -0.885 -1.27881 -1.4228Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M10 1.22314V15.0001H8V1.93565c0.6285 -0.31234 1.2987 -0.55337 2 -0.71251Zm4 0V15.0001h2V1.93565c-0.6285 -0.31234 -1.2987 -0.55337 -2 -0.71251Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

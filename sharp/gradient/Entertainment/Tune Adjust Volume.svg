@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Tune-Adjust-Volume--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Tune Adjust Volume Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/tune-adjust-volume">
+    <path id="Subtract" fill="url(#paint0_linear_628_19805)" fill-rule="evenodd" d="M11.0002 3.5V1h2v2.5l-2 0ZM2.80772 5.22176l1.76777 1.76776 1.41422-1.41421-1.76777-1.76777-1.41422 1.41422ZM12 5c-4.41828 0-8 3.58172-8 8 0 4.4183 3.58172 8 8 8 4.4183 0 8-3.5817 8-8 0-4.41828-3.5817-8-8-8Zm-9.49988 9H.00012207v-2H2.50012v2Zm21.49998 0h-2.5v-2h2.5v2Zm-5.9896 6.4246 1.7678 1.7678 1.4142-1.4142-1.7677-1.7678-1.4143 1.4142Zm1.7678-16.61706-1.7677 1.76777 1.4142 1.41421 1.7678-1.76776-1.4143-1.41422ZM2.80775 20.7782l1.76777-1.7678 1.41421 1.4142-1.76777 1.7678-1.41421-1.4142Zm7.46935-7.2934-3.05686 3.0568 1.41421 1.4143 3.05685-3.0569-1.4142-1.4142Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19805" x1="26.08" x2="-3.491" y1="26.681" y2="2.893" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

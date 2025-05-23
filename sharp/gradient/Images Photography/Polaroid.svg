@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Polaroid--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Polaroid Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="polaroid--photos-polaroid-picture-camera-photography-photo-pictures-image">
+    <path id="Union" fill="url(#paint0_linear_630_37998)" fill-rule="evenodd" d="M1 0H0v17h17V0H1Zm14 11H2V2h13v9Zm4 8H3.14157l-.11862.4427.96592.2588 14.48893 3.8823.9659.2588.2588-.9659 3.8823-14.48891.2588-.96592-.9659-.25882L19 6.12402V19Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_37998" x1="25.91" x2="-6.251" y1="28.893" y2="6.047" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

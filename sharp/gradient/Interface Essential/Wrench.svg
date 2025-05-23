@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Wrench--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Wrench Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/wrench--crescent-tool-construction-tools-wrench-setting-edit-adjust">
+    <path id="Union" fill="url(#paint0_linear_644_12496)" fill-rule="evenodd" d="M15.4999 0c-4.6944 0-8.49999 3.80558-8.49999 8.5 0 .92821.14913 1.823.42507 2.6608L-.000244141 18.586 5.41397 24.0002l7.42533-7.4252c.8378.2759 1.7325.425 2.6606.425 4.6944 0 8.5-3.8056 8.5-8.5 0-1.16909-.2366-2.28547-.6654-3.30193l-.5777-1.36917L17.5857 9h-2.5858V6.41421l5.1711-5.1711-1.3692-.577666C17.7854.236588 16.669 0 15.4999 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12496" x1="3.923" x2="23.307" y1="4.615" y2="15.356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

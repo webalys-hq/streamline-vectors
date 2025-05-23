@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Style--Streamline-Sharp">
+  <desc>
+    Text Style Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-style--text-style-formatting-format">
+    <path id="vector" fill="#7af1ff" d="M12 24c6.6274 0 12 -5.3726 12 -12 0 -6.62742 -5.3726 -12 -12 -12C5.37258 0 0 5.37258 0 12c0 6.6274 5.37258 12 12 12Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M1.75 0h20.5v8.25h-2.5V2.5h-6.5v19h5.7498V24H4.99976v-2.5H10.75v-19h-6.5v5.75h-2.5V0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

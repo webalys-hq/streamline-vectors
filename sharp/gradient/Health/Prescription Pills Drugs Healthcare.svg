@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Prescription-Pills-Drugs-Healthcare--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Prescription Pills Drugs Healthcare Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/prescription-pills-drugs-healthcare">
+    <path id="Union" fill="url(#paint0_linear_628_20141)" fill-rule="evenodd" d="M5.04663 10.3562V3.00293H11.817c2.0305 0 3.6766 1.64609 3.6766 3.67665s-1.6461 3.67662-3.6766 3.67662h-1.6771l-.002-.0018-.0017.0018H5.04663Zm0 3v10.641h-3V.00292969H11.817c3.6874 0 6.6766 2.98924031 6.6766 6.67665031 0 3.21703-2.2752 5.90262-5.3043 6.53552l2.4697 2.3154 3.4444-3.4444 1.0607-1.0607 2.1213 2.1213-1.0606 1.0607-3.376 3.376 3.341 3.1321 1.0943 1.0259-2.0519 2.1886-1.0943-1.0259-3.4115-3.1983-3.1648 3.1647-1.0606 1.0607-2.12134-2.1213 1.06064-1.0607 3.0963-3.0963-4.35621-4.084-.22686-.2127h-3.9069Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20141" x1="5.355" x2="22.89" y1="4.617" y2="12.812" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

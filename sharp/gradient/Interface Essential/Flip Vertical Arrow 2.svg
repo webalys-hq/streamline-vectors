@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flip-Vertical-Arrow-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Flip Vertical Arrow 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/flip-vertical-arrow-2--arrow-design-flip-reflect-up-down">
+    <g id="Union">
+      <path fill="url(#paint0_linear_644_11271)" d="M20 13.0002h4v-2h-4v2Z"></path>
+      <path fill="url(#paint1_linear_644_11271)" d="M17.334 13.0002h-4v-2h4v2Z"></path>
+      <path fill="url(#paint2_linear_644_11271)" d="M6.66699 13.0002H10.667v-2H6.66699v2Z"></path>
+      <path fill="url(#paint3_linear_644_11271)" d="M0 13.0002h4v-2H2.39e-8L0 13.0002Z"></path>
+      <path fill="url(#paint4_linear_644_11271)" d="m11.9998 15.0854 7.9143 7.9143H4.08564l7.91416-7.9143Z"></path>
+      <path fill="url(#paint5_linear_644_11271)" d="M11.9998 8.91421 19.9141 1 4.08564 1l7.91416 7.91421Z"></path>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11271" x1="26.08" x2="-4.352" y1="27.659" y2="4.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_644_11271" x1="26.08" x2="-4.352" y1="27.659" y2="4.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+    <linearGradient id="paint2_linear_644_11271" x1="26.08" x2="-4.352" y1="27.659" y2="4.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+    <linearGradient id="paint3_linear_644_11271" x1="26.08" x2="-4.352" y1="27.659" y2="4.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+    <linearGradient id="paint4_linear_644_11271" x1="26.08" x2="-4.352" y1="27.659" y2="4.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+    <linearGradient id="paint5_linear_644_11271" x1="26.08" x2="-4.352" y1="27.659" y2="4.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

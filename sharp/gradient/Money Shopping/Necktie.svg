@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Necktie--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Necktie Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="necktie--necktie-businessman-business-cloth-clothing-gentleman-accessories">
+    <path id="Subtract" fill="url(#paint0_linear_630_38208)" fill-rule="evenodd" d="M6.46128 0H17.5388l-.6249 1.40614L15.0944 5.5H8.90572L7.08623 1.40614 6.46128 0Zm2.00799 7.5L6.0299 17.2575l-.13732.5492.40036.4004 4.99996 5 .7071.7071.7071-.7071 5-5 .4004-.4004-.1373-.5492L15.5308 7.5H8.46927Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38208" x1="18.066" x2=".476" y1="23.919" y2="18.865" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

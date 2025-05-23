@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Curves-Levels-Graph--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Curves Levels Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/curves-levels-graph">
+    <path id="Union" fill="url(#paint0_linear_644_11019)" fill-rule="evenodd" d="M23 1h-6v6h1.9381c-.4512 3.6187-3.3194 6.4869-6.9381 6.9381V12H6v6h6v-2.0494c4.7244-.469 8.4816-4.2262 8.9506-8.9506H23V1ZM3 6.7749l0 3.15-2 0v-3.15h2Zm0 6.3002 0 3.15H1v-3.15l2 0Zm0 7.925 0-2.15H1v4.15h1l3.15 0v-2l-2.15 0Zm14.225 2-3.15 0v-2l3.15 0v2Zm2.625-2 3.15 0 0 2-3.15 0v-2Zm-12.075 0h3.15v2h-3.15v-2ZM1 1v3.15l2 0L3 1H1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11019" x1="22.926" x2="-3.127" y1="23.005" y2="8.349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

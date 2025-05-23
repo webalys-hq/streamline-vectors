@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Fingerprint-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Fingerprint 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/fingerprint-2--identification-password-touch-id-secure-fingerprint-finger-security">
+    <path id="Union" fill="url(#paint0_linear_644_11241)" fill-rule="evenodd" d="M12 2.5c4.137 0 7.5015 3.3723 7.5015 7.5455V14h2.5v-3.9545C22.0015 4.50342 17.5296 0 12 0v2.5ZM1.99854 9.99983c0-4.78556 3.32898-8.73598 7.77876-9.750767l.5559 2.437417c-3.34485.7628-5.83466 3.72724-5.83466 7.31335h-2.5ZM4.49854 12v1.9545C4.49854 18.1277 7.86296 21.5 12 21.5c3.5639 0 6.5559-2.5028 7.3153-5.8662l2.4386.5506C20.7446 20.6547 16.7659 24 12 24 6.47044 24 1.99854 19.4966 1.99854 13.9545V12h2.5ZM6.9586 7.53707C7.87611 5.68154 9.78594 4.39795 12 4.39795c3.1129 0 5.6257 2.53449 5.6257 5.64775h-2.5c0-1.74438-1.4053-3.14775-3.1257-3.14775-1.2221 0-2.28587.70668-2.8004 1.74724l-2.241-1.10812ZM15.1257 12v1.9545c0 1.7444-1.4053 3.1478-3.1257 3.1478v2.5c3.1129 0 5.6257-2.5345 5.6257-5.6478V12h-2.5Zm-6.25119-2v3.9545c0 1.2375.70829 2.3073 1.73949 2.8224l-1.11706 2.2365c-1.85039-.9242-3.12243-2.8429-3.12243-5.0589V10h2.5ZM10.75 9v6h2.5V9h-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11241" x1="21.934" x2="-3.63" y1="24.005" y2="12.02" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

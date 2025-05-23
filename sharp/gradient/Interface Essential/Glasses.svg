@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Glasses--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Glasses Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/glasses--vision-sunglasses-protection-spectacles-correction-sun-eye-glasses">
+    <path id="Union" fill="url(#paint0_linear_644_11299)" fill-rule="evenodd" d="M2 1H1v22h10v-7h2v7h10V1h-6v2h4v11H3V3h4V1H2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11299" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

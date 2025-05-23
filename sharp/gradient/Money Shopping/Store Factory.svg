@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Store-Factory--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Store Factory Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="store-factory--production-store-shop-shops-stores-factory">
+    <path id="Subtract" fill="url(#paint0_linear_630_38339)" fill-rule="evenodd" d="M1 1h8v9.2768l5.5039-3.14504L16 6.27682v3.99998l5.5039-3.14504L23 6.27682V23H8.5v-6h-3v6H1V1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38339" x1="1.845" x2="26.919" y1="2.778" y2="16.91" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

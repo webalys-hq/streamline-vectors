@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Buttons-All--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Buttons All Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Entertainment/buttons-all">
+    <path id="Union" fill="url(#paint0_linear_628_19954)" fill-rule="evenodd" d="M11.9997.533203c-2.42663 0-4.39377 1.967137-4.39377 4.393727 0 2.42658 1.96714 4.39372 4.39377 4.39372 2.4265 0 4.3937-1.96714 4.3937-4.39372 0-2.42659-1.9672-4.393727-4.3937-4.393727Zm7.0738 7.073247c2.4266 0 4.3938 1.96713 4.3938 4.39375 0 2.4266-1.9672 4.3937-4.3938 4.3937-2.4266 0-4.3937-1.9671-4.3937-4.3937 0-2.42662 1.9671-4.39376 4.3937-4.39375ZM7.60593 19.0737c0-2.4266 1.96714-4.3938 4.39377-4.3938 2.4265 0 4.3937 1.9672 4.3937 4.3938 0 2.4265-1.9672 4.3937-4.3937 4.3937-2.42663 0-4.39377-1.9672-4.39377-4.3937ZM4.92656 7.60645c2.42659 0 4.39372 1.96713 4.39372 4.39375 0 2.4266-1.96713 4.3937-4.39372 4.3937S.532837 14.4268.532837 12.0002c0-2.42662 1.967133-4.39376 4.393723-4.39375Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19954" x1="1.414" x2="27.553" y1="2.387" y2="17.119" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

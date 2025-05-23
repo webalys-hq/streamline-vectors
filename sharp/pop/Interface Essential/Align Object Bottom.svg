@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Align-Object-Bottom--Streamline-Sharp">
+  <desc>
+    Align Object Bottom Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="align-object-bottom">
+    <path id="Rectangle 615" fill="#79ee8d" d="M2 2h20v20H2z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M2 23.25H0.75V0.75h22.5v22.5H2Zm1.25 -20v17.5h17.5V3.25H3.25ZM18 18H6v-5h12v5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

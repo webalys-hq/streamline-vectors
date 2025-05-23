@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Stamp--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Stamp Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/stamp--design-rubber-stamp-supplies-tool">
+    <path id="Subtract" fill="url(#paint0_linear_644_12110)" fill-rule="evenodd" d="M7 5c0-2.76142 2.23858-5 5-5 2.7614 0 5 2.23858 5 5v4.77924l6 1.99996V18H1v-6.2208l6-1.99996V5ZM3 20v3h18v-3H3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12110" x1="24.907" x2="-5.64" y1="27.872" y2="7.117" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

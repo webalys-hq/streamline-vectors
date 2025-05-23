@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Keyboard--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Computer Devices/keyboard--keyboard-device-electronics-dvorak-qwerty">
+    <path id="Subtract" fill="url(#paint0_linear_628_18974)" fill-rule="evenodd" d="M18 2v3.17703l-.6286.25145L13 7.17703V8h11v14H0V8h11V5.82297l.6286-.25145L16 3.82297V2h2ZM3.5 14H6v-2H3.5v2ZM6 18H3.5v-2H6v2Zm2.33325-4h2.50005v-2H8.33325v2ZM20.5 14H18v-2h2.5v2Zm-7.3335 0h2.5v-2h-2.5v2ZM20.5 18H18v-2h2.5v2ZM8.37109 18h7.28981v-2H8.37109v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18974" x1="3.923" x2="21.492" y1="5.846" y2="17.527" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

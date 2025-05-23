@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Empty-Recycle-Bin-1--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Empty Recycle Bin 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/empty-recycle-bin-1--remove-delete-empty-bin-trash-garbage-undo-put-back">
+    <path id="Union" fill="url(#paint0_linear_644_11211)" fill-rule="evenodd" d="M12 2c-1.6569 0-3 1.34315-3 3h6c0-1.65685-1.3431-3-3-3Zm5 3c0-2.76142-2.2386-5-5-5-2.76142 0-5 2.23858-5 5H0v2h2v17h20v-8h-8v3h-1l-4.5-4.5L13 10h1v3h8V7h2V5h-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11211" x1="3.923" x2="23.307" y1="4.615" y2="15.355" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

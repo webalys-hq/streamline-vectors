@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Sound-Recognition-Search--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Sound Recognition Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/sound-recognition-search">
+    <path id="Union" fill="url(#paint0_linear_644_12090)" fill-rule="evenodd" d="M9 10V1h2v9H9ZM1 3v14h2V3H1Zm4 2v10h2V5H5Zm8 0v3h2V5h-2Zm4 3V3h2v5h-2Zm-1.251 3.999c-2.071 0-3.75 1.679-3.75 3.75 0 2.0711 1.679 3.75 3.75 3.75 2.0711 0 3.75-1.6789 3.75-3.75 0-2.071-1.6789-3.75-3.75-3.75Zm-6.24998 3.75c0-3.4518 2.79818-6.24998 6.24998-6.24998s6.25 2.79818 6.25 6.24998c0 1.2738-.381 2.4586-1.0354 3.4466l2.9203 2.9202-1.7678 1.7678-2.9202-2.9202c-.9881.6545-2.173 1.0356-3.4469 1.0356-3.4518 0-6.24998-2.7982-6.24998-6.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12090" x1="4.741" x2="23.223" y1="5.401" y2="15.641" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

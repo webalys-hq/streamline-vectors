@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Remove-Favorite-Highlight--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Remove Favorite Highlight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/remove-favorite-highlight">
+    <path id="Union" fill="url(#paint0_linear_644_11859)" fill-rule="evenodd" d="M16.1668 7.15926 11.9997.015625 7.83259 7.15926.118164 9.53293 5.41417 14.8289 3.6376 23.7118l8.3621-3.7724.5452.246 1.3451-1.3451-2.9393-2.9393 4.9497-4.9498 2.9393 2.9394 4.5186-4.51858-7.1915-2.21276Zm5.6122 6.62054-2.9393 2.9393-2.9394-2.9393-2.1213 2.1213 2.9394 2.9393-2.9394 2.9394 2.1213 2.1213 2.9394-2.9393 2.9393 2.9393 2.1213-2.1213-2.9393-2.9394 2.9393-2.9393-2.1213-2.1213Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11859" x1="4.006" x2="23.253" y1="4.609" y2="15.227" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

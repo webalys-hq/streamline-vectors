@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Emergency-Call--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Emergency Call Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Health/emergency-call--health-medical-ambulance-emergency-call">
+    <path id="Union" fill="url(#paint0_linear_628_20147)" fill-rule="evenodd" d="M20 0v4h4v4h-4v4h-4V8h-4V4h4V0h4Zm-9.1367 16.1598-1.21837 2.0414c-.71087-.4852-1.38739-1.0436-2.01916-1.6753-.63177-.6318-1.19011-1.3083-1.67532-2.0192l2.0414-1.2184.66027-.394-.21124-.7394-1.41421-4.94971-.23416-.81957-.84632.10139-4.01674.48121-.931403.11158.051883.93663c.1343 2.42437.81788 4.82547 2.05189 7.00027.69587 1.2265 1.56611 2.3797 2.60977 3.4234 1.04366 1.0436 2.1969 1.9139 3.42333 2.6097 2.17488 1.234 4.57598 1.9176 7.00028 2.0519l.9367.0519.1115-.9314.4812-4.0167.1014-.8464-.8195-.2341-4.9498-1.4142-.7393-.2113-.3941.6603Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20147" x1="25.993" x2="-5.169" y1="28.058" y2="6.066" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

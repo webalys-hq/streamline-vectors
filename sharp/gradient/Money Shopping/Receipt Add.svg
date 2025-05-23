@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Receipt-Add--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Receipt Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="receipt-add--shop-shopping-pay-payment-store-cash-bill-receipt-add-plus-new">
+    <path id="Subtract" fill="url(#paint0_linear_630_38228)" fill-rule="evenodd" d="M2 0h20v23.618l-5.8944-2.9472L12 23.75l-4.10557-3.0792L2 23.618V0Zm9 14.9282v-3.5H7.5V9.42822H11v-3.5h2v3.5h3.5v1.99998H13v3.5h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_630_38228" x1="23.733" x2="-6.16" y1="28.78" y2="10.899" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

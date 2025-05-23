@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Rock-And-Roll-Hand--Streamline-Sharp">
+  <desc>
+    Rock And Roll Hand Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rock-and-roll-hand">
+    <path id="Union" fill="#8fbffa" d="M6.50005 3.99998C5.11932 3.99995 4 5.11925 4 6.49998V23h8c3.866 0 7 -3.134 7 -7v-3.5h-3V2h-1c-1.3807 0 -2.5 1.11929 -2.5 2.5V11h-5V4l-0.99995 -0.00002Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="m11.25 11 0 0.75 0 1.25c0 1.2266 0.589 2.3157 1.4995 2.9999 -0.9107 0.6842 -1.4997 1.7733 -1.4997 3.0001h1.5c0 -1.2426 1.0073 -2.25 2.25 -2.25h1.0003v-1.5h-1.0003C13.7572 15.2499 12.75 14.2426 12.75 13v-0.5H16V11h-4.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

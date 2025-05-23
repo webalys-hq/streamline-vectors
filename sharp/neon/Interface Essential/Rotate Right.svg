@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Rotate-Right--Streamline-Sharp-Neon">
+  <desc>
+    Rotate Right Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rotate-right">
+    <path id="Ellipse 9" stroke="#c71dff" d="M23 8c-2.5 -2.75 -5 -7 -11 -7 -2.91738 0 -5.71527 1.15893 -7.77817 3.22183S1 9.08262 1 12c0 2.9174 1.15893 5.7153 3.22183 7.7782C4.767 20.3234 5.36352 20.8054 6 21.2196" stroke-width="1"></path>
+    <path id="Ellipse 10" stroke="#c71dff" d="M23 4v4h-4" stroke-width="1"></path>
+    <path id="Ellipse 11" stroke="#000cfe" d="M23 12c0 1.0236 -0.1427 2.0324 -0.417 3" stroke-width="1"></path>
+    <path id="Ellipse 13" stroke="#000cfe" d="M21.798 17c-0.5189 1.0168 -1.1976 1.9559 -2.0198 2.7782 -0.5452 0.5452 -1.1417 1.0272 -1.7782 1.4414" stroke-width="1"></path>
+    <path id="Ellipse 12" stroke="#000cfe" d="M16 22.2471c-1.2629 0.493 -2.618 0.753 -4 0.753 -1.382 0 -2.73709 -0.26 -4 -0.753" stroke-width="1"></path>
+  </g>
+</svg>

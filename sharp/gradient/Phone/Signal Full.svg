@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Signal-Full--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Signal Full Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Phone/signal-full--phone-mobile-device-signal-wireless-smartphone-iphone-bar-bars-full-android">
+    <path id="Union" fill="url(#paint0_linear_628_19128)" fill-rule="evenodd" d="M16.75 1v18h5.5V1h-5.5Zm-7.5 18V9h5.5v10h-5.5Zm-7.5 0v-4h5.5v4h-5.5ZM1 23h22v-2H1v2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19128" x1="4.596" x2="22.365" y1="5.231" y2="15.076" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

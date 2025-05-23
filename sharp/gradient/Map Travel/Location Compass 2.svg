@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Location-Compass-2--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Location Compass 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Map Travel/location-compass-2--arrow-compass-location-gps-map-maps-point">
+    <path id="Subtract" fill="url(#paint0_linear_628_19327)" fill-rule="evenodd" d="M3.51472 3.51472C5.76516 1.26428 8.8174 0 12 0s6.2348 1.26428 8.4853 3.51472C22.7357 5.76516 24 8.8174 24 12s-1.2643 6.2348-3.5147 8.4853C18.2348 22.7357 15.1826 24 12 24c-3.1826 0-6.23484-1.2643-8.48528-3.5147C1.26428 18.2348 0 15.1826 0 12c0-3.1826 1.26428-6.23484 3.51472-8.48528ZM7.91448 9.3287l6.75692 6.7569-8.44615 1.6893 1.68923-8.4462Zm9.86032-3.10336-1.6892 8.44596-6.75684-6.75676 8.44604-1.6892Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19327" x1="23.919" x2="-4.503" y1="24.005" y2="8.017" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

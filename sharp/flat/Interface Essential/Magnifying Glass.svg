@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Magnifying-Glass--Streamline-Sharp">
+  <desc>
+    Magnifying Glass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="magnifying-glass--glass-search-magnifying">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M3.25 11a7.75 7.75 0 1 1 15.5 0 7.75 7.75 0 0 1 -15.5 0ZM11 0.75C5.34 0.75 0.75 5.34 0.75 11S5.34 21.25 11 21.25c2.38 0 4.57 -0.811 6.31 -2.172l3.806 3.806 1.768 -1.768 -3.806 -3.806A10.206 10.206 0 0 0 21.25 11C21.25 5.34 16.661 0.75 11 0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M3.25 11a7.75 7.75 0 1 1 15.5 0 7.75 7.75 0 0 1 -15.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

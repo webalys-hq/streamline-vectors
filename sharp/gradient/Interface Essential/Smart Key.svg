@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Smart-Key--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Smart Key Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/smart-key--smart-key-entry-lock-login-pass-unlock-access-signal-wifi">
+    <path id="Union" fill="url(#paint0_linear_644_12050)" fill-rule="evenodd" d="M22.6211 4.07043 18.5604.00976562 16.4391 2.13109l1.9393 1.93934-.8787.87867-1.9393-1.93933-2.1213 2.12132 1.9393 1.93934-5.0001 5.00017H5.08557l-4.499999 4.5 7.414209 7.4142 4.50002-4.5v-5.2931L22.6211 4.07043ZM5.99977 3.00049c-1.64583 0-3.15348.72767-4.26194 1.94015L.261719 3.59116C1.71248 2.00426 3.74036 1.00049 5.99977 1.00049c2.25942 0 4.28733 1.00377 5.73803 2.59067l-1.4761 1.34948C9.15326 3.72816 7.64561 3.00049 5.99977 3.00049Zm0 3.86719c-.66952 0-1.29328.29481-1.76194.80744L2.76172 6.32564c.81095-.88705 1.95495-1.45796 3.23805-1.45796s2.4271.57091 3.23806 1.45796L7.76172 7.67512c-.46866-.51263-1.09242-.80744-1.76195-.80744Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_12050" x1="24.559" x2="-6.978" y1="29.063" y2="8.17" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

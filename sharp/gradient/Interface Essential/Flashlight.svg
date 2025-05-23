@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flashlight--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Flashlight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/flashlight">
+    <path id="Subtract" fill="url(#paint0_linear_644_11265)" fill-rule="evenodd" d="m14.5002.0859375.7071.7071065 8 7.999996.7071.70711-.7071.70715-1.7929 1.7929-9.4142-9.41426L13.793.793044l.7072-.7071065ZM10.5859 4.00015 9.29304 5.29304l-.29289.2929v3.5L.793044 17.293l-.7071065.7072.7071065.7071 4.499996 4.5.70711.7071.70711-.7071 8.20714-8.2071h3.5l.2929-.2929 1.2929-1.2929-9.4143-9.41425Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_11265" x1="23.834" x2="-4.384" y1="23.919" y2="8.046" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

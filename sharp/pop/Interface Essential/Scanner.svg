@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Scanner--Streamline-Sharp">
+  <desc>
+    Scanner Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="scanner">
+    <path id="Rectangle 639" fill="#79ee8d" d="M0.75 0.75h22.5v22.5H0.75z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M0.75 0.75H8v2.5H3.25V8H0.75V0.75ZM16 0.75h7.25V8h-2.5V3.25H16V0.75ZM20.75 16v4.75H16v2.5h7.25V16h-2.5Zm-20 6v-6h2.5v4.75H8v2.5H0.75V22ZM1 13.75h22v-3.5H1v3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

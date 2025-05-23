@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cloud-Off--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Cloud Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Programming/cloud-off--cloud-network-internet-disable-server-off">
+    <path id="Union" fill="url(#paint0_linear_628_18696)" fill-rule="evenodd" d="M0 1.41421 22.5859 24.0002l1.4143-1.4143-2.6247-2.6246c1.5843-1.08 2.6246-2.8991 2.6246-4.9612 0-2.9942-2.1933-5.47617-5.0609-5.92695-.4534-3.42785-3.3874-6.07307-6.9391-6.07307-2.08287 0-3.95212.90941-5.23391 2.3519L1.41421 0 0 1.41421ZM.0000755191 14.0001c0-2.6422 1.4634044809-4.94182 3.6241244809-6.13346L16.7576 21.0001H7.00008c-3.866 0-7.0000044809-3.134-7.0000044809-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_18696" x1="3.923" x2="23.307" y1="4.615" y2="15.356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

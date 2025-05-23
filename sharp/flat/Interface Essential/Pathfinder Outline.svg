@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pathfinder-Outline--Streamline-Sharp">
+  <desc>
+    Pathfinder Outline Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pathfinder-outline">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.5 16.5v-2H3L3 3l11.5 0v4.5h2l0 2H21V21H9.5v-4.5h-2V23H23V7.5l-6.5 0V1H1v15.5h6.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" d="M16.5 7.5h-9v9h9v-9Z" stroke-width="1"></path>
+  </g>
+</svg>

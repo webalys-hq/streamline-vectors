@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Graduation-Cap--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Graduation Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Work Education/graduation-cap--graduation-cap-education">
+    <path id="Union" fill="url(#paint0_linear_628_20230)" fill-rule="evenodd" d="M13.3847 2.07684 13 1.9165l-.3847.16034-10 4.16776L2 6.50104v8.10986L.262846 16.506 0 16.7927v1.9143l.262846.2868 2.000004 2.1818L3 21.9798l.73715-.8042 2-2.1818L6 18.707v-1.9143l-.26285-.2867L4 14.6109V9.33227l8.6153 3.59063.3847.1604.3847-.1604 10-4.16774L24 8.49872V6.50104l-.6153-.25644-10-4.16776ZM6.00513 12.3348l.00568 2.551.00135.6055.53711.2794L12.539 18.887l.4612.2399.4613-.2396 5.9994-3.1163.5392-.2801-.0002-.6075-.0005-2.5506-6.9995 2.9172-6.99477-2.9152Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20230" x1=".922" x2="25.701" y1="3.538" y2="20.244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

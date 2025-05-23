@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chicken-Grilled-Stream--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Chicken Grilled Stream Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Food Drink/chicken-grilled-stream">
+    <path id="Union" fill="url(#paint0_linear_628_19687)" fill-rule="evenodd" d="M3 4c-.55228 0-1 .44772-1 1s.44772 1 1 1v2C1.34315 8 0 6.65685 0 5s1.34315-3 3-3v2Zm5 0c-.55228 0-1 .44772-1 1s.44772 1 1 1v2C6.34315 8 5 6.65685 5 5s1.34315-3 3-3v2Zm8.7577 3.82808c-1.9414-1.2862-4.5828-1.07407-6.2932.63639L9.92894 9h-.92876C4.02954 9 .0000728436 13.0296.000183108 18.0002L.000271864 22 24.0003 21.9999l-.0001-3.0001c-.0001-2.4228-1.2306-4.5573-3.1008-5.8138-.2357 1.3784-.8856 2.6997-1.9497 3.7638l-.2928.2929C17.5316 18.3679 16.0055 19 14.4142 19H14v-2c1.3261 0 2.5979-.5267 3.5355-1.4644.9032-.9031 1.3886-2.0658 1.4563-3.2479l-.0002 0c.0605-1.056-.2124-2.1285-.8197-3.04538l1.5347-1.53469C20.0982 7.89505 20.5369 8 21 8c1.6569 0 3-1.34315 3-3s-1.3431-3-3-3-3 1.34315-3 3c0 .46315.105.90178.2924 1.29342l-1.5347 1.53466Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_19687" x1="23.919" x2="-1.784" y1="22.004" y2="4.654" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Calendar-Add--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Calendar Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Interface Essential/calendar-add--add-calendar-date-day-month">
+    <path id="Union" fill="url(#paint0_linear_644_10912)" fill-rule="evenodd" d="M6 2h10V0h2v2h4v4H0V2h4V0h2v2ZM0 8v14l11 0v-7h4v-4h7l0-3H0Zm20 5h-3v4h-4v3h4v4h3v-4h4v-3h-4v-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_644_10912" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

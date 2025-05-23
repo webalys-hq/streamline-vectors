@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Office-Worker--Streamline-Sharp-Gradient-Free">
+  <desc>
+    Office Worker Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Gradient/Work Education/office-worker--office-worker-human-resources">
+    <path id="Union" fill="url(#paint0_linear_628_20275)" fill-rule="evenodd" d="M6.5 0C4.567 0 3 1.567 3 3.5S4.567 7 6.5 7 10 5.433 10 3.5 8.433 0 6.5 0Zm6.0993 9.69949C12.5997 9.69975 12.6 9.7 12 10.5l.6-.8.4.3v4l-2 0v10H2.5v-5.5H0V10l.4-.3.6.8c-.6-.8-.599664-.80025-.59932-.80051l.000727-.00054.001596-.00119.003759-.00279.009781-.00719.028577-.02052c.023043-.01633.054067-.03784.092953-.06376.077752-.05184.187068-.12143.326979-.20266.279678-.1624.682668-.37196 1.201058-.57932C3.10376 8.40646 4.60476 8 6.5 8c1.89524 0 3.39624.40646 4.4339.82152.5184.20736.9214.41692 1.201.57932.14.08123.2493.15082.327.20266.0389.02592.0699.04743.093.06376l.0286.02052.0097.00719.0038.00279.0016.00119.0007.00054ZM15.5 15.5c0-1.6569 1.3431-3 3-3s3 1.3431 3 3v.5H24v8H13v-8h2.5v-.5Zm4 0v.5h-2v-.5c0-.5523.4477-1 1-1s1 .4477 1 1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_628_20275" x1=".922" x2="28.276" y1="1.939" y2="17.357" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>
