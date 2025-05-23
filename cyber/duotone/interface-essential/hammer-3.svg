@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hammer-3--Streamline-Cyber">
+  <desc>
+    Hammer 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <mask id="a" width="24" height="24" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#ffffff" d="M0 0h24v24H0V0Z"></path>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#ffffff" d="M12.9921.471954 7.97168 5.49236 18.4368 15.9575l5.0204-5.0205L12.9921.471954Z"></path>
+    <path fill="#ffffff" d="M14.3 11.8 2.5 23.5 1 23l-.5-1.5L12.3 9.79999l2 2.00001Z"></path>
+    <path fill="#ffffff" d="m19.0541 3.00128-1.7678 1.76775 1.9799 1.97988 1.7678-1.76775-1.9799-1.97988Z"></path>
+    <path fill="#bbd8ff" d="m13.3 10.8 1 1L2.5 23.5 1 23l12.3-12.2Z"></path>
+    <path fill="#bbd8ff" d="m20.0491 3.99628-1.7679 1.76775.99.98994 1.7677-1.76775-.9898-.98994Z"></path>
+    <path fill="#bbd8ff" d="m23.5 11-5 5L8 5.5 23.5 11Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.9921.471954 7.97168 5.49236 18.4368 15.9575l5.0204-5.0205L12.9921.471954Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M14.3 11.8 2.5 23.5 1 23l-.5-1.5L12.3 9.79999"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17.3 4.8 19 3l2 2-1.7 1.8"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Clock-1--Streamline-Cyber">
+  <desc>
+    Clock 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M10.5 20.5v-2" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m5 7 1.5 1.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m16 7 -1.5 1.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m5 18 1.5 -1.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m16 18 -1.5 -1.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M2.5 12.5h2" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.5 12.5h-2" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M10.5 5.5v7h4" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m20.5 18 -10 5.5L0.5 18V7l10 -5.5 10 5.5v11Z" stroke-width="1"></path>
+</svg>

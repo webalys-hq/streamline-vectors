@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Tetris--Streamline-Cyber">
+  <desc>
+    Tetris Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#ffffff" d="M16.5 19.52v-4h-4v4h-4v4h12v-4h-4Z" stroke-width="1"></path>
+  <path fill="#ffffff" d="M8.5 15.52h-8v8h8v-8Z" stroke-width="1"></path>
+  <path fill="#ffffff" d="M4.5 7.52002v-4h-4V11.52h12V7.52002h-8Z" stroke-width="1"></path>
+  <path fill="#bbd8ff" d="M0.5 11.5v4h8v4h4v-8H0.5Z" stroke-width="1"></path>
+  <path fill="#bbd8ff" d="M19.5 4.5v-4h-4v8h4v4h4v-8h-4Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M16.5 19.5v-4h-4v4h-4v4h12v-4h-4Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M19.5 4.5v-4h-4v8h4v4h4v-8h-4Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M4.5 7.5v-4h-4v8h12v-4h-8Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M0.5 11.5v4h8v4h4v-8H0.5Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M8.5 15.5h-8v8h8v-8Z" stroke-width="1"></path>
+</svg>

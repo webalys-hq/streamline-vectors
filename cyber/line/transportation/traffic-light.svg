@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Traffic-Light--Streamline-Cyber">
+  <desc>
+    Traffic Light Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.5 0.5h-10v23h10V0.5Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.5 2.5h5l-3 3.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.5 9.5h5l-3 3.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.5 16.5h5l-3 3.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.5 2.5h-5l3 3.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.5 9.5h-5l3 3.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.5 16.5h-5l3 3.5" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 6.75 11.5 8l-2 -1.25v-2l2 -1.25 2 1.25v2Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m13.5 13.25 -2 1.25 -2 -1.25v-2l2 -1.25 2 1.25v2Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m13.5 19.75 -2 1.25 -2 -1.25v-2l2 -1.25 2 1.25v2Z" stroke-width="1"></path>
+</svg>

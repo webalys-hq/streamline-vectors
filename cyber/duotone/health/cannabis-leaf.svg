@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cannabis-Leaf--Streamline-Cyber">
+  <desc>
+    Cannabis Leaf Streamline Icon: https://streamlinehq.com
+  </desc>
+  <mask id="a" width="24" height="24" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#ffffff" d="M0 0h24v24H0V0Z"></path>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#ffffff" d="m17 22.5-3.5-4 4.5.5 4.5-1.5L18 16l-4.5.5 5-3.5 2.9-5.49998-5 2.89998-3.9 5L14 7.40002 11.5.400024 9 7.50002 10.5 15.5l-3.9-5-5-2.89998L4.5 13.1l5 3.5L5 16 .5 17.5 5 19l4.5-.5-3.5 4 5.5-3 5.5 3Z"></path>
+    <path fill="#bbd8ff" d="m9.5 18.5-3.5 4 5.5-3 5.5 3-3.5-4 4.5.5 4.5-1.5L18 16l-4.5.5 5-3.5 2.9-5.5-5 2.9-3.9 5-3 3.1Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.5 23.5v-4"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m17 22.5-3.5-4 4.5.5 4.5-1.5L18 16l-4.5.5 5-3.5 2.9-5.49998-5 2.89998-3.9 5L14 7.40002 11.5.400024 9 7.50002 10.5 15.5l-3.9-5-5-2.89998L4.5 13.1l5 3.5L5 16 .5 17.5 5 19l4.5-.5-3.5 4 5.5-3 5.5 3Z"></path>
+  </g>
+</svg>

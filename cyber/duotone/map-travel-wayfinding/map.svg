@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Map--Streamline-Cyber">
+  <desc>
+    Map Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#ffffff" d="m8.5 23.5 -8 -5.4V0.5l8 5.4 7 -5.4 8 5.4v17.6l-8 -5.4 -7 5.4Z" stroke-width="1"></path>
+  <path fill="#bbd8ff" d="M8.5 5.9v17.6l7 -5.4V0.5l-7 5.4Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m8.5 23.5 -8 -5.4V0.5l8 5.4 7 -5.4 8 5.4v17.6l-8 -5.4 -7 5.4Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M8.5 5.8999v17.6" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M15.5 18.1V0.5" stroke-width="1"></path>
+</svg>

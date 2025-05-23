@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Steering-Wheel-1--Streamline-Cyber">
+  <desc>
+    Steering Wheel 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#ffffff" d="M12 0.5 1.5 6.25v11.5L12 23.5l10.5 -5.75V6.25L12 0.5Zm8.5 15.75L12 21l-8.5 -4.75V12.5l6 2 1.483 5.932L12 21l1.017 -0.568L14.5 14.5l6 -2v3.75Zm0 -6.75 -8.5 -2 -8.5 2V7.75L12 3l8.5 4.75V9.5Z" stroke-width="1"></path>
+  <path fill="#bbd8ff" d="m12 9.5 -8.5 2v1l6 2 1.483 5.932L12 21l1.017 -0.568L14.5 14.5l6 -2v-1l-8.5 -2Zm1.5 3 -1.5 1 -1.5 -1V11l1.5 -1 1.5 1v1.5Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M20.5 16.25 12 21l-8.5 -4.75v-8.5L12 3l8.5 4.75v8.5Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M22.5 17.75 12 23.5 1.5 17.75V6.25L12 0.5l10.5 5.75v11.5Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="m13.5 12.5 -1.5 1 -1.5 -1V11l1.5 -1 1.5 1v1.5Z" stroke-width="1"></path>
+  <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="m3.5 9.5 8.5 -2 8.5 2v3l-6 2 -1.483 5.932L12 21l-1.017 -0.568L9.5 14.5l-6 -2v-3Z" stroke-width="1"></path>
+</svg>

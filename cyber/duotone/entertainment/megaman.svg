@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Megaman--Streamline-Cyber">
+  <desc>
+    Megaman Streamline Icon: https://streamlinehq.com
+  </desc>
+  <mask id="a" width="24" height="24" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#ffffff" d="M0 0h24v24H0V0Z"></path>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#ffffff" d="M20.5 8.04902v-2.529l-7-3.5v-1l-1.5-.5-1.5.5v1l-7 3.5v2.529l-3 1.5V15.049l3 1.5v3.5l4 2.971-.241-1.609L12 23.549l4.741-2.138-.241 1.609 4-2.971v-3.5l3-1.5V9.54902l-3-1.5Z"></path>
+    <path fill="#bbd8ff" d="m.5 15.0288 3 1.5V8.02881l-3 1.5v5.49999Z"></path>
+    <path fill="#bbd8ff" d="m23.5 15.0288-3 1.5V8.02881l3 1.5v5.49999Z"></path>
+    <path fill="#bbd8ff" d="m10.5 5-7 3.5v11.529L7.5 23 6 13l2-2.5 4 2.5 4-2.5 2 2.5-1.5 10 4-2.971V8.5l-7-3.5h-3Zm3 3.5h-3v-2h3v2Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="m13.5 2 7 3.5v14.529L16.5 23 18 13l-2-2.5-4 2.5-4-2.5L6 13l1.5 10-4-2.971V5.5l7-3.5"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.5h-3v2h3v-2Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M13.5 1v2.5h-3V1L12 .5l1.5.5Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="m.5 15.0288 3 1.5V8.02881l-3 1.5v5.49999Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M10.5 20.5h3"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M9.5 15.5v1"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="m23.5 15.0288-3 1.5V8.02881l3 1.5v5.49999Z"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M16.741 21.3911 12 23.5291l-4.74097-2.138"></path>
+    <path stroke="#092f63" stroke-linecap="round" stroke-linejoin="round" d="M14.5 15.5v1"></path>
+  </g>
+</svg>
