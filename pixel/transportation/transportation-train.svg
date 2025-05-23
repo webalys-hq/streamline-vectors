@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Transportation-Train--Streamline-Pixel">
+  <desc>
+    Transportation Train Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>transportation-train</title>
+  <g>
+    <path d="M3.045 16.76h25.91v7.62h1.52V3.04h-1.52v3.05H3.045V3.04h-1.52v21.34h1.52Zm13.72 -9.15h12.19v7.62h-12.19Zm-13.72 0h12.19v7.62H3.045Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.425 24.38h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.425 1.52h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M25.905 19.81h1.52v3.04h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="m4.575 25.9 0 1.52 3.04 0 0 1.53 -1.52 0 0 1.52 -1.52 0 0 1.53 3.04 0 0 -1.53 1.53 0 0 -1.52 1.52 0 0 -1.53 10.67 0 0 1.53 1.52 0 0 1.52 1.53 0 0 1.53 3.04 0 0 -1.53 -1.52 0 0 -1.52 -1.52 0 0 -1.53 3.04 0 0 -1.52 -22.85 0z" fill="#000000" stroke-width="1"></path>
+    <path d="M22.855 18.28h3.05v1.53h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M22.855 22.85h3.05v1.53h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M21.335 19.81h1.52v3.04h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M13.715 19.81h4.57v3.04h-4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="M13.715 3.04h4.57v1.53h-4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="M9.145 19.81h1.52v3.04h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.095 18.28h3.05v1.53h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.095 22.85h3.05v1.53h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M4.575 0h22.85v1.52H4.575Z" fill="#000000" stroke-width="1"></path>
+    <path d="M4.575 19.81h1.52v3.04h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M3.045 24.38h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M3.045 1.52h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

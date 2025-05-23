@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Transportation-Vintage-Train--Streamline-Pixel">
+  <desc>
+    Transportation Vintage Train Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>transportation-vintage-train</title>
+  <g>
+    <path d="M30.47 25.9H32v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M28.95 16.76h1.52v9.14h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 15.23h1.52v1.53h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 7.61h1.52v1.53h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="m27.43 24.38 -1.53 0 0 4.57 1.53 0 0 -1.53 1.52 0 0 -1.52 -1.52 0 0 -1.52z" fill="#000000" stroke-width="1"></path>
+    <path d="M24.38 28.95h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M24.38 22.85h1.52v1.53h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 30.47h4.57V32h-4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 21.33h4.57v1.52h-4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="M18.28 6.09h9.15v1.52h-9.15Z" fill="#000000" stroke-width="1"></path>
+    <path d="M18.28 28.95h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="m19.81 27.42 0 1.53 3.05 0 0 -4.57 -3.05 0 0 1.52 -1.53 0 0 -1.52 -1.52 0 0 1.52 -3.05 0 0 -1.52 -1.52 0 0 1.52 -1.53 0 0 -1.52 -3.04 0 0 4.57 3.04 0 0 -1.53 1.53 0 0 1.53 1.52 0 0 -1.53 3.05 0 0 1.53 1.52 0 0 -1.53 1.53 0z" fill="#000000" stroke-width="1"></path>
+    <path d="M18.28 22.85h1.53v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M18.28 1.52h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 15.23v-1.52H25.9v-3.05h1.53V9.14h-9.15v1.52h1.53v3.05h-3.05v1.52Zm-6.1 -4.57h3.05v3.05h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M16.76 7.61h1.52v1.53h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M15.24 12.19h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M10.66 28.95h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M10.66 22.85h1.53v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M3.05 7.61v9.15h9.14V7.61Zm7.61 7.62H4.57V9.14h6.09Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.09 30.47h4.57V32H6.09Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.09 21.33h4.57v1.52H6.09Z" fill="#000000" stroke-width="1"></path>
+    <path d="M4.57 28.95h1.52v1.52H4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="M4.57 22.85h1.52v1.53H4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="m4.57 24.38 -1.52 0 0 1.52 -1.53 0 0 1.52 1.53 0 0 1.53 1.52 0 0 -4.57z" fill="#000000" stroke-width="1"></path>
+    <path d="M1.52 0h16.76v1.52H1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="m1.52 4.57 12.19 0 0 7.62 1.53 0 0 -7.62 3.04 0 0 -1.53 -16.76 0 0 -1.52 -1.52 0L0 25.9l1.52 0 0 -21.33z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

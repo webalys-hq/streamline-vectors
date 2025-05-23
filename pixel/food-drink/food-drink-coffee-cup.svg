@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Food-Drink-Coffee-Cup--Streamline-Pixel">
+  <desc>
+    Food Drink Coffee Cup Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>food-drink-coffee-cup</title>
+  <g>
+    <path d="M25.91 10.67H6.1V7.62H4.57v4.57H6.1v9.14h1.52v6.1h1.53v-1.52h13.71v1.52h1.52v-6.1h1.53v-9.14h1.52V7.62h-1.52Zm-3.05 13.71H9.15v-1.52h13.71Zm0 -4.57h-1.52v1.52h-1.53v-1.52h-1.52v1.52h-1.53v-1.52h-1.52v1.52h-1.52v-1.52h-1.53v1.52h-1.52v-1.52H9.15v-1.52h1.52v1.52h1.52v-1.52h1.53v1.52h1.52v-1.52h1.52v1.52h1.53v-1.52h1.52v1.52h1.53v-1.52h1.52Zm1.52 -3.05H7.62v-1.52h16.76Zm0 -3.04H7.62v-1.53h16.76Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 0h4.57v1.52h-4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="m21.34 30.48 -10.67 0 0 -3.05 -1.52 0 0 4.57 13.71 0 0 -4.57 -1.52 0 0 3.05z" fill="#000000" stroke-width="1"></path>
+    <path d="M18.29 1.52h1.52v1.53h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M7.62 3.05h10.67v1.52H7.62Z" fill="#000000" stroke-width="1"></path>
+    <path d="m25.91 7.62 0 -6.1 -1.53 0 0 4.58 -16.76 0 0 -1.53 -1.52 0 0 3.05 19.81 0z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

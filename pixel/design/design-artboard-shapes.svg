@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Design-Artboard-Shapes--Streamline-Pixel">
+  <desc>
+    Design Artboard Shapes Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>design-artboard-shapes</title>
+  <g>
+    <path d="M28.95 3.05H32v1.52h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M28.95 27.43H32v1.52h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 0h1.52v3.05h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 28.95h1.52V32h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 4.57H4.57v22.86h22.86Zm-1.52 21.34H6.1V6.1h19.81Z" fill="#000000" stroke-width="1"></path>
+    <path d="M13.72 24.38h10.66V13.71H13.72Zm1.52 -9.14h7.62v7.62h-7.62Z" fill="#000000" stroke-width="1"></path>
+    <path d="m9.15 18.29 1.52 0 0 1.52 1.52 0 0 -7.62 7.62 0 0 -1.52 -1.52 0 0 -1.53 -1.53 0 0 -1.52 -6.09 0 0 1.52 -1.52 0 0 1.53 -1.53 0 0 6.09 1.53 0 0 1.53z" fill="#000000" stroke-width="1"></path>
+    <path d="M3.05 0h1.52v3.05H3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M3.05 28.95h1.52V32H3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M0 3.05h3.05v1.52H0Z" fill="#000000" stroke-width="1"></path>
+    <path d="M0 27.43h3.05v1.52H0Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

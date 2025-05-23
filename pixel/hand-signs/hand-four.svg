@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Hand-Four--Streamline-Pixel">
+  <desc>
+    Hand Four Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>hand-four</title>
+  <g>
+    <path d="M26.66 7.62h1.53v12.19h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M25.14 19.81h1.52v4.58h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M23.62 27.43H9.9v-1.52H8.38v1.52H6.85V32h19.81v-4.57h-1.52v-3.04h-1.52Zm0 3.05h-3.05v-1.52h3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="m22.09 15.24 1.53 0 0 -7.62 3.04 0 0 -1.52 -3.04 0 0 -1.52 -1.53 0 0 10.66z" fill="#000000" stroke-width="1"></path>
+    <path d="m17.52 15.24 1.53 0 0 -10.66 3.04 0 0 -1.53 -3.04 0 0 -1.52 -1.53 0 0 13.71z" fill="#000000" stroke-width="1"></path>
+    <path d="M16 16.77h1.52v3.04H16Z" fill="#000000" stroke-width="1"></path>
+    <path d="M14.47 0h3.05v1.53h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M14.47 15.24H16v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M11.43 19.81H16v1.53h-4.57Z" fill="#000000" stroke-width="1"></path>
+    <path d="m12.95 13.72 -1.52 0 0 1.52 3.04 0 0 -13.71 -4.57 0 0 1.52 3.05 0 0 10.67z" fill="#000000" stroke-width="1"></path>
+    <path d="M9.9 18.29h1.53v1.52H9.9Z" fill="#000000" stroke-width="1"></path>
+    <path d="m11.43 13.72 0 -1.53 -1.53 0 0 -9.14 -1.52 0 0 9.14 -1.53 0 0 1.53 4.58 0z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.85 24.39h1.53v1.52H6.85Z" fill="#000000" stroke-width="1"></path>
+    <path d="M5.33 21.34h1.52v3.05H5.33Z" fill="#000000" stroke-width="1"></path>
+    <path d="M5.33 13.72h1.52v1.52H5.33Z" fill="#000000" stroke-width="1"></path>
+    <path d="M3.81 15.24h1.52v6.1H3.81Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Real-Estate-Sign-Building--Streamline-Pixel">
+  <desc>
+    Real Estate Sign Building Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>real-estate-sign-building</title>
+  <g>
+    <path d="M30.48 10.66H32v18.29h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M28.96 28.95h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M28.96 9.14h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M9.15 30.47h19.81V32H9.15Z" fill="#000000" stroke-width="1"></path>
+    <path d="m27.43 16.76 -1.52 0 0 10.67 -6.1 0 0 -1.53 4.58 0 0 -1.52 -4.58 0 0 -1.53 4.58 0 0 -3.04 -4.58 0 0 -1.53 3.05 0 0 -1.52 -3.05 0 0 -4.57 1.53 0 0 -1.53 -3.05 0 0 4.58 -6.1 0 0 1.52 6.1 0 0 10.67 -6.1 0 0 -10.67 -1.52 0 0 12.19 16.76 0 0 -12.19z" fill="#000000" stroke-width="1"></path>
+    <path d="M27.43 1.52h-1.52v1.52H13.72V1.52h-1.53v1.52H4.58V1.52H3.05V32h1.53V4.57h7.61v3.05H9.15v1.52h19.81V7.62h-1.53V4.57H32V3.04h-4.57Zm-1.52 6.1H13.72V4.57h12.19Z" fill="#000000" stroke-width="1"></path>
+    <path d="M24.39 15.24h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M22.86 13.71h1.53v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M21.34 12.19h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M13.72 22.85h3.05v3.05h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M13.72 18.28h3.05v3.05h-3.05Z" fill="#000000" stroke-width="1"></path>
+    <path d="M7.62 28.95h1.53v1.52H7.62Z" fill="#000000" stroke-width="1"></path>
+    <path d="M7.62 9.14h1.53v1.52H7.62Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.1 10.66h1.52v18.29H6.1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M1.53 0h1.52v1.52H1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M0 1.52h1.53V32H0Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

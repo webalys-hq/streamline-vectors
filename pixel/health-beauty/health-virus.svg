@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="Health-Virus--Streamline-Pixel">
+  <desc>
+    Health Virus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <title>health-virus</title>
+  <g>
+    <path d="M30.48 1.53h-1.52V0h-1.53v1.53h-1.52v1.52h-1.52v1.52h1.52V6.1h1.52v1.52h1.53V6.1h1.52V4.57H32V3.05h-1.52Zm-1.52 3.04h-1.53V3.05h1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M30.48 24.38h-1.52v-1.52h-1.53v1.52h-1.52v1.53h-1.52v1.52h1.52v1.53h1.52v1.52h1.53v-1.52h1.52v-1.53H32v-1.52h-1.52Zm-1.52 3.05h-1.53v-1.52h1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M28.96 18.29h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M28.96 12.19h1.52v1.53h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M22.86 19.81h1.53v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M22.86 10.67h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M21.34 21.34h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M21.34 9.15h1.52v1.52h-1.52Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 28.96h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 22.86h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M9.15 13.72v1.52H7.62v-1.52H6.1v4.57h1.52v-1.52h1.53v1.52h1.52v3.05h3.05v1.52h1.52v1.52h-1.52v1.53h4.57v-1.53h-1.52v-1.52h1.52v-1.52h3.05v-3.05h1.52v-1.52h1.53v1.52h1.52v-4.57h-1.52v1.52h-1.53v-1.52h-1.52v-3.05h-3.05V9.15h-1.52V7.62h1.52V6.1h-4.57v1.52h1.52v1.53h-1.52v1.52h-3.05v3.05Zm10.66 1.52v1.53h-1.52v-1.53Zm-3.04 -3.05h1.52v1.53h-1.52Zm-1.53 6.1v1.52h-1.52v-1.52Zm-3.04 -4.57h1.52v1.52H12.2Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 7.62h1.53v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19.81 1.53h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12.2 28.96h1.52v1.52H12.2Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12.2 1.53h1.52v1.52H12.2Z" fill="#000000" stroke-width="1"></path>
+    <path d="M10.67 22.86h1.53v1.52h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M10.67 7.62h1.53v1.53h-1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M9.15 21.34h1.52v1.52H9.15Z" fill="#000000" stroke-width="1"></path>
+    <path d="M9.15 9.15h1.52v1.52H9.15Z" fill="#000000" stroke-width="1"></path>
+    <path d="M7.62 19.81h1.53v1.53H7.62Z" fill="#000000" stroke-width="1"></path>
+    <path d="M7.62 10.67h1.53v1.52H7.62Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.1 32v-1.52h1.52v-1.52h1.53v-1.53H7.62v-1.52H6.1v-1.53H4.58v1.53H3.05v1.52H1.53v1.53h1.52v1.52h1.53V32Zm-1.52 -4.57H6.1v1.53H4.58Z" fill="#000000" stroke-width="1"></path>
+    <path d="M1.53 19.81h1.52v1.53H1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M1.53 13.72h1.52v1.52H1.53Z" fill="#000000" stroke-width="1"></path>
+    <path d="M1.53 9.15h1.52v1.52h1.53V9.15H6.1V7.62h1.52V6.1H6.1V4.57H4.58V3.05H3.05v1.52H1.53V6.1H0v1.52h1.53ZM3.05 6.1h1.53v1.52H3.05Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>
