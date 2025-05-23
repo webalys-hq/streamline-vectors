@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hospital-Sign--Streamline-Ultimate">
+  <desc>
+    Hospital Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 0.75v22.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 6.75H1.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 17.25H1.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 9.75H16.5V7.5c0 -0.19891 -0.079 -0.38968 -0.2197 -0.53033 -0.1406 -0.14065 -0.3314 -0.21967 -0.5303 -0.21967h-3c-0.1989 0 -0.3897 0.07902 -0.5303 0.21967C12.079 7.11032 12 7.30109 12 7.5v2.25H9.75c-0.19891 0 -0.38968 0.07902 -0.53033 0.21967C9.07902 10.1103 9 10.3011 9 10.5v3c0 0.1989 0.07902 0.3897 0.21967 0.5303 0.14065 0.1407 0.33142 0.2197 0.53033 0.2197H12v2.25c0 0.1989 0.079 0.3897 0.2197 0.5303 0.1406 0.1407 0.3314 0.2197 0.5303 0.2197h3c0.1989 0 0.3897 -0.079 0.5303 -0.2197 0.1407 -0.1406 0.2197 -0.3314 0.2197 -0.5303v-2.25h2.25c0.1989 0 0.3897 -0.079 0.5303 -0.2197 0.1407 -0.1406 0.2197 -0.3314 0.2197 -0.5303v-3c0 -0.1989 -0.079 -0.3897 -0.2197 -0.53033 -0.1406 -0.14065 -0.3314 -0.21967 -0.5303 -0.21967Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 3.75h14.5s1 0 1 1v14.5s0 1 -1 1H7s-1 0 -1 -1V4.75s0 -1 1 -1Z" stroke-width="1"></path>
+</svg>

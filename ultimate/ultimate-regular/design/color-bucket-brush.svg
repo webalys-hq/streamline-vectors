@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Color-Bucket-Brush--Streamline-Ultimate">
+  <desc>
+    Color Bucket Brush Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 8.25h10.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.75 0.75V4" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.25 0.75V4" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.75h-9c-0.19811 0.00259 -0.38737 0.082439 -0.527466 0.222534C0.832439 1.11263 0.75259 1.30189 0.75 1.5V9c0.001529 0.98885 0.28444 1.9568 0.81567 2.7909 0.53123 0.834 1.28885 1.4996 2.18433 1.9191V18c0 0.5967 0.23705 1.169 0.65901 1.591 0.42196 0.4219 0.99425 0.659 1.59099 0.659 0.59674 0 1.16903 -0.2371 1.59099 -0.659 0.42196 -0.422 0.65901 -0.9943 0.65901 -1.591v-4.29c0.89548 -0.4195 1.6531 -1.0851 2.1843 -1.9191 0.5313 -0.8341 0.8142 -1.80205 0.8157 -2.7909V1.5c-0.0026 -0.19811 -0.0824 -0.38737 -0.2225 -0.527466C10.8874 0.832439 10.6981 0.75259 10.5 0.75Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.47998c0.9921 -0.15808 1.9954 -0.235 3 -0.22999 3.73 0 6.75 0.99999 6.75 2.25001 0 1.25 -3 2.25 -6.75 2.25 -1.0046 0.005 -2.0079 -0.0719 -3 -0.23" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 22c1.8641 0.9092 3.9289 1.3291 6 1.22 3.73 0 6.75 -1 6.75 -2.25V10.5" stroke-width="1"></path>
+</svg>

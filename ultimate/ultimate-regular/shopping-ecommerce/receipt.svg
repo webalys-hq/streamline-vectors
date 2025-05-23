@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Receipt--Streamline-Ultimate">
+  <desc>
+    Receipt Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 21.75h-6" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.75 13.25h6.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.75 9.75h6.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.75 6.25h6.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 0.75h-1.5v5.5h4.5v-2.5c0 -0.79565 -0.3161 -1.55871 -0.8787 -2.12132C21.8087 1.06607 21.0456 0.75 20.25 0.75Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 17.25H3.75c-0.79565 0 -1.55871 0.3161 -2.12132 0.8787C1.06607 18.6913 0.75 19.4544 0.75 20.25v3h10.5V19.5c0 -0.5967 0.2371 -1.169 0.659 -1.591 0.422 -0.4219 0.9943 -0.659 1.591 -0.659Zm0 0c0.5967 0 1.169 0.2371 1.591 0.659 0.4219 0.422 0.659 0.9943 0.659 1.591v0.75c0 0.3978 0.158 0.7794 0.4393 1.0607s0.6629 0.4393 1.0607 0.4393c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607V0.75H8.25c-0.79565 0 -1.55871 0.31607 -2.12132 0.87868C5.56607 2.19129 5.25 2.95435 5.25 3.75v13.5" stroke-width="1"></path>
+</svg>

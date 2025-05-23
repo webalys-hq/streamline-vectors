@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Ethernet-Port--Streamline-Ultimate">
+  <desc>
+    Ethernet Port Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 0.75h16.5s3 0 3 3v16.5s0 3 -3 3H3.75s-3 0 -3 -3V3.75s0 -3 3 -3Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 6H6c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934C4.65804 6.72064 4.5 7.10218 4.5 7.5v6c0 0.3978 0.15804 0.7794 0.43934 1.0607S5.60218 15 6 15h3v1.5c0 0.3978 0.15804 0.7794 0.43934 1.0607S10.1022 18 10.5 18h3c0.3978 0 0.7794 -0.158 1.0607 -0.4393S15 16.8978 15 16.5V15h3c0.3978 0 0.7794 -0.158 1.0607 -0.4393S19.5 13.8978 19.5 13.5v-6c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C18.7794 6.15804 18.3978 6 18 6Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 6v3.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 6v3.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 6v3.75" stroke-width="1"></path>
+</svg>

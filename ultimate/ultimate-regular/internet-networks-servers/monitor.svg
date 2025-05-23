@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Monitor--Streamline-Ultimate">
+  <desc>
+    Monitor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 21.75h9.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 21.75h9.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.25v3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 0.75h12s1.5 0 1.5 1.5v7.5s0 1.5 -1.5 1.5H6s-1.5 0 -1.5 -1.5v-7.5S4.5 0.75 6 0.75Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 11.25v3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 14.25h4.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 7.75h15" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 21.75c0 0.3978 0.158 0.7794 0.4393 1.0607s0.6629 0.4393 1.0607 0.4393c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607c0 -0.3978 -0.158 -0.7794 -0.4393 -1.0607S12.3978 20.25 12 20.25c-0.3978 0 -0.7794 0.158 -1.0607 0.4393S10.5 21.3522 10.5 21.75Z" stroke-width="1"></path>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Connector-1--Streamline-Ultimate">
+  <desc>
+    Connector 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 12h3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 12h3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 0.75v3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 20.25v3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 9H15V5.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066 -0.2813 -0.2813 -0.6629 -0.43934 -1.0607 -0.43934h-3c-0.3978 0 -0.77936 0.15804 -1.06066 0.43934C9.15804 4.47064 9 4.85218 9 5.25V9H5.25c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934 -0.2813 0.2813 -0.43934 0.66286 -0.43934 1.06066v3c0 0.3978 0.15804 0.7794 0.43934 1.0607S4.85218 15 5.25 15H9v3.75c0 0.3978 0.15804 0.7794 0.43934 1.0607s0.66286 0.4393 1.06066 0.4393h3c0.3978 0 0.7794 -0.158 1.0607 -0.4393S15 19.1478 15 18.75V15h3.75c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-3c0 -0.3978 -0.158 -0.77936 -0.4393 -1.06066C19.5294 9.15804 19.1478 9 18.75 9Z" stroke-width="1"></path>
+</svg>

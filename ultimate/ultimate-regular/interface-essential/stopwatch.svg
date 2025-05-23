@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Stopwatch--Streamline-Ultimate">
+  <desc>
+    Stopwatch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 14.25c0 1.1819 0.23279 2.3522 0.68508 3.4442 0.4523 1.0919 1.11523 2.084 1.95096 2.9198 0.83573 0.8357 1.82788 1.4986 2.91981 1.9509 1.09193 0.4523 2.26225 0.6851 3.44415 0.6851 1.1819 0 2.3522 -0.2328 3.4442 -0.6851 1.0919 -0.4523 2.084 -1.1152 2.9198 -1.9509 0.8357 -0.8358 1.4986 -1.8279 1.9509 -2.9198 0.4523 -1.092 0.6851 -2.2623 0.6851 -3.4442 0 -1.1819 -0.2328 -2.3522 -0.6851 -3.4442 -0.4523 -1.09188 -1.1152 -2.08403 -1.9509 -2.91976 -0.8358 -0.83573 -1.8279 -1.49866 -2.9198 -1.95096C14.3522 5.48279 13.1819 5.25 12 5.25c-1.1819 0 -2.35222 0.23279 -3.44415 0.68508 -1.09193 0.4523 -2.08408 1.11523 -2.91981 1.95096 -0.83573 0.83573 -1.49866 1.82788 -1.95096 2.91976C3.23279 11.8978 3 13.0681 3 14.25Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18 7.5 1.875 -1.875" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19.5 5.25 0.75 0.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 5.25V0.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 0.75h-4.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 15 -3.75 -4.151" stroke-width="1"></path>
+</svg>

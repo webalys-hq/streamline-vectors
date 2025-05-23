@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Wind-Velocity-Measure--Streamline-Ultimate">
+  <desc>
+    Wind Velocity Measure Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 0.75v22.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.75 8.99979 4.893 -3.262" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.75 10.5 4.894 3.262" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 9.75c0 1.1935 -0.4741 2.3381 -1.318 3.182 -0.8439 0.8439 -1.9885 1.318 -3.182 1.318h-12c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393 -0.2813 -0.2813 -0.43934 -0.6629 -0.43934 -1.0607v-6c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066 0.2813 -0.2813 0.66284 -0.43934 1.06066 -0.43934h12c1.1935 0 2.3381 0.47411 3.182 1.31802 0.8439 0.84391 1.318 1.98851 1.318 3.18198Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 5.25v9" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 5.25v9" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 5.25v9" stroke-width="1"></path>
+</svg>

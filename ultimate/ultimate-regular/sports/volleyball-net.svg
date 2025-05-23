@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Volleyball-Net--Streamline-Ultimate">
+  <desc>
+    Volleyball Net Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.75 8.25h20.5c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v8H0.75v-8c0 -0.26522 0.105357 -0.51957 0.29289 -0.70711 0.18754 -0.18753 0.44189 -0.29289 0.70711 -0.29289Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 17.25v6" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 17.25v6" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.5 3c0 0.29547 0.0582 0.58806 0.1713 0.86104 0.113 0.27298 0.2788 0.52102 0.4877 0.72995 0.2089 0.20893 0.457 0.37467 0.73 0.48774 0.2729 0.11307 0.5655 0.17127 0.861 0.17127s0.5881 -0.0582 0.861 -0.17127c0.273 -0.11307 0.5211 -0.27881 0.73 -0.48774 0.2089 -0.20893 0.3747 -0.45697 0.4877 -0.72995C20.9418 3.58806 21 3.29547 21 3s-0.0582 -0.58806 -0.1713 -0.86104c-0.113 -0.27298 -0.2788 -0.52102 -0.4877 -0.72995 -0.2089 -0.20893 -0.457 -0.37467 -0.73 -0.487739C19.3381 0.808198 19.0455 0.75 18.75 0.75s-0.5881 0.058198 -0.861 0.171271c-0.273 0.113069 -0.5211 0.278809 -0.73 0.487739 -0.2089 0.20893 -0.3747 0.45697 -0.4877 0.72995 -0.1131 0.27298 -0.1713 0.56557 -0.1713 0.86104Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 12.75H0.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 8.25v9" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 8.25v9" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 8.25v9" stroke-width="1"></path>
+</svg>

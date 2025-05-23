@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Task-List-Pin--Streamline-Ultimate">
+  <desc>
+    Task List Pin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 6.75h3.75c0.3978 0 0.7794 0.15804 1.0607 0.43934S21 7.85217 21 8.25v9.879c-0.0001 0.3975 -0.158 0.7788 -0.439 1.06l-3.622 3.622c-0.2812 0.281 -0.6625 0.4389 -1.06 0.439H4.5c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393C3.15804 22.5294 3 22.1478 3 21.75V8.25c0 -0.39783 0.15804 -0.77936 0.43934 -1.06066C3.72064 6.90804 4.10218 6.75 4.5 6.75h3.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 23.25v-4.5c0 -0.3978 0.158 -0.7794 0.4393 -1.0607s0.6629 -0.4393 1.0607 -0.4393H21" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 3c0 0.59674 0.23705 1.16903 0.659 1.59099 0.422 0.42196 0.9943 0.65901 1.591 0.65901s1.169 -0.23705 1.591 -0.65901c0.4219 -0.42196 0.659 -0.99425 0.659 -1.59099 0 -0.59674 -0.2371 -1.16903 -0.659 -1.59099C13.169 0.987053 12.5967 0.75 12 0.75s-1.169 0.237053 -1.591 0.65901C9.98705 1.83097 9.75 2.40326 9.75 3Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 10.5V5.25" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 14.25h10.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 18.75h4.5" stroke-width="1"></path>
+</svg>
