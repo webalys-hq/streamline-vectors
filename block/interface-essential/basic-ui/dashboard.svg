@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" id="Dashboard--Streamline-Block-Free">
+  <desc>
+    Dashboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#000000" d="M3 0C1.34315 0 0 1.34315 0 3v7h7V0H3Z" stroke-width="1"></path>
+  <path fill="#000000" d="M7 12H0v1c0 1.6569 1.34315 3 3 3h4v-4Z" stroke-width="1"></path>
+  <path fill="#000000" d="M9 0h4c1.6569 0 3 1.34315 3 3v1H9V0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 6H9v10h4c1.6569 0 3 -1.3431 3 -3V6Z" stroke-width="1"></path>
+</svg>

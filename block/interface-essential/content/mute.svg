@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" id="Mute--Streamline-Block-Free">
+  <desc>
+    Mute Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#000000" d="M7.5 0 4.25 3.25 1 0 0 1l15 15 1 -1 -2.0503 -2.0503C15.2165 11.683 16 9.933 16 8c0 -3.86599 -3.134 -7 -7 -7v2.5c2.4853 0 4.5 2.01472 4.5 4.5 0 1.24264 -0.5037 2.3676 -1.318 3.182l-1.0607 -1.0607C11.6642 9.57843 12 8.82843 12 8c0 -1.65685 -1.3431 -3 -3 -3v3L7.5 6.5V0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M7.5 10.5 1 4H0v8h3.5l4 4v-5.5Z" stroke-width="1"></path>
+</svg>

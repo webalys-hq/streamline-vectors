@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" id="In-Front-Image--Streamline-Block-Free">
+  <desc>
+    In Front Image Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#000000" d="M0 0h16v2.5H0V0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M4.5 4.5h7v7h-7v-7Z" stroke-width="1"></path>
+  <path fill="#000000" d="M2.5 4.5H0V7h2.5V4.5Z" stroke-width="1"></path>
+  <path fill="#000000" d="M0 9h2.5v2.5H0V9Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 4.5h-2.5V7H16V4.5Z" stroke-width="1"></path>
+  <path fill="#000000" d="M13.5 9H16v2.5h-2.5V9Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 13.5H0V16h16v-2.5Z" stroke-width="1"></path>
+</svg>

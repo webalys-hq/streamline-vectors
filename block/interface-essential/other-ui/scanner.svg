@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" id="Scanner--Streamline-Block-Free">
+  <desc>
+    Scanner Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#000000" d="M0 4.5V0h4.5v2H2v2.5H0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M4.5 16H0v-4.5h2V14h2.5v2Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 16v-4.5h-2V14h-2.5v2H16Z" stroke-width="1"></path>
+  <path fill="#000000" d="M11.5 0H16v4.5l-2 0L14 2l-2.5 0V0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 6H0v4h16V6Z" stroke-width="1"></path>
+</svg>

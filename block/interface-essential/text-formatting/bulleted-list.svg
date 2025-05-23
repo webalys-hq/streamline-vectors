@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" id="Bulleted-List--Streamline-Block-Free">
+  <desc>
+    Bulleted List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#000000" d="M4 0H0v4h4V0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 0H6v4h10V0Z" stroke-width="1"></path>
+  <path fill="#000000" d="M0 6h4v4H0V6Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 6H6v4h10V6Z" stroke-width="1"></path>
+  <path fill="#000000" d="M0 12h4v4H0v-4Z" stroke-width="1"></path>
+  <path fill="#000000" d="M16 12H6v4h10v-4Z" stroke-width="1"></path>
+</svg>
