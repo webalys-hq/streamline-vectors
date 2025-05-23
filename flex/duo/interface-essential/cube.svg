@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cube--Streamline-Flex">
+  <desc>
+    Cube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cube">
+    <path id="union" fill="#d7e0ff" d="M1.516 3.515C3.356 2.312 4.915 1.537 6.999 0.87c2.085 0.667 3.645 1.442 5.485 2.645a0.98 0.98 0 0 1 0.437 0.726c0.183 1.968 0.193 3.562 0.002 5.523a0.972 0.972 0 0 1 -0.435 0.719c-1.842 1.204 -3.403 1.98 -5.489 2.647 -2.085 -0.667 -3.645 -1.443 -5.486 -2.647a0.972 0.972 0 0 1 -0.436 -0.72C0.886 7.804 0.895 6.21 1.08 4.24a0.975 0.975 0 0 1 0.437 -0.725Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="m7 6.561 5.688 -2.743 0 -0.125a0.97 0.97 0 0 0 -0.204 -0.178C10.644 2.312 9.084 1.536 7 0.87c-2.084 0.666 -3.644 1.442 -5.483 2.645a0.971 0.971 0 0 0 -0.205 0.18v0.123l5.69 2.743Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="union_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.516 3.515C3.356 2.312 4.916 1.537 7 0.87c2.084 0.667 3.644 1.442 5.484 2.645 0.249 0.163 0.41 0.43 0.437 0.726 0.183 1.968 0.193 3.562 0.002 5.523a0.972 0.972 0 0 1 -0.435 0.719C10.646 11.687 9.085 12.463 7 13.13c-2.086 -0.667 -3.646 -1.443 -5.487 -2.647a0.972 0.972 0 0 1 -0.436 -0.72C0.887 7.804 0.896 6.21 1.08 4.24a0.975 0.975 0 0 1 0.437 -0.725Z" stroke-width="1"></path>
+    <path id="rectangle 631" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.688 3.822 7 6.562 1.31 3.82" stroke-width="1"></path>
+    <path id="rectangle 630" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7 6.562 0 6.568" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rocket--Streamline-Flex-Neon">
+  <desc>
+    Rocket Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rocket--science-space-universe-rocket-astronomy">
+    <path id="Subtract" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.7754 6.98193C2.29631 7.84 1.50631 11.1285 2.33389 12.9074c0.20596 0.4428 0.76875 0.4649 1.09869 0.105 0.12541 -0.1369 0.24837 -0.2788 0.37021 -0.4194 0.3569 -0.4118 0.70408 -0.8125 1.07443 -1.041 -0.44213 -1.1606 -0.94822 -2.84678 -1.10182 -4.57007Z" stroke-width="1"></path>
+    <path id="Subtract_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.2227 6.98193c1.4791 0.85807 2.2691 4.14657 1.4415 5.92547 -0.206 0.4428 -0.7688 0.4649 -1.0987 0.105 -0.1254 -0.1369 -0.2484 -0.2788 -0.3702 -0.4194 -0.35692 -0.4118 -0.7041 -0.8125 -1.07445 -1.041 0.44213 -1.1606 0.94825 -2.84678 1.10185 -4.57007Z" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" stroke-linejoin="round" d="M10.1199 4.3523C9.80119 2.68411 8.90415 1.23237 6.99998 0.5c-1.90415 0.73237 -2.80119 2.18409 -3.11994 3.85226 -0.51955 2.71916 0.49731 6.01344 1.19368 7.70454 1.33583 0.5909 2.51646 0.5909 3.85229 0 0.69637 -1.6911 1.71349 -4.98535 1.19389 -7.7045Z" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linejoin="round" d="M10.1031 4.26869C9.77059 2.6357 8.87198 1.22011 6.9997 0.5c-1.8723 0.72012 -2.77091 2.13573 -3.10346 3.76874 2.08098 -0.21325 4.12594 -0.21327 6.20686 -0.00005Z" stroke-width="1"></path>
+    <path id="Vector 684" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7.06958 9.68115 0 3.81895" stroke-width="1"></path>
+  </g>
+</svg>

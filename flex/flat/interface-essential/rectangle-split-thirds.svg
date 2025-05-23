@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rectangle-Split-Thirds--Streamline-Flex">
+  <desc>
+    Rectangle Split Thirds Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rectangle-split-thirds">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 1.71c-1.355 0 -2.677 0.122 -3.928 0.238l-0.42 0.038C1.702 2.074 0.932 2.81 0.8 3.753l-0.004 0.033C0.653 4.796 0.5 5.882 0.5 7c0 1.118 0.153 2.204 0.295 3.214l0.004 0.033c0.133 0.944 0.902 1.68 1.853 1.767l0.42 0.038c1.251 0.116 2.573 0.239 3.928 0.239s2.677 -0.123 3.928 -0.239l0.42 -0.038a2.066 2.066 0 0 0 1.853 -1.767l0.004 -0.033c0.142 -1.01 0.295 -2.096 0.295 -3.214 0 -1.118 -0.153 -2.204 -0.295 -3.214l-0.004 -0.033a2.066 2.066 0 0 0 -1.853 -1.767l-0.42 -0.038C9.677 1.832 8.355 1.709 7 1.709Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M3.875 12.125V1.875c0.41 -0.037 0.828 -0.07 1.25 -0.099l0 10.447c-0.422 -0.027 -0.84 -0.062 -1.25 -0.098Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_2" fill="#2859c5" fill-rule="evenodd" d="M8.875 12.223V1.776c0.422 0.028 0.84 0.062 1.25 0.098l0 10.251c-0.41 0.037 -0.828 0.07 -1.25 0.098Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

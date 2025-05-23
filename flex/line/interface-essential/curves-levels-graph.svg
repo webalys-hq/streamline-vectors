@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Curves-Levels-Graph--Streamline-Flex">
+  <desc>
+    Curves Levels Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="curves-levels-graph">
+    <path id="Ellipse 1469" stroke="#000000" stroke-linecap="round" d="M11.4433 3.83105c0 2.77921 -2.25296 5.0322 -5.03217 5.0322" stroke-width="1"></path>
+    <path id="Ellipse 1471" stroke="#000000" d="M3.742 8.863a1.336 1.336 0 1 0 2.672 0 1.336 1.336 0 1 0 -2.672 0" stroke-width="1"></path>
+    <path id="Ellipse 1472" stroke="#000000" d="M10.107 2.495a1.336 1.336 0 1 0 2.672 0 1.336 1.336 0 1 0 -2.672 0" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" d="M2.61523 13.4956c-0.06527 -0.007 -0.13038 -0.0142 -0.19534 -0.0214 -0.95995 -0.1072 -1.732259 -0.8795 -1.835212 -1.8399 -0.006784 -0.0633 -0.013477 -0.1268 -0.020042 -0.1904" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#000000" stroke-linecap="round" d="M0.564453 9.28564V7.71777" stroke-width="1"></path>
+    <path id="Intersect_3" stroke="#000000" stroke-linecap="round" d="m13.4351 13.4883 -1.5679 0" stroke-width="1"></path>
+    <path id="Intersect_4" stroke="#000000" stroke-linecap="round" d="M0.564453 5.67895V4.11108" stroke-width="1"></path>
+    <path id="Intersect_5" stroke="#000000" stroke-linecap="round" d="m9.82861 13.4639 -1.56787 0" stroke-width="1"></path>
+    <path id="Intersect_6" stroke="#000000" stroke-linecap="round" d="M0.564453 2.07226V0.504395" stroke-width="1"></path>
+    <path id="Intersect_7" stroke="#000000" stroke-linecap="round" d="m6.22216 13.4761 -1.56786 0" stroke-width="1"></path>
+  </g>
+</svg>

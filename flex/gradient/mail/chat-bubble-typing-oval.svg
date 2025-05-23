@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Typing-Oval--Streamline-Flex-Gradient">
+  <desc>
+    Chat Bubble Typing Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-typing-oval--messages-message-bubble-typing-chat">
+    <path id="Subtract" fill="url(#paint0_linear_9371_12559)" fill-rule="evenodd" d="M2.22529 1.77961C3.41129.592773 5.12294 0 7.22353 0s3.81227.592773 4.99827 1.77961C13.4077 2.9664 14 4.67909 14 6.78093c0 2.10183-.5923 3.81457-1.7782 5.00127-1.186 1.1869-2.89768 1.7797-4.99827 1.7797-1.15874 0-2.19853-.1799-3.09893-.5417l-2.77696.9263c-.812703.2711-1.577167-.5167-1.2850923-1.3205L1.02621 9.97401C.639345 9.0521.447103 7.98014.447103 6.78093c0-2.10184.592257-3.81453 1.778187-5.00132Zm2.91009 4.78716c0-.41421-.33579-.75-.75-.75-.41422 0-.75.33579-.75.75V7c0 .41421.33578.75.75.75.41421 0 .75-.33579.75-.75v-.43323Zm2.91955 0c0-.41421-.33578-.75-.75-.75-.41421 0-.75.33579-.75.75V7c0 .41421.33579.75.75.75.41422 0 .75-.33579.75-.75v-.43323Zm2.16947-.75c.4142 0 .75.33579.75.75V7c0 .41421-.3358.75-.75.75-.41425 0-.75003-.33579-.75003-.75v-.43323c0-.41421.33578-.75.75003-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_12559" x1=".537" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

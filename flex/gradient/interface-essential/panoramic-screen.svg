@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Panoramic-Screen--Streamline-Flex-Gradient">
+  <desc>
+    Panoramic Screen Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="panoramic-screen">
+    <path id="Subtract" fill="url(#paint0_linear_9371_7482)" fill-rule="evenodd" d="M8.83496 1.84815c-.67266.08199-1.3157.1365-1.83496.1365-.51951 0-1.16293-.05456-1.83594-.13662V12.152c.67301-.0821 1.31643-.1367 1.83594-.1367.51926 0 1.1623.0546 1.83496.1366V1.84815ZM10.085 12.3276c.2796.0438.5543.0895.8175.1352 1.4103.2446 2.8245-.7387 2.9587-2.2853.1851-2.13386.1851-4.22114 0-6.35501-.1342-1.54663-1.5484-2.52986-2.9587-2.28526-.2632.04564-.5379.09134-.8175.13516V12.3276ZM3.09748 1.53723c.26287.04559.5373.09124.81658.13501V12.3278c-.27928.0437-.55371.0894-.81658.135-1.41032.2446-2.824497-.7387-2.958656-2.2853-.1850984-2.13386-.1850985-4.22114-.000001-6.35501.13416-1.54663 1.548337-2.52986 2.958657-2.28526Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_7482" x1="13.953" x2="-.477" y1="12.502" y2="2.172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

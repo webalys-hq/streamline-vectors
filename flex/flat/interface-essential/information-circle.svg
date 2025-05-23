@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Information-Circle--Streamline-Flex">
+  <desc>
+    Information Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="information-circle--information-frame-info-more-help-point-circle">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M11.628 1.697C10.402 0.673 8.682 0.185 7 0.185S3.598 0.673 2.372 1.697C0.99 2.851 0.292 4.708 0.196 6.553c-0.097 1.845 0.402 3.776 1.538 5.11C2.978 13.124 5.02 13.815 7 13.815s4.022 -0.69 5.266 -2.152c1.136 -1.334 1.635 -3.265 1.538 -5.11 -0.097 -1.845 -0.794 -3.702 -2.176 -4.856Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7.882 3.716a0.625 0.625 0 1 0 -1.25 0v0.322a0.625 0.625 0 1 0 1.25 0v-0.322ZM5.121 6c0 -0.345 0.28 -0.625 0.625 -0.625h0.496c0.898 0 1.625 0.728 1.625 1.625v2.106h0.872a0.625 0.625 0 1 1 0 1.25H5.76a0.625 0.625 0 1 1 0 -1.25h0.856V7a0.375 0.375 0 0 0 -0.375 -0.375h-0.496A0.625 0.625 0 0 1 5.121 6Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

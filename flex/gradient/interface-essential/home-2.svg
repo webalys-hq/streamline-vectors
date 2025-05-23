@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Home-2--Streamline-Flex-Gradient">
+  <desc>
+    Home 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="home-2--door-entrance-home-house-roof-round-shelter">
+    <path id="Subtract" fill="url(#paint0_linear_9371_6475)" fill-rule="evenodd" d="M6.08853 1.29176c.54067-.389015 1.28254-.389014 1.82321.00001l.6761.48646c1.98496 1.42822 3.68696 3.181 5.02516 5.177l.2169.32349c.467.69666-.0947 1.52365-.8477 1.52365h-.7195c.0397.88899-.0122 1.78053-.1555 2.66193-.1468.9032-.9559 1.5357-1.8669 1.5357H8.50007V9.78125c0-.82843-.67158-1.5-1.5-1.5-.82843 0-1.5.67157-1.5 1.5V13H3.75993c-.91099 0-1.72004-.6325-1.86687-1.5357-.14329-.8814-.19514-1.77294-.15545-2.66193h-.7197c-.752969 0-1.314725-.827-.847633-1.52366l.21693-.32355C1.72545 4.9592 3.42738 3.20646 5.41234 1.77828l.67619-.48652Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_6475" x1=".538" x2="15.216" y1="1.97" y2="11.622" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blank-Calendar--Streamline-Flex-Neon">
+  <desc>
+    Blank Calendar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="blank-calendar--blank-calendar-date-day-month-empty">
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M0.922874 10.5249c0.165956 1.4393 1.369366 2.5822 2.857486 2.6519 1.02856 0.0481 2.07928 0.0731 3.21964 0.0731 1.14036 0 2.19107 -0.025 3.2196 -0.0731 1.4882 -0.0697 2.6916 -1.2126 2.8575 -2.6519 0.2305 -1.99925 0.2305 -3.70173 0 -5.70093 -0.1659 -1.43938 -1.3693 -2.58223 -2.8575 -2.6519C9.19108 2.12391 8.14036 2.09888 7 2.09888c-1.14036 0 -2.19107 0.02503 -3.21964 0.07319 -1.48812 0.06967 -2.69153 1.21252 -2.857487 2.6519 -0.230498 1.9992 -0.230497 3.70168 0.000001 5.70093Z" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13.147 5.49988H0.852539c0.020347 -0.22201 0.043716 -0.44701 0.070107 -0.67591C1.0886 3.38459 2.29202 2.24174 3.78013 2.17207c1.02857 -0.04816 2.07928 -0.07319 3.21964 -0.07319 1.14037 0 2.19108 0.02503 3.21963 0.07319 1.4881 0.06967 2.6915 1.21252 2.8575 2.6519 0.0264 0.2289 0.0498 0.4539 0.0701 0.67591Z" stroke-width="1"></path>
+    <path id="Line 3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m4.25195 0.75 0 2.75" stroke-width="1"></path>
+    <path id="Line 4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m9.74805 0.75 0 2.75" stroke-width="1"></path>
+  </g>
+</svg>

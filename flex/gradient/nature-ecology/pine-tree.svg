@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pine-Tree--Streamline-Flex-Gradient">
+  <desc>
+    Pine Tree Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pine-tree--nature-plant-tree-farming-christmas-plants-pine-environment">
+    <path id="Union" fill="url(#paint0_linear_9371_12097)" fill-rule="evenodd" d="M6.20118.264099c.47437-.3521321 1.11676-.3521318 1.59113 0C8.91136 1.09479 10.5985 2.74182 11.5179 4.6402c.36.74332-.0336 1.60489-.8238 1.82785l-.008.00224c.8259.88262 1.612 1.909 2.1634 3.00515.3836.76256-.0256 1.65276-.837 1.87866-.9761.2717-2.46817.5654-4.26274.6322V13.25c0 .4142-.33579.75-.75.75-.41422 0-.75-.3358-.75-.75v-1.2634c-1.79744-.0664-3.29186-.3605-4.2692-.6325-.81135-.2259-1.220585-1.1161-.83696-1.87866.55144-1.09618 1.33754-2.1226 2.16349-3.00523l-.00767-.00216c-.79025-.22296-1.18384-1.08453-.82383-1.82785C3.395 2.74182 5.08213 1.09479 6.20118.264099Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_12097" x1="2.959" x2="13.294" y1="2.692" y2="7.599" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

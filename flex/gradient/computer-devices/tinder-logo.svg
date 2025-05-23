@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tinder-Logo--Streamline-Flex-Gradient">
+  <desc>
+    Tinder Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tinder-logo">
+    <path id="Union" fill="url(#paint0_linear_9380_998)" fill-rule="evenodd" d="M7.59139.0278789c-.1529-.0533138-.32216-.02927506-.45417.0645046C7.0052.186163 6.92678.33807 6.92678.500003c0 .143986.00036.283787.00072.419707.00196.74218.00361 1.36895-.05658 1.92935-.06988.65074-.21957 1.16107-.5193 1.59411-.21959.31726-.63411.33052-.86018.06925-.36071-.41688-.63541-.93036-.75003-1.19446-.05613-.12932-.16425-.22894-.29773-.27432-.13348-.04538-.27991-.0323-.40323.03602C2.23057 4.08233 1 5.97607 1 8.15672 1 11.3995 3.71344 14 7.02511 14c2.20714 0 3.78679-.733 4.77139-1.9388.9743-1.1932 1.3049-2.77489 1.1773-4.3647-.2526-3.14654-2.3316-6.60489-5.38241-7.6686211Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_998" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

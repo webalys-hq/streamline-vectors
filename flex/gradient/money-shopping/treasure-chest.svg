@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Treasure-Chest--Streamline-Flex-Gradient">
+  <desc>
+    Treasure Chest Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="treasure-chest--gold-money-payment-bars-finance-wealth-bullion-treasure-chest-jewelry">
+    <path id="Subtract" fill="url(#paint0_linear_9380_2399)" fill-rule="evenodd" d="M12.3671 1.91389C13.3136 2.25208 14 3.06751 14 4.04237v1.88927H7.62486v-.42956c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v.42956H0V4.05211c0-.98267.69968-1.80386 1.65168-2.14162C5.07245.696843 8.94831.692426 12.3671 1.91389ZM0 7.18164v3.49046c0 1.3623 1.27663 2.329 2.66666 2.329h.4582V7.18164H0Zm4.37486 5.81946h5.25V7.18164h-2v.32044c0 .34517-.27982.625-.625.625s-.625-.27983-.625-.625v-.32044h-2v5.81946Zm6.50004 0h.4584c1.3901 0 2.6667-.9667 2.6667-2.329V7.18164h-3.1251v5.81946Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2399" x1="2.288" x2="12.713" y1="3.307" y2="10.044" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

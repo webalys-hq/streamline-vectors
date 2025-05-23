@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Round-Anchor-Point--Streamline-Flex-Neon">
+  <desc>
+    Round Anchor Point Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="round-anchor-point">
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5C13.5 9.34 11.16 7 7 7S0.5 9.34 0.5 13.5" stroke-width="1"></path>
+    <path id="Vector 789" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.10742 1.80127h2.58993m2.60212 0h2.60623" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.74877 2.48167c0.03208 0.29989 0.27328 0.54109 0.57303 0.5745 0.22264 0.02482 0.45124 0.04613 0.68431 0.04613s0.46166 -0.02131 0.68431 -0.04613c0.29974 -0.03341 0.54095 -0.27461 0.57303 -0.5745 0.02369 -0.22139 0.04369 -0.44868 0.04369 -0.6804 0 -0.23172 -0.02 -0.459 -0.04369 -0.68039 -0.03208 -0.299891 -0.27329 -0.541094 -0.57303 -0.574505 -0.22265 -0.024816 -0.45124 -0.046131 -0.68431 -0.046131s-0.46167 0.021315 -0.68431 0.046131c-0.29975 0.033411 -0.54095 0.274614 -0.57304 0.574505 -0.02368 0.22139 -0.04368 0.44867 -0.04368 0.68039 0 0.23172 0.02 0.45901 0.04369 0.6804Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12.1988 3.10269c0.8329 0 1.3014 -0.46848 1.3014 -1.30134C13.5002 0.968485 13.0317 0.5 12.1988 0.5c-0.8329 0 -1.3013 0.468485 -1.3013 1.30135 0 0.83286 0.4684 1.30134 1.3013 1.30134Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.80135 3.10269c0.83286 0 1.30134 -0.46848 1.30134 -1.30134C3.10269 0.968485 2.63421 0.5 1.80135 0.5 0.968485 0.5 0.5 0.968485 0.5 1.80135c0 0.83286 0.468485 1.30134 1.30135 1.30134Z" stroke-width="1"></path>
+  </g>
+</svg>

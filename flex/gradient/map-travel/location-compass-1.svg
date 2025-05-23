@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Compass-1--Streamline-Flex-Gradient">
+  <desc>
+    Location Compass 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-compass-1--arrow-compass-location-gps-map-maps-point">
+    <path id="Subtract" fill="url(#paint0_linear_9371_10873)" fill-rule="evenodd" d="M1.83706 1.83706C3.06233.611781 4.83048 0 7 0s3.9377.611781 5.1629 1.83706C13.3882 3.06233 14 4.83048 14 7s-.6118 3.9377-1.8371 5.1629C10.9377 13.3882 9.16952 14 7 14c-2.16952 0-3.93767-.6118-5.16294-1.8371C.611781 10.9377 0 9.16952 0 7c0-2.16952.611781-3.93767 1.83706-5.16294Zm3.88482 5.86819c.19838.02109.38021.0324.53496.03809.0057.15475.017.33658.0381.53496.06247.58764.21586 1.37316.60506 2.0247.17487.2927.47728.4343.77604.422.28995-.0118.56408-.1656.73192-.4215.82779-1.26191 1.76964-3.19553 1.81744-5.21264.0174-.73728-.57903-1.33373-1.31632-1.31625-2.01709.04782-3.95057.98981-5.21242 1.81762-.25585.16784-.40967.44197-.42152.73192-.01221.29875.12932.60116.42206.77604.65153.38919 1.43704.54258 2.02468.60506Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_10873" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Pause-Circle--Streamline-Flex-Gradient">
+  <desc>
+    Button Pause Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-pause-circle--controls-pause-multi-media-multimedia-button-circle 1">
+    <path id="Subtract" fill="url(#paint0_linear_9380_2939)" fill-rule="evenodd" d="M7 0C4.82797 0 3.06046.612432 1.83645 1.83645.612432 3.06046 0 4.82797 0 7s.612432 3.9395 1.83645 5.1636C3.06046 13.3876 4.82797 14 7 14s3.9395-.6124 5.1636-1.8364C13.3876 10.9395 14 9.17203 14 7s-.6124-3.93954-1.8364-5.16355C10.9395.612432 9.17203 0 7 0ZM5.14551 10.0859c-.41422 0-.75-.33575-.75-.74996V4.66446c0-.41421.33578-.75.75-.75.41421 0 .75.33579.75.75v4.67148c0 .41421-.33579.74996-.75.74996Zm2.95898-.74996c0 .41421.33579.74996.75.74996.41422 0 .75-.33575.75-.74996V4.66446c0-.41421-.33578-.75-.75-.75-.41421 0-.75.33579-.75.75v4.67148Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2939" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

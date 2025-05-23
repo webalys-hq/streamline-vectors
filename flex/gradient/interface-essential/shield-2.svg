@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-2--Streamline-Flex-Gradient">
+  <desc>
+    Shield 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shield-2--shield-protection-security-defend-crime-war-cover">
+    <path id="Union" fill="url(#paint0_linear_9371_8165)" fill-rule="evenodd" d="M7.39043.187652C7.29555.0690449 7.15189 0 7 0s-.29555.0690449-.39043.187652C5.84403 1.14458 5.05661 1.34146 4.42868 1.28824 3.75919 1.23151 3.21643.884321 3.02022.688113c-.19526-.195262-.51184-.195262-.70711 0-.28338.28338-.87007.870267-1.380115 1.890367C.423067 3.59833 0 5.0294 0 7c0 2.3631 1.19234 3.988 2.6375 5.0719 1.43108 1.0733 3.12986 1.6353 4.24123 1.9132.07962.0199.16292.0199.24254 0 1.11138-.2779 2.81015-.8399 4.24123-1.9132C12.8077 10.988 14 9.3631 14 7c0-1.9706-.4231-3.40167-.933-4.42152-.51-1.0201-1.0967-1.606987-1.3801-1.890367-.1953-.195262-.5119-.195262-.7071 0-.1962.196208-.739.543397-1.40848.600127-.62793.05322-1.41534-.14366-2.18089-1.100588Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_8165" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="New-Folder--Streamline-Flex-Gradient">
+  <desc>
+    New Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="new-folder--empty-folder">
+    <path id="Union" fill="url(#paint0_linear_9371_7218)" fill-rule="evenodd" d="M5.48136.292443C4.02089.222829 3.13011.241595 1.95233.328644 1.20202.384099.646426.996204.567715 1.7154.226069 4.83707.110804 7.98585.469584 11.1401c.147071 1.2929 1.158526 2.2346 2.365296 2.3725 2.81549.3218 5.59048.3135 8.40382-.0081 1.2112-.1384 2.155-1.1366 2.2947-2.3644.2246-1.97509.2818-3.99685.1377-6.47746-.0692-1.1922-.999-2.15973-2.193-2.26388-1.2019-.10483-2.08519-.12341-3.39242-.15091-.18914-.00398-.38718-.00815-.59632-.01279-.20638-.00458-.38918-.13691-.45813-.33238l-.21685-.6147C6.61379.719343 6.08996.321452 5.48136.292443Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_7218" x1=".769" x2="16.155" y1="1.341" y2="10.013" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

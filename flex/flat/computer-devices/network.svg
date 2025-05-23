@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Network--Streamline-Flex">
+  <desc>
+    Network Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="network--network-server-internet-ethernet-connection">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.25a5.25 5.25 0 1 0 0 10.5A5.25 5.25 0 0 0 7 0.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M6.25 10.697a5.3 5.3 0 0 0 1.5 0V12.5l1.514 0a0.75 0.75 0 0 1 0 1.5L7 14H4.736a0.75 0.75 0 1 1 0 -1.5l1.514 0v-1.803ZM0.75 12.5a0.75 0.75 0 0 0 0 1.5h1.5a0.75 0.75 0 1 0 0 -1.5H0.75Zm10.25 0.75a0.75 0.75 0 0 1 0.75 -0.75h1.5a0.75 0.75 0 0 1 0 1.5h-1.5a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M9.172 0.719A5.213 5.213 0 0 0 7.76 0.304a0.628 0.628 0 0 0 0.024 0.116c0.437 1.401 0.716 2.906 0.82 4.455H5.398c0.104 -1.55 0.383 -3.054 0.82 -4.455a0.628 0.628 0 0 0 0.024 -0.116A5.213 5.213 0 0 0 4.83 0.72a20.888 20.888 0 0 0 -0.684 4.156H1.787a5.304 5.304 0 0 0 0 1.25h2.358c0.09 1.43 0.322 2.829 0.684 4.156 0.441 0.201 0.916 0.343 1.413 0.415a0.63 0.63 0 0 0 -0.024 -0.116 19.416 19.416 0 0 1 -0.82 -4.455h3.205a19.417 19.417 0 0 1 -0.82 4.455 0.629 0.629 0 0 0 -0.024 0.115 5.21 5.21 0 0 0 1.413 -0.414c0.362 -1.328 0.593 -2.726 0.684 -4.156h2.357a5.307 5.307 0 0 0 0 -1.25H9.856A20.888 20.888 0 0 0 9.172 0.719Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

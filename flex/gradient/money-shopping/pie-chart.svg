@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pie-Chart--Streamline-Flex-Gradient">
+  <desc>
+    Pie Chart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pie-chart--product-data-analysis-analytics-pie-business-chart">
+    <path id="Subtract" fill="url(#paint0_linear_9380_2182)" fill-rule="evenodd" d="M6.375.00878906C4.48976.116783 2.94248.722861 1.83706 1.82828.611781 3.05356 0 4.82171 0 6.99123c0 2.16951.611781 3.93767 1.83706 5.16297C3.06233 13.3794 4.83048 13.9912 7 13.9912s3.9377-.6118 5.1629-1.837c.1989-.1988.3815-.412.548-.6388L7.55251 8.10571C6.81728 7.61973 6.375 6.79721 6.375 5.91587V.00878906ZM13.339 10.4322c.4408-.98216.661-2.13933.661-3.44097 0-2.16952-.6118-3.93767-1.8371-5.16295C11.0575.722861 9.51024.116783 7.625.00878907V5.91587c0 .46165.23167.8925.61679 1.14706L13.339 10.4322Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2182" x1="15.213" x2="-3.655" y1="16.953" y2="3.533" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

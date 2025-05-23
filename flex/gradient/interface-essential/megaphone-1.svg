@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Megaphone-1--Streamline-Flex-Gradient">
+  <desc>
+    Megaphone 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="megaphone-1--bullhorn-loud-megaphone-share-speaker-transmit">
+    <path id="Union" fill="url(#paint0_linear_9371_7136)" fill-rule="evenodd" d="M12.0046 1.05492c-.3594-.115575-.7078-.02241-.9149.03995L1.83347 3.88265c-2.371672.7143-2.44245 3.91439-.21233 4.77705-.09394.30511-.14458.62851-.14458.96326 0 1.89674 1.59892 3.37684 3.49882 3.37684 1.5288 0 2.86135-.9572 3.32472-2.3197l2.7896.8402c.207.0624.5555.1555.9149.04.4109-.1322.7314-.4251.9765-.7719.2455-.3475.4367-.7782.5838-1.24561.2941-.93521.4351-2.09438.4351-3.2352 0-1.14081-.141-2.29998-.4351-3.2352-.1471-.46741-.3383-.89811-.5838-1.2456-.2451-.3468-.5656-.63973-.9765-.77187ZM3.05493 9.10041l3.80538 1.14609c-.27002.716-.99387 1.2533-1.88493 1.2533-1.13636 0-1.99882-.872-1.99882-1.87684 0-.18128.02722-.35652.07837-.52255Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_7136" x1="2.288" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

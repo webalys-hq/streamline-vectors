@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Receipt--Streamline-Flex-Neon">
+  <desc>
+    Receipt Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="receipt--shop-shopping-pay-payment-store-cash-bill-receipt">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10.2978 0.5H3.71678c-0.93983 0 -1.77057 0.64646 -1.91803 1.59359 -0.48444 3.11157 -0.32403 6.88095 0.07307 10.28011 0.09618 0.8234 1.0513 1.1871 1.66724 0.6462l1.29497 -1.1373 0.99451 1.1057c0.61644 0.6853 1.67675 0.6818 2.28885 -0.0076l0.975 -1.0981 1.34131 1.166c0.6133 0.5332 1.5582 0.1762 1.6597 -0.6395 0.4181 -3.36292 0.6181 -7.31362 0.0879 -10.38476C12.0232 1.10853 11.2091 0.5 10.2978 0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.36787 4.8486s-0.51411 -0.5731 -1.34797 -0.50148c-0.83385 0.07162 -1.2358 0.58391 -1.2358 1.09762 0 1.49827 2.58377 0.45995 2.58377 1.99638 0 0.79209 -1.71391 1.35122 -2.73506 0.41934M7.12207 3.3396v1.00132m0 3.99736V9.3396" stroke-width="1"></path>
+  </g>
+</svg>

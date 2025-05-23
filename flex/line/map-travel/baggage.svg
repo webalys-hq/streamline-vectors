@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Baggage--Streamline-Flex">
+  <desc>
+    Baggage Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="baggage--check-baggage-travel-adventure-luggage-bag-checked-airport">
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.953225 11.4151c0.129405 0.8783 0.881415 1.5136 1.766085 1.5883 1.37917 0.1165 2.81144 0.2455 4.28069 0.2455 1.49049 0 2.93356 -0.082 4.3332 -0.2114 0.8606 -0.0795 1.5676 -0.7211 1.696 -1.5757 0.1356 -0.9025 0.2208 -1.8308 0.2208 -2.78449 0 -0.96322 -0.0782 -1.90935 -0.2159 -2.82055 -0.1267 -0.83793 -0.8223 -1.46139 -1.6661 -1.54079C9.9543 4.18292 8.50461 4.10571 7 4.10571c-1.5094 0 -2.9853 0.07283 -4.39774 0.20791 -0.82928 0.0793 -1.51357 0.68918 -1.639191 1.51272C0.822757 6.74615 0.75 7.70424 0.75 8.67731c0 0.93766 0.072387 1.84969 0.203225 2.73779Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.59619 13.1521V4.18848" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.40381 13.1755V4.18848" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.85464 4.17285v-0.56731c0 -0.75707 -0.30075 -1.48314 -0.83608 -2.01848 -0.53534 -0.53534 -1.26141 -0.836083 -2.01849 -0.836083 -0.75707 0 -1.48314 0.300743 -2.01848 0.836083 -0.53533 0.53534 -0.83608 1.26141 -0.83608 2.01848v0.56731" stroke-width="1"></path>
+  </g>
+</svg>

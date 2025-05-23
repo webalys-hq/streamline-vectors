@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Horizontal-Toggle-Button--Streamline-Flex">
+  <desc>
+    Horizontal Toggle Button Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="horizontal-toggle-button--toggle-adjustment-adjust-button-off-on-horizontal-settings-controls">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M11.1 0.36a27.358 27.358 0 0 0 -8.2 0l-0.48 0.073a2.848 2.848 0 0 0 0 5.631l0.479 0.073 0.112 -0.742 -0.112 0.742c2.718 0.412 5.482 0.412 8.2 0l0.479 -0.073a2.848 2.848 0 0 0 0 -5.631L11.1 0.36Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M11.15 1.9a1.35 1.35 0 1 1 0 2.698 1.35 1.35 0 0 1 0 -2.699Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M2.9 13.64a27.36 27.36 0 0 0 8.2 0l0.479 -0.073a2.848 2.848 0 0 0 0 -5.631l-0.479 -0.073a27.358 27.358 0 0 0 -8.2 0l-0.479 0.073a2.848 2.848 0 0 0 0 5.631l0.479 0.073Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M2.85 9.402a1.35 1.35 0 1 1 0 2.699 1.35 1.35 0 0 1 0 -2.699Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

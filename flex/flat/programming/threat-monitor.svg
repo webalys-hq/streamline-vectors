@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Threat-Monitor--Streamline-Flex">
+  <desc>
+    Threat Monitor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="threat-monitor--bug-monitor-file-threat-danger-computer">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M5.149 10.55a56.715 56.715 0 0 0 3.703 0l0.476 1.637h1.298a0.75 0.75 0 0 1 0 1.5H3.374a0.75 0.75 0 1 1 0 -1.5h1.298l0.477 -1.637Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M6.416 5.948C6.973 3.881 7.77 2.304 9.389 0.651a0.923 0.923 0 0 1 1.334 0.014c1.555 1.655 2.335 3.188 2.945 5.253 0.184 0.623 -0.296 1.234 -0.946 1.234H7.365c-0.637 0 -1.115 -0.589 -0.95 -1.204Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" fill-rule="evenodd" d="M7.987 0.322c-1.454 1.64 -2.233 3.28 -2.778 5.3 -0.393 1.458 0.747 2.78 2.156 2.78h5.357c0.296 0 0.58 -0.058 0.84 -0.163l-0.054 0.296 -0.06 0.325c-0.13 0.738 -0.716 1.372 -1.522 1.466 -1.595 0.187 -3.235 0.253 -4.926 0.253 -1.687 0 -3.354 -0.066 -4.93 -0.252 -0.806 -0.095 -1.387 -0.73 -1.52 -1.462L0.493 8.55a14.635 14.635 0 0 1 -0.298 -3.103c0 -1.762 0.075 -2.564 0.32 -3.582A1.7 1.7 0 0 1 1.956 0.575C3.568 0.373 5.276 0.313 7 0.313c0.33 0 0.66 0.003 0.987 0.009Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.563 2.376a0.5 0.5 0 0 0 -1 0v1.2a0.5 0.5 0 0 0 1 0l0 -1.2Zm0 3.248a0.5 0.5 0 0 0 -1 0v0.222a0.5 0.5 0 0 0 1 0v-0.222Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

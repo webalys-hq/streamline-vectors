@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Pin-Medical-Hospital-2--Streamline-Flex-Gradient">
+  <desc>
+    Location Pin Medical Hospital 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin-medical-hospital-2">
+    <path id="Subtract" fill="url(#paint0_linear_9371_10918)" fill-rule="evenodd" d="M1.0172 5.72468C1.23714 2.5168 3.80576 0 6.93722 0h.12525c3.13143 0 5.70013 2.5168 5.92003 5.72468.1028 1.49922-.2168 3.08733-1.1542 4.36982-1.054 1.4418-2.13065 2.4316-3.78029 3.576-.63337.4393-1.46296.4393-2.09633 0-1.64964-1.1444-2.72633-2.1342-3.78024-3.576C1.23396 8.81201.914417 7.2239 1.0172 5.72468ZM6.25 4.07166c0-.41422-.33579-.75-.75-.75s-.75.33578-.75.75v4.5c0 .41421.33579.75.75.75s.75-.33579.75-.75V6.81911c.50123-.03165.99877-.03165 1.5 0v1.75255c0 .41421.33579.75.75.75s.75-.33579.75-.75v-4.5c0-.41422-.33579-.75-.75-.75s-.75.33578-.75.75v1.24479c-.50082-.02811-.99918-.02811-1.5 0V4.07166Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_10918" x1="12.96" x2="-2.22" y1="14.003" y2="6.682" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

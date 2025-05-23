@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vpn-Connection--Streamline-Flex">
+  <desc>
+    VPN Connection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="VPN-connection">
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13c0.9 0 5.538 -1.957 5.538 -5.991 0 -1.396 -0.17 -3.046 -0.314 -4.022 -0.048 -0.32 -0.391 -0.488 -0.707 -0.419 -1.366 0.3 -2.811 -0.485 -4.252 -1.399a0.504 0.504 0 0 0 -0.533 -0.004c-1.493 0.915 -2.895 1.703 -4.25 1.404 -0.315 -0.07 -0.659 0.098 -0.706 0.418 -0.144 0.976 -0.315 2.626 -0.315 4.022C1.461 11.043 6.1 13 7 13Z" stroke-width="1"></path>
+    <path id="Ellipse 40" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.93 6.026a4.341 4.341 0 0 1 6.14 0" stroke-width="1"></path>
+    <path id="Ellipse 41" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.522 7.716a2.09 2.09 0 0 1 2.956 0" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 9.194 0 0.309" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Snooze--Streamline-Flex">
+  <desc>
+    Snooze Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="snooze--nap-sleep-rest-break-clock-bed-time-moon">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M13.198 2.486a0.625 0.625 0 0 1 0.51 0.987L12.224 5.56h1.103a0.625 0.625 0 0 1 0 1.25h-2.314a0.625 0.625 0 0 1 -0.51 -0.987l1.484 -2.088h-0.845a0.625 0.625 0 0 1 0 -1.25h2.056ZM11.406 7.76a0.625 0.625 0 0 1 0.51 0.987l-0.595 0.836h0.16a0.625 0.625 0 1 1 0 1.25h-1.37a0.625 0.625 0 0 1 -0.51 -0.987l0.594 -0.836h-0.008a0.625 0.625 0 1 1 0 -1.25h1.219Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M7 0.25c-2.092 0 -3.797 0.59 -4.979 1.771C0.84 3.203 0.25 4.908 0.25 7s0.59 3.797 1.771 4.979C3.203 13.16 4.908 13.75 7 13.75c0.73 0 1.412 -0.072 2.042 -0.215a0.727 0.727 0 0 0 0.568 -0.683 0.772 0.772 0 0 0 -0.431 -0.728C7.474 11.284 6.5 9.58 6.5 7c0 -2.581 0.974 -4.284 2.679 -5.124a0.772 0.772 0 0 0 0.431 -0.728 0.727 0.727 0 0 0 -0.568 -0.683A9.183 9.183 0 0 0 7 0.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

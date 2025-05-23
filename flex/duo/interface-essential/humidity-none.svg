@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Humidity-None--Streamline-Flex">
+  <desc>
+    Humidity None Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="humidity-none--humidity-drop-weather">
+    <path id="Vector" fill="#d7e0ff" d="M1.93433 8.92308C1.93433 4 6.99988 0.75 6.99988 0.75S12.0654 4 12.0654 8.92308c0 1.14752 -0.5337 2.24812 -1.4836 3.05962 -0.95 0.8114 -2.23845 1.2673 -3.58192 1.2673 -1.34347 0 -2.63191 -0.4559 -3.58189 -1.2673 -0.94997 -0.8115 -1.48366 -1.9121 -1.48366 -3.05962Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.56597 4.13188C5.04667 2.00315 6.99987 0.75 6.99987 0.75S12.0654 4 12.0654 8.92308c0 0.91838 -0.3418 1.80662 -0.9652 2.54072" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.26985 6.73438c-0.21048 0.68428 -0.33532 1.4159 -0.33532 2.18875 0 1.14757 0.53369 2.24817 1.48367 3.05957 0.94998 0.8115 2.23842 1.2674 3.58189 1.2674 0.63691 0 1.26144 -0.1025 1.84342 -0.2967" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.6 0.600098C4.99636 6.2317 7.64783 8.85256 13.4001 13.4001" stroke-width="1"></path>
+  </g>
+</svg>

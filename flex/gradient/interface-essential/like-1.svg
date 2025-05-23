@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Like-1--Streamline-Flex-Gradient">
+  <desc>
+    Like 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="like-1--reward-social-up-rating-media-like-thumb-hand">
+    <path id="Union" fill="url(#paint0_linear_9371_7002)" fill-rule="evenodd" d="M6.62378.879501 4.0061 4.9247c.01756.12301.02665.24875.02665.37662v6.85628c1.35724.4018 3.76119 1.0924 6.14675 1.0924 2.103 0 3.8204-4.52268 3.8204-6.5 0-1.97732-1.9774-2.96598-2.966-2.96598H9.04337l.25852-1.84813C9.42648 1.04519 8.73477.25 7.8354.25c-.48229 0-.93436.234875-1.21162.629501ZM2.78281 5.3014v7.0572c0 .7684-.62296 1.3914-1.39141 1.3914C.622952 13.75 0 13.127 0 12.3586V5.3014C0 4.53295.622952 3.91 1.3914 3.91c.76845 0 1.39141.62295 1.39141 1.3914Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_7002" x1="2.288" x2="13.399" y1="2.846" y2="9.23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

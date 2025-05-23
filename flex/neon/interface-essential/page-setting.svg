@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Page-Setting--Streamline-Flex-Neon">
+  <desc>
+    Page Setting Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="page-setting--page-setting-square-triangle-circle-line-combination-variation">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.5 8.5h5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.5 11h5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.5 13.5h5" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.611746 4.7133c0.053481 0.47999 0.437384 0.86371 0.917154 0.91911 0.51676 0.05967 1.05036 0.11759 1.5961 0.11759 0.54574 0 1.07934 -0.05792 1.5961 -0.11759 0.47977 -0.0554 0.86367 -0.43912 0.91715 -0.91911 0.0573 -0.51427 0.11175 -1.04525 0.11175 -1.5883s-0.05445 -1.07403 -0.11175 -1.5883c-0.05348 -0.47999 -0.43738 -0.863714 -0.91715 -0.91911C4.20434 0.557922 3.67074 0.5 3.125 0.5c-0.54574 0 -1.07934 0.057922 -1.5961 0.11759 -0.47977 0.055396 -0.863674 0.43912 -0.917154 0.91911C0.554446 2.05097 0.5 2.58195 0.5 3.125s0.054446 1.07403 0.111746 1.5883Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.125 13.5c1.68 0 2.625 -0.945 2.625 -2.625 0 -1.68 -0.945 -2.625 -2.625 -2.625C1.445 8.25 0.5 9.195 0.5 10.875c0 1.68 0.945 2.625 2.625 2.625Z" stroke-width="1"></path>
+    <path id="Vector 2594" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.01705 4.61903c0.5234 -1.73672 1.7293 -3.29991 2.47405 -4.013782 0.1464 -0.140331 0.3714 -0.140331 0.5178 0 0.7447 0.713872 1.9507 2.277062 2.4741 4.013782 0.055 0.18272 -0.0263 0.37731 -0.2007 0.45494 -0.5005 0.22291 -1.4129 0.5051 -2.5323 0.5051 -1.11936 0 -2.03177 -0.28219 -2.53234 -0.5051 -0.17434 -0.07763 -0.25568 -0.27222 -0.20061 -0.45494Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dial-Pad-Finger-2--Streamline-Flex-Gradient">
+  <desc>
+    Dial Pad Finger 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dial-pad-finger-2--hand-lock-login-padlock-password-textbox-touch-type">
+    <path id="Union" fill="url(#paint0_linear_9371_5773)" fill-rule="evenodd" d="M.25 2.25c0-1.10457.89543-2 2-2h1c1.10457 0 2 .89543 2 2s-.89543 2-2 2h-1c-1.10457 0-2-.89543-2-2Zm0 5.5c0-1.10457.89543-2 2-2h1c1.10457 0 2 .89543 2 2s-.89543 2-2 2h-1c-1.10457 0-2-.89543-2-2Zm6.18116 1.0977c-1.49518.78193-1.80232 2.79-.60922 3.9831l.77275.7728c.09377.0937.22095.1464.35356.1464H12.479c.1748 0 .337-.0913.4276-.2408.5086-.839.8432-1.6913.8432-2.9569 0-1.40668-.8539-2.27199-1.8421-2.77978-.8055-.41393-1.7439-.61854-2.51177-.7252V4.46426c0-.74494-.60389-1.34884-1.34884-1.34884s-1.34884.6039-1.34884 1.34884v4.24377l-.26709.13967ZM8.75013.25c-1.09176 0-1.9792.87478-1.99964 1.96164.38168-.22022.82458-.34622 1.2969-.34622 1.29581 0 2.37011.94836 2.56671 2.18886.672-.32237 1.136-1.00914 1.136-1.80428 0-1.10457-.8954-2-1.99997-2h-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_5773" x1=".769" x2="16.155" y1="1.341" y2="10.013" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

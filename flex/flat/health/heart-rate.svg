@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heart-Rate--Streamline-Flex">
+  <desc>
+    Heart Rate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart-rate--health-beauty-information-data-beat-pulse-monitor-heart-rate-info">
+    <path id="Vector" fill="#2859c5" d="M7.098 3C3.934 -0.882 0.593 1.876 0.548 4.85c0 4.428 5.298 8.062 6.55 8.062 1.252 0 6.55 -3.634 6.55 -8.062 -0.044 -2.974 -3.385 -5.732 -6.55 -1.85Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.549 4.85C0.593 1.876 3.934 -0.882 7.099 3c3.164 -3.882 6.505 -1.124 6.549 1.85 0 4.428 -5.298 8.062 -6.55 8.062 -0.977 0 -4.416 -2.212 -5.88 -5.287h1.93a0.625 0.625 0 0 0 0.483 -0.228L4.8 5.973l1.832 2.93a0.625 0.625 0 0 0 1.013 0.065l1.533 -1.867h1.425a0.625 0.625 0 1 0 0 -1.25h-1.72a0.625 0.625 0 0 0 -0.483 0.228L7.23 7.503l-1.833 -2.93a0.625 0.625 0 0 0 -1.013 -0.065L2.853 6.375h-2.1A5.923 5.923 0 0 1 0.55 4.85Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

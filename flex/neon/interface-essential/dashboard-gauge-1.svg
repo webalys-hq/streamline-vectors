@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-Gauge-1--Streamline-Flex-Neon">
+  <desc>
+    Dashboard Gauge 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-gauge-1--bar-speed-test-loading-dashboard-internet-gauge-progress">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.75098 4.5 7 9.08496" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5C2.84 13.5 0.5 11.16 0.5 7S2.84 0.5 7 0.5s6.5 2.34 6.5 6.5 -2.34 6.5 -6.5 6.5Z" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.8396 9.49364C1.62745 12.0829 3.7626 13.5 6.99997 13.5c3.23733 0 5.37253 -1.4171 6.16033 -4.00636 -4.14806 -0.55793 -8.17261 -0.55793 -12.3207 0Z" stroke-width="1"></path>
+  </g>
+</svg>

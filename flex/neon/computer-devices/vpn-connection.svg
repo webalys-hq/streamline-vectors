@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vpn-Connection--Streamline-Flex-Neon">
+  <desc>
+    Vpn Connection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="VPN-connection">
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.99992 13.5001c0.89475 0 5.50088 -1.6372 5.50088 -6.04445 0 -1.53254 -0.1711 -3.84485 -0.3148 -4.9091 -0.0451 -0.33425 -0.4055 -0.50765 -0.7318 -0.43322 -1.3409 0.30586 -2.75889 -0.53841 -4.17259 -1.522937C7.11147 0.4719 6.8867 0.469569 6.71474 0.585372 5.25073 1.57129 3.87493 2.41842 2.54546 2.11403c-0.32627 -0.0747 -0.68654 0.09826 -0.73166 0.43252 -0.14366 1.06425 -0.31478 3.37656 -0.31478 4.9091 0 4.40725 4.60616 6.04445 5.5009 6.04445Z" stroke-width="1"></path>
+    <path id="Ellipse 40" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.93018 6.02588c1.69541 -1.69542 4.44423 -1.69542 6.13962 0" stroke-width="1"></path>
+    <path id="Ellipse 41" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.52218 7.71635c0.81618 -0.81618 2.13946 -0.81618 2.95564 0" stroke-width="1"></path>
+    <path id="Union" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M6.9993 9.84333c-0.15924 0 -0.24881 -0.08957 -0.24881 -0.24881s0.08957 -0.24882 0.24881 -0.24882" stroke-width="1"></path>
+    <path id="Union_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7.0007 9.84333c0.15924 0 0.24881 -0.08957 0.24881 -0.24881s-0.08957 -0.24882 -0.24881 -0.24882" stroke-width="1"></path>
+  </g>
+</svg>

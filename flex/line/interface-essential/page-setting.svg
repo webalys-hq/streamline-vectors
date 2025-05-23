@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Page-Setting--Streamline-Flex">
+  <desc>
+    Page Setting Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="page-setting--page-setting-square-triangle-circle-line-combination-variation">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 13.25H8" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 8.25h5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 10.75h5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.1714 4.42995c0.3184 0.621 -0.1653 1.32005 -0.8632 1.32005H8.65828c-0.68851 0 -1.17263 -0.68238 -0.86837 -1.30002C8.4446 3.12098 9.28347 2.14947 10.5 0.75c1.1673 1.39503 1.9962 2.36307 2.6714 3.67995Z" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.852037 4.72319c0.053214 0.48002 0.437523 0.86419 0.917323 0.91937 0.47984 0.05518 0.97476 0.10744 1.48064 0.10744s1.0008 -0.05226 1.48064 -0.10744c0.4798 -0.05518 0.86411 -0.43935 0.91732 -0.91937C5.70089 4.24573 5.75 3.7533 5.75 3.25c0 -0.50331 -0.04911 -0.99573 -0.10204 -1.47319 -0.05321 -0.48002 -0.43752 -0.864187 -0.91732 -0.919367C4.2508 0.802257 3.75588 0.75 3.25 0.75S2.2492 0.802257 1.76936 0.857443c-0.4798 0.05518 -0.864109 0.439347 -0.917323 0.919367C0.799107 2.25427 0.75 2.74669 0.75 3.25c0 0.5033 0.049107 0.99573 0.102037 1.47319Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.25 13.501c1.76 0 2.75 -0.99 2.75 -2.75 0 -1.76002 -0.99 -2.75002 -2.75 -2.75002S0.5 8.99098 0.5 10.751c0 1.76 0.99 2.75 2.75 2.75Z" stroke-width="1"></path>
+  </g>
+</svg>

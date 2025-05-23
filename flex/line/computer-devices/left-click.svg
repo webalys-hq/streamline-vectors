@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Left-Click--Streamline-Flex">
+  <desc>
+    Left Click Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="left-click">
+    <path id="Ellipse 1010" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.023 5.317C2.023 2.915 4.18 0.706 6.634 0.706" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.569 10.416c0.103 1.436 1.215 2.677 2.647 2.823 0.333 0.034 0.67 0.055 1.01 0.055 0.34 0 0.677 -0.021 1.01 -0.055 1.432 -0.146 2.544 -1.387 2.647 -2.823 0.054 -0.736 0.094 -1.487 0.094 -2.251 0 -0.764 -0.04 -1.516 -0.094 -2.252 -0.103 -1.435 -1.215 -2.676 -2.647 -2.822a9.949 9.949 0 0 0 -1.01 -0.056c-0.34 0 -0.677 0.022 -1.01 0.056 -1.432 0.146 -2.544 1.387 -2.647 2.822a31.22 31.22 0 0 0 -0.094 2.252c0 0.764 0.04 1.515 0.094 2.251Z" stroke-width="1"></path>
+    <path id="intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.225 3.035v3.56a1 1 0 0 1 -1.002 1 343.85 343.85 0 0 0 -2.748 0.003" stroke-width="1"></path>
+  </g>
+</svg>

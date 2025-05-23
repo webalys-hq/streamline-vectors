@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Texture--Streamline-Flex">
+  <desc>
+    Texture Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="texture">
+    <path id="Intersect" fill="#d7e0ff" d="M0.96 10.268a3.132 3.132 0 0 0 2.753 2.76c1.07 0.12 2.167 0.222 3.287 0.222s2.218 -0.102 3.287 -0.222a3.132 3.132 0 0 0 2.753 -2.76c0.114 -1.063 0.21 -2.155 0.21 -3.268s-0.096 -2.205 -0.21 -3.269a3.132 3.132 0 0 0 -2.753 -2.76C9.217 0.853 8.12 0.75 7 0.75S4.782 0.852 3.713 0.972A3.132 3.132 0 0 0 0.96 3.732C0.846 4.794 0.75 5.886 0.75 7s0.096 2.205 0.21 3.268Z" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.96 10.268a3.132 3.132 0 0 0 2.753 2.76c1.07 0.12 2.167 0.222 3.287 0.222s2.218 -0.102 3.287 -0.222a3.132 3.132 0 0 0 2.753 -2.76c0.114 -1.063 0.21 -2.155 0.21 -3.268s-0.096 -2.205 -0.21 -3.269a3.132 3.132 0 0 0 -2.753 -2.76C9.217 0.853 8.12 0.75 7 0.75S4.782 0.852 3.713 0.972A3.132 3.132 0 0 0 0.96 3.732C0.846 4.794 0.75 5.886 0.75 7s0.096 2.205 0.21 3.268Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m3.935 13.053 9.304 -5.395" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m0.954 10.217 12.082 -6.521" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.958 0.936 0.765 6.206" stroke-width="1"></path>
+  </g>
+</svg>

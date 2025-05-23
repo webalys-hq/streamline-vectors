@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tablet-Capsule--Streamline-Flex-Gradient">
+  <desc>
+    Tablet Capsule Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tablet-capsule--health-medical-hospital-medicine-capsule-tablet">
+    <path id="Union" fill="url(#paint0_linear_9380_3429)" fill-rule="evenodd" d="M12.4641 1.53592C10.4166-.511645 7.09683-.511647 5.04927 1.53591L3.6271 2.95804c-.02889.02888-.05521.05985-.07882.09256L1.53336 5.06552c-2.04383 2.04384-2.04383 5.35758 0 7.40138s5.35754 2.0438 7.40137 0l2.01587-2.0158c.0319-.0233.0625-.0493.0914-.0781l1.4221-1.42218c2.0476-2.04757 2.0476-5.36733 0-7.4149ZM4.15753 4.56267l5.28005 5.28005-1.56351 1.56348c-1.45804 1.4581-3.822 1.4581-5.28005 0-1.45805-1.45801-1.45805-3.82197 0-5.28002l1.56351-1.56351Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_3429" x1="13.952" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

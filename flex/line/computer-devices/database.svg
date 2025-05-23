@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Database--Streamline-Flex">
+  <desc>
+    Database Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="database--raid-storage-code-disk-programming-database-array-hard-disc">
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.41691 3.39502c-0.06989 0.94602 -0.12052 2.09569 -0.12052 3.01571 0 1.26844 0.1476 2.84506 0.27075 3.93977 0.09476 0.8422 0.56387 1.599 1.3375 1.9452 0.95116 0.4258 2.40748 0.9124 4.09518 0.9124 1.68769 0 3.14398 -0.4866 4.09518 -0.9124 0.7736 -0.3462 1.2427 -1.103 1.3375 -1.9452 0.1231 -1.09471 0.2707 -2.67133 0.2707 -3.93977 0 -0.97778 -0.0571 -1.94046 -0.1339 -2.88398" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.99977 5.74028c3.57673 0 5.58863 -0.89069 5.58863 -2.47415 0 -1.58345 -2.0119 -2.474138 -5.58863 -2.474138 -3.57673 0 -5.58864 0.890688 -5.58864 2.474138 0 1.58346 2.01191 2.47415 5.58864 2.47415Z" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.34375 8.00002v0C4.89092 9.80354 9.11332 9.81182 12.6563 8v0" stroke-width="1"></path>
+  </g>
+</svg>

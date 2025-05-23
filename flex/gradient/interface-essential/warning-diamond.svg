@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warning-Diamond--Streamline-Flex-Gradient">
+  <desc>
+    Warning Diamond Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warning-diamond--diamond-alert-warning-frame-exclamation-caution">
+    <path id="Subtract" fill="url(#paint0_linear_9371_8999)" fill-rule="evenodd" d="M6.99433.250002c.64936.000788 1.27887.24176 1.83056.686573C10.4206 2.22315 11.8099 3.6164 13.0936 5.21702c.8715 1.08665.8792 2.48221-.0011 3.57156-1.299 1.60732-2.7064 3.01452-4.31409 4.31362-1.0735.8674-2.46747.8597-3.53826.0011-1.62699-1.3045-3.03958-2.7179-4.343408-4.34576C.038054 7.68543.030398 6.29063.89792 5.21581c1.28551-1.5927 2.67709-2.989 4.26389-4.278076C5.71422.488967 6.3446.249213 6.99433.250002ZM7 3.1759c.41421 0 .75.33579.75.75v3.23971c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75V3.9259c0-.41421.33579-.75.75-.75Zm0 5.56153c.41421 0 .75.33578.75.75v.58657c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-.58657c0-.41422.33579-.75.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_8999" x1="14.92" x2="-3.29" y1="16.609" y2="3.674" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

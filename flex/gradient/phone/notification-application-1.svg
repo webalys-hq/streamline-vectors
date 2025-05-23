@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Application-1--Streamline-Flex-Gradient">
+  <desc>
+    Notification Application 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-application-1--android-phone-mobile-device-smartphone-iphone-alert-box 1">
+    <path id="Union" fill="url(#paint0_linear_9380_3219)" fill-rule="evenodd" d="M8.79645.796447C9.34046.252432 10.108 0 11 0c.892 0 1.6595.252432 2.2036.796447C13.7476 1.34046 14 2.10797 14 3c0 .89203-.2524 1.65954-.7964 2.20355C12.6595 5.74757 11.892 6 11 6c-.892 0-1.65954-.25243-2.20355-.79645C8.25243 4.65954 8 3.89203 8 3c0-.89203.25243-1.65954.79645-2.203553ZM11 7.25c.1574 0 .3148-.00631.4715-.0195.0179.33619.0285.67625.0285 1.0195 0 .82034-.0603 1.62251-.1375 2.397-.1674 1.6789-1.52119 3.0324-3.19718 3.2072C7.38575 13.9355 6.57719 14 5.75 14c-.82719 0-1.63575-.0645-2.41533-.1458C1.65869 13.6794.304855 12.3259.137515 10.647.0603124 9.87251 0 9.07034 0 8.25c0-.82034.0603123-1.62252.137515-2.39704C.304854 4.17415 1.65869 2.82062 3.33467 2.64581 4.11425 2.5645 4.92281 2.5 5.75 2.5c.34325 0 .68329.01111 1.01938.02991C6.75628 2.68615 6.75 2.8431 6.75 3c0 1.12121.32052 2.24539 1.16256 3.08744C8.75461 6.92949 9.87879 7.25 11 7.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_3219" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

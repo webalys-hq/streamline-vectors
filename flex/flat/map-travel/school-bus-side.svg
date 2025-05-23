@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="School-Bus-Side--Streamline-Flex">
+  <desc>
+    School Bus Side Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="school-bus-side">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.75 1.75A2.75 2.75 0 0 0 0 4.5V11c0 0.966 0.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0 0 14 11V9.177a1.75 1.75 0 0 0 -1.1 -1.625l-1.243 -0.497a0.25 0.25 0 0 1 -0.157 -0.232V4.5a2.75 2.75 0 0 0 -2.75 -2.75h-6Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M8 6.75h2V4.5c0 -0.69 -0.56 -1.25 -1.25 -1.25H8v3.5Zm-1.5 -3.5h-2v3.5h2v-3.5Zm-3.75 0H3v3.5H1.5V4.5c0 -0.69 0.56 -1.25 1.25 -1.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M3.25 14C4.37 14 5 13.37 5 12.25s-0.63 -1.75 -1.75 -1.75 -1.75 0.63 -1.75 1.75S2.13 14 3.25 14Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#2859c5" d="M10.25 14c1.12 0 1.75 -0.63 1.75 -1.75s-0.63 -1.75 -1.75 -1.75 -1.75 0.63 -1.75 1.75S9.13 14 10.25 14Z" stroke-width="1"></path>
+  </g>
+</svg>

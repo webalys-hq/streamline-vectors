@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Text-File--Streamline-Flex">
+  <desc>
+    Text File Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-file--text-common-file">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.5C5.632 0.5 4.526 0.541 3.381 0.62a2.423 2.423 0 0 0 -2.254 2.265A65.81 65.81 0 0 0 1 7c0 1.41 0.044 2.786 0.127 4.115a2.423 2.423 0 0 0 2.254 2.265c1.145 0.079 2.25 0.12 3.619 0.12 1.368 0 2.474 -0.041 3.619 -0.12a2.423 2.423 0 0 0 2.254 -2.265 65.804 65.804 0 0 0 0.106 -5.81 2.411 2.411 0 0 0 -0.464 -1.367c-0.904 -1.231 -1.636 -2.011 -2.832 -2.934A2.378 2.378 0 0 0 8.28 0.514 58.466 58.466 0 0 0 7 0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.094 3.375a0.625 0.625 0 1 0 0 1.25h2.3a0.625 0.625 0 0 0 0 -1.25h-2.3Zm0 5.922a0.625 0.625 0 1 0 0 1.25h3.8a0.625 0.625 0 1 0 0 -1.25h-3.8Zm0 -2.906a0.625 0.625 0 0 0 0 1.25h3.812a0.625 0.625 0 1 0 0 -1.25H5.094Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

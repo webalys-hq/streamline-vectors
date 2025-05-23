@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hierarchy-Line-3--Streamline-Flex-Gradient">
+  <desc>
+    Hierarchy Line 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hierarchy-line-3--hierarchy-organization-links-structure-network">
+    <path id="Union" fill="url(#paint0_linear_9371_6451)" fill-rule="evenodd" d="M6.64857 7.74985H.75c-.414214 0-.75-.33578-.75-.75 0-.41421.335786-.75.75-.75h5.92004c1.84697-1.99461 3.86976-3.67347 6.17906-5.13388.3501-.221391.8134-.117067 1.0348.23302.2214.35008.117.81335-.233 1.03474-2.1036 1.33029-3.95317 2.84723-5.64807 4.6373 1.45765 1.63623 3.21287 2.87474 5.09067 4.19977.1954.1378.3925.277.5903.4173.3379.2395.4176.7077.178 1.0456-.2396.3379-.7077.4175-1.0456.178-.2012-.1427-.4033-.2852-.6059-.428-1.9434-1.3697-3.93061-2.77018-5.56173-4.68385Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_6451" x1=".538" x2="15.216" y1="1.969" y2="11.621" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

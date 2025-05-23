@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Email-Message-Circle--Streamline-Flex-Gradient">
+  <desc>
+    Mail Send Email Message Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-send-email-message-circle--send-email-paper-airplane-deliver">
+    <path id="Subtract" fill="url(#paint0_linear_9371_12683)" fill-rule="evenodd" d="M1.83706 1.83706C3.06233.611781 4.83048 0 7 0s3.9377.611781 5.1629 1.83706C13.3882 3.06233 14 4.83048 14 7s-.6118 3.9377-1.8371 5.1629C10.9377 13.3882 9.16952 14 7 14c-2.16952 0-3.93767-.6118-5.16294-1.8371C.611781 10.9377 0 9.16952 0 7c0-2.16952.611781-3.93767 1.83706-5.16294Zm8.81384 2.70109c-.0474-.64802-.5562-1.15684-1.20424-1.20427-1.50161-.10991-4.10206.19653-6.65149 2.35866-.6247.5298-.67278 1.5176.02739 2.05044.40403.30748.94351.64978 1.54668.8733.61502-.90086 1.36352-1.6023 2.32234-2.18115.29551-.1784.67968-.08346.85807.21204.1784.2955.08347.67968-.21203.85807-.85217.51446-1.49373 1.13088-2.0252 1.9498.21917.66776.5949 1.26766.92941 1.70726.53285.7001 1.52065.652 2.05044.0273 2.16213-2.54939 2.46853-5.14984 2.35863-6.65145Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_12683" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

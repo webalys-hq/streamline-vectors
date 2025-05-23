@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Bag-Hand-Bag-2--Streamline-Flex-Gradient">
+  <desc>
+    Shopping Bag Hand Bag 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-bag-hand-bag-2--shopping-bag-purse-goods-item-products">
+    <path id="Union" fill="url(#paint0_linear_9380_2260)" fill-rule="evenodd" d="M7 1.75c-.9665 0-1.75.7835-1.75 1.75v.25h3.5V3.5c0-.9665-.7835-1.75-1.75-1.75Zm3.25 2V3.5C10.25 1.70507 8.79493.25 7 .25S3.75 1.70507 3.75 3.5v.25H2.5374c-.66183 0-1.25185.43451-1.43612 1.07786C.65336 6.39167.25 8.10714.25 10.25c0 .8692.29661 1.626.84424 2.1984.54327.5677 1.30345.9233 2.18541 1.0562.95332.1437 2.13574.2454 3.72035.2454 1.58461 0 2.76703-.1017 3.7204-.2454.8819-.1329 1.6421-.4885 2.1854-1.0562.5476-.5724.8442-1.3292.8442-2.1984 0-2.14286-.4034-3.85833-.8513-5.42214-.1843-.64335-.7743-1.07786-1.4361-1.07786H10.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2260" x1="2.457" x2="13.36" y1="2.846" y2="8.887" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

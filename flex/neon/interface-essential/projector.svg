@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Projector--Streamline-Flex-Neon">
+  <desc>
+    Projector Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="projector--work-meeting-presentation-projection">
+    <path id="Vector 174" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.23438 10.3561v2.145" stroke-width="1"></path>
+    <path id="Vector 175" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.7661 10.3561v2.145" stroke-width="1"></path>
+    <path id="Subtract" stroke="#c71dff" d="M10.9803 4.64435c-0.0687 1.77581 -1.12474 2.77054 -2.95444 2.77054 -1.8577 0 -2.91786 -1.02541 -2.95687 -2.85263 -1.10016 0.02742 -2.17581 0.07783 -3.21549 0.14867 -0.51658 0.0352 -0.937738 0.26468 -1.028855 0.57079C0.611439 5.99799 0.5 6.75593 0.5 7.5283c0 0.76518 0.117195 1.50425 0.323431 2.21939 0.092071 0.31921 0.537809 0.55621 1.077019 0.58751 1.57946 0.0917 3.35426 0.1832 5.09955 0.1832 1.76402 0 3.4642 -0.0695 5.1066 -0.175 0.5359 -0.0344 0.9709 -0.2755 1.0598 -0.59338 0.2001 -0.7152 0.3336 -1.45594 0.3336 -2.22172 0 -0.76877 -0.1211 -1.52089 -0.328 -2.23518 -0.0903 -0.31157 -0.5184 -0.546 -1.044 -0.58073 -0.3801 -0.02511 -0.7626 -0.04787 -1.1477 -0.06804Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.02586 7.41488c1.89312 0 2.95804 -1.06487 2.95804 -2.95799 0 -1.89311 -1.06492 -2.95799 -2.95804 -2.95799 -1.89311 0 -2.95799 1.06488 -2.95799 2.95799 0 1.89312 1.06488 2.95799 2.95799 2.95799Z" stroke-width="1"></path>
+  </g>
+</svg>

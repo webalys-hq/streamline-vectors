@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hospital-Sign--Streamline-Flex-Neon">
+  <desc>
+    Hospital Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hospital-sign--health-sign-medical-symbol-hospital-square">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.5 0.5v13" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.5 2.375h3.46862" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.5 8.375h3.46862" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M6.625 5.375h4" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.625 3.375v4" stroke-width="1"></path>
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.9137 7.92445c0.12022 1.12371 1.02401 2.0275 2.14717 2.15265 0.83425 0.093 1.69082 0.1729 2.56413 0.1729 0.87332 0 1.7299 -0.0799 2.5641 -0.1729 1.1232 -0.12515 2.027 -1.02894 2.1472 -2.15265 0.0888 -0.82954 0.1637 -1.68119 0.1637 -2.54945 0 -0.86826 -0.0749 -1.71991 -0.1637 -2.54945 -0.1202 -1.12371 -1.024 -2.027502 -2.1472 -2.152695C10.3549 0.579866 9.49832 0.5 8.625 0.5c-0.87331 0 -1.72988 0.079866 -2.56413 0.172855C4.93771 0.798048 4.03392 1.70184 3.9137 2.82555 3.82495 3.65508 3.75 4.50674 3.75 5.375c0 0.86826 0.07495 1.71991 0.1637 2.54945Z" stroke-width="1"></path>
+  </g>
+</svg>

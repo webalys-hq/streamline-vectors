@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Record-1--Streamline-Flex-Gradient">
+  <desc>
+    Button Record 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-record-1--button-multimedia-multi-media-controls-record-circle 1">
+    <path id="Subtract" fill="url(#paint0_linear_9380_2948)" fill-rule="evenodd" d="M1.83645 1.83645C3.06046.612432 4.82797 0 7 0s3.9395.612432 5.1636 1.83645C13.3876 3.06046 14 4.82797 14 7s-.6124 3.9395-1.8364 5.1636C10.9395 13.3876 9.17203 14 7 14s-3.93954-.6124-5.16355-1.8364C.612432 10.9395 0 9.17203 0 7s.612432-3.93954 1.83645-5.16355ZM9.5 7c0 1.6-.9 2.5-2.5 2.5S4.5 8.6 4.5 7 5.4 4.5 7 4.5s2.5.9 2.5 2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2948" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

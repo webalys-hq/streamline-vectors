@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Microscope-Observation-Sciene--Streamline-Flex-Gradient">
+  <desc>
+    Microscope Observation Sciene Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="microscope-observation-sciene">
+    <path id="Union" fill="url(#paint0_linear_9380_3417)" fill-rule="evenodd" d="M3.51367 0c-.27614 0-.5.223858-.5.5v1.67545h-.51992c-.54543 0-1.0004.44078-.99505.99955.01077 1.12433.09907 2.32022.3236 3.34157.14926.67896.76316 1.09377 1.40266 1.09377h2.04538c.6395 0 1.25339-.41481 1.40267-1.09376.06025-.27404.1107-.56066.15247-.85508h.04708c1.59576 0 2.58318.62282 3.19914 1.53963.6369.94784.9105 2.26325.9295 3.67757v.4032H1.35907C.608476 11.2819 0 11.8903 0 12.6409 0 13.3915.608476 14 1.35907 14H13.4927c.2762 0 .5-.2239.5-.5v-.9761h.0075v-.9855c0-2.18442-.4936-4.38896-1.7069-6.06131-1.1536-1.58992-2.92779-2.65541-5.4154-2.78201-.16936-.31151-.50144-.51963-.87623-.51963h-.5199V.5c0-.276142-.22386-.5-.5-.5h-1.4681ZM2.24902 8.81378c-.41421 0-.75.33579-.75.75s.33579.75002.75.75002h4.4972c.41421 0 .75-.33581.75-.75002s-.33579-.75-.75-.75h-4.4972Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_3417" x1="2.288" x2="13.596" y1="2.692" y2="8.958" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

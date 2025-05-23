@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="One-Finger-Tap--Streamline-Flex">
+  <desc>
+    One Finger Tap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="one-finger-tap">
+    <path id="Vector" fill="#d7e0ff" d="m4.515 12.838 0.493 0.41h6.321a4.096 4.096 0 0 0 0.679 -2c0.173 -2.09 -1.744 -3.472 -4 -3.472V4.5a1.25 1.25 0 1 0 -2.5 0v4.75l-0.5 0.214c-1.373 0.588 -1.64 2.419 -0.493 3.375Z" stroke-width="1"></path>
+    <path id="Ellipse 302" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.317 5.046a3.5 3.5 0 1 1 6.818 0" stroke-width="1"></path>
+    <path id="Vector 107" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.008 13.249 -0.493 -0.411c-1.147 -0.956 -0.88 -2.787 0.492 -3.375l0.5 -0.214 0 -4.75c0 -0.69 0.56 -1.25 1.25 -1.25v0c0.691 0 1.25 0.56 1.25 1.25l0 3.277c2.257 0 4.174 1.381 4 3.473a4.096 4.096 0 0 1 -0.678 2" stroke-width="1"></path>
+  </g>
+</svg>

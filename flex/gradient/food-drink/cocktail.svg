@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cocktail--Streamline-Flex-Gradient">
+  <desc>
+    Cocktail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass">
+    <path id="Union" fill="url(#paint0_linear_9371_11718)" fill-rule="evenodd" d="M2.64833.0000719728 11.3426 0c1.2076-.0000100134 2.0606 1.25709 1.4512 2.36751-1.062 1.93518-2.3902 3.49966-4.03516 4.96087-.30175.26804-.64848.45585-1.01327.56343v4.40789c.70056.029 1.40358.0987 2.11599.209.40934.0634.68974.4466.62634.856-.0633.4093-.4466.6897-.85589.6263-1.78155-.2759-3.49123-.2759-5.27278 0-.40934.0634-.79256-.217-.85595-.6263-.06339-.4094.21705-.7926.62639-.856.71238-.1103 1.41538-.18 2.1159-.209V7.89177c-.36471-.10759-.71137-.29537-1.01307-.56336-1.645-1.46118-2.97312-3.02565-4.03516-4.96083C.587743 1.25718 1.44069.0000819864 2.64833.0000719728Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_11718" x1="1.456" x2="16.068" y1="1.131" y2="8.191" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

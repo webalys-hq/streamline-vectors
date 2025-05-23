@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Polaroid-Four--Streamline-Flex">
+  <desc>
+    Polaroid Four Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="polaroid-four--photos-camera-polaroid-picture-photography-pictures-four-photo-image">
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M6.502 4.19H0.452v0.51c0 0.967 0.784 1.75 1.75 1.75h2.55a1.75 1.75 0 0 0 1.75 -1.75v-0.51Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.453 2.151c0 -0.966 0.783 -1.75 1.75 -1.75h2.549c0.966 0 1.75 0.784 1.75 1.75v2.04H0.452V2.15Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_2" fill="#2859c5" fill-rule="evenodd" d="M13.548 11.339h-6.05v0.51c0 0.966 0.784 1.75 1.75 1.75h2.55a1.75 1.75 0 0 0 1.75 -1.75v-0.51Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" fill-rule="evenodd" d="M7.499 9.3c0 -0.967 0.783 -1.75 1.75 -1.75h2.549c0.966 0 1.75 0.783 1.75 1.75v2.038h-6.05V9.3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_3" fill="#2859c5" fill-rule="evenodd" d="M13.548 4.19h-6.05v0.51c0 0.967 0.784 1.75 1.75 1.75h2.55a1.75 1.75 0 0 0 1.75 -1.75v-0.51Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#8fbffa" fill-rule="evenodd" d="M7.499 2.151c0 -0.966 0.783 -1.75 1.75 -1.75h2.549c0.966 0 1.75 0.784 1.75 1.75v2.04h-6.05V2.15Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_4" fill="#2859c5" fill-rule="evenodd" d="M6.502 11.339H0.452v0.51c0 0.966 0.784 1.75 1.75 1.75h2.55a1.75 1.75 0 0 0 1.75 -1.75v-0.51Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_4" fill="#8fbffa" fill-rule="evenodd" d="M0.453 9.3c0 -0.967 0.783 -1.75 1.75 -1.75h2.549c0.966 0 1.75 0.783 1.75 1.75v2.038H0.452V9.3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

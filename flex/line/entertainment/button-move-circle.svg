@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Move-Circle--Streamline-Flex">
+  <desc>
+    Button Move Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-move-circle--move-button-circle-direction-arrows">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c4.16 0 6.5 -2.34 6.5 -6.5S11.16 0.5 7 0.5 0.5 2.84 0.5 7s2.34 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 5.75c-0.43875 0.44934 -0.65798 0.72332 -1 1.25 0.34202 0.52668 0.56125 0.80066 1 1.25" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 5.75c0.4387 0.44934 0.658 0.72332 1 1.25 -0.342 0.52668 -0.5613 0.80066 -1 1.25" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.75 10c0.44934 0.4387 0.72332 0.658 1.25 1 0.52668 -0.342 0.80066 -0.5613 1.25 -1" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.75 4c0.44934 -0.43875 0.72332 -0.65798 1.25 -1 0.52668 0.34202 0.80066 0.56125 1.25 1" stroke-width="1"></path>
+  </g>
+</svg>

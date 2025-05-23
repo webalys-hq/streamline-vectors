@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Threat-Phone--Streamline-Flex">
+  <desc>
+    Threat Phone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="threat-phone--bug-phone-file-threat-danger-mobile">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M9.041 1.539C7.443 3.363 6.787 5.114 6.288 7.624h3.618c-0.025 1.246 -0.122 2.464 -0.216 3.644l-0.003 0.049c-0.076 0.955 -0.808 1.74 -1.763 1.82a29.72 29.72 0 0 1 -5.167 0c-0.954 -0.08 -1.686 -0.865 -1.762 -1.82l-0.004 -0.049C0.881 9.891 0.769 8.463 0.769 7c0 -1.463 0.113 -2.891 0.222 -4.269l0.004 -0.048c0.076 -0.955 0.808 -1.74 1.762 -1.82 1.768 -0.15 3.4 -0.15 5.167 0 0.475 0.04 0.894 0.254 1.205 0.576l-0.088 0.1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#ffffff" d="M6.288 7.624C6.858 4.755 7.634 2.878 9.786 0.75c2.079 2.157 2.831 3.965 3.498 6.874H6.287Z" stroke-width="1"></path>
+    <path id="Intersect" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.921 0.793a29.667 29.667 0 0 0 -4.164 0.07c-0.954 0.08 -1.686 0.865 -1.762 1.82C0.885 4.076 0.769 5.52 0.769 7s0.115 2.924 0.226 4.317c0.076 0.955 0.808 1.74 1.762 1.82 1.768 0.15 3.4 0.15 5.167 0 0.955 -0.08 1.687 -0.865 1.763 -1.82 0.033 -0.425 0.067 -0.854 0.099 -1.288" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.556 7.624H6.288C6.858 4.755 7.634 2.878 9.786 0.75c2.079 2.157 2.831 3.965 3.498 6.874H12.14" stroke-width="1"></path>
+    <path id="Vector 501" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m9.786 4.187 0 1.4" stroke-width="1"></path>
+    <path id="Vector 502" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m9.786 7.382 0 0.242" stroke-width="1"></path>
+    <path id="Vector 405" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.84 11.465 -1 0" stroke-width="1"></path>
+  </g>
+</svg>

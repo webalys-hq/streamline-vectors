@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Diamond-1--Streamline-Flex-Gradient">
+  <desc>
+    Diamond 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="diamond-1--diamond-money-payment-finance-wealth-jewelry">
+    <path id="Union" fill="url(#paint0_linear_9380_1940)" fill-rule="evenodd" d="m3.82373 1.08118 3.17703 3.08551 3.17704-3.08551H3.82373ZM0 4.40809c.579517-1.26725 1.59665-2.49826 2.36866-3.11836.03059.08465.08038.16383.14929.23076l2.97324 2.8876H0Zm14.0001.00002H8.51025l2.97325-2.8876c.0687-.0667.1184-.14559.149-.22992.7719.62038 1.7883 1.85085 2.3676 3.11752ZM.112793 5.63293C1.16532 7.30853 3.64543 10.4616 6.25986 12.8192c.04079.0368.08371.07.12834.0996V5.63293H.112793ZM7.61279 12.9183V5.63293h6.27461c-1.0525 1.6756-3.5326 4.82867-6.14711 7.18627-.04054.0366-.08317.0696-.1275.0991Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_1940" x1="2.383" x2="12.597" y1="3.342" y2="9.945" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

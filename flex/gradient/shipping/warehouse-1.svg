@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warehouse-1--Streamline-Flex-Gradient">
+  <desc>
+    Warehouse 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warehouse-1--delivery-warehouse-shipping-fulfillment">
+    <path id="Subtract" fill="url(#paint0_linear_9380_3347)" fill-rule="evenodd" d="M6.5237.331921c.30825-.109228.64442-.109228.95267 0C9.65698 1.10462 11.6745 2.39119 12.6523 3.11348c.2608.19264.4471.46851.5279.78352.6501 2.53637.6242 6.06663.4992 8.0974-.0432.702-.5765 1.2665-1.2696 1.3553-1.1539.1479-3.41184.4003-5.40977.4003-1.99792 0-4.25586-.2524-5.40977-.4003-.693131-.0888-1.226397-.6533-1.269605-1.3553C.19566 9.96363.1698 6.43337.819919 3.897c.080743-.31501.267011-.59088.527801-.78352.97784-.72229 2.99537-2.00886 5.17598-2.781559ZM5.25 6v1.5c0 .55228.44772 1 1 1h1.5c.55228 0 1-.44772 1-1V6c0-.55228-.44772-1-1-1h-1.5c-.55228 0-1 .44772-1 1ZM3 11.5V10c0-.55228.44772-1 1-1h1.5c.55228 0 1 .44771 1 1v1.5c0 .5523-.44772 1-1 1H4c-.55228 0-1-.4477-1-1ZM7.5 10v1.5c0 .5523.44772 1 1 1H10c.5523 0 1-.4477 1-1V10c0-.55229-.4477-1-1-1H8.5c-.55228 0-1 .44772-1 1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_3347" x1="2.457" x2="13.36" y1="2.846" y2="8.887" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Drone--Streamline-Flex-Neon">
+  <desc>
+    Drone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="drone--artificial-robotics-intelligence-machine-technology-android-flying">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.99234 13.2499h-0.35353c-0.53348 0 -0.96596 -0.4325 -0.96596 -0.966v0c-0.00065 -0.6111 0.12754 -1.2154 0.37615 -1.7732 0.2037 -0.4569 0.48445 -0.87417 0.82909 -1.2336" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.0078 13.2498h0.3538c0.5335 0 0.966 -0.4324 0.966 -0.9659v0c0.0006 -0.6111 -0.1276 -1.2154 -0.3762 -1.7732 -0.2051 -0.4603 -0.4885 -0.88023 -0.8365 -1.24141" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.75 0.75h3.84637" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.40332 0.75h3.84638" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.67285 0.75v3.2288" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.3271 0.75v3.2288" stroke-width="1"></path>
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.76998 7.71606c-0.01017 0.14873 -0.01607 0.29853 -0.01607 0.44929 0 0.22843 0.01356 0.45464 0.03496 0.67828 0.09225 0.964 0.91703 1.71997 1.87849 1.79107 0.43655 0.0323 0.88161 0.056 1.33341 0.056s0.89686 -0.0237 1.33341 -0.056c0.96146 -0.0711 1.78622 -0.82707 1.87852 -1.79107 0.0214 -0.22364 0.0349 -0.44985 0.0349 -0.67828 0 -0.15076 -0.0059 -0.30056 -0.016 -0.44929" stroke-width="1"></path>
+    <path id="Subtract" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1.86577 4.03123c-0.5231 0.03762 -0.929667 0.47414 -0.86747 0.99489 0.04715 0.39476 0.11647 0.78727 0.18884 1.14832 0.14018 0.69932 0.73687 1.22808 1.44559 1.27305 0.12285 0.00779 0.24614 0.01569 0.36987 0.02362 1.28976 0.08265 2.62678 0.16832 3.99707 0.16832 1.37029 0 2.70732 -0.08567 3.99703 -0.16832 0.1238 -0.00793 0.2471 -0.01583 0.3699 -0.02362 0.7087 -0.04497 1.3054 -0.57373 1.4456 -1.27305 0.0762 -0.38022 0.1489 -0.76792 0.196 -1.16079 0.0618 -0.51546 -0.3446 -0.94425 -0.8624 -0.98149l-1.56 -0.11219c-2.38786 -0.17172 -4.78497 -0.17172 -7.17282 0l-1.54721 0.11126Z" stroke-width="1"></path>
+  </g>
+</svg>

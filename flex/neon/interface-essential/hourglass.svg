@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hourglass--Streamline-Flex-Neon">
+  <desc>
+    Hourglass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hourglass--hourglass-loading-measure-clock-time">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10.0295 8.02513C9.22626 7.36875 8.13688 7 7.00098 7s-2.22528 0.36875 -3.02849 1.02513C2.00357 9.63412 3.05439 11.5994 3.63582 13.5h6.73028c0.5815 -1.9006 1.6323 -3.86588 -0.3366 -5.47487Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10.0295 5.97487C9.22626 6.63125 8.13688 7 7.00098 7S4.7757 6.63125 3.97249 5.97487C2.00357 4.36588 3.05439 2.40058 3.63582 0.5h6.73028c0.5815 1.90058 1.6323 3.86588 -0.3366 5.47487Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.49878 0.5H12.501" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.49878 13.5H12.501" stroke-width="1"></path>
+  </g>
+</svg>

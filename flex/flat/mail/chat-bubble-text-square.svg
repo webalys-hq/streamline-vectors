@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Text-Square--Streamline-Flex">
+  <desc>
+    Chat Bubble Text Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-text-square--messages-message-bubble-text-square-chat">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.25 0.25c-1.337 0 -2.787 0.118 -4.099 0.267a2.43 2.43 0 0 0 -2.14 2.152C0.868 3.972 0.75 5.42 0.75 6.75c0 1.073 0.077 2.223 0.181 3.312l-0.67 3.082a0.5 0.5 0 0 0 0.605 0.592l2.88 -0.685c1.146 0.115 2.366 0.199 3.504 0.199 1.337 0 2.787 -0.116 4.1 -0.263a2.427 2.427 0 0 0 2.14 -2.152c0.143 -1.305 0.26 -2.755 0.26 -4.085s-0.117 -2.777 -0.26 -4.08A2.429 2.429 0 0 0 11.35 0.516C10.039 0.368 8.588 0.25 7.25 0.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M4.813 4.875a0.625 0.625 0 1 0 0 1.25h4.875a0.625 0.625 0 1 0 0 -1.25H4.811Zm0 3a0.625 0.625 0 1 0 0 1.25H8.5a0.625 0.625 0 1 0 0 -1.25H4.812Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

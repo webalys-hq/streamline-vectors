@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Street-Road--Streamline-Flex">
+  <desc>
+    Street Road Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="street-road">
+    <path id="Vector" fill="#d7e0ff" d="m1.57524 10.8983 -0.74858 2.1811H13.1729l-0.7486 -2.1811c-0.8889 -2.58997 -1.4708 -5.27524 -1.7338 -8.0008L10.4998 0.920532H3.49969L3.30897 2.8975c-0.26296 2.72556 -0.84484 5.41083 -1.73373 8.0008Z" stroke-width="1"></path>
+    <path id="Vector 677" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m0.827148 13.0794 0.748582 -2.1811c0.88889 -2.58995 1.47077 -5.27523 1.73372 -8.00078L3.50018 0.920549" stroke-width="1"></path>
+    <path id="Vector 678" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m13.1729 13.0794 -0.7486 -2.1811c-0.8889 -2.58995 -1.4708 -5.27523 -1.7338 -8.00078L10.4998 0.920549" stroke-width="1"></path>
+    <path id="Vector 691" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 1.75v1.5" stroke-width="1"></path>
+    <path id="Vector 692" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 6.25v1.5" stroke-width="1"></path>
+    <path id="Vector 693" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 10.75v1.5" stroke-width="1"></path>
+  </g>
+</svg>

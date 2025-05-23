@@ -1,0 +1,9 @@
+<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" id="Pie-Chart--Streamline-Flex">
+  <desc>
+    Pie Chart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pie-chart--product-data-analysis-analytics-pie-business-chart">
+    <path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M7 0.25c-2.092 0 -3.797 0.59 -4.979 1.771C0.84 3.203 0.25 4.908 0.25 7s0.59 3.797 1.771 4.979C3.203 13.16 4.908 13.75 7 13.75s3.797 -0.59 4.979 -1.771C13.16 10.797 13.75 9.092 13.75 7s-0.59 -3.797 -1.771 -4.979C10.797 0.84 9.092 0.25 7 0.25Z" fill="#8fbffa" stroke-width="1"></path>
+    <path id="Intersect" fill-rule="evenodd" clip-rule="evenodd" d="M7 0.25v5.675a2 2 0 0 0 0.897 1.668l4.94 3.265c0.609 -1.053 0.913 -2.356 0.913 -3.858 0 -2.092 -0.59 -3.797 -1.771 -4.979C10.797 0.84 9.092 0.25 7 0.25Z" fill="#2859c5" stroke-width="1"></path>
+  </g>
+</svg>

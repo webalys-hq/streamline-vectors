@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Color-Picker--Streamline-Flex">
+  <desc>
+    Color Picker Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="color-picker--color-colors-design-dropper-eye-eyedrop-eyedropper-painting-picker">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="m5.226 4.818 3.959 3.959c-0.464 0.614 -1.349 1.756 -2.002 2.41 -0.476 0.476 -1.07 0.934 -1.535 1.266 -0.49 0.35 -1.082 0.514 -1.683 0.513l-0.431 -0.002a1.26 1.26 0 0 0 -0.896 0.37 1.261 1.261 0 0 1 -1.784 0l-0.188 -0.189a1.261 1.261 0 0 1 0 -1.783c0.238 -0.238 0.37 -0.56 0.37 -0.896l-0.002 -0.418c-0.002 -0.61 0.168 -1.21 0.53 -1.701 0.327 -0.446 0.778 -1.015 1.271 -1.508 0.692 -0.691 1.795 -1.562 2.391 -2.02Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M12.665 1.336a3.545 3.545 0 0 0 -5.014 0l-0.442 0.442a0.045 0.045 0 0 1 -0.063 0 1.59 1.59 0 0 0 -2.248 0l-0.116 0.116a1.754 1.754 0 0 0 0 2.48l4.845 4.845a1.754 1.754 0 0 0 2.48 0l0.116 -0.117a1.59 1.59 0 0 0 0 -2.248 0.045 0.045 0 0 1 0 -0.063l0.442 -0.442a3.545 3.545 0 0 0 0 -5.013Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

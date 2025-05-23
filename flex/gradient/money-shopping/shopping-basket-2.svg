@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Basket-2--Streamline-Flex-Gradient">
+  <desc>
+    Shopping Basket 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-basket-2--shopping-basket">
+    <path id="Union" fill="url(#paint0_linear_9380_2269)" fill-rule="evenodd" d="M5.82708.362187c.35298.216733.46344.678583.24671 1.031573L4.03192 4.71929h5.93624L7.92629 1.39376C7.70956 1.04077 7.82001.57892 8.173.362187c.35299-.216732.81484-.106277 1.03157.24671L11.7283 4.71929h.4896c.8606 0 1.5785.71616 1.5298 1.62154-.0708 1.31332-.26 3.37497-.6748 5.19417-.2299 1.0085-.9771 1.8205-2.0382 1.9772-.8773.1295-2.18893.2365-4.0347.2365s-3.15738-.107-4.0347-.2365c-1.06108-.1567-1.80829-.9687-2.038232-1.9772C.512284 9.7158.323103 7.65415.252348 6.34083.20357 5.43545.921541 4.71929 1.78208 4.71929h.48966L4.79551.608897c.21673-.352987.67858-.463442 1.03157-.24671Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2269" x1="2.457" x2="13.359" y1="2.847" y2="8.889" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

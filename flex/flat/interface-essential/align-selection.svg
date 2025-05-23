@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Align-Selection--Streamline-Flex">
+  <desc>
+    Align Selection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="align-selection">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.25 1.75c-0.27614 0 -0.5 0.22386 -0.5 0.5v9.5c0 0.2761 0.22386 0.5 0.5 0.5h9.5c0.2761 0 0.5 -0.2239 0.5 -0.5v-9.5c0 -0.27614 -0.2239 -0.5 -0.5 -0.5h-9.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M2.23437 4.03125C3.36437 4.03125 4 3.39562 4 2.26562S3.36437 0.5 2.23437 0.5 0.46875 1.13562 0.46875 2.26562s0.63562 1.76563 1.76562 1.76563Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#2859c5" d="M11.7344 4.03125c1.13 0 1.7656 -0.63563 1.7656 -1.76563S12.8644 0.5 11.7344 0.5s-1.76565 0.63562 -1.76565 1.76562 0.63565 1.76563 1.76565 1.76563Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#2859c5" d="M2.23437 13.5C3.36437 13.5 4 12.8644 4 11.7344s-0.63563 -1.76565 -1.76563 -1.76565S0.46875 10.6044 0.46875 11.7344 1.10437 13.5 2.23437 13.5Z" stroke-width="1"></path>
+    <path id="Vector_4" fill="#2859c5" d="M11.7344 13.5c1.13 0 1.7656 -0.6356 1.7656 -1.7656s-0.6356 -1.76565 -1.7656 -1.76565 -1.76565 0.63565 -1.76565 1.76565S10.6044 13.5 11.7344 13.5Z" stroke-width="1"></path>
+  </g>
+</svg>

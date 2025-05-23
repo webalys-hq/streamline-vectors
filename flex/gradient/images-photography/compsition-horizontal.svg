@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Compsition-Horizontal--Streamline-Flex-Gradient">
+  <desc>
+    Compsition Horizontal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="compsition-horizontal--camera-horizontal-panorama-composition-photography-photo-pictures 1">
+    <path id="Union" fill="url(#paint0_linear_9380_1528)" d="M13.8451 12.0275c.2065-3.36523.2065-6.6897 0-10.05499-.051-.83069-.9921-1.276396-1.6529-.74237C11.1364 2.08325 9.4273 3.2092 7 3.2092S2.86357 2.08325 1.80783 1.23014C1.14696.696113.205884 1.14182.154902 1.97251-.0516338 5.3378-.0516339 8.66227.154901 12.0275c.050983.8307.992049 1.2764 1.652929.7424C2.86357 11.9168 4.5727 10.7908 7 10.7908s4.1364 1.126 5.1922 1.9791c.6608.534 1.6019.0883 1.6529-.7424Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_1528" x1="13.953" x2="-1.305" y1="13.005" y2="2.994" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

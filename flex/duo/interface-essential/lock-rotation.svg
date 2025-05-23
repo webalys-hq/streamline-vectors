@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lock-Rotation--Streamline-Flex">
+  <desc>
+    Lock Rotation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lock-rotation">
+    <path id="Ellipse 43" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 3.683c-0.835 0 -1.512 0.677 -1.512 1.511v1.798h3.023V5.194c0 -0.834 -0.676 -1.511 -1.511 -1.511Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#d7e0ff" d="M4.779 8.924a0.91 0.91 0 0 0 0.873 0.883c0.81 0.032 1.886 0.032 2.696 0a0.91 0.91 0 0 0 0.874 -0.883c0.021 -0.563 0.021 -1.113 0 -1.676a0.91 0.91 0 0 0 -0.874 -0.883 38.617 38.617 0 0 0 -2.696 0 0.91 0.91 0 0 0 -0.873 0.883 21.895 21.895 0 0 0 0 1.676Z" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.779 8.924a0.91 0.91 0 0 0 0.873 0.883c0.81 0.032 1.886 0.032 2.696 0a0.91 0.91 0 0 0 0.874 -0.883c0.021 -0.563 0.021 -1.113 0 -1.676a0.91 0.91 0 0 0 -0.874 -0.883 38.617 38.617 0 0 0 -2.696 0 0.91 0.91 0 0 0 -0.873 0.883 21.895 21.895 0 0 0 0 1.676Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.689 7.738c-0.305 3.11 -2.31 4.84 -5.663 4.84 -3.65 0 -5.703 -2.052 -5.703 -5.702s2.053 -5.704 5.703 -5.704c2.922 0 4.82 1.316 5.462 3.712m0 0 0.02 0.075 -0.02 -0.075Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.217 3.085c0.13 0.748 -0.065 1.4 -0.586 1.953 -0.749 0.13 -1.4 -0.066 -1.953 -0.587" stroke-width="1"></path>
+  </g>
+</svg>

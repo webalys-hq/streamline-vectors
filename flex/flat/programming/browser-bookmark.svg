@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Bookmark--Streamline-Flex">
+  <desc>
+    Browser Bookmark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-bookmark--app-code-apps-window-bookmark">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0C5.837 0 4.706 0.106 3.63 0.226A3.882 3.882 0 0 0 0.214 3.652C0.1 4.722 0 5.846 0 7s0.1 2.278 0.214 3.348a3.882 3.882 0 0 0 3.416 3.426C4.706 13.894 5.837 14 7 14c1.163 0 2.294 -0.106 3.37 -0.226a3.882 3.882 0 0 0 3.416 -3.426C13.9 9.278 14 8.154 14 7s-0.1 -2.278 -0.214 -3.348A3.882 3.882 0 0 0 10.37 0.226C9.294 0.106 8.163 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M7 0C5.837 0 4.706 0.106 3.63 0.226A3.882 3.882 0 0 0 0.216 3.633h13.568A3.882 3.882 0 0 0 10.37 0.226C9.296 0.106 8.163 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect_2" fill="#2859c5" d="M6.654 8.961c0.486 -0.087 0.987 -0.301 1.5 -0.65 0.512 0.349 1.013 0.563 1.499 0.65 0.472 0.085 0.848 -0.32 0.888 -0.799 0.061 -0.738 0.127 -1.504 0.127 -2.29 0 -0.765 -0.062 -1.511 -0.122 -2.231l-0.001 -0.008H5.762l-0.001 0.008c-0.06 0.72 -0.122 1.466 -0.122 2.23 0 0.787 0.065 1.553 0.127 2.291 0.04 0.479 0.416 0.884 0.888 0.8Z" stroke-width="1"></path>
+  </g>
+</svg>

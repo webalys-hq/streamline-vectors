@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Investing-And-Banking--Streamline-Flex-Gradient">
+  <desc>
+    Investing And Banking Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="investing-and-banking">
+    <path id="Union" fill="url(#paint0_linear_9380_2104)" fill-rule="evenodd" d="M9.29752 1.36006c0-1.4271198 4.82318 1.73538 4.69898 3.42598.1408 1.63298-4.69898 4.77295-4.69898 3.37464V6.50152c-.84909.0096-1.68984-.00233-2.55965-.03581-.49616-.0191-.91091-.38405-.9504-.86953-.04571-.56188-.04571-1.10973 0-1.67161.03949-.48548.45425-.85043.9504-.86953.86981-.03348 1.71056-.04541 2.55965-.03581V1.36006Zm-4.596 4.48975c0-1.42713-4.823169 1.73538-4.69899532 3.42598C-.13826 10.9088 4.70152 14.0487 4.70152 12.6504v-1.6591c.8491.0096 1.68985-.0024 2.55966-.0358.49615-.0191.91091-.3841.9504-.8696.04571-.56185.04571-1.10971 0-1.67159-.03949-.48548-.45425-.85043-.9504-.86952-.86981-.03348-1.71056-.04542-2.55966-.03581V5.84981Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2104" x1=".537" x2="15.216" y1="1.97" y2="11.622" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

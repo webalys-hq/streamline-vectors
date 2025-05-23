@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Earpods--Streamline-Flex-Gradient">
+  <desc>
+    Earpods Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="earpods--airpods-audio-earpods-music-earbuds-true-wireless-entertainment 1">
+    <path id="Union" fill="url(#paint0_linear_9380_2960)" fill-rule="evenodd" d="M2.15005.25C4.45631.25 6.26078 2.26401 6.25 4.65082v6.98278c0 1.133-.86091 2.1164-2 2.1164s-2-.9834-2-2.1164V7.39091c-.03323.00085-.06655.00128-.09995.00128-.06022 0-.12017-.00139-.17982-.00414C.804291 7.33422.25 6.21794.25 5.30096V2.34123C.25 1.42425.804291.307974 1.97023.254144 2.02988.25139 2.08983.25 2.15005.25ZM7.7501 4.65082C7.73932 2.26401 9.54379.25 11.85.25c.0603 0 .1202.00139.1799.004144 1.1659.05383 1.7202 1.170106 1.7202 2.087086v2.95973c0 .91698-.5543 2.03326-1.7202 2.08709-.0597.00275-.1196.00414-.1799.00414-.0334 0-.0667-.00043-.0999-.00128v4.24269c0 1.133-.8609 2.1164-2 2.1164s-2-.9834-2-2.1164V4.65082Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2960" x1="2.457" x2="13.36" y1="2.846" y2="8.888" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blank-Calendar--Streamline-Flex-Gradient">
+  <desc>
+    Blank Calendar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="blank-calendar--blank-calendar-date-day-month-empty">
+    <path id="Subtract" fill="url(#paint0_linear_9371_4795)" fill-rule="evenodd" d="M5.00195 1c0-.414214-.33578-.75-.75-.75-.41421 0-.75.335786-.75.75v.69431C1.88781 1.88696.610566 3.16786.426164 4.76726c-.009525.08261-.018664.16473-.027416.24641H13.6013c-.0088-.08168-.0179-.1638-.0275-.24641-.1844-1.5994-1.4616-2.8803-3.0758-3.07295V1c0-.414214-.3357-.75-.74995-.75-.41422 0-.75.335786-.75.75v.62662C8.35474 1.60863 7.69369 1.59943 7 1.59943c-.69369 0-1.35474.0092-1.99805.02719V1Zm8.70495 5.26367H.293144c-.086883 1.4391-.042543 2.79627.13302 4.31903.194014 1.6827 1.597746 3.0129 3.330806 3.0941 1.03662.0485 2.09514.0737 3.24303.0737 1.14789 0 2.20641-.0252 3.243-.0737 1.7331-.0812 3.1368-1.4114 3.3308-3.0941.1756-1.52276.2199-2.87993.1331-4.31903Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_4795" x1="13.704" x2="-2.283" y1="13.753" y2="4.76" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Network--Streamline-Flex-Neon">
+  <desc>
+    Network Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="network--network-server-internet-ethernet-connection">
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25c3.04 0 4.75 -1.71 4.75 -4.75S10.04 0.75 7 0.75 2.25 2.46 2.25 5.5 3.96 10.25 7 10.25Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25v3" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m4.73584 13.25 4.52792 0" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.75 13.25h1.5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.75 13.25h1.5" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.25 5.50015c3.18096 -0.27494 6.31904 -0.27494 9.5 0" stroke-width="1"></path>
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.71896 10.1351c0.39602 0.0762 0.82346 0.1149 1.28104 0.1149 0.45768 0 0.88522 -0.0388 1.28131 -0.115 0.35087 -1.39873 0.55776 -3.20104 0.60665 -4.63486 -0.0489 -1.43392 -0.25581 -3.23636 -0.60673 -4.635174C7.88516 0.788754 7.45765 0.75 7 0.75c-0.45755 0 -0.88497 0.038736 -1.28096 0.114914C5.36811 2.26373 5.1612 4.0662 5.1123 5.50014c0.04889 1.43383 0.25578 3.23618 0.60666 4.63496Z" stroke-width="1"></path>
+  </g>
+</svg>

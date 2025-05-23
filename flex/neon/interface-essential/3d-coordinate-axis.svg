@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="3d-Coordinate-Axis--Streamline-Flex-Neon">
+  <desc>
+    3D Coordinate Axis Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="3d-coordinate-axis">
+    <path id="Vector 7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.99999 6.08693 7 1" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.20365 2.6261C5.64596 1.95869 6.32287 1.33845 6.99981 1c0.67688 0.33845 1.35378 0.95869 1.79609 1.6261" stroke-width="1"></path>
+    <path id="Vector 837" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m9.06112 9.69896 4.43208 2.55884" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12.9836 9.88904c0.3569 0.71676 0.5555 1.61306 0.5102 2.36856 -0.6316 0.417 -1.5071 0.6931 -2.3063 0.7424" stroke-width="1"></path>
+    <path id="Vector 839" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.93888 9.69896 0.506836 12.2578" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1.01656 9.88904C0.659718 10.6058 0.461036 11.5021 0.506393 12.2576c0.631547 0.417 1.507137 0.6931 2.306297 0.7424" stroke-width="1"></path>
+    <path id="Vector 843" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.93848 9.69443V7.11772l2.06137 -1.03068 2.06137 1.03068v2.57671L6.99985 10.7251 4.93848 9.69443Z" stroke-width="1"></path>
+  </g>
+</svg>

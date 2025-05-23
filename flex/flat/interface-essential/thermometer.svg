@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Thermometer--Streamline-Flex">
+  <desc>
+    Thermometer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.25a2.5 2.5 0 0 0 -2.5 2.5v4.455a3.75 3.75 0 1 0 5 0V2.75A2.5 2.5 0 0 0 7 0.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M7 11.573c0.96 0 1.5 -0.54 1.5 -1.5s-0.54 -1.5 -1.5 -1.5 -1.5 0.54 -1.5 1.5 0.54 1.5 1.5 1.5Z" stroke-width="1"></path>
+  </g>
+</svg>

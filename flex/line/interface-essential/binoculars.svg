@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Binoculars--Streamline-Flex">
+  <desc>
+    Binoculars Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="binoculars--binocular-binoculars-view-zoom">
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.75021 6.49993c0 1.19494.03507 2.83414.0244 4.17217m-.2119-7.26592c-.00996-.18708-.03369-.44102-.06183-.71678C5.40697 1.76913 4.728.915146 3.81162.788801 3.63656.764665 3.45977.749922 3.28146.749922c-.17832 0-.35511.014743-.53017.038879-.91638.126345-1.56901.981569-1.6213 1.905149C.985424 5.24772.767145 8.1723.786342 10.6721"></path>
+    <path id="Ellipse 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M.781 10.719a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0-5 0"></path>
+    <path id="Intersect_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.28104 6.50003c0 1.2016-.03546 2.85243-.02421 4.19457m.21171-7.28832c.00996-.18709.03369-.44102.06183-.71678.09391-.92028.77288-1.774258 1.68923-1.900603.1751-.024135.3519-.038879.5302-.038879.1783 0 .3551.014744.5302.038879.9163.126345 1.569.981563 1.6213 1.905133.145 2.5614.3641 5.49582.3434 8.00057"></path>
+    <path id="Ellipse 3_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" transform="matrix(-1 0 0 1 13.25 8.219)" d="M0 2.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0-5 0"></path>
+    <path id="Intersect_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.51213 4.23008c-1.70572-1.14011-3.31813-1.14011-5.02385 0"></path>
+  </g>
+</svg>

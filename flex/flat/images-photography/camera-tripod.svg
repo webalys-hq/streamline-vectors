@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Tripod--Streamline-Flex">
+  <desc>
+    Camera Tripod Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-tripod--tripod-photos-picture-camera-photography-photo-pictures">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.18c-1.877 0 -3.417 0.148 -4.447 0.298A2.128 2.128 0 0 0 0.75 2.207 17.06 17.06 0 0 0 0.5 5.18c0 1.055 0.087 2.073 0.25 2.974a2.128 2.128 0 0 0 1.803 1.729c1.03 0.15 2.57 0.297 4.447 0.297 1.877 0 3.417 -0.147 4.447 -0.297a2.129 2.129 0 0 0 1.804 -1.729c0.162 -0.901 0.249 -1.92 0.249 -2.974 0 -1.054 -0.087 -2.072 -0.25 -2.973A2.129 2.129 0 0 0 11.448 0.478 31.532 31.532 0 0 0 7 0.18Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M5.173 10.133a34.977 34.977 0 0 0 3.654 0l2.879 2.202a0.75 0.75 0 1 1 -0.912 1.191L7.75 11.198v1.732a0.75 0.75 0 0 1 -1.5 0v-1.732l-3.044 2.328a0.75 0.75 0 0 1 -0.912 -1.191l2.88 -2.202Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M7 7.438c1.44 0 2.25 -0.81 2.25 -2.25S8.44 2.938 7 2.938s-2.25 0.81 -2.25 2.25 0.81 2.25 2.25 2.25Z" stroke-width="1"></path>
+  </g>
+</svg>

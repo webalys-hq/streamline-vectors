@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crown--Streamline-Flex-Gradient">
+  <desc>
+    Crown Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="crown--reward-social-rating-media-queen-vip-king-crown">
+    <path id="Union" fill="url(#paint0_linear_9371_5244)" fill-rule="evenodd" d="M8.01653 1.49693c-.52943-.663061-1.50411-.663061-2.03354 0-.77146.96618-1.76917 2.54281-2.43644 4.3523L1.83344 4.26439c-.52178-.48271-1.440806-.28994-1.605472.48985-.409649 1.93991-.1905096 4.04525.060555 5.46386.229518 1.2968 1.266307 2.2576 2.547077 2.456 2.80712.435 5.52171.4349 8.3288-.0001 1.2807-.1984 2.3175-1.1592 2.547-2.456.2511-1.41861.4702-3.52397.0606-5.46391-.1647-.77978-1.0837-.97255-1.6055-.48985L10.453 5.84942c-.66723-1.80957-1.66498-3.38628-2.43647-4.35249Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_5244" x1="2.288" x2="12.712" y1="3.307" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

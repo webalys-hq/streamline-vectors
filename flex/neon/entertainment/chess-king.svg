@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chess-King--Streamline-Flex-Neon">
+  <desc>
+    Chess King Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-king">
+    <path id="Vector 435" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m7 3.5 0 -3" stroke-width="1"></path>
+    <path id="Vector 436" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m6.00401 1.49585 1.9916 0" stroke-width="1"></path>
+    <path id="Subtract" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.14261 10.7649c0.3502 -1.32327 0.79033 -2.98802 0.84573 -3.20539 0.00375 -0.01472 0.00768 -0.02941 0.01179 -0.04407 -0.66288 -0.31617 -1.12562 -1.0334 -1.12562 -1.86757v-1.1184c0 -0.46774 0.32582 -0.86584 0.79079 -0.91672C5.18348 3.55606 5.959 3.5 6.99976 3.5c1.04077 0 1.81629 0.05606 2.33447 0.11275 0.46496 0.05088 0.79077 0.44898 0.79077 0.91672v1.1184c0 0.83438 -0.46296 1.55177 -1.12611 1.86781 0.00408 0.01458 0.008 0.02919 0.01173 0.04383 0.0554 0.21739 0.49552 1.88206 0.84574 3.20539" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.57168 12.6523c0.08832 0.3549 0.41736 0.5837 0.78152 0.6176 3.30159 0.3069 5.99193 0.3069 9.2935 0 0.3642 -0.0339 0.6932 -0.2627 0.7815 -0.6176 0.0969 -0.3892 0.0969 -0.741 0 -1.1303 -0.0883 -0.3549 -0.4173 -0.5837 -0.7815 -0.6175 -3.30157 -0.3069 -5.99191 -0.3069 -9.2935 0 -0.36416 0.0338 -0.6932 0.2626 -0.78152 0.6175 -0.09687 0.3893 -0.09687 0.7411 0 1.1303Z" stroke-width="1"></path>
+  </g>
+</svg>

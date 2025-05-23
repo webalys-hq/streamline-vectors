@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Spiral-Shape--Streamline-Flex">
+  <desc>
+    Spiral Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="spiral-shape">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.45762 7c0 0.9323 -0.52441 1.45671 -1.45671 1.45671 -0.9323 0 -1.45671 -0.52441 -1.45671 -1.45671" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.45763 6.99998c0 -1.68132 -0.94574 -2.62706 -2.62705 -2.62706 -1.68132 0 -2.62706 0.94574 -2.62706 2.62706" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.8754 7c0 2.45501 -1.38092 3.836 -3.83593 3.836 -2.45501 0 -3.83595 -1.38099 -3.83595 -3.836" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.8755 7.00004c0 -3.20784 -1.80445 -5.01225 -5.01229 -5.01225 -3.20783 0 -5.012243 1.80441 -5.012243 5.01225" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.2093 7c0 3.9547 -2.2245 6.1792 -6.17917 6.1792C3.07547 13.1792 0.850967 10.9547 0.850967 7" stroke-width="1"></path>
+  </g>
+</svg>

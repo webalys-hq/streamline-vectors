@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hospital-Sign--Streamline-Flex">
+  <desc>
+    Hospital Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hospital-sign--health-sign-medical-symbol-hospital-square">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.69 0.974a0.75 0.75 0 0 0 -1.5 0v12.052a0.75 0.75 0 1 0 1.5 0l0 -12.052Zm3.759 9.548a2.26 2.26 0 0 1 -1.982 -1.986c-0.109 -0.984 -0.208 -2 -0.208 -3.036 0 -1.037 0.1 -2.051 0.208 -3.036A2.26 2.26 0 0 1 5.449 0.478c0.99 -0.114 2.01 -0.22 3.051 -0.22 1.043 0 2.063 0.106 3.052 0.22a2.26 2.26 0 0 1 1.982 1.986c0.108 0.985 0.208 2 0.208 3.036 0 1.037 -0.1 2.052 -0.208 3.036a2.26 2.26 0 0 1 -1.982 1.986c-0.99 0.114 -2.01 0.22 -3.052 0.22 -1.042 0 -2.062 -0.106 -3.051 -0.22Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M1.69 3.25v-1.5h1.98c-0.105 0.22 -0.175 0.461 -0.203 0.714 -0.029 0.26 -0.057 0.522 -0.082 0.786H1.69Zm0 6v-1.5h1.695c0.025 0.264 0.053 0.526 0.082 0.786 0.028 0.253 0.098 0.493 0.204 0.714H1.69Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M9.125 3.566a0.625 0.625 0 0 0 -1.25 0v1.309h-1.31a0.625 0.625 0 1 0 0 1.25h1.31v1.31a0.625 0.625 0 0 0 1.25 0v-1.31h1.31a0.625 0.625 0 0 0 0 -1.25h-1.31v-1.31Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

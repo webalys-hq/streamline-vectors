@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Dashboard--Streamline-Flex">
+  <desc>
+    Browser Dashboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-dashboard--app-code-apps-window-dashboard-performance">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0C5.837 0 4.706 0.106 3.63 0.226A3.882 3.882 0 0 0 0.214 3.652C0.1 4.722 0 5.846 0 7s0.1 2.278 0.214 3.348a3.882 3.882 0 0 0 3.416 3.426C4.706 13.894 5.837 14 7 14c1.163 0 2.294 -0.106 3.37 -0.226a3.882 3.882 0 0 0 3.416 -3.426C13.9 9.278 14 8.154 14 7s-0.1 -2.278 -0.214 -3.348A3.882 3.882 0 0 0 10.37 0.226C9.294 0.106 8.163 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M7 0C5.837 0 4.706 0.106 3.63 0.226A3.882 3.882 0 0 0 0.216 3.633h13.568A3.882 3.882 0 0 0 10.37 0.226C9.296 0.106 8.163 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M10.725 7.37a0.75 0.75 0 1 0 -1.305 -0.74L7.894 9.315a4.776 4.776 0 0 0 -5.625 4.04c0.415 0.218 0.875 0.364 1.36 0.418C4.705 13.894 5.837 14 7 14c1.163 0 2.295 -0.106 3.371 -0.226 0.486 -0.054 0.945 -0.2 1.36 -0.418a4.779 4.779 0 0 0 -2.406 -3.52l1.4 -2.466Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

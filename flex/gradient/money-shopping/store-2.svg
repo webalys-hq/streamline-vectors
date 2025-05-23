@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Store-2--Streamline-Flex-Gradient">
+  <desc>
+    Store 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="store-2--store-shop-shops-stores">
+    <path id="Subtract" fill="url(#paint0_linear_9380_2350)" fill-rule="evenodd" d="M4.92308 6.9585c-.60612.36425-1.32208.56923-2.07693.56923-.65206 0-1.28662-.15858-1.84615-.44488V9.375h6.875V7.43393c-.28261.06158-.57575.0938-.875.0938-.75485 0-1.47081-.20498-2.07692-.56923Zm4.20192.02842V13.75H10.5c1.3807 0 2.5-1.1193 2.5-2.5V7.08285c-.5595.2863-1.1941.44488-1.8462.44488-.7349 0-1.43306-.19434-2.0288-.54081ZM1 11.25v-.625h6.875v3.125H3.5c-1.38071 0-2.5-1.1193-2.5-2.5Z" clip-rule="evenodd"></path>
+    <path id="Union" fill="url(#paint1_linear_9380_2350)" d="M2.84615 6.27773c.84926 0 1.60327-.36966 2.07693-.94115.47366.57149 1.22767.94115 2.07692.94115.84925 0 1.60326-.36966 2.07692-.94115.47366.57149 1.22768.94115 2.07688.94115 1.4339 0 2.5962-1.05367 2.5962-2.35344 0-.62758-.5192-2.58093-2.5962-3.334032-3.22258-.451624-5.04137-.455725-8.30765 0C.769231 1.34336.25 3.29671.25 3.92429c0 1.29977 1.16234 2.35344 2.59615 2.35344Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_2350" x1="12.959" x2="3.549" y1="13.751" y2="4.398" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+    <linearGradient id="paint1_linear_9380_2350" x1="13.704" x2="5.57" y1="6.279" y2="-3.969" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

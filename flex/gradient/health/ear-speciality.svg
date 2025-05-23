@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ear-Speciality--Streamline-Flex-Gradient">
+  <desc>
+    Ear Speciality Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ear-speciality--hearing-health-medical-ear-speciality">
+    <path id="Subtract" fill="url(#paint0_linear_9380_3399)" fill-rule="evenodd" d="M1.8457 5.17828C1.8457 2.32083 4.1509 0 6.99992 0c2.84903 0 5.15418 2.32083 5.15418 5.17828 0 1.44592-.5905 2.7546-1.5419 3.69383-.3511.34659-.5677.85123-.61863 1.38059C9.7996 12.269 8.08951 14 5.93006 14 3.67191 14 1.8457 12.1606 1.8457 9.89711V5.17828Zm3.97107.01956c0-.65349.52976-1.18325 1.18326-1.18325.65349 0 1.18325.52976 1.18325 1.18325 0 .34518.27982.625.625.625s.625-.27982.625-.625c0-1.34385-1.0894-2.43325-2.43325-2.43325-1.34385 0-2.43326 1.0894-2.43326 2.43325v2.00897c0 .34514.27976.62494.62489.625l.55429.0001c.42342 0 .78619.30317.86125.71988l.01969.10933c.0612.33971.38619.56549.7259.5043.33971-.06119.5655-.38619.50431-.7259l-.0197-.10932c-.17809-.98873-1.0229-1.71428-2.02063-1.74713V5.19784Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9380_3399" x1="12.119" x2="-1.598" y1="14.003" y2="8.321" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

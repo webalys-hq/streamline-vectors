@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Calendar-Mark--Streamline-Flex-Neon">
+  <desc>
+    Calendar Mark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="calendar-mark--calendar-date-day-month-mark">
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M0.922871 10.5518c0.165949 1.4252 1.369349 2.5569 2.857439 2.6259 1.02855 0.0476 2.07925 0.0724 3.21959 0.0724 1.14035 0 2.19104 -0.0248 3.2196 -0.0724 1.4881 -0.069 2.6915 -1.2007 2.8574 -2.6259 0.2305 -1.9796 0.2305 -3.66538 0 -5.64495 -0.1659 -1.42526 -1.3693 -2.55689 -2.8574 -2.62588 -1.02855 -0.04769 -2.07925 -0.07247 -3.2196 -0.07247 -1.14034 0 -2.19104 0.02478 -3.21959 0.07247 -1.48809 0.06899 -2.69149 1.20062 -2.857439 2.62588 -0.230495 1.97957 -0.230494 3.66535 0 5.64495Z" stroke-width="1"></path>
+    <path id="Line 3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m4.25195 0.75 0 2.75" stroke-width="1"></path>
+    <path id="Line 4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m9.74805 0.75 0 2.75" stroke-width="1"></path>
+    <path id="Union" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.25293 7.03394c-0.16 0 -0.25 -0.09 -0.25 -0.25s0.09 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.25488 7.03394c0.16 0 0.25 -0.09 0.25 -0.25s-0.09 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.25293 10.0339c-0.16 0 -0.25 -0.08996 -0.25 -0.24996 0 -0.16 0.09 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.25488 10.0339c0.16 0 0.25 -0.08996 0.25 -0.24996 0 -0.16 -0.09 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M6.99805 7.03394c-0.16 0 -0.25 -0.09 -0.25 -0.25s0.09 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 7.03394c0.16 0 0.25 -0.09 0.25 -0.25s-0.09 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M6.99805 10.0339c-0.16 0 -0.25 -0.08996 -0.25 -0.24996 0 -0.16 0.09 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 10.0339c0.16 0 0.25 -0.08996 0.25 -0.24996 0 -0.16 -0.09 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.74512 7.03394c-0.16 0 -0.25 -0.09 -0.25 -0.25s0.09 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Union_10" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.74707 7.03394c0.16 0 0.25 -0.09 0.25 -0.25s-0.09 -0.25 -0.25 -0.25" stroke-width="1"></path>
+  </g>
+</svg>

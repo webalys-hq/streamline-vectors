@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Presentation--Streamline-Flex-Neon">
+  <desc>
+    Presentation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="presentation">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 6.30103c-1.12 0 -1.75 -0.63 -1.75 -1.75s0.63 -1.75 1.75 -1.75 1.75 0.63 1.75 1.75 -0.63 1.75 -1.75 1.75Z" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.54033 9.07275c-0.58353 -0.77893 -1.50421 -1.28149 -2.54007 -1.28149s-1.95654 0.50256 -2.54007 1.28149c-0.34637 0.46235 -0.44662 1.04385 -0.46751 1.62465 2.01797 -0.2126 3.99718 -0.2126 6.01512 0.0001 -0.02085 -0.5809 -0.12109 -1.16238 -0.46747 -1.62475Z" stroke-width="1"></path>
+    <path id="Subtract_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m3.37423 13.4999 -0.23361 -2.7004c2.60015 -0.3487 5.11889 -0.3487 7.71898 0l-0.2336 2.7004" stroke-width="1"></path>
+    <path id="vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.9927 10.9727c-3.38626 -0.5795 -6.59816 -0.5795 -9.9844 0" stroke-width="1"></path>
+    <path id="Subtract_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.09512 8.18805c-0.55225 -0.29078 -0.94537 -0.84018 -1.00077 -1.49745 -0.1258 -1.49256 -0.1258 -2.88864 0 -4.3812 0.08021 -0.95158 0.8683 -1.677073 1.82234 -1.71896 2.74654 -0.120587 5.42008 -0.120587 8.16661 0 0.954 0.041887 1.7421 0.76738 1.8224 1.71896 0.1258 1.49256 0.1258 2.88864 0 4.3812 -0.0554 0.65727 -0.4486 1.20667 -1.0008 1.49745" stroke-width="1"></path>
+  </g>
+</svg>

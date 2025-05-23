@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Navigation-Arrow-North--Streamline-Flex-Gradient">
+  <desc>
+    Navigation Arrow North Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="navigation-arrow-north--compass-map-bearing-navigation-maps-heading-gps-up">
+    <path id="Vector (Stroke)" fill="url(#paint0_linear_9371_11020)" d="M8.60875 1.19404C11.5505 4.28446 13.0559 8.62371 13.7184 11.8192c.0979.4721-.0372.9394-.3355 1.2637-.3044.331-.7719.502-1.2735.3754-1.4894-.3762-2.86459-1.2948-3.84713-2.09-.49605-.4015-.90245-.7801-1.18538-1.0589-.02673-.0263-.05237-.0518-.0769-.0763-.02452.0245-.05016.05-.07689.0763-.28294.2788-.68934.6574-1.18538 1.0589-.98254.7952-2.35771 1.7138-3.84709 2.09-.50164.1266-.969187-.0444-1.273548-.3754-.298327-.3243-.433432-.7916-.335574-1.2637C.943974 8.62376 2.44883 4.2845 5.39052 1.19406c.88087-.925415 2.33735-.925406 3.21823-.00002Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_9371_11020" x1=".769" x2="15.87" y1="1.551" y2="10.389" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

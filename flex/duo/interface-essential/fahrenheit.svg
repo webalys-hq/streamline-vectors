@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fahrenheit--Streamline-Flex">
+  <desc>
+    Fahrenheit Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fahrenheit--degrees-temperature-fahrenheit-degree-weather">
+    <path id="Vector 2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.20435 13V1h5.99995" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.20435 6.5 4.99995 0" stroke-width="1"></path>
+    <path id="Vector" fill="#d7e0ff" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.74994 4.74988c1.27996 0 1.99994 -0.71998 1.99994 -1.99994S4.0299 0.75 2.74994 0.75 0.75 1.46998 0.75 2.74994s0.71998 1.99994 1.99994 1.99994Z" stroke-width="1"></path>
+  </g>
+</svg>

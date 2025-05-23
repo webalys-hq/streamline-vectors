@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Small-Caps--Streamline-Flex">
+  <desc>
+    Small Caps Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="small-caps">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.5 1.875c-0.69 0 -1.25 0.56 -1.25 1.25v0.882a0.75 0.75 0 0 0 1.5 0v-0.632H4l0 7.25h-0.917a0.75 0.75 0 0 0 0 1.5h3.334a0.75 0.75 0 0 0 0 -1.5H5.5l0 -7.25h2.25v0.632a0.75 0.75 0 0 0 1.5 0v-0.882c0 -0.69 -0.56 -1.25 -1.25 -1.25H1.5Zm7.5 4c-0.69 0 -1.25 0.56 -1.25 1.25v0.25a0.75 0.75 0 0 0 1.5 0H10v3.25h-0.25a0.75 0.75 0 0 0 0 1.5h2a0.75 0.75 0 0 0 0 -1.5h-0.25v-3.25h0.75a0.75 0.75 0 0 0 1.5 0v-0.25c0 -0.69 -0.56 -1.25 -1.25 -1.25H9Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

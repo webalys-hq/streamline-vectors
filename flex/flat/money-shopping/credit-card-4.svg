@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Credit-Card-4--Streamline-Flex">
+  <desc>
+    Credit Card 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="credit-card-4--credit-pay-payment-debit-card-finance-plastic-stack-atm">
+    <path id="Intersect" fill="#8fbffa" d="M3.532 10.763c0 0.793 0.619 1.453 1.4 1.593 0.802 0.145 1.666 0.313 3.67 0.313 2.003 0 2.866 -0.168 3.67 -0.313 0.78 -0.14 1.398 -0.8 1.398 -1.593V6.151c0 -0.69 -0.47 -1.285 -1.152 -1.388a26.535 26.535 0 0 0 -3.917 -0.28c-2.003 0 -2.867 0.169 -3.67 0.313 -0.78 0.14 -1.399 0.8 -1.399 1.593l0 4.374Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M1.729 9.204c-0.781 -0.14 -1.4 -0.8 -1.4 -1.593V3.237c0 -0.793 0.619 -1.453 1.4 -1.593l0.083 -0.015c0.78 -0.141 1.653 -0.298 3.587 -0.298 1.675 0 3.03 0.146 3.916 0.28 0.682 0.103 1.153 0.698 1.153 1.388v0.293A29.413 29.413 0 0 0 8.6 3.233c-2.044 0 -2.991 0.17 -3.82 0.32l-0.071 0.013C3.408 3.8 2.282 4.919 2.282 6.389v2.912c-0.165 -0.027 -0.319 -0.055 -0.47 -0.082l-0.083 -0.015Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M13.67 6.763H3.532v1.25H13.67v-1.25ZM9.915 9.825a0.625 0.625 0 0 0 0 1.25h1.717a0.625 0.625 0 0 0 0 -1.25H9.915Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

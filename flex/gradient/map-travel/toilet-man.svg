@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Toilet-Man--Streamline-Flex-Gradient">
+  <desc>
+    Toilet Man Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="toilet-man--travel-wayfinder-toilet-man">
+    <path id="Union" fill="url(#paint0_linear_7702_28433)" fill-rule="evenodd" d="M9 2c0 1.28-.72 2-2 2s-2-.72-2-2 .72-2 2-2 2 .72 2 2ZM7 4.5c2.13391 0 3.8016 1.6051 3.454 3.42148-.0893.46664-.1851.92371-.284 1.32852-.25373 1.0389-.6856 2.3802-1.02123 3.3723C8.87066 13.4445 7.99275 14 7 14c-.99275 0-1.87066-.5555-2.14877-1.3777-.33563-.9921-.7675-2.3334-1.02125-3.3723-.09887-.40481-.19468-.86188-.28397-1.32852C3.19844 6.1051 4.86609 4.5 7 4.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7702_28433" x1="4.644" x2="11.507" y1="2.692" y2="4.593" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

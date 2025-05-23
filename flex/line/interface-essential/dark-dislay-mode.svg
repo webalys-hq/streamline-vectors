@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dark-Dislay-Mode--Streamline-Flex">
+  <desc>
+    Dark Dislay Mode Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dark-dislay-mode">
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.67549 4.52232c-1.35815 0 -2.45915 1.101 -2.45915 2.45916 0 1.35815 1.101 2.45915 2.45915 2.45915 0.2503 0 0.44141 0.3009 0.25795 0.47113 -0.71301 0.66144 -1.66783 1.06584 -2.7171 1.06584 -2.207 0 -3.99613 -1.78913 -3.99613 -3.99612 0 -2.207 1.78913 -3.99613 3.99613 -3.99613 1.04927 0 2.00409 0.4044 2.7171 1.06585 0.18346 0.17022 -0.00765 0.47112 -0.25795 0.47112Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25c4 0 6.25 -2.25 6.25 -6.25S11 0.75 7 0.75 0.75 3 0.75 7 3 13.25 7 13.25Z" stroke-width="1"></path>
+  </g>
+</svg>
