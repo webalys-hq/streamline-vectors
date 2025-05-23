@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Wrench-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Wrench Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wrench-circle--crescent-tool-construction-tools-wrench-setting-edit-adjust">
+    <path id="Subtract" fill="url(#paint0_linear_7979_1284)" d="M.5 24C.5 11.0213 11.0213.5 24 .5S47.5 11.0213 47.5 24c0 11.0485-7.6245 20.3161-17.8989 22.8284v-7.1385c0-1.5898.9737-2.9869 2.2866-3.8836 3.6902-2.5207 6.1124-6.7613 6.1124-11.5675 0-5.0905-2.7171-9.5464-6.7802-11.9964-1.182-.7128-2.5529.2418-2.5529 1.6221v8.2228c0 .4451-.1468.878-.4523 1.2018-.6377.6761-1.9133 1.8611-3.5907 2.5783-.3979.1701-.8486.1701-1.2465 0-1.723-.7367-3.0221-1.967-3.6413-2.6324-.272-.2922-.4168-.6735-.4394-1.0721-.1301-2.2984-.1722-5.2336-.1695-8.154.0013-1.401-1.3972-2.367-2.5823-1.6197-3.9308 2.4787-6.5421 6.8592-6.5421 11.8496 0 4.8063 2.4223 9.0469 6.1126 11.5676 1.3129.8967 2.2867 2.2938 2.2867 3.8837v7.1391C8.12614 44.3181.5 35.0496.5 24Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_1284" x1="47.341" x2="-7.93" y1="46.839" y2="15.297" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

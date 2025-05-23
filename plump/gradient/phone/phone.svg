@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Phone--Streamline-Plump-Gradient">
+  <desc>
+    Phone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="phone--android-phone-mobile-device-smartphone-iphone">
+    <path id="Union" fill="url(#paint0_linear_7979_4045)" fill-rule="evenodd" d="M35 1.5c6.3513 0 11.5 5.14873 11.5 11.5v1.3323c0 .0754-.0056.1502-.0166.2238C45.9254 32.2932 31.372 46.5 13.5 46.5H13C6.64873 46.5 1.5 41.3513 1.5 35v-.5689c0-1.8401 1.12028-3.4948 2.82874-4.1781l6.16526-2.4661c2.0428-.8172 4.376-.3383 5.9317 1.2175l3.0765 3.0765c.136.136.2887.1521.3819.1238 5.8864-1.7876 10.533-6.4342 12.3206-12.3206.0283-.0932.0122-.2459-.1238-.3819l-3.0765-3.0765c-1.5557-1.5557-2.0347-3.8889-1.2175-5.9317l2.4661-6.16526C30.9363 2.62028 32.591 1.5 34.4311 1.5H35Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4045" x1="3.229" x2="54.517" y1="5.136" y2="34.044" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

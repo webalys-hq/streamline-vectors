@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Pinwheel--Streamline-Plump-Neon">
+  <desc>
+    Pinwheel Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pinwheel--windmill-velocity-weather-wind">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 31v15" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m27.8647 20.0352 4.5866 1.2289c3.0149 0.8079 5.039 1.4329 6.3394 1.8694 1.2213 0.4099 1.9671 1.6332 1.511 2.8381 -0.7271 1.9205 -2.0513 3.5139 -3.2922 4.6881 -1.7564 1.6619 -4.2293 2.1768 -6.6126 1.7685 -2.5191 -0.4315 -5.9928 -1.2089 -9.3134 -2.5589" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.1315 16.0859c-1.35 3.3207 -2.1274 6.7944 -2.5589 9.3134 -0.4084 2.3833 0.1066 4.8562 1.7685 6.6126 1.1742 1.241 2.7675 2.5652 4.6881 3.2922 1.2048 0.4561 2.4282 -0.2896 2.8381 -1.511 0.4364 -1.3003 1.0615 -3.3245 1.8694 -6.3394l1.2297 -4.5895" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m25.0376 15.1349 1.23 -4.5906c0.8079 -3.01494 1.433 -5.03908 1.8694 -6.33947 0.4099 -1.22133 1.6333 -1.96708 2.8381 -1.51097 1.9206 0.72706 3.5139 2.05125 4.6881 3.29218 1.6619 1.75641 2.1769 4.22926 1.7685 6.61266 -0.4315 2.519 -1.2089 5.9927 -2.5589 9.3133" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m20.1355 17.9648 -4.5907 -1.2301c-3.015 -0.8078 -5.0391 -1.4329 -6.33948 -1.8693 -1.22133 -0.4099 -1.96708 -1.6333 -1.51097 -2.8381 0.72706 -1.9206 2.05125 -3.51397 3.29215 -4.68813 1.7564 -1.66191 4.2293 -2.17688 6.6126 -1.76857 2.5191 0.43157 5.9928 1.20895 9.3134 2.55897" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M20 19a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1"></path>
+  </g>
+</svg>

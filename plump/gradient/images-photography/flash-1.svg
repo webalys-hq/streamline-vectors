@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Flash-1--Streamline-Plump-Gradient">
+  <desc>
+    Flash 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flash-1--flash-power-connect-charge-electricity-lightning">
+    <path id="Union" fill="url(#paint0_linear_7979_4696)" fill-rule="evenodd" d="M31.4195.75942C27.4799.537364 20.6004.297765 13.8427.782534 11.7918.929653 9.98788 2.21536 9.23016 4.12232 5.82614 12.6893 4.22485 20.5962 3.55485 24.7082c-.41421 2.5421 1.48966 4.726 3.9863 4.894 2.32329.1563 5.80875.3228 9.89235.2977-.4337 3.3763-.8865 7.9252-1.3351 12.8062-.3828 4.1647 4.6511 6.4064 7.5504 3.4352 8.2639-8.4692 15.8608-17.976 19.9387-23.2774 2.1864-2.8424.2235-6.7257-3.313-6.8196-1.8276-.0486-4.107-.0774-6.8175-.0534.7645-3.1983 1.4542-6.6795 2.0875-10.03329.4967-2.63088-1.45-5.047419-4.125-5.19819Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4696" x1="10.201" x2="45.29" y1="9.539" y2="26.501" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="User-Sticker-Square--Streamline-Plump-Neon">
+  <desc>
+    User Sticker Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-sticker-square">
+    <path id="Subtract" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.06296 44.4451c-2.43879 -0.2025 -4.30554 -2.0693 -4.50805 -4.5081C3.28802 36.7228 3 31.5135 3 24c0 -7.5135 0.28802 -12.7228 0.55492 -15.93704 0.2025 -2.43879 2.06925 -4.30554 4.50805 -4.50805C11.2772 3.28802 16.4865 3 24 3c7.5135 0 12.7228 0.28802 15.937 0.55492 2.4388 0.2025 4.3056 2.06925 4.5081 4.50805C44.712 11.2772 45 16.4865 45 24c0 2.9266 0.0691 5.7543 0 8L32 45c-2.2457 0.0691 -5.0734 0 -8 0 -7.5135 0 -12.7228 -0.288 -15.93704 -0.5549Z" stroke-width="1"></path>
+    <path id="Ellipse 24" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32 29c-4.4183 5.3333 -11.5817 5.3333 -16 0" stroke-width="1"></path>
+    <path id="Vector 1218" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 17v2" stroke-width="1"></path>
+    <path id="Vector 1219" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32 17v2" stroke-width="1"></path>
+    <path id="Intersect" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M45 32c-3.4488 0.1062 -6.1012 0.2922 -8.0257 0.4739 -2.4259 0.2291 -4.2708 2.0737 -4.5001 4.4995 -0.1818 1.9248 -0.368 4.5774 -0.4742 8.0266" stroke-width="1"></path>
+  </g>
+</svg>

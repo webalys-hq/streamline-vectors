@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Heart-Rate-Pulse-Graph--Streamline-Plump-Neon">
+  <desc>
+    Heart Rate Pulse Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart-rate-pulse-graph">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46.0187 18.1061c0 -6.4193 -5.2644 -12.6205 -12.7031 -12.7097C27.3875 5.3964 24 9.3276 24 9.3276s-3.3875 -3.9312 -9.3156 -3.9312c-7.6219 0 -12.7031 6.2903 -12.7031 12.7097 0 10.5941 9.7742 18.2879 19.1803 23.7348 1.756 1.0169 3.9208 1.0169 5.6768 0 9.4061 -5.4469 19.1803 -13.1407 19.1803 -23.7348Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.9872 24.4126h6.0051l3.503 -6.0051L24 31.4185l6.0051 -16.0136 4.0034 9.0077h5.0043" stroke-width="1"></path>
+  </g>
+</svg>

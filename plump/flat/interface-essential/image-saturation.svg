@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Image-Saturation--Streamline-Plump">
+  <desc>
+    Image Saturation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="image-saturation">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M43.5 27.8889C43.5 38.2382 34.6971 46.5 24 46.5S4.5 38.2382 4.5 27.8889c0 -5.5977 3.25776 -10.9978 6.8434 -15.2894 3.6253 -4.33905 7.8042 -7.80197 10.0744 -9.55296 1.5281 -1.17859 3.6363 -1.17859 5.1644 0 2.2702 1.75099 6.4492 5.21392 10.0744 9.55296C40.2422 16.8911 43.5 22.2912 43.5 27.8889Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M21.623 11.7772c1.0153 -0.7795 2.377 -0.0037 2.377 1.1835v24.0394c0 1.0797 -0.8942 2.0565 -2.0858 1.9532C15.8266 38.4253 11 33.4874 11 27.4075c0 -3.5973 2.1316 -7.0599 4.4149 -9.7665 2.3117 -2.7402 4.9328 -4.8846 6.2081 -5.8638Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

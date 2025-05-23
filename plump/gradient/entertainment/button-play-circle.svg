@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Button-Play-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Button Play Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-play-circle--controls-media-multi-play-multimedia-button-circle">
+    <path id="Subtract" fill="url(#paint0_linear_7979_4312)" fill-rule="evenodd" d="M24 47.5C11.0213 47.5.5 36.9787.5 24S11.0213.499997 24 .5C36.9787.5 47.5 11.0213 47.5 24S36.9787 47.5 24 47.5Zm-3.4904-33.2771c-2.4357-.9703-4.7232.4957-5.0757 3.0938-.2387 1.7599-.4339 4.015-.4339 6.6849 0 2.67.1952 4.9251.4339 6.685.3525 2.5981 2.64 4.0641 5.0757 3.0938 1.5341-.6111 3.5479-1.528 6.1375-2.9038 2.4459-1.2994 4.3782-2.4624 5.8778-3.4459 2.6528-1.74 2.6528-5.1181 0-6.8581-1.4996-.9836-3.4319-2.1465-5.8778-3.446-2.5896-1.3757-4.6034-2.2926-6.1375-2.9037Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4312" x1="8.183" x2="46.143" y1="9.538" y2="30.571" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

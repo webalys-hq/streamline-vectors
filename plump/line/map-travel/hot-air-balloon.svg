@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Hot-Air-Balloon--Streamline-Plump">
+  <desc>
+    Hot Air Balloon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hot-air-balloon">
+    <path id="Vector 1437" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m30 35 2 -7" stroke-width="1"></path>
+    <path id="Ellipse 483" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 16a18 13 0 1 0 36 0 18 13 0 1 0 -36 0" stroke-width="1"></path>
+    <path id="Ellipse 484" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 16a8 13 0 1 0 16 0 8 13 0 1 0 -16 0" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.893 35.1321c-1.0397 0.051 -1.8485 0.7329 -1.8835 1.7732 -0.006 0.18 -0.0095 0.3777 -0.0095 0.5947 0 0.217 0.0035 0.4147 0.0095 0.5947 0.0251 0.7457 0.4479 1.3073 1.0683 1.5843 0.1063 1.463 0.3052 2.595 0.4912 3.3961 0.216 0.9307 0.9824 1.5729 1.9321 1.6764C19.6199 44.8734 21.4063 45 24 45s4.3801 -0.1266 5.4989 -0.2485c0.9497 -0.1035 1.7161 -0.7457 1.9321 -1.6764 0.186 -0.8011 0.3849 -1.9331 0.4912 -3.396 0.6204 -0.2771 1.0432 -0.8387 1.0683 -1.5844 0.006 -0.18 0.0095 -0.3777 0.0095 -0.5947 0 -0.217 -0.0035 -0.4147 -0.0095 -0.5947 -0.035 -1.0403 -0.8438 -1.7222 -1.8835 -1.7732C29.7866 35.0673 27.5583 35 24 35s-5.7866 0.0673 -7.107 0.1321Z" stroke-width="1"></path>
+    <path id="Vector 1436" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18 35 -2 -7" stroke-width="1"></path>
+  </g>
+</svg>

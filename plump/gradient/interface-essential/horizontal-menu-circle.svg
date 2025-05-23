@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Horizontal-Menu-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Horizontal Menu Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="horizontal-menu-circle--navigation-dots-three-circle-button-horizontal-menu">
+    <path id="Subtract" fill="url(#paint0_linear_7979_594)" fill-rule="evenodd" d="M.5 24C.5 11.0213 11.0213.5 24 .5S47.5 11.0213 47.5 24 36.9787 47.5 24 47.5.5 36.9787.5 24Zm12-4c-2.2091 0-4 1.7909-4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4ZM24 20c-2.2091 0-4 1.7909-4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4Zm7.5 4c0-2.2091 1.7909-4 4-4 2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_594" x1="2.306" x2="55.874" y1="4.298" y2="34.49" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

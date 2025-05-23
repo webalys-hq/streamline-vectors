@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Thermometer--Streamline-Plump-Neon">
+  <desc>
+    Thermometer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M31.9882 25.0455c2.4616 2.1976 4.0113 5.3951 4.0113 8.9545 0 6.6274 -5.3726 12 -12 12s-12 -5.3726 -12 -12c0 -3.5594 1.5498 -6.7569 4.0113 -8.9545 -0.0073 -0.9605 -0.0113 -1.9748 -0.0113 -3.0455 0 -5.8561 0.1182 -10.0243 0.2637 -12.93706 0.1953 -3.90988 2.6551 -6.94762 6.5686 -7.04834 0.3684 -0.00948 0.7573 -0.0146 1.1677 -0.0146s0.7994 0.00512 1.1678 0.0146c3.9134 0.10072 6.3733 3.13846 6.5686 7.04834 0.1455 2.91276 0.2636 7.08096 0.2636 12.93706 0 1.0707 -0.0039 2.085 -0.0113 3.0455Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28 34c0 2.2091 -1.7909 4 -4 4 -2.2091 0 -4 -1.7909 -4 -4 0 -2.2091 1.7909 -4 4 -4 2.2091 0 4 1.7909 4 4Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 9v21" stroke-width="1"></path>
+  </g>
+</svg>

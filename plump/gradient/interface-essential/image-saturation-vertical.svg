@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Image-Saturation-Vertical--Streamline-Plump-Gradient">
+  <desc>
+    Image Saturation Vertical Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="image-saturation-vertical">
+    <path id="Subtract" fill="url(#paint0_linear_7979_615)" fill-rule="evenodd" d="M44.5 28.0734c0 10.8097-9.2616 19.426-20.5 19.426S3.5 38.8831 3.5 28.0734c0-5.8853 3.4775-11.5684 7.2942-16.0783 3.8585-4.55918 8.2908-8.18276 10.6425-9.97557 1.5235-1.161454 3.6031-1.161458 5.1266 0 2.3517 1.79281 6.784 5.41639 10.6424 9.97557C41.0225 16.505 44.5 22.1881 44.5 28.0734ZM24.1758 7.64331c-.0827-.32415-.4457-.46107-.7178-.2665C20.7702 9.29862 9 18.2832 9 28.2487c0 6.8705 5.6644 12.692 13.3416 13.6209 1.282.1551 2.4085-.7053 2.6418-1.9753C25.4219 37.5079 26 32.9487 26 25.4987c0-9.8079-1.3361-15.94175-1.8242-17.85539Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_615" x1="48.053" x2="-11.602" y1="57.317" y2="19.833" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

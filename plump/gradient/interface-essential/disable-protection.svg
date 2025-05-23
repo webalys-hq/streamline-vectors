@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Disable-Protection--Streamline-Plump-Gradient">
+  <desc>
+    Disable Protection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="disable-protection--shield-protection-security-defend-cover-disabled-off">
+    <path id="Union" fill="url(#paint0_linear_7979_317)" fill-rule="evenodd" d="M5.87132 1.62868c-1.17157-1.171573-3.07107-1.171573-4.24264 0-1.171573 1.17157-1.171573 3.07107 0 4.24264L42.1287 46.3713c1.1716 1.1716 3.071 1.1716 4.2426 0 1.1716-1.1716 1.1716-3.071 0-4.2426l-6.0573-6.0573c3.3432-4.4482 5.1741-9.9759 5.1858-15.6978l.0002-.1918c0-4.7532-.3623-9.1161-.6418-11.77768-.2295-2.18481-1.5952-4.24184-4.0342-4.76155C38.2302 3.08985 33.4852 2.5 25 2.5c-8.4852 0-13.2302.58985-15.82403 1.14257-.34806.07417-.67426.17965-.97842.31234L5.87132 1.62868ZM4.5 20.1818c0-2.5334.10291-4.956.24137-7.0691L33.7462 42.1175c-.2245.1408-.4519.2783-.6821.4124-1.3916.8105-2.8088 1.5412-4.1513 2.0728-1.3212.5233-2.6763.8973-3.9128.8973s-2.5916-.374-3.9128-.8973c-1.3425-.5316-2.7597-1.2623-4.1513-2.0728C9.06588 37.9458 4.51866 29.4015 4.5002 20.3736L4.5 20.1818Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_317" x1="51.28" x2="-11.442" y1="57.099" y2="12.545" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

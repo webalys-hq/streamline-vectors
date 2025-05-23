@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Heart-Rate-Pulse-Graph--Streamline-Plump">
+  <desc>
+    Heart Rate Pulse Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart-rate-pulse-graph">
+    <path id="Vector 9" fill="#8fbffa" d="M42.778 26.437c2.06 -3.301 2.73 -7.39 1.834 -11.194 -1.914 -8.662 -12.51 -12.201 -19.11 -6.396 -0.523 0.456 -0.988 0.983 -1.502 1.508 -0.514 -0.525 -0.98 -1.052 -1.502 -1.508 -6.6 -5.805 -17.196 -2.266 -19.11 6.396 -0.895 3.803 -0.225 7.893 1.834 11.194 3.603 5.786 9.413 10.29 15.08 14.374a6.343 6.343 0 0 0 7.396 0c5.667 -4.083 11.477 -8.588 15.08 -14.374Z" stroke-width="1"></path>
+    <path id="Vector 8" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M42.778 26.437c2.06 -3.301 2.73 -7.39 1.834 -11.194 -1.914 -8.662 -12.51 -12.201 -19.11 -6.396 -0.523 0.456 -0.988 0.983 -1.502 1.508 -0.514 -0.525 -0.98 -1.052 -1.502 -1.508 -6.6 -5.805 -17.196 -2.266 -19.11 6.396 -0.895 3.803 -0.225 7.893 1.834 11.194 3.603 5.786 9.413 10.29 15.08 14.374a6.343 6.343 0 0 0 7.396 0c5.667 -4.083 11.477 -8.588 15.08 -14.374Z" stroke-width="1"></path>
+    <path id="Vector 1158" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M9 23h6l3.5 -6L24 30l6 -16 4 9h5" stroke-width="1"></path>
+  </g>
+</svg>

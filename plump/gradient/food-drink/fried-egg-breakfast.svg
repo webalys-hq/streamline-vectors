@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Fried-Egg-Breakfast--Streamline-Plump-Gradient">
+  <desc>
+    Fried Egg Breakfast Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fried-egg-breakfast">
+    <path id="Union" fill="url(#paint0_linear_7979_3622)" fill-rule="evenodd" d="M24 .5C10.3986.5.5 12.7127.5 27.1429.5 37.9065 7.5248 47.5 16.8958 47.5c3.4155 0 6.5617-1.2777 9.1486-3.413 2.3458-1.9365 5.4764-2.8369 8.3895-2.8369 7.5122 0 13.0661-7.48 13.0661-15.9684C47.5 12.9194 39.1789.5 24 .5ZM34 22c0 5.5228-4.4772 10-10 10s-10-4.4772-10-10 4.4772-10 10-10 10 4.4772 10 10Zm-10-6.75c-.9665 0-1.75.7835-1.75 1.75s.7835 1.75 1.75 1.75c1.7949 0 3.25 1.4551 3.25 3.25 0 .9665.7835 1.75 1.75 1.75s1.75-.7835 1.75-1.75c0-3.7279-3.0221-6.75-6.75-6.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3622" x1="47.341" x2="-8.317" y1="47.51" y2="16.201" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

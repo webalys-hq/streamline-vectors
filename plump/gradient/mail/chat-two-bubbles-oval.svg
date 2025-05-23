@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Chat-Two-Bubbles-Oval--Streamline-Plump-Gradient">
+  <desc>
+    Chat Two Bubbles Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-two-bubbles-oval--messages-message-bubble-chat-oval-conversation">
+    <path id="Union" fill="url(#paint0_linear_7979_4087)" fill-rule="evenodd" d="M22 1.5C10.6782 1.5 1.5 10.6782 1.5 22c0 3.7991 1.03391 7.3582 2.83595 10.4097-.86626 2.1016-1.73815 4.554-2.30468 6.8229-.41967 1.6807 1.07353 3.105 2.73048 2.6449 2.18636-.607 4.576-1.4777 6.65775-2.3155 2.9923 1.8066 6.4838 2.87 10.2174 2.9348C19.9737 40.0814 19 37.1544 19 34c0-8.2843 6.7157-15 15-15 3.1544 0 6.0814.9737 8.4968 2.6369C42.3031 10.4826 33.2006 1.5 22 1.5ZM46.5 34c0-6.9036-5.5964-12.5-12.5-12.5S21.5 27.0964 21.5 34 27.0964 46.5 34 46.5c2.35 0 4.5498-.6489 6.4284-1.7775.8514.3796 1.8006.7652 2.8019 1.0926 1.6517.54 3.1816-.912 2.675-2.5934-.3176-1.054-.7116-2.0407-1.1126-2.9117C45.878 38.4576 46.5 36.3007 46.5 34Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4087" x1="8.856" x2="45.201" y1="10.154" y2="30.291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

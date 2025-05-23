@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Shopping-Cart-Add--Streamline-Plump">
+  <desc>
+    Shopping Cart Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-cart-add--shopping-cart-checkout-add-plus-new">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="m9.47 1.5 -4.659 0c-1.7 0 -3.225 1.242 -3.296 3.015a17.171 17.171 0 0 0 0 1.37C1.585 7.658 3.11 8.9 4.81 8.9h3.097a504.21 504.21 0 0 1 2.25 8.267c1.14 4.284 2.254 8.475 3.656 12.962 0.637 2.04 2.295 3.605 4.464 3.87 2.085 0.254 5.296 0.501 9.913 0.501 4.745 0 7.899 -0.26 9.872 -0.523 1.938 -0.258 3.445 -1.61 4.077 -3.421 1.492 -4.277 2.817 -9.513 3.684 -14.41 0.475 -2.686 -1.643 -5.046 -4.334 -5.046H16.51l-1.79 -5.739A5.5 5.5 0 0 0 9.47 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <g id="Subtract_2">
+      <path fill="#2859c5" d="M42.5 41.5a5 5 0 1 0 -10 0 5 5 0 0 0 10 0Z" stroke-width="1"></path>
+      <path fill="#2859c5" d="M18.5 36.5a5 5 0 1 1 0 10 5 5 0 0 1 0 -10Z" stroke-width="1"></path>
+    </g>
+    <path id="Subtract_3" fill="#2859c5" fill-rule="evenodd" d="M35 22.5a2 2 0 0 0 -2 -2h-3v-3a2 2 0 1 0 -4 0v3h-3a2 2 0 1 0 0 4h3v3a2 2 0 1 0 4 0v-3h3a2 2 0 0 0 2 -2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Mail-Notification--Streamline-Plump">
+  <desc>
+    Mail Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-notification--inbox-envelope-email-message-notify-notification-alert-ping">
+    <path id="Rectangle 1097" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22 11.002c-6.88 0.021 -11.621 0.26 -14.512 0.472 -2.124 0.156 -3.782 1.74 -3.982 3.86C3.258 17.95 3 22.096 3 28c0 5.904 0.258 10.05 0.506 12.667 0.2 2.12 1.86 3.704 3.983 3.86C10.52 44.75 15.58 45 23 45c7.421 0 12.482 -0.25 15.51 -0.473 2.124 -0.156 3.784 -1.74 3.984 -3.86C42.742 38.05 43 33.903 43 28c0 -1.436 -0.015 -2.768 -0.042 -4" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 27c1.25 0.708 14.264 8 20 8 5.736 0 18.75 -7.293 20 -8" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linejoin="round" d="M36 3a9 9 0 1 1 0 18 9 9 0 0 1 0 -18Z" stroke-width="1"></path>
+  </g>
+</svg>

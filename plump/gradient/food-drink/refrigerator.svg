@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Refrigerator--Streamline-Plump-Gradient">
+  <desc>
+    Refrigerator Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="refrigerator--fridge-cook-appliances-cooking-nutrition-freezer-appliance-food-kitchenware">
+    <path id="Subtract" fill="url(#paint0_linear_7979_3640)" fill-rule="evenodd" d="M42.4973 22.5c.0018.4886.0027.9885.0027 1.5 0 8.9916-.2867 14.4055-.5576 17.5163-.2535 2.9114-2.4128 5.1534-5.3425 5.4576-2.5636.2662-6.6014.5261-12.5998.5261-5.9985 0-10.0364-.2599-12.6-.5261-2.9296-.3042-5.0889-2.5461-5.34243-5.4574C5.78675 38.4057 5.5 32.9918 5.5 24c0-.5115.00093-1.0114.00273-1.5H42.4973Zm-.0232-3c-.0764-6.3595-.3094-10.46339-.5317-13.01632-.2535-2.91134-2.4128-5.15337-5.3425-5.4576C34.0363.759867 29.9985.5 24.0001.5c-5.9985 0-10.0364.259875-12.6.5261-2.92959.30422-5.08889 2.54613-5.34243 5.4574-.22233 2.55293-.45532 6.6569-.53175 13.0165H42.4741ZM13 5.5c.8284 0 1.5.67157 1.5 1.5v8c0 .8284-.6716 1.5-1.5 1.5s-1.5-.6716-1.5-1.5V7c0-.82843.6716-1.5 1.5-1.5Zm0 20c.8284 0 1.5.6716 1.5 1.5v8c0 .8284-.6716 1.5-1.5 1.5s-1.5-.6716-1.5-1.5v-8c0-.8284.6716-1.5 1.5-1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3640" x1="6.922" x2="53.348" y1="4.298" y2="24.898" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

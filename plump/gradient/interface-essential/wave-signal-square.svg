@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Wave-Signal-Square--Streamline-Plump-Gradient">
+  <desc>
+    Wave Signal Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wave-signal-square--heart-line-stats-beat-square-graph">
+    <path id="Union" fill="url(#paint0_linear_7979_1269)" fill-rule="evenodd" d="M24 1.5c-7.4015 0-12.5927.27807-15.86432.54389C4.84783 2.31102 2.311 4.84784 2.04387 8.1357c-.22833 2.8103-.46572 7.037-.52812 12.8644H12l5.4131-8.2789c1.3151-2.0114 4.3432-1.7372 5.2758.4776L28.5 27l2.3423-4.0154c.7169-1.2289 2.0325-1.9845 3.4551-1.9845h12.1868c-.0624-5.8273-.2998-10.0541-.5281-12.86439-.2671-3.28785-2.804-5.82468-6.0918-6.09181C36.5927 1.77808 31.4014 1.5 24 1.5ZM2.04386 39.8642c-.22833-2.8102-.46571-7.0369-.52811-12.8641H13.7025c1.4226 0 2.7382-.7557 3.4551-1.9846L19.5 21l5.811 13.8013c.9326 2.2148 3.9607 2.4889 5.2758.4776L36 27.0001h10.4842c-.0624 5.8272-.2998 10.0539-.5281 12.8642-.2671 3.2878-2.804 5.8246-6.0918 6.0918-3.2717.2658-8.4629.5439-15.8643.5439-7.4015 0-12.5927-.2781-15.86434-.5439-3.28785-.2672-5.82467-2.804-6.0918-6.0919Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_1269" x1="46.332" x2="-6.938" y1="46.509" y2="16.564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

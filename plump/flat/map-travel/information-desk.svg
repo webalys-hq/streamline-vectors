@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Information-Desk--Streamline-Plump">
+  <desc>
+    Information Desk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="information-desk">
+    <path id="Subtract" fill="#8fbffa" d="M10.069 30.667c-1.558 0.139 -2.766 1.308 -3.042 2.847a75.27 75.27 0 0 0 -0.966 7.562c2.84 -0.033 7.766 -0.07 15.872 -0.075a75.41 75.41 0 0 0 -0.961 -7.487c-0.275 -1.539 -1.484 -2.708 -3.041 -2.847A44.53 44.53 0 0 0 14 30.5c-1.57 0 -2.896 0.075 -3.931 0.167Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" d="M19.889 22a6 6 0 1 1 -12 0 6 6 0 0 1 12 0Z" stroke-width="1"></path>
+    <path id="Rectangle 58" fill="#2859c5" d="M45.891 39.608c-0.172 -1.009 -1.125 -1.49 -2.149 -1.507C41.284 38.06 35.581 38 24 38c-11.58 0 -17.283 0.062 -19.742 0.1 -1.024 0.017 -1.977 0.5 -2.15 1.51A8.475 8.475 0 0 0 2 41.021c0 0.556 0.042 1.014 0.105 1.39 0.17 1.023 1.137 1.51 2.175 1.52C6.751 43.959 12.454 44 24 44s17.25 -0.042 19.72 -0.068c1.037 -0.012 2.004 -0.498 2.175 -1.52 0.063 -0.376 0.105 -0.835 0.105 -1.39a8.39 8.39 0 0 0 -0.109 -1.414Z" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#2859c5" fill-rule="evenodd" d="M34 1.5c-6.904 0 -12.5 5.596 -12.5 12.5S27.096 26.5 34 26.5 46.5 20.904 46.5 14 40.904 1.5 34 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_4" fill="#8fbffa" fill-rule="evenodd" d="M34 12.5a1.5 1.5 0 0 1 1.5 1.5v7a1.5 1.5 0 0 1 -3 0v-7a1.5 1.5 0 0 1 1.5 -1.5ZM35.5 8a1.5 1.5 0 0 0 -3 0v1a1.5 1.5 0 0 0 3 0V8Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Layer-Mask--Streamline-Plump-Gradient">
+  <desc>
+    Layer Mask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layer-mask">
+    <path id="Subtract" fill="url(#paint0_linear_7979_672)" fill-rule="evenodd" d="M6.45665 5.12917C9.5726 4.82343 14.9942 4.5 24 4.5s14.4274.32343 17.5434.62917c2.9211.28661 5.106 2.49376 5.401 5.39913.2755 2.7138.5556 7.051.5556 13.4716 0 6.4207-.2801 10.7579-.5556 13.4718-.295 2.9053-2.48 5.1125-5.4011 5.3991-3.1159.3058-8.5376.6292-17.5433.6292s-14.42737-.3234-17.54332-.6292c-2.92112-.2866-5.10607-2.4937-5.40105-5.3991C.7801 34.7578.5 30.4206.5 23.9999c0-6.4206.280097-10.7578.55563-13.4716.29498-2.90537 2.47992-5.11252 5.40102-5.39913ZM24 35.5c-6.3513 0-11.5-5.1487-11.5-11.5S17.6487 12.5 24 12.5 35.5 17.6487 35.5 24 30.3513 35.5 24 35.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_672" x1="2.306" x2="50.606" y1="7.652" y2="40.459" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

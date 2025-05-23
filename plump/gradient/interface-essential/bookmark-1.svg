@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Bookmark-1--Streamline-Plump-Gradient">
+  <desc>
+    Bookmark 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bookmark-1--bookmarks-tags-favorite">
+    <path id="Union" fill="url(#paint0_linear_7979_167)" d="M24 .5c-5.4378 0-9.9919.308072-13.0246.5905-2.66709.24838-4.74041 2.23565-4.96029 4.92931C5.75931 9.15357 5.5 14.4315 5.5 22.9545v20.3862C5.5 45.6404 7.36435 47.5 9.66275 47.5c.98155 0 1.93145-.3468 2.68205-.9792l9.4001-7.9195c1.303-1.0978 3.2072-1.0978 4.5102 0l9.4001 7.9195c.7506.6324 1.7005.9792 2.6821.9792 2.2984 0 4.1627-1.8596 4.1627-4.1593V22.9545c0-8.523-.2593-13.80093-.5151-16.93469-.2199-2.69366-2.2932-4.68093-4.9603-4.92931C33.9919.808072 29.4378.5 24 .5Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_167" x1="11.548" x2="44.363" y1="9.538" y2="23.852" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

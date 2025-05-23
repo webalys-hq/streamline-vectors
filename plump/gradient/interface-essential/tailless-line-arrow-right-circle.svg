@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Tailless-Line-Arrow-Right-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Tailless Line Arrow Right Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tailless-line-arrow-right-circle--arrow-keyboard-circle-button-right">
+    <path id="Subtract" fill="url(#paint0_linear_7979_95)" fill-rule="evenodd" d="M47.5 24C47.5 11.0213 36.9787.5 24 .5S.5 11.0213.5 24 11.0213 47.5 24 47.5 47.5 36.9787 47.5 24Zm-23.3535.3534c.1952-.1953.1952-.5119-.0001-.7071L17.648 17.148c-.9696-.9696-1.1688-2.4864-.2894-3.5385.7007-.8384 1.5361-1.6733 2.3917-2.275 1.0074-.7085 2.3018-.3763 3.218.447 3.2735 2.9417 7.6021 7.3282 9.7784 10.2109.9194 1.2178.9194 2.7971.0001 4.0149-2.1763 2.8829-6.505 7.2695-9.7785 10.2112-.9162.8233-2.2106 1.1555-3.218.447-.8557-.6018-1.691-1.4366-2.3918-2.2751-.8793-1.052-.6801-2.5688.2894-3.5384l6.4986-6.4986Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_95" x1="8.183" x2="46.143" y1="9.538" y2="30.571" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Paint-Palette--Streamline-Plump">
+  <desc>
+    Paint Palette Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="paint-palette--color-colors-design-paint-painting-palette">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M1.5 24c0 -12.427 10.076 -22.5 22.505 -22.5 11.44 0 20.71 8.83 22.265 19.474 0.724 4.954 -3.045 9.054 -7.963 9.055 -0.83 0 -1.662 -0.018 -2.454 -0.034l-0.224 -0.005a73.675 73.675 0 0 0 -2.429 -0.023c-1.59 0.02 -2.571 0.16 -3.045 0.396 -0.995 0.498 -1.909 2.075 -1.11 4.024 0.505 1.23 0.923 2.19 1.266 2.977l0.037 0.086c0.343 0.788 0.627 1.442 0.828 1.998 0.206 0.57 0.355 1.115 0.396 1.698 0.04 0.593 -0.036 1.136 -0.174 1.699 -0.383 1.568 -1.562 2.497 -2.883 3.001 -1.285 0.49 -2.869 0.654 -4.51 0.654C11.576 46.5 1.5 36.427 1.5 24Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M19 21.5a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 0 1 9 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#2859c5" d="M18.5 38a3.5 3.5 0 1 0 0 -7 3.5 3.5 0 0 0 0 7Z" stroke-width="1"></path>
+    <path id="Subtract_4" fill="#2859c5" d="M28 19a5 5 0 1 0 0 -10 5 5 0 0 0 0 10Z" stroke-width="1"></path>
+  </g>
+</svg>

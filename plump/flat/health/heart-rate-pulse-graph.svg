@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Heart-Rate-Pulse-Graph--Streamline-Plump">
+  <desc>
+    Heart Rate Pulse Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart-rate-pulse-graph">
+    <path id="Union" fill="#8fbffa" d="M23.486 7.719c-7.475 -6.572 -19.4 -2.552 -21.56 7.19 -1.491 6.347 1.033 11.768 4.757 16.202 3.696 4.4 8.741 8.035 12.715 10.897l0.027 0.02a7.843 7.843 0 0 0 9.149 0l0.027 -0.02c3.974 -2.862 9.019 -6.497 12.715 -10.897 3.724 -4.434 6.248 -9.855 4.757 -16.201 -2.16 -9.743 -14.086 -13.763 -21.56 -7.191 -0.174 0.151 -0.346 0.314 -0.514 0.48 -0.167 -0.166 -0.34 -0.329 -0.513 -0.48Z" stroke-width="1"></path>
+    <path id="Vector 1158 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M29.94 12a2 2 0 0 1 1.888 1.188L35.3 21H39a2 2 0 1 1 0 4h-5a2 2 0 0 1 -1.828 -1.188l-2.015 -4.535 -4.284 11.425a2 2 0 0 1 -3.715 0.077l-3.943 -9.32 -1.487 2.549A2 2 0 0 1 15 25H9a2 2 0 1 1 0 -4h4.851l2.921 -5.008a2 2 0 0 1 3.57 0.229l3.546 8.381 4.24 -11.304A2 2 0 0 1 29.94 12Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Eye-Optic--Streamline-Plump">
+  <desc>
+    Eye Optic Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="eye-optic--health-medical-eye-optic">
+    <path id="Vector 2106 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M24 0a2 2 0 0 1 2 2v7a2 2 0 1 1 -4 0V2a2 2 0 0 1 2 -2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2109 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10.5 3a2 2 0 0 1 2.732 0.732l3.5 6.062a2 2 0 0 1 -3.464 2l-3.5 -6.062A2 2 0 0 1 10.5 3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2109 (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M37.5 3a2 2 0 0 0 -2.732 0.732l-3.5 6.062a2 2 0 0 0 3.464 2l3.5 -6.062A2 2 0 0 0 37.5 3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2110 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M0.615 10.617a2 2 0 0 1 2.829 0l4.95 4.95a2 2 0 1 1 -2.83 2.828l-4.949 -4.95a2 2 0 0 1 0 -2.828Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2112 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M47.385 10.617a2 2 0 0 0 -2.828 0l-4.95 4.95a2 2 0 1 0 2.829 2.828l4.95 -4.95a2 2 0 0 0 0 -2.828Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M24 7.5c-10.797 0 -19.89 7.28 -22.645 17.198a4.866 4.866 0 0 0 0 2.604C4.11 37.22 13.203 44.5 24 44.5c10.798 0 19.89 -7.28 22.645 -17.198a4.867 4.867 0 0 0 0 -2.604C43.891 14.78 34.798 7.5 24 7.5Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" d="M15.5 26a8.5 8.5 0 1 1 17 0 8.5 8.5 0 0 1 -17 0Z" stroke-width="1"></path>
+  </g>
+</svg>

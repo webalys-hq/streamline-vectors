@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Earth-1--Streamline-Plump">
+  <desc>
+    Earth 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="earth-1--planet-earth-globe-world">
+    <path id="Ellipse 18" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3c11.598 0 21 9.402 21 21s-9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3Z" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.575 43a36.723 36.723 0 0 0 2.78 -7.428c0.223 -0.878 0.17 -1.798 -0.198 -2.627 -0.809 -1.816 -2.64 -5.046 -5.796 -6.204a3.688 3.688 0 0 0 -0.833 -0.19c-1.17 -0.141 -4.605 -0.496 -8.312 -0.322" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M40.106 37.18c-3.754 -3.208 -6.892 -9.106 -8.146 -11.671a3.016 3.016 0 0 0 -1.924 -1.601l-2.412 -0.64c-2.676 -0.71 -4.894 -2.869 -4.411 -5.582 0.104 -0.582 0.261 -1.19 0.493 -1.803 0.577 -1.527 2.04 -2.465 3.617 -2.911 2.786 -0.787 7.59 -2.062 12.354 -2.943" stroke-width="1"></path>
+  </g>
+</svg>

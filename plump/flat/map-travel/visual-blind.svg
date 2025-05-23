@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Visual-Blind--Streamline-Plump">
+  <desc>
+    Visual Blind Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="visual-blind--disability-visual-blind">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.855 22.698C3.61 12.781 12.703 5.5 23.5 5.5c10.798 0 19.89 7.28 22.645 17.198a4.867 4.867 0 0 1 0 2.604C43.391 35.219 34.298 42.5 23.5 42.5 12.703 42.5 3.61 35.22 0.855 25.302a4.866 4.866 0 0 1 0 -2.604Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M23.5 34c5.523 0 10 -4.477 10 -10s-4.477 -10 -10 -10 -10 4.477 -10 10 4.477 10 10 10Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M20.914 18.586a2 2 0 1 0 -2.828 2.828L20.672 24l-2.586 2.586a2 2 0 1 0 2.828 2.828l2.586 -2.586 2.586 2.586a2 2 0 1 0 2.828 -2.828L26.328 24l2.586 -2.586a2 2 0 1 0 -2.828 -2.828L23.5 21.172l-2.586 -2.586Z" stroke-width="1"></path>
+  </g>
+</svg>

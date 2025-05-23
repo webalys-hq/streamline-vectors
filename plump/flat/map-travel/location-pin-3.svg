@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Location-Pin-3--Streamline-Plump">
+  <desc>
+    Location Pin 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin-3--navigation-map-maps-pin-gps-location">
+    <path id="Subtract" fill="#2859c5" d="M36.207 34.101c-3.447 3.891 -7.305 6.554 -9.113 7.7a5.765 5.765 0 0 1 -6.188 0c-1.808 -1.146 -5.666 -3.809 -9.113 -7.7a33.79 33.79 0 0 1 -1.877 -2.31c-0.027 0 -0.053 0.002 -0.08 0.004 -1.711 0.096 -3.298 1.043 -4.103 2.643a35.025 35.025 0 0 0 -2.533 6.67c-0.703 2.651 1.276 5.038 3.875 5.144 2.893 0.118 8.089 0.248 16.926 0.248 8.837 0 14.033 -0.13 16.925 -0.248 2.6 -0.106 4.579 -2.493 3.875 -5.143a35.026 35.026 0 0 0 -2.532 -6.671c-0.806 -1.6 -2.392 -2.547 -4.104 -2.643l-0.081 -0.005a33.76 33.76 0 0 1 -1.877 2.311Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" fill-rule="evenodd" d="M8 18.07C8 9.2 15.16 2 24 2s16 7.2 16 16.07c0 5.66 -2.858 10.453 -6.038 14.041 -3.187 3.597 -6.785 6.086 -8.475 7.157a2.765 2.765 0 0 1 -2.974 0c-1.69 -1.072 -5.289 -3.56 -8.475 -7.157C10.858 28.523 8 23.73 8 18.07Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#2859c5" fill-rule="evenodd" d="M24 24a6 6 0 1 0 0 -12 6 6 0 0 0 0 12Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Tune-Adjust-Volume--Streamline-Plump">
+  <desc>
+    Tune Adjust Volume Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tune-adjust-volume">
+    <path id="Union" fill="#8fbffa" d="M24 7C14.6112 7 7 14.6112 7 24s7.6112 17 17 17 17 -7.6112 17 -17S33.3888 7 24 7Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="m13.0862 37.0349 8.9742 -8.9742c0.5858 -0.5858 0.5858 -1.5356 0 -2.1214 -0.5858 -0.5857 -1.5356 -0.5857 -2.1213 0l-8.9743 8.9743c0.6435 0.7677 1.3536 1.4778 2.1214 2.1213Z" stroke-width="1"></path>
+    <path id="Vector 1911 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M47.5 24c0 1.1046 -0.8954 2 -2 2l-1 0c-1.1046 0 -2 -0.8954 -2 -2s0.8954 -2 2 -2l1 0c1.1046 0 2 0.8954 2 2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1912 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M5.5 24c0 1.1046 -0.89543 2 -2 2l-1 0c-1.10457 0 -2 -0.8954 -2 -2s0.89543 -2 2 -2l1 0c1.10457 0 2 0.8954 2 2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1911 (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M40.6173 7.38296c0.7811 0.78105 0.7811 2.04738 0 2.82844l-0.7071 0.7071c-0.781 0.781 -2.0473 0.781 -2.8284 0 -0.781 -0.7811 -0.781 -2.04738 0 -2.82843l0.7071 -0.70711c0.7811 -0.78105 2.0474 -0.78105 2.8284 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1912 (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M10.9181 37.0812c0.7811 0.7811 0.7811 2.0474 0 2.8284l-0.7071 0.7071c-0.78104 0.7811 -2.04737 0.7811 -2.82841 0 -0.78105 -0.781 -0.78105 -2.0473 0 -2.8284l0.7071 -0.7071c0.78105 -0.781 2.04741 -0.781 2.82841 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1911 (Stroke)_3" fill="#2859c5" fill-rule="evenodd" d="M7.38266 7.38296c-0.78105 0.78105 -0.78105 2.04738 0 2.82844l0.70711 0.7071c0.78105 0.781 2.04733 0.781 2.82843 0 0.781 -0.7811 0.781 -2.04738 0 -2.82843l-0.7071 -0.70711c-0.78106 -0.78105 -2.04739 -0.78105 -2.82844 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1912 (Stroke)_3" fill="#2859c5" fill-rule="evenodd" d="M37.0819 37.0822c-0.7811 0.781 -0.7811 2.0474 0 2.8284l0.7071 0.7071c0.781 0.7811 2.0474 0.7811 2.8284 0 0.7811 -0.781 0.7811 -2.0474 0 -2.8284l-0.7071 -0.7071c-0.781 -0.7811 -2.0474 -0.7811 -2.8284 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1912 (Stroke)_4" fill="#2859c5" fill-rule="evenodd" d="M24 5.5c-1.1046 0 -2 -0.89543 -2 -2l0 -1c0 -1.10457 0.8954 -2 2 -2s2 0.89543 2 2l0 1c0 1.10457 -0.8954 2 -2 2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

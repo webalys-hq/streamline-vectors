@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" stroke-width="3" id="Recording-Tape-1--Streamline-Plump">
+  <desc>
+    Recording Tape 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="recording-tape-1--film-television-tv-movies-reel-video-entertainment">
+    <path id="Ellipse 219" fill="#8fbffa" d="M41 22c0 10.4934-8.5066 19-19 19S3 32.4934 3 22 11.5066 3 22 3s19 8.5066 19 19Z"></path>
+    <path id="Ellipse 215" fill="#ffffff" d="M18 12a4 4 0 1 0 8 0 4 4 0 1 0-8 0"></path>
+    <path id="Ellipse 216" fill="#ffffff" transform="rotate(90 32 22)" d="M28 22a4 4 0 1 0 8 0 4 4 0 1 0-8 0"></path>
+    <path id="Ellipse 217" fill="#ffffff" transform="matrix(1 0 0 -1 18 36)" d="M0 4a4 4 0 1 0 8 0 4 4 0 1 0-8 0"></path>
+    <path id="Ellipse 218" fill="#ffffff" transform="matrix(0 1 1 0 8 18)" d="M0 4a4 4 0 1 0 8 0 4 4 0 1 0-8 0"></path>
+    <path id="Ellipse 209" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 22a19 19 0 1 0 38 0 19 19 0 1 0-38 0"></path>
+    <path id="Ellipse 211" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M18 12a4 4 0 1 0 8 0 4 4 0 1 0-8 0"></path>
+    <path id="Ellipse 213" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32 18a4 4 0 1 0 0 8 4 4 0 1 0 0-8"></path>
+    <path id="Ellipse 212" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M18 32a4 4 0 1 1 8 0 4 4 0 1 1-8 0"></path>
+    <path id="Ellipse 214" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M12 18a4 4 0 1 0 0 8 4 4 0 1 0 0-8"></path>
+    <path id="Vector 1642" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M41 22c0 7-4 14.3333-4 18 0 3.6667 2.2 5 4 5 2.7 0 4-2.2917 4-7.3333"></path>
+    <g id="Group 4288">
+      <path id="Ellipse 431" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22 22.5c-.2761 0-.5-.2239-.5-.5s.2239-.5.5-.5"></path>
+      <path id="Ellipse 433" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22 22.5c.2761 0 .5-.2239.5-.5s-.2239-.5-.5-.5"></path>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" stroke-width="3" id="Division-Circle--Streamline-Plump">
+  <desc>
+    Division Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="division-circle--interface-math-divided-by-sign-mathematics">
+    <path id="Ellipse 18" fill="#8fbffa" transform="matrix(1 0 0 -1 3 45)" d="M0 21a21 21 0 1 0 42 0 21 21 0 1 0-42 0"></path>
+    <path id="Ellipse 19" fill="#ffffff" d="M21 13a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 20" fill="#ffffff" transform="matrix(1 0 0 -1 21 38)" d="M0 3a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Rectangle 59" fill="#ffffff" d="M37.953 24.9079c-.1378 1.244-1.2877 1.8556-2.5381 1.9115C33.542 26.9031 30.0636 27 24 27c-6.0636 0-9.542-.0969-11.4149-.1806-1.2504-.0559-2.4003-.6675-2.5381-1.9115-.0294-.2657-.047-.567-.047-.9079 0-.3409.0176-.6422.047-.9079.1378-1.244 1.2877-1.8556 2.5381-1.9115C14.458 21.0969 17.9364 21 24 21c6.0636 0 9.542.0969 11.4149.1806 1.2504.0559 2.4003.6675 2.5381 1.9115.0294.2657.047.567.047.9079 0 .3409-.0176.6422-.047.9079Z"></path>
+    <path id="Ellipse 21" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 24c0-11.598-9.402-21-21-21S3 12.402 3 24s9.402 21 21 21 21-9.402 21-21Z"></path>
+    <path id="Ellipse 22" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M27 13c0 1.6569-1.3431 3-3 3s-3-1.3431-3-3 1.3431-3 3-3 3 1.3431 3 3Z"></path>
+    <path id="Ellipse 23" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M27 35c0-1.6569-1.3431-3-3-3s-3 1.3431-3 3 1.3431 3 3 3 3-1.3431 3-3Z"></path>
+    <path id="Rectangle 60" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M37.953 24.9079c-.1378 1.244-1.2877 1.8556-2.5381 1.9115C33.542 26.9031 30.0636 27 24 27c-6.0636 0-9.542-.0969-11.4149-.1806-1.2504-.0559-2.4003-.6675-2.5381-1.9115-.0294-.2657-.047-.567-.047-.9079 0-.3409.0176-.6422.047-.9079.1378-1.244 1.2877-1.8556 2.5381-1.9115C14.458 21.0969 17.9364 21 24 21c6.0636 0 9.542.0969 11.4149.1806 1.2504.0559 2.4003.6675 2.5381 1.9115.0294.2657.047.567.047.9079 0 .3409-.0176.6422-.047.9079Z"></path>
+  </g>
+</svg>

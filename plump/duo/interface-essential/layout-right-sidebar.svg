@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Layout-Right-Sidebar--Streamline-Plump">
+  <desc>
+    Layout Right Sidebar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layout-right-sidebar">
+    <path id="Rectangle 1097" fill="#ffffff" d="M8.4579 41.7587c-2.89117 -0.1069 -5.14897 -2.3483 -5.25751 -5.2394C3.0951 33.7144 3 29.6243 3 24s0.0951 -9.7144 0.20039 -12.5193c0.10854 -2.89109 2.36635 -5.13247 5.25752 -5.23939C11.7582 6.11928 16.8202 6 24 6s12.2418 0.11928 15.5421 0.24131c2.8912 0.10692 5.149 2.3483 5.2575 5.23939C44.9049 14.2856 45 18.3757 45 24s-0.0951 9.7144 -0.2004 12.5193c-0.1085 2.8911 -2.3663 5.1325 -5.2575 5.2394C36.2418 41.8807 31.1798 42 24 42s-12.2418 -0.1193 -15.5421 -0.2413Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#8fbffa" d="M30 6.03027V41.9701c4.1096 -0.0431 7.2505 -0.1265 9.5421 -0.2112 2.8912 -0.107 5.149 -2.3483 5.2575 -5.2395 0.1053 -2.8049 0.2004 -6.8949 0.2004 -12.5192s-0.0951 -9.7144 -0.2004 -12.5193c-0.1085 -2.89111 -2.3663 -5.1325 -5.2575 -5.23941 -2.2916 -0.08474 -5.4325 -0.16815 -9.5421 -0.21122Z" stroke-width="1"></path>
+    <path id="Rectangle 1096" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M8.45791 41.7587c-2.89118 -0.1069 -5.14899 -2.3483 -5.25752 -5.2394C3.0951 33.7144 3 29.6243 3 24s0.0951 -9.7144 0.20039 -12.5193c0.10853 -2.89109 2.36635 -5.13247 5.25752 -5.23939C11.7582 6.11928 16.8202 6 24 6s12.2418 0.11928 15.5421 0.24131c2.8912 0.10692 5.149 2.3483 5.2575 5.23939C44.9049 14.2856 45 18.3757 45 24s-0.0951 9.7144 -0.2004 12.5193c-0.1085 2.8911 -2.3663 5.1325 -5.2575 5.2394C36.2418 41.8807 31.1798 42 24 42s-12.2418 -0.1193 -15.54209 -0.2413Z" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30 6.03125V41.9711" stroke-width="1"></path>
+    <path id="Vector 1105" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m36 13 3 0" stroke-width="1"></path>
+    <path id="Vector 1106" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m36 19 3 0" stroke-width="1"></path>
+    <path id="Vector 1107" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m36 25 3 0" stroke-width="1"></path>
+  </g>
+</svg>

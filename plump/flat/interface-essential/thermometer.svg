@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Thermometer--Streamline-Plump">
+  <desc>
+    Thermometer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M23.402 1.505a37.662 37.662 0 0 1 1.195 0c2.297 0.036 4.204 0.982 5.54 2.523 1.317 1.518 2.02 3.538 2.118 5.682 0.134 2.951 0.244 7.223 0.244 13.29 0 0.63 0 1.24 -0.003 1.832A12.47 12.47 0 0 1 36.499 34c0 6.904 -5.596 12.5 -12.5 12.5 -6.903 0 -12.5 -5.596 -12.5 -12.5a12.47 12.47 0 0 1 4.004 -9.168c-0.002 -0.592 -0.004 -1.202 -0.004 -1.832 0 -6.067 0.111 -10.339 0.245 -13.29 0.098 -2.144 0.801 -4.164 2.117 -5.682 1.337 -1.54 3.244 -2.487 5.541 -2.523Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M26 29.968V10a2 2 0 1 0 -4 0v19.968a4.5 4.5 0 1 0 4 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

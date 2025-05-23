@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Keyhole-Lock-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Keyhole Lock Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="keyhole-lock-circle--circle-frame-key-keyhole-lock-locked-secure-security">
+    <path id="Subtract" fill="url(#paint0_linear_7979_663)" fill-rule="evenodd" d="M24 47.5C11.0213 47.5.5 36.9787.5 24S11.0213.5 24 .5 47.5 11.0213 47.5 24 36.9787 47.5 24 47.5ZM31 19c0 2.5881-1.4046 4.8482-3.493 6.0595l2.0795 8.4482c.2374.9645-.2815 1.9325-1.257 2.1197C27.3325 35.8187 25.8894 36 24 36c-1.8894 0-3.3325-.1813-4.3295-.3726-.9755-.1872-1.4944-1.1552-1.257-2.1197l2.0795-8.4482C18.4046 23.8482 17 21.5881 17 19c0-3.866 3.134-7 7-7s7 3.134 7 7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_663" x1="2.306" x2="55.874" y1="4.298" y2="34.49" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

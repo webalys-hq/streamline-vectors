@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Circle-Clock--Streamline-Plump">
+  <desc>
+    Circle Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="circle-clock--clock-loading-measure-time-circle">
+    <path id="Ellipse 22" fill="#8fbffa" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="1"></path>
+    <path id="Ellipse 21" fill="#ffffff" d="M39 24c0 8.284 -6.716 15 -15 15 -8.284 0 -15 -6.716 -15 -15 0 -8.284 6.716 -15 15 -15 8.284 0 15 6.716 15 15Z" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 24a21 21 0 1 0 42 0 21 21 0 1 0 -42 0" stroke-width="1"></path>
+    <path id="Ellipse 20" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M9 24a15 15 0 1 0 30 0 15 15 0 1 0 -30 0" stroke-width="1"></path>
+    <path id="Vector 1439" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M24 15v9l6 6" stroke-width="1"></path>
+  </g>
+</svg>

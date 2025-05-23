@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Refrigerator--Streamline-Plump">
+  <desc>
+    Refrigerator Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="refrigerator--fridge-cook-appliances-cooking-nutrition-freezer-appliance-food-kitchenware">
+    <path id="Union" fill="#8fbffa" d="M42.5 24c0 -8.43 -0.276 -13.57 -0.543 -16.568 -0.26 -2.922 -2.444 -5.141 -5.37 -5.43C34.027 1.747 29.992 1.5 24 1.5s-10.026 0.248 -12.588 0.501c-2.925 0.29 -5.109 2.509 -5.369 5.43 -0.266 3 -0.543 8.139 -0.543 16.569s0.277 13.57 0.543 16.569c0.26 2.921 2.444 5.14 5.37 5.43 2.56 0.253 6.595 0.501 12.587 0.501s10.026 -0.248 12.587 -0.501c2.926 -0.29 5.11 -2.509 5.37 -5.43 0.267 -3 0.543 -8.139 0.543 -16.569Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M15 30a2 2 0 0 0 -2 2v4a2 2 0 1 0 4 0v-4a2 2 0 0 0 -2 -2Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" d="M15 10a2 2 0 0 0 -2 2v4a2 2 0 1 0 4 0v-4a2 2 0 0 0 -2 -2Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="M42.497 22.5a366.125 366.125 0 0 1 0 3H5.503a369.735 369.735 0 0 1 0 -3h36.994Z" stroke-width="1"></path>
+  </g>
+</svg>

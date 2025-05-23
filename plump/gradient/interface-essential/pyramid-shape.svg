@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Pyramid-Shape--Streamline-Plump-Gradient">
+  <desc>
+    Pyramid Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pyramid-shape">
+    <path id="Union" fill="url(#paint0_linear_7979_939)" fill-rule="evenodd" d="M20.4725 3.18763C21.016 2.45395 21.726 1.9461 22.5 1.66406V46.3913c-2.3953-.314-5.4493-1.2718-8.3969-2.3578-3.6842-1.3573-7.46095-3.0162-10.1155-4.2347-2.79055-1.281-3.9283085-4.6226-2.4729-7.3375C7.83175 20.6776 16.4102 8.67211 20.4725 3.18763ZM33.8968 44.0335c-2.9475 1.0859-6.0015 2.0438-8.3968 2.3577V1.66406c.774.28204 1.484.78989 2.0274 1.52356C31.5897 8.6721 40.1682 20.6776 46.4853 32.4613c1.4554 2.7149.3176 6.0565-2.4729 7.3375-2.6546 1.2185-6.4313 2.8774-10.1156 4.2347Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_939" x1="51.128" x2="-9.837" y1="55.865" y2="11.093" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

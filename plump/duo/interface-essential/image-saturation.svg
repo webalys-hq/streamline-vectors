@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Image-Saturation--Streamline-Plump">
+  <desc>
+    Image Saturation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="image-saturation">
+    <path id="Ellipse 222" fill="#8fbffa" d="M6 27.8889C6 17.7815 17.874 7.67417 22.3339 4.23429c0.9883 -0.76226 2.3439 -0.76226 3.3322 0C30.126 7.67417 42 17.7815 42 27.8889 42 37.3391 33.9411 45 24 45S6 37.3391 6 27.8889Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#ffffff" d="M23.232 12.5704c0.3209 -0.2464 0.768 -0.0143 0.768 0.3903v24.0394c0 0.5523 -0.4491 1.0046 -0.9994 0.9569C17.3938 37.4707 13 32.9332 13 27.4075c0 -6.4596 7.734 -12.9192 10.232 -14.8371Z" stroke-width="1"></path>
+    <path id="Ellipse 221" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M6 27.8889C6 17.7815 17.874 7.67417 22.3339 4.23429c0.9883 -0.76226 2.3439 -0.76226 3.3322 0C30.126 7.67417 42 17.7815 42 27.8889 42 37.3391 33.9411 45 24 45S6 37.3391 6 27.8889Z" stroke-width="1"></path>
+    <path id="Subtract_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M23.232 12.5704c0.3209 -0.2464 0.768 -0.0143 0.768 0.3903v24.0394c0 0.5523 -0.4491 1.0046 -0.9994 0.9569C17.3938 37.4707 13 32.9332 13 27.4075c0 -6.4596 7.734 -12.9192 10.232 -14.8371Z" stroke-width="1"></path>
+  </g>
+</svg>

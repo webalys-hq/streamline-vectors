@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Cut--Streamline-Plump">
+  <desc>
+    Cut Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cut--coupon-cut-discount-price-prices-scissors">
+    <path id="Exclude" fill="#8fbffa" fill-rule="evenodd" d="M17.688 19.975a9 9 0 1 0 -10.943 0.332c1.187 0.969 3.139 2.262 5.505 3.693 -2.366 1.431 -4.318 2.724 -5.506 3.693a9 9 0 1 0 10.943 0.332s2.24 1.39 5.313 3.075l11.056 -3.075A216.767 216.767 0 0 1 24 24c8.666 -3.748 17.862 -6.833 20.856 -7.811 0.547 -0.179 0.816 -0.774 0.511 -1.263C44.486 13.513 42.312 11 38 11c-5.846 0 -20.312 8.975 -20.312 8.975ZM15 13a3 3 0 1 1 -6 0 3 3 0 0 1 6 0Zm0 22a3 3 0 1 0 -6 0 3 3 0 0 0 6 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M23 31.1a127.585 127.585 0 0 1 -5.312 -3.075 9 9 0 1 1 -10.943 -0.332c1.187 -0.969 3.139 -2.262 5.505 -3.693 -2.366 -1.431 -4.318 -2.724 -5.506 -3.693a9 9 0 1 1 10.943 -0.332S32.156 11 38 11c4.312 0 6.486 2.513 7.367 3.926 0.305 0.489 0.036 1.084 -0.511 1.263C41.862 17.167 32.666 20.252 24 24a216.767 216.767 0 0 0 10.056 4.025M15 13a3 3 0 1 1 -6 0 3 3 0 0 1 6 0Zm0 22a3 3 0 1 0 -6 0 3 3 0 0 0 6 0Z" stroke-width="1"></path>
+    <path id="Vector 917" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m31 33 -2 0" stroke-width="1"></path>
+    <path id="Vector 918" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m38 33 -2 0" stroke-width="1"></path>
+    <path id="Vector 919" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m45 33 -2 0" stroke-width="1"></path>
+  </g>
+</svg>

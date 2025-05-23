@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Sad-Face--Streamline-Plump-Gradient">
+  <desc>
+    Sad Face Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sad-face--smiley-chat-message-emoji-sad-face-unsatisfied">
+    <path id="Subtract" fill="url(#paint0_linear_7979_4171)" fill-rule="evenodd" d="M.5 24C.5 11.0213 11.0213.5 24 .5S47.5 11.0213 47.5 24 36.9787 47.5 24 47.5.5 36.9787.5 24ZM15 15c1.1046 0 2 .8954 2 2v2c0 1.1046-.8954 2-2 2s-2-.8954-2-2v-2c0-1.1046.8954-2 2-2Zm16 2c0-1.1046.8954-2 2-2s2 .8954 2 2v2c0 1.1046-.8954 2-2 2s-2-.8954-2-2v-2Zm-7 12c-3.3137 0-6 2.6863-6 6 0 1.1046-.8954 2-2 2s-2-.8954-2-2c0-5.5228 4.4772-10 10-10s10 4.4772 10 10c0 1.1046-.8954 2-2 2s-2-.8954-2-2c0-3.3137-2.6863-6-6-6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4171" x1="47.341" x2="-8.317" y1="47.51" y2="16.201" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

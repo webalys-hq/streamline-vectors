@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Fahrenheit--Streamline-Plump-Gradient">
+  <desc>
+    Fahrenheit Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fahrenheit--degrees-temperature-fahrenheit-degree-weather">
+    <path id="Union" fill="url(#paint0_linear_7979_453)" fill-rule="evenodd" d="M6.25 6.5c0-.9665.7835-1.75 1.75-1.75s1.75.7835 1.75 1.75S8.9665 8.25 8 8.25 6.25 7.4665 6.25 6.5ZM8 .25C4.54822.25 1.75 3.04822 1.75 6.5S4.54822 12.75 8 12.75c3.4518 0 6.25-2.79822 6.25-6.25S11.4518.25 8 .25ZM15.5 10c0-3.03757 2.4624-5.5 5.5-5.5h20.8593c1.7714 0 3.8507.94892 4.3453 3.17263.1715.77125.2954 1.71433.2954 2.82737 0 1.113-.1239 2.0561-.2954 2.8274C45.71 15.5511 43.6307 16.5 41.8593 16.5H28.5v4h9.3593c1.7714 0 3.8507.9489 4.3453 3.1726.1715.7713.2954 1.7144.2954 2.8274s-.1239 2.0561-.2954 2.8274C41.71 31.5511 39.6307 32.5 37.8593 32.5H28.5V43c0 2.4853-2.0147 4.5-4.5 4.5h-4c-2.4853 0-4.5-2.0147-4.5-4.5V10Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_453" x1="9.065" x2="46.105" y1="9.337" y2="28.773" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

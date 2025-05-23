@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" stroke-width="3" id="Graph-Dot--Streamline-Plump">
+  <desc>
+    Graph Dot Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="graph-dot--product-data-bars-analysis-analytics-graph-business-chart-dot">
+    <path id="Ellipse 19" fill="#8fbffa" d="M35 8a5 5 0 1 0 10 0 5 5 0 0 0-10 0Z"></path>
+    <path id="Ellipse 22" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M35 8a5 5 0 1 0 10 0 5 5 0 0 0-10 0Z"></path>
+    <path id="Ellipse 20" fill="#8fbffa" transform="matrix(-1 0 0 1 22 11)" d="M0 5a5 5 0 1 0 10 0A5 5 0 1 0 0 5"></path>
+    <path id="Ellipse 23" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22 16a5 5 0 1 1-10 0 5 5 0 1 1 10 0"></path>
+    <path id="Ellipse 21" fill="#8fbffa" transform="matrix(-1 0 0 1 38 23)" d="M0 5a5 5 0 1 0 10 0A5 5 0 1 0 0 5"></path>
+    <path id="Ellipse 24" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M38 28a5 5 0 1 1-10 0 5 5 0 1 1 10 0"></path>
+    <path id="Vector 2496" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 35c2.908-5.51 7.316-11.395 10.297-15.13"></path>
+    <path id="Vector 2498" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M20.741 19.365c2.769 2.287 5.745 4.392 8.071 5.951"></path>
+    <path id="Vector 2497" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34.384 23.228c1.24-3.954 2.64-7.75 3.732-10.564"></path>
+    <path id="Vector" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 3c0 16.305.301 32.309.436 38.65a2.972 2.972 0 0 0 2.914 2.914C12.691 44.699 28.695 45 45 45"></path>
+  </g>
+</svg>

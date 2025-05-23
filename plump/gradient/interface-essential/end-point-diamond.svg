@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="End-Point-Diamond--Streamline-Plump-Gradient">
+  <desc>
+    End Point Diamond Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="end-point-diamond">
+    <path id="Union" fill="url(#paint0_linear_7979_432)" fill-rule="evenodd" d="M38.591 14.8811c-1.1536-1.0081-2.8152-1.0081-3.9688 0-.8807.7697-2.1048 1.895-3.6725 3.4626-.8165.8166-1.5131 1.5399-2.1018 2.1701-1.6551-.0085-3.5231-.0134-5.6312-.0134H2c-.27614 0-.5.2239-.5.5v6c0 .2762.22386.5.5.5h21.2167c2.1079 0 3.9759-.0049 5.6309-.0134.5888.6303 1.2854 1.3537 2.1021 2.1704 1.5677 1.5677 2.7918 2.693 3.6725 3.4626 1.1536 1.0082 2.8152 1.0082 3.9688 0 .8807-.7696 2.1048-1.8949 3.6725-3.4626 1.5676-1.5676 2.6929-2.7918 3.4625-3.6724 1.0082-1.1537 1.0082-2.8152 0-3.9688-.7696-.8807-1.8949-2.1048-3.4625-3.6725-1.5677-1.5676-2.7918-2.6929-3.6725-3.4626Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_432" x1="50.38" x2="25.143" y1="38.06" y2="-2.769" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

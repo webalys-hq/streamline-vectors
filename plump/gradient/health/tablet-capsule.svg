@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Tablet-Capsule--Streamline-Plump-Gradient">
+  <desc>
+    Tablet Capsule Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tablet-capsule--health-medical-hospital-medicine-capsule-tablet">
+    <path id="Subtract" fill="url(#paint0_linear_7979_3961)" fill-rule="evenodd" d="M33.2396.503093C36.8377.425085 40.3641 1.82225 43.2705 4.7287c2.9065 2.90645 4.3036 6.4328 4.2256 10.0309-.0776 3.5814-1.6122 7.1118-4.3443 10.0823-2.0709 2.2516-4.6722 4.9824-7.9266 8.26L14.8973 12.7741c3.2776-3.25445 6.0084-5.85574 8.2601-7.92666C26.1279 2.11536 29.6583.580739 33.2396.503093ZM12.776 14.8954c-3.25531 3.2784-5.85722 6.0098-7.92856 8.262C2.11537 26.1279.58074 29.6583.503093 33.2396.425084 36.8377 1.82225 40.3641 4.7287 43.2705c2.90645 2.9065 6.4328 4.3036 10.0309 4.2256 3.5813-.0776 7.1118-1.6122 10.0823-4.3443 2.2521-2.0714 4.9835-4.6733 8.262-7.9286L12.776 14.8954Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3961" x1="47.34" x2="-8.317" y1="47.509" y2="16.2" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

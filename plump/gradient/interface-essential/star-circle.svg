@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Star-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Star Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="star-circle--reward-social-rating-media-rate-it-star">
+    <path id="Subtract" fill="url(#paint0_linear_7979_1077)" fill-rule="evenodd" d="M24 47.5C11.0213 47.5.5 36.9787.5 24S11.0213.5 24 .5 47.5 11.0213 47.5 24 36.9787 47.5 24 47.5Zm-2.1601-36.7846c.9644-1.65568 3.3562-1.65569 4.3206 0l3.0007 5.1519c.2119.3639.5671.6219.9787.7111l5.827 1.2618c1.8726.4055 2.6118 2.6803 1.3351 4.1091l-3.9724 4.4458c-.2806.3141-.4163.7316-.3739 1.1506l.6006 5.9317c.193 1.9063-1.742 3.3122-3.4954 2.5396l-5.4558-2.4042c-.3854-.1698-.8244-.1698-1.2098 0l-5.4558 2.4042c-1.7534.7726-3.6884-.6333-3.4954-2.5396l.6006-5.9317c.0424-.419-.0933-.8365-.3739-1.1506l-3.9724-4.4458c-1.27668-1.4288-.5376-3.7036 1.3351-4.1091l5.827-1.2618c.4116-.0892.7668-.3472.9787-.7111l3.0007-5.1519Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_1077" x1="2.306" x2="55.874" y1="4.298" y2="34.49" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

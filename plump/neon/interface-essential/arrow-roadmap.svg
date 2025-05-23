@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Arrow-Roadmap--Streamline-Plump-Neon">
+  <desc>
+    Arrow Roadmap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="triangle-arrow-roadmap">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3 8h7m10 0h15c4.4183 0 8 3.5974 8 8.0157v0C43 20.4167 39.4323 24 35.0312 24v0m-10.0937 0H13c-4.41828 0 -8 3.5817 -8 8v0c0 4.4183 3.58172 8 8 8v0m10 0h11.875" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M35.2686 44.1533c0.0812 0.4937 0.5551 0.7263 1.0174 0.5348 0.8169 -0.3383 2.2725 -0.9973 4.4787 -2.1881 1.4775 -0.7975 2.4501 -1.4359 3.0855 -1.9154 0.7932 -0.5985 0.7933 -1.5708 0.0001 -2.1693 -0.6354 -0.4795 -1.608 -1.1179 -3.0856 -1.9153 -2.206 -1.1905 -3.6617 -1.8495 -4.4786 -2.188 -0.4623 -0.1915 -0.9363 0.0411 -1.0175 0.5349C35.141 35.6228 35 37.0373 35 39.5c0 2.4629 0.141 3.8774 0.2686 4.6533Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10 8a5 5 0 1 0 10 0 5 5 0 1 0 -10 0" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 40a5 5 0 1 0 10 0 5 5 0 1 0 -10 0" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M25 24a5 5 0 1 0 10 0 5 5 0 1 0 -10 0" stroke-width="1"></path>
+  </g>
+</svg>

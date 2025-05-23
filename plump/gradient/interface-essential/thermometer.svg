@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Thermometer--Streamline-Plump-Gradient">
+  <desc>
+    Thermometer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
+    <path id="Subtract" fill="url(#paint0_linear_7979_1134)" fill-rule="evenodd" d="M22.7932.515093C23.1748.505271 23.5766.5 23.9995.5c.4229 0 .8247.005271 1.2064.015094C30.0804.64055 33.0091 4.48476 33.234 8.98811c.147 2.94269.2655 7.13639.2655 13.01189 0 .834-.0024 1.6341-.0069 2.4015 2.4723 2.4455 4.0069 5.8436 4.0069 9.5985 0 7.4558-6.0441 13.5-13.5 13.5-7.4558 0-13.5-6.0442-13.5-13.5 0-3.7549 1.5346-7.153 4.0069-9.5985-.0045-.7674-.0069-1.5675-.0069-2.4015 0-5.8755.1185-10.0692.2655-13.01189.225-4.50335 3.1537-8.347562 8.0282-8.473017ZM24 6.5c1.3807 0 2.5 1.11929 2.5 2.5v20.0997c1.7808.9104 3 2.763 3 4.9003 0 3.0376-2.4624 5.5-5.5 5.5s-5.5-2.4624-5.5-5.5c0-2.1373 1.2192-3.9899 3-4.9003V9c0-1.38071 1.1193-2.5 2.5-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_1134" x1="39.839" x2="-7.134" y1="57.455" y2="38.286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

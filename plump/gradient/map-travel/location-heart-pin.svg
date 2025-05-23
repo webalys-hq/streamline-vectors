@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Location-Heart-Pin--Streamline-Plump-Gradient">
+  <desc>
+    Location Heart Pin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-heart-pin">
+    <path id="Subtract" fill="url(#paint0_linear_7979_3364)" fill-rule="evenodd" d="M3.5 21C3.5 9.67816 12.6782.5 24 .5S44.5 9.67816 44.5 21c0 6.5952-3.056 12.0485-6.6718 16.1914-3.6147 4.1418-7.8774 7.0797-10.5303 8.6868-2.042 1.237-4.5538 1.237-6.5958 0-2.6529-1.6071-6.9156-4.545-10.5303-8.6868C6.55603 33.0485 3.5 27.5952 3.5 21Zm20.1166-6.0051c-3.4385-3.0511-8.927-1.1808-9.9188 3.3384-.6551 2.8128.377 5.2495 1.9892 7.2887 1.6055 2.0307 3.83 3.7249 5.6719 5.0834 1.5669 1.1557 3.7164 1.1557 5.2833 0 1.8419-1.3585 4.0664-3.0527 5.6718-5.0834 1.6123-2.0392 2.6444-4.4759 1.9892-7.2888-.9917-4.5191-6.4803-6.3894-9.9188-3.3383-.132.1165-.2608.2455-.3839.3735-.1231-.128-.2519-.2571-.3839-.3735Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3364" x1="44.361" x2="-6.851" y1="46.816" y2="21.308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

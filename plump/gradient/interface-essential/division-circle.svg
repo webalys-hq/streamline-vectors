@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Division-Circle--Streamline-Plump-Gradient">
+  <desc>
+    Division Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="division-circle--interface-math-divided-by-sign-mathematics">
+    <path id="Subtract" fill="url(#paint0_linear_7979_393)" fill-rule="evenodd" d="M.5 24C.5 11.0213 11.0213.5 24 .5S47.5 11.0213 47.5 24 36.9787 47.5 24 47.5.5 36.9787.5 24ZM20 12.5c0-2.2091 1.7909-4 4-4 2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4Zm-7.4372 8.1811C14.4454 20.597 17.9317 20.5 24 20.5c6.0683 0 9.5546.097 11.4372.1811 1.3514.0604 2.8345.7464 3.0128 2.356.0316.2851.05.6049.05.9629s-.0184.6778-.05.9629c-.1783 1.6096-1.6614 2.2956-3.0128 2.356C33.5546 27.403 30.0683 27.5 24 27.5c-6.0683 0-9.5546-.097-11.4372-.1811-1.3514-.0604-2.83448-.7464-3.01277-2.356C9.51845 24.6778 9.5 24.358 9.5 24s.01845-.6778.05003-.9629c.17829-1.6096 1.66137-2.2956 3.01277-2.356ZM20 35.5c0-2.2091 1.7909-4 4-4 2.2091 0 4 1.7909 4 4 0 2.2091-1.7909 4-4 4-2.2091 0-4-1.7909-4-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_393" x1="51.573" x2="-11.823" y1="57.455" y2="12.422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

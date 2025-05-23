@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="File-Search--Streamline-Plump">
+  <desc>
+    File Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="file-search">
+    <path id="Subtract" fill-rule="evenodd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M42 32a9.958 9.958 0 0 1 -1.115 4.594c1.128 0.936 2.24 1.865 3.339 2.89 1.158 1.082 1.301 2.719 0.206 3.863a32.303 32.303 0 0 1 -1.017 1.018c-1.145 1.095 -2.782 0.951 -3.863 -0.206 -1.02 -1.092 -1.943 -2.197 -2.873 -3.318A9.957 9.957 0 0 1 32 42c-5.523 0 -10 -4.477 -10 -10s4.477 -10 10 -10 10 4.477 10 10Zm-10 4a4 4 0 1 0 0 -8 4 4 0 0 0 0 8Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 43c-6.264 0 -10.566 -0.32 -13.248 -0.627 -2.201 -0.252 -3.85 -1.903 -4.092 -4.105C3.34 35.378 3 30.527 3 23c0 -7.527 0.341 -12.378 0.66 -15.268 0.242 -2.202 1.89 -3.852 4.092 -4.105C10.434 3.321 14.736 3 21 3c1.866 0 3.558 0.028 5.084 0.076 0.85 0.266 3.579 1.354 7.52 5.218 3.719 3.646 4.917 6.233 5.268 7.213 0.04 1.074 0.072 2.237 0.094 3.493" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M38.886 15.958c-2.087 0.311 -5.841 0.072 -8.69 -0.191a4.664 4.664 0 0 1 -4.229 -4.211c-0.268 -2.802 -0.506 -6.466 -0.18 -8.488" stroke-width="1"></path>
+  </g>
+</svg>

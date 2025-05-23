@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Stroller--Streamline-Plump-Neon">
+  <desc>
+    Stroller Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="stroller">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 17c0 -1.2088 -0.0112 -2.3282 -0.0307 -3.361 -0.1127 -5.98095 -4.6274 -10.4956 -10.6083 -10.60835C34.3282 3.01118 33.2088 3 32 3c0 0 -1 6.5 -1 14" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M34 40.5a4.5 4.5 0 1 0 9 0 4.5 4.5 0 1 0 -9 0" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 40.5a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 1 1 9 0" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12 17c-1.1268 -5.2583 -2.81784 -9.95232 -3.5896 -11.96266 -0.25804 -0.67216 -0.76678 -1.21404 -1.45808 -1.41525C5.9793 3.33888 4.32853 3 2 3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 17c0 2.9071 -0.4846 5.6745 -1.0512 7.9169 -0.8649 3.4227 -3.7572 5.6768 -7.2819 5.876C35.5696 30.9115 32.7484 31 29 31s-6.5696 -0.0885 -8.6669 -0.2071c-3.5247 -0.1992 -6.417 -2.4533 -7.2819 -5.876C12.4846 22.6745 12 19.9071 12 17l34 0Z" stroke-width="1"></path>
+  </g>
+</svg>

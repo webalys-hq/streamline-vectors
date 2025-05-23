@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Hard-Drive-2--Streamline-Plump">
+  <desc>
+    Hard Drive 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hard-drive-2--disk-device-electronics-disc-drive-raid-storage">
+    <path id="Union" fill="#2859c5" d="M12.992 1.882C15.542 1.673 19.125 1.5 24 1.5c4.875 0 8.457 0.173 11.008 0.382 3.93 0.322 6.738 3.366 7.333 7.077l3.823 23.829A26.59 26.59 0 0 1 46.5 37c0 5.303 -4.315 9.207 -9.443 9.346A484.63 484.63 0 0 1 24 46.5c-5.626 0 -9.9 -0.068 -13.057 -0.154C5.815 46.207 1.5 42.303 1.5 37c0 -1.41 0.112 -2.82 0.336 -4.212L5.659 8.959c0.595 -3.711 3.402 -6.755 7.333 -7.077Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M24 46.5c-5.626 0 -9.9 -0.068 -13.057 -0.154C5.815 46.207 1.5 42.303 1.5 37s4.315 -9.207 9.443 -9.346A484.63 484.63 0 0 1 24 27.5c5.626 0 9.9 0.068 13.057 0.154 5.128 0.139 9.443 4.043 9.443 9.346s-4.315 9.207 -9.443 9.346A484.63 484.63 0 0 1 24 46.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M16 37a2 2 0 0 1 2 -2h20a2 2 0 1 1 0 4H18a2 2 0 0 1 -2 -2Zm-6 -2a2 2 0 1 0 0 4h1a2 2 0 1 0 0 -4h-1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Fork-Plate--Streamline-Plump">
+  <desc>
+    Fork Plate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fork-plate--fork-plate-food-dine-cook-utensils-eat-restaurant-dining-kitchenware">
+    <path id="Intersect" fill="#8fbffa" d="M25.5 24c0 11.046 8.954 20 20 20H47V4h-1.5c-11.046 0 -20 8.954 -20 20Z" stroke-width="1"></path>
+    <path id="Intersect_2" fill="#8fbffa" d="M25.5 24c0 11.046 8.954 20 20 20H47V4h-1.5c-11.046 0 -20 8.954 -20 20Z" stroke-width="1"></path>
+    <path id="Vector" fill="#8fbffa" d="M33.5 24c0 6.627 5.373 12 12 12H47V12h-1.5c-6.627 0 -12 5.373 -12 12Z" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M19.946 6.358c0.46 2.718 1.104 7.467 1.052 12.538 -0.027 2.617 -1.775 4.962 -4.523 5.578 -0.567 0.127 -1.173 0.242 -1.805 0.331l1.785 13.933c0.314 2.451 -1.195 4.88 -3.645 5.2A6.48 6.48 0 0 1 12 44c-0.229 0 -0.505 -0.023 -0.809 -0.063 -2.45 -0.32 -3.959 -2.748 -3.645 -5.199l1.785 -13.933a22.945 22.945 0 0 1 -1.805 -0.33c-2.748 -0.617 -4.496 -2.963 -4.523 -5.58 -0.052 -5.07 0.59 -9.818 1.05 -12.536C4.288 4.974 5.5 4 6.904 4h10.191c1.405 0 2.616 0.973 2.85 2.358Z" stroke-width="1"></path>
+    <g id="Group 6">
+      <path id="Intersect_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45.5 4c-11.046 0 -20 8.954 -20 20s8.954 20 20 20" stroke-width="1"></path>
+      <path id="Intersect_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45.5 12c-6.627 0 -12 5.373 -12 12s5.373 12 12 12" stroke-width="1"></path>
+    </g>
+    <path id="Union_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M19.945 6.358c0.46 2.718 1.104 7.467 1.052 12.538 -0.026 2.617 -1.774 4.962 -4.522 5.578 -0.568 0.127 -1.173 0.242 -1.805 0.331l1.784 13.933c0.314 2.451 -1.195 4.88 -3.645 5.2 -0.303 0.039 -0.58 0.062 -0.809 0.062a6.48 6.48 0 0 1 -0.81 -0.063c-2.45 -0.32 -3.958 -2.748 -3.644 -5.199L9.33 24.805a22.946 22.946 0 0 1 -1.804 -0.33c-2.749 -0.617 -4.497 -2.963 -4.524 -5.58 -0.051 -5.07 0.591 -9.818 1.051 -12.536C4.287 4.974 5.499 4 6.903 4h10.192c1.405 0 2.616 0.973 2.85 2.358Z" stroke-width="1"></path>
+    <path id="Vector 1020" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M9.5 4 9 15" stroke-width="1"></path>
+    <path id="Vector 1021" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m14.5 4 0.5 11" stroke-width="1"></path>
+  </g>
+</svg>

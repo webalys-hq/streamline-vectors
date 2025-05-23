@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Door--Streamline-Plump-Gradient">
+  <desc>
+    Door Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="door--door-entrance-house-home">
+    <path id="Subtract" fill="url(#paint0_linear_7979_399)" fill-rule="evenodd" d="M42.8708 6.45665C43.1766 9.5726 43.5 14.9942 43.5 24s-.3234 14.4274-.6292 17.5434c-.2866 2.9211-2.4937 5.106-5.3991 5.401-2.7138.2755-7.051.5556-13.4716.5556-6.4207 0-10.7579-.2801-13.4718-.5556-2.90535-.295-5.11252-2.48-5.39914-5.4011C4.82343 38.4274 4.5 33.0057 4.5 24s.32343-14.42737.62916-17.54332c.28662-2.92112 2.49379-5.10607 5.39914-5.40105C13.2422.780099 17.5794.5 24.0001.5c6.4206 0 10.7578.280097 13.4716.55563 2.9054.29498 5.1125 2.47992 5.3991 5.40102ZM30 21.5c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5h4c1.3807 0 2.5-1.1193 2.5-2.5s-1.1193-2.5-2.5-2.5h-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_399" x1="10.875" x2="44.861" y1="9.538" y2="25.163" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

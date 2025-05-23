@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Wrap-Arch--Streamline-Plump-Neon">
+  <desc>
+    Wrap Arch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wrap-arch">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2 29s6 -8 22 -8 22 8 22 8" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24 4C12.4698 4 6.13278 7.94682 3.49199 10.152 2.45641 11.0168 2 12.3338 2 13.683v29.4365c0 0.9485 1.35835 1.5132 2.11217 0.9375C7.06059 41.8053 13.29 38.4 24 38.4s16.9394 3.4053 19.8878 5.657c0.7539 0.5757 2.1122 0.011 2.1122 -0.9375V13.683c0 -1.3492 -0.4564 -2.6662 -1.492 -3.531C41.8672 7.94682 35.5302 4 24 4Z" stroke-width="1"></path>
+  </g>
+</svg>

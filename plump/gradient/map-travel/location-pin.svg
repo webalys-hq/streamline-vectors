@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Location-Pin--Streamline-Plump-Gradient">
+  <desc>
+    Location Pin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin--navigation-map-maps-pin-gps-location">
+    <path id="Subtract" fill="url(#paint0_linear_7979_3370)" fill-rule="evenodd" d="M3.5 21C3.5 9.67816 12.6782.5 24 .5S44.5 9.67816 44.5 21c0 6.5952-3.056 12.0485-6.6718 16.1914-3.6147 4.1418-7.8774 7.0797-10.5303 8.6868-2.042 1.237-4.5538 1.237-6.5958 0-2.6529-1.6071-6.9156-4.545-10.5303-8.6868C6.55603 33.0485 3.5 27.5952 3.5 21Zm12 0c0-4.6944 3.8056-8.5 8.5-8.5s8.5 3.8056 8.5 8.5-3.8056 8.5-8.5 8.5-8.5-3.8056-8.5-8.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3370" x1="48.053" x2="-11.569" y1="56.614" y2="19.114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

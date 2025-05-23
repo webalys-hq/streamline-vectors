@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Phone-Vibrate--Streamline-Plump">
+  <desc>
+    Phone Vibrate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="phone-vibrate--android-phone-mobile-device-smartphone-iphone-vibrate-mute">
+    <path id="Subtract" fill="#8fbffa" d="M9.39 39.807c0.147 2.52 1.973 4.53 4.487 4.771 2.315 0.221 5.647 0.422 10.124 0.422s7.81 -0.2 10.124 -0.422c2.514 -0.24 4.34 -2.25 4.487 -4.771 0.087 -1.484 0.176 -3.38 0.247 -5.718l-1.497 -1.248a5 5 0 0 1 0 -7.682L38.753 24l-1.39 -1.159a5 5 0 0 1 0 -7.682l1.496 -1.247a205.27 205.27 0 0 0 -0.247 -5.719c-0.147 -2.52 -1.974 -4.53 -4.487 -4.771C31.81 3.2 28.478 3 24 3s-7.81 0.2 -10.124 0.422c-2.514 0.24 -4.34 2.25 -4.487 4.771a205.35 205.35 0 0 0 -0.247 5.718l1.497 1.248a5 5 0 0 1 0 7.682L9.25 24l1.39 1.159a5 5 0 0 1 0 7.682L9.143 34.09c0.07 2.337 0.16 4.234 0.247 5.718Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#ffffff" d="m18.266 3.122 0.406 3.25A3 3 0 0 0 21.649 9h4.703a3 3 0 0 0 2.977 -2.628l0.406 -3.25C28.085 3.047 26.178 3 24 3c-2.177 0 -4.084 0.047 -5.734 0.122Z" stroke-width="1"></path>
+    <path id="Vector 1470" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m45 14 -5.078 4.232a1 1 0 0 0 0 1.536l4.157 3.464a1 1 0 0 1 0 1.536l-4.157 3.464a1 1 0 0 0 0 1.536L45.001 34" stroke-width="1"></path>
+    <path id="Vector 1471" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m3 14 5.078 4.232a1 1 0 0 1 0 1.536l-4.156 3.464a1 1 0 0 0 0 1.536l4.156 3.464a1 1 0 0 1 0 1.536L3 34" stroke-width="1"></path>
+    <path id="Rectangle 1095" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M38.658 13c-0.065 -1.925 -0.142 -3.52 -0.218 -4.807 -0.147 -2.52 -1.973 -4.53 -4.487 -4.771C31.638 3.2 28.306 3 23.829 3s-7.81 0.2 -10.124 0.422c-2.514 0.24 -4.34 2.25 -4.487 4.771A198.111 198.111 0 0 0 9 13m0 22c0.065 1.925 0.143 3.52 0.218 4.807 0.147 2.52 1.973 4.53 4.487 4.771C16.02 44.8 19.352 45 23.83 45s7.81 -0.2 10.124 -0.422c2.514 -0.24 4.34 -2.25 4.487 -4.771 0.076 -1.286 0.153 -2.882 0.218 -4.807" stroke-width="1"></path>
+    <path id="Intersect_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m18.266 3.122 0.406 3.25A3 3 0 0 0 21.649 9h4.703a3 3 0 0 0 2.977 -2.627l0.406 -3.25" stroke-width="1"></path>
+    <path id="Vector 1363" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22 40h4" stroke-width="1"></path>
+  </g>
+</svg>

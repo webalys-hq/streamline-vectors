@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" stroke-width="3" id="Braille-Blind--Streamline-Plump">
+  <desc>
+    Braille Blind Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="braille-blind--disability-braille-blind">
+    <path id="Union" fill="#8fbffa" d="M22.89 17.314c.202 2.727.484 6.855.484 8.663 0 0 3.984 0 8.307 1.418 2.191.718 3.67 2.692 3.785 4.995.145 2.936-.104 7.318-2.055 11.799-.505 1.161-1.623 1.913-2.885 2.018-1.66.137-4.315.293-7.837.293-4.21 0-5.607-.222-6.738-.37a2.993 2.993 0 0 1-1.47-.627c-4.423-3.496-9.146-9.366-10.467-11.59-.342-.575-.473-1.255-.294-1.899a7.922 7.922 0 0 1 1.595-3.041c1.03-1.209 2.772-1.145 4.124-.314 2.629 1.614 4.34 2.955 4.34 2.955 0-5.898.291-11.284.494-14.325.105-1.574 1.153-2.947 2.716-3.17.5-.07 1.038-.119 1.578-.119.537 0 1.073.047 1.572.118 1.576.222 2.633 1.61 2.75 3.196Z"></path>
+    <path id="Ellipse 579" fill="#ffffff" d="M3 16a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 580" fill="#ffffff" d="M28 16a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 581" fill="#ffffff" transform="matrix(-1 0 0 1 45 13)" d="M0 3a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 582" fill="#ffffff" transform="matrix(-1 0 0 1 45 3)" d="M0 3a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 583" fill="#ffffff" d="M15.5 6a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Union_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32.528 45a24.455 24.455 0 0 0 2.948-12.752c-.1-2.222-1.553-4.104-3.663-4.81-4.373-1.46-8.439-1.46-8.439-1.46 0-1.809-.282-5.937-.484-8.664-.118-1.587-1.175-2.974-2.751-3.196-.5-.07-1.035-.118-1.572-.118-.54 0-1.078.048-1.578.12-1.563.222-2.611 1.595-2.716 3.17a222.35 222.35 0 0 0-.493 14.324s-1.712-1.341-4.34-2.955c-1.353-.83-3.095-.895-4.125.314a7.905 7.905 0 0 0-1.57 2.956c-.201.695-.038 1.43.365 2.03C5.579 36.148 9.534 41.669 14.139 45"></path>
+    <path id="Ellipse 575" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 16a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 576" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M28 16a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+    <path id="Ellipse 577" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 16a3 3 0 1 1-6 0 3 3 0 1 1 6 0"></path>
+    <path id="Ellipse 578" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 6a3 3 0 1 1-6 0 3 3 0 1 1 6 0"></path>
+    <path id="Ellipse 574" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M15.5 6a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path>
+  </g>
+</svg>

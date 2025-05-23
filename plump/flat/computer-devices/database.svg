@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Database--Streamline-Plump">
+  <desc>
+    Database Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="database--raid-storage-code-disk-programming-database-array-hard-disc">
+    <path id="Vector" fill="#8fbffa" d="M4.04 9.856C4.04 5.24 12.976 1.5 24 1.5c11.024 0 19.96 3.74 19.96 8.356 0 0 0.54 7.355 0.54 15.71 0 8.356 -0.54 12.579 -0.54 12.579 0 4.614 -8.936 8.355 -19.96 8.355 -11.024 0 -19.96 -3.74 -19.96 -8.355 0 0 -0.54 -4.223 -0.54 -12.578 0 -8.356 0.54 -15.711 0.54 -15.711Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#2859c5" d="M4.04 9.856C4.04 5.24 12.975 1.5 24 1.5c11.023 0 19.96 3.74 19.96 8.356 0 4.614 -8.937 8.355 -19.96 8.355 -11.024 0 -19.96 -3.74 -19.96 -8.355Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="M3.52 28.274a183.449 183.449 0 0 1 -0.002 -5.384c0.224 1.721 1.933 3.677 5.539 5.316C12.802 29.908 18.08 31 23.992 31c5.912 0 11.19 -1.092 14.936 -2.794 3.695 -1.68 5.398 -3.692 5.553 -5.444a207.462 207.462 0 0 1 0 5.498c-1.205 1.045 -2.692 1.94 -4.312 2.677C35.952 32.854 30.231 34 23.992 34c-6.239 0 -11.96 -1.146 -16.177 -3.063 -1.612 -0.733 -3.093 -1.624 -4.295 -2.663Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M8.508 40a2 2 0 1 0 0 -4 2 2 0 0 0 0 4Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" d="M15.008 41.75a2 2 0 1 0 0 -4 2 2 0 0 0 0 4Z" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#2859c5" fill-rule="evenodd" d="M6.508 22.5a2 2 0 1 1 4 0 2 2 0 0 1 -4 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_4" fill="#2859c5" d="M15.008 26.25a2 2 0 1 0 0 -4 2 2 0 0 0 0 4Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Spotify--Streamline-Plump">
+  <desc>
+    Spotify Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="spotify">
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3c11.598 0 21 9.402 21 21s-9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M37 20.374c-3.215 -2.473 -7.355 -3.872 -11.549 -4.261 -4.174 -0.387 -8.582 0.21 -12.451 1.925" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33.54 26.675c-2.536 -1.998 -5.812 -3.13 -9.13 -3.443 -3.389 -0.32 -6.974 0.198 -10.088 1.673" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M30.049 33c-1.854 -1.51 -4.251 -2.364 -6.68 -2.6 -2.415 -0.235 -4.968 0.13 -7.203 1.179" stroke-width="1"></path>
+  </g>
+</svg>

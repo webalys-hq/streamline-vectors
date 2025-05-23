@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Mail-Notification--Streamline-Plump">
+  <desc>
+    Mail Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-notification--inbox-envelope-email-message-notify-notification-alert-ping">
+    <path id="Subtract" fill="#8fbffa" d="M36 25c-7.18 0 -13 -5.82 -13 -13 0 -0.336 0.013 -0.67 0.038 -1L23 11c-7.421 0 -12.482 0.25 -15.51 0.473 -2.124 0.156 -3.784 1.74 -3.984 3.86C3.258 17.95 3 22.097 3 28s0.258 10.05 0.506 12.667c0.2 2.12 1.86 3.704 3.983 3.86C10.52 44.749 15.58 45 23 45c7.421 0 12.482 -0.25 15.51 -0.473 2.124 -0.156 3.784 -1.74 3.984 -3.86C42.742 38.05 43 33.903 43 28c0 -1.834 -0.025 -3.5 -0.067 -5.001A12.939 12.939 0 0 1 36 25Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" d="M36 25c-7.18 0 -13 -5.82 -13 -13 0 -0.336 0.013 -0.67 0.038 -1L23 11c-7.421 0 -12.482 0.25 -15.51 0.473 -2.124 0.156 -3.784 1.74 -3.984 3.86 -0.235 2.482 -0.48 6.337 -0.504 11.76l0.043 0.023C7.619 29.559 18.353 35 23 35c4.646 0 15.38 -5.44 19.955 -7.884a3.49 3.49 0 0 0 0.043 -0.023 175.82 175.82 0 0 0 -0.065 -4.094A12.94 12.94 0 0 1 36 25Z" stroke-width="1"></path>
+    <path id="Ellipse 20" fill="#ffffff" d="M36 3a9 9 0 1 1 0 18 9 9 0 0 1 0 -18Z" stroke-width="1"></path>
+    <path id="Rectangle 1097" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22 11.002c-6.88 0.021 -11.621 0.26 -14.512 0.472 -2.124 0.156 -3.782 1.74 -3.982 3.86C3.258 17.95 3 22.096 3 28c0 5.904 0.258 10.05 0.506 12.667 0.2 2.12 1.86 3.704 3.983 3.86C10.52 44.75 15.58 45 23 45c7.421 0 12.482 -0.25 15.51 -0.473 2.124 -0.156 3.784 -1.74 3.984 -3.86C42.742 38.05 43 33.903 43 28c0 -1.436 -0.015 -2.768 -0.042 -4" stroke-width="1"></path>
+    <path id="Intersect" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 27c1.25 0.708 14.264 8 20 8 5.736 0 18.75 -7.293 20 -8" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#2859c5" stroke-linejoin="round" d="M36 3a9 9 0 1 1 0 18 9 9 0 0 1 0 -18Z" stroke-width="1"></path>
+  </g>
+</svg>

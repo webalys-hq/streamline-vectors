@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Zoom-In--Streamline-Plump">
+  <desc>
+    Zoom In Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zoom-in--enhance-glass-in-magnify-magnifying-zoom">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M1.5 22C1.5 10.678 10.678 1.5 22 1.5S42.5 10.678 42.5 22c0 3.908 -1.094 7.56 -2.992 10.669l1.047 0.87 0.157 0.13c1.517 1.257 3.035 2.515 4.535 3.897 2.114 1.947 2.429 5.044 0.331 7.194a47.332 47.332 0 0 1 -0.818 0.818c-2.15 2.098 -5.247 1.782 -7.194 -0.331 -1.382 -1.5 -2.64 -3.018 -3.898 -4.535l-0.13 -0.156c-0.288 -0.35 -0.578 -0.698 -0.87 -1.047A20.405 20.405 0 0 1 22 42.5C10.678 42.5 1.5 33.322 1.5 22Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" fill-rule="evenodd" d="M22 35c7.18 0 13 -5.82 13 -13S29.18 9 22 9 9 14.82 9 22s5.82 13 13 13Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" d="M24.5 16a2.5 2.5 0 0 0 -5 0v3.5H16a2.5 2.5 0 0 0 0 5h3.5V28a2.5 2.5 0 0 0 5 0v-3.5H28a2.5 2.5 0 0 0 0 -5h-3.5V16Z" stroke-width="1"></path>
+  </g>
+</svg>

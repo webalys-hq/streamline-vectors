@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Webcam-Video--Streamline-Plump-Gradient">
+  <desc>
+    Webcam Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="webcam-video--work-video-meeting-camera-company-conference-office">
+    <path id="Union" fill="url(#paint0_linear_7979_4678)" fill-rule="evenodd" d="M18 6.5c-5.0527 0-9.03753.43566-11.7208.86006-3.02238.47803-5.17921 2.93854-5.410059 5.93234C.681283 15.7287.5 19.2979.5 24s.181283 8.2713.369141 10.7076c.230849 2.9938 2.387679 5.4543 5.410059 5.9323C8.96247 41.0643 12.9473 41.5 18 41.5c5.0527 0 9.0375-.4357 11.7208-.8601 3.0224-.478 5.1792-2.9385 5.4101-5.9323.0508-.6589.1011-1.4007.1475-2.2254 1.8313 1.0706 3.9717 2.1583 6.2751 3.0124 2.5185.9338 5.0981-.7404 5.4338-3.3247.257-1.9783.5127-4.7942.5127-8.1699s-.2557-6.1916-.5127-8.1699c-.3357-2.5843-2.9153-4.2585-5.4338-3.3247-2.3034.8541-4.4438 1.9418-6.2751 3.0124-.0464-.8247-.0967-1.5665-.1475-2.2254-.2309-2.9938-2.3877-5.45431-5.4101-5.93235C27.0375 6.93566 23.0527 6.5 18 6.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4678" x1="47.341" x2=".69" y1="41.507" y2="6.268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Pen-Tool--Streamline-Plump">
+  <desc>
+    Pen Tool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pen-tool">
+    <path id="Vector 110" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 14.4547c0.3423 -4.1074 1.6665 -8.21474 2.3881 -10.20961 0.2747 -0.75924 1.0003 -1.24046 1.8001 -1.13032 2.2331 0.3075 6.912 1.4402 11.0845 5.61263 4.1724 4.1724 5.3052 8.8515 5.6127 11.0845 0.1102 0.7999 -0.3711 1.5255 -1.1303 1.8002 -1.9949 0.7216 -6.1023 2.0458 -10.2096 2.3881 0 0 -0.9545 -2.8636 -3.8182 -5.7273C26.8636 15.4092 24 14.4547 24 14.4547Z" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33.5654 23.9616s-0.9528 -2.8584 -3.8112 -5.7169c-2.8585 -2.8585 -5.7169 -3.8112 -5.7169 -3.8112 0 -0.0005 0.0001 -0.0009 0.0001 -0.0014 -5.2397 0.262 -9.3267 0.8122 -11.9442 1.2543 -2.0625 0.3484 -3.68894 1.8714 -4.27812 3.8784 -3.91929 13.3505 -4.73883 21.5459 -4.73883 21.5459s-0.47648 1.4292 0.9528 2.8584c1.42929 1.4293 2.85843 0.9529 2.85843 0.9529s8.19542 -0.8196 21.54592 -4.7389c2.007 -0.5892 3.53 -2.2156 3.8784 -4.278 0.4421 -2.6175 0.9916 -6.7042 1.2536 -11.9435Zm0 0c-0.0002 0 0.0002 0 0 0Z" stroke-width="1"></path>
+    <path id="Vector 1313" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 32 4 44" stroke-width="1"></path>
+    <path id="Ellipse 558" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 29a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1"></path>
+  </g>
+</svg>

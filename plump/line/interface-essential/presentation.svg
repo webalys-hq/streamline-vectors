@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Presentation--Streamline-Plump">
+  <desc>
+    Presentation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="presentation">
+    <path id="Rectangle 724" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m40 28.594 0.459 -0.032c2.19 -0.16 3.89 -1.702 4.133 -3.885C44.808 22.74 45 19.916 45 16c0 -3.916 -0.192 -6.74 -0.408 -8.677 -0.243 -2.183 -1.94 -3.725 -4.132 -3.884C37.522 3.225 32.424 3 24 3c-8.424 0 -13.522 0.225 -16.46 0.439 -2.191 0.159 -3.89 1.7 -4.132 3.884C3.192 9.26 3 12.084 3 16c0 3.916 0.192 6.74 0.408 8.677 0.243 2.183 1.943 3.726 4.133 3.885l0.459 0.032" stroke-width="1"></path>
+    <path id="Ellipse 135" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M30 17a6 6 0 1 1 -12 0 6 6 0 0 1 12 0Z" stroke-width="1"></path>
+    <path id="Rectangle 1525" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.931 45s-0.57 -1.978 -1.27 -5" stroke-width="1"></path>
+    <path id="Rectangle 1527" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M36.069 45s0.57 -1.978 1.27 -5" stroke-width="1"></path>
+    <path id="Rectangle 1099" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.64 34.116c-0.767 0.014 -1.435 0.485 -1.539 1.245C7.044 35.786 7 36.328 7 37s0.044 1.215 0.101 1.64c0.104 0.76 0.772 1.23 1.538 1.244C10.81 39.926 15.833 40 24 40c8.167 0 13.191 -0.074 15.36 -0.116 0.767 -0.014 1.435 -0.485 1.538 -1.245 0.058 -0.425 0.102 -0.967 0.102 -1.639s-0.044 -1.215 -0.102 -1.64c-0.103 -0.76 -0.77 -1.23 -1.537 -1.244C37.19 34.074 32.167 34 24 34c-8.167 0 -13.191 0.074 -15.36 0.116Z" stroke-width="1"></path>
+    <path id="Vector 1404" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 29v5" stroke-width="1"></path>
+    <path id="Rectangle 1526" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 28.758a34.855 34.855 0 0 0 -0.678 -2.496c-0.461 -1.475 -1.636 -2.567 -3.16 -2.82C28.784 23.211 26.763 23 24 23s-4.785 0.212 -6.161 0.441c-1.526 0.254 -2.7 1.346 -3.162 2.822 -0.216 0.692 -0.452 1.53 -0.677 2.495" stroke-width="1"></path>
+  </g>
+</svg>

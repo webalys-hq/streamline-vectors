@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Division-Circle--Streamline-Plump-Neon">
+  <desc>
+    Division Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="division-circle--interface-math-divided-by-sign-mathematics">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2 24a22 22 0 1 1 44 0 22 22 0 1 1 -44 0" stroke-width="1"></path>
+    <g id="Vector_2">
+      <path stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27.5 12.5c0 1.933 -1.567 3.5 -3.5 3.5s-3.5 -1.567 -3.5 -3.5S22.067 9 24 9s3.5 1.567 3.5 3.5Z" stroke-width="1"></path>
+      <path stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27.5 35.5c0 -1.933 -1.567 -3.5 -3.5 -3.5s-3.5 1.567 -3.5 3.5S22.067 39 24 39s3.5 -1.567 3.5 -3.5Z" stroke-width="1"></path>
+      <path stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35.4149 26.8194c1.2504 -0.0559 2.4003 -0.6675 2.5381 -1.9115 0.0294 -0.2657 0.047 -0.567 0.047 -0.9079 0 -0.3409 -0.0176 -0.6422 -0.047 -0.9079 -0.1378 -1.244 -1.2877 -1.8556 -2.5381 -1.9115C33.542 21.0969 30.0636 21 24 21c-6.0636 0 -9.542 0.0969 -11.4149 0.1806 -1.2504 0.0559 -2.4003 0.6675 -2.5381 1.9115 -0.0294 0.2657 -0.047 0.567 -0.047 0.9079 0 0.3409 0.0176 0.6422 0.047 0.9079 0.1378 1.244 1.2877 1.8556 2.5381 1.9115C14.458 26.9031 17.9364 27 24 27c6.0636 0 9.542 -0.0969 11.4149 -0.1806Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

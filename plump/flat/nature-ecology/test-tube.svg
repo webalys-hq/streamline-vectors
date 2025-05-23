@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Test-Tube--Streamline-Plump">
+  <desc>
+    Test Tube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
+    <path id="Union" fill="#8fbffa" d="M24 1.5c-5.809 0 -10.402 0.317 -13.313 0.595 -1.964 0.187 -2.823 2.446 -1.59 3.936l2.88 3.482 0 16.058c0 4.13 0.073 7.653 0.171 10.52 0.191 5.55 4.295 10.176 9.904 10.374a55.37 55.37 0 0 0 3.961 -0.002c5.577 -0.203 9.657 -4.787 9.843 -10.306 0.097 -2.845 0.168 -6.373 0.168 -10.586l0 -16.058 2.88 -3.482c1.232 -1.49 0.372 -3.749 -1.59 -3.936C34.401 1.817 29.807 1.5 24 1.5Z" stroke-width="1"></path>
+    <g id="Intersect">
+      <path fill="#2859c5" d="M12.113 35H17a2 2 0 1 0 0 -4h-4.98c0.024 1.438 0.056 2.772 0.093 4Z" stroke-width="1"></path>
+      <path fill="#2859c5" d="M11.976 26 12 26h5a2 2 0 1 0 0 -4h-5l-0.024 0v3.571l0 0.429Z" stroke-width="1"></path>
+      <path fill="#2859c5" d="M11.976 17 12 17h5a2 2 0 1 0 0 -4h-5l-0.024 0v4Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

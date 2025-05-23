@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Visual-Blind--Streamline-Plump-Gradient">
+  <desc>
+    Visual Blind Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="visual-blind--disability-visual-blind">
+    <path id="Union" fill="url(#paint0_linear_7979_3514)" fill-rule="evenodd" d="m33.124 31.0029 6.1912 6.1912c3.7958-3.0165 6.6334-7.1335 7.9926-11.86.2523-.8773.252-1.8083-.001-2.6854C44.4459 12.73 35.0738 5.5 24.0002 5.5c-4.7016 0-9.0965 1.30336-12.8166 3.5625l5.814 5.814c4.5096-3.4705 11.003-3.1399 15.1347.9918 4.1316 4.1317 4.4622 10.625.9917 15.1346ZM.657858 22.7793 20.0709 42.1923C10.7561 40.7162 3.20573 34.0733.690006 25.3514c-.242122-.8394-.252851-1.7283-.032148-2.5721ZM29.7182 41.839 3.8538 15.9746c-.79713 1.1604-1.49098 2.3941-2.06864 3.6887L24.6142 42.4924c1.7532-.0427 3.461-.2666 5.104-.6534ZM5.7207 13.5989c.90428-1.0112 1.89586-1.9462 2.96318-2.7942L36.8156 38.9364c-1.2178.7398-2.508 1.3771-3.8576 1.8997L5.7207 13.5989Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3514" x1="8.182" x2="41.356" y1="12.614" y2="35.965" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

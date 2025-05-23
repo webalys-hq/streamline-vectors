@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Mall--Streamline-Plump">
+  <desc>
+    Mall Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mall--production-store-shop-shops-stores-factory-building">
+    <path id="Union" fill="#2859c5" d="M32 14.472a40.417 40.417 0 0 1 -3.07 -0.193c-1.84 -0.196 -3.16 -1.642 -3.312 -3.418A33.624 33.624 0 0 1 25.5 8c0 -1.132 0.053 -2.099 0.118 -2.86 0.153 -1.777 1.472 -3.223 3.312 -3.42 1.106 -0.117 2.738 -0.22 5.07 -0.22 2.332 0 3.964 0.103 5.07 0.22 1.84 0.197 3.16 1.643 3.312 3.42 0.065 0.761 0.118 1.728 0.118 2.86s-0.053 2.099 -0.118 2.86c-0.153 1.777 -1.472 3.223 -3.312 3.42a40.68 40.68 0 0 1 -3.07 0.192V19.5a2 2 0 1 1 -4 0v-5.028Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M5 46.5A1.5 1.5 0 0 1 3.5 45V21.998c0 -3.575 2.909 -6.537 6.562 -6.372 8.909 0.402 20.997 1.765 29.298 3.916 3.176 0.823 5.14 3.746 5.14 6.875V45a1.5 1.5 0 0 1 -1.5 1.5H5Z" stroke-width="1"></path>
+    <g id="Subtract">
+      <path fill="#2859c5" d="M15.5 45V33H7v12h8.5Z" stroke-width="1"></path>
+      <path fill="#2859c5" d="M19.5 45h9V33h-9v12Z" stroke-width="1"></path>
+      <path fill="#2859c5" d="M32.5 33v12H41V33h-8.5Z" stroke-width="1"></path>
+    </g>
+    <path id="Vector 2498 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M1.5 45A1.5 1.5 0 0 1 3 43.5h42a1.5 1.5 0 0 1 0 3H3A1.5 1.5 0 0 1 1.5 45Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

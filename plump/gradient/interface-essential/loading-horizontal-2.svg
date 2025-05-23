@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Loading-Horizontal-2--Streamline-Plump-Gradient">
+  <desc>
+    Loading Horizontal 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="loading-horizontal-2--progress-loading-dot-load-wait-waiting">
+    <path id="Union" fill="url(#paint0_linear_7979_729)" fill-rule="evenodd" d="M24 14c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10ZM6.5 18c-3.31371 0-6 2.6863-6 6s2.68629 6 6 6 6-2.6863 6-6-2.68629-6-6-6Zm29 6c0-3.3137 2.6863-6 6-6s6 2.6863 6 6-2.6863 6-6 6-6-2.6863-6-6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_729" x1="2.306" x2="27.933" y1="15.616" y2="49.559" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

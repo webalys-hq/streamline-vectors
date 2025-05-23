@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Mail-Send-Email-Message--Streamline-Plump-Gradient">
+  <desc>
+    Mail Send Email Message Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-send-email-message--send-email-paper-airplane-deliver">
+    <path id="Union" fill="url(#paint0_linear_7979_4138)" fill-rule="evenodd" d="M5.10581 2.17457C2.40211 1.30233.0144322 3.88806 1.13788 6.50925 3.36699 11.7101 5.95325 16.7331 7.19098 19.0731c.52819.9987 1.42048 1.7456 2.48384 2.1079l8.27508 2.8196-8.27508 2.8197c-1.06336.3623-1.95565 1.1092-2.48384 2.1078-1.23773 2.3401-3.82399 7.363-6.0531 12.5639-1.1234466 2.6212 1.26423 5.2069 3.96793 4.3347C13.5654 43.0975 30.4155 36.9902 45.15 27.5498c2.6132-1.6743 2.6132-5.4241 0-7.0983C30.4155 11.011 13.5654 4.90373 5.10581 2.17457Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4138" x1="8.415" x2="44.873" y1="10.463" y2="31.7" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

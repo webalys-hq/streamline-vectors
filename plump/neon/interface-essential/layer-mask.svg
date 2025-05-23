@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Layer-Mask--Streamline-Plump-Neon">
+  <desc>
+    Layer Mask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layer-mask">
+    <path id="Rectangle 724" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.54796 10.6798c0.2236 -2.20228 1.85215 -3.84164 4.05517 -4.0578C9.65668 6.32238 15.0271 6 24 6s14.3433 0.32238 17.3969 0.622c2.203 0.21616 3.8315 1.85552 4.0551 4.0578 0.2697 2.6564 0.548 6.9424 0.548 13.3201s-0.2783 10.6638 -0.548 13.3203c-0.2236 2.2023 -1.8521 3.8416 -4.0552 4.0578C38.3433 41.6776 32.9729 42 24 42s-14.34328 -0.3224 -17.39684 -0.622c-2.20304 -0.2162 -3.8316 -1.8555 -4.0552 -4.0578C2.27826 34.6637 2 30.3776 2 23.9999s0.27826 -10.6637 0.54796 -13.3201Z" stroke-width="1"></path>
+    <path id="Ellipse 20" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 13c6.0751 0 11 4.9249 11 11s-4.9249 11 -11 11 -11 -4.9249 -11 -11 4.9249 -11 11 -11Z" stroke-width="1"></path>
+  </g>
+</svg>

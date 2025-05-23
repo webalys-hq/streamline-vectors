@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Add-Bell-Notification--Streamline-Plump">
+  <desc>
+    Add Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="add-bell-notification--notification-alarm-alert-bell-add">
+    <path id="Subtract" fill="#2859c5" d="M15.537 33.842C18.04 33.94 21 34 24.502 34c3.5 0 6.46 -0.06 8.962 -0.158 0.348 0.988 0.537 2.05 0.537 3.158a9.5 9.5 0 0 1 -19 0c0 -1.107 0.19 -2.17 0.537 -3.158Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#8fbffa" d="M42.63 26.5A14.94 14.94 0 0 1 33 30c-8.284 0 -15 -6.716 -15 -15 0 -5.863 3.364 -10.94 8.267 -13.408A16.899 16.899 0 0 0 24.5 1.5c-8.697 0 -15.947 6.656 -16.69 15.32l-0.48 5.59a14.5 14.5 0 0 1 -2.107 6.377l-1.47 2.384c-0.913 1.477 -1.242 3.184 -0.668 4.696 0.596 1.573 2.028 2.572 3.863 2.816 3.278 0.436 8.674 0.817 17.552 0.817s14.274 -0.381 17.553 -0.817c1.834 -0.244 3.266 -1.243 3.862 -2.816 0.574 -1.512 0.245 -3.22 -0.667 -4.696l-1.471 -2.384a14.5 14.5 0 0 1 -1.146 -2.287Z" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#2859c5" fill-rule="evenodd" d="M45 15c0 6.627 -5.373 12 -12 12s-12 -5.373 -12 -12S26.373 3 33 3s12 5.373 12 12Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_4" fill="#8fbffa" fill-rule="evenodd" d="M35 9a2 2 0 1 0 -4 0v4h-4a2 2 0 1 0 0 4h4v4a2 2 0 1 0 4 0v-4h4a2 2 0 1 0 0 -4h-4V9Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

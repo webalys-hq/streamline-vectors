@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Location-Pin-Disabled--Streamline-Plump-Gradient">
+  <desc>
+    Location Pin Disabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off">
+    <path id="Union" fill="url(#paint0_linear_7979_3382)" fill-rule="evenodd" d="M3.5 21c0-2.7052.52401-5.2881 1.47606-7.6526L33.2588 41.6301c-2.2396 1.8682-4.3845 3.2931-5.9609 4.2481-2.042 1.237-4.5538 1.237-6.5958 0-2.6529-1.6071-6.9156-4.545-10.5303-8.6868C6.55603 33.0485 3.5 27.5952 3.5 21Zm6.6389-15.10377L5.87132 1.62868c-1.17157-1.171573-3.07107-1.171573-4.24264 0-1.171573 1.17157-1.171573 3.07107 0 4.24264L42.1287 46.3713c1.1716 1.1716 3.071 1.1716 4.2426 0 1.1716-1.1716 1.1716-3.071 0-4.2426l-6.9311-6.9311C42.3079 31.3524 44.5 26.5857 44.5 21 44.5 9.67816 35.3218.5 24 .5c-5.3448 0-10.2119 2.04544-13.8611 5.39623ZM30.5995 26.3569 18.6429 14.4002c1.4616-1.1879 3.3259-1.9002 5.3568-1.9002 4.6945 0 8.5 3.8056 8.5 8.5 0 2.0309-.7123 3.8952-1.9002 5.3569Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3382" x1="2.537" x2="55.671" y1="4.278" y2="34.065" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

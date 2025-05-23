@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Lightbulb--Streamline-Plump">
+  <desc>
+    Lightbulb Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lightbulb--lighting-light-incandescent-bulb-lights">
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5161 33.3833C9.54887 30.2712 7 25.4333 7 20c0 -9.3888 7.6112 -17 17 -17s17 7.6112 17 17c0 5.4333 -2.5489 10.2712 -6.5161 13.3833 -0.3216 1.2995 -0.6848 2.5462 -0.9714 3.4792 -0.3066 0.9982 -1.1357 1.7238 -2.1742 1.8322C29.9447 38.8402 27.5956 39 24 39s-5.9447 -0.1598 -7.3383 -0.3053c-1.0385 -0.1084 -1.8676 -0.834 -2.1742 -1.8322 -0.2866 -0.933 -0.6498 -2.1797 -0.9714 -3.4792Z" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.4883 38.6703c0.2026 1.31 0.4138 2.5022 0.5905 3.4438 0.2487 1.3248 1.191 2.3889 2.5238 2.5905 1.046 0.1583 2.4993 0.2951 4.3973 0.2951 1.8049 0 3.2881 -0.1237 4.4173 -0.272 1.5843 -0.2079 2.6941 -1.5256 2.8662 -3.1142l0.3208 -2.9612" stroke-width="1"></path>
+    <path id="Ellipse 20" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 19c0 -5.5228 -4.4772 -10 -10 -10" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Arrow-Roadmap--Streamline-Plump">
+  <desc>
+    Arrow Roadmap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-roadmap">
+    <path id="Union" fill="#8fbffa" d="M4 5.5a2.5 2.5 0 0 0 0 5h31a5.5 5.5 0 1 1 0 11H13C7.201 21.5 2.5 26.201 2.5 32S7.201 42.5 13 42.5h22.599c0.105 0.755 0.258 1.492 0.46 2.193a2.5 2.5 0 0 0 3.512 1.547l0.001 0a28.64 28.64 0 0 0 2.424 -1.372c1.211 -0.759 2.952 -1.965 4.004 -3.368a2.5 2.5 0 0 0 0 -3c-1.052 -1.403 -2.793 -2.61 -4.004 -3.369a29.205 29.205 0 0 0 -2.425 -1.371 2.5 2.5 0 0 0 -3.511 1.547 15.63 15.63 0 0 0 -0.461 2.193H13a5.5 5.5 0 1 1 0 -11h22c5.799 0 10.5 -4.701 10.5 -10.5S40.799 5.5 35 5.5H4Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M15 1a7 7 0 1 0 0 14 7 7 0 0 0 0 -14Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" d="M18 33a7 7 0 1 0 0 14 7 7 0 0 0 0 -14Z" stroke-width="1"></path>
+    <path id="Union_4" fill="#2859c5" d="M30 17a7 7 0 1 0 0 14 7 7 0 0 0 0 -14Z" stroke-width="1"></path>
+  </g>
+</svg>

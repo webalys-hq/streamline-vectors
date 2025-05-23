@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Pacman--Streamline-Plump-Gradient">
+  <desc>
+    Pacman Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pacman--entertainment-gaming-pacman-video">
+    <path id="Subtract" fill="url(#paint0_linear_7979_4381)" fill-rule="evenodd" d="M2.5 24C2.5 11.0213 13.0213.5 26 .5c7.1624 0 13.5775 3.20603 17.8855 8.25601 1.7571 2.05969.9665 4.95959-1.0739 6.26539L28.7827 24l14.029 8.9786c2.0403 1.3058 2.8309 4.2057 1.0738 6.2654C39.5775 44.294 33.1624 47.5 26 47.5 13.0213 47.5 2.5 36.9787 2.5 24Zm23-10.5c0-1.6569-1.3431-3-3-3s-3 1.3431-3 3 1.3431 3 3 3 3-1.3431 3-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_4381" x1="48.527" x2="-12.447" y1="57.455" y2="18.422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

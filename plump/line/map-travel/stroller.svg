@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Stroller--Streamline-Plump">
+  <desc>
+    Stroller Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="stroller">
+    <path id="Rectangle 1104" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M45 17c0 -1.209 -0.011 -2.328 -0.03 -3.361 -0.113 -5.98 -4.628 -10.496 -10.609 -10.608A178.42 178.42 0 0 0 31 3s-1 6.5 -1 14" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M45 17c0 2.907 -0.485 5.674 -1.051 7.917 -0.865 3.423 -3.757 5.677 -7.282 5.876C34.57 30.912 31.748 31 28 31s-6.57 -0.088 -8.667 -0.207c-3.525 -0.2 -6.417 -2.453 -7.282 -5.876C11.485 22.674 11 19.907 11 17l34 0Z" stroke-width="1"></path>
+    <path id="Ellipse 1505" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M42 41.5a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 0 1 9 0Z" stroke-width="1"></path>
+    <path id="Ellipse 1506" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14 41.5a4.5 4.5 0 1 0 9 0 4.5 4.5 0 0 0 -9 0Z" stroke-width="1"></path>
+    <path id="Vector 2687" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 17A452.26 452.26 0 0 0 8.329 5.339c-0.207 -0.851 -0.785 -1.562 -1.632 -1.788C5.702 3.285 4.137 3 2 3" stroke-width="1"></path>
+  </g>
+</svg>

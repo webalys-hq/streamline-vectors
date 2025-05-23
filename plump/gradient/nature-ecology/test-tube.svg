@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Test-Tube--Streamline-Plump-Gradient">
+  <desc>
+    Test Tube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
+    <path id="Subtract" fill="url(#paint0_linear_7979_3778)" fill-rule="evenodd" d="M11.3532 1.05757C14.1666.793319 18.5227.5 24 .5c5.4774 0 9.8336.293326 12.6471.55758 2.8073.26368 3.9814 3.49077 2.2654 5.56567l-2.4124 2.91676V26c0 4.0517-.0653 7.4592-.1547 10.2254-.1928 5.9677-4.6117 11.0642-10.7783 11.2505-.5133.0155-1.0368.0241-1.567.0241-.5079 0-1.0097-.0079-1.5022-.0222-6.2012-.1799-10.6413-5.32-10.8385-11.314-.0124-.3767-.0244-.7647-.0358-1.1638H18c1.1046 0 2-.8954 2-2s-.8954-2-2-2h-6.463c-.0233-1.5489-.0369-3.2169-.0369-5H18c1.1046 0 2-.8954 2-2s-.8954-2-2-2h-6.4999v-5H18c1.1046 0 2-.8954 2-2s-.8954-2-2-2h-6.4999V9.53985L9.08786 6.62322c-1.71607-2.07488-.54192-5.30197 2.26534-5.56565Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_7979_3778" x1="42.437" x2="-9.602" y1="57.455" y2="32.738" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

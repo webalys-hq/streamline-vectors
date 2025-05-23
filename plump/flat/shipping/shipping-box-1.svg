@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" id="Shipping-Box-1--Streamline-Plump">
+  <desc>
+    Shipping Box 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shipping-box-1--box-package-label-delivery-shipment-shipping">
+    <path id="Union" fill="#8fbffa" d="M24 1.5c-7.125 0 -12.359 0.283 -15.715 0.55A6.748 6.748 0 0 0 2.05 8.285C1.783 11.64 1.5 16.875 1.5 24s0.283 12.359 0.55 15.715a6.748 6.748 0 0 0 6.235 6.235c3.356 0.267 8.59 0.55 15.715 0.55s12.359 -0.283 15.715 -0.55a6.748 6.748 0 0 0 6.235 -6.235c0.267 -3.356 0.55 -8.59 0.55 -15.715s-0.283 -12.359 -0.55 -15.715a6.748 6.748 0 0 0 -6.235 -6.235C36.36 1.783 31.125 1.5 24 1.5Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="M31.965 1.627c-0.113 4.778 -0.479 10.367 -0.661 12.942a0.992 0.992 0 0 1 -1.41 0.826l-5.685 -2.631a0.5 0.5 0 0 0 -0.42 0l-5.684 2.631a0.992 0.992 0 0 1 -1.41 -0.826c-0.183 -2.575 -0.549 -8.164 -0.662 -12.942C18.357 1.55 21.012 1.5 24 1.5c2.988 0 5.643 0.05 7.966 0.127Z" stroke-width="1"></path>
+    <path id="Vector 830 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M38 36a2 2 0 0 1 -2 2h-9a2 2 0 1 1 0 -4h9a2 2 0 0 1 2 2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 831 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M38 28a2 2 0 0 1 -2 2h-5a2 2 0 1 1 0 -4h5a2 2 0 0 1 2 2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>
