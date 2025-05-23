@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Codepen-Logo--Streamline-Logos">
+  <desc>
+    Codepen Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linejoin="round" d="M1.5 8v7L12 22.5 22.5 15V8L12 1.5 1.5 8Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M1.5 8 12 15.5 22.5 8" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M1.5 15 12 8.5 22.5 15" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M12 8.5v-7" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M12 15.5v7" stroke-width="1"></path>
+</svg>

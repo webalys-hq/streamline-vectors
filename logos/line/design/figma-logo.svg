@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Figma-Logo--Streamline-Logos">
+  <desc>
+    Figma Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path stroke="#000000" stroke-linejoin="round" d="M12 8.5v-7H8.5a3.5 3.5 0 1 0 0 7H12Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M12 15.5v-7H8.5a3.5 3.5 0 1 0 0 7H12Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M12 8.5h3.5a3.5 3.5 0 1 0 0 -7H12v7Z" stroke-width="1"></path>
+  <path stroke="#000000" d="M15.5 8.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0 -7Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M12 19v-3.5H8.5A3.5 3.5 0 1 0 12 19Z" stroke-width="1"></path>
+</svg>
