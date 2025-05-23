@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Graph-Arrow-Decrease--Streamline-Core-Gradient">
+  <desc>
+    Graph Arrow Decrease Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/graph-arrow-decrease--down-stats-graph-descend-right-arrow">
+    <path id="Union" fill="url(#paint0_linear_14402_14281)" fill-rule="evenodd" d="M1.81974 1.65405c-.31696-.45227-.940553-.56197-1.39283-.24501-.4522769.31696-.561973.94055-.245012 1.39283L3.82802 8.00459c.31691.45221.94039.56195 1.39266.24513l2.29407-1.60703 2.63875 3.76521-1.34914.9951c-.16028.1182-.23511.3203-.19049.5144.04461.1941.20017.3432.39598.3796l3.73945.6946c.1319.0245.2681-.005.378-.082.1099-.0769.1843-.1947.2064-.3271l.6594-3.93917c.0336-.20089-.058-.4021-.2316-.50866-.1735-.10656-.3944-.09717-.5583.02374l-1.4398 1.06195-3.1846-4.54424c-.31692-.45222-.94039-.56196-1.39267-.24513L4.89207 6.03802 1.81974 1.65405Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14281" x1=".539" x2="15.046" y1="2.179" y2="11.902" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Film-Roll-1--Streamline-Core-Gradient">
+  <desc>
+    Film Roll 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/film-roll-1--photos-camera-shutter-picture-photography-pictures-photo-film-roll">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12153)" fill-rule="evenodd" d="M0 5.5C0 2.46243 2.46243 0 5.5 0S11 2.46243 11 5.5c0 .06114-.001.12205-.003.18271.002.02217.003.04461.003.06729v6c0 .4142.3358.75.75.75s.75-.3358.75-.75.3358-.75.75-.75.75.3358.75.75c0 1.2426-1.0074 2.25-2.25 2.25S9.5 12.9926 9.5 11.75V9.27494C8.49723 10.3371 7.07603 11 5.5 11 2.46243 11 0 8.53757 0 5.5ZM6.375 3c0 .48325-.39175.875-.875.875S4.625 3.48325 4.625 3s.39175-.875.875-.875.875.39175.875.875ZM3.19531 6.38281c.48325 0 .875-.39175.875-.875s-.39175-.875-.875-.875-.875.39175-.875.875.39175.875.875.875Zm5.48438-.875c0 .48325-.39175.875-.875.875s-.875-.39175-.875-.875.39175-.875.875-.875.875.39175.875.875ZM5.5 8.74219c.48325 0 .875-.39175.875-.875s-.39175-.875-.875-.875-.875.39175-.875.875.39175.875.875.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12153" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

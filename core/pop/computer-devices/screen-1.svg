@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-1--Streamline-Core">
+  <desc>
+    Screen 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screen-1--screen-device-electronics-monitor-diplay-computer">
+    <path id="Vector" fill="#fddc5c" d="M12.875 1.5H1.125c-0.276142 0 -0.5 0.22386 -0.5 0.5v7.5c0 0.27614 0.223858 0.5 0.5 0.5h11.75c0.2761 0 0.5 -0.22386 0.5 -0.5V2c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M1.25 2.125v7.25h11.5v-7.25H1.25ZM0 2C0 1.37868 0.50368 0.875 1.125 0.875h11.75C13.4963 0.875 14 1.37868 14 2v7.5c0 0.6213 -0.5037 1.125 -1.125 1.125H8.78852l0.5 1.25H10c0.3452 0 0.625 0.2798 0.625 0.625s-0.2798 0.625 -0.625 0.625H4c-0.34518 0 -0.625 -0.2798 -0.625 -0.625s0.27982 -0.625 0.625 -0.625h0.71148l0.5 -1.25H1.125C0.50368 10.625 0 10.1213 0 9.5V2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

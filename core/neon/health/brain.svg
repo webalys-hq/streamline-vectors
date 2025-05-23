@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Brain--Streamline-Core-Neon">
+  <desc>
+    Brain Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="brain--medical-health-brain">
+    <path id="Vector 611" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.4964 5.69507c0.3495 -0.07968 1.1414 -0.59905 1.2609 -1.61157" stroke-width="1"></path>
+    <path id="Vector 614" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.50334 5.69507c-0.34948 -0.07968 -1.14142 -0.59905 -1.26091 -1.61157" stroke-width="1"></path>
+    <path id="Vector 612" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.02979 8.1392c-1.42751 -0.15932 -1.9932 -1.66582 -2.02999 -2.2786" stroke-width="1"></path>
+    <path id="Vector 615" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.96997 8.1392c1.42751 -0.15932 1.9932 -1.66582 2.02998 -2.2786" stroke-width="1"></path>
+    <path id="Vector 613" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.7103 8.23438c0.3555 0.28074 0.639 0.91698 0.7309 1.42664" stroke-width="1"></path>
+    <path id="Vector 616" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.28949 8.23438c-0.35556 0.28074 -0.63905 0.91698 -0.7309 1.42664" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M9.3801 1.5c-1.31452 0 -2.38014 1.06562 -2.38014 2.38014l0.00006 5.89581c0 1.50445 1.21959 2.72405 2.72405 2.72405 1.50443 0 2.72393 -1.2196 2.72393 -2.72405v-0.13009c0.654 -0.72997 1.0518 -1.40699 1.0518 -2.46421 0 -1.39634 -0.6779 -2.34335 -1.7396 -3.08967v-0.21184C11.7602 2.56562 10.6946 1.5 9.3801 1.5Z" stroke-width="1"></path>
+    <path id="Union_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.61966 1.5c1.31451 0 2.38014 1.06562 2.38014 2.38014l-0.00006 5.89581c0 1.50445 -1.2196 2.72405 -2.72405 2.72405s-2.72397 -1.2196 -2.72397 -2.72405v-0.13009C0.897726 8.91589 0.5 8.23887 0.5 7.18165c0 -1.39634 0.67784 -2.34335 1.73952 -3.08967v-0.21184C2.23952 2.56562 3.30515 1.5 4.61966 1.5Z" stroke-width="1"></path>
+  </g>
+</svg>

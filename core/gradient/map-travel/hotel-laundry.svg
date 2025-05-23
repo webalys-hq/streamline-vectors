@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Laundry--Streamline-Core-Gradient">
+  <desc>
+    Hotel Laundry Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/hotel-laundry--laundry-machine-hotel">
+    <path id="Union" fill="url(#paint0_linear_14402_10011)" fill-rule="evenodd" d="M1 1.5C1 .671573 1.67157 0 2.5 0h9c.8284 0 1.5.671573 1.5 1.5v.9812H1V1.5Zm0 2.2312h12V12.5c0 .8284-.6716 1.5-1.5 1.5h-9c-.82843 0-1.5-.6716-1.5-1.5V3.7312Zm2.59792 3.81388c.49488-1.40013 1.83013-2.40507 3.40203-2.40507 1.99236 0 3.60745 1.61514 3.60745 3.6075 0 1.99239-1.61509 3.60749-3.60745 3.60749-1.99236 0-3.60749-1.6151-3.60749-3.60749 0-.4203.07218-.82536.20546-1.20243Zm5.435 1.16728c.11918 0 .23347.04252.32308.1184C9.31215 10.0942 8.27409 11.105 6.99995 11.105c-1.30201 0-2.35749-1.0555-2.35749-2.35749 0-.22305.03084-.4382.08827-.64177.07718-.04819.16811-.07574.26461-.07574h.35385c.76465 0 1.21296.18654 1.61599.35423l.06015.02499c.37695.1561.75746.30314 1.51084.30314h.49675Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10011" x1="12.959" x2="-2.219" y1="14.003" y2="6.684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

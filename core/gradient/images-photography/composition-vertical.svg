@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Composition-Vertical--Streamline-Core-Gradient">
+  <desc>
+    Composition Vertical Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/composition-vertical--camera-portrait-frame-vertical-composition-photography-photo">
+    <path id="Union" fill="url(#paint0_linear_14402_12077)" fill-rule="evenodd" d="M2.59144 0C1.5375 0 .674489 1.00705 1.11279 2.05233l.65045 1.55123c.91703 2.187.91703 4.60588 0 6.79284l-.65045 1.5513C.674488 12.993 1.5375 14 2.59144 14H11.409c1.0539 0 1.9169-1.007 1.4786-2.0523l-.6504-1.5513c-.917-2.18696-.917-4.60584 0-6.79285l.6504-1.55122C13.3259 1.00704 12.4629 0 11.409 0H2.59144Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12077" x1="1.458" x2="16.075" y1="1.131" y2="8.198" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

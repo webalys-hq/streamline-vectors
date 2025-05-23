@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="News-Paper--Streamline-Core-Gradient">
+  <desc>
+    News Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/news-paper--newspaper-periodical-fold-content-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16475)" fill-rule="evenodd" d="M.284769 1.30818C.47032 1.1138.72708 1 1 1h9.5c.2729 0 .5297.11379.7152.30818.1848.1936.2848.45141.2848.71563v.85714h.0034v7.38855c0 .3452.2798.625.625.625s.625-.2798.625-.625V2.88095H13.5c.2761 0 .5.22386.5.5v7.80955c0 .4726-.179.9302-.5044 1.2712-.3262.3417-.7738.5383-1.2456.5383H1.5c-.40553 0-.789465-.169-1.068785-.4616C.152651 12.2466 0 11.8555 0 11.4524V2.02381c0-.26422.0999722-.52203.284769-.71563ZM3.5 3.75c-.27614 0-.5.22386-.5.5v2.5c0 .27614.22386.5.5.5H8c.27614 0 .5-.22386.5-.5v-2.5c0-.27614-.22386-.5-.5-.5H3.5Zm-.375 6c0-.34518.27982-.625.625-.625h4c.34518 0 .625.27982.625.625 0 .3452-.27982.625-.625.625h-4c-.34518 0-.625-.2798-.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16475" x1="2.288" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

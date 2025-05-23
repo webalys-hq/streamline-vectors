@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Copy-Paste--Streamline-Core-Gradient">
+  <desc>
+    Copy Paste Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/copy-paste--clipboard-copy-cut-paste">
+    <path id="Union" fill="url(#paint0_linear_14402_9490)" fill-rule="evenodd" d="M5.5 2h-2c-.55228 0-1-.44772-1-1 0-.552285.44772-1 1-1h2c.55228 0 1 .447715 1 1 0 .55228-.44772 1-1 1Zm-2 1.25003h2c1.23573 0 2.23878-.99618 2.24991-2.22928C8.45938 1.13973 9 1.75675 9 2.50003v1.25H7.5c-1.51878 0-2.75 1.23122-2.75 2.75V11H1.5C.671573 11 0 10.3285 0 9.50003v-7c0-.74328.540619-1.3603 1.25009-1.47928C1.26122 2.25385 2.26427 3.25003 3.5 3.25003ZM7.5 5C6.67157 5 6 5.67157 6 6.5v6c0 .8284.67157 1.5 1.5 1.5h5c.8284 0 1.5-.6716 1.5-1.5v-6c0-.82843-.6716-1.5-1.5-1.5h-5Zm1 2.63c-.34518 0-.625.27983-.625.625 0 .34518.27982.625.625.625h3c.3452 0 .625-.27982.625-.625 0-.34517-.2798-.625-.625-.625h-3Zm0 2.5c-.34518 0-.625.2798-.625.625s.27982.625.625.625h3c.3452 0 .625-.2798.625-.625s-.2798-.625-.625-.625h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9490" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

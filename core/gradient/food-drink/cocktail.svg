@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cocktail--Streamline-Core-Gradient">
+  <desc>
+    Cocktail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass">
+    <path id="Union" fill="url(#paint0_linear_14402_10412)" fill-rule="evenodd" d="M2.49454 0C1.66913 0 1 .669131 1 1.49454c0 .33235.11078.65522.31482.91756L6.25 8.75733V12.5h-2c-.41421 0-.75.3358-.75.75s.33579.75.75.75h5.5c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-2V8.75733l4.9352-6.34523c.204-.26234.3148-.58521.3148-.91756C13 .669129 12.3309 0 11.5055 0H2.49454Zm1.56672 3.5-1.55556-2h8.9886l-1.55556 2H4.06126Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10412" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

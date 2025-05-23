@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discord-Logo--Streamline-Core-Neon">
+  <desc>
+    Discord Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="discord">
+    <path id="Ellipse 1140" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.112 6.423a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Ellipse 1141" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.612 6.423a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Vector 598" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.75 9.08923c0.28302 0.28303 0.87659 0.56605 1.63347 0.7439 0.48475 0.11391 1.0365 0.18467 1.61655 0.18467s1.1318 -0.07076 1.61655 -0.18467c0.75688 -0.17785 1.35044 -0.46087 1.63343 -0.7439" stroke-width="1"></path>
+    <path id="Subtract" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.80144 2.19104c-1.90415 0.12819 -2.44429 0.39826 -2.44429 0.39826C1.42858 3.98216 0.5 7.4179 0.5 10.0179c0.309526 0.4643 1.39287 1.4857 3.25002 1.8572l1.63346 -2.04187c0.48476 0.11391 1.0365 0.18467 1.61656 0.18467 0.58005 0 1.13179 -0.07076 1.61655 -0.18467l1.63351 2.04187c1.8571 -0.3715 2.9404 -1.3929 3.25 -1.8572 0 -2.6 -0.9286 -6.03574 -1.8572 -7.4286 0 0 -0.5401 -0.27008 -2.44434 -0.39826L9 3.25001H5l-0.19856 -1.05897Z" stroke-width="1"></path>
+  </g>
+</svg>

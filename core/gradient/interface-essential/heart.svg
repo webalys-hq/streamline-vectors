@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heart--Streamline-Core-Gradient">
+  <desc>
+    Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/heart--reward-social-rating-media-heart-it-like-favorite-love">
+    <path id="Union" fill="url(#paint0_linear_14402_7641)" d="M4.0072 1.00945c.98164.07251 2.00443.55774 2.985 1.53745.98151-.97685 2.0067-1.45914 2.99059-1.52979 1.11071-.079752 2.09191.37134 2.79981 1.08284 1.3925 1.39963 1.8168 3.92914.0604 5.66328l-.0116.0111-5.50013 5.09247c-.19168.1775-.48769.1775-.67938 0L1.15173 7.77433c-.00505-.00467-.00999-.00944-.01484-.01432-1.730877-1.74046-1.308346-4.26998.07841-5.66964.70533-.7119 1.68331-1.16282 2.7919-1.08092Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7641" x1=".537" x2="15.216" y1="1.97" y2="11.623" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

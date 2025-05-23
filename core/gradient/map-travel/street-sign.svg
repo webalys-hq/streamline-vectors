@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Street-Sign--Streamline-Core-Gradient">
+  <desc>
+    Street Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/street-sign--crossroad-street-sign-metaphor-directions-travel-places">
+    <path id="Union" fill="url(#paint0_linear_14402_10359)" fill-rule="evenodd" d="M3 .5c-.13261 0-.25979.052678-.35355.146447L.646447 2.64645C.552678 2.74021.5 2.86739.5 3c0 .13261.052678.25979.146447.35355l2.000003 2C2.74021 5.44732 2.86739 5.5 3 5.5h3.25v7.25c0 .4142.33579.75.75.75s.75-.3358.75-.75V9.5H11c.1326 0 .2598-.05268.3536-.14645l2-2c.1952-.19526.1952-.51184 0-.7071l-2-2C11.2598 4.55268 11.1326 4.5 11 4.5H7.75V1.25C7.75.835786 7.41421.5 7 .5H3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10359" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

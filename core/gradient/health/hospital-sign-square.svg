@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hospital-Sign-Square--Streamline-Core-Gradient">
+  <desc>
+    Hospital Sign Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/hospital-sign-square--health-sign-medical-symbol-hospital-square-emergency">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16258)" fill-rule="evenodd" d="M.5 2C.5 1.17157 1.17157.5 2 .5h10c.8284 0 1.5.67157 1.5 1.5v10c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5V2Zm5.25 2.5c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75v5c0 .41421.33579.75.75.75s.75-.33579.75-.75V7.75h2.5V9.5c0 .41421.33579.75.75.75s.75-.33579.75-.75v-5c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75v1.75h-2.5V4.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16258" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

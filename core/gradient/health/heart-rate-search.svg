@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heart-Rate-Search--Streamline-Core-Gradient">
+  <desc>
+    Heart Rate Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/heart-rate-search--health-medical-monitor-heart-rate-search">
+    <path id="Union" fill="url(#paint0_linear_14402_16206)" fill-rule="evenodd" d="M6.5 1.5c-2.76142 0-5 2.23858-5 5s2.23858 5 5 5 5-2.23858 5-5-2.23858-5-5-5ZM0 6.5C0 2.91015 2.91015 0 6.5 0 10.0899 0 13 2.91015 13 6.5c0 1.4341-.4644 2.75973-1.2511 3.8347l1.9584 1.9584c.3906.3905.3906 1.0237 0 1.4142-.3905.3905-1.0236.3905-1.4142 0l-1.9584-1.9584C9.25974 12.5356 7.9341 13 6.5 13 2.91015 13 0 10.0899 0 6.5Zm6.15208-2.05989c-.0954-.22131-.30953-.36806-.55035-.37716-.24083-.0091-.46543.12106-.57725.33455L4.1687 6.03125h-.90308c-.34517 0-.625.27982-.625.625s.27983.625.625.625h1.28126c.23249 0 .44576-.12905.55364-.335l.42275-.80706 1.0434 2.4207c.08656.20082.27178.34179.4884.37173.21662.02993.43313-.05553.57091-.22534l1.15615-1.42503h.95225c.34522 0 .62502-.27982.62502-.625s-.2798-.625-.62502-.625h-1.25c-.18837 0-.36668.08495-.48536.23122l-.69317.85438-1.15377-2.67674Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16206" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

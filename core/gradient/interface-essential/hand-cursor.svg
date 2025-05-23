@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Cursor--Streamline-Core-Gradient">
+  <desc>
+    Hand Cursor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/hand-cursor--hand-select-cursor-finger">
+    <path id="Vector" fill="url(#paint0_linear_14402_7608)" d="M10.7837 6.06299c.5394.10741 1.0174.41714 1.3358.86569.3183.44855.4531 1.00191.3765 1.54661l-.657 4.59841c-.0365.2588-.166.4954-.3641.6658-.1981.1704-.4515.263-.7128.2604H3.78368c-.21568.0002-.42646-.0644-.60503-.1853-.17857-.121-.3167-.2928-.3965-.4932l-1.15231-2.8646c-.19723-.50622-.19585-1.06831.00386-1.57359.19971-.50527.58301-.9164 1.07306-1.15099l1.45384-.73231V1.61532c0-.42843.17019-.839305.47314-1.142248.30294-.302942.71382-.4731330352 1.14224-.4731330352.42843 0 .8393.1701910352 1.14225.4731330352.30294.302943.47313.713818.47313 1.142248v3.76921l3.39234.67846Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7608" x1="12.48" x2="-1.896" y1="14.003" y2="7.629" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

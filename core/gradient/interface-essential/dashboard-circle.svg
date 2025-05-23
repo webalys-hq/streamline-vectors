@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-Circle--Streamline-Core-Gradient">
+  <desc>
+    Dashboard Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/dashboard-circle--app-application-dashboard-home-layout-circle">
+    <path id="Union" fill="url(#paint0_linear_14402_9551)" fill-rule="evenodd" d="M3.5.499939c-1.65685 0-3 1.343141-3 3.000001 0 1.65685 1.34315 3 3 3s3-1.34315 3-3c0-1.65686-1.34315-3.000001-3-3.000001Zm7 0c-1.65685 0-3 1.343141-3 3.000001 0 1.65685 1.34315 3 3 3 1.6569 0 3-1.34315 3-3 0-1.65686-1.3431-3.000001-3-3.000001ZM.5 10.4999c0-1.65682 1.34315-2.99996 3-2.99996s3 1.34314 3 2.99996c0 1.6569-1.34315 3-3 3s-3-1.3431-3-3Zm10-2.99996c-1.65685 0-3 1.34314-3 2.99996 0 1.6569 1.34315 3 3 3 1.6569 0 3-1.3431 3-3 0-1.65682-1.3431-2.99996-3-2.99996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9551" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

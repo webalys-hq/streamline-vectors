@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Delete-Keyboard--Streamline-Core-Gradient">
+  <desc>
+    Delete Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/delete-keyboard">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12726)" fill-rule="evenodd" d="M3.75158 2.46831C4.03724 2.16877 4.43378 2 4.84752 2h7.64278C13.3195 2 14 2.66701 14 3.5v7c0 .833-.6805 1.5-1.5097 1.5H4.84752c-.41374 0-.81028-.1688-1.09594-.4683l.36184-.3451-.36184.3451L.413808 8.03169c-.551745-.57856-.551743-1.48482 0-2.06338l3.337772-3.5Zm7.19032 2.33975c.2441.24408.2441.6398 0 .88388L9.63401 6.99988l1.30819 1.30818c.2441.24408.2441.6398 0 .88388-.2441.24408-.6398.24408-.8839 0L8.75012 7.88376 7.44194 9.19194c-.24408.24408-.6398.24408-.88388 0-.24408-.24408-.24408-.6398 0-.88388l1.30818-1.30818L6.5583 5.69194c-.24408-.24408-.24408-.6398 0-.88388.24408-.24408.63981-.24408.88389 0l1.30793 1.30793 1.30798-1.30793c.244-.24408.6398-.24408.8838 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12726" x1="2.288" x2="11.515" y1="3.923" y2="11.08" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

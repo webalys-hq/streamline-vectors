@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cherries--Streamline-Core-Gradient">
+  <desc>
+    Cherries Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/cherries--cook-plant-cherry-plants-cooking-nutrition-vegetarian-fruit-food-cherries">
+    <path id="Union" fill="url(#paint0_linear_14402_10538)" fill-rule="evenodd" d="M4.05364 3.28396c.20223-.50556.40548-.93294.5913-1.28396H3.75C3.33579 2 3 1.66421 3 1.25c0-.414214.33579-.75.75-.75h4.5c.41421 0 .75.335786.75.75 0 .41421-.33579.75-.75.75H6.74829l.00027.00436c.02825.45549.11367 1.10823.34444 1.87264.2822.93478.78385 2.04469 1.67652 3.1721C9.25849 6.70323 9.85551 6.5 10.5 6.5c1.6569 0 3 1.34315 3 3 0 1.6569-1.3431 3-3 3-1.65685 0-3-1.3431-3-3 0-.45856.10289-.8931.28683-1.28178C6.64958 6.85439 6.01044 5.48125 5.657 4.3105c-.06181-.20475-.11481-.40304-.1602-.59372-.0168.04078-.03362.0822-.05044.12426-.37619.94047-.75832 2.20665-.98632 3.81586C5.64606 8.05724 6.5 9.17889 6.5 10.5c0 1.6569-1.34315 3-3 3s-3-1.3431-3-3c0-1.47274 1.06122-2.69761 2.46068-2.95165.24323-1.77833.665-3.1945 1.09296-4.26439Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10538" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

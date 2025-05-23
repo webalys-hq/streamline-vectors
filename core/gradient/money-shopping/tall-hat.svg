@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tall-Hat--Streamline-Core-Gradient">
+  <desc>
+    Tall Hat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/tall-hat--tall-hat-cloth-clothing-wearable-magician-gentleman-accessories">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14493)" fill-rule="evenodd" d="M3.50495 13.5H12.75c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-1.6647l.1562-1.875-8.4826 0L2.91515 12H1.25c-.414214 0-.75.3358-.75.75s.335786.75.75.75h2.25495Zm-.85021-4.625L2.0922 2.12457C2.01932 1.25004 2.70946.5 3.58702.5h6.82638c.8776 0 1.5677.75004 1.4948 1.62457L11.3457 8.875l-8.69096 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14493" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

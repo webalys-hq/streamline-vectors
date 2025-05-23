@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ethereum--Streamline-Core-Gradient">
+  <desc>
+    Ethereum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/ethereum--crypto-circle-payment-blokchain-finance-ethereum-eth-currency">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14248)" fill-rule="evenodd" d="M7.39631.195145C7.30166.072102 7.15523 0 7 0c-.15524 0-.30167.072102-.39632.195145L2.03578 6.13343 7 7.71294l4.9642-1.57951L7.39631.195145ZM12.1262 7.65598 7.2274 9.21469c-.14795.04707-.30686.04707-.45481 0L1.87378 7.65598l4.7299 6.14892C6.69833 13.9279 6.84476 14 7 14c.15523 0 .30166-.0721.39631-.1951l4.72989-6.14892Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14248" x1="3.55" x2="12.842" y1="2.692" y2="6.463" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

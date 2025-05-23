@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Key--Streamline-Core-Gradient">
+  <desc>
+    Key Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/key--entry-key-lock-login-pass-unlock-access">
+    <path id="Union" fill="url(#paint0_linear_14402_7885)" fill-rule="evenodd" d="M10.293 1.29283c.3905-.390522 1.0237-.390522 1.4142 0l2 2c.3905.39053.3905 1.02369 0 1.41422-.3905.39052-1.0237.39052-1.4142 0l-1.2929-1.2929-.8358.83583 1.0428 1.04285c.3905.39053.3905 1.02369 0 1.41422-.3905.39052-1.0237.39052-1.41421 0L8.75004 5.66419 7.44621 6.96802C7.79808 7.56352 8 8.25815 8 8.99994c0 2.20916-1.79086 3.99996-4 3.99996s-4-1.7908-4-3.99996c0-2.20914 1.79086-4 4-4 .74183 0 1.43649.20194 2.03202.55385L8.0355 3.5503l.00739-.00747.00747-.00739L10.293 1.29283ZM5.40981 7.58134c-.36157-.35935-.85976-.5814-1.40981-.5814-1.10457 0-2 .89543-2 2 0 1.10456.89543 1.99996 2 1.99996s2-.8954 2-1.99996c0-.55002-.22203-1.04819-.58135-1.40976-.00147-.00146-.00295-.00293-.00442-.0044-.00148-.00147-.00295-.00296-.00442-.00444Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7885" x1="13.953" x2="-1.302" y1="13.002" y2="2.991" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

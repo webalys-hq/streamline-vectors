@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Multiple-Window--Streamline-Core-Gradient">
+  <desc>
+    Browser Multiple Window Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/browser-multiple-window--app-code-apps-two-window-cascade">
+    <path id="Union" fill="url(#paint0_linear_14402_11554)" fill-rule="evenodd" d="M4 5V3h8.5v6.5c0 .0663-.0263.12989-.0732.17678-.0469.04688-.1105.07322-.1768.07322H11c-.4142 0-.75.3358-.75.75s.3358.75.75.75h1.25c.4641 0 .9092-.1844 1.2374-.5126C13.8156 10.4092 14 9.96413 14 9.5V1.75c0-.46413-.1844-.909248-.5126-1.237437C13.1592.184375 12.7141 0 12.25 0h-8c-.46413 0-.90925.184375-1.23744.512563C2.68437.840752 2.5 1.28587 2.5 1.75V5c0 .41421.33579.75.75.75S4 5.41421 4 5Zm-2.5 7.25V10h6v2.25c0 .1381-.11193.25-.25.25h-5.5c-.13807 0-.25-.1119-.25-.25ZM0 8.75C0 7.7835.783502 7 1.75 7h5.5C8.2165 7 9 7.7835 9 8.75v3.5C9 13.2165 8.2165 14 7.25 14h-5.5C.783502 14 0 13.2165 0 12.25v-3.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11554" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

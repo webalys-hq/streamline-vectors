@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-Circle--Streamline-Core-Neon">
+  <desc>
+    Dashboard Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-circle--app-application-dashboard-home-layout-circle">
+    <path id="Rectangle 2040" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.5 1h0S6 1 6 3.5v0S6 6 3.5 6h0S1 6 1 3.5v0S1 1 3.5 1" stroke-width="1"></path>
+    <path id="Rectangle 2041" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1h0S13 1 13 3.5v0S13 6 10.5 6h0S8 6 8 3.5v0S8 1 10.5 1" stroke-width="1"></path>
+    <path id="Rectangle 2042" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.5 8h0S6 8 6 10.5v0S6 13 3.5 13h0S1 13 1 10.5v0S1 8 3.5 8" stroke-width="1"></path>
+    <path id="Rectangle 2043" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10.5 8h0S13 8 13 10.5v0s0 2.5 -2.5 2.5h0S8 13 8 10.5v0S8 8 10.5 8" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bill-2--Streamline-Core-Gradient">
+  <desc>
+    Bill 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bill-2--currency-billing-payment-finance-cash-bill-money-accounting">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13859)" fill-rule="evenodd" d="M1.5 1.5C.671573 1.5 0 2.17157 0 3v8c0 .8284.671573 1.5 1.5 1.5h11c.8284 0 1.5-.6716 1.5-1.5V3c0-.82843-.6716-1.5-1.5-1.5h-11ZM7 4.75C5.75736 4.75 4.75 5.75736 4.75 7S5.75736 9.25 7 9.25 9.25 8.24264 9.25 7 8.24264 4.75 7 4.75Zm-4.47505 1.5H2.5249c-.41421 0-.75.33579-.75.75s.33579.75.75.75h.00005c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75Zm8.95015 0c-.4142 0-.75.33579-.75.75s.3358.75.75.75c.4143 0 .75-.33579.75-.75s-.3357-.75-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13859" x1="13.953" x2="-.477" y1="12.502" y2="2.172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

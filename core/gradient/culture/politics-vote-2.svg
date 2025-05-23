@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Politics-Vote-2--Streamline-Core-Gradient">
+  <desc>
+    Politics Vote 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/politics-vote-2">
+    <path id="Union" fill="url(#paint0_linear_14402_16536)" fill-rule="evenodd" d="M5.92172.792893c.39053-.390524 1.02369-.390524 1.41422 0L10.3401 3.79703c.3905.39052.3905 1.02369 0 1.41421L8.07819 7.47313c-.39053.39052-1.02369.39052-1.41422 0L3.65984 4.46899c-.39053-.39052-.39053-1.02368 0-1.41421L5.92172.792893ZM3.05958 5.63651l1.93875 1.93875H4c-.34518 0-.625.27982-.625.625 0 .34517.27982.625.625.625h6c.3452 0 .625-.27983.625-.625 0-.34518-.2798-.625-.625-.625h-.25617L11.224 6.09513c.1404-.14042.2584-.29478.3539-.45862H12c.8284 0 1.5.67157 1.5 1.5v2.75247H.5V7.13651c0-.82843.67157-1.5 1.5-1.5h1.05958ZM.5 11.139V13c0 .2761.223858.5.5.5h12c.2761 0 .5-.2239.5-.5v-1.861H.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16536" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

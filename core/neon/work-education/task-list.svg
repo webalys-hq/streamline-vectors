@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Task-List--Streamline-Core-Neon">
+  <desc>
+    Task List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="task-list--task-list-work">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-9c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C1.60536 13.0196 1.5 12.7652 1.5 12.5v-11c0 -0.26522 0.10536 -0.51957 0.29289 -0.707107C1.98043 0.605357 2.23478 0.5 2.5 0.5h5.58579c0.26521 0 0.51957 0.105357 0.7071 0.292893L12.2071 4.20711c0.1875 0.18753 0.2929 0.44189 0.2929 0.7071V12.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7.55859 6.375 2.50001 0" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7.55859 10.0938 2.50001 0" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m3.69141 10.0371 0.83789 0.8379 1.39648 -1.95508" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m3.69141 6.25586 0.83789 0.83789 1.39648 -1.95508" stroke-width="1"></path>
+  </g>
+</svg>

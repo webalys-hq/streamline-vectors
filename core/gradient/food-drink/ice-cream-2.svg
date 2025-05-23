@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ice-Cream-2--Streamline-Core-Gradient">
+  <desc>
+    Ice Cream 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/ice-cream-2--cook-frozen-popsicle-freezer-nutrition-cream-stick-cold-ice-cooking">
+    <path id="Union" fill="url(#paint0_linear_14402_10560)" fill-rule="evenodd" d="M4 0c-.82843 0-1.5.671573-1.5 1.5v6C2.5 8.32843 3.17157 9 4 9h6c.8284 0 1.5-.67157 1.5-1.5v-6C11.5.671573 10.8284 0 10 0H4Zm2.125 2.5c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625V6c0 .34518.27982.625.625.625s.625-.27982.625-.625V2.5Zm3 0c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625V6c0 .34518.27982.625.625.625s.625-.27982.625-.625V2.5ZM5.5 10.25v2.25c0 .8284.67157 1.5 1.5 1.5s1.5-.6716 1.5-1.5v-2.25h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10560" x1="11.47" x2="-.938" y1="14.003" y2="9.516" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

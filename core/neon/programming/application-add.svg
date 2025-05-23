@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Application-Add--Streamline-Core-Neon">
+  <desc>
+    Application Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="application-add--application-new-add-square">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.09091 1H1.90909C1.40701 1 1 1.40701 1 1.90909v3.18182C1 5.59299 1.40701 6 1.90909 6h3.18182C5.59299 6 6 5.59299 6 5.09091V1.90909C6 1.40701 5.59299 1 5.09091 1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12.0909 8H8.90909C8.40701 8 8 8.40701 8 8.90909v3.18181c0 0.5021 0.40701 0.9091 0.90909 0.9091h3.18181c0.5021 0 0.9091 -0.407 0.9091 -0.9091V8.90909C13 8.40701 12.593 8 12.0909 8Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.09091 8H1.90909C1.40701 8 1 8.40701 1 8.90909v3.18181c0 0.5021 0.40701 0.9091 0.90909 0.9091h3.18182C5.59299 13 6 12.593 6 12.0909V8.90909C6 8.40701 5.59299 8 5.09091 8Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 6.00002 10.5 1" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8 3.5h5" stroke-width="1"></path>
+  </g>
+</svg>

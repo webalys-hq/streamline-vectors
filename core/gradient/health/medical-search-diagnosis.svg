@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Search-Diagnosis--Streamline-Core-Gradient">
+  <desc>
+    Medical Search Diagnosis Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/medical-search-diagnosis">
+    <path id="Union" fill="url(#paint0_linear_14402_16222)" fill-rule="evenodd" d="M6.5 1.5c-2.76142 0-5 2.23858-5 5s2.23858 5 5 5 5-2.23858 5-5-2.23858-5-5-5ZM0 6.5C0 2.91015 2.91015 0 6.5 0 10.0899 0 13 2.91015 13 6.5c0 1.4341-.4644 2.75973-1.2511 3.8347l1.9584 1.9584c.3906.3905.3906 1.0237 0 1.4142-.3905.3905-1.0236.3905-1.4142 0l-1.9584-1.9584C9.25974 12.5356 7.9341 13 6.5 13 2.91015 13 0 10.0899 0 6.5Zm5.12864-2.82282c0-.23592.19126-.42718.42719-.42718h1.88834c.23593 0 .42719.19126.42719.42718v1.45148h1.45145c.23593 0 .42719.19126.42719.42719V7.4442c0 .23592-.19126.42718-.42719.42718H7.87136v1.45143c0 .23593-.19126.42719-.42719.42719H5.55583c-.23593 0-.42719-.19126-.42719-.42719V7.87138H3.67718c-.23592 0-.42718-.19126-.42718-.42718V5.55585c0-.23593.19126-.42719.42718-.42719h1.45146V3.67718Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16222" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sun-Cloud--Streamline-Core-Gradient">
+  <desc>
+    Sun Cloud Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/sun-cloud--cloud-meteorology-cloudy-partly-sunny-weather">
+    <path id="Union" fill="url(#paint0_linear_14402_8605)" fill-rule="evenodd" d="M8.5 2.99994C8.5 1.61923 9.61929.499939 11 .499939c1.3807 0 2.5 1.119291 2.5 2.500001s-1.1193 2.5-2.5 2.5c-1.38071 0-2.5-1.11929-2.5-2.5Zm-8 6.5c0-2.20914 1.79086-4 4-4 1.61274 0 3.00168.95409 3.63473 2.32809.40963-.20968.87391-.32809 1.36527-.32809 1.6569 0 3 1.34314 3 2.99996 0 1.6569-1.3431 3-3 3h-5c-2.20914 0-4-1.7908-4-3.99996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8605" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

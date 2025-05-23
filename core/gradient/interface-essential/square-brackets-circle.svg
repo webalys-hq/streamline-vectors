@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Brackets-Circle--Streamline-Core-Gradient">
+  <desc>
+    Square Brackets Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/square-brackets-circle--interface-math-brackets-sign-mathematics">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8536)" fill-rule="evenodd" d="M7 13.9999c3.866 0 7-3.134 7-6.99996 0-3.86599-3.134-7.0000010352-7-7.0000010352-3.86599 0-7 3.1340110352-7 7.0000010352 0 3.86596 3.13401 6.99996 7 6.99996ZM4.625 5.12494H5.5c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625h-1c-.62132 0-1.125.50368-1.125 1.125v4c0 .62132.50368 1.12496 1.125 1.12496h1c.34518 0 .625-.27978.625-.62496s-.27982-.625-.625-.625h-.875v-3.75Zm4.75 0H8.5c-.34518 0-.625-.27982-.625-.625s.27982-.625.625-.625h1c.6213 0 1.125.50368 1.125 1.125v4c0 .62132-.5037 1.12496-1.125 1.12496h-1c-.34518 0-.625-.27978-.625-.62496s.27982-.625.625-.625h.875v-3.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8536" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

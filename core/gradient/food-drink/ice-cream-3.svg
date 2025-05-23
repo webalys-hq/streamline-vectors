@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ice-Cream-3--Streamline-Core-Gradient">
+  <desc>
+    Ice Cream 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/ice-cream-3--cook-frozen-cone-cream-ice-cooking-nutrition-freezer-cold-food">
+    <path id="Union" fill="url(#paint0_linear_14402_10673)" fill-rule="evenodd" d="M2.5 4.5C2.5 2.01472 4.51472 0 7 0s4.5 2.01472 4.5 4.5v3c0 .82843-.6716 1.5-1.5 1.5-.82843 0-1.5-.67157-1.5-1.5v-2H3c-.27614 0-.5-.22386-.5-.5v-.5Zm3.34151 8.7423L3.00112 6.75H7.25v.75c0 1.34396.96409 2.46275 2.23841 2.7025l-1.32992 3.0398C7.95712 13.7026 7.50239 14 7 14s-.95712-.2974-1.15849-.7577Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10673" x1="12.28" x2="-2.834" y1="16.965" y2="10.064" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

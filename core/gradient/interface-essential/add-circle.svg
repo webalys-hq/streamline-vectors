@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Circle--Streamline-Core-Gradient">
+  <desc>
+    Add Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/add-circle--button-remove-cross-add-buttons-plus-circle-+-mathematics-math">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8987)" fill-rule="evenodd" d="M14 7c0 3.866-3.134 7-7 7-3.86599 0-7-3.134-7-7 0-3.86599 3.13401-7 7-7 3.866 0 7 3.13401 7 7ZM7 3.25c.41421 0 .75.33579.75.75v2.25H10c.4142 0 .75.33579.75.75s-.3358.75-.75.75H7.75V10c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75V7.75H4c-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75h2.25V4c0-.41421.33579-.75.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8987" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

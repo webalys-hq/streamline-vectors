@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bookmark-1--Streamline-Core-Gradient">
+  <desc>
+    Bookmark 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/bookmark-1--bookmarks-tags-favorite">
+    <path id="Union" fill="url(#paint0_linear_14402_9308)" fill-rule="evenodd" d="M3 0c-.82843 0-1.5.671573-1.5 1.5v12c0 .1864.10373.3574.26909.4435.16537.0861.36491.073.51764-.0339L7 10.6103l4.7133 3.2993c.1527.1069.3522.12.5176.0339.1654-.0861.2691-.2571.2691-.4435v-12C12.5.671573 11.8284 0 11 0H3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9308" x1="3.298" x2="13.06" y1="2.692" y2="6.942" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

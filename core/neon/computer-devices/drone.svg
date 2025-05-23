@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Drone--Streamline-Core-Neon">
+  <desc>
+    Drone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="drone--artificial-robotics-intelligence-machine-technology-android-flying">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 1h4" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9 1h4" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3 1v3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11 1v3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7h7" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 8.64999c-0.47238 0.42083 -0.85029 0.93693 -1.10883 1.51431 -0.25854 0.5774 -0.39185 1.203 -0.39117 1.8357v1h1" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10 8.64999c0.4724 0.42083 0.8503 0.93693 1.1088 1.51431 0.2586 0.5774 0.3919 1.203 0.3912 1.8357v1h-1" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13 4H1v1c0 0.53043 0.21071 1.03914 0.58579 1.41421C1.96086 6.78929 2.46957 7 3 7h0.5c0 0.79565 0.31607 1.55871 0.87868 2.12132C4.94129 9.68393 5.70435 10 6.5 10h1c0.79565 0 1.55871 -0.31607 2.12132 -0.87868C10.1839 8.55871 10.5 7.79565 10.5 7h0.5c0.5304 0 1.0391 -0.21071 1.4142 -0.58579C12.7893 6.03914 13 5.53043 13 5V4Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Folder-Check--Streamline-Core-Gradient">
+  <desc>
+    Folder Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/folder-check--remove-check-folder">
+    <path id="Subtract" fill="url(#paint0_linear_14402_7552)" fill-rule="evenodd" d="M.5 1.99994C.5 1.17151 1.17157.499939 2 .499939h2.71922c.68831 0 1.28828.468445 1.45522 1.136201l.21595.8638H12c.8284 0 1.5.67157 1.5 1.5v7.99996c0 .8285-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6715-1.5-1.5V1.99994Zm9.1 4.45c.24853-.33137.18137-.80147-.15-1.05-.33137-.24853-.80147-.18137-1.05.15L5.82569 8.98235l-.90966-.60645c-.34465-.22976-.8103-.13663-1.04007.20801-.22976.34465-.13663.8103.20801 1.04007l1.5 1.00002c.3312.2208.7772.1444 1.01603-.1741l3-3.99996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7552" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

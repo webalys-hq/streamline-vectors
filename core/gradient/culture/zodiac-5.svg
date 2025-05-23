@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zodiac-5--Streamline-Core-Gradient">
+  <desc>
+    Zodiac 5 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/zodiac-5--sign-astrology-stars-space-taurus">
+    <path id="Union" fill="url(#paint0_linear_14402_16591)" fill-rule="evenodd" d="M3.80043.824692C3.70362.280959 3.18436-.0813422 2.64062.0154699 2.09689.112282 1.73459.631547 1.8314 1.17528c.24256 1.36232 1.00989 2.54287 2.08572 3.32474C2.60385 5.45429 1.75 7.00243 1.75 8.74999 1.75 11.6495 4.1005 14 7 14c2.89949 0 5.25-2.3505 5.25-5.25001 0-1.74759-.8539-3.29573-2.1672-4.25001 1.0758-.78186 1.8431-1.9624 2.0857-3.3247.0968-.543733-.2655-1.062998-.8092-1.1598101-.5438-.0968121-1.063.2654891-1.1598.8092221C9.9287 2.34541 8.59813 3.49999 6.99995 3.49999S4.0712 2.34541 3.80043.824692ZM3.75 8.74999c0-1.79493 1.45507-3.25 3.25-3.25s3.25 1.45507 3.25 3.25C10.25 10.5449 8.79493 12 7 12s-3.25-1.4551-3.25-3.25001Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16591" x1="3.466" x2="12.918" y1="2.692" y2="6.62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

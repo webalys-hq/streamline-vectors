@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Windows--Streamline-Core-Gradient">
+  <desc>
+    Windows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/windows--os-system-microsoft">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12902)" fill-rule="evenodd" d="m1.3482 1.80068 4.10395-.4789v4.80908H.5V2.72818c0-.01202.000433-.02404.001299-.03602.032556-.45076.38956-.83666.845341-.8913l.00156-.00018ZM.5 7.38086v3.42134l.000004.0019c.001772.4593.339358.8751.798166.9585l4.15398.6464V7.38086H.5Zm6.20215 0v5.22254l5.68385.8844c.5939.0961 1.11-.3773 1.114-.9492V7.38086H6.70215Zm6.79785-1.25V1.46368c0-.552662-.4879-1.036497-1.0809-.954896l-5.71695.667126v4.95495H13.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12902" x1="1" x2="15.816" y1="1.55" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Magnifying-Glass-Circle--Streamline-Core-Gradient">
+  <desc>
+    Magnifying Glass Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/magnifying-glass-circle--circle-glass-search-magnifying">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8003)" fill-rule="evenodd" d="M14 6.99994c0 3.86596-3.134 6.99996-7 6.99996-3.86599 0-7-3.134-7-6.99996C0 3.13395 3.13401-.0000610352 7-.0000610352c3.866 0 7 3.1340110352 7 7.0000010352Zm-7.5-2.375c-1.03553 0-1.875.83947-1.875 1.875s.83947 1.875 1.875 1.875 1.875-.83947 1.875-1.875-.83947-1.875-1.875-1.875Zm-3.125 1.875c0-1.72589 1.39911-3.125 3.125-3.125s3.125 1.39911 3.125 3.125c0 .63693-.19055 1.22935-.51775 1.72337L10.4419 9.558c.2441.24407.2441.6398 0 .8839-.244.2441-.63976.2441-.88384 0L8.22337 9.10719c-.49402.3272-1.08644.51775-1.72337.51775-1.72589 0-3.125-1.39911-3.125-3.125Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8003" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

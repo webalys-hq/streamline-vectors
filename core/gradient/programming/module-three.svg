@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Module-Three--Streamline-Core-Gradient">
+  <desc>
+    Module Three Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/module-three--code-three-module-programming-plugin">
+    <path id="Union" fill="url(#paint0_linear_14402_12000)" fill-rule="evenodd" d="M4.88 0c-.55228 0-1 .447715-1 1v4.25c0 .55228.44772 1 1 1h4.25c.55229 0 1-.44772 1-1V1c0-.552285-.44771-1-1-1H4.88ZM1 7.75c-.552285 0-1 .44771-1 1V13c0 .5523.447715 1 1 1h4.25c.55228 0 1-.4477 1-1V8.75c0-.55229-.44772-1-1-1H1Zm6.75 1c0-.55229.44771-1 1-1H13c.5523 0 1 .44771 1 1V13c0 .5523-.4477 1-1 1H8.75c-.55229 0-1-.4477-1-1V8.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12000" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

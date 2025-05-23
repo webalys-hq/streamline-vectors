@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Game--Streamline-Core-Gradient">
+  <desc>
+    Desktop Game Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/desktop-game--controller-display-device-computer-games-leisure">
+    <path id="Union" fill="url(#paint0_linear_14402_12773)" fill-rule="evenodd" d="m11.4546 4.5098-.1025-.30734c-.1194-.35852-.4549-.60035-.8327-.60035H9.37584c-.37781 0-.71324.24183-.83271.60035l-.10242.30734c-.17779.53351-.67692.89336-1.23913.89336-.77849 0-1.38414-.67686-1.29817-1.45079l.20174-1.81616C6.24024.920064 7.26791 0 8.49121 0h2.91289c1.2233 0 2.2509.920064 2.386 2.13621l.2018 1.81616c.0859.77393-.5197 1.45079-1.2982 1.45079-.5622 0-1.0614-.35985-1.2391-.89336ZM1.5 3h2.72227c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75H1.25C.559644 1.5 0 2.05964 0 2.75v7.5c0 .6904.559644 1.25 1.25 1.25h4.05572l-.3579 1H4c-.41421 0-.75.3358-.75.75s.33579.75.75.75h6c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-.94791l-.3579-1H12.75c.6904 0 1.25-.5596 1.25-1.25V7.38353c0-.41421-.3358-.75-.75-.75s-.75.33579-.75.75V10h-11V3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12773" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

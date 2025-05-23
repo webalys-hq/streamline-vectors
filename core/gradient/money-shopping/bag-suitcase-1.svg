@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Suitcase-1--Streamline-Core-Gradient">
+  <desc>
+    Bag Suitcase 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bag-suitcase-1--product-business-briefcase">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13832)" fill-rule="evenodd" d="M4.26256 1.01256C4.59075.684375 5.03587.5 5.5.5h3c.46413 0 .90925.184375 1.23744.51256.32816.32819.51256.77331.51256 1.23744V3H12c.8284 0 1.5.67157 1.5 1.5V12c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5V4.5C.5 3.67157 1.17157 3 2 3h1.75v-.75c0-.46413.18437-.90925.51256-1.23744ZM8.75 2.25V3h-3.5v-.75c0-.0663.02634-.12989.07322-.17678C5.37011 2.02634 5.4337 2 5.5 2h3c.0663 0 .12989.02634.17678.07322.04688.04689.07322.11048.07322.17678ZM2.875 7c0-.34518.27982-.625.625-.625h7c.3452 0 .625.27982.625.625s-.2798.625-.625.625h-7c-.34518 0-.625-.27982-.625-.625Zm0 3c0-.34518.27982-.625.625-.625h7c.3452 0 .625.27982.625.625 0 .3452-.2798.625-.625.625h-7c-.34518 0-.625-.2798-.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13832" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

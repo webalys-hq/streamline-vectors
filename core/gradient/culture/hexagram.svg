@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hexagram--Streamline-Core-Gradient">
+  <desc>
+    Hexagram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/hexagram--star-jew-jewish-judaism-hexagram-culture-religion-david">
+    <path id="Union" fill="url(#paint0_linear_14402_16459)" fill-rule="evenodd" d="M12.5 10.75c.1777 0 .3421-.0944.4318-.2478.0896-.1535.091-.3431.0037-.4979L11.2407 7l1.6948-3.00434c.0873-.15481.0859-.34434-.0037-.49782-.0897-.15348-.2541-.24784-.4318-.24784H9.12535L7.43549.254339C7.34685.097198 7.18042 0 7 0c-.18042 0-.34684.097198-.43549.254339L4.87465 3.25H1.5c-.17774 0-.34212.09436-.43176.24784-.089636.15348-.091057.34301-.00373.49782L2.75927 7l-1.69476 3.0043c-.087327.1548-.085907.3444.00373.4979.08964.1534.25402.2478.43176.2478h3.37465l1.68986 2.9957C6.65315 13.9028 6.81958 14 7 14c.18042 0 .34685-.0972.43549-.2543L9.12535 10.75H12.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16459" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Square--Streamline-Core-Gradient">
+  <desc>
+    Camera Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/camera-square--photos-picture-camera-photography-photo-pictures-frame-square">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12065)" fill-rule="evenodd" d="M2 .5C1.17157.5.5 1.17157.5 2v10c0 .8284.67157 1.5 1.5 1.5h10c.8284 0 1.5-.6716 1.5-1.5V2c0-.82843-.6716-1.5-1.5-1.5H2Zm8.8244 5.73173c0-.2898-.1151-.56773-.3201-.77265-.2049-.20492-.4828-.32004-.77261-.32004h-.54635L8.09265 3.5H5.90727L4.81458 5.13904h-.54635c-.2898 0-.56773.11512-.77265.32004s-.32004.48285-.32004.77265v2.73173c0 .2898.11512.56773.32004.77265s.48285.32009.77265.32009h5.46346c.28981 0 .56771-.11517.77261-.32009.205-.20492.3201-.48285.3201-.77265V6.23173Zm-3.82434.04635c-.65789 0-1.19122.53333-1.19122 1.19122 0 .6579.53333 1.19123 1.19122 1.19123.6579 0 1.19123-.53333 1.19123-1.19123 0-.65789-.53333-1.19122-1.19123-1.19122Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12065" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

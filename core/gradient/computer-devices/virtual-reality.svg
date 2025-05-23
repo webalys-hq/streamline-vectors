@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Virtual-Reality--Streamline-Core-Gradient">
+  <desc>
+    Virtual Reality Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/virtual-reality--gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13055)" fill-rule="evenodd" d="M2.77494 1.73404C3.04185 1.28517 3.53639 1 4.06545 1h5.86868c.52347.00009 1.02287.28408 1.29037.734l.0008.00134 2.4831 4.13417H.291128L2.77494 1.73404ZM.000488281 7.11951v4.37959c0 .3981.158256719.7799.439866719 1.0614.281601.2814.663475.4395 1.061595.4395h3.0044l.0023 0c.4891-.0023.87169-.2701 1.12968-.5241.01375-.0136.02671-.0279.03881-.0429l1.31192-1.6315.00027-.0004.00024-.0001.00042-.0001.00041.0001.00024.0001-.00001 0 .00261.0032 1.33195 1.6315c.0093.0114.0191.0224.02936.0329.24345.2496.64871.529 1.1368.5313l.0023 0H12.498c.3982 0 .78-.1581 1.0616-.4395.2817-.2815.4399-.6633.4399-1.0614V7.11951H.000488281Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13055" x1="2.289" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Paintbrush-1--Streamline-Core-Gradient">
+  <desc>
+    Paintbrush 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/paintbrush-1--brush-color-colors-design-paint-painting">
+    <path id="Union" fill="url(#paint0_linear_14402_8183)" fill-rule="evenodd" d="M12.7071 5.29186c-.1875-.18754-.4419-.2929-.7071-.2929h-2c-.26519 0-.51955-.10535-.70708-.29289-.18754-.18754-.2929-.44189-.2929-.70711v-2c0-.53043-.21071-1.039138-.58578-1.414211-.37507-.375073-.88378-.5857866-1.41422-.5857866-.53043 0-1.03914.2107136-1.41421.5857866-.37507.375073-.58578.883781-.58578 1.414211v2c0 .26522-.10536.51957-.2929.70711-.18753.18754-.44189.29289-.7071.29289H2c-.26522 0-.51957.10536-.70711.2929C1.10536 5.47939 1 5.73375 1 5.99896v2.00049c0 .27614.22386.5.5.5h11c.2761 0 .5-.22386.5-.5V5.99896c0-.26521-.1054-.51957-.2929-.7071ZM1.00938 12.9343 1.5 9.49994h11l.4906 3.43436c.0063.0437.0094.0878.0094.132 0 .5156-.418.9336-.9336.9336H9.25v-2c0-.4142-.33579-.75-.75-.75s-.75.3358-.75.75v2H1.93365c-.51564 0-.93365-.418-.93365-.9336 0-.0442.00314-.0883.00938-.132Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8183" x1="2.962" x2="13.298" y1="2.691" y2="7.6" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

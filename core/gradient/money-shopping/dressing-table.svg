@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dressing-Table--Streamline-Core-Gradient">
+  <desc>
+    Dressing Table Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/dressing-table--makeup-dressing-table-mirror-cabinet-product-decoration-furniture">
+    <path id="Union" fill="url(#paint0_linear_14402_13513)" fill-rule="evenodd" d="M7 1.5c-2.20914 0-4 1.79086-4 4v1.25h8V5.5c0-2.20914-1.79086-4-4-4Zm5.5 5.25V5.5C12.5 2.46243 10.0376 0 7 0 3.96243 0 1.5 2.46243 1.5 5.5v1.25H.75c-.414214 0-.75.33579-.75.75s.335786.75.75.75h.75v4.25c0 .3978.15804.7794.43934 1.0607S2.60217 14 3 14h3.375V8.25h1.25V14H11c.3978 0 .7794-.158 1.0607-.4393S12.5 12.8978 12.5 12.5V8.25h.75c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75h-.75Zm-3 2.625c.34518 0 .625.27982.625.625v1c0 .3452-.27982.625-.625.625s-.625-.2798-.625-.625v-1c0-.34518.27982-.625.625-.625ZM5.125 10c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v1c0 .3452.27982.625.625.625s.625-.2798.625-.625v-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13513" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

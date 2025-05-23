@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Grab--Streamline-Core-Gradient">
+  <desc>
+    Hand Grab Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/hand-grab--hand-select-cursor-finger-grab">
+    <path id="Subtract" fill="url(#paint0_linear_14402_7610)" fill-rule="evenodd" d="m3.85639 12.7251-1.74346-1.3948c-.45931-.3674-.77435-.8851-.88971-1.46184l-.530856-2.6543c-.236349-1.18174.404026-2.3639 1.522976-2.81148l.02224-.0089.023-.00673.2833-.08292 0 2.27436c0 .34518.27983.625.625.625.34518 0 .625-.27982.625-.625l0-3.56925C3.79802 1.42471 5.25724.242962 6.8089.569628l.01338.002816-.00004.000182L11.3785 1.66269c1.1531.2462 1.9779 1.26506 1.9779 2.44487V7.1241c0 1.63007-.3795 3.2378-1.1085 4.6958l-.3915.7829v.382c0 .2761-.2239.5-.5.5H4.35639c-.27614 0-.5-.2239-.5-.5v-.2597Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7610" x1="2.722" x2="13.085" y1="3.009" y2="8.637" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Skull-1--Streamline-Core-Gradient">
+  <desc>
+    Skull 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/skull-1--crash-death-delete-die-error-garbage-remove-skull-trash">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8480)" fill-rule="evenodd" d="M7-.0000610352C3.54822-.0000610352.75 2.79816.75 6.24994.75 8.1805 1.62581 9.9067 3 11.0525v1.4474c0 .8285.67157 1.5 1.5 1.5h.375v-2.25c0-.3451.27982-.625.625-.625s.625.2799.625.625v2.25h1.75v-2.25c0-.3451.27982-.625.625-.625s.625.2799.625.625v2.25H9.5c.8284 0 1.5-.6715 1.5-1.5v-1.4474c1.3742-1.1458 2.25-2.872 2.25-4.80256 0-3.45178-2.7982-6.2500010352-6.25-6.2500010352ZM6 7.24994c0 .69035-.55964 1.25-1.25 1.25s-1.25-.55965-1.25-1.25c0-.69036.55964-1.25 1.25-1.25S6 6.55958 6 7.24994Zm4.5 0c0 .69035-.55964 1.25-1.25 1.25S8 7.94029 8 7.24994c0-.69036.55964-1.25 1.25-1.25s1.25.55964 1.25 1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8480" x1="14.333" x2="-3.758" y1="16.965" y2="5.491" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

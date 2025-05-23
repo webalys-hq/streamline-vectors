@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cake-Slice--Streamline-Core-Gradient">
+  <desc>
+    Cake Slice Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/cake-slice--cherry-cake-birthday-event-special-sweet-bake">
+    <path id="Union" fill="url(#paint0_linear_14402_10528)" fill-rule="evenodd" d="M5.5 1.5c-.37384 0-.6838.27352-.74067.63135C5.62835 2.44285 6.25 3.27383 6.25 4.25c0 .70682-.32592 1.33751-.83567 1.75H12c.8284 0 1.5.67157 1.5 1.5v1H.5v-1C.5 6.67157 1.17157 6 2 6h.58567C2.07592 5.58751 1.75 4.95682 1.75 4.25c0-.9809.62769-1.8152 1.50331-2.12314C3.31725.941488 4.29867 0 5.5 0c.41421 0 .75.335786.75.75 0 .41421-.33579.75-.75.75ZM.5 12v-2h13v2c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10528" x1="13.456" x2="-2.213" y1="13.503" y2="5.015" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

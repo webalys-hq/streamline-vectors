@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tree-3--Streamline-Core-Gradient">
+  <desc>
+    Tree 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/tree-3--nature-tree-plant-cloud-shape-park">
+    <path id="Union" fill="url(#paint0_linear_14402_10921)" fill-rule="evenodd" d="M7 0C5.20872 0 3.73174 1.34565 3.5248 3.08121 2.07897 3.41073 1 4.70436 1 6.25 1 8.04493 2.45507 9.5 4.25 9.5H6V13c0 .5523.44772 1 1 1s1-.4477 1-1V9.5h1.75C11.5449 9.5 13 8.04493 13 6.25c0-1.54564-1.079-2.83927-2.5248-3.16879C10.2683 1.34565 8.79128 0 7 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10921" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

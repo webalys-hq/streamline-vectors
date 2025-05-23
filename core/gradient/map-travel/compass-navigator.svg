@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Compass-Navigator--Streamline-Core-Gradient">
+  <desc>
+    Compass Navigator Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/compass-navigator">
+    <path id="Subtract" fill="url(#paint0_linear_14402_9902)" fill-rule="evenodd" d="M11.7949.533401c.9855-.219002 1.8907.686159 1.6717 1.671659l-1.8405 8.28224c-.1264.5685-.5704 1.0125-1.1389 1.1389l-8.28226 1.8405c-.9855.219-1.890663-.6862-1.671661-1.6717L2.37378 3.51278c.12634-.56853.57035-1.01254 1.13888-1.13888L11.7949.533401ZM6.99994 9.25c1.24264 0 2.25-1.00736 2.25-2.25s-1.00736-2.25-2.25-2.25-2.25 1.00736-2.25 2.25 1.00736 2.25 2.25 2.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9902" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Candy-Cane--Streamline-Core-Gradient">
+  <desc>
+    Candy Cane Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/candy-cane--candy-sweet-cane-christmas">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10589)" fill-rule="evenodd" d="M1.5 5.5c0-.88879.21082-1.72835.58519-2.47138L5.5 5.76047V6c0 1.10457-.89543 2-2 2s-2-.89543-2-2v-.5Zm4.5874-1.19055L2.939 1.79073C3.9447.690282 5.39174 0 7 0c1.37609 0 2.63415.50537 3.5987 1.34064l-2.8559 2.8559C7.52381 4.07147 7.27025 4 7 4c-.34336 0-.65978.11537-.9126.30945ZM8.5 5.56066l3.0908-3.09077c.482.72883.7951 1.57915.8835 2.49518-.0015.00152-.0031.00306-.0046.0046L8.5 8.93934V5.56066Zm0 5.50004V12c0 1.1046.89543 2 2 2 1.1046 0 2-.8954 2-2V7.06066l-4 4.00004Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10589" x1="13.453" x2="-3.568" y1="16.965" y2="7.465" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

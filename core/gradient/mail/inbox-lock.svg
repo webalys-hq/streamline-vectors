@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Inbox-Lock--Streamline-Core-Gradient">
+  <desc>
+    Inbox Lock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/inbox-lock--mail-envelope-email-message-secure-password-lock-encryption">
+    <path id="Union" fill="url(#paint0_linear_14402_11301)" fill-rule="evenodd" d="M.43934.43934C.720644.158035 1.10218 0 1.5 0h10c.3978 0 .7794.158035 1.0607.43934.154.154084.2711.33824.3455.538672L6.5 5.24884.0937532.978012C.168155.77758.285255.593424.43934.43934ZM0 2.41782V8.5c0 .39783.158035.77936.43934 1.06066C.720644 9.84196 1.10217 10 1.5 10h5.30571c.105-.46299.35273-.87129.69429-1.17681V8.75c0-1.933 1.567-3.5 3.5-3.5.7436 0 1.4331.23191 2 .62734V2.41782L6.84669 6.52003c-.20994.13996-.48344.13996-.69338 0L0 2.41782ZM11 8c-.4142 0-.75.33579-.75.75v.75h1.5v-.75c0-.41421-.3358-.75-.75-.75Zm-2.25.75v.7815c-.43131.11102-.75.5025-.75.9685V13c0 .5523.44772 1 1 1h4c.5523 0 1-.4477 1-1v-2.5c0-.466-.3187-.85748-.75-.9685V8.75c0-1.24264-1.0074-2.25-2.25-2.25-1.24264 0-2.25 1.00736-2.25 2.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11301" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

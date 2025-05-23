@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Image-Saturation-Vertical--Streamline-Core-Gradient">
+  <desc>
+    Image Saturation Vertical Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/image-saturation-vertical">
+    <path id="Subtract" fill="url(#paint0_linear_14402_7800)" fill-rule="evenodd" d="M2.33879 5.75144C1.85771 6.6655 1.5 7.62767 1.5 8.49994c0 3.03756 2.46243 5.49996 5.5 5.49996 3.0376 0 5.5-2.4624 5.5-5.49996 0-.87227-.3577-1.83444-.8388-2.7485-.487-.92539-1.1305-1.85672-1.76489-2.68136-.6357-.82641-1.27016-1.55593-1.74509-2.078352C7.89062.70507 7.62733.42057 7.35355.146386c-.19526-.1952626-.51184-.1952626-.7071 0-.27378.274184-.53707.558685-.79767.845342-.47493.522422-1.10939 1.251942-1.74509 2.078352-.63434.82464-1.27785 1.75597-1.7649 2.68136Zm3.35015-1.46212C6.14679 3.69411 6.60685 3.1492 7 2.7038l0 9.296c-1.933 0-3.5-1.5671-3.5-3.50005 0-.38342.17707-.99705.60863-1.817.41386-.78634.98334-1.61737 1.58031-2.39343Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7800" x1="13.453" x2="-3.568" y1="16.965" y2="7.465" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

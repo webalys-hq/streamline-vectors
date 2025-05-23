@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pets-Allowed--Streamline-Core-Gradient">
+  <desc>
+    Pets Allowed Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/pets-allowed--travel-wayfinder-pets-allowed">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10313)" fill-rule="evenodd" d="M7.49004 2.25965C7.93514 1.48072 8.7635 1 9.66065 1H10.5c.2761 0 .5.22386.5.5v2.13962l2.6581.88604C13.8623 4.59372 14 4.78478 14 5c0 1.38071-1.1193 2.5-2.5 2.5H9.37495c-1.70788 0-3.09574-1.37007-3.1245-3.07108l1.23959-2.16927ZM5.00175 4.5H3.16667c-.32456 0-.64036-.10527-.9-.3L.8 3.1c-.151509-.11363-.354215-.13191-.523607-.04721C.107001 3.13748 0 3.31061 0 3.5v8c0 .8284.671573 1.5 1.5 1.5.82843 0 1.5-.6716 1.5-1.5V10h4v1.5c0 .8284.67157 1.5 1.5 1.5s1.5-.6716 1.5-1.5V8.75h-.62505c-2.37444 0-4.30706-1.89157-4.3732-4.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10313" x1=".538" x2="15.216" y1="1.97" y2="11.622" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

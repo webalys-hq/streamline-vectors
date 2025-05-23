@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Color-Swatches--Streamline-Core-Gradient">
+  <desc>
+    Color Swatches Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/color-swatches--color-colors-design-painting-palette-sample-swatch">
+    <path id="Union" fill="url(#paint0_linear_14402_9465)" fill-rule="evenodd" d="M4.5.5H2C1.17157.5.5 1.17157.5 2v1.75H6V2C6 1.17157 5.32843.5 4.5.5ZM.5 8V5.25H6V8H.5Zm0 1.5H6v1.25c0 1.5188-1.23122 2.75-2.75 2.75S.5 12.2688.5 10.75V9.5Zm6.75 1.2207 4.7709-4.77094c.5858-.58578.5858-1.53553 0-2.12132l-1.7678-1.76776c-.58577-.58579-1.53551-.58579-2.1213 0l-.8818.8818v7.77822ZM6.13965 13.5h5.86015c.8284 0 1.5-.6716 1.5-1.5V9.5c0-.82843-.6716-1.5-1.5-1.5h-.2616l-5.02082 5.0208c-.1806.1806-.37418.3404-.57773.4792Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9465" x1="14.626" x2="-2.909" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

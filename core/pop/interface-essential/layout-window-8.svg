@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Layout-Window-8--Streamline-Core">
+  <desc>
+    Layout Window 8 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layout-window-8--grid-header-layout-layouts-masthead">
+    <path id="Vector" fill="#7af1ff" d="M12 1H2c-0.55228 0 -1 0.44772 -1 1v10c0 0.5523 0.44772 1 1 1h10c0.5523 0 1 -0.4477 1 -1V2c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M1.625 9.0625V12c0 0.2071 0.16789 0.375 0.375 0.375h4.375V9.0625h-4.75Zm-1.25 -0.625V12c0 0.8975 0.72754 1.625 1.625 1.625h10c0.8975 0 1.625 -0.7275 1.625 -1.625V2c0 -0.89746 -0.7275 -1.625 -1.625 -1.625H2C1.10254 0.375 0.375 1.10254 0.375 2v6.4375Zm1.25 -0.625h4.75V4.5h-4.75v3.3125Zm6 1.25v3.3125H12c0.2071 0 0.375 -0.1679 0.375 -0.375V9.0625h-4.75Zm4.75 -1.25h-4.75V4.5h4.75v3.3125Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

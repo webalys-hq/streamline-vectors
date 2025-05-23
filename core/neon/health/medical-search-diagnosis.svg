@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Search-Diagnosis--Streamline-Core-Neon">
+  <desc>
+    Medical Search Diagnosis Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-search-diagnosis">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.7402 2.76 2.76" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5c3.31371 0 6 -2.68629 6 -6s-2.68629 -6 -6 -6 -6 2.68629 -6 6 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="union" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.55583 3.25c-0.23593 0 -0.42719 0.19126 -0.42719 0.42718v1.45148H3.67718c-0.23592 0 -0.42718 0.19126 -0.42718 0.42719V7.4442c0 0.23592 0.19126 0.42718 0.42718 0.42718h1.45146v1.45144c0 0.23592 0.19126 0.42718 0.42719 0.42718h1.88834c0.23593 0 0.42719 -0.19126 0.42719 -0.42718V7.87138h1.45146c0.23592 0 0.42718 -0.19126 0.42718 -0.42718V5.55585c0 -0.23593 -0.19126 -0.42719 -0.42718 -0.42719l-1.45146 0V3.67718c0 -0.23592 -0.19126 -0.42718 -0.42719 -0.42718H5.55583Z" stroke-width="1"></path>
+  </g>
+</svg>

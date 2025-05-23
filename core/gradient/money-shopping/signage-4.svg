@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signage-4--Streamline-Core-Gradient">
+  <desc>
+    Signage 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/signage-4--street-billboard-shops-shop-stores-board-sign-ads-banner">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13741)" fill-rule="evenodd" d="M2.8335.5H1.5c-.552285 0-1 .447716-1 1v7.51228c0 .55228.447716 1.00002 1 1.00002h1.604l0 2.7377c0 .4142.33579.75.75.75.41422 0 .75-.3358.75-.75l0-2.7377h4.792V12.75c0 .4142.33578.75.75.75.4142 0 .75-.3358.75-.75v-2.7377H12.5c.5523 0 1-.44774 1-1.00002V1.5c0-.552285-.4477-1-1-1h-1.3335v1.33466c.3259.02128.5837.29237.5837.62365 0 .34518-.2799.625-.625.625H9.9585c-.34518 0-.625-.27982-.625-.625 0-.33106.25741-.60201.583-.62361V.5h-2.333v1.33475c.32567.02152.58317.2925.58317.62362 0 .34518-.27983.625-.625.625H6.375c-.34518 0-.625-.27982-.625-.625 0-.33123.25767-.60228.5835-.62364V.5h-2.25v1.33476c.32559.0216.583.29255.583.62361 0 .34518-.27982.625-.625.625H2.87484c-.34518 0-.625-.27982-.625-.625 0-.33128.25775-.60237.58366-.62365V.5ZM8.75 6.24994c-.34518 0-.625.27982-.625.625s.27982.625.625.625h2.3333c.3452 0 .625-.27982.625-.625s-.2798-.625-.625-.625H8.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13741" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

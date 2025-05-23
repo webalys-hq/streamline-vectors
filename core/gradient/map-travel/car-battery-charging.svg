@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Car-Battery-Charging--Streamline-Core-Gradient">
+  <desc>
+    Car Battery Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/car-battery-charging">
+    <path id="Union" fill="url(#paint0_linear_14402_9853)" fill-rule="evenodd" d="M1.5 2c0-.27614.22386-.5.5-.5h3c.27614 0 .5.22386.5.5v1.5h3V2c0-.27614.22386-.5.5-.5h3c.2761 0 .5.22386.5.5v1.5c.8284 0 1.5.67157 1.5 1.5v7.5c0 .8284-.6716 1.5-1.5 1.5h-11C.671573 14 0 13.3284 0 12.5V5c0-.82843.671573-1.5 1.5-1.5V2Zm6.36761 3.49458c.27916.20303.34088.59391.13785.87307l-1.2781 1.75739H8.5c.23508 0 .45028.13191.55695.34139.10667.20948.08678.46111-.05149.65122l-2 2.75005c-.20302.2791-.59391.3408-.87306.1378-.27916-.203-.34088-.5939-.13786-.8731l1.27811-1.75736H5.5c-.23508 0-.45027-.1319-.55694-.34138-.10668-.20949-.08678-.46111.05148-.65122l2-2.75c.20303-.27916.59391-.34088.87307-.13786Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9853" x1=".538" x2="15.572" y1="2.51" y2="12.001" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

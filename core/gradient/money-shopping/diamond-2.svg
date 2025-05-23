@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Diamond-2--Streamline-Core-Gradient">
+  <desc>
+    Diamond 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/diamond-2--diamond-money-payment-finance-wealth-jewelry">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13627)" fill-rule="evenodd" d="M7 1.62502 5.0572 4.685h3.8856L7 1.62502ZM10.4235 4.685 8.08383 1.00001h2.56847l0 .00019c.2466.00681.4881.07187.7048.18978.2152.11708.3999.28293.5396.48411l1.8166 2.52865.0029.0039-.0001.00002c.103.14631.1793.30826.2267.47834h-3.5193Zm-1.36924 1.25H4.94574L7 11.3012 9.05426 5.935Zm-1.28442 6.8516L10.3927 5.935h3.3676c-.0397.06288-.0839.12312-.1326.18019l-.002.00231-5.44946 6.3112c-.11285.1432-.25061.2644-.4064.3579ZM5.91616 1.00001H3.36171V.999817l-.0138.000383c-.24664.00681-.4881.07187-.70483.18978-.21518.11707-.3999.28291-.53961.48408L.286827 4.20274l-.000019-.00002-.00277.00394c-.102995.14631-.179258.30826-.226665.47834H3.57653l2.33963-3.68499ZM.372452 6.11519C.323774 6.05812.279525 5.99788.239911 5.935H3.60728l2.62283 6.8515c-.1557-.0935-.29338-.2147-.40618-.3578L.374429 6.1175l-.001984-.0023.000007-.00001Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13627" x1=".591" x2="15.064" y1="1.952" y2="11.562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Delete--Streamline-Core-Gradient">
+  <desc>
+    Desktop Delete Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/desktop-delete--device-remove-display-computer-deny-desktop-fail-failure-cross">
+    <path id="Union" fill="url(#paint0_linear_14402_12424)" fill-rule="evenodd" d="M13.7803.21967c.2929.292893.2929.767767 0 1.06066l-1.594 1.59405 1.5934 1.58967c.2933.29255.2938.76742.0013 1.06066-.2926.29324-.7675.2938-1.0607.00125l-1.5947-1.59092-1.59527 1.5953c-.29289.29289-.76777.29289-1.06066 0s-.29289-.76777 0-1.06066l1.59403-1.59405-1.5934-1.58967C8.17706.993412 8.1765.518539 8.46904.2253c.29255-.2932379.76743-.2937978 1.06066-.00125l1.5947 1.59092 1.5953-1.5953c.2929-.2928933.7677-.2928933 1.0606 0ZM6.97227 3H1.5v7h11V7.63353c0-.41421.3358-.75.75-.75s.75.33579.75.75V10.25c0 .6904-.5596 1.25-1.25 1.25H8.69419l.3579 1H10c.4142 0 .75.3358.75.75s-.3358.75-.75.75H4c-.41421 0-.75-.3358-.75-.75s.33579-.75.75-.75h.94782l.3579-1H1.25C.559644 11.5 0 10.9404 0 10.25v-7.5C0 2.05964.559644 1.5 1.25 1.5h5.72227c.41422 0 .75.33579.75.75s-.33578.75-.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12424" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

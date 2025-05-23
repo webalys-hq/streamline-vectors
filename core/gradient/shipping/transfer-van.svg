@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Transfer-Van--Streamline-Core-Gradient">
+  <desc>
+    Transfer Van Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Shipping/transfer-van--van-shipping-delivery-transfer">
+    <path id="Union" fill="url(#paint0_linear_14402_16036)" fill-rule="evenodd" d="M1.5 1C.671573 1 0 1.67157 0 2.5V10c0 .5572.30383 1.0435.754858 1.3021C.855761 9.87461 2.04579 8.74786 3.49899 8.74786c1.51936 0 2.75106 1.2317 2.75106 2.75104V11.5h.99788v-.0011c0-1.51935 1.23169-2.75104 2.75106-2.75104 1.51281 0 2.74041 1.22109 2.75101 2.73144.7094-.119 1.25-.736 1.25-1.4793V7.5c0-.10853-.0236-.21576-.069-.31429l-1.2319-2.66906C12.4131 3.89688 11.7928 3.5 11.1102 3.5H10v-1C10 1.67157 9.32843 1 8.5 1h-7ZM10 5v2h2.1932l-.856-1.85476C11.2963 5.0567 11.2077 5 11.1102 5H10Zm-.00106 8c-.82901 0-1.50105-.6721-1.50105-1.5011 0-.829.67204-1.50104 1.50105-1.50104.82906 0 1.50106.67204 1.50106 1.50104S10.828 13 9.99894 13Zm-8.00106-1.5011c0 .829.67205 1.5011 1.50106 1.5011S5 12.3279 5 11.4989c0-.829-.67205-1.50104-1.50106-1.50104s-1.50106.67204-1.50106 1.50104Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16036" x1="15.213" x2="-1.631" y1="15.542" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

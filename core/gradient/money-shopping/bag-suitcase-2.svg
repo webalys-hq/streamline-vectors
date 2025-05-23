@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Suitcase-2--Streamline-Core-Gradient">
+  <desc>
+    Bag Suitcase 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bag-suitcase-2--product-business-briefcase">
+    <path id="Union" fill="url(#paint0_linear_14402_13842)" fill-rule="evenodd" d="M5.5.5c-.46413 0-.90925.184375-1.23744.51256C3.93437 1.34075 3.75 1.78587 3.75 2.25V3H2C1.17157 3 .5 3.67157.5 4.5V12c0 .8284.67157 1.5 1.5 1.5h10c.8284 0 1.5-.6716 1.5-1.5V4.5c0-.82843-.6716-1.5-1.5-1.5h-1.75v-.75c0-.46413-.1844-.90925-.51256-1.23744C9.40925.684375 8.96413.5 8.5.5h-3ZM8.75 3v-.75c0-.0663-.02634-.12989-.07322-.17678C8.62989 2.02634 8.5663 2 8.5 2h-3c-.0663 0-.12989.02634-.17678.07322C5.27634 2.12011 5.25 2.1837 5.25 2.25V3h3.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13842" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

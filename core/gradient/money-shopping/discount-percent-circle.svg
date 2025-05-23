@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discount-Percent-Circle--Streamline-Core-Gradient">
+  <desc>
+    Discount Percent Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/discount-percent-circle--store-shop-shops-stores-discount-coupon">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14198)" fill-rule="evenodd" d="M14 7c0 3.866-3.134 7-7 7-3.86599 0-7-3.134-7-7 0-3.86599 3.13401-7 7-7 3.866 0 7 3.13401 7 7Zm-3.8123-3.18772c-.24408-.24407-.6398-.24407-.88388 0L3.81227 9.30383c-.24408.24408-.24408.63981 0 .88387.24408.2441.63981.2441.88388 0l5.49155-5.49153c.2441-.24408.2441-.63981 0-.88389Zm-5.38433-.18305c-.64847 0-1.17416.52568-1.17416 1.17415s.52569 1.17416 1.17416 1.17416c.64846 0 1.17415-.52569 1.17415-1.17416 0-.64847-.52569-1.17415-1.17415-1.17415Zm4.39325 4.39323c-.64847 0-1.17416.52569-1.17416 1.17416 0 .64846.52569 1.17418 1.17416 1.17418.64846 0 1.17418-.52572 1.17418-1.17418 0-.64847-.52572-1.17416-1.17418-1.17416Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14198" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

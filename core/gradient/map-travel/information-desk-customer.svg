@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Information-Desk-Customer--Streamline-Core-Gradient">
+  <desc>
+    Information Desk Customer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/information-desk-customer">
+    <path id="Union" fill="url(#paint0_linear_14402_10090)" fill-rule="evenodd" d="M4 0C2.89543 0 2 .89543 2 2s.89543 2 2 2 2-.89543 2-2-.89543-2-2-2Zm0 4.5c-2.20914 0-4 1.79086-4 4v1.25c0 .2761.223858.5.5.5h1.06224l.44215 3.3161C2.03751 13.8145 2.2494 14 2.5 14h3c.2506 0 .46249-.1855.49561-.4339l.44215-3.3161H7.5c.27614 0 .5-.2239.5-.5V8.5c0-2.20914-1.79086-4-4-4Zm9.5 4H9.25c0-1.17879-.38849-2.26684-1.04443-3.14309C8.81994 4.82312 9.62223 4.5 10.5 4.5 12.433 4.5 14 6.067 14 8c0 .27614-.2239.5-.5.5Zm-1-6.5c0 1.10457-.8954 2-2 2-1.10457 0-2-.89543-2-2s.89543-2 2-2c1.1046 0 2 .89543 2 2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10090" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

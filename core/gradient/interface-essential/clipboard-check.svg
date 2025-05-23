@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Clipboard-Check--Streamline-Core-Gradient">
+  <desc>
+    Clipboard Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/clipboard-check--checkmark-edit-task-edition-checklist-check-success-clipboard-form">
+    <path id="Subtract" fill="url(#paint0_linear_14402_9420)" fill-rule="evenodd" d="M8.25 2.5h-2.5c-.69036 0-1.25-.55964-1.25-1.25C4.5.559644 5.05964 0 5.75 0h2.5C8.94036 0 9.5.559644 9.5 1.25c0 .69036-.55964 1.25-1.25 1.25Zm-2.5 1.25h2.5c1.38071 0 2.5-1.11929 2.5-2.5 0-.08437-.0042-.16777-.0123-.25H11.5c.8284 0 1.5.67157 1.5 1.5v10c0 .8284-.6716 1.5-1.5 1.5h-9c-.82843 0-1.5-.6716-1.5-1.5v-10C1 1.67157 1.67157 1 2.5 1h.76234c-.00816.08223-.01234.16563-.01234.25 0 1.38071 1.11929 2.5 2.5 2.5Zm4.35 3.2c.2485-.33137.1814-.80147-.15-1.05-.33137-.24853-.80147-.18137-1.05.15L6.32569 9.48241l-.90966-.60645c-.34465-.22976-.8103-.13663-1.04007.20801-.22976.34465-.13663.8103.20801 1.04003l1.5 1c.3312.2208.7772.1444 1.01603-.174l3-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9420" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

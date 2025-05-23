@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Watch-2--Streamline-Core-Gradient">
+  <desc>
+    Watch 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/watch-2--device-square-timepiece-electronics-face-blank-watch-smart">
+    <path id="Union" fill="url(#paint0_linear_14402_13339)" fill-rule="evenodd" d="M4.43934.43934C4.72064.158035 5.10218 0 5.5 0h3c.39782 0 .77936.158035 1.06066.43934C9.84196.720644 10 1.10217 10 1.5V2h.25c.9665 0 1.75.7835 1.75 1.75v6.5c0 .9665-.7835 1.75-1.75 1.75H10v.5c0 .3978-.15804.7794-.43934 1.0607S8.89783 14 8.5 14h-3c-.39783 0-.77936-.158-1.06066-.4393C4.15804 13.2794 4 12.8978 4 12.5V12h-.25C2.7835 12 2 11.2165 2 10.25v-6.5C2 2.7835 2.7835 2 3.75 2H4v-.5c0-.39783.15804-.779356.43934-1.06066ZM3.5 3.75c0-.13807.11193-.25.25-.25h6.5c.1381 0 .25.11193.25.25v6.5c0 .1381-.1119.25-.25.25h-6.5c-.13807 0-.25-.1119-.25-.25v-6.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13339" x1="2.384" x2="15.308" y1="1.131" y2="6.334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

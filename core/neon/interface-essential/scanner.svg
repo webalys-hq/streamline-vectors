@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Scanner--Streamline-Core-Neon">
+  <desc>
+    Scanner Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="scanner">
+    <path id="Vector 138" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m4 13 -2.07143 0C1.41574 13 1 12.5843 1 12.0714V10" stroke-width="1"></path>
+    <path id="Vector 902" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13 10v2.0714c0 0.5129 -0.4157 0.9286 -0.9286 0.9286L10 13" stroke-width="1"></path>
+    <path id="Vector 901" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10 1h2.0714c0.5129 0 0.9286 0.41574 0.9286 0.92857V4" stroke-width="1"></path>
+    <path id="Vector 900" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1 4V1.92857C1 1.41574 1.41574 1 1.92857 1H4" stroke-width="1"></path>
+    <path id="Vector 899" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 7h12" stroke-width="1"></path>
+  </g>
+</svg>

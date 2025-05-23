@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Erlenmeyer-Flask--Streamline-Core-Gradient">
+  <desc>
+    Erlenmeyer Flask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/erlenmeyer-flask--science-experiment-lab-flask-chemistry-solution">
+    <path id="Union" fill="url(#paint0_linear_14402_10899)" fill-rule="evenodd" d="M4.5 1.5h-.75C3.33579 1.5 3 1.16421 3 .75c0-.414214.33579-.75.75-.75h6.5c.4142 0 .75.335786.75.75 0 .41421-.3358.75-.75.75H9.5v3.8544l3.1191 4.9015c.2488.3909.3809.8446.3809 1.3079C13 12.9093 11.9093 14 10.5638 14H3.43618C2.09072 14 1 12.9093 1 11.5638c0-.4633.13212-.917.38087-1.3079L4.5 5.3544V1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10899" x1="12.959" x2="-2.219" y1="14.003" y2="6.684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Burger--Streamline-Core-Gradient">
+  <desc>
+    Burger Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/burger--burger-fast-cook-cooking-nutrition-food">
+    <path id="Union" fill="url(#paint0_linear_14402_10518)" fill-rule="evenodd" d="M4 .5C2.067.5.5 2.067.5 4c0 .82843.67157 1.5 1.5 1.5h10c.8284 0 1.5-.67157 1.5-1.5 0-1.933-1.567-3.5-3.5-3.5H4ZM1.875 9C1.11561 9 .5 9.61561.5 10.375c0 1.7259 1.39911 3.125 3.125 3.125h6.75c1.7259 0 3.125-1.3991 3.125-3.125C13.5 9.61561 12.8844 9 12.125 9H7c-.16718 0-.32329.08355-.41603.22265L5.84843 10.326 3.75725 9.07125C3.67954 9.02463 3.59062 9 3.5 9H1.875ZM1.25 6.5c-.414214 0-.75.33579-.75.75s.335786.75.75.75h11.5c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10518" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

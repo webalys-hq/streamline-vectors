@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-2--Streamline-Core-Gradient">
+  <desc>
+    Shield 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/shield-2--shield-protection-security-defend-crime-war-cover">
+    <path id="Union" fill="url(#paint0_linear_14402_8455)" d="M7.31235.109505c-.18261-.1460879-.44209-.1460879-.6247 0L5.28331 1.23298c-.6206.49648-1.39168.76696-2.18643.76696H2c-.82843 0-1.5.67157-1.5 1.5v1.81534c0 3.86094 2.62547 7.22682 6.36925 8.16732.0798.0217.16609.0239.25202.0024C10.8701 12.5478 13.5 9.17948 13.5 5.31528V3.49994c0-.82843-.6716-1.5-1.5-1.5h-1.0969c-.7947 0-1.56581-.27048-2.18641-.76696L7.31235.109505Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8455" x1="13.456" x2="-2.213" y1="13.503" y2="5.015" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

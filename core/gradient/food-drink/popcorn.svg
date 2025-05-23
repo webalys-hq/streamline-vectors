@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Popcorn--Streamline-Core-Gradient">
+  <desc>
+    Popcorn Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/popcorn--cook-corn-movie-snack-cooking-nutrition-bake-popcorn">
+    <path id="Union" fill="url(#paint0_linear_14402_10546)" fill-rule="evenodd" d="M.75 4c0 1.10457.89543 2 2 2h8.5c1.1046 0 2-.89543 2-2s-.8954-2-2-2c-.1005 0-.1992.00741-.2957.02171C10.7311.869791 9.71714 0 8.5 0 7.9372 0 7.41783.185972 7 .499817 6.58217.185972 6.0628 0 5.5 0 4.28286 0 3.26888.86979 3.0457 2.02171 2.94921 2.00741 2.85047 2 2.75 2c-1.10457 0-2 .89543-2 2Zm2 3.24998c-.39129 0-.76644-.06915-1.11388-.1959l.75256 5.64422C2.48804 13.4435 3.12372 14 3.87552 14H6.25V7.24998h-3.5ZM7.75 14V7.24998h3.5c.3913 0 .7665-.06915 1.1139-.1959l-.7526 5.64422C11.512 13.4435 10.8763 14 10.1245 14H7.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10546" x1="14.333" x2="-3.758" y1="16.965" y2="5.491" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

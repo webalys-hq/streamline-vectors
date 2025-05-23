@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Radio--Streamline-Core-Gradient">
+  <desc>
+    Radio Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/radio--antenna-audio-music-radio-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15191)" fill-rule="evenodd" d="M13.4638 1.01979c.1271.39422-.0894.81686-.4836.94398L6.66552 3.99996H12c.8284 0 1.5.67157 1.5 1.5v.37501H.5v-.37501c0-.70866.491421-1.30253 1.15207-1.45944L12.5198.53615c.3942-.12712.8169.089412.944.48364ZM.5 7.12497V12c0 .8284.67157 1.5 1.5 1.5h10c.8284 0 1.5-.6716 1.5-1.5V7.12497H.5Zm4 1.25c-.9665 0-1.75.7835-1.75 1.75003 0 .9665.7835 1.75 1.75 1.75s1.75-.7835 1.75-1.75c0-.96653-.7835-1.75003-1.75-1.75003Zm5 .125c-.34518 0-.625.27982-.625.625s.27982.625.625.625H11c.3452 0 .625-.27982.625-.625s-.2798-.625-.625-.625H9.5ZM8.875 11.125c0-.3452.27982-.625.625-.625H11c.3452 0 .625.2798.625.625 0 .3451-.2798.625-.625.625H9.5c-.34518 0-.625-.2799-.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15191" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

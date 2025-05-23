@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Cart-3--Streamline-Core-Gradient">
+  <desc>
+    Shopping Cart 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/shopping-cart-3--shopping-cart-checkout">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13656)" fill-rule="evenodd" d="M.75 0C.335786 0 0 .335786 0 .75c0 .41421.335786.75.75.75h1.83863l.18557 1.58301.64365 6.10037c.00352.03341.00919.06608.01685.09788.13357.70195.75005 1.21874 1.47576 1.21874h6.33374c.6885 0 1.2899-.4676 1.4574-1.13593l1.2529-5C14.1921 3.41581 13.4731 2.5 12.4971 2.5H4.38059c-.05528 0-.10981.00297-.16343.00876L4.00074.662674C3.95644.28483 3.63627 0 3.25584 0H.75Zm11.196 13c0-.5523-.4477-1-1-1-.5522 0-.99996.4477-.99996 1s.44776 1 .99996 1c.5523 0 1-.4477 1-1Zm-7.49996-1c.55229 0 1 .4477 1 1s-.44771 1-1 1c-.55228 0-1-.4477-1-1s.44772-1 1-1ZM6.6875 4.875c.34518 0 .625.27982.625.625v2c0 .34518-.27982.625-.625.625s-.625-.27982-.625-.625v-2c0-.34518.27982-.625.625-.625Zm3.625.625c0-.34518-.2798-.625-.625-.625-.34518 0-.625.27982-.625.625v2c0 .34518.27982.625.625.625.3452 0 .625-.27982.625-.625v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13656" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

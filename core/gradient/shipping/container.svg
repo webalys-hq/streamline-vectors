@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Container--Streamline-Core-Gradient">
+  <desc>
+    Container Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Shipping/container--box-package-label-delivery-shipment-shipping-container">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15873)" fill-rule="evenodd" d="M.75 1.5c-.414214 0-.75.33579-.75.75S.335786 3 .75 3v8c-.414214 0-.75.3358-.75.75s.335786.75.75.75h12.5c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75V3c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H.75ZM4.625 5c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v4c0 .34518.27982.625.625.625s.625-.27982.625-.625V5ZM7 4.375c.34518 0 .625.27982.625.625v4c0 .34518-.27982.625-.625.625S6.375 9.34518 6.375 9V5c0-.34518.27982-.625.625-.625ZM10.625 5c0-.34518-.2798-.625-.625-.625-.34518 0-.625.27982-.625.625v4c0 .34518.27982.625.625.625.3452 0 .625-.27982.625-.625V5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15873" x1="13.953" x2="-.477" y1="12.502" y2="2.172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chess-Bishop--Streamline-Core-Neon">
+  <desc>
+    Chess Bishop Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-bishop">
+    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.761 7.30708c0.43253 -0.31191 0.69168 -0.79476 0.69168 -1.48246 0 -1.93933 -2.45351 -3.04752 -2.45351 -3.04752S4.54566 3.88529 4.54566 5.82462c0 0.68762 0.25909 1.17044 0.69153 1.48235 -0.45083 1.26781 -1.10461 3.14223 -1.12513 3.40733H9.8861c-0.02052 -0.265 -0.67427 -2.13941 -1.1251 -3.40722Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.86133 1.63853c0 0.62879 0.50973 1.13852 1.13853 1.13852 0.62879 0 1.13845 -0.50973 1.13845 -1.13852S7.62865 0.5 6.99986 0.5c-0.6288 0 -1.13853 0.50974 -1.13853 1.13853Z" stroke-width="1"></path>
+    <path id="Vector 966" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m7.38867 5.46991 1.34337 -1.37052" stroke-width="1"></path>
+    <path id="Rectangle 56" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.27208 11.3493c0.13612 -0.3792 0.51826 -0.6349 0.94869 -0.6349l7.55853 0c0.4304 0 0.8125 0.2557 0.9487 0.6349l0.772 2.1508h-11l0.77208 -2.1508Z" stroke-width="1"></path>
+  </g>
+</svg>

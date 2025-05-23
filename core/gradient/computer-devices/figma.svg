@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Figma--Streamline-Core-Gradient">
+  <desc>
+    Figma Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/figma">
+    <path id="Union" fill="url(#paint0_linear_14402_12878)" fill-rule="evenodd" d="M1.85693 2.08919C1.85693.935361 2.79229 0 3.94612 0h2.55345v4.17838H3.94612c-1.15383 0-2.08919-.93537-2.08919-2.08919Zm0 4.91003c0-1.15382.93536-2.08919 2.08919-2.08919h2.55345v4.17838H3.94612c-1.15383 0-2.08919-.93536-2.08919-2.08919ZM10.0539 0c1.1539 0 2.0892.935361 2.0892 2.08919 0 1.15382-.9353 2.08919-2.0892 2.08919H7.50049V0h2.55341Zm2.0883 6.99918c0-1.28203-1.0393-2.32132-2.32137-2.32132-1.28203 0-2.32132 1.03929-2.32132 2.32132S8.5388 9.3205 9.82083 9.3205c1.28207 0 2.32137-1.03929 2.32137-2.32132ZM3.94612 9.82166c-1.15383 0-2.08919.93534-2.08919 2.08914 0 1.1539.93536 2.0892 2.08919 2.0892h.23213c1.28203 0 2.32132-1.0393 2.32132-2.3213V9.82166H3.94612Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12878" x1="2.252" x2="15.439" y1="1.131" y2="6.592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

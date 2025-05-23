@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Target--Streamline-Core-Neon">
+  <desc>
+    Target Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="target--shop-bullseye-arrow-target">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.48 7.5c-0.0987 1.24051 -0.5515 2.4266 -1.3044 3.4174 -0.753 0.9907 -1.7746 1.7445 -2.94334 2.1718 -1.16877 0.4273 -2.43564 0.5101 -3.65008 0.2385 -1.21444 -0.2715 -2.32541 -0.8859 -3.20092 -1.7703C1.50575 10.6731 0.902499 9.55597 0.643182 8.33886s-0.163803 -2.48308 0.275196 -3.6475C1.35738 3.52693 2.12141 2.513 3.11969 1.77002 4.11798 1.02704 5.30857 0.586245 6.55001 0.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m11.5 5 -2 -0.5 -0.5 -2 2 -2 0.5 2 2 0.5 -2 2Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M9.79001 8.08996c-0.18058 0.4648 -0.47417 0.87725 -0.85422 1.20006 -0.38005 0.32281 -0.83457 0.5458 -1.32246 0.6488 -0.48789 0.10298 -0.99376 0.08278 -1.47186 -0.05888 -0.4781 -0.14165 -0.91336 -0.40023 -1.26641 -0.75237 -0.35304 -0.35214 -0.61275 -0.78673 -0.75562 -1.26447 -0.14288 -0.47773 -0.16442 -0.98355 -0.06268 -1.4717 0.10175 -0.48816 0.32357 -0.94325 0.6454 -1.32413 0.32183 -0.38088 0.73353 -0.67553 1.19785 -0.85731" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7 7 2.5 -2.5" stroke-width="1"></path>
+  </g>
+</svg>

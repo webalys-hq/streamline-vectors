@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Markdown-Circle-Programming--Streamline-Core-Gradient">
+  <desc>
+    Markdown Circle Programming Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/markdown-circle-programming">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11677)" fill-rule="evenodd" d="M7 14c3.866 0 7-3.134 7-7 0-3.86599-3.134-7-7-7-3.86599 0-7 3.13401-7 7 0 3.866 3.13401 7 7 7ZM4.125 9V7.02332l.02282.05072c.15086.33531.48436.55096.85205.55096.36764 0 .70111-.21561.852-.55086l.02311-.05134V9c0 .34518.27982.625.625.625.34517 0 .625-.27982.625-.625V5.24293c0-.47934-.38859-.86793-.86794-.86793-.34152 0-.6513.20029-.79146.51172L4.99991 5.9214l-.46549-1.0346c-.14015-.31147-.44994-.5118-.7915-.5118-.47934 0-.86792.38858-.86792.86792V9c0 .34518.27982.625.625.625s.625-.27982.625-.625Zm6-3.99994c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v2.37491H8.5c-.25279 0-.48069.15228-.57742.38582-.09674.23355-.04327.50237.13548.68112l1 1c.11721.11721.27618.18306.44194.18306.16576 0 .32473-.06585.44194-.18306l.99996-1c.1788-.17875.2323-.44757.1355-.68112-.0967-.23354-.3246-.38582-.5774-.38582h-.375V5.00006Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11677" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

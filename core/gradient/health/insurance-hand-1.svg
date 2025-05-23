@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Insurance-Hand-1--Streamline-Core-Gradient">
+  <desc>
+    Insurance Hand 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/insurance-hand-1--health-medical-insurance-hand-cross">
+    <path id="Union" fill="url(#paint0_linear_14402_16189)" fill-rule="evenodd" d="M8.57281.543689C8.57281.243418 8.81623 0 9.1165 0h1.767c.3003 0 .5437.243418.5437.543689V2.57284h2.0291c.3003 0 .5437.24342.5437.54369v1.76699c0 .30027-.2434.54369-.5437.54369h-2.0291v2.0291c0 .30027-.2434.54369-.5437.54369h-1.767c-.30027 0-.54369-.24342-.54369-.54369v-2.0291H6.54369C6.24342 5.42721 6 5.18379 6 4.88352V3.11653c0-.30027.24342-.54369.54369-.54369l2.02912 0V.543689ZM1.84315 7H0v4l1.82843 1.8284C2.57857 13.5786 3.59599 14 4.65685 14H10.5c.8284 0 1.5-.6716 1.5-1.5s-.6716-1.5-1.5-1.5H7.72318c-.09651.3265-.27361.6343-.5313.892-.82397.8239-2.15989.8239-2.98386 0l-1.45001-1.4501c-.24408-.244-.24408-.63976 0-.88384.24408-.24408.63981-.24408.88388 0l1.45002 1.45004c.33581.3358.88027.3358 1.21609 0 .30212-.3022.33243-.7732.09093-1.10917L4.67157 8.17157C3.92143 7.42143 2.90401 7 1.84315 7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16189" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

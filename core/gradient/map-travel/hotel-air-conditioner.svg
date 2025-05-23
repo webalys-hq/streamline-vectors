@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Air-Conditioner--Streamline-Core-Gradient">
+  <desc>
+    Hotel Air Conditioner Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/hotel-air-conditioner--heating-ac-air-hvac-cool-cooling-cold-hot-conditioning-hotel">
+    <path id="Union" fill="url(#paint0_linear_14402_10051)" fill-rule="evenodd" d="M2 .5C1.17157.5.5 1.17157.5 2v4.5C.5 7.32843 1.17157 8 2 8h.625V6.5c0-.43098.1712-.8443.47595-1.14905C3.4057 5.04621 3.81902 4.875 4.25 4.875h5.5c.431 0 .8443.17121 1.149.47595.3048.30475.476.71807.476 1.14905V8H12c.8284 0 1.5-.67157 1.5-1.5V2c0-.82843-.6716-1.5-1.5-1.5H2ZM10.125 8h-6.25V6.5c0-.09946.03951-.19484.10983-.26516.07033-.07033.16571-.10984.26517-.10984h5.5c.09946 0 .19484.03951.2652.10984.0703.07032.1098.1657.1098.26516V8ZM4.75 9.75C4.75 9.33579 4.41421 9 4 9s-.75.33579-.75.75v.6c0 .359-.29101.65-.65.65h-.1c-.41421 0-.75.3358-.75.75s.33579.75.75.75h.1c1.18741 0 2.15-.9626 2.15-2.15v-.6Zm4.5 0c0-.41421.33579-.75.75-.75.4142 0 .75.33579.75.75v.6c0 .359.291.65.65.65h.1c.4142 0 .75.3358.75.75s-.3358.75-.75.75h-.1c-1.1874 0-2.15-.9626-2.15-2.15v-.6ZM7 9c.41421 0 .75.33579.75.75v3c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-3c0-.41421.33579-.75.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10051" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

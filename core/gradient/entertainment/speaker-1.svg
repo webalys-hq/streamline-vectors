@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Speaker-1--Streamline-Core-Gradient">
+  <desc>
+    Speaker 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/speaker-1--speaker-music-audio-subwoofer-entertainment">
+    <path id="Union" fill="url(#paint0_linear_14402_15051)" fill-rule="evenodd" d="M2.5.5c-1.10457 0-2 .89543-2 2 0 .61595.278422 1.16625.71535 1.53281C.758041 4.92271.5 5.93178.5 7s.258042 2.0773.71535 2.9672C.778425 10.3337.5 10.884.5 11.5c0 1.1046.89543 2 2 2 .61595 0 1.16625-.2784 1.5328-.7154C4.92271 13.242 5.93178 13.5 7 13.5c1.06822 0 2.07729-.258 2.9672-.7154.3665.437.9168.7154 1.5328.7154 1.1046 0 2-.8954 2-2 0-.616-.2784-1.1663-.7154-1.5328C13.242 9.07729 13.5 8.06822 13.5 7c0-1.06822-.258-2.07729-.7154-2.96719.437-.36656.7154-.91686.7154-1.53281 0-1.10457-.8954-2-2-2-.616 0-1.1663.278425-1.5328.71535C9.0773.758042 8.06822.5 7 .5c-1.06822 0-2.07729.258041-2.96719.71535C3.66625.778422 3.11595.5 2.5.5Zm4.5 10c1.933 0 3.5-1.567 3.5-3.5S8.933 3.5 7 3.5 3.5 5.067 3.5 7s1.567 3.5 3.5 3.5ZM7 6c-.55228 0-1 .44772-1 1s.44772 1 1 1 1-.44772 1-1-.44772-1-1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15051" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

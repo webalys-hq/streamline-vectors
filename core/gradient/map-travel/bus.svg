@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bus--Streamline-Core-Gradient">
+  <desc>
+    Bus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/bus--transportation-travel-bus-transit-transport-motorcoach-public">
+    <path id="Union" fill="url(#paint0_linear_14402_9775)" fill-rule="evenodd" d="M3.25.5c-.9665 0-1.75.7835-1.75 1.75v2.5H.75c-.414214 0-.75.33579-.75.75s.335786.75.75.75h.75v4c0 .8816.65193 1.611 1.5 1.7323V12.5c0 .5523.44772 1 1 1s1-.4477 1-1V12h4v.5c0 .5523.44772 1 1 1 .5523 0 1-.4477 1-1v-.5177c.8481-.1213 1.5-.8507 1.5-1.7323v-4h.75c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75h-.75v-2.5c0-.9665-.7835-1.75-1.75-1.75h-7.5ZM3 2.25c0-.13807.11193-.25.25-.25h7.5c.1381 0 .25.11193.25.25V7H3V2.25Zm2.25 7c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75.33579.75.75.75.75-.33579.75-.75Zm5 0c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75.33579.75.75.75.75-.33579.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9775" x1=".538" x2="15.902" y1="1.551" y2="10.876" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

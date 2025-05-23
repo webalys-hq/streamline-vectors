@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lift--Streamline-Core-Gradient">
+  <desc>
+    Lift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/lift--arrow-up-human-down-person-user-lift-elevator">
+    <path id="Union" fill="url(#paint0_linear_14402_10110)" fill-rule="evenodd" d="M4 0C2.89543 0 2 .89543 2 2s.89543 2 2 2 2-.89543 2-2-.89543-2-2-2Zm0 4.5c-2.20914 0-4 1.79086-4 4v1.25c0 .2761.223858.5.5.5h1.06224l.44215 3.3161C2.03751 13.8145 2.2494 14 2.5 14h3c.2506 0 .46249-.1855.49561-.4339l.44215-3.3161H7.5c.27614 0 .5-.2239.5-.5V8.5c0-2.20914-1.79086-4-4-4Zm7.8536-1.35355c-.1953-.19527-.5119-.19527-.7071 0l-2.00004 2c-.143.143-.18578.35805-.10839.54489.0774.18684.25971.30866.46194.30866H13.5c.2022 0 .3846-.12182.462-.30866.0773-.18684.0346-.40189-.1084-.54489l-2-2ZM9.50001 8c-.20223 0-.38454.12182-.46194.30866-.07739.18684-.03461.40189.10839.54489l2.00004 2.00005c.1952.1952.5118.1952.7071 0l2-2.00005c.143-.143.1857-.35805.1084-.54489C13.8846 8.12182 13.7022 8 13.5 8H9.50001Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10110" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

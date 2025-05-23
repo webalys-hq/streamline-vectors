@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Archive-Box--Streamline-Core-Gradient">
+  <desc>
+    Archive Box Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/archive-box--box-content-banker-archive-file">
+    <path id="Union" fill="url(#paint0_linear_14402_9048)" fill-rule="evenodd" d="M0 2c0-.55228.447715-1 1-1h12c.5523 0 1 .44771 1 1v1.5c0 .55228-.4477 1-1 1H1c-.552284 0-1-.44771-1-1V2Zm1.5 4c-.27614 0-.5.22386-.5.5v5c0 .8284.67157 1.5 1.5 1.5h9c.8284 0 1.5-.6716 1.5-1.5v-5c0-.27614-.2239-.5-.5-.5h-11ZM5 8.5c0-.41421.33579-.75.75-.75h2.5c.41421 0 .75.33579.75.75s-.33579.75-.75.75h-2.5c-.41421 0-.75-.33579-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9048" x1="2.288" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crutch--Streamline-Core-Gradient">
+  <desc>
+    Crutch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/crutch--disability-crutch">
+    <path id="Union" fill="url(#paint0_linear_14402_9908)" fill-rule="evenodd" d="M4 0C2.89543 0 2 .89543 2 2s.89543 2 2 2 2-.89543 2-2-.89543-2-2-2Zm0 4.5c-2.20914 0-4 1.79086-4 4v1.25c0 .2761.223858.5.5.5h1.06224l.44215 3.3161C2.03751 13.8145 2.2494 14 2.5 14h3c.2506 0 .46249-.1855.49561-.4339l.44215-3.3161H7.5c.27614 0 .5-.2239.5-.5V8.5c0-2.20914-1.79086-4-4-4Zm4.25.875c0-.34518.27982-.625.625-.625h4.5c.3452 0 .625.27982.625.625S13.7202 6 13.375 6h-.125v2.875c0 .95609-.6314 1.7647-1.5 2.0316V12.75h.125c.3452 0 .625.2798.625.625s-.2798.625-.625.625h-1.5c-.3452 0-.625-.2798-.625-.625s.2798-.625.625-.625h.125v-1.8434C9.63142 10.6397 9 9.83109 9 8.875V6h-.125c-.34518 0-.625-.27982-.625-.625Zm2.875 4.375c.4832 0 .875-.39175.875-.875V6h-1.75v2.875c0 .48325.3918.875.875.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9908" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

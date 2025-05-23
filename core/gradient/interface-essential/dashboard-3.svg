@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-3--Streamline-Core-Gradient">
+  <desc>
+    Dashboard 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/dashboard-3--app-application-dashboard-home-layout-vertical">
+    <path id="Union" fill="url(#paint0_linear_14402_9557)" fill-rule="evenodd" d="M1.5.499939c-.552285 0-1 .447715-1 1.000001v6c0 .55228.447715 1 1 1h4c.55229 0 1-.44772 1-1v-6c0-.552286-.44771-1.000001-1-1.000001h-4Zm6 1.000001c0-.552286.44772-1.000001 1-1.000001h4c.5523 0 1 .447715 1 1.000001v2.01c0 .55228-.4477 1-1 1h-4c-.55228 0-1-.44772-1-1v-2.01Zm0 5c0-.55229.44772-1 1-1h4c.5523 0 1 .44771 1 1v5.99996c0 .5523-.4477 1-1 1h-4c-.55228 0-1-.4477-1-1V6.49994Zm-7 3.98996c0-.55226.447715-.99997 1-.99997h4c.55229 0 1 .44771 1 .99997v2.01c0 .5523-.44771 1-1 1h-4c-.552285 0-1-.4477-1-1v-2.01Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9557" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

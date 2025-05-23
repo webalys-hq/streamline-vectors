@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Oval--Streamline-Core-Gradient">
+  <desc>
+    Chat Bubble Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/chat-bubble-oval--messages-message-bubble-chat-oval">
+    <path id="Union" fill="url(#paint0_linear_14402_11154)" fill-rule="evenodd" d="M7.00001 14c-1.04305 0-2.03401-.2285-2.92449-.6384l-3.486545.6304c-.177085.032-.357717-.0336-.472969-.1718-.115253129-.1382-.1473452-.3277-.0840308-.4961L1.0328 10.6613C.377773 9.59586.0000069784 8.34138.0000069784 7c0-3.86599 3.1340030216-7 7.0000030216-7C10.866 0 14 3.13401 14 7c0 3.866-3.134 7-6.99999 7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11154" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

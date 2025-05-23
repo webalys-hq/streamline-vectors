@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bank--Streamline-Core-Gradient">
+  <desc>
+    Bank Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bank--institution-saving-bank-payment-finance">
+    <path id="Union" fill="url(#paint0_linear_14402_13848)" fill-rule="evenodd" d="M6.41181.662265C6.58968.556213 6.79284.5 7.00018.5c.20734 0 .4105.056213.58837.162265.00691.004122.01372.008411.02043.012862L13.0644 4.29586l.0012.00083c.402.26853.5212.72962.3678 1.12102-.1482.37796-.5245.63677-.9778.63677h-.5901v4.32692h.673c.5432 0 .9615.4483.9615.9737v1.1712c0 .5254-.4183.9737-.9615.9737H1.46154C.918298 13.5.5 13.0517.5 12.5263v-1.1712c0-.5254.418298-.9737.96154-.9737h.67298V6.05448h-.58973c-.45338 0-.829636-.25881-.97781-.63677-.153443-.3914-.034216-.85249.367765-1.12102l.001246-.00083.000001 0L6.39138.675127c.0067-.004451.01352-.00874.02043-.012862ZM4.13452 6.05448v4.32692H6V6.05448H4.13452Zm3.86548 0v4.32692h1.86548V6.05448H8Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13848" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

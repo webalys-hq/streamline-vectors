@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cards--Streamline-Core-Neon">
+  <desc>
+    Cards Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cards">
+    <path id="Rectangle 576" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7.45375 0.851879C7.38588 0.59871 7.12565 0.44847 6.87247 0.516276L0.851995 2.12864c-0.253276 0.06783 -0.403582 0.32817 -0.335687 0.58143L2.82647 11.3273c0.06787 0.2532 0.32809 0.4034 0.58128 0.3356l6.02047 -1.6123c0.25328 -0.06786 0.40358 -0.3282 0.33569 -0.58146L7.45375 0.851879Z" stroke-width="1"></path>
+    <path id="Rectangle 575" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7.58447 12.6767 3.01003 0.807c0.2533 0.0679 0.5136 -0.0824 0.5814 -0.3357l2.308 -8.61784c0.0678 -0.25319 -0.0824 -0.51341 -0.3356 -0.58129l-3.24416 -0.87075" stroke-width="1"></path>
+  </g>
+</svg>

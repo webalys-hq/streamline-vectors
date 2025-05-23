@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Application-1--Streamline-Core-Gradient">
+  <desc>
+    Notification Application 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Phone/notification-application-1--android-phone-mobile-device-smartphone-iphone-alert-box">
+    <path id="Union" fill="url(#paint0_linear_14402_15826)" fill-rule="evenodd" d="M14 2.5C14 3.88071 12.8807 5 11.5 5S9 3.88071 9 2.5 10.1193 0 11.5 0 14 1.11929 14 2.5Zm-12 0h5.75c0 2.07107 1.67893 3.75 3.75 3.75l0 5.75c0 1.1046-.8954 2-2 2H2c-1.104569 0-2-.8954-2-2V4.5c0-1.10457.895431-2 2-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15826" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

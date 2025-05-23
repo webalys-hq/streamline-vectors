@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camping-Tent--Streamline-Core-Gradient">
+  <desc>
+    Camping Tent Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/camping-tent--outdoor-recreation-camping-tent-teepee-tipi-travel-places">
+    <path id="Subtract" fill="url(#paint0_linear_14402_9739)" fill-rule="evenodd" d="M5.10002.615531c.3504-.2209.81352-.115925 1.03442.234469L7 2.22295 7.86556.85c.2209-.350394.68402-.455369 1.03442-.234469.35039.220901.45536.684029.23446 1.034419L7.8866 3.62929 13.3844 12.35c.1457.2311.1542.5231.0223.7623-.132.2392-.3835.3877-.6567.3877H8V11c0-.5523-.44772-1.00003-1-1.00003S6 10.4477 6 11v2.5H1.25c-.273167 0-.524732-.1485-.656689-.3877s-.123435-.5312.022245-.7623L6.1134 3.62929 4.86556 1.64995c-.2209-.35039-.11593-.813518.23446-1.034419Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9739" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

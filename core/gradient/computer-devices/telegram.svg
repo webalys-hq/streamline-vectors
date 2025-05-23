@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Telegram--Streamline-Core-Gradient">
+  <desc>
+    Telegram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/telegram">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12868)" fill-rule="evenodd" d="M.000976562 6.99996C.000976562 3.13469 3.13439.00128174 6.99965.00128174c3.86525 0 6.99865 3.13340826 6.99865 6.99867826 0 3.86524-3.1334 6.99864-6.99865 6.99864-3.86526 0-6.998673438-3.1334-6.998673438-6.99864ZM9.25201 11.0643l1.04509-7.93259-8.16526 3.93534 2.41772.87612L7.2348 5.86744c.21848-.16889.5325-.12869.70139.08979.16888.21848.12868.5325-.0898.70138L5.61843 8.38087l.00003 2.72603 1.68508-1.60386 1.94847 1.56126Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12868" x1=".539" x2="16.492" y1="1.132" y2="10.124" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

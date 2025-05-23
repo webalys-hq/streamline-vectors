@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Burrito-Fastfood--Streamline-Core-Gradient">
+  <desc>
+    Burrito Fastfood Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/burrito-fastfood">
+    <path id="Union" fill="url(#paint0_linear_14402_10578)" fill-rule="evenodd" d="M11.5 2c0 .02117-.0003.04226-.001.06326C11.6591 2.02197 11.827 2 12 2c1.1046 0 2 .89543 2 2 0 .81116-.4829 1.50954-1.1769 1.82332L13 6.00024c.6904.69036.6904 1.80965 0 2.5-.6904.69036-1.8096.69036-2.5 0l-.1466-.14657-1.80708 1.80713-3.06986-6.34437.16987-.16986-.14632-.14633c-.69036-.69035-.69036-1.80964 0-2.5C6.14278.357472 7.15739.313169 7.85142.867332 8.21204.343454 8.81591 0 9.5 0c1.1046 0 2 .895431 2 2ZM.752254 8.54064 4.54064 4.75225l3.06985 6.34435-.51388.5139L.752254 8.54064ZM.0144031 9.57226 6.16079 12.5463l-1.13046 1.1305C4.82337 13.8837 4.54268 14 4.25 14s-.57337-.1163-.78033-.3232L.323223 10.5303C.116267 10.3234 0 10.0427 0 9.75c0-.05993.0048742-.11935.0144031-.17774Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10578" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

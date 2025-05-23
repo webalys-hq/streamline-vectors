@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Receipt-Add--Streamline-Core-Gradient">
+  <desc>
+    Receipt Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/receipt-add--shop-shopping-pay-payment-store-cash-bill-receipt-add-plus-new">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14386)" fill-rule="evenodd" d="M1.23223 1.23223C1.70107.763392 2.33696.5 3 .5h8.5c.5304 0 1.0391.210714 1.4142.58579.3751.37507.5858.88378.5858 1.41421V5c0 .27614-.2239.5-.5.5h-1.248V3c0-.34518-.2799-.625-.625-.625-.3452 0-.625.27982-.625.625v2.5H10.5V13c0 .1844-.1015.3538-.2641.4408-.1626.087-.35982.0775-.51325-.0248L7.75 12.1009 5.77735 13.416c-.16795.112-.38675.112-.5547 0L3.25 12.1009 1.27735 13.416c-.15343.1023-.3507.1118-.513279.0248C.601492 13.3538.5 13.1844.5 13V3c0-.66304.263392-1.29893.73223-1.76777ZM2.5 6.5c0-.41421.33579-.75.75-.75h1.5v-1.5c0-.41421.33579-.75.75-.75s.75.33579.75.75v1.5h1.5c.41421 0 .75.33579.75.75s-.33579.75-.75.75h-1.5v1.5c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75v-1.5h-1.5c-.41421 0-.75-.33579-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14386" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

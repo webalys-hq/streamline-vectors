@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Baggage--Streamline-Core-Gradient">
+  <desc>
+    Baggage Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/baggage--check-baggage-travel-adventure-luggage-bag-checked-airport">
+    <path id="Union" fill="url(#paint0_linear_14402_9759)" fill-rule="evenodd" d="M5.875 3.125C5.875 2.50368 6.37868 2 7 2s1.125.50368 1.125 1.125V3.5h-2.25v-.375Zm-1.5.375v-.375C4.375 1.67525 5.55025.5 7 .5s2.625 1.17525 2.625 2.625V13.5h-5.25v-10ZM3 3.5h.125v10H3C1.61929 13.5.5 12.3807.5 11V6C.5 4.61929 1.61929 3.5 3 3.5Zm8 10h-.125v-10H11c1.3807 0 2.5 1.11929 2.5 2.5v5c0 1.3807-1.1193 2.5-2.5 2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9759" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

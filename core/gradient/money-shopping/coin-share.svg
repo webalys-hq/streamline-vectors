@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Coin-Share--Streamline-Core-Gradient">
+  <desc>
+    Coin Share Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/coin-share--payment-cash-money-finance-receive-give-coin-hand">
+    <path id="Union" fill="url(#paint0_linear_14402_14082)" fill-rule="evenodd" d="M9.75 0C7.40279 0 5.5 1.90279 5.5 4.25S7.40279 8.5 9.75 8.5C12.0972 8.5 14 6.59721 14 4.25S12.0972 0 9.75 0Zm0 2.625c.3452 0 .625.27982.625.625v2c0 .34518-.2798.625-.625.625-.34518 0-.625-.27982-.625-.625v-2c0-.34518.27982-.625.625-.625ZM1.84315 7H0v4l1.82843 1.8284C2.57857 13.5786 3.59599 14 4.65685 14H10.5c.8284 0 1.5-.6716 1.5-1.5s-.6716-1.5-1.5-1.5H7.72318c-.09651.3265-.27361.6343-.5313.892-.82397.8239-2.15989.8239-2.98386 0l-1.45001-1.4501c-.24408-.244-.24408-.63976 0-.88384.24408-.24408.63981-.24408.88388 0l1.45002 1.45004c.33581.3358.88027.3358 1.21609 0 .30212-.3022.33243-.7732.09093-1.10917L4.67157 8.17157C3.92143 7.42143 2.90401 7 1.84315 7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14082" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

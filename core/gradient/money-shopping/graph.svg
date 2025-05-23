@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Graph--Streamline-Core-Gradient">
+  <desc>
+    Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/graph--analytics-business-product-graph-data-chart-analysis">
+    <path id="Union" fill="url(#paint0_linear_14402_14277)" fill-rule="evenodd" d="M2 1.25C2 .835786 1.66421.5 1.25.5.835786.5.5.835786.5 1.25v11.5c0 .4142.335786.75.75.75h11.5c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75H2V1.25Zm8.0525.94829c-.22034-.1574-.49512-.2187-.76149-.16988s-.50155.20359-.65177.42891L5.33188 7.41837 4.31612 6.4026c-.39053-.39052-1.02369-.39052-1.41422 0-.39052.39053-.39052 1.02369 0 1.41421l1.8783 1.8783c.21184.21185.50751.31759.80564.28803.29814-.02952.56733-.19116.73352-.44044l3.4111-5.11665 2.19214 1.56583c.4494.32101 1.074.21692 1.395-.23249.321-.44942.2169-1.07397-.2325-1.39498l-3.0326-2.16612Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14277" x1="2.626" x2="13.127" y1="3" y2="8.82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

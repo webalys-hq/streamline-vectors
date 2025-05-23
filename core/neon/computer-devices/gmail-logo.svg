@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gmail-Logo--Streamline-Core-Neon">
+  <desc>
+    Gmail Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gmail">
+    <path id="Rectangle 19" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9.78516 7.39209V2.73615" stroke-width="1"></path>
+    <path id="Rectangle 18" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.21436 7.39209V2.73615" stroke-width="1"></path>
+    <path id="Rectangle 20" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m0.5 4.98303 6.49992 4.16341 6.49988 -4.16341" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M0.5 3.74637v7.43553c0 0.511 0.415731 0.9252 0.92856 0.9252h2.78568V7.36215l2.78568 1.78432 2.78524 -1.78404v4.74467h2.78564c0.5129 0 0.9286 -0.4142 0.9286 -0.9252l0.0004 -7.43553c0 -1.08519 -0.8931 -1.85182 -1.8587 -1.85342 -0.3371 -0.00064 -0.6832 0.09199 -1.0031 0.29691l-3.63808 2.3306 -3.63855 -2.3306C2.20268 1.44768 0.701658 2.17842 0.518556 3.47894 0.506349 3.56564 0.5 3.65488 0.5 3.74637Z" stroke-width="1"></path>
+  </g>
+</svg>

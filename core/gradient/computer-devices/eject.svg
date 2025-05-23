@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Eject--Streamline-Core-Gradient">
+  <desc>
+    Eject Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/eject--eject-unmount-dismount-remove-keyboard">
+    <path id="Union" fill="url(#paint0_linear_14402_12988)" fill-rule="evenodd" d="M7.9854 1.38061c-.56219-.507479-1.40826-.50748-1.97044 0L.501961 6.35714c-1.00093.90353-.4096716 2.64289.985219 2.64289H12.5132c1.3949 0 1.9861-1.73936.9852-2.64289l-5.513-4.97653ZM0 12c0-.5523.447715-1 1-1h12c.5523 0 1 .4477 1 1s-.4477 1-1 1H1c-.552285 0-1-.4477-1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12988" x1="13.953" x2="-1.302" y1="13.002" y2="2.991" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

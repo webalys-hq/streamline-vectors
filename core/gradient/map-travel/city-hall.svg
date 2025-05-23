@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="City-Hall--Streamline-Core-Gradient">
+  <desc>
+    City Hall Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/city-hall--city-hall-travel-places">
+    <path id="Union" fill="url(#paint0_linear_14402_9880)" fill-rule="evenodd" d="M6.25 1.25c0-.414214.33579-.75.75-.75h1c.41421 0 .75.335786.75.75 0 .41421-.33579.75-.75.75h-.25v1.31598l3.4736 1.73681c.1311.06556.2249.18413.2605.32221H2.51586c.03565-.13808.1294-.25665.26053-.32221L6.25 3.31598V1.25ZM.5 12.75c0-.4142.335786-.75.75-.75V8C.835786 8 .5 7.66421.5 7.25s.335786-.75.75-.75h11.5c.4142 0 .75.33579.75.75s-.3358.75-.75.75v4c.4142 0 .75.3358.75.75s-.3358.75-.75.75H1.25c-.414214 0-.75-.3358-.75-.75ZM10.625 12V8h-1.25v4h1.25ZM7.75 12v-1.25c0-.4142-.33579-.75-.75-.75s-.75.3358-.75.75V12h1.5Zm-3.125 0V8h-1.25v4h1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9880" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

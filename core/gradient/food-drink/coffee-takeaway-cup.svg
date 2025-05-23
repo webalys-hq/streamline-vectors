@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Coffee-Takeaway-Cup--Streamline-Core-Gradient">
+  <desc>
+    Coffee Takeaway Cup Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/coffee-takeaway-cup--cup-coffee-hot-takeaway-drink-caffeine">
+    <path id="Union" fill="url(#paint0_linear_14402_10436)" fill-rule="evenodd" d="M3.50001 0c-.20445 0-.38831.124475-.46424.314305L2.26149 2.25h9.47701L10.9642.314305C10.8883.124475 10.7045 0 10.5 0H3.50001Zm-.49419 13.576L2.26336 8.75h9.47334l-.7425 4.826c-.0375.2439-.2474.424-.4942.424H3.50001c-.24679 0-.45666-.1801-.49419-.424ZM2 3.5h10c.5523 0 1 .44772 1 1v2c0 .55228-.4477 1-1 1H2c-.55228 0-1-.44772-1-1v-2c0-.55228.44772-1 1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10436" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

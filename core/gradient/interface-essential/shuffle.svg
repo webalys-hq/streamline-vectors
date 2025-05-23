@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shuffle--Streamline-Core-Gradient">
+  <desc>
+    Shuffle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/shuffle--multimedia-shuffle-multi-button-controls-media">
+    <path id="Union" fill="url(#paint0_linear_14402_8469)" fill-rule="evenodd" d="M10.963.807051c.2802-.116086.6028-.051919.8173.16258l2 1.999999c.2929.29289.2929.76777 0 1.06066l-2 2c-.2145.2145-.5371.27867-.8173.16258-.2803-.11609-.463-.38956-.463-.69291v-1H9c-.55229 0-1-.44771-1-1 0-.55228.44771-1 1-1h1.5v-1c0-.30335.1827-.576823.463-.692909ZM1 9.49996c-.552285 0-1 .44772-1 1.00004 0 .5522.447715 1 1 1h3c.55228 0 1-.4478 1-1 0-.55232-.44772-1.00004-1-1.00004H1ZM0 3.49994c0-.55229.447715-1 1-1h3.25c.35886 0 .6902.19228.86824.50386l3.71208 6.49614H10.5v-1c0-.30335.1827-.57682.463-.69291.2802-.11609.6028-.05192.8173.16258l2 2c.2929.29289.2929.76779 0 1.06069l-2 2c-.2145.2145-.5371.2786-.8173.1625-.2803-.116-.463-.3895-.463-.6929v-1H8.25c-.35886 0-.6902-.1922-.86824-.5038L3.66968 4.49994H1c-.552285 0-1-.44772-1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8469" x1="2.288" x2="12.958" y1="3.154" y2="9.775" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

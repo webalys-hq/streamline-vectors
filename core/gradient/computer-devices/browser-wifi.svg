@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Wifi--Streamline-Core-Gradient">
+  <desc>
+    Browser Wifi Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/browser-wifi--wireless-wifi-internet-server-network-browser-connection">
+    <path id="Union" fill="url(#paint0_linear_14402_12365)" fill-rule="evenodd" d="M2 11.8269V3.51562h10v8.31128c0 .0956-.0775.1731-.1731.1731H2.17308C2.07749 12 2 11.9225 2 11.8269ZM.5 2.17308C.5 1.24906 1.24906.5 2.17308.5h9.65382c.924 0 1.6731.74906 1.6731 1.67308v9.65382c0 .924-.7491 1.6731-1.6731 1.6731H2.17308C1.24906 13.5.5 12.7509.5 11.8269V2.17308Zm3.49175 4.94386c1.65592-1.65592 4.36019-1.65592 6.01615 0 .244.24408.6398.24408.8838 0 .2441-.24408.2441-.6398 0-.88388-2.14403-2.14408-5.63976-2.14408-7.78384 0-.24407.24408-.24407.6398 0 .88388.24408.24408.63981.24408.88389 0Zm1.80517 1.53282c.61455-.61456 1.69076-.61456 2.30531 0 .24408.24407.63981.24407.88389 0 .24408-.24408.24408-.63981 0-.88389-1.10271-1.1027-2.97037-1.1027-4.07308 0-.24408.24408-.24408.63981 0 .88389.24408.24407.6398.24407.88388 0Zm1.15328.8976c.41421 0 .75.33579.75.75004 0 .4142-.33579.75-.75.75-.41422 0-.75-.3358-.75-.75 0-.41425.33578-.75004.75-.75004Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12365" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

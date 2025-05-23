@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Target-1--Streamline-Core-Gradient">
+  <desc>
+    Location Target 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/location-target-1--navigation-location-map-services-maps-gps-target">
+    <path id="Union" fill="url(#paint0_linear_14402_10219)" fill-rule="evenodd" d="M7.75.75C7.75.335786 7.41421 0 7 0s-.75.335786-.75.75v1.30588C4.08901 2.38094 2.38094 4.08901 2.05588 6.25H.75C.335786 6.25 0 6.58579 0 7s.335786.75.75.75h1.30588c.32506 2.16099 2.03313 3.8691 4.19412 4.1941V13.25c0 .4142.33579.75.75.75s.75-.3358.75-.75v-1.3059c2.16099-.325 3.8691-2.03311 4.1941-4.1941H13.25c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75h-1.3059c-.325-2.16099-2.03311-3.86906-4.1941-4.19412V.75ZM7 10.5c-1.933 0-3.5-1.567-3.5-3.5S5.067 3.5 7 3.5s3.5 1.567 3.5 3.5-1.567 3.5-3.5 3.5ZM5.77014 7.00002c0-.67924.55064-1.22988 1.22988-1.22988.67924 0 1.22988.55064 1.22988 1.22988 0 .67924-.55064 1.22988-1.22988 1.22988-.67924 0-1.22988-.55064-1.22988-1.22988Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10219" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

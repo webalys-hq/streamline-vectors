@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hierarchy-13--Streamline-Core-Gradient">
+  <desc>
+    Hierarchy 13 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/hierarchy-13--node-organization-links-structure-link-nodes-network-hierarchy">
+    <path id="Union" fill="url(#paint0_linear_14402_7693)" fill-rule="evenodd" d="M10.5.499939c-.55229 0-1 .447715-1 1.000001v2.5c0 .47684.33375.87572.7804.97581l-.62284 2.02419H8.5c-.09372 0-.18444.01289-.27046.037L6.5 5.62187V3.49994c0-.55229-.44772-1-1-1H3c-.55228 0-1 .44771-1 1v2.5c0 .47684.33375.87572.78039.97581l-.62283 2.02419H1c-.552285 0-1 .44771-1 1v2.49996c0 .5523.447715 1 1 1h2.5c.55229 0 1-.4477 1-1V9.99994c0-.47687-.33379-.87578-.78048-.97583l.62282-2.02417H5.5c.09368 0 .18436-.01288.27035-.03697L7.5 8.37814v2.12176c0 .5523.44772 1 1 1H11c.5523 0 1-.4477 1-1V7.99994c0-.47687-.3338-.87578-.7805-.97583l.6228-2.02417H13c.5523 0 1-.44772 1-1v-2.5c0-.552286-.4477-1.000001-1-1.000001h-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7693" x1="15.213" x2="-2.71" y1="16.253" y2="2.542" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

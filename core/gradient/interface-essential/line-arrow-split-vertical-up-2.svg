@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Split-Vertical-Up-2--Streamline-Core-Gradient">
+  <desc>
+    Line Arrow Split Vertical Up 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/line-arrow-split-vertical-up-2">
+    <path id="Union" fill="url(#paint0_linear_14402_8521)" fill-rule="evenodd" d="M1.5.499939c-.552285 0-1 .447715-1 1.000001v3.5c0 .55228.447715 1 1 1 .55228 0 1-.44772 1-1V3.91415l3.5 3.5v5.58575c0 .5523.44772 1 1 1s1-.4477 1-1V7.41415l3.5-3.5v1.08579c0 .55228.4477 1 1 1s1-.44772 1-1v-3.5c0-.552286-.4477-1.000001-1-1.000001H9c-.55228 0-1 .447715-1 1.000001 0 .55228.44772 1 1 1h1.0858L7 5.58573 3.91421 2.49994H5c.55228 0 1-.44772 1-1C6 .947654 5.55228.499939 5 .499939H1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8521" x1="1" x2="16.08" y1="1.591" y2="9.776" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

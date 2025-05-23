@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fingerprint-1--Streamline-Core-Gradient">
+  <desc>
+    Fingerprint 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/fingerprint-1--identification-password-touch-id-secure-fingerprint-finger-security">
+    <path id="Union" fill="url(#paint0_linear_14402_7481)" fill-rule="evenodd" d="M2.5 5.99994c0-2.48528 2.01472-4.5 4.5-4.5s4.5 2.01472 4.5 4.5v1.75c0 .41421.3358.75.75.75s.75-.33579.75-.75v-1.75c0-3.31371-2.6863-6.0000010352-6-6.0000010352-3.31371 0-6 2.6862910352-6 6.0000010352v7.24996c0 .4143.33579.75.75.75s.75-.3357.75-.75V5.99994Zm2.75 0c0-.9665.7835-1.75 1.75-1.75s1.75.7835 1.75 1.75v7.24996c0 .4143.33579.75.75.75s.75-.3357.75-.75V5.99994c0-1.79493-1.45507-3.25-3.25-3.25s-3.25 1.45507-3.25 3.25v2.5c0 .41421.33579.75.75.75s.75-.33579.75-.75v-2.5ZM4.5 10.4999c.41421 0 .75.3358.75.75v2c0 .4143-.33579.75-.75.75s-.75-.3357-.75-.75v-2c0-.4142.33579-.75.75-.75Zm3.25-.25c0-.41417-.33579-.74996-.75-.74996s-.75.33579-.75.74996v3c0 .4143.33579.75.75.75s.75-.3357.75-.75v-3ZM7 5.74994c.41421 0 .75.33579.75.75v1c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75v-1c0-.41421.33579-.75.75-.75Zm6 4.99996c0-.4142-.3358-.74996-.75-.74996s-.75.33576-.75.74996v2.5c0 .4143.3358.75.75.75s.75-.3357.75-.75v-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7481" x1="12.959" x2="-2.219" y1="14.003" y2="6.684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

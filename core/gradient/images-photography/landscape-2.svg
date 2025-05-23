@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Landscape-2--Streamline-Core-Gradient">
+  <desc>
+    Landscape 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/landscape-2--photos-photo-landscape-picture-photography-camera-pictures-image">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12109)" fill-rule="evenodd" d="M12.0769 13.5c.786 0 1.4231-.6371 1.4231-1.4231V1.92308C13.5 1.13713 12.8629.5 12.0769.5H1.92308C1.13713.5.5 1.13713.5 1.92308V12.0769c0 .786.63713 1.4231 1.42308 1.4231H12.0769Zm-.0333-1.25L5.20737 5.41378c-.19526-.19526-.51184-.19526-.7071 0L1.74999 8.16406v3.91284c0 .0956.07749.1731.17308.1731H12.0436ZM11 4.75C11 3.7835 10.2165 3 9.25 3S7.5 3.7835 7.5 4.75 8.2835 6.5 9.25 6.5 11 5.7165 11 4.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12109" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wave-Signal--Streamline-Core-Gradient">
+  <desc>
+    Wave Signal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/wave-signal--heart-line-beat-square-graph-stats">
+    <path id="Vector 4661 (Stroke)" fill="url(#paint0_linear_14402_8946)" fill-rule="evenodd" d="m5.15459 4.92684-.98377 1.96753c-.33878.67756-1.03131 1.10557-1.78885 1.10557H1c-.552285 0-1-.44772-1-1 0-.55229.447715-1 1-1h1.38197l1.61819-3.23639c.234-.46799.71232-.76361 1.23554-.76361.57582 0 1.09125.35719 1.29343.89634L8.75 8.8186l.57034-1.52091c.29273-.78061 1.03896-1.29775 1.87266-1.29775H13c.5523 0 1 .44771 1 1 0 .55228-.4477 1-1 1h-1.807L10.0241 11.117c-.19915.5311-.70688.8829-1.2741.8829-.56722 0-1.07495-.3518-1.27411-.8829l-2.3213-6.19016Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8946" x1="2.288" x2="11.515" y1="3.923" y2="11.08" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

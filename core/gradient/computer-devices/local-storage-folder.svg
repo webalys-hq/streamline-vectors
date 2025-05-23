@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Local-Storage-Folder--Streamline-Core-Gradient">
+  <desc>
+    Local Storage Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/local-storage-folder">
+    <path id="Union" fill="url(#paint0_linear_14402_12734)" fill-rule="evenodd" d="M9.64423.000184648C9.85476-.00399939 10.0606.063028 10.2284.190541c.1701.12926.2908.312875.3419.520278.0036.014383.0065.028916.0088.043556l.0563.365345h2.4298c.248 0 .4857.09848.661.27378.1753.17531.2738.41307.2738.66098v3.26075c0 .51626-.4185.93477-.9348.93477H7.79585c-.24792 0-.48568-.09848-.66098-.27379-.1753-.1753-.27379-.41306-.27379-.66098V.934951c0-.247915.09849-.485677.27379-.66098.1753-.1753023.41307-.273786352.66098-.273786352h1.84838ZM1.5 3h3.22227c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75H1.25C.559644 1.5 0 2.05964 0 2.75v7.5c0 .6904.559644 1.25 1.25 1.25h4.05572l-.3579 1H4c-.41421 0-.75.3358-.75.75s.33579.75.75.75h6c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-.94791l-.3579-1H12.75c.6904 0 1.25-.5596 1.25-1.25v-2c0-.41421-.3358-.75-.75-.75s-.75.33579-.75.75V10h-11V3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12734" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

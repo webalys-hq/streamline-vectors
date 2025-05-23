@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Landscape-Setting--Streamline-Core-Gradient">
+  <desc>
+    Landscape Setting Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/landscape-setting--design-composition-horizontal-lanscape">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12189)" fill-rule="evenodd" d="M13.5607 1.43934C13.842 1.72064 14 2.10218 14 2.5v9c0 .3978-.158.7794-.4393 1.0607S12.8978 13 12.5 13l-11 0c-.39783 0-.779356-.158-1.06066-.4393C.158035 12.2794 0 11.8978 0 11.5v-9c0-.39783.158035-.77936.43934-1.06066C.720645 1.15804 1.10218 1 1.5 1h11c.3978 0 .7794.15804 1.0607.43934ZM4.9408 4.87981c0-1.13719.92187-2.05907 2.05907-2.05907 1.13719 0 2.05907.92188 2.05907 2.05907 0 1.13719-.92188 2.05907-2.05907 2.05907-1.1372 0-2.05907-.92188-2.05907-2.05907ZM3.12797 10.5087C3.70211 8.9269 5.21832 7.79572 7 7.79572c1.78167 0 3.2979 1.13118 3.872 2.71288.0557.1533.0331.3241-.0605.4576-.0936.1335-.2464.213-.4095.213l-6.80404.0001c-.16305 0-.31586-.0796-.40945-.2131-.09358-.1335-.11618-.3043-.06054-.4575Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12189" x1="13.953" x2="-1.302" y1="13.002" y2="2.991" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

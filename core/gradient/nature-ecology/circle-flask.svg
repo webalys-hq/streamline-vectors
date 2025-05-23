@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Circle-Flask--Streamline-Core-Gradient">
+  <desc>
+    Circle Flask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/circle-flask--science-experiment-lab-flask-chemistry-solution">
+    <path id="Union" fill="url(#paint0_linear_14402_10885)" fill-rule="evenodd" d="M4.5 1.5h-.75C3.33579 1.5 3 1.16421 3 .75c0-.414214.33579-.75.75-.75h6.5c.4142 0 .75.335786.75.75 0 .41421-.3358.75-.75.75H9.5v2.09984c1.78.90991 3 2.76207 3 4.90016 0 3.0376-2.4624 5.5-5.5 5.5-3.03757 0-5.5-2.4624-5.5-5.5 0-2.13809 1.21995-3.99025 3-4.90016V1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10885" x1="3.298" x2="13.06" y1="2.692" y2="6.942" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

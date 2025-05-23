@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Microscope-Observation-Sciene--Streamline-Core-Gradient">
+  <desc>
+    Microscope Observation Sciene Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/microscope-observation-sciene">
+    <path id="Union" fill="url(#paint0_linear_14402_16084)" fill-rule="evenodd" d="M2.75.5c0-.276142.22386-.5.5-.5h2c.27614 0 .5.223858.5.5V2h.75c.27614 0 .5.22386.5.5v.25568h.69809C11.1785 2.75568 14 5.57714 14 9.05759V13.5c0 .2761-.2239.5-.5.5H.75c-.414214 0-.75-.3358-.75-.75s.335786-.75.75-.75H6.5v-1H1.75c-.41421 0-.75-.3358-.75-.75s.33579-.75.75-.75h8.9932V8.77927c0-1.5026-1.21814-2.72071-2.72074-2.72071H7V7c0 .82812-.66729 1.50155-1.49537 1.50915l-2.45884.02253C2.19438 8.53949 1.5 7.85145 1.5 7V2.5c0-.27614.22386-.5.5-.5h.75V.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16084" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

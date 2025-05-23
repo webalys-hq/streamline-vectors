@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Paypal--Streamline-Core-Gradient">
+  <desc>
+    Paypal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/paypal--payment-paypal">
+    <path id="Union" fill="url(#paint0_linear_14402_12939)" fill-rule="evenodd" d="M2.99087 0h4.6436c2.01269 0 3.64433 1.63161 3.64433 3.64431 0 2.01269-1.63164 3.6443-3.64433 3.6443h-2.305c-.24827 0-.45894.18218-.49477.42785l-.63444 4.35044c-.03583.2457-.24649.4279-.49477.4279H1.31455c-.30486 0-.53876-.2705-.494766-.5722L2.4961.427847C2.53193.182174 2.7426 0 2.99087 0Zm2.44648 12.2472c-.10891.7468-.67941 1.326-1.39682 1.4654.07935.1682.25038.2873.45266.2873h2.39094c.24828 0 .45894-.1822.49477-.4278l.46277-3.1733c.03582-.2457.24649-.42784.49476-.42784h1.28283c2.01274 0 3.64434-1.63161 3.64434-3.64431 0-.83663-.2819-1.6074-.756-2.22252-.2318 2.4874-2.325 4.43443-4.87296 4.43443H5.9782l-.54085 3.70864Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12939" x1="13.222" x2="-2.302" y1="14.003" y2="6.238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

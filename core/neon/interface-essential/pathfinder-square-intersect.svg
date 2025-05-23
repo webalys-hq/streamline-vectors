@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Square-Intersect--Streamline-Core-Neon">
+  <desc>
+    Pathfinder Square Intersect Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pathfinder-square-intersect">
+    <path id="Vector 2580" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 12c0 0.5523 -0.4477 1 -1 1" stroke-width="1"></path>
+    <path id="Vector 2582" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12 4.5c0.5523 0 1 0.44772 1 1" stroke-width="1"></path>
+    <path id="Vector 2583" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.5 12c0 0.5523 0.44772 1 1 1" stroke-width="1"></path>
+    <path id="Vector 2584" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 8v1.5" stroke-width="1"></path>
+    <path id="Vector 2587" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8 13h1.5" stroke-width="1"></path>
+    <path id="Vector 2589" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 2c0 -0.55228 0.44772 -1 1 -1" stroke-width="1"></path>
+    <path id="Vector 2590" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.5 1c0.55228 0 1 0.44772 1 1" stroke-width="1"></path>
+    <path id="Vector 2591" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 8.5c0 0.55228 0.44772 1 1 1" stroke-width="1"></path>
+    <path id="Vector 2593" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 6V4.5" stroke-width="1"></path>
+    <path id="Vector 2594" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.5 1H6" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4.5c-0.55228 0 -1 0.44772 -1 1v3c0 0.55228 0.44772 1 1 1h3c0.55228 0 1 -0.44772 1 -1v-3c0 -0.55228 -0.44772 -1 -1 -1h-3Z" stroke-width="1"></path>
+  </g>
+</svg>

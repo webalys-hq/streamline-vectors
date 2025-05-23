@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Delete--Streamline-Core-Gradient">
+  <desc>
+    Browser Delete Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/browser-delete--app-code-apps-fail-delete-window-remove-cross">
+    <path id="Union" fill="url(#paint0_linear_14402_11538)" fill-rule="evenodd" d="M2 3.51562v8.31128c0 .0956.07749.1731.17308.1731h9.65382c.0956 0 .1731-.0775.1731-.1731V3.51562H2ZM2.17308.5C1.24906.5.5 1.24906.5 2.17308v9.65382c0 .924.74906 1.6731 1.67308 1.6731h9.65382c.924 0 1.6731-.7491 1.6731-1.6731V2.17308C13.5 1.24906 12.7509.5 11.8269.5H2.17308Zm2.29659 4.71967c.29289-.29289.76777-.29289 1.06066 0L7 6.68934l1.46967-1.46967c.29289-.29289.76777-.29289 1.06066 0s.29289.76777 0 1.06066L8.06066 7.75l1.46967 1.46967c.29289.29289.29289.76777 0 1.06063-.29289.2929-.76777.2929-1.06066 0L7 8.81066 5.53033 10.2803c-.29289.2929-.76777.2929-1.06066 0-.29289-.29286-.29289-.76774 0-1.06063L5.93934 7.75 4.46967 6.28033c-.29289-.29289-.29289-.76777 0-1.06066Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11538" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

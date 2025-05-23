@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Instagram--Streamline-Core-Gradient">
+  <desc>
+    Instagram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/instagram">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13045)" fill-rule="evenodd" d="M3.57144.5C1.87513.5.5 1.87512.5 3.57143v6.85717C.5 12.1249 1.87514 13.5 3.57144 13.5h6.85716c1.6963 0 3.0715-1.3751 3.0715-3.0714V3.57143C13.5001 1.87512 12.1249.5 10.4286.5H3.57144ZM10.46 4.15613c-.4143 0-.75004-.33579-.75004-.75 0-.41422.33574-.75.75004-.75.4142 0 .75.33578.75.75 0 .41421-.3358.75-.75.75Zm-3.46023.04431c-1.54616 0-2.79957 1.25341-2.79957 2.79957 0 1.54617 1.25341 2.79958 2.79957 2.79958 1.54616 0 2.79958-1.25341 2.79958-2.79958 0-1.54616-1.25342-2.79957-2.79958-2.79957Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13045" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

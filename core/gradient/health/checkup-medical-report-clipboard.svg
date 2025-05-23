@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Checkup-Medical-Report-Clipboard--Streamline-Core-Gradient">
+  <desc>
+    Checkup Medical Report Clipboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/checkup-medical-report-clipboard">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16212)" fill-rule="evenodd" d="M8.25 2.5h-2.5c-.69036 0-1.25-.55964-1.25-1.25C4.5.559644 5.05964 0 5.75 0h2.5C8.94036 0 9.5.559644 9.5 1.25c0 .69036-.55964 1.25-1.25 1.25Zm-2.5 1.25h2.5c1.38071 0 2.5-1.11929 2.5-2.5 0-.08437-.0042-.16777-.0123-.25H11.5c.8284 0 1.5.67157 1.5 1.5v10c0 .8284-.6716 1.5-1.5 1.5h-9c-.82843 0-1.5-.6716-1.5-1.5v-10C1 1.67157 1.67157 1 2.5 1h.76234c-.00816.08223-.01234.16563-.01234.25 0 1.38071 1.11929 2.5 2.5 2.5Zm.12864 2.17718c0-.23592.19126-.42718.42719-.42718h1.38834c.23593 0 .42719.19126.42719.42718v1.45148h1.45145c.23593 0 .42719.19126.42719.42719V9.1942c0 .23593-.19126.42718-.42719.42718H8.12136v1.45142c0 .2359-.19126.4272-.42719.4272H6.30583c-.23593 0-.42719-.1913-.42719-.4272V9.62138H4.42718C4.19126 9.62138 4 9.43012 4 9.1942V7.80585c0-.23593.19126-.42719.42718-.42719h1.45146V5.92718Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16212" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

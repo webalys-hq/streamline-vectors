@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tape-Cassette-Record--Streamline-Core-Gradient">
+  <desc>
+    Tape Cassette Record Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/tape-cassette-record--music-entertainment-tape-cassette-record">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15038)" fill-rule="evenodd" d="M1.5 1C.671573 1 0 1.67157 0 2.5v9c0 .8284.671573 1.5 1.5 1.5h11c.8284 0 1.5-.6716 1.5-1.5v-9c0-.82843-.6716-1.5-1.5-1.5h-11ZM2 6c0-.9665.7835-1.75 1.75-1.75h6.5c.9665 0 1.75.7835 1.75 1.75s-.7835 1.75-1.75 1.75h-6.5C2.7835 7.75 2 6.9665 2 6Zm3.85722-.75h2.28556c-.09368.23155-.14534.4847-.14534.74994 0 .26529.05168.51848.14539.75006H5.85717c.09371-.23158.14539-.48477.14539-.75006 0-.26524-.05166-.51839-.14534-.74994ZM10.25 6.75h-.91465c-.2079-.18396-.33791-.4519-.33791-.75006 0-.29809.12995-.56598.33777-.74994H10.25c.4142 0 .75.33579.75.75s-.3358.75-.75.75Zm-5.58521-1.5H3.75c-.41421 0-.75.33579-.75.75s.33579.75.75.75h.91465c.2079-.18396.33791-.4519.33791-.75006 0-.29809-.12996-.56598-.33777-.74994Zm-.62906 4.5643L3.36145 11.5h7.27705l-.6743-1.6857C9.88827 9.62448 9.70442 9.5 9.49997 9.5h-5c-.20446 0-.38831.12448-.46424.3143Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15038" x1="2.288" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

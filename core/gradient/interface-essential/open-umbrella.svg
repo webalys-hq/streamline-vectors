@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Open-Umbrella--Streamline-Core-Gradient">
+  <desc>
+    Open Umbrella Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/open-umbrella--storm-rain-umbrella-open-weather">
+    <path id="Union" fill="url(#paint0_linear_14402_8143)" fill-rule="evenodd" d="M7-.0000610352c.41421 0 .75.3357860352.75.7500000352v.296421C10.7097 1.41543 13 3.94023 13 6.99994v.5c0 .27614-.2239.5-.5.5H7.75v3.87496c0 .3452.27982.625.625.625s.625-.2798.625-.625v-.125c0-.4142.33579-.75.75-.75.4142 0 .75.3358.75.75v.125c0 1.1736-.9514 2.125-2.125 2.125s-2.125-.9514-2.125-2.125V7.99994H1.5c-.27614 0-.5-.22386-.5-.5v-.5c0-3.05971 2.29027-5.58451 5.25-5.95358V.749939c0-.414214.33579-.7500000352.75-.7500000352Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8143" x1="14.04" x2="-3.727" y1="16.965" y2="6.147" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

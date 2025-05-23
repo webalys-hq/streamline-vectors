@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Information-Desk--Streamline-Core-Neon">
+  <desc>
+    Information Desk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="information-desk">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.99975 8.49998c1.10456 0 1.99999 -0.89543 1.99999 -1.99999S6.10431 4.5 4.99975 4.5c-1.10457 0 -1.99999 0.89543 -1.99999 1.99999s0.89542 1.99999 1.99999 1.99999Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.99971 10c-1.86383 0 -3.42993 1.2748 -3.87398 3H8.8737c-0.44405 -1.7252 -2.01015 -3 -3.87399 -3Z" stroke-width="1"></path>
+    <path id="Vector 4958" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 13h12" stroke-width="1"></path>
+    <path id="Vector 4960" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 3.5h1v3" stroke-width="1"></path>
+    <path id="Vector 4961" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10 6.5h3" stroke-width="1"></path>
+    <g id="Group 2636">
+      <path id="Ellipse 1111" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.5 1.5c-0.1381 0 -0.25 -0.11193 -0.25 -0.25s0.1119 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1112" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.5 1.5c0.1381 0 0.25 -0.11193 0.25 -0.25S11.6381 1 11.5 1" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

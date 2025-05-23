@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Download-File--Streamline-Core-Gradient">
+  <desc>
+    Download File Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/download-file">
+    <path id="Subtract" fill="url(#paint0_linear_14402_9628)" fill-rule="evenodd" d="M1.43934.439279C1.72064.157974 2.10218-.0000610352 2.5-.0000610352H9c.13261 0 .25979.0526784352.35355.1464470352L12.8536 3.64639c.0937.09376.1464.22094.1464.35355v8.49996c0 .3979-.158.7794-.4393 1.0607s-.6629.4393-1.0607.4393h-9c-.39783 0-.77936-.158-1.06066-.4393C1.15804 13.2793 1 12.8978 1 12.4999V1.49994c0-.39783.15804-.779357.43934-1.060661ZM6 4.99994v2.5h-.99999c-.20223 0-.38454.12182-.46194.30866-.07739.18683-.03461.40189.10839.54489l2 2.00001c.09377.0938.22095.1464.35355.1464.13261 0 .25979-.0526.35356-.1464l2-2.00001c.143-.143.18577-.35806.10839-.54489-.0774-.18684-.25971-.30866-.46194-.30866H8v-2.5c0-.55229-.44772-1-1-1s-1 .44771-1 1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9628" x1="14.04" x2="-3.727" y1="16.965" y2="6.147" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

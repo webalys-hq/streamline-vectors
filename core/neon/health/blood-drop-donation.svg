@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blood-Drop-Donation--Streamline-Core-Neon">
+  <desc>
+    Blood Drop Donation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="blood-drop-donation">
+    <path id="vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1.5 8.48394C1.5 3.76535 7.00007 0.5 7.00007 0.5s5.50003 3.26535 5.50003 7.98394c0 3.04986 -2.78585 5.01606 -5.50003 5.01606C4.28588 13.5 1.5 11.5338 1.5 8.48394Z" stroke-width="1"></path>
+    <path id="union" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M6.30583 5.5c-0.23593 0 -0.42719 0.19126 -0.42719 0.42718v1.20148l-1.20146 0c-0.23592 0 -0.42718 0.19126 -0.42718 0.42719V8.9442c0 0.23592 0.19126 0.42718 0.42718 0.42718h1.20146v1.20142c0 0.2359 0.19126 0.4272 0.42719 0.4272h1.38834c0.23593 0 0.42719 -0.1913 0.42719 -0.4272V9.37138h1.20146c0.23592 0 0.42718 -0.19126 0.42718 -0.42718V7.55585c0 -0.23593 -0.19126 -0.42719 -0.42718 -0.42719l-1.20146 0V5.92718c0 -0.23592 -0.19126 -0.42718 -0.42719 -0.42718H6.30583Z" stroke-width="1"></path>
+  </g>
+</svg>

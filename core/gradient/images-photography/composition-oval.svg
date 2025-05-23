@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Composition-Oval--Streamline-Core-Gradient">
+  <desc>
+    Composition Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/composition-oval--camera-frame-composition-photography-pictures-landscape-photo-oval">
+    <path id="Union" fill="url(#paint0_linear_14402_12081)" fill-rule="evenodd" d="M12.7068 2.15087C10.9014 1.33086 8.95602.940529 7 1.00733c-1.95601-.066801-3.90139.32353-5.70677 1.14354-.11268.05118-.20238.14233-.25174.25582C.41794 3.84036.0642781 5.39557.000405863 6.97986c-.000541151.01342-.000541151.02686 0 .04028C.0642781 8.60443.41794 10.1596 1.04149 11.5933c.04936.1135.13906.2047.25174.2558 1.80538.82 3.75076 1.2104 5.70677 1.1436 1.95602.0668 3.9014-.3236 5.7068-1.1436.1127-.0511.2023-.1423.2517-.2558.6236-1.4337.9772-2.98887 1.0411-4.57316.0005-.01342.0005-.02686 0-.04028-.0639-1.58429-.4175-3.1395-1.0411-4.57317-.0494-.11349-.139-.20464-.2517-.25582Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12081" x1="2.288" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

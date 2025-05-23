@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Brain-Cognitive--Streamline-Core-Gradient">
+  <desc>
+    Brain Cognitive Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/brain-cognitive--health-medical-brain-cognitive-specialities">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16373)" fill-rule="evenodd" d="M6.8829.00216536C7.94903-.0186453 9.00145.245046 9.93182.766095c.93038.521045 1.70508 1.280625 2.24438 2.200545.5392.91992.8236 1.96694.8238 3.03327V10c0 .3978-.158.7794-.4393 1.0607S11.8978 11.5 11.5 11.5H10v2c0 .2761-.22386.5-.5.5h-5c-.27614 0-.5-.2239-.5-.5v-2.3028c-.83111-.4799-1.53639-1.1529-2.05499-1.96399-.57443-.89838-.89907-1.93362-.94048-2.99915-.041418-1.06553.20188-2.12285.70485-3.06311.50296-.94026 1.24743-1.72949 2.15675-2.286454C4.77545.327537 5.81677.022976 6.8829.00216536ZM3.55955 7.2097c-.60027-1.68032.06552-3.60119 1.66577-4.5251 1.57989-.91215 3.54592-.54962 4.70723.76849.29415.33388.22575.83234-.10442 1.13061-1.24641 1.12581-3.29798 2.56977-5.31297 3.10356-.39825.1055-.81701-.08959-.95561-.47756Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16373" x1="14.04" x2="-3.726" y1="16.965" y2="6.147" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

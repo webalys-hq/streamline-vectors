@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flip-Vertical-Arrow-2--Streamline-Core-Gradient">
+  <desc>
+    Flip Vertical Arrow 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/flip-vertical-arrow-2--arrow-design-flip-reflect-up-down">
+    <path id="Union" fill="url(#paint0_linear_14402_7538)" fill-rule="evenodd" d="M10.8535 1.35349c.143-.143.1858-.358055.1084-.544892C10.8845.62176 10.7022.499939 10.5.499939H3.49999c-.20224 0-.38455.121821-.46194.308658-.07739.186837-.03462.401893.10838.544893l3.5 3.5c.19526.19526.51185.19526.70711 0l3.49996-3.5ZM10.5 13.4999c.2022 0 .3845-.1218.4619-.3086.0774-.1869.0346-.4019-.1084-.5449L7.35354 9.14639c-.19526-.19527-.51185-.19527-.70711 0l-3.5 3.50001c-.143.143-.18578.358-.10839.5449.0774.1868.25971.3086.46194.3086H10.5Zm3-6.49996c0 .41421-.3358.75-.75.75h-1c-.4142 0-.75-.33579-.75-.75s.3358-.75.75-.75h1c.4142 0 .75.33579.75.75Zm-3.5 0c0 .41421-.33579.75-.75.75h-1c-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75h1c.41421 0 .75.33579.75.75Zm-4.25.75c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75h-1c-.41421 0-.75.33579-.75.75s.33579.75.75.75h1Zm-2.75-.75c0 .41421-.33579.75-.75.75h-1c-.414213 0-.75-.33579-.75-.75s.335787-.75.75-.75h1c.41421 0 .75.33579.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7538" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

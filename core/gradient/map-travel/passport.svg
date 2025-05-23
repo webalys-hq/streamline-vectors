@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Passport--Streamline-Core-Gradient">
+  <desc>
+    Passport Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/passport--travel-book-id-adventure-visa-airport">
+    <path id="Union" fill="url(#paint0_linear_14402_10293)" fill-rule="evenodd" d="M2.5 0C1.67157 0 1 .671573 1 1.5v11c0 .8284.67157 1.5 1.5 1.5h9c.8284 0 1.5-.6716 1.5-1.5v-11c0-.828427-.6716-1.5-1.5-1.5h-9Zm5.125 9.34279c1.3767-.2558 2.462-1.34109 2.7178-2.71779H7.625v2.71779Zm-1.25.00001C4.99827 9.08702 3.91296 8.00172 3.65717 6.625H6.375v2.7178Zm1.25-3.9678h2.7178C10.087 3.9983 9.0017 2.91301 7.625 2.65721V5.375Zm-1.25-2.7178V5.375H3.65717c.25579-1.37672 1.3411-2.46202 2.71783-2.7178Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10293" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

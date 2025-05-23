@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Held--Streamline-Core-Gradient">
+  <desc>
+    Hand Held Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/hand-held--tablet-kindle-device-electronics-ipad-computer">
+    <path id="Union" fill="url(#paint0_linear_14402_13078)" fill-rule="evenodd" d="M2.75 1.5c-.13807 0-.25.11193-.25.25v8.75h9V1.75c0-.13807-.1119-.25-.25-.25h-8.5ZM1 1.75C1 .783502 1.7835 0 2.75 0h8.5C12.2165 0 13 .783502 13 1.75v10.5c0 .9665-.7835 1.75-1.75 1.75h-8.5C1.7835 14 1 13.2165 1 12.25V1.75ZM3.875 3.5c0-.34518.27982-.625.625-.625h5c.34518 0 .625.27982.625.625s-.27982.625-.625.625h-5c-.34518 0-.625-.27982-.625-.625Zm0 2.5c0-.34518.27982-.625.625-.625h3c.34518 0 .625.27982.625.625s-.27982.625-.625.625h-3c-.34518 0-.625-.27982-.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13078" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pictures-Folder-Memories--Streamline-Core-Gradient">
+  <desc>
+    Pictures Folder Memories Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pictures-folder-memories">
+    <path id="Union" fill="url(#paint0_linear_14402_8291)" fill-rule="evenodd" d="M1.5.999939c-.828427 0-1.5.671571-1.5 1.500001v8.99996c0 .8285.671573 1.5 1.5 1.5h11c.8284 0 1.5-.6715 1.5-1.5V4.49994c0-.82843-.6716-1.5-1.5-1.5H6.39039l-.21595-.8638C6.0075 1.46838 5.40753.999939 4.71922.999939H1.5Zm0 8.618011 2.80835-2.01193c.18371-.14678.41205-.22693.64762-.22693.24264 0 .4776.08504.66404.24032.00881.00734.01736.01497.02564.0229L9.678 11.4999H1.5V9.61795Zm6.85938-3.23886c0 .82843.67157 1.5 1.5 1.5.82842 0 1.50002-.67157 1.50002-1.5s-.6716-1.5-1.50002-1.5c-.82843 0-1.5.67157-1.5 1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8291" x1="15.213" x2="-1.631" y1="15.542" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

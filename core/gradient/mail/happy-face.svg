@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Happy-Face--Streamline-Core-Gradient">
+  <desc>
+    Happy Face Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/happy-face--smiley-chat-message-smile-emoji-face-satisfied">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11202)" fill-rule="evenodd" d="M14 7c0-3.86599-3.134-7-7-7-3.86599 0-7 3.13401-7 7 0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7ZM5.75 5.25c0-.55228-.44772-1-1-1-.55229 0-1 .44772-1 1 0 .55229.44771 1 1 1 .55228 0 1-.44771 1-1ZM4.24397 7.82172c-.09846-.33084-.44647-.51922-.77731-.42075-.33084.09846-.51922.44647-.42075.77731C3.55288 9.88175 5.13044 11.125 7 11.125c1.86956 0 3.4471-1.24325 3.9541-2.94672.0985-.33084-.0899-.67885-.4208-.77731-.3308-.09847-.67881.08991-.77727.42075C9.40246 9.00974 8.30146 9.875 7 9.875s-2.40246-.86526-2.75603-2.05328ZM9.25 4.25c.55228 0 1 .44772 1 1 0 .55229-.44772 1-1 1-.55229 0-1-.44771-1-1 0-.55228.44771-1 1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11202" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

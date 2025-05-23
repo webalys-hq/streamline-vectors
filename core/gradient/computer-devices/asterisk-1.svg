@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Asterisk-1--Streamline-Core-Gradient">
+  <desc>
+    Asterisk 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/asterisk-1--asterisk-star-keyboard">
+    <path id="Union" fill="url(#paint0_linear_14402_12292)" fill-rule="evenodd" d="M7.00007.00189209c.55229 0 1 .44771491 1 .99999791V5.1784l3.53853-2.25182c.466-.29651 1.0841-.15916 1.3806.30679.2965.46594.1591 1.08402-.3068 1.38053L8.86285 6.99997l3.74955 2.38607c.4659.29651.6033.91456.3068 1.38056-.2965.4659-.9146.6033-1.3806.3068L8.00007 8.82155V12.998c0 .5523-.44771 1-1 1-.55228 0-1-.4477-1-1V8.82174L2.46181 11.0734c-.46595.2965-1.08403.1591-1.38054-.3068-.296509-.466-.159156-1.08405.30679-1.38056L5.1376 6.99997 1.38806 4.6139c-.465946-.29651-.603299-.91459-.30679-1.38053.29651-.46595.91459-.6033 1.38054-.30679L6.00007 5.1782V1.00189c0-.552283.44772-.99999791 1-.99999791Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12292" x1="13.035" x2="-2.26" y1="14.001" y2="6.532" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

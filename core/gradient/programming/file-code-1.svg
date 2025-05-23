@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="File-Code-1--Streamline-Core-Gradient">
+  <desc>
+    File Code 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/file-code-1--code-files-angle-programming-file-bracket">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11631)" fill-rule="evenodd" d="M2.5 0c-.39782 0-.77936.158035-1.06066.43934C1.15804.720644 1 1.10218 1 1.5v11c0 .3978.15804.7794.43934 1.0607S2.10217 14 2.5 14h9c.3978 0 .7794-.158 1.0607-.4393S13 12.8978 13 12.5V4c0-.13261-.0527-.25979-.1464-.35355L9.35355.146447C9.25979.0526784 9.13261 0 9 0H2.5Zm3.53033 5.96967c.29289.29289.29289.76777 0 1.06066L4.56066 8.5l1.46967 1.46967c.29289.29293.29289.76773 0 1.06063-.29289.2929-.76777.2929-1.06066 0l-2-1.99997c-.29289-.29289-.29289-.76777 0-1.06066l2-2c.29289-.29289.76777-.29289 1.06066 0Zm3 0c-.29289-.29289-.76777-.29289-1.06066 0s-.29289.76777 0 1.06066L9.43934 8.5 7.96967 9.96967c-.29289.29293-.29289.76773 0 1.06063.29289.2929.76777.2929 1.06066 0l1.99997-1.99997c.2929-.29289.2929-.76777 0-1.06066l-1.99997-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11631" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

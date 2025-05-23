@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Floppy-Disk--Streamline-Core-Neon">
+  <desc>
+    Floppy Disk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="floppy-disk--disk-floppy-electronics-device-disc-computer-storage">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 13V9c0 -0.13261 -0.0527 -0.25979 -0.1464 -0.35355C10.2598 8.55268 10.1326 8.5 10 8.5H4c-0.13261 0 -0.25979 0.05268 -0.35355 0.14645C3.55268 8.74021 3.5 8.86739 3.5 9v4" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1v3c0 0.13261 -0.0527 0.25979 -0.1464 0.35355 -0.0938 0.09377 -0.221 0.14645 -0.3536 0.14645H6c-0.13261 0 -0.25979 -0.05268 -0.35355 -0.14645C5.55268 4.25979 5.5 4.13261 5.5 4V1" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13 12c0 0.2652 -0.1054 0.5196 -0.2929 0.7071S12.2652 13 12 13H2c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C1.10536 12.5196 1 12.2652 1 12V5.41c0.0011 -0.26234 0.10526 -0.51374 0.29 -0.7l3.42 -3.42c0.18626 -0.18474 0.43766 -0.2889 0.7 -0.29H12c0.2652 0 0.5196 0.10536 0.7071 0.29289C12.8946 1.48043 13 1.73478 13 2v10Z" stroke-width="1"></path>
+  </g>
+</svg>

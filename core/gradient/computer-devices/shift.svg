@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shift--Streamline-Core-Gradient">
+  <desc>
+    Shift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/shift--key-shift-up-arrow-keyboard">
+    <path id="Union" fill="url(#paint0_linear_14402_13133)" fill-rule="evenodd" d="M7.74338.323331c-.40095-.431108-1.08541-.431108-1.48637 0L1.27128 5.68398c-.606168.65175-.13315 1.69525.74318 1.69525h1.92001v5.61147c0 .561.45716 1.0093 1.01314 1.0093h4.10517c.55598 0 1.01312-.4483 1.01312-1.0093V7.37923h1.92c.8764 0 1.3494-1.0435.7432-1.69525L7.74338.323331Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13133" x1="14.042" x2="-3.727" y1="16.965" y2="6.143" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

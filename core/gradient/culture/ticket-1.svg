@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ticket-1--Streamline-Core-Gradient">
+  <desc>
+    Ticket 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/ticket-1--hobby-ticket-event-entertainment-stub-theater-entertainment-culture">
+    <path id="Union" fill="url(#paint0_linear_14402_16493)" fill-rule="evenodd" d="M9.09537.416535C8.59635-.0824845 7.75738-.172244 7.22496.360172L.36005 7.22508c-.532417.53242-.4426563 1.37139.056364 1.87041L1.53577 10.2149c.15751.1575.40021.1918.59521.0841.36891-.2036.91749-.1454 1.31639.2535.39891.3989.45716.9475.2535 1.3164-.10765.195-.07333.4377.08417.5952l1.11936 1.1194c.49902.499 1.33799.5888 1.87041.0563l6.86489-6.86487c.5324-.53241.4427-1.37139-.0563-1.8704l-1.1219-1.12191c-.1563-.15628-.3967-.19141-.5912-.08639-.3687.1991-.913.13884-1.3093-.25738-.3962-.39623-.4564-.94057-.2573-1.30928.105-.19449.0699-.43485-.0864-.59113L9.09537.416535Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16493" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

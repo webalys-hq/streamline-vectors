@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fastforward-Clock--Streamline-Core-Gradient">
+  <desc>
+    Fastforward Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/fastforward-clock--time-clock-reset-stopwatch-circle-measure-loading">
+    <path id="Union" fill="url(#paint0_linear_14402_7451)" fill-rule="evenodd" d="M7 1.49994c-3.03757 0-5.5 2.46243-5.5 5.5 0 3.03756 2.46243 5.49996 5.5 5.49996 2.59975 0 4.7799-1.8044 5.3528-4.23007.0953-.40312.4993-.65272.9024-.5575.4031.09523.6527.49921.5575.90233C13.0834 11.7019 10.311 13.9999 7 13.9999c-3.86599 0-7-3.134-7-6.99996C0 3.13395 3.13401-.0000610352 7-.0000610352c2.26341 0 4.275 1.0743910352 5.554 2.7389410352l.5925-.59248c.143-.143.358-.18578.5449-.10839.1868.07739.3086.25971.3086.46194v2.5c0 .27615-.2238.5-.5.5H11c-.2022 0-.3845-.12182-.4619-.30865-.0774-.18684-.0346-.4019.1084-.5449l.8353-.83537C10.484 2.41112 8.84792 1.49994 7 1.49994Zm.625 2c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v3.5c0 .34518.27982.625.625.625h2.5c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625H7.625v-2.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7451" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

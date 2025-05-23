@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Map-Fold--Streamline-Core-Neon">
+  <desc>
+    Map Fold Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="map-fold--navigation-map-maps-gps-travel-fold">
+    <path id="Vector 3831" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5 1v11" stroke-width="1"></path>
+    <path id="Vector 3832" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9 13V2" stroke-width="1"></path>
+    <path id="Vector 3830" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1 11.7192V2.78078c0 -0.45887 0.3123 -0.85885 0.75746 -0.97015L5 1l4 1 2.7575 -0.68937C12.3886 1.15285 13 1.6302 13 2.28078v8.93842c0 0.4589 -0.3123 0.8589 -0.7575 0.9702L9 13l-4 -1 -2.75746 0.6894C1.61139 12.8472 1 12.3698 1 11.7192Z" stroke-width="1"></path>
+  </g>
+</svg>

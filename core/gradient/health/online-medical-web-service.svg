@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Online-Medical-Web-Service--Streamline-Core-Gradient">
+  <desc>
+    Online Medical Web Service Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/online-medical-web-service">
+    <path id="Union" fill="url(#paint0_linear_14402_16167)" fill-rule="evenodd" d="M2 11.8269V3.51562h10v8.31128c0 .0956-.0775.1731-.1731.1731H2.17308C2.07749 12 2 11.9225 2 11.8269ZM.5 2.17308C.5 1.24906 1.24906.5 2.17308.5h9.65382c.924 0 1.6731.74906 1.6731 1.67308v9.65382c0 .924-.7491 1.6731-1.6731 1.6731H2.17308C1.24906 13.5.5 12.7509.5 11.8269V2.17308Zm5.37864 3.0041c0-.23592.19126-.42718.42719-.42718h1.38834c.23593 0 .42719.19126.42719.42718v1.45148h1.45145c.23593 0 .42719.19126.42719.42719V8.4442c0 .23593-.19126.42718-.42719.42718H8.12136v1.45142c0 .2359-.19126.4272-.42719.4272H6.30583c-.23593 0-.42719-.1913-.42719-.4272V8.87138H4.42718C4.19126 8.87138 4 8.68012 4 8.4442V7.05585c0-.23593.19126-.42719.42718-.42719h1.45146V5.17718Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16167" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

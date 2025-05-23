@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-One-Star--Streamline-Core-Gradient">
+  <desc>
+    Hotel One Star Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/hotel-one-star--one-star-reviews-review-rating-hotel-star">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10042)" fill-rule="evenodd" d="M5.74053 1.02594c.59108-.913494 1.92762-.913494 2.51871 0l1.79056 2.7672 2.5864.43107c1.1348.18913 1.643 1.53263.9176 2.42548l-1.9989 2.46022.8515 2.83859c.3546 1.1818-.7898 2.2624-1.9493 1.8407l-3.44873-1.254-3.10878 1.2435c-1.10599.4424-2.26157-.5188-2.02796-1.6869l.59181-2.95907L.445977 6.64969c-.725446-.89286-.217191-2.23635.917573-2.42548l2.58644-.43107 1.79054-2.7672Zm1.88435 4.04358c0-.34518-.27983-.625-.625-.625-.34518 0-.625.27982-.625.625 0 .25129-.20372.455-.455.455h-.36c-.34518 0-.625.27982-.625.625s.27982.625.625.625h.36c.15757 0 .31015-.02138.455-.06139l0 2.0514h-.815c-.34518 0-.625.27982-.625.625 0 .34517.27982.62497.625.62497h2.88c.34518 0 .625-.2798.625-.62497 0-.34518-.27982-.625-.625-.625h-.815l0-3.69501Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10042" x1="2.362" x2="13.403" y1="2.946" y2="9.17" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bluetooth--Streamline-Core-Gradient">
+  <desc>
+    Bluetooth Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/bluetooth--bluetooth-internet-server-network-wireless-connection">
+    <path id="Vector (Stroke)" fill="url(#paint0_linear_14402_12319)" fill-rule="evenodd" d="M6.25216.0940456c.29462-.1488706.64793-.1192744.91368.0765344l4.47596 3.29808c.233.17169.366.44749.3554.73673-.0107.28923-.1638.55447-.4088.7085L8.26958 7l3.31882 2.08612c.245.15403.3981.41927.4088.7085.0106.28928-.1224.56508-.3554.73678l-4.47596 3.298c-.26575.1958-.61906.2254-.91368.0766-.29461-.1489-.48037-.4509-.48037-.781V8.57004L3.34321 10.0966c-.40914.2572-.94929.134-1.20646-.27518-.25717-.40913-.13398-.94928.27516-1.20645L4.98116 7 2.41191 5.38504c-.40914-.25717-.53233-.79732-.27516-1.20645.25717-.40914.79732-.53233 1.20646-.27516l2.42858 1.52653V.875004c0-.33009.18576-.632088.48037-.7809584ZM7.52179 8.59697l2.04804 1.28734-2.04804 1.50909V8.59697Zm0-3.19393V2.60662L9.56983 4.1157 7.52179 5.40304Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12319" x1="3.636" x2="12.76" y1="2.692" y2="6.301" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

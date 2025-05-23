@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Binance-Circle--Streamline-Core-Gradient">
+  <desc>
+    Binance Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/binance-circle--crypto-circle-payment-blockchain-finance-binance-currency">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13914)" fill-rule="evenodd" d="M14 7c0 3.866-3.134 7-7 7-3.86599 0-7-3.134-7-7 0-3.86599 3.13401-7 7-7 3.866 0 7 3.13401 7 7ZM9.89043 3.96313l-2.5-2c-.22826-.18261-.5526-.18261-.78086 0l-2.5 2c-.26954.21563-.31324.60894-.09761.87848.21563.26954.60894.31324.87847.0976L7 3.25156l2.10957 1.68765c.26953.21564.66284.17194.87847-.0976.21566-.26954.17196-.66285-.09761-.87848Zm-5 5.09717c-.26953-.21563-.66284-.17193-.87847.09761-.21563.26953-.17193.66284.09761.87849l2.5 2c.22826.1826.5526.1826.78086 0l2.5-2c.26957-.21565.31327-.60896.09761-.87849-.21563-.26954-.60894-.31324-.87847-.09761L7 10.7479 4.89043 9.0603ZM7.75 7c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75.33579-.75.75-.75.75.33579.75.75Zm-3.95.75c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75c-.41421 0-.75.33579-.75.75s.33579.75.75.75ZM10.95 7c0 .41421-.3358.75-.75.75-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75c.4142 0 .75.33579.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13914" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

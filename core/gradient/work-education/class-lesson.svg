@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Class-Lesson--Streamline-Core-Gradient">
+  <desc>
+    Class Lesson Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Work Education/class-lesson--class-lesson-education-teacher">
+    <path id="Union" fill="url(#paint0_linear_14402_15420)" fill-rule="evenodd" d="M12 9.5H7.64964L7.8163 8h1.05868C10.1867 8 11.25 6.93668 11.25 5.625S10.1867 3.25 8.87498 3.25H6.90546c.0617-.23971.09452-.49103.09452-.75 0-.76835-.28886-1.46924-.7639-2H12c.8284 0 1.5.67157 1.5 1.5v6c0 .82843-.6716 1.5-1.5 1.5ZM4 4.25c.9665 0 1.75-.7835 1.75-1.75S4.9665.75 4 .75s-1.75.7835-1.75 1.75S3.0335 4.25 4 4.25Zm0 .25C2.067 4.5.5 6.067.5 8v1.75c0 .2761.223858.5.5.5h1.07104l.43477 2.826c.03753.2439.2474.424.49419.424h2.5c.25477 0 .46881-.1916.49694-.4448L6.69752 6.75H8.875C9.49632 6.75 10 6.24632 10 5.625S9.49632 4.5 8.875 4.5H4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15420" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Triangle-Arrow-Transfer-Diagonal-3--Streamline-Core-Gradient">
+  <desc>
+    Triangle Arrow Transfer Diagonal 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/triangle-arrow-transfer-diagonal-3--arrows-arrow-server-data-diagonal-internet-transfer-network">
+    <path id="Union" fill="url(#paint0_linear_14402_9221)" fill-rule="evenodd" d="M4.75 0c-.30335 0-.57682.182732-.69291.462987-.11609.280256-.05192.602843.16258.817343l1.11612 1.11612L.866117 6.86612c-.488156.48815-.488156 1.27961 0 1.76776.488153.48816 1.279613.48816 1.767763 0l4.46967-4.46967 1.11612 1.11612c.2145.2145.53709.27867.81734.16258C9.31727 5.32682 9.5 5.05335 9.5 4.75v-4C9.5.335786 9.16421 0 8.75 0h-4Zm8.3839 7.13388c.4881-.48815.4881-1.27961 0-1.76776-.4882-.48816-1.2796-.48816-1.7678 0L6.89645 9.83579 5.78033 8.71967c-.2145-.2145-.53709-.27867-.81734-.16258C4.68273 8.67318 4.5 8.94665 4.5 9.25v4c0 .4142.33579.75.75.75h4c.30335 0 .57682-.1827.69291-.463.11609-.2802.05192-.6028-.16258-.8173l-1.11612-1.1161 4.46969-4.46972Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9221" x1="2.625" x2="13.476" y1="2.692" y2="8.275" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

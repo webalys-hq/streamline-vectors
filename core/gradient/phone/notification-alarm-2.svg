@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Alarm-2--Streamline-Core-Gradient">
+  <desc>
+    Notification Alarm 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Phone/notification-alarm-2--android-phone-mobile-device-smartphone-iphone-alert-bell-alarm">
+    <path id="Union" fill="url(#paint0_linear_14402_15842)" fill-rule="evenodd" d="M8.83325 2.58333C8.83325 1.1566 9.98985 0 11.4166 0c1.4267 0 2.5833 1.1566 2.5833 2.58333 0 1.42674-1.1566 2.58334-2.5833 2.58334-1.42675 0-2.58335-1.1566-2.58335-2.58334Zm-1.25 0c0-.27025.02797-.53398.08117-.78844C7.13799 1.6015 6.57387 1.5 5.99999 1.5c-1.20196 0-2.36105.44522-3.22079 1.24747-.8609.80333-1.35167 1.90059-1.35167 3.05266v3.77482c0 .23373-.09919.46555-.28842.64205C.920308 10.4212.747931 10.5.5 10.5c-.276142 0-.5.2239-.5.5s.223858.5.5.5h11c.2761 0 .5-.2239.5-.5s-.2239-.5-.5-.5c-.2479 0-.4203-.0788-.6391-.283-.1893-.1765-.2885-.40832-.2885-.64205V6.32342c-1.71093-.38451-2.98915-1.91303-2.98915-3.74009ZM4.24991 13.25c0-.4142.33578-.75.75-.75h2c.41421 0 .75.3358.75.75s-.33579.75-.75.75h-2c-.41422 0-.75-.3358-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15842" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

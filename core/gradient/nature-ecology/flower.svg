@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flower--Streamline-Core-Gradient">
+  <desc>
+    Flower Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/flower--nature-plant-tree-flower-petals-bloom">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10985)" fill-rule="evenodd" d="M6.99999 12.1961c.5407.7874 1.44748 1.3039 2.47488 1.3039 1.65683 0 3.00003-1.3431 3.00003-3 0-.68607-.2303-1.31836-.6178-1.82376C12.832 8.18089 13.5 7.16845 13.5 6c0-1.65685-1.3431-3-3-3-.1822 0-.3607.01625-.53392.04737C9.74785 1.60528 8.503.5 7 .5S4.25216 1.60528 4.03392 3.04737C3.86066 3.01625 3.68222 3 3.5 3c-1.65685 0-3 1.34315-3 3 0 1.16845.668 2.18088 1.64294 2.67624-.38751.5054-.61782 1.13768-.61782 1.82376 0 1.6569 1.34315 3 3 3 1.0274 0 1.93418-.5165 2.47487-1.3039ZM7 9c1.10457 0 2-.89543 2-2s-.89543-2-2-2-2 .89543-2 2 .89543 2 2 2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10985" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

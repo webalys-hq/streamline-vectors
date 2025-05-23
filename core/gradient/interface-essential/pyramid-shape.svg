@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pyramid-Shape--Streamline-Core-Gradient">
+  <desc>
+    Pyramid Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pyramid-shape">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8347)" fill-rule="evenodd" d="M6.37495.534427c-.25614.116428-.48482.308376-.65039.575843L.669597 9.27598c-.474125.76592-.17105 1.77402.646813 2.15152l5.05496 2.333c.00119.0006.00239.0011.00358.0017V.534427Zm1.25 13.227773c.0012-.0006.0024-.0011.0036-.0017l5.05495-2.3331c.8179-.3774 1.1209-1.3855.6468-2.15142L8.27536 1.11027C8.10978.842801 7.8811.650852 7.62495.534424V13.7622Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8347" x1="14.692" x2="-3.098" y1="16.564" y2="4.039" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

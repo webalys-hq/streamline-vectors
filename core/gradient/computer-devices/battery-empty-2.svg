@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Empty-2--Streamline-Core-Gradient">
+  <desc>
+    Battery Empty 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery">
+    <path id="Union" fill="url(#paint0_linear_14402_12284)" fill-rule="evenodd" d="M.21967 1.28033c-.2928931-.292893-.2928931-.767767 0-1.06066.292893-.2928933.767767-.2928933 1.06066 0L3.06066 2H10.5c.3978 0 .7794.15804 1.0607.43934S12 3.10217 12 3.5v.75h1c.2652 0 .5196.10536.7071.29289.1875.18754.2929.44189.2929.70711v3.5c0 .26521-.1054.51957-.2929.70711-.1875.18753-.4419.29289-.7071.29289h-1v.75c0 .1322-.0175.2627-.0511.3882l1.8314 1.8315c.2929.2929.2929.7677 0 1.0606-.2929.2929-.7677.2929-1.0606 0L.21967 1.28033ZM0 3.5c0-.19614.0384137-.38831.111075-.56647L9.17754 12H1.5c-.39783 0-.779356-.158-1.06066-.4393C.158035 11.2794 0 10.8978 0 10.5v-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12284" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

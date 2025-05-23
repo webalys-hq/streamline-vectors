@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dice-1--Streamline-Core">
+  <desc>
+    Dice 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dice-1">
+    <path id="Rectangle 569" fill="#fddc5c" d="M3 1h8s2 0 2 2v8s0 2 -2 2H3s-2 0 -2 -2V3s0 -2 2 -2" stroke-width="1"></path>
+    <path id="Union" fill="#0c098c" fill-rule="evenodd" d="M3 0.375C1.55025 0.375 0.375 1.55025 0.375 3v8c0 1.4497 1.17525 2.625 2.625 2.625h8c1.4497 0 2.625 -1.1753 2.625 -2.625V3c0 -1.44975 -1.1753 -2.625 -2.625 -2.625H3ZM1.625 3c0 -0.75939 0.61561 -1.375 1.375 -1.375h8c0.7594 0 1.375 0.61561 1.375 1.375v8c0 0.7594 -0.6156 1.375 -1.375 1.375H3c-0.75939 0 -1.375 -0.6156 -1.375 -1.375V3ZM8.25 7c0 -0.69036 -0.55964 -1.25 -1.25 -1.25S5.75 6.30964 5.75 7 6.30964 8.25 7 8.25 8.25 7.69036 8.25 7Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

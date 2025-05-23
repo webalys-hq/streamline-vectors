@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Potted-Flower-Tulip--Streamline-Core-Gradient">
+  <desc>
+    Potted Flower Tulip Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/potted-flower-tulip--nature-flower-plant-tree-pot">
+    <path id="Union" fill="url(#paint0_linear_14402_11019)" fill-rule="evenodd" d="M3.24904.067545c.15415-.089461.34428-.090096.49903-.0016666L7 1.92412 10.2519.0658784c.1548-.0884294.3449-.0877944.4991.0016666C10.9051.157006 11 .321765 11 .5V4c0 1.95279-1.39935 3.57875-3.25 3.9298v3.3693C8.21313 10.2401 9.27014 9.5 10.5 9.5h2c.2761 0 .5.22386.5.5v1c0 1.6569-1.3431 3-3 3H4c-1.65685 0-3-1.3431-3-3v-1c0-.27614.22386-.5.5-.5h2c1.22986 0 2.28687.7401 2.75 1.7991V7.9298C4.39935 7.57875 3 5.95279 3 4V.5c0-.178235.09488-.342994.24904-.432455Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11019" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

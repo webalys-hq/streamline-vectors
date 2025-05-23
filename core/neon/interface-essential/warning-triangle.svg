@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warning-Triangle--Streamline-Core-Neon">
+  <desc>
+    Warning Triangle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warning-triangle--frame-alert-warning-triangle-exclamation-caution">
+    <path id="Vector 3926" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.13622 1.98076 0.877258 10.9961C0.488375 11.6628 0.969246 12.5 1.74104 12.5H12.259c0.7718 0 1.2526 -0.8372 0.8637 -1.5039L7.86378 1.98076c-0.38588 -0.6615 -1.34168 -0.6615 -1.72756 0Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 5v3.25" stroke-width="1"></path>
+    <g id="Group 2605">
+      <path id="Ellipse 1111" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 10.5c-0.13807 0 -0.25 -0.1119 -0.25 -0.25S6.86193 10 7 10" stroke-width="1"></path>
+      <path id="Ellipse 1112" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 10.5c0.13807 0 0.25 -0.1119 0.25 -0.25S7.13807 10 7 10" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

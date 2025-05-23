@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Polaroid-Four--Streamline-Core-Gradient">
+  <desc>
+    Polaroid Four Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/polaroid-four--photos-camera-polaroid-picture-photography-pictures-four-photo-image">
+    <path id="Union" fill="url(#paint0_linear_14402_12213)" fill-rule="evenodd" d="M1.5.5c-.552285 0-1 .447715-1 1v4c0 .55228.447715 1 1 1h4c.55228 0 1-.44772 1-1v-4c0-.552285-.44772-1-1-1h-4Zm0 .95974h4v3.00041h-4V1.45974ZM8.5.5c-.55228 0-1 .447715-1 1v4c0 .55228.44772 1 1 1h4c.5523 0 1-.44772 1-1v-4c0-.552285-.4477-1-1-1h-4Zm0 .95974h4v3.00041h-4V1.45974ZM.5 8.5c0-.55228.447715-1 1-1h4c.55228 0 1 .44772 1 1v4c0 .5523-.44772 1-1 1h-4c-.552285 0-1-.4477-1-1v-4Zm5-.04026h-4v3.00046h4V8.45974ZM8.5 7.5c-.55228 0-1 .44772-1 1v4c0 .5523.44772 1 1 1h4c.5523 0 1-.4477 1-1v-4c0-.55228-.4477-1-1-1h-4Zm0 .95974h4v3.00046h-4V8.45974Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12213" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

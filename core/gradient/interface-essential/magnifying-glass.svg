@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Magnifying-Glass--Streamline-Core-Gradient">
+  <desc>
+    Magnifying Glass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/magnifying-glass--glass-search-magnifying">
+    <path id="Union" fill="url(#paint0_linear_14402_7999)" fill-rule="evenodd" d="M2 5.99994c0-2.20914 1.79086-4 4-4s4 1.79086 4 4-1.79086 4-4 4-4-1.79086-4-4ZM6-.0000610352C2.68629-.0000610352 0 2.68623 0 5.99994c0 3.31371 2.68629 5.99996 6 5.99996 1.29578 0 2.49562-.4107 3.47642-1.1091l2.81648 2.8164c.3905.3906 1.0237.3906 1.4142 0 .3905-.3905.3905-1.0236 0-1.4142l-2.8164-2.81641C11.5892 8.49575 12 7.29582 12 5.99994 12 2.68623 9.31371-.0000610352 6-.0000610352Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7999" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

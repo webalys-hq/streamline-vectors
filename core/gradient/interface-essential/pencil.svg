@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pencil--Streamline-Core-Gradient">
+  <desc>
+    Pencil Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pencil--change-edit-modify-pencil-write-writing">
+    <path id="Union" fill="url(#paint0_linear_14402_8259)" fill-rule="evenodd" d="M10.9748.439279c-.5858-.585788-1.53553-.585786-2.12131 0L1.14645 8.14639c-.0698.0698-.11737.1587-.13673.25549L.00971776 13.4019c-.03278596.1639.01852524.3334.13673724.4516.118211.1182.287681.1695.451611.1367l5.000004-1c.09679-.0193.18569-.0669.25549-.1367l7.70704-7.70711c.5858-.58579.5858-1.53554 0-2.12132L10.9748.439279Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8259" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

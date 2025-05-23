@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Shower-Head--Streamline-Core-Gradient">
+  <desc>
+    Hotel Shower Head Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/hotel-shower-head--bathe-bath-bathroom-shower-water-head-hotel">
+    <path id="Union" fill="url(#paint0_linear_14402_10024)" fill-rule="evenodd" d="M7 0c.41421 0 .75.335786.75.75v.80588C10.1556 1.91774 12 3.99348 12 6.5c0 .27614-.2239.5-.5.5h-9c-.27614 0-.5-.22386-.5-.5 0-2.50652 1.84437-4.58226 4.25-4.94412V.75C6.25.335786 6.58579 0 7 0ZM5 8c.41421 0 .75.33579.75.75v1c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-1c0-.41421.33579-.75.75-.75Zm-2 3.5c.41421 0 .75.3358.75.75v1c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-1c0-.4142.33579-.75.75-.75Zm4 0c.41421 0 .75.3358.75.75v1c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-1c0-.4142.33579-.75.75-.75Zm4.75.75c0-.4142-.3358-.75-.75-.75s-.75.3358-.75.75v1c0 .4142.3358.75.75.75s.75-.3358.75-.75v-1Zm-2-3.5C9.75 8.33579 9.41421 8 9 8s-.75.33579-.75.75v1c0 .4142.33579.75.75.75s.75-.3358.75-.75v-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10024" x1="2.384" x2="15.308" y1="1.131" y2="6.334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

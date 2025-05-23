@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Yin-Yang-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Yin Yang Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/yin-yang-symbol--religion-tao-yin-yang-taoism-culture-symbol">
+    <path id="Union" fill="url(#paint0_linear_14402_16553)" fill-rule="evenodd" d="M10.25 3.75c0-.50296-.1143-.97925-.31822-1.4043-.10608-.06697-.21462-.1304-.32543-.19014C8.83065 1.73734 7.94304 1.5 7 1.5 3.96243 1.5 1.5 3.96243 1.5 7c0 1.9598 1.02503 3.6802 2.56822 4.6543C3.86425 11.2292 3.75 10.753 3.75 10.25 3.75 8.45507 5.20507 7 7 7s3.25-1.45507 3.25-3.25ZM7 0C3.13401 0 0 3.13401 0 7c0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7 0-3.86599-3.134-7-7-7Zm0 9c-.69036 0-1.25.55964-1.25 1.25 0 .6904.55964 1.25 1.25 1.25s1.25-.5596 1.25-1.25C8.25 9.55964 7.69036 9 7 9ZM5.75 3.75c0-.69036.55964-1.25 1.25-1.25s1.25.55964 1.25 1.25S7.69036 5 7 5s-1.25-.55964-1.25-1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16553" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

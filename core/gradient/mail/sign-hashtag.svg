@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sign-Hashtag--Streamline-Core-Gradient">
+  <desc>
+    Sign Hashtag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/sign-hashtag--mail-sharp-sign-hashtag-tag">
+    <path id="Union" fill="url(#paint0_linear_14402_11328)" fill-rule="evenodd" d="M10.6285.511092c.4081.070972.6814.459327.6104.867418L10.783 4h1.967c.4142 0 .75.33579.75.75 0 .41422-.3358.75-.75.75h-2.2279l-.5217 3H12.25c.4142 0 .75.33579.75.75s-.3358.75-.75.75H9.73952l-.50061 2.8785c-.07097.4081-.45933.6814-.86742.6104-.40808-.071-.68137-.4593-.6104-.8674L8.217 10H4.73952l-.50061 2.8785c-.07097.4081-.45933.6814-.86742.6104-.40808-.071-.68137-.4593-.6104-.8674L3.217 10H1.25C.835786 10 .5 9.66421.5 9.25s.335786-.75.75-.75h2.22787l.52174-3H1.75c-.41421 0-.75-.33578-.75-.75 0-.41421.33579-.75.75-.75h2.51048l.50061-2.8785c.07097-.408093.45933-.681379.86742-.610408.40808.070972.68137.459327.6104.867418L5.783 4h3.47748l.50061-2.8785c.07097-.408093.45931-.681379.86741-.610408ZM5.52213 5.5l-.52174 3h3.47748l.52174-3H5.52213Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11328" x1="1" x2="15.816" y1="1.55" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Payment-Cash-Out-3--Streamline-Core-Gradient">
+  <desc>
+    Payment Cash Out 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/payment-cash-out-3">
+    <path id="Union" fill="url(#paint0_linear_14402_14127)" fill-rule="evenodd" d="M7.625 12.875c0 .3452-.27982.625-.625.625s-.625-.2798-.625-.625v-1.75c0-.3452.27982-.625.625-.625s.625.2798.625.625v1.75Zm2.5-1c0 .3452-.27982.625-.625.625s-.625-.2798-.625-.625v-1.75c0-.34518.27982-.625.625-.625s.625.27982.625.625v1.75ZM4.5 12.5c.34518 0 .625-.2798.625-.625v-1.75c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v1.75c0 .3452.27982.625.625.625Zm-4-5C.5 8.32843 1.17157 9 2 9h10c.8284 0 1.5-.67157 1.5-1.5V2c0-.82843-.6716-1.5-1.5-1.5H2C1.17157.5.5 1.17157.5 2v5.5ZM5 4.75c0 1.10457.89543 2 2 2s2-.89543 2-2-.89543-2-2-2-2 .89543-2 2Zm-2.2251.75h.00005c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75H2.7749c-.41421 0-.75.33579-.75.75s.33579.75.75.75Zm8.4502 0c.4143 0 .75-.33579.75-.75s-.3357-.75-.75-.75c-.4142 0-.75.33579-.75.75s.3358.75.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14127" x1="13.456" x2="-1.939" y1=".497" y2="9.157" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

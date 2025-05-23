@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Waning-Cresent-Moon--Streamline-Core-Gradient">
+  <desc>
+    Waning Cresent Moon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/waning-cresent-moon--night-new-moon-crescent-weather-time-waning">
+    <path id="Union" fill="url(#paint0_linear_14402_8683)" fill-rule="evenodd" d="M9-.0000610352c-1.85652 0-3.63699.7374980352-4.94975 2.0502510352C2.7375 3.36295 2 5.14342 2 6.99994c0 1.85651.7375 3.63696 2.05025 4.94976C5.36301 13.2624 7.14348 13.9999 9 13.9999l.00352 0c.91229-.0064 1.81478-.1891 2.65768-.538.1755-.0726.2947-.2384.3076-.428.013-.1895-.0826-.3699-.2467-.4657-.9745-.5691-1.78404-1.3821-2.34901-2.359-.56454-.9761-.86541-2.0823-.87308-3.20988.00481-1.12489.30147-2.2293.86099-3.20521.55995-.97665 1.364-1.79113 2.3333-2.36366.1631-.09637.2578-.2767.2445-.465728-.0134-.189028-.1325-.354266-.3075-.426755C10.7984.19313 9.90726.0105276 9.00585-.0000267625l0-.0000342727H9Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8683" x1="11.936" x2="-1.457" y1="14.003" y2="8.637" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

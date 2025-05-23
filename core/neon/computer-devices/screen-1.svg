@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-1--Streamline-Core-Neon">
+  <desc>
+    Screen 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screen-1--screen-device-electronics-monitor-diplay-computer">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m6 10 -1 2.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m8 10 1 2.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 12.5h6" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13 1.5H1c-0.276142 0 -0.5 0.22386 -0.5 0.5v7.5c0 0.27614 0.223858 0.5 0.5 0.5h12c0.2761 0 0.5 -0.22386 0.5 -0.5V2c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

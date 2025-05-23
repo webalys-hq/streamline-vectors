@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Check--Streamline-Core-Gradient">
+  <desc>
+    Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/check--check-form-validation-checkmark-success-add-addition-tick">
+    <path id="Vector 3969 (Stroke)" fill="url(#paint0_linear_14402_9412)" fill-rule="evenodd" d="M13.6333 1.33716c.4274.34972.4904.97975.1407 1.40719L5.92852 12.3332c-.71588.875-2.01412.9832-2.86492.2387L.341509 10.1901c-.4156366-.3637-.457754-.99547-.094072-1.4111.363682-.41564.995443-.45776 1.411083-.09407l2.72209 2.38187 7.84549-9.58892c.3497-.42745.9797-.490451 1.4072-.14072Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9412" x1="2.288" x2="12.689" y1="3.41" y2="10.158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

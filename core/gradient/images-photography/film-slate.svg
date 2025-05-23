@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Film-Slate--Streamline-Core-Gradient">
+  <desc>
+    Film Slate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/film-slate--pictures-photo-film-slate">
+    <path id="Union" fill="url(#paint0_linear_14402_12163)" fill-rule="evenodd" d="M12.5932 3.64515 8.67595 4.69476 9.44302.959973c.00441-.021443.00737-.042847.00895-.064111l1.28573-.3445c.8002-.214413 1.6227.26046 1.8371 1.060658l.0007.00278 0 .00001.3719 1.42075c.0697.26606-.0886.53841-.3542.60959ZM5.79687 1.87524l2.57924-.6911-.78049 3.8001-2.51832.67478.7106-3.67343c.00718-.03712.01005-.07407.00897-.11035Zm-1.06117.28434-3.12356.83696C.812452 3.21081.337675 4.03241.551075 4.83213l.371598 1.4195.077447.29585V12c0 .8284.67157 1.5 1.5 1.5h9.49998c.8284 0 1.5-.6716 1.5-1.5V6.99474c0-.27614-.2238-.5-.5-.5H1.95833l2.04476-.54789.73261-3.78727ZM3.55174 10.8173c0-.3452.27982-.625.625-.625h1.27923c.34518 0 .625.2798.625.625s-.27982.625-.625.625H4.17674c-.34518 0-.625-.2798-.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12163" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

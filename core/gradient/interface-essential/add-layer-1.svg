@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Layer-1--Streamline-Core-Gradient">
+  <desc>
+    Add Layer 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/add-layer-1--layer-add-design-plus-layers-square-box">
+    <path id="Union" fill="url(#paint0_linear_14402_8992)" fill-rule="evenodd" d="M2 .5C1.17157.5.5 1.17157.5 2v7.5c0 .8284.67157 1.5 1.5 1.5h7.5c.8284 0 1.5-.6716 1.5-1.5V2c0-.82843-.6716-1.5-1.5-1.5H2Zm4.375 2.75c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v1.875H3.25c-.34518 0-.625.27982-.625.625s.27982.625.625.625h1.875V8.25c0 .34518.27982.625.625.625s.625-.27982.625-.625V6.375H8.25c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625H6.375V3.25Zm7.125 1.5c0-.41421-.3358-.75-.75-.75s-.75.33579-.75.75v7c0 .1381-.1119.25-.25.25h-7c-.41421 0-.75.3358-.75.75s.33579.75.75.75h7c.9665 0 1.75-.7835 1.75-1.75v-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8992" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Check--Streamline-Core-Gradient">
+  <desc>
+    Browser Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/browser-check--checkmark-pass-window-app-code-success-check-apps">
+    <path id="Union" fill="url(#paint0_linear_14402_11532)" fill-rule="evenodd" d="M2 11.8269V3.51562h10v8.31128c0 .0956-.0775.1731-.1731.1731H2.17308C2.07749 12 2 11.9225 2 11.8269ZM.5 2.17308C.5 1.24906 1.24906.5 2.17308.5h9.65382c.924 0 1.6731.74906 1.6731 1.67308v9.65382c0 .924-.7491 1.6731-1.6731 1.6731H2.17308C1.24906 13.5.5 12.7509.5 11.8269V2.17308Zm9.8145 4.0708c.2727-.31173.2411-.78555-.0706-1.05831-.31172-.27276-.78554-.24118-1.0583.07055L6.14361 8.73268 4.70003 7.65c-.33137-.24853-.80147-.18137-1.05.15-.24853.33137-.18137.80147.15 1.05l2 1.5c.31386.2354.75609.1891 1.01443-.1061l3.50004-4.00002Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11532" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

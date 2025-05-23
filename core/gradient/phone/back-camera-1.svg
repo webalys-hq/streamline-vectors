@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Back-Camera-1--Streamline-Core-Gradient">
+  <desc>
+    Back Camera 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Phone/back-camera-1--android-phone-mobile-device-smartphone-iphone-camera-lenses">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15798)" fill-rule="evenodd" d="M2 1.5C2 .671573 2.67157 0 3.5 0h7c.8284 0 1.5.671573 1.5 1.5v11c0 .8284-.6716 1.5-1.5 1.5h-7c-.82843 0-1.5-.6716-1.5-1.5v-11Zm6 1.75c0-.55228-.44772-1-1-1s-1 .44772-1 1 .44772 1 1 1 1-.44772 1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15798" x1="2.384" x2="15.308" y1="1.131" y2="6.334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

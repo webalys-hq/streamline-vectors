@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Circle-Single--Streamline-Core-Gradient">
+  <desc>
+    User Circle Single Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/user-circle-single--circle-geometric-human-person-single-user">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8781)" fill-rule="evenodd" d="M7 13.9999c3.866 0 7-3.134 7-6.99996 0-3.86599-3.134-7.0000010352-7-7.0000010352-3.86599 0-7 3.1340110352-7 7.0000010352 0 3.86596 3.13401 6.99996 7 6.99996Zm2.49993-8.99996c0 1.38071-1.11929 2.5-2.5 2.5s-2.5-1.11929-2.5-2.5 1.11929-2.5 2.5-2.5 2.5 1.11929 2.5 2.5Zm-2.5 4c1.58834 0 3.01947.67329 4.02347 1.75006-1.004 1.0767-2.43511 1.7499-4.02342 1.7499-1.58834 0-3.01942-.6732-4.02342-1.75 1.004-1.07669 2.43506-1.74996 4.02337-1.74996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8781" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

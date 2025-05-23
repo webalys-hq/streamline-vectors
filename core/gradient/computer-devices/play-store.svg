@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Play-Store--Streamline-Core-Gradient">
+  <desc>
+    Play Store Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/play-store">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12839)" fill-rule="evenodd" d="M.5 1.43998c0-.02434.000949-.04839.002811-.07211L6.11741 6.99952.502767 12.6312C.500934 12.6077.5 12.5838.5 12.5597V1.43998ZM1.75493 13.4998c.10042-.0192.2005-.0528.29748-.1022l6.92523-3.52916-1.80117-1.80665-5.42154 5.43801Zm6.48059-6.50028 2.14668 2.15316 2.5803-1.31496c.7167-.3652.7167-1.31059 0-1.67578l-2.5807-1.31518-2.14628 2.15276Zm.74172-2.86851L2.05241.602086C1.95567.552787 1.85585.519247 1.75568.5l5.42079 5.43725 1.80077-1.80624Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12839" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

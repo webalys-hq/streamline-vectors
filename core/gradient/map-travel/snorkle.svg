@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Snorkle--Streamline-Core-Gradient">
+  <desc>
+    Snorkle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/snorkle--diving-scuba-outdoor-recreation-ocean-mask-water-sea-snorkle-travel-places">
+    <path id="Union" fill="url(#paint0_linear_14402_10355)" fill-rule="evenodd" d="M13.5 1.25c0-.414214-.3358-.75-.75-.75s-.75.335786-.75.75v8.5C12 10.9926 10.9926 12 9.75 12h-1.5c-.9665 0-1.75-.7835-1.75-1.75 0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75c0 1.7949 1.45507 3.25 3.25 3.25h1.5c2.0711 0 3.75-1.6789 3.75-3.75v-8.5Zm-13 4V7.5c0 1.10457.89543 2 2 2h.75c.31476 0 .61115-.14819.8-.4l.9-1.2c.18885-.25181.48524-.4.8-.4.31476 0 .61115.14819.8.4l.9 1.2c.18885.25181.48524.4.8.4H9c1.1046 0 2-.89543 2-2V5.25c0-1.10457-.8954-2-2-2H2.5c-1.10457 0-2 .89543-2 2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10355" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

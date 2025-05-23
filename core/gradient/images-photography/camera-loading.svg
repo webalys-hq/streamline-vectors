@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Loading--Streamline-Core-Gradient">
+  <desc>
+    Camera Loading Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/camera-loading--photos-picture-camera-photography-photo-pictures-loading-option-setting">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12019)" fill-rule="evenodd" d="M4.32125 1.24275C4.41162 1.09215 4.57437 1 4.75 1h4.5c.17563 0 .33838.09215.42875.24275L11.0331 3.5H12.5c.3978 0 .7794.15804 1.0607.43934S14 4.60217 14 5v6.5c0 .3978-.158.7794-.4393 1.0607S12.8978 13 12.5 13h-11c-.39783 0-.779356-.158-1.06066-.4393C.158035 12.2794 0 11.8978 0 11.5V5c0-.39782.158035-.77936.43934-1.06066C.720644 3.65804 1.10217 3.5 1.5 3.5h1.4669l1.35435-2.25725Zm2.67887 7.2885c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75c-.41421 0-.75.33579-.75.75s.33579.75.75.75Zm-2.05188-.75c0 .41421-.33578.75-.75.75-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75c.41422 0 .75.33579.75.75Zm4.85376.75c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75c-.41421 0-.75.33579-.75.75s.33579.75.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12019" x1="15.213" x2="-1.631" y1="15.542" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

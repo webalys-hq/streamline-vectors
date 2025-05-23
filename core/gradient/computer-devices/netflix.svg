@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Netflix--Streamline-Core-Gradient">
+  <desc>
+    Netflix Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/netflix">
+    <path id="Union" fill="url(#paint0_linear_14402_12921)" fill-rule="evenodd" d="M1.78076 13.4462V3.39745l3.69633 8.14015v.9265c0 .2102-.13142.3979-.32888.4698l-2.69633.9821c-.1533.0558-.3242.0333-.45786-.0602-.13366-.0936-.21326-.2465-.21326-.4096ZM12.2193.500764V10.9964L8.52295 3.3259V.500764c0-.276142.22386-.500001061.5-.500001061h2.69635c.1326 0 .2598.052679461.3535.146448061.0938.093768.1465.220945.1465.353553ZM2.03076.25086h3.31277L11.9691 14l-4.141-.9821L2.03076.25086Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12921" x1="3.487" x2="12.9" y1="2.693" y2="6.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

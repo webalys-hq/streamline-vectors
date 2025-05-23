@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bill-1--Streamline-Core-Gradient">
+  <desc>
+    Bill 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bill-1--billing-bills-payment-finance-cash-currency-money-accounting">
+    <path id="Union" fill="url(#paint0_linear_14402_13887)" fill-rule="evenodd" d="M2 .5C1.17157.5.5 1.17157.5 2v5.25c0 .82843.67157 1.5 1.5 1.5h10c.8284 0 1.5-.67157 1.5-1.5V2c0-.82843-.6716-1.5-1.5-1.5H2Zm5 2.375c-.9665 0-1.75.7835-1.75 1.75s.7835 1.75 1.75 1.75 1.75-.7835 1.75-1.75-.7835-1.75-1.75-1.75Zm-4.22505 1H2.7749c-.41421 0-.75.33579-.75.75s.33579.75.75.75h.00005c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75Zm8.45015 0c-.4142 0-.75.33579-.75.75s.3358.75.75.75c.4143 0 .75-.33579.75-.75s-.3357-.75-.75-.75ZM1.875 12.75c0-.4142.33579-.75.75-.75h8.75c.4142 0 .75.3358.75.75s-.3358.75-.75.75h-8.75c-.41421 0-.75-.3358-.75-.75ZM1.75 9.625c-.41421 0-.75.33579-.75.75 0 .4142.33579.75.75.75h10.5c.4142 0 .75-.3358.75-.75 0-.41421-.3358-.75-.75-.75H1.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13887" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

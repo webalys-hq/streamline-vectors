@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wallet--Streamline-Core-Gradient">
+  <desc>
+    Wallet Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/wallet--money-payment-finance-wallet">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14519)" fill-rule="evenodd" d="M3.5 1C1.567 1 0 2.567 0 4.5v7c0 .3978.158035.7794.43934 1.0607C.720644 12.842 1.10217 13 1.5 13H11c.3978 0 .7794-.158 1.0607-.4393S12.5 11.8978 12.5 11.5V11H10c-.9665 0-1.75-.7835-1.75-1.75v-1.5C8.25 6.7835 9.0335 6 10 6h2.5v-.5c0-.39783-.158-.77936-.4393-1.06066C11.7794 4.15804 11.3978 4 11 4H4c-.34518 0-.625-.27982-.625-.625S3.65482 2.75 4 2.75h6.5V1.5c0-.27614-.2239-.5-.5-.5H3.5ZM10 7.25h3.5c.2761 0 .5.22386.5.5v1.5c0 .27614-.2239.5-.5.5H10c-.27614 0-.5-.22386-.5-.5v-1.5c0-.27614.22386-.5.5-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14519" x1="2.288" x2="12.712" y1="3.308" y2="10.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

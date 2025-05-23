@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ethereum-Circle--Streamline-Core-Gradient">
+  <desc>
+    Ethereum Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/ethereum-circle--crypto-circle-payment-blockchain-finance-eth-currency">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14252)" fill-rule="evenodd" d="M14 7c0 3.866-3.134 7-7 7-3.86599 0-7-3.134-7-7 0-3.86599 3.13401-7 7-7 3.866 0 7 3.13401 7 7ZM7 2.75c.07419 0 .14456.03296.19206.08995l2.49999 3c.04301.05161.06343.11834.05668.18517-.00674.06683-.0401.12814-.09256.1701l-2.5 2c-.0913.07304-.22104.07304-.31234 0l-2.5-2c-.05246-.04196-.08581-.10327-.09256-.1701-.00675-.06683.01367-.13356.05667-.18517l2.5-3C6.85544 2.78296 6.92581 2.75 7 2.75ZM4.89043 8.51196c-.26953-.21563-.66284-.17193-.87847.09761-.21563.26953-.17193.66284.09761.87847l2.5 1.99996c.22826.1827.5526.1827.78086 0l2.5-1.99996c.26957-.21563.31327-.60894.09761-.87847-.21563-.26954-.60894-.31324-.87847-.09761L7 10.1996 4.89043 8.51196Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14252" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

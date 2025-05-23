@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Single-Neutral-Male--Streamline-Core-Gradient">
+  <desc>
+    User Single Neutral Male Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/user-single-neutral-male--close-geometric-human-person-single-user-male">
+    <path id="Union" fill="url(#paint0_linear_14402_8889)" fill-rule="evenodd" d="M7 7.49994c-1.933 0-3.5-1.567-3.5-3.5v-2c0-.13261.05268-.25979.14645-.35355.25468-.24534.56531-.43635.87994-.59366C5.08754.772153 5.91362.499939 7 .499939s1.91246.272214 2.47361.552791c.31663.15831.62099.35084.87999.59366.0937.09376.1464.22094.1464.35355v2c0 1.933-1.567 3.5-3.5 3.5ZM.536568 12.8075C1.59107 10.2788 4.08715 8.49994 6.99989 8.49994c2.91273 0 5.40881 1.77886 6.46331 4.30756.0644.1543.0473.3306-.0454.4697-.0927.1392-.2489.2227-.4161.2227H.998049c-.167203 0-.32334-.0835-.416067-.2227-.092727-.1391-.109769-.3154-.045414-.4697Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8889" x1=".998" x2="15.816" y1="1.55" y2="9.905" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Square-Merge--Streamline-Core-Gradient">
+  <desc>
+    Pathfinder Square Merge Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pathfinder-square-merge">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8225)" fill-rule="evenodd" d="M8.5.499939H2c-.82843 0-1.5.671571-1.5 1.500001v6.5c0 .82843.67157 1.5 1.5 1.5h.75387v-3.5c0-.34518.27982-.625.625-.625s.625.27982.625.625v4.24996c0 .0237-.00131.047-.00387.07v1.18c0 .8285.67157 1.5 1.5 1.5H12c.8284 0 1.5-.6715 1.5-1.5V5.49994c0-.82843-.6716-1.5-1.5-1.5h-2v-2C10 1.17151 9.32843.499939 8.5.499939Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8225" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

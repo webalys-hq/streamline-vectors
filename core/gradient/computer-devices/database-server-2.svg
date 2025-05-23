@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Database-Server-2--Streamline-Core-Gradient">
+  <desc>
+    Database Server 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/database-server-2--server-network-internet">
+    <path id="Union" fill="url(#paint0_linear_14402_12629)" fill-rule="evenodd" d="M1.5.5h11c.5523 0 1 .447715 1 1V4c0 .55228-.4477 1-1 1h-11c-.552285 0-1-.44772-1-1V1.5c0-.552285.447715-1 1-1Zm1.75 3c-.41421 0-.75-.33579-.75-.75S2.83579 2 3.25 2s.75.33579.75.75-.33579.75-.75.75ZM7.5 2.25c-.27614 0-.5.22386-.5.5s.22386.5.5.5H11c.2761 0 .5-.22386.5-.5s-.2239-.5-.5-.5H7.5Zm-1.25 8.5H1.5c-.26522 0-.51957-.1054-.707107-.2929C.605357 10.2696.5 10.0152.5 9.75v-2.5c0-.26522.105357-.51957.292893-.70711C.98043 6.35536 1.23478 6.25 1.5 6.25h11c.2652 0 .5196.10536.7071.29289.1875.18754.2929.44189.2929.70711v2.5c0 .2652-.1054.5196-.2929.7071s-.4419.2929-.7071.2929H7.75V12h4c.4142 0 .75.3358.75.75s-.3358.75-.75.75h-9.5c-.41421 0-.75-.3358-.75-.75s.33579-.75.75-.75h4v-1.25ZM2.5 8.5c0 .41421.33579.75.75.75S4 8.91421 4 8.5s-.33579-.75-.75-.75-.75.33579-.75.75Zm4.5 0c0-.27614.22386-.5.5-.5H11c.2761 0 .5.22386.5.5s-.2239.5-.5.5H7.5c-.27614 0-.5-.22386-.5-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12629" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

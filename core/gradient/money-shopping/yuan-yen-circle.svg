@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Yuan-Yen-Circle--Streamline-Core-Gradient">
+  <desc>
+    Yuan Yen Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/yuan-yen-circle--exchange-payment-forex-finance-yuan-yen-renmindi-foreign-currency">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14535)" fill-rule="evenodd" d="M7 0C3.13401 0 0 3.13401 0 7c0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7 0-3.86599-3.134-7-7-7Zm2.52413 3.49935c.2765.20663.33315.59828.12652.87478L7.78177 6.875h.90819c.34518 0 .625.27982.625.625s-.27982.625-.625.625h-.985v.56h.985c.34518 0 .625.27982.625.625s-.27982.625-.625.625h-.985V10c0 .3452-.27983.625-.625.625-.34518 0-.625-.2798-.625-.625v-.065h-.995c-.34518 0-.625-.27982-.625-.625s.27982-.625.625-.625h.995v-.56h-.995c-.34518 0-.625-.27982-.625-.625s.27982-.625.625-.625h.9173L4.50022 4.37529c-.20727-.27602-.15153-.66781.12449-.87507.27602-.20727.66781-.15153.87507.12449l1.57901 2.10282 1.57056-2.10166c.20663-.2765.59828-.33315.87478-.12652Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14535" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Closet--Streamline-Core-Gradient">
+  <desc>
+    Closet Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/closet--closet-dressing-dresser-product-decoration-cloth-clothing-cabinet-furniture">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13534)" fill-rule="evenodd" d="M6.375 0H2.5C1.67157 0 1 .671573 1 1.5v11c0 .8284.67157 1.5 1.5 1.5l3.875 0V0Zm1.25 14 3.875 0c.8284 0 1.5-.6716 1.5-1.5v-11c0-.828427-.6716-1.5-1.5-1.5H7.625v14ZM9.5 5.83655c.34518 0 .625.27982.625.625v1.07692c0 .34518-.27982.625-.625.625s-.625-.27982-.625-.625V6.46155c0-.34518.27982-.625.625-.625Zm-4.375.625c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v1.07692c0 .34518.27982.625.625.625s.625-.27982.625-.625V6.46155Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13534" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-Check--Streamline-Core-Gradient">
+  <desc>
+    Shield Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/shield-check--shield-protection-security-defend-crime-war-cover-check">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8457)" fill-rule="evenodd" d="M.5 1.99994C.5 1.17151 1.17157.499939 2 .499939h10c.8284 0 1.5.671571 1.5 1.500001v2.67544c0 3.99218-2.5546 7.53642-6.34189 8.79892-.10263.0342-.21359.0342-.31622 0C3.05457 12.2118.5 8.66756.5 4.67538V1.99994Zm10.0606 2.49828c.2751-.30959.2473-.78364-.0623-1.05883-.3096-.27519-.78367-.2473-1.05886.06228L5.89792 7.48589 4.45 6.39995c-.33137-.24853-.80147-.18137-1.05.15-.24853.33137-.18137.80147.15 1.05l2 1.5c.31205.23404.75141.18981 1.01056-.10173l4.00004-4.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8457" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

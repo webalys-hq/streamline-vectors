@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Subtract-Square--Streamline-Core-Gradient">
+  <desc>
+    Subtract Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/subtract-square--subtract-buttons-remove-add-button-square-delete-mathematics-math-minus">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8597)" fill-rule="evenodd" d="M2 .499939h10c.8284 0 1.5.671571 1.5 1.500001l0 9.99996c0 .8285-.6716 1.5-1.5 1.5l-10 0c-.82843 0-1.5-.6715-1.5-1.5V1.99994C.5 1.17151 1.17157.499939 2 .499939ZM4 6.24994c-.41421 0-.75.33579-.75.75s.33579.75.75.75h6c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8597" x1="1" x2="15.816" y1="1.55" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

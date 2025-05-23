@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Water-Glass--Streamline-Core-Gradient">
+  <desc>
+    Water Glass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/water-glass--glass-water-juice-drink-liquid">
+    <path id="Union" fill="url(#paint0_linear_14402_10456)" fill-rule="evenodd" d="M1.75 0c-.21448 0-.41869.0918246-.56103.252265-.14234.16044-.209178.374143-.18362.587094L2.39964 12.4585C2.50519 13.338 3.25133 14 4.13718 14h5.72565c.88587 0 1.63197-.662 1.73757-1.5415L12.9947.839359c.0255-.212951-.0413-.426654-.1837-.587094C12.6687.0918246 12.4645 0 12.25 0H1.75Zm1.26538 5-.42-3.5h8.80922l-.42 3.5H3.01538Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10456" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

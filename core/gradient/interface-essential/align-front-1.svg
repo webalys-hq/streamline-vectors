@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Align-Front-1--Streamline-Core-Gradient">
+  <desc>
+    Align Front 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/align-front-1--design-front-layer-layers-pile-stack-arrange-square">
+    <path id="Union" fill="url(#paint0_linear_14402_9028)" fill-rule="evenodd" d="M2.75.5C1.50736.5.5 1.50736.5 2.75v7c0 .4142.335786.75.75.75.41421 0 .75-.3358.75-.75v-7c0-.41421.33579-.75.75-.75h7c.4142 0 .75-.33579.75-.75 0-.414214-.3358-.75-.75-.75h-7ZM4.5 3C3.67157 3 3 3.67157 3 4.5V12c0 .8284.67157 1.5 1.5 1.5H12c.8284 0 1.5-.6716 1.5-1.5V4.5c0-.82843-.6716-1.5-1.5-1.5H4.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9028" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wind-Flow-1--Streamline-Core-Gradient">
+  <desc>
+    Wind Flow 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/wind-flow-1--wind-high-overcast-gust-weather-meteorology-gale">
+    <path id="Union" fill="url(#paint0_linear_14402_8954)" fill-rule="evenodd" d="M6.75 1.24994c0-.414215.33579-.750001.75-.750001h.375c1.31168 0 2.375 1.063321 2.375 2.375001 0 1.31168-1.06332 2.375-2.375 2.375H.75c-.414214 0-.75-.33579-.75-.75s.335786-.75.75-.75h7.125c.48325 0 .875-.39175.875-.875s-.39175-.875-.875-.875H7.5c-.41421 0-.75-.33579-.75-.75ZM1 9.49994c0-.41421.33579-.75.75-.75h5.375c1.31168 0 2.375 1.06332 2.375 2.37496 0 1.3117-1.06332 2.375-2.375 2.375H6.75c-.41421 0-.75-.3357-.75-.75 0-.4142.33579-.75.75-.75h.375c.48325 0 .875-.3917.875-.875 0-.4832-.39175-.875-.875-.875H1.75c-.41421 0-.75-.33575-.75-.74996Zm1.25-3.25c-.41421 0-.75.33579-.75.75s.33579.75.75.75h9.25c.5523 0 1 .44771 1 1 0 .55228-.4477 1-1 1h-.25c-.4142 0-.75.33576-.75.74996 0 .4143.3358.75.75.75h.25c1.3807 0 2.5-1.1192 2.5-2.49996 0-1.38071-1.1193-2.5-2.5-2.5H2.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8954" x1=".538" x2="15.902" y1="1.55" y2="10.876" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

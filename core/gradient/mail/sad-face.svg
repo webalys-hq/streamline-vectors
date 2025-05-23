@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sad-Face--Streamline-Core-Gradient">
+  <desc>
+    Sad Face Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/sad-face--smiley-chat-message-emoji-sad-face-unsatisfied">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11317)" fill-rule="evenodd" d="M14 7c0-3.86599-3.134-7-7-7-3.86599 0-7 3.13401-7 7 0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7ZM5.75 5.25c0-.55228-.44772-1-1-1-.55229 0-1 .44772-1 1 0 .55229.44771 1 1 1 .55228 0 1-.44771 1-1Zm1.25001 2.125c-1.50126 0-2.81451.80236-3.53534 1.99865-.17814.29565-.08289.67975.21277.85785.29565.1782.67974.0829.85789-.2127.50407-.83657 1.4196-1.3938 2.46468-1.3938 1.04507 0 1.96061.55723 2.46467 1.3938.17815.2956.56222.3909.85792.2127.2956-.1781.3909-.5622.2127-.85785C9.81451 8.17736 8.50126 7.375 7.00001 7.375ZM9.25 4.25c.55228 0 1 .44772 1 1 0 .55229-.44772 1-1 1-.55229 0-1-.44771-1-1 0-.55228.44771-1 1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11317" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Move-Horizontal--Streamline-Core-Gradient">
+  <desc>
+    Line Arrow Move Horizontal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/line-arrow-move-horizontal--expand-resize-bigger-horizontal-smaller-size-arrow-arrows-big">
+    <path id="Union" fill="url(#paint0_linear_14402_9663)" fill-rule="evenodd" d="M8 1.49994C8 .947654 7.55228.499939 7 .499939S6 .947654 6 1.49994V12.4999c0 .5523.44772 1 1 1s1-.4477 1-1V1.49994ZM4.20711 3.79283c.39052.39053.39052 1.02369 0 1.41422l-1.7929 1.79289 1.7929 1.79289c.39052.39053.39052 1.02369 0 1.41417-.39053.3906-1.02369.3906-1.41422 0L.292893 7.70705c-.3905241-.39053-.3905241-1.02369 0-1.41422l2.499997-2.5c.39053-.39052 1.02369-.39052 1.41422 0Zm5.58578 0c.39051-.39052 1.02371-.39052 1.41421 0l2.5 2.5c.3905.39053.3905 1.02369 0 1.41422l-2.5 2.49995c-.3905.3906-1.0237.3906-1.41421 0-.39052-.39048-.39052-1.02364 0-1.41417l1.79291-1.79289-1.79291-1.79289c-.39052-.39053-.39052-1.02369 0-1.41422Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9663" x1=".538" x2="15.902" y1="1.55" y2="10.876" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

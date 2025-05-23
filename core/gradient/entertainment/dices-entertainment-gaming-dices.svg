@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dices-Entertainment-Gaming-Dices--Streamline-Core-Gradient">
+  <desc>
+    Dices Entertainment Gaming Dices Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/dices-entertainment-gaming-dices">
+    <path id="Union" fill="url(#paint0_linear_14402_14716)" fill-rule="evenodd" d="M0 1.5C0 .671573.671573 0 1.5 0H7c.82843 0 1.5.671573 1.5 1.5v2.75H7C5.48122 4.25 4.25 5.48122 4.25 7v1.5H1.5C.671573 8.5 0 7.82843 0 7V1.5Zm3.75 1.375c0 .48325-.39175.875-.875.875S2 3.35825 2 2.875 2.39175 2 2.875 2s.875.39175.875.875ZM7 5.5c-.82843 0-1.5.67157-1.5 1.5v5.5c0 .8284.67157 1.5 1.5 1.5h5.5c.8284 0 1.5-.6716 1.5-1.5V7c0-.82843-.6716-1.5-1.5-1.5H7Zm4.125 3.75c.4832 0 .875-.39175.875-.875s-.3918-.875-.875-.875-.875.39175-.875.875.3918.875.875.875ZM8.375 12c.48325 0 .875-.3918.875-.875s-.39175-.875-.875-.875-.875.3918-.875.875.39175.875.875.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14716" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

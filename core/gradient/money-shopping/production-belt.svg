@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Production-Belt--Streamline-Core-Gradient">
+  <desc>
+    Production Belt Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/production-belt--production-produce-box-belt-factory-product-package-business">
+    <path id="Union" fill="url(#paint0_linear_14402_14338)" fill-rule="evenodd" d="M3.44518.496094h2.22743V3.33413c0 .07527.03352.14746.09319.20068.05967.05323.14059.08313.22498.08313h1.90903c.08438 0 .16531-.0299.22498-.08313.05967-.05322.09319-.12541.09319-.20068V.496094H10.445c.5723 0 1.1363.425778 1.1363 1.067606v5.15994c-.2876-.06457-.5867-.09864-.8938-.09864h-7.375c-.34639 0-.68265.04335-1.00366.12493V1.5637c0-.641828.56403-1.067606 1.13634-1.067606ZM.5 10.6875C.5 9.1342 1.7592 7.875 3.3125 7.875h7.375c1.5533 0 2.8125 1.2592 2.8125 2.8125S12.2408 13.5 10.6875 13.5h-7.375C1.7592 13.5.5 12.2408.5 10.6875Zm3.23489.75c-.41421 0-.75-.3358-.75-.75s.33579-.75.75-.75c.41422 0 .75.3358.75.75s-.33578.75-.75.75Zm3.26505 0c-.41421 0-.75-.3358-.75-.75s.33579-.75.75-.75.75.3358.75.75-.33579.75-.75.75Zm3.26506 0c-.41423 0-.75002-.3358-.75002-.75s.33579-.75.75002-.75c.4142 0 .75.3358.75.75s-.3358.75-.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14338" x1="14.627" x2="-2.912" y1="16.254" y2="3.8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

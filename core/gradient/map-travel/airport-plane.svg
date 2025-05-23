@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Airport-Plane--Streamline-Core-Gradient">
+  <desc>
+    Airport Plane Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/airport-plane">
+    <path id="Vector 4710" fill="url(#paint0_linear_14402_9727)" d="M11.3081.441942 8.75 3 4.47574.862872C3.73698.493489 2.84713.616241 2.23597 1.17185L1.01979 2.27746c-.254378.23126-.204895.6443.09691.80892L6 5.75 3.75 8l-1.58075-.21077C1.02062 7.63608 0 8.52966 0 9.68844c0 .46836.338573.86796.800514.94496L3 11l.36658 2.1995c.07699.4619.47666.8005.94498.8005 1.15878 0 2.05236-1.0206 1.89921-2.1692L6 10.25 8.25 8l2.8736 5.0841c.1775.314.6189.3425.8353.054l1.0495-1.3992c.4545-.6061.5276-1.4169.1888-2.09447L11 5.25l2.5581-2.55806C13.841 2.40897 14 2.02518 14 1.625s-.159-.783971-.4419-1.066941l-.1162-.116117C13.159.158971 12.7752 0 12.375 0s-.784.158971-1.0669.441942Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9727" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

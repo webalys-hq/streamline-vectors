@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Bag--Streamline-Core-Gradient">
+  <desc>
+    Medical Bag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/medical-bag--health-sign-medical-symbol-hospital-bag-medicine-medkit">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16350)" fill-rule="evenodd" d="M4.26256 1.01256C4.59075.684375 5.03587.5 5.5.5h3c.46413 0 .90925.184375 1.23744.51256.32816.32819.51256.77331.51256 1.23744V3H12c.8284 0 1.5.67157 1.5 1.5V12c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5V4.5C.5 3.67157 1.17157 3 2 3h1.75v-.75c0-.46413.18437-.90925.51256-1.23744ZM8.75 2.25V3h-3.5v-.75c0-.0663.02634-.12989.07322-.17678C5.37011 2.02634 5.4337 2 5.5 2h3c.0663 0 .12989.02634.17678.07322.04688.04689.07322.11048.07322.17678ZM7 5.75c.41421 0 .75.33579.75.75v1.25H9c.41421 0 .75.33579.75.75s-.33579.75-.75.75H7.75v1.25c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75V9.25H5c-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75h1.25V6.5c0-.41421.33579-.75.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16350" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

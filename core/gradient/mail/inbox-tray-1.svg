@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Inbox-Tray-1--Streamline-Core-Gradient">
+  <desc>
+    Inbox Tray 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/inbox-tray-1--mail-email-outbox-drawer-empty-open-inbox-arrow-down">
+    <path id="Union" fill="url(#paint0_linear_14402_11262)" fill-rule="evenodd" d="M7 0c.55228 0 1 .447715 1 1v2.5h1.50002c.20223 0 .38454.12182.46194.30866.07734.18684.03461.40189-.10839.54489l-2.5 2.5c-.19526.19527-.51185.19527-.70711 0l-2.5-2.5c-.143-.143-.18578-.35805-.10839-.54489.0774-.18684.25971-.30866.46194-.30866H6V1c0-.552285.44772-1 1-1ZM.5 8c0-.27614.223858-.5.5-.5h3.75c.27614 0 .5.22386.5.5v.5c0 .9665.7835 1.75 1.75 1.75s1.75-.7835 1.75-1.75V8c0-.27614.22386-.5.5-.5H13c.2761 0 .5.22386.5.5v4c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5V8Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11262" x1="13.456" x2="-2.213" y1="13.503" y2="5.015" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

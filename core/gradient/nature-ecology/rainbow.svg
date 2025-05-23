@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rainbow--Streamline-Core-Gradient">
+  <desc>
+    Rainbow Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/rainbow--nature-arch-rain-colorful-rainbow-curve-half-circle">
+    <path id="Union" fill="url(#paint0_linear_14402_10989)" fill-rule="evenodd" d="M7 3C3.96243 3 1.5 5.46243 1.5 8.5v3.25c0 .4142-.33579.75-.75.75-.414214 0-.75-.3358-.75-.75V8.5c0-3.86599 3.13401-7 7-7 3.866 0 7 3.13401 7 7v3.25c0 .4142-.3358.75-.75.75s-.75-.3358-.75-.75V8.5C12.5 5.46243 10.0376 3 7 3Zm0 2.5c-1.65685 0-3 1.34315-3 3v3.25c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75V8.5C2.5 6.01472 4.51472 4 7 4s4.5 2.01472 4.5 4.5v3.25c0 .4142-.3358.75-.75.75s-.75-.3358-.75-.75V8.5c0-1.65685-1.34315-3-3-3Zm-.5 3c0-.27614.22386-.5.5-.5s.5.22386.5.5v3.25c0 .4142.33579.75.75.75s.75-.3358.75-.75V8.5c0-1.10457-.89543-2-2-2s-2 .89543-2 2v3.25c0 .4142.33579.75.75.75s.75-.3358.75-.75V8.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10989" x1="13.953" x2="-.477" y1="12.502" y2="2.172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

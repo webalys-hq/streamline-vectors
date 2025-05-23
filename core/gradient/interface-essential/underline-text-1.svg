@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Underline-Text-1--Streamline-Core-Gradient">
+  <desc>
+    Underline Text 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/underline-text-1--text-underline-formatting-format">
+    <path id="Union" fill="url(#paint0_linear_14402_8721)" fill-rule="evenodd" d="M4.75.999939c0-.552285-.44772-1.0000000352-1-1.0000000352S2.75.447654 2.75.999939V6.74994c0 2.34721 1.90279 4.24996 4.25 4.24996s4.25-1.90275 4.25-4.24996V.999939c0-.552285-.4477-1.0000000352-1-1.0000000352-.55228 0-1 .4477150352-1 1.0000000352V6.74994c0 1.24264-1.00736 2.25-2.25 2.25s-2.25-1.00736-2.25-2.25V.999939ZM1.5 11.9999c-.552285 0-1 .4478-1 1 0 .5523.447715 1 1 1h11c.5523 0 1-.4477 1-1 0-.5522-.4477-1-1-1h-11Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8721" x1="2.625" x2="13.476" y1="2.692" y2="8.275" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

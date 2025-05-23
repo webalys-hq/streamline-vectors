@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Front-Camera--Streamline-Core-Neon">
+  <desc>
+    Front Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="front-camera">
+    <g id="Group 2605">
+      <path id="Ellipse 1111" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5 6.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S4.86193 6 5 6" stroke-width="1"></path>
+      <path id="Ellipse 1112" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5 6.5c0.13807 0 0.25 -0.11193 0.25 -0.25S5.13807 6 5 6" stroke-width="1"></path>
+    </g>
+    <g id="Group 2628">
+      <path id="Ellipse 1111_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9 6.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S8.86193 6 9 6" stroke-width="1"></path>
+      <path id="Ellipse 1112_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9 6.5c0.13807 0 0.25 -0.11193 0.25 -0.25S9.13807 6 9 6" stroke-width="1"></path>
+    </g>
+    <path id="Vector 500" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.55518 8.85718c0.47634 0.48447 1.31765 0.92857 2.44318 0.92857s1.96684 -0.4441 2.44318 -0.92857" stroke-width="1"></path>
+    <path id="Vector 4441" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M0.5 11.5v-7c0 -0.55228 0.447715 -1 1 -1h2l1.5 -2h4l1.5 2h2c0.5523 0 1 0.44772 1 1v7c0 0.5523 -0.4477 1 -1 1h-11c-0.552285 0 -1 -0.4477 -1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

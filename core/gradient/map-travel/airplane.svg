@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Airplane--Streamline-Core-Gradient">
+  <desc>
+    Airplane Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/airplane--travel-plane-adventure-airplane-transportation">
+    <path id="Vector 4494" fill="url(#paint0_linear_14402_9705)" d="M0 3v4.5C0 8.32843.671573 9 1.5 9h3l-1.81659 2.1799c-.27139.3257-.03981.8201.38411.8201h2.46411c.29677 0 .57822-.1318.76822-.3598L8.5 9h4.0313C13.3425 9 14 8.34245 14 7.53132c0-2.38875-2.12-4.22108-4.48357-3.87519L3.75 4.5l-.6431-2.14367C3.04345 2.14483 2.84879 2 2.62798 2H1c-.552285 0-1 .44772-1 1Z"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9705" x1="2.288" x2="11.515" y1="3.923" y2="11.08" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

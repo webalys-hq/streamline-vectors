@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Podium--Streamline-Core-Gradient">
+  <desc>
+    Podium Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/podium--work-desk-notes-company-presentation-office-podium-microphone">
+    <path id="Union" fill="url(#paint0_linear_14402_8310)" fill-rule="evenodd" d="M3.75 1.74994c0-.13807.11193-.25.25-.25h.25c.41421 0 .75-.33579.75-.750001 0-.414214-.33579-.7500000352-.75-.7500000352H4c-.9665 0-1.75.7835020352-1.75 1.7500010352v1.25H1.5c-.14979 0-.2917.06716-.38667.183-.09497.11585-.132994.26817-.10362.41506l1 5c.04675.23371.25195.40194.49029.40194h2v3.49996H4c-.41421 0-.75.3358-.75.75 0 .4143.33579.75.75.75h6c.4142 0 .75-.3357.75-.75 0-.4142-.3358-.75-.75-.75h-.5V8.99994h2c.2383 0 .4436-.16823.4903-.40194l1-5c.0294-.14689-.0087-.29921-.1036-.41506-.095-.11584-.2369-.183-.3867-.183h-.75v-1.25c0-.966499-.7835-1.7500010352-1.75-1.7500010352h-.25c-.41421 0-.75.3357860352-.75.7500000352 0 .414211.33579.750001.75.750001H10c.1381 0 .25.11193.25.25v1.25h-2.5V.749939c0-.414214-.33579-.7500000352-.75-.7500000352S6.25.335725 6.25.749939V2.99994h-2.5v-1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8310" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

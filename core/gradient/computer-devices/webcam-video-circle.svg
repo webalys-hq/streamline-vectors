@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Webcam-Video-Circle--Streamline-Core-Gradient">
+  <desc>
+    Webcam Video Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/webcam-video-circle--work-video-meeting-camera-company-conference-office">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13411)" fill-rule="evenodd" d="M7 0C3.13401 0 0 3.13401 0 7c0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7 0-3.86599-3.134-7-7-7ZM4.03846 4.19226c-.20911 0-.40966.08307-.55753.23094-.14786.14786-.23093.34841-.23093.55752v4.03846c0 .20911.08307.40966.23093.55753.14787.14786.34842.23093.55753.23093h4.03846c.20911 0 .40966-.08307.55753-.23093.14786-.14787.23093-.34842.23093-.55753v-.55803l1.16712.51735-.0001.00028.0114.0044c.3466.13375.7062-.14275.7062-.48631V5.50303c0-.33871-.3493-.64725-.7182-.48131l-.0009.00042-1.16552.51661v-.55803c0-.20911-.08307-.40966-.23093-.55752-.14787-.14787-.34842-.23094-.55753-.23094H4.03846Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13411" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

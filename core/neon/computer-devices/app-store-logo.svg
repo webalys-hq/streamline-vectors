@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="App-Store-Logo--Streamline-Core-Neon">
+  <desc>
+    App Store Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="app-store">
+    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7.25033 10.2503H1.49854c-0.55229 0 -1.000005 -0.44773 -1.000005 -1.00001 0 -0.55229 0.447715 -1 1.000005 -1h2.09707l2.25001 -3.89713 -1.16324 -2.0148c-0.27614 -0.47829 -0.11227 -1.08988 0.36602 -1.366023 0.4783 -0.276142 1.08989 -0.112267 1.36603 0.366023l0.58589 1.0148 0.58589 -1.0148c0.27615 -0.47829 0.88774 -0.642165 1.36603 -0.366023 0.47829 0.276143 0.64217 0.887733 0.36602 1.366023L5.90479 8.25028" stroke-width="1"></path>
+    <path id="Union_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m8.15483 4.35315 2.24997 3.89713h2.0969c0.5523 0 1 0.44771 1 1 0 0.55228 -0.4477 1.00002 -1 1.00002h-0.9422l0.8149 1.4113c0.2761 0.4783 0.1122 1.0899 -0.3661 1.366 -0.4782 0.2762 -1.0898 0.1123 -1.366 -0.366l-1.39217 -2.4113 -1.15629 -2.00002" stroke-width="1"></path>
+    <path id="Union_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1.62584 11.6616c-0.27614 0.4783 -0.11227 1.0899 0.36603 1.366 0.47829 0.2762 1.08988 0.1123 1.36602 -0.366l0.57735 -1" stroke-width="1"></path>
+  </g>
+</svg>

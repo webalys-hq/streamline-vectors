@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Square-Divide--Streamline-Core-Gradient">
+  <desc>
+    Pathfinder Square Divide Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pathfinder-square-divide">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8219)" fill-rule="evenodd" d="M8.5.499939H2c-.82843 0-1.5.671571-1.5 1.500001v6.5c0 .82843.67157 1.5 1.5 1.5h.752V5.37008c0-1.44975 1.17525-2.625 2.625-2.625H10v-.74514C10 1.17151 9.32843.499939 8.5.499939ZM10 3.99508v.00486h.0135l0 4.63185c0 .7594-.61564 1.37501-1.37503 1.37501H4.002V5.37008c0-.75939.6156-1.375 1.375-1.375H10Zm1.2635.00486H12c.8284 0 1.5.67157 1.5 1.5v6.49996c0 .8285-.6716 1.5-1.5 1.5H5.5c-.82843 0-1.5-.6715-1.5-1.5v-.7431h4.63847c1.44973 0 2.62503-1.1753 2.62503-2.62501l0-4.63185Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8219" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

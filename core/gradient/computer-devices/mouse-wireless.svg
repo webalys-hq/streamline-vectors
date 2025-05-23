@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mouse-Wireless--Streamline-Core-Gradient">
+  <desc>
+    Mouse Wireless Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/mouse-wireless--remote-wireless-device-electronics-mouse-computer">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13111)" fill-rule="evenodd" d="M2 5c0-2.76142 2.23858-5 5-5s5 2.23858 5 5v4c0 2.7614-2.23858 5-5 5s-5-2.2386-5-5V5Zm5.75-1.75c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75v2c0 .41421.33579.75.75.75s.75-.33579.75-.75v-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13111" x1="2.384" x2="15.308" y1="1.131" y2="6.334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

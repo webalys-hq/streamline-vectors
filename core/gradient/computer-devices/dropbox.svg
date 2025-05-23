@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dropbox--Streamline-Core-Gradient">
+  <desc>
+    Dropbox Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/dropbox">
+    <path id="Union" fill="url(#paint0_linear_14402_12844)" fill-rule="evenodd" d="M0 3.15779 3.49955 1 6.9991 3.15779 3.49955 5.31558 0 3.15779ZM10.5005 1 7.00099 3.15779l3.49951 2.15779 3.4996-2.15779L10.5005 1ZM10.5 9.63456l-.0005.0003L7 7.47707l3.4995-2.15779.0005.0003.0005-.0003 3.4996 2.15779-3.4996 2.15779-.0005-.0003ZM3.50293 10.8422l3.49955-2.15781L10.502 10.8422 7.00248 13l-3.49955-2.1578Zm-.00338-5.52292L0 7.47707l3.49955 2.15779L6.9991 7.47707 3.49955 5.31928Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12844" x1="13.953" x2="-1.302" y1="13.002" y2="2.991" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

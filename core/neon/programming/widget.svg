@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Widget--Streamline-Core-Neon">
+  <desc>
+    Widget Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="widget">
+    <path id="rectangle 637" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12 9.5c0.5523 0 1 0.44772 1 1l0 1.5c0 0.5523 -0.4477 1 -1 1L2 13c-0.55229 0 -1 -0.4477 -1 -1l0 -1.5c0 -0.55229 0.44772 -1 1 -1l10 0Z" stroke-width="1"></path>
+    <path id="rectangle 638" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7.06836 1c0.55228 0 1 0.44772 1 1l0 4.5c0 0.55228 -0.44772 1 -1 1l-5.06839 0c-0.55228 0 -0.999999 -0.44772 -0.999999 -1l0 -4.5c-0.000001 -0.55229 0.447719 -1 0.999999 -1l5.06839 0Z" stroke-width="1"></path>
+    <path id="rectangle 639" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12.5 1c0.2761 0 0.5 0.22386 0.5 0.5l0 1.25c0 0.27614 -0.2239 0.5 -0.5 0.5l-1.9688 0c-0.2761 0 -0.5 -0.22386 -0.5 -0.5l0 -1.25c0 -0.27614 0.2239 -0.5 0.5 -0.5L12.5 1Z" stroke-width="1"></path>
+    <path id="rectangle 640" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12.5 5.25c0.2761 0 0.5 0.22386 0.5 0.5L13 7c0 0.27614 -0.2239 0.5 -0.5 0.5l-1.9688 0c-0.2761 0 -0.5 -0.22386 -0.5 -0.5l0 -1.25c0 -0.27614 0.2239 -0.5 0.5 -0.5l1.9688 0Z" stroke-width="1"></path>
+  </g>
+</svg>

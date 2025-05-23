@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Disabled--Streamline-Core-Gradient">
+  <desc>
+    Camera Disabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Images Photography/camera-disabled--photos-picture-camera-photography-photo-pictures-disabled-off">
+    <path id="Union" fill="url(#paint0_linear_14402_12010)" fill-rule="evenodd" d="M.21967 1.28033c-.2928931-.292893-.2928931-.767767 0-1.06066.292893-.2928933.767767-.2928933 1.06066 0L3.37706 2.3164 4.32125.742752C4.41162.592149 4.57437.5 4.75.5h4.5c.17563 0 .33838.092149.42875.242752L11.0331 3H12.5c.3978 0 .7794.15804 1.0607.43934S14 4.10217 14 4.5V11c0 .3978-.158.7794-.4393 1.0607-.0744.0744-.1558.1401-.2427.1966l.4623.4624c.2929.2929.2929.7677 0 1.0606-.2929.2929-.7677.2929-1.0606 0L.21967 1.28033Zm9.27691 7.15559c.16265-.3511.25342-.74228.25342-1.15467 0-1.51878-1.23121-2.75-2.75-2.75-.41238 0-.80357.09077-1.15466.25343l3.65124 3.65124ZM.532029 3.35412 9.67791 12.5H1.5c-.39783 0-.779356-.158-1.06066-.4393C.158035 11.7794 0 11.3978 0 11V4.5c0-.39782.158035-.77936.43934-1.06066.029804-.0298.060734-.05823.092689-.08522Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12010" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

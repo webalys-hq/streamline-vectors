@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Watch-Circle-Charging--Streamline-Core-Gradient">
+  <desc>
+    Watch Circle Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/watch-circle-charging--device-timepiece-circle-watch-round-charge-charging-power">
+    <path id="Union" fill="url(#paint0_linear_14402_13323)" fill-rule="evenodd" d="M5.5 0c-.39782 0-.77936.158035-1.06066.43934C4.15804.720644 4 1.10217 4 1.5v1.49963C2.78555 3.91184 2 5.36418 2 7c0 1.63582.78555 3.0882 2 4.0004V12.5c0 .3978.15804.7794.43934 1.0607S5.10217 14 5.5 14h3c.39783 0 .77936-.158 1.06066-.4393C9.84196 13.2794 10 12.8978 10 12.5v-1.4996c1.2144-.9122 2-2.36458 2-4.0004 0-1.63582-.7856-3.08816-2-4.00037V1.5c0-.39783-.15804-.779356-.43934-1.06066C9.27936.158035 8.89782 0 8.5 0h-3Zm-2 7c0-1.933 1.567-3.5 3.5-3.5s3.5 1.567 3.5 3.5-1.567 3.5-3.5 3.5S3.5 8.933 3.5 7Zm4.35421-1.8357c.22383-.26277.19225-.65724-.07053-.88106-.26277-.22383-.65724-.19225-.88106.07052l-1.90771 2.2397c-.15804.18555-.19381.44604-.09162.66731.10219.22128.32368.36296.56741.36296h1.70794L6.14865 8.83635c-.22347.26309-.19135.65751.07174.88097.26308.22346.6575.19134.88096-.07174L9.0059 7.40334c.15768-.18564.19315-.44598.09087-.66704-.10227-.22106-.32365-.36257-.56723-.36257H6.82405L7.85421 5.1643Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13323" x1="12.867" x2="-3.273" y1="16.965" y2="8.776" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pen-3--Streamline-Core-Gradient">
+  <desc>
+    Pen 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pen-3--content-creation-edit-pen-pens-write">
+    <path id="Union" fill="url(#paint0_linear_14402_8263)" fill-rule="evenodd" d="M3 .499939C1.61929.499939.5 1.61923.5 2.99994v.875h5v-.875C5.5 1.61923 4.38071.499939 3 .499939ZM.5 10.4999V5.12494h5v5.37496c0 .1136-.03864.2237-.10957.3124l-2 2.5c-.09488.1186-.23854.1876-.39043.1876s-.29555-.069-.39043-.1876l-2.000004-2.5C.53864 10.7236.5 10.6135.5 10.4999Zm8 2.25v-1.25c-.82843 0-1.5-.6715-1.5-1.49996v-4.875h4.5v4.875c0 .82846-.6716 1.49996-1.5 1.49996v1.25c0 .4143-.33579.75-.75.75s-.75-.3357-.75-.75ZM7 2.74994C7 1.5073 8.00736.499939 9.25.499939c1.1149 0 2.0404.810861 2.2189 1.875001h.2811c.9665 0 1.75.7835 1.75 1.75v5.125c0 .41421-.3358.75-.75.75s-.75-.33579-.75-.75v-5.125c0-.13807-.1119-.25-.25-.25H7v-1.125Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8263" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

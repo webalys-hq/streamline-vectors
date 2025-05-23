@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signal-Loading--Streamline-Core-Gradient">
+  <desc>
+    Signal Loading Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/signal-loading--bracket-loading-internet-angle-signal-server-network-connecting-connection">
+    <path id="Union" fill="url(#paint0_linear_14402_13219)" fill-rule="evenodd" d="M4.16345 3.57218c.29345.29234.29435.76721.00201 1.06066L1.80719 7.00007l2.35827 2.36722c.29234.29345.29144.76831-.00201 1.06071-.29345.2923-.76832.2914-1.06066-.0021L.217201 7.52939c-.2915543-.29266-.2915543-.76599 0-1.05865L3.10279 3.57419c.29234-.29345.76721-.29435 1.06066-.00201Zm5.67467 0c.29348-.29234.76828-.29144 1.06068.00201l2.8856 2.89655c.2915.29266.2915.76599 0 1.05865l-2.8856 2.89651c-.2924.2935-.7672.2944-1.06068.0021-.29345-.2924-.29435-.76726-.00201-1.06071l2.35829-2.36722-2.35829-2.36723c-.29234-.29345-.29144-.76832.00201-1.06066ZM4.5 6.25c.41421 0 .75.33579.75.75s-.33579.75-.75.75-.75-.33579-.75-.75.33579-.75.75-.75ZM7.75 7c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75.33579.75.75.75.75-.33579.75-.75Zm2.5 0c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75.33579.75.75.75.75-.33579.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13219" x1="2.288" x2="9.222" y1="4.756" y2="12.134" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

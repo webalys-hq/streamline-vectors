@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fork-Knife--Streamline-Core-Gradient">
+  <desc>
+    Fork Knife Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/fork-knife--fork-spoon-knife-food-dine-cook-utensils-eat-restaurant-dining-kitchenware">
+    <path id="Union" fill="url(#paint0_linear_14402_10639)" fill-rule="evenodd" d="M8.23713.574675c.14741-.091103.33148-.099385.48648-.021888C10.876 1.629 12.0688 3.50609 12.7209 5.33183 13.3718 7.15452 13.5 8.96667 13.5 10c0 .1326-.0527.2598-.1464.3536-.0938.0937-.221.1464-.3536.1464h-3v2c0 .5523-.44772 1-1 1s-1-.4477-1-1V1c0-.173288.08973-.334222.23713-.425325ZM2 1.25C2 .835786 1.66421.5 1.25.5.835786.5.5.835786.5 1.25v2.5c0 1.30622.83481 2.41746 2 2.82929V12.5c0 .5523.44772 1 1 1s1-.4477 1-1V6.57929c1.16519-.41183 2-1.52307 2-2.82929v-2.5C6.5.835786 6.16421.5 5.75.5S5 .835786 5 1.25v2.5c0 .55521-.30165 1.03997-.75 1.29933V1.25C4.25.835786 3.91421.5 3.5.5s-.75.335786-.75.75v3.79933C2.30165 4.78997 2 4.30521 2 3.75v-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10639" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

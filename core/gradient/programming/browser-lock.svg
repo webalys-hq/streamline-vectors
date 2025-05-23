@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Lock--Streamline-Core-Gradient">
+  <desc>
+    Browser Lock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/browser-lock--secure-password-window-browser-lock-security-login-encryption">
+    <path id="Union" fill="url(#paint0_linear_14402_11568)" fill-rule="evenodd" d="M2 11.8269V3.51562h10v8.31128c0 .0956-.0775.1731-.1731.1731H2.17308C2.07749 12 2 11.9225 2 11.8269ZM.5 2.17308C.5 1.24906 1.24906.5 2.17308.5h9.65382c.924 0 1.6731.74906 1.6731 1.67308v9.65382c0 .924-.7491 1.6731-1.6731 1.6731H2.17308C1.24906 13.5.5 12.7509.5 11.8269V2.17308ZM7 5.625c-.48325 0-.875.39175-.875.875v.75h1.75V6.5c0-.48325-.39175-.875-.875-.875ZM4.875 6.5v.82269c-.36648.14835-.625.50764-.625.92731v2c0 .5523.44772 1 1 1h3.5c.55228 0 1-.4477 1-1v-2c0-.41967-.25852-.77896-.625-.92731V6.5c0-1.1736-.9514-2.125-2.125-2.125S4.875 5.3264 4.875 6.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11568" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dice-3--Streamline-Core-Gradient">
+  <desc>
+    Dice 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/dice-3">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14690)" fill-rule="evenodd" d="M3 .5C1.61929.5.5 1.61929.5 3v8c0 1.3807 1.11929 2.5 2.5 2.5h8c1.3807 0 2.5-1.1193 2.5-2.5V3c0-1.38071-1.1193-2.5-2.5-2.5H3ZM8.875 4c0-.62132.50368-1.125 1.125-1.125.6213 0 1.125.50368 1.125 1.125S10.6213 5.125 10 5.125c-.62132 0-1.125-.50368-1.125-1.125ZM4 8.875c-.62132 0-1.125.50368-1.125 1.125 0 .6213.50368 1.125 1.125 1.125S5.125 10.6213 5.125 10c0-.62132-.50368-1.125-1.125-1.125ZM5.875 7c0-.62132.50368-1.125 1.125-1.125S8.125 6.37868 8.125 7 7.62132 8.125 7 8.125 5.875 7.62132 5.875 7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14690" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

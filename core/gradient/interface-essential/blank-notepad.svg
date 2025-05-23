@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blank-Notepad--Streamline-Core-Gradient">
+  <desc>
+    Blank Notepad Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/blank-notepad--content-notes-book-notepad-notebook">
+    <path id="Union" fill="url(#paint0_linear_14402_9284)" fill-rule="evenodd" d="M4.25.75C4.25.335786 3.91421 0 3.5 0s-.75.335786-.75.75V2H2C1.17157 2 .5 2.67157.5 3.5V12c0 .8284.67157 1.5 1.5 1.5h10c.8284 0 1.5-.6716 1.5-1.5V3.5c0-.82843-.6716-1.5-1.5-1.5h-.75V.75c0-.414214-.3358-.75-.75-.75s-.75.335786-.75.75V2h-2V.75C7.75.335786 7.41421 0 7 0s-.75.335786-.75.75V2h-2V.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9284" x1="14.627" x2="-3.347" y1="16.359" y2="4.065" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

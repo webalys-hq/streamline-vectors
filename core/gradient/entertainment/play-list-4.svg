@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Play-List-4--Streamline-Core-Gradient">
+  <desc>
+    Play List 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/play-list-4--screen-television-display-player-movies-players-tv-media-video-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14945)" fill-rule="evenodd" d="M1.92308.5C1.13713.5.5 1.13713.5 1.92308V12.0769c0 .786.63713 1.4231 1.42308 1.4231H12.0769c.786 0 1.4231-.6371 1.4231-1.4231V1.92308C13.5 1.13713 12.8629.5 12.0769.5H1.92308Zm3.3069 8.73h-.25V4.9087c.00061-.11635.03196-.23048.09089-.33081.05893-.10033.14333-.1833.24465-.2405.10133-.0572.21597-.08659.33232-.08521.11582.00138.22922.03322.32883.0923l3.69838 2.14906.00026.00015c.10017.05793.18334.14119.24118.24141.05789.10031.08841.21409.08841.3299 0 .11582-.03052.2296-.08841.32991-.05778.10012-.14085.1833-.24088.24123l-.00056.00033-3.69811 2.1589c-.09967.05918-.21318.09107-.3291.09245-.11635.00139-.23099-.02801-.33232-.08521-.10132-.0572-.18572-.14016-.24465-.2405-.05893-.10033-.09028-.21445-.09089-.33081l.25-.0013Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14945" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

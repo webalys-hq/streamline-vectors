@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Online-Medical-Service-Monitor--Streamline-Core-Gradient">
+  <desc>
+    Online Medical Service Monitor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/online-medical-service-monitor">
+    <path id="Union" fill="url(#paint0_linear_14402_16173)" fill-rule="evenodd" d="M2 9.5V2h10v7.5H2Zm-.25-9c-.32044 0-.64575.110085-.89283.35717C.610085 1.10425.5 1.42956.5 1.75v8c0 .3204.110085.6457.35717.8928.24708.2471.57239.3572.89283.3572h3.51148l-.4 1H4.25c-.41421 0-.75.3358-.75.75s.33579.75.75.75h.73835c.00768.0002.01535.0002.02299 0h3.97732c.00764.0002.01531.0002.02299 0H9.75c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-.61148l-.4-1H12.25c.3204 0 .6457-.1101.8928-.3572.2471-.2471.3572-.5724.3572-.8928v-8c0-.32044-.1101-.64575-.3572-.89283C12.8957.610085 12.5704.5 12.25.5H1.75Zm4.12864 2.67718c0-.23592.19126-.42718.42719-.42718h1.38834c.23593 0 .42719.19126.42719.42718v1.45148h1.45145c.23593 0 .42719.19126.42719.42719V6.4442c0 .23592-.19126.42718-.42719.42718H8.12136v1.45144c0 .23592-.19126.42718-.42719.42718H6.30583c-.23593 0-.42719-.19126-.42719-.42718V6.87138H4.42718C4.19126 6.87138 4 6.68012 4 6.4442V5.05585c0-.23593.19126-.42719.42718-.42719h1.45146V3.17718Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16173" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

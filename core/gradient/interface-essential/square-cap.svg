@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Cap--Streamline-Core-Gradient">
+  <desc>
+    Square Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/square-cap">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8542)" fill-rule="evenodd" d="M14 1.49994H1.5c-.828427 0-1.5.67157-1.5 1.5v7.99996c0 .8285.671573 1.5 1.5 1.5H14V7.74994H6.85462c-.29669.73296-1.01528 1.25-1.85462 1.25-1.10457 0-2-.89543-2-2s.89543-2 2-2c.83934 0 1.55793.51704 1.85462 1.25H14v-4.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8542" x1="15.213" x2="-.421" y1="14.83" y2=".695" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

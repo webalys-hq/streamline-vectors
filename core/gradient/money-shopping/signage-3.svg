@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signage-3--Streamline-Core-Gradient">
+  <desc>
+    Signage 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/signage-3--street-sandwich-shops-shop-stores-board-sign-store">
+    <path id="Union" fill="url(#paint0_linear_14402_13755)" fill-rule="evenodd" d="m8.17396 12.9425 1.92344-8.33481 1.212 5.25194h-.783c-.4142 0-.74999.33577-.74999.74997s.33579.75.74999.75h1.1292l.3653 1.5829c.0931.4037.4958.6553.8994.5622.4036-.0931.6553-.4958.5622-.8994L10.8313 1.11685c-.01-.04711-.0245-.09323-.0434-.137718-.0768-.181729-.2208-.321558-.3949-.396415-.0964-.041436-.2021-.062964-.3107-.06067H3.90408c-.34924 0-.65226.241056-.73079.581353L.51897 12.6053c-.051395.2227.001568.4566.143858.6355.142289.1789.358372.2831.586932.2831h6.19341c.34924 0 .65226-.2411.73079-.5814Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13755" x1="14.629" x2="-2.909" y1="16.278" y2="3.82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

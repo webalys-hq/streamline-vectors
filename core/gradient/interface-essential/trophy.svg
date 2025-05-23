@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Trophy--Streamline-Core-Gradient">
+  <desc>
+    Trophy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/trophy--reward-rating-trophy-social-award-media">
+    <path id="Union" fill="url(#paint0_linear_14402_8689)" fill-rule="evenodd" d="M1.25.499939c-.414214 0-.75.335786-.75.750001v2.75c0 1.67418 1.26589 3.0527 2.89272 3.23059.5412 1.12603 1.59412 1.9596 2.85728 2.19921v2.57016H4.5c-.41421 0-.75.3358-.75.75 0 .4143.33579.75.75.75h5c.41421 0 .75-.3357.75-.75 0-.4142-.33579-.75-.75-.75H7.75V9.42974c1.26316-.23961 2.3161-1.07318 2.8573-2.19921C12.2341 7.05264 13.5 5.67412 13.5 3.99994v-2.75c0-.414215-.3358-.750001-.75-.750001H1.25ZM3 1.99994H2v2c0 .6981.40876 1.30072 1 1.58159V1.99994Zm8 0v3.58159c.5912-.28087 1-.88349 1-1.58159v-2h-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8689" x1="1" x2="15.816" y1="1.55" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cane--Streamline-Core-Gradient">
+  <desc>
+    Cane Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/cane--walking-stick-cane-accessories-gentleman-accessories">
+    <path id="Union" fill="url(#paint0_linear_14402_13509)" fill-rule="evenodd" d="M11.2112 1.14803c-1.50696-1.506935-3.95019-1.506935-5.45713 0l-.18227.18227c-.60095.60096-.60095 1.5753 0 2.17626.60096.60095 1.5753.60095 2.17626 0l.18227-.18227c.30502-.30503.79957-.30503 1.1046 0 .30503.30502.30503.79957 0 1.1046L2.10868 11.3551c-.60096.601-.60096 1.5753 0 2.1763.60095.601 1.57529.601 2.17625 0l6.92627-6.92626c1.5069-1.50693 1.5069-3.95017 0-5.45711Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13509" x1="13.267" x2="-3.471" y1="16.94" y2="7.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

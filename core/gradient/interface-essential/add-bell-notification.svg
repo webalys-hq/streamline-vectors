@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Bell-Notification--Streamline-Core-Gradient">
+  <desc>
+    Add Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/add-bell-notification--notification-alarm-alert-bell-add">
+    <path id="Union" fill="url(#paint0_linear_14402_8978)" fill-rule="evenodd" d="M11.5.75c0-.414214-.3358-.75-.75-.75S10 .335786 10 .75V2.5H8.25c-.41421 0-.75.33579-.75.75s.33579.75.75.75H10v1.75c0 .41421.3358.75.75.75s.75-.33579.75-.75V4h1.75c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H11.5V.75Zm-5.50001.75c.36864 0 .73326.04188 1.08644.1231-.50646.36286-.83646.95634-.83646 1.6269 0 1.10457.89543 2 2 2h.5v.5c0 1.04474.80106 1.90239 1.82243 1.99223v1.83272c0 .23373.0992.46555.2885.64205.2188.2042.3912.283.6391.283.2761 0 .5.2239.5.5s-.2239.5-.5.5H.5c-.276142 0-.5-.2239-.5-.5s.223858-.5.5-.5c.247931 0 .420308-.0788.63911-.283.18923-.1765.28842-.40832.28842-.64205V5.80013c0-1.15207.49077-2.24933 1.35167-3.05266C3.63894 1.94522 4.79803 1.5 5.99999 1.5ZM4.24991 13.25c0-.4142.33578-.75.75-.75h2c.41421 0 .75.3358.75.75s-.33579.75-.75.75h-2c-.41422 0-.75-.3358-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8978" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

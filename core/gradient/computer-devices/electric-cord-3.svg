@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Electric-Cord-3--Streamline-Core-Gradient">
+  <desc>
+    Electric Cord 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/electric-cord-3--electricity-electronic-appliances-device-cord-cable-plug-connection">
+    <path id="Union" fill="url(#paint0_linear_14402_13000)" fill-rule="evenodd" d="M1.5 7c0-3.03757 2.46243-5.5 5.5-5.5 3.0376 0 5.5 2.46243 5.5 5.5 0 2.78316-2.0672 5.0835-4.75 5.4493v-1.9079c1.50452-.341 2.6278-1.68635 2.6278-3.29404V5.69788c0-.27615-.2239-.5-.50003-.5H9.3125V3.60413c0-.41422-.33579-.75-.75-.75s-.75.33578-.75.75v1.59375h-1.625V3.60413c0-.41422-.33579-.75-.75-.75s-.75.33578-.75.75v1.59375h-.56494c-.27614 0-.5.22385-.5.5v1.54948c0 1.60757 1.12308 2.95284 2.62744 3.29404V13.25c0 .4142.33579.75.75.75 3.866 0 7-3.134 7-7 0-3.86599-3.134-7-7-7-3.86599 0-7 3.13401-7 7 0 2.59193 1.40911 4.8539 3.49946 6.0631.35854.2074.81734.0848 1.02474-.2737.20741-.3585.08489-.8173-.27366-1.0247C2.60463 10.8125 1.5 9.03483 1.5 7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13000" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

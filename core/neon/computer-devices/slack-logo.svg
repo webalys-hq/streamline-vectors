@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Slack-Logo--Streamline-Core-Neon">
+  <desc>
+    Slack Logo Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="slack">
+    <path id="Rectangle 2052" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 2.5C7 1.67157 7.67157 1 8.5 1v0c0.82843 0 1.5 0.67157 1.5 1.5v3C10 6.32843 9.32843 7 8.5 7v0C7.67157 7 7 6.32843 7 5.5v-3Z" stroke-width="1"></path>
+    <path id="Rectangle 2065" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.5 7C1.67157 7 1 6.32843 1 5.5v0C1 4.67157 1.67157 4 2.5 4l3 0C6.32843 4 7 4.67157 7 5.5v0C7 6.32843 6.32843 7 5.5 7l-3 0Z" stroke-width="1"></path>
+    <path id="Rectangle 2066" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5c0 0.8284 -0.67157 1.5 -1.5 1.5v0c-0.82843 0 -1.5 -0.6716 -1.5 -1.5l0 -3C4 7.67157 4.67157 7 5.5 7v0C6.32843 7 7 7.67157 7 8.5l0 3Z" stroke-width="1"></path>
+    <path id="Rectangle 2067" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.5 7c0.8284 0 1.5 0.67157 1.5 1.5v0c0 0.82843 -0.6716 1.5 -1.5 1.5l-3 0C7.67157 10 7 9.32843 7 8.5v0C7 7.67157 7.67157 7 8.5 7l3 0Z" stroke-width="1"></path>
+    <path id="Rectangle 2051" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 2.5C4 1.67157 4.67157 1 5.5 1v0C6.32843 1 7 1.67157 7 2.5V4H5.5C4.67157 4 4 3.32843 4 2.5v0Z" stroke-width="1"></path>
+    <path id="Rectangle 2059" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.5 4c0.8284 0 1.5 0.67157 1.5 1.5v0c0 0.82843 -0.6716 1.5 -1.5 1.5L10 7l0 -1.5c0 -0.82843 0.6716 -1.5 1.5 -1.5v0Z" stroke-width="1"></path>
+    <path id="Rectangle 2061" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10 11.5c0 0.8284 -0.67157 1.5 -1.5 1.5v0c-0.82843 0 -1.5 -0.6716 -1.5 -1.5L7 10l1.5 0c0.82843 0 1.5 0.6716 1.5 1.5v0Z" stroke-width="1"></path>
+    <path id="Rectangle 2063" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.5 10C1.67157 10 1 9.32843 1 8.5v0C1 7.67157 1.67157 7 2.5 7L4 7l0 1.5c0 0.82843 -0.67157 1.5 -1.5 1.5v0Z" stroke-width="1"></path>
+  </g>
+</svg>

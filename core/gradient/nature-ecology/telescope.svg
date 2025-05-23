@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Telescope--Streamline-Core-Gradient">
+  <desc>
+    Telescope Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/telescope--science-experiment-star-gazing-sky-night-space-universe-astronomy-astronomy">
+    <path id="Union" fill="url(#paint0_linear_14402_10763)" fill-rule="evenodd" d="M12.0839.870591c-.0358-.133321-.125-.245945-.2466-.311193-.1217-.065249-.2648-.077317-.3957-.033347L3.84362 3.07957c-.25027.08411-.39201.34832-.32368.60336l1.03528 3.8637c.06834.25503.32319.41298.58199.36068l1.78375-.36043-1.87217 4.93722c-.14687.3873.04805.8203.43535.9672.3873.1468.82033-.0481.9672-.4354l1.54872-4.0842 1.54873 4.0842c.14686.3873.57991.5822.96721.4354.3873-.1469.5822-.5799.4353-.9672L8.92557 7.14182l4.06843-.8221c.1353-.02733.2533-.10938.326-.2267.0727-.11732.0937-.25948.058-.3928L12.0839.870591ZM1.95903 4.61884l.48293-.1294.77646 2.89778-.48293.1294.1294.48293c.1072.4001-.13023.81135-.53033.91856-.4001.1072-.81136-.13023-.91856-.53033L.380722 4.52407c-.107206-.4001.130231-.81135.53033-.91856.400098-.1072.811348.13024.918558.53033l.12942.483Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10763" x1="13.351" x2="-2.069" y1="13.503" y2="4.802" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

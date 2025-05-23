@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vertical-Slider-Square--Streamline-Core-Gradient">
+  <desc>
+    Vertical Slider Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/vertical-slider-square--adjustment-adjust-controls-fader-vertical-settings-slider-square">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8893)" fill-rule="evenodd" d="M2 13.4999c-.82843 0-1.5-.6715-1.5-1.5L.499999 1.99994C.499999 1.17151 1.17157.499939 2 .499939l10-.000001c.8284 0 1.5.671572 1.5 1.500002l0 9.99996c0 .8285-.6716 1.5-1.5 1.5l-10 0Zm4.5-8.99996c0-.9665-.7835-1.75-1.75-1.75S3 3.53344 3 4.49994c0 .7463.46716 1.38349 1.125 1.63509l0 4.86487c0 .3452.27982.625.625.625s.625-.2798.625-.625l0-4.86487c.65784-.2516 1.125-.88879 1.125-1.63509Zm2.125 6.49996c0 .3452.27982.625.625.625s.625-.2798.625-.625l0-1.36487C10.5328 9.38343 11 8.74624 11 7.99994s-.4672-1.38349-1.125-1.63509l0-3.36491c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625l0 3.36491c-.65784.2516-1.125.88879-1.125 1.63509s.46716 1.38349 1.125 1.63509l0 1.36487Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8893" x1="15.41" x2="-3.42" y1="14.258" y2="3.863" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Keyboard--Streamline-Core-Neon">
+  <desc>
+    Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="keyboard--keyboard-device-electronics-dvorak-qwerty">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.5 6V5c0 -0.53043 0.21071 -1.03914 0.58579 -1.41421C4.46086 3.21071 4.96957 3 5.5 3h4c0.5304 0 1.0391 -0.21071 1.4142 -0.58579C11.2893 2.03914 11.5 1.53043 11.5 1" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12 6H2c-0.55228 0 -1 0.44772 -1 1v5c0 0.5523 0.44772 1 1 1h10c0.5523 0 1 -0.4477 1 -1V7c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.5 10.75h3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.5 10.75h1" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 10.75h1" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.5 8.25h1" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.16675 8.25h1" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7.83325 8.25h1" stroke-width="1"></path>
+    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 8.25h1" stroke-width="1"></path>
+  </g>
+</svg>

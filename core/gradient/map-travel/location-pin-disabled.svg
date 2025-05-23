@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Pin-Disabled--Streamline-Core-Gradient">
+  <desc>
+    Location Pin Disabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off">
+    <path id="Union" fill="url(#paint0_linear_14402_10242)" fill-rule="evenodd" d="M1 6c0-.65378.10457-1.28314.29788-1.87226l8.19765 8.19766c-.7548.701-1.42497 1.2049-1.75121 1.439C7.52045 13.9251 7.25937 14 7 14s-.52045-.0749-.74432-.2356c-.49735-.357-1.79399-1.3407-2.97127-2.6943C2.11874 9.72987 1 7.94724 1 6Zm4.11894.18103-3.2661-3.2661c.00018-.0003.00036-.00059.00054-.00089L.21967 1.28033c-.2928934-.292893-.2928934-.767767 0-1.06066.292893-.2928933.767767-.2928933 1.06066 0L2.7878 1.72714C3.87109.659125 5.35857 0 7 0c3.3137 0 6 2.68629 6 6 0 1.58891-.7449 3.06822-1.6523 4.287l2.4326 2.4327c.2929.2929.2929.7677 0 1.0606-.2929.2929-.7677.2929-1.0606 0l-2.3385-2.3385c-.0002.0003-.0005.0005-.0007.0008L6.31897 7.38106c.00074.00027.00149.00054.00224.00081m1.85627-.26505C8.67604 6.75311 9 6.16438 9 5.5c0-1.10457-.89543-2-2-2-.66439 0-1.25311.32396-1.61682.82252l2.7943 2.7943Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10242" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

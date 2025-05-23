@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tailless-Line-Arrow-Shrink-Horizontal-2--Streamline-Core-Gradient">
+  <desc>
+    Tailless Line Arrow Shrink Horizontal 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/tailless-line-arrow-shrink-horizontal-2--resize-shrink-bigger-horizontal-smaller-size-arrow-arrows-big">
+    <path id="Union" fill="url(#paint0_linear_14402_8461)" fill-rule="evenodd" d="M1.25.499939c.41421 0 .75.335786.75.750001V12.7499c0 .4143-.33579.75-.75.75-.414214 0-.75-.3357-.75-.75V1.24994c0-.414215.335786-.750001.75-.750001Zm11.5 0c.4142 0 .75.335786.75.750001V12.7499c0 .4143-.3358.75-.75.75s-.75-.3357-.75-.75V1.24994c0-.414215.3358-.750001.75-.750001ZM2.96967 4.21961c.29289-.29289.76777-.29289 1.06066 0l2.25 2.25c.29289.29289.29289.76777 0 1.06066l-2.25 2.25c-.29289.29293-.76777.29293-1.06066 0-.29289-.29289-.29289-.76777 0-1.06066l1.71967-1.71967-1.71967-1.71967c-.29289-.29289-.29289-.76777 0-1.06066Zm8.06063 0c.2929.29289.2929.76777 0 1.06066L9.31066 6.99994l1.71964 1.71967c.2929.29289.2929.76777 0 1.06066-.2929.29293-.7677.29293-1.06063 0l-2.25-2.25c-.29289-.29289-.29289-.76777 0-1.06066l2.25-2.25c.29293-.29289.76773-.29289 1.06063 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8461" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

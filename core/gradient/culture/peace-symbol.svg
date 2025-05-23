@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Peace-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Peace Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/peace-symbol--religion-peace-war-culture-symbol">
+    <path id="Union" fill="url(#paint0_linear_14402_16567)" fill-rule="evenodd" d="M8 5.66268V2.10002C10.2822 2.56329 12 4.58104 12 7c0 .77716-.1773 1.51291-.4937 2.169L8 5.66268ZM6 5.6627V2.10002C3.71776 2.56329 2 4.58104 2 7c0 .77717.17731 1.51292.49368 2.16901L6 5.6627Zm-2.28149 5.1099L6 8.49113V11.9c-.86164-.1749-1.64283-.5714-2.28149-1.1274Zm-2.21119.5673c.02064.0287.04298.0565.06703.0834C2.85797 12.9959 4.81172 14 7 14c2.1882 0 4.1419-1.004 5.4255-2.5766.0242-.0269.0466-.0549.0673-.0837C13.4366 10.1468 14 8.63919 14 7c0-3.86599-3.134-7-7-7-3.86599 0-7 3.13401-7 7 0 1.63927.563483 3.1469 1.50732 4.3399Zm8.77418-.5673c-.63867.556-1.41985.9525-2.2815 1.1274V8.49111l2.2815 2.28149Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16567" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

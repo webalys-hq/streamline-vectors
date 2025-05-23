@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Square-Write--Streamline-Core-Gradient">
+  <desc>
+    Chat Bubble Square Write Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/chat-bubble-square-write--messages-message-bubble-chat-square-write-review-pen-pencil-compose">
+    <path id="Union" fill="url(#paint0_linear_14402_11158)" fill-rule="evenodd" d="M9.87991 8.38781c-.18057.18134-.41245.30288-.66431.34822l-3 .54c-.39965.07193-.80934-.05475-1.09864-.33971-.28929-.28496-.42213-.6927-.35623-1.09339l.5-3.04c.04258-.25886.16552-.49777.35142-.68289L9.74969 0H2.50001c-.39782 0-.77936.158035-1.06066.43934-.2813.281304-.43934.66284-.43934 1.06066v8.9189l-.9743413 2.923c-.0577086.1731-.01651267.3639.1074803.4978.123993.1339.311087.1896.488129.1454L4.56156 13H12.5c.3978 0 .7794-.158 1.0607-.4393S14 11.8978 14 11.5V4.25021l-4.12009 4.1376ZM12.3187.0769069C12.1969.0261382 12.0662 0 11.9342 0l-.0001 0c-.132 0-.2627.0261382-.3845.0769069-.1219.0507691-.2325.1251631-.3255.2188911L6.49416 5.0058h-.00002l-.5 3.04h.00002l2.99998-.54h.00002l4.70994-4.73h.0001c.0937-.09296.1681-.20357.2188-.32543.0508-.12185.077-.25256.077-.38457 0-.13201-.0262-.26272-.077-.38458-.0507-.12186-.1251-.23246-.2188-.32542l-.0001 0L12.6442.295798c-.093-.093728-.2036-.168122-.3255-.2188911Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11158" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

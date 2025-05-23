@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Phone-Mobile-Phone--Streamline-Core-Gradient">
+  <desc>
+    Phone Mobile Phone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Phone/phone-mobile-phone--android-phone-mobile-device-smartphone-iphone">
+    <path id="Union" fill="url(#paint0_linear_14402_15794)" fill-rule="evenodd" d="M3.5 1.75c0-.13807.11193-.25.25-.25h6.5c.1381 0 .25.11193.25.25v10.5c0 .1381-.1119.25-.25.25H3.80187c-.00499-.0021-.01076-.0046-.01724-.0076-.04612-.0217-.10526-.0581-.16134-.106-.0566-.0482-.09333-.0937-.11253-.1264-.0059-.0101-.00911-.0171-.01076-.0212V1.75ZM3.75 0C2.7835 0 2 .783502 2 1.75v10.5c0 .5919.36126 1.0316.65 1.2778.15613.1331.32809.2431.49782.3227.15436.0724.36996.1495.60218.1495h6.5c.9665 0 1.75-.7835 1.75-1.75V1.75C12 .783502 11.2165 0 10.25 0h-6.5ZM6.5 9.75c-.41421 0-.75.3358-.75.75s.33579.75.75.75h1c.41421 0 .75-.3358.75-.75s-.33579-.75-.75-.75h-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15794" x1="2.384" x2="15.308" y1="1.131" y2="6.334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

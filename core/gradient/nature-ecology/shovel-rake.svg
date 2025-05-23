@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shovel-Rake--Streamline-Core-Gradient">
+  <desc>
+    Shovel Rake Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/shovel-rake--nature-crops-plants">
+    <path id="Union" fill="url(#paint0_linear_14402_11094)" fill-rule="evenodd" d="m6.97781 5.87793-.57532-3.16422C6.16942 1.4318 5.05293.5 3.75.5c-1.30293 0-2.41942.93179-2.65249 2.21371L.522194 5.87793C.507428 5.95915.5 6.04152.5 6.12407.5 6.88397 1.11603 7.5 1.87593 7.5H3V12h-.5c-.41421 0-.75.3358-.75.75s.33579.75.75.75H5c.41421 0 .75-.3358.75-.75S5.41421 12 5 12h-.5V7.5h1.12407C6.38397 7.5 7 6.88397 7 6.12407c0-.08255-.00743-.16492-.02219-.24614ZM9.25.5c-.41421 0-.75.335786-.75.75 0 .41421.33579.75.75.75h.5v5.59451C8.45608 7.92755 7.5 9.10212 7.5 10.5v2.25c0 .4142.33579.75.75.75s.75-.3358.75-.75V10.5c0-.55521.30165-1.03997.75-1.29933V12.75c0 .4142.3358.75.75.75s.75-.3358.75-.75V9.20067c.4484.25936.75.74412.75 1.29933v2.25c0 .4142.3358.75.75.75s.75-.3358.75-.75V10.5c0-1.39788-.9561-2.57245-2.25-2.90549V2h.5c.4142 0 .75-.33579.75-.75 0-.414214-.3358-.75-.75-.75h-2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11094" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

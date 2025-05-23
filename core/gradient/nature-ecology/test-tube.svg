@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Test-Tube--Streamline-Core-Gradient">
+  <desc>
+    Test Tube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/test-tube--science-experiment-lab-chemistry-test-tube-solution">
+    <path id="Union" fill="url(#paint0_linear_14402_10904)" fill-rule="evenodd" d="M2.75 0C2.33579 0 2 .335786 2 .75c0 .41421.33579.75.75.75h.75v1.375H6c.34518 0 .625.27982.625.625s-.27982.625-.625.625H3.5v1.75H6c.34518 0 .625.27982.625.625s-.27982.625-.625.625H3.5v1.75H6c.34518 0 .625.27982.625.625s-.27982.625-.625.625H3.5v.375c0 .9283.36875 1.8185 1.02513 2.4749C5.1815 13.6313 6.07174 14 7 14c.92826 0 1.8185-.3687 2.47487-1.0251C10.1313 12.3185 10.5 11.4283 10.5 10.5v-9h.75c.4142 0 .75-.33579.75-.75 0-.414214-.3358-.75-.75-.75h-8.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10904" x1="12.867" x2="-3.273" y1="16.965" y2="8.776" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

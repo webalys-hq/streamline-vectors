@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Epic-Games-1--Streamline-Core-Gradient">
+  <desc>
+    Epic Games 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/epic-games-1--epic-games-entertainment-gaming">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14783)" fill-rule="evenodd" d="M1 1.42857C1 .72115 1.50059 0 2.28571 0h9.42849c.7851 0 1.2857.72115 1.2857 1.42857v8.24754c0 .49949-.2381.99989-.6799 1.26099l-5.06568 2.9934c-.1569.0927-.35183.0927-.50873 0l-5.06563-2.9934C1.23807 10.676 1 10.1756 1 9.67611V1.42857Zm4.50014.44643c-.34518 0-.625.27982-.625.625V7c0 .34518.27982.625.625.625h3c.34517 0 .625-.27982.625-.625s-.27983-.625-.625-.625h-2.375v-1h2.375c.34517 0 .625-.27982.625-.625s-.27983-.625-.625-.625h-2.375v-1h2.375c.34517 0 .625-.27982.625-.625s-.27983-.625-.625-.625h-3ZM4.44112 9.22049c.15437-.30874.52979-.43387.83853-.27951l1.72049.86025 1.72049-.86025c.30874-.15436.68416-.02923.83852.27951.15437.30874.02923.68416-.2795.83851l-2 1c-.17596.088-.38307.088-.55902 0l-2-1c-.30874-.15435-.43388-.52977-.27951-.83851Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14783" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

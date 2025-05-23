@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Color-Picker--Streamline-Core-Gradient">
+  <desc>
+    Color Picker Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/color-picker--color-colors-design-dropper-eye-eyedrop-eyedropper-painting-picker">
+    <path id="Union" fill="url(#paint0_linear_14402_9478)" fill-rule="evenodd" d="M12.7786 1.22145c-1.5988-1.610418-4.27007-1.610044-5.86841.00112l-.81348.81348L5.03033.96967c-.29289-.292893-.76777-.292893-1.06066 0-.29289.29289-.29289.76777 0 1.06066l8.00003 7.99997c.2929.2929.7677.2929 1.0606 0 .2929-.29286.2929-.76774 0-1.06063L11.964 7.90336l.8135-.8135c1.6112-1.59833 1.6115-4.26959.0011-5.86841ZM1.58216 10.1556.328922 11.4088C.118249 11.6208 0 11.9074 0 12.2063c0 .2988.118249.5855.328922.7974l.66736.6674c.211928.2106.498618.3289.797438.3289.29883 0 .58551-.1183.79744-.3289l1.25324-1.2533c1.30296.6919 2.95052.4445 3.99285-.5995l2.09491-2.09486-5.6556-5.65557-2.09491 2.09491C1.13764 7.2051.890274 8.85266 1.58216 10.1556Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9478" x1="2.286" x2="13.582" y1="2.704" y2="8.962" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

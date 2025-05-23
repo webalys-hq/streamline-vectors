@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Justice-Hammer--Streamline-Core-Gradient">
+  <desc>
+    Justice Hammer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/justice-hammer--hammer-work-mallet-office-company-gavel-justice-judge-arbitration-court">
+    <path id="Union" fill="url(#paint0_linear_14402_13558)" fill-rule="evenodd" d="M10.0184.467828c-.61718-.621053-1.621-.624157-2.24206-.006933L3.8731 4.34007c-.62105.61723-.62416 1.62105-.00693 2.2421l1.71388 1.72451c.61722.62105 1.62104.62416 2.24209.00693l1.42561-1.41682 3.47205 3.47211c.2929.2929.7678.2929 1.0607 0 .2929-.2929.2929-.76779 0-1.06069l-3.4688-3.4688 1.4137-1.40498c.621-.61722.6241-1.62104.0069-2.24209L10.0184.467828ZM1 11c0-.2761.22386-.5.5-.5H7c.27614 0 .5.2239.5.5v1.5h.25c.41421 0 .75.3358.75.75s-.33579.75-.75.75h-7c-.414214 0-.75-.3358-.75-.75s.335786-.75.75-.75H1V11Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13558" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop offset=".136" stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

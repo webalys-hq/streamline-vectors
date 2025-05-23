@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Note-Off-1--Streamline-Core-Gradient">
+  <desc>
+    Music Note Off 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/music-note-off-1--music-audio-note-off-mute-entertainment">
+    <path id="Union" fill="url(#paint0_linear_14402_15139)" fill-rule="evenodd" d="M6.25 0c-.55228 0-1 .447715-1 1v3.18934L1.28033.21967c-.292893-.2928933-.767767-.2928933-1.06066 0-.2928934.292893-.2928934.767767 0 1.06066L12.7197 13.7803c.2929.2929.7677.2929 1.0606 0 .2929-.2929.2929-.7677 0-1.0606L7.25 6.18934V2.11252c.24615.0561.48773.13295.72208.23002.54596.22615 1.04204.55762 1.4599.97548.41786.41786.74932.91394.97552 1.4599.1662.40139.2732.82396.3181 1.25444.0574.5493.5492.94806 1.0985.89067.5493-.0574.9481-.54921.8907-1.09851-.065-.6218-.2194-1.23218-.4596-1.81196-.3266-.78862-.8054-1.50517-1.409-2.10875C10.2426 1.30023 9.52606.821439 8.73744.494783 7.94883.168127 7.10359 0 6.25 0Zm-1 8.17071v-.11124l2 2.00003V11c0 1.6569-1.34315 3-3 3s-3-1.3431-3-3c0-1.65685 1.34315-3 3-3 .35064 0 .68722.06015 1 .17071Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15139" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

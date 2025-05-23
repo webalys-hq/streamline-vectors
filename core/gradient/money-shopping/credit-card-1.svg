@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Credit-Card-1--Streamline-Core-Gradient">
+  <desc>
+    Credit Card 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/credit-card-1--credit-pay-payment-debit-card-finance-plastic-money-atm">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14160)" fill-rule="evenodd" d="M1.5 1.5C.647716 1.5 0 2.21961 0 3.05263V4.375h14V3.05263C14 2.21961 13.3523 1.5 12.5 1.5h-11ZM0 10.9474V5.625h14v5.3224c0 .833-.6477 1.5526-1.5 1.5526h-11c-.852284 0-1.5-.7196-1.5-1.5526ZM9.5 8.25c-.41421 0-.75.33579-.75.75s.33579.75.75.75H11c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H9.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14160" x1="2.288" x2="12.159" y1="3.615" y2="10.576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

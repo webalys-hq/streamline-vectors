@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Attribution--Streamline-Core-Neon">
+  <desc>
+    Attribution Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="attribution">
+    <path id="Ellipse 50" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="Ellipse 1935" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" stroke-width="1"></path>
+    <path id="Vector 3923" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M9 8.75V7.5c0 -1.10457 -0.89543 -2 -2 -2s-2 0.89543 -2 2v1.25h0.75L6 11.5h2l0.25 -2.75H9Z" stroke-width="1"></path>
+  </g>
+</svg>

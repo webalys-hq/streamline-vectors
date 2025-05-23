@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sign-Cross-Square--Streamline-Core-Gradient">
+  <desc>
+    Sign Cross Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/sign-cross-square--health-sign-medical-symbol-hospital-cross-square">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16266)" fill-rule="evenodd" d="M.5 2C.5 1.17157 1.17157.5 2 .5h10c.8284 0 1.5.67157 1.5 1.5v10c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5V2Zm5.12864 2.17718c0-.23592.19126-.42718.42719-.42718h1.88834c.23593 0 .42719.19126.42719.42718v1.45148h1.45145c.23589 0 .42719.19126.42719.42719V7.9442c0 .23592-.1913.42718-.42719.42718H8.37136v1.45143c0 .23589-.19126.42719-.42719.42719H6.05583c-.23593 0-.42719-.1913-.42719-.42719V8.37138H4.17718c-.23592 0-.42718-.19126-.42718-.42718V6.05585c0-.23593.19126-.42719.42718-.42719h1.45146V4.17718Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16266" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

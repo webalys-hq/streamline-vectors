@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Css-Three--Streamline-Core-Gradient">
+  <desc>
+    Css Three Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/css-three--language-three-code-programming-html-css">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11648)" fill-rule="evenodd" d="M.616959.678633C.711961.565398.852195.5 1 .5h12c.1478 0 .288.065398.383.178633.0951.113234.1351.2627.1094.408257l-1.5 8.5c-.0215.12203-.0876.23171-.1854.30779L7.30697 13.3947c-.18055.1404-.43338.1404-.61394 0l-4.5-3.50002c-.09781-.07608-.16388-.18576-.18542-.30779l-1.499998-8.5C.481925.941333.521958.791867.616959.678633ZM4.5 2.625c-.34518 0-.625.27982-.625.625s.27982.625.625.625h2.82075l-2.152 1.345c-.23644.14777-.3464.43429-.26953.7023.07686.26802.32196.4527.60078.4527h2.875v1.5625L7 8.96875 5.375 7.75c-.27614-.20711-.66789-.15114-.875.125-.20711.27614-.15114.66789.125.875l2 1.5c.22222.1667.52778.1667.75 0l2-1.5c.15738-.11803.25-.30328.25-.5v-2.5c0-.34518-.27982-.625-.625-.625H7.67925l2.152-1.345c.23645-.14777.34635-.43429.26955-.7023-.0769-.26802-.32198-.4527-.6008-.4527h-5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11648" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

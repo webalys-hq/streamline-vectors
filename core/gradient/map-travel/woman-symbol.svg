@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Woman-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Woman Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/woman-symbol--geometric-gender-female-person-human-user">
+    <path id="Union" fill="url(#paint0_linear_14402_10405)" fill-rule="evenodd" d="M7 2C5.48122 2 4.25 3.23122 4.25 4.75S5.48122 7.5 7 7.5s2.75-1.23122 2.75-2.75S8.51878 2 7 2Zm4.75 2.75c0 2.28031-1.6068 4.18533-3.75 4.64455V10.25h.75c.55228 0 1 .4477 1 1s-.44772 1-1 1H8V13c0 .5523-.44772 1-1 1s-1-.4477-1-1v-.75h-.75c-.55228 0-1-.4477-1-1s.44772-1 1-1H6v-.85545C3.85683 8.93533 2.25 7.03031 2.25 4.75 2.25 2.12665 4.37665 0 7 0s4.75 2.12665 4.75 4.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10405" x1="3.803" x2="12.589" y1="2.692" y2="5.996" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

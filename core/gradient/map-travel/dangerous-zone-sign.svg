@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dangerous-Zone-Sign--Streamline-Core-Gradient">
+  <desc>
+    Dangerous Zone Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/dangerous-zone-sign">
+    <path id="Subtract" fill="url(#paint0_linear_14402_9920)" fill-rule="evenodd" d="M5.70432 1.72881c.57882-.992257 2.01252-.992253 2.59134 0l5.25894 9.01539c.5833 1-.138 2.2558-1.2956 2.2558H1.74103C.583342 13-.137964 11.7442.44536 10.7442l5.25896-9.01539Zm2.1888 4.15706c.21311-.35518.09794-.81588-.25725-1.02899-.35518-.21311-.81588-.09794-1.02899.25725l-1.5 2.5c-.13902.2317-.14266.52026-.00953.75539.13313.23514.38245.38048.65265.38048h1.17536l-.81848 1.3641c-.21311.3552-.09794.8159.25725 1.029.35518.2131.81588.098 1.02899-.2572l1.5-2.50003c.13902-.2317.14266-.52026.00953-.75539C8.76952 7.39534 8.5202 7.25 8.25 7.25H7.07464l.81848-1.36413Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9920" x1="2.449" x2="12.727" y1="3.295" y2="9.704" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

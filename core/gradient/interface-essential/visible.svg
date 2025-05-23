@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Visible--Streamline-Core-Gradient">
+  <desc>
+    Visible Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/visible--eye-eyeball-open-view">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8913)" fill-rule="evenodd" d="M2.91288 3.16114C4.03319 2.26446 5.43971 1.49994 7 1.49994c1.56029 0 2.96681.76452 4.0871 1.6612 1.1263.90146 2.0171 1.97942 2.5558 2.70264l.0041.00557 0 .00003c.2335.32281.353.72605.353 1.13056 0 .40451-.1195.80774-.353 1.13056l-.0041.00563 0-.00003c-.5387.72321-1.4295 1.80117-2.5558 2.7026-1.12029.8967-2.52681 1.6612-4.0871 1.6612-1.56029 0-2.96681-.7645-4.08712-1.6612C1.7866 9.93727.895764 8.85931.357127 8.1361l-.00415-.00557.000039-.00003C.119494 7.80768 0 7.40445 0 6.99994c0-.40451.119494-.80775.353016-1.13056l.004072-.00563.000039.00003C.895764 5.14056 1.7866 4.0626 2.91288 3.16114ZM9.25 6.99994c0 1.24264-1.00736 2.25-2.25 2.25s-2.25-1.00736-2.25-2.25 1.00736-2.25 2.25-2.25 2.25 1.00736 2.25 2.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8913" x1="2.288" x2="12.159" y1="3.615" y2="10.576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

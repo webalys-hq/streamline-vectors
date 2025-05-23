@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tiktok--Streamline-Core-Gradient">
+  <desc>
+    Tiktok Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/tiktok">
+    <path id="Union" fill="url(#paint0_linear_14402_12885)" fill-rule="evenodd" d="M8.69061.99942c0-.552285-.44772-.999999834-1-.999999834-.55229 0-1 .447714834-1 .999999834v9.32748c0 .928-.75011 1.6766-1.67099 1.6766-.92088 0-1.67099-.7486-1.67099-1.6766 0-.73405.47041-1.35886 1.12589-1.58565.52193-.18058.79864-.75008.61806-1.27201-.18058-.52193-.75008-.79864-1.272-.61806-1.43838.49766-2.47195 1.86532-2.47195 3.47572 0 2.0286 1.64158 3.6766 3.67099 3.6766 2.02941 0 3.67099-1.648 3.67099-3.6766V5.68468c.82621.61547 1.85059.97975 2.96009.97975.5522 0 1-.44772 1-1.00001 0-.55228-.4478-1-1-1-1.6347 0-2.95988-1.32516-2.95988-2.95983 0-.00698-.00007-.01394-.00021-.02088V.99942Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12885" x1="12.612" x2="-1.996" y1="14.007" y2="7.374" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

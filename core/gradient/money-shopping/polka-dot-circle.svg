@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Polka-Dot-Circle--Streamline-Core-Gradient">
+  <desc>
+    Polka Dot Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/polka-dot-circle--crypto-circle-payment-blockchain-finance-polka-dot-currency">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14331)" fill-rule="evenodd" d="M14 7c0 3.866-3.134 7-7 7-3.86599 0-7-3.134-7-7 0-3.86599 3.13401-7 7-7 3.866 0 7 3.13401 7 7ZM4.28436 5.74944c0-1.55925 1.2065-2.82 2.71561-2.82 1.5213 0 2.7156 1.27335 2.7156 2.71561 0 1.4673-1.2183 2.81999-2.7156 2.81999-.32069 0-.64047.05887-.94242.17254l.51136-2.55682c.0677-.33847-.15181-.66774-.49029-.73543-.33847-.0677-.66774.15181-.73544.49029l-.88292 4.41458c-.0128.0341-.02504.0687-.0367.1037-.02606.0782-.03581.1579-.0311.2354l-.09321.466c-.0677.3385.15181.6678.49029.7354.33847.0677.66774-.1518.73543-.4902l.13831-.6916c.25505-.5831.80035-.89386 1.33669-.89386 2.26087 0 3.96563-1.98791 3.96563-4.06999 0-2.10714-1.72876-3.96561-3.96563-3.96561-2.24907 0-3.96561 1.87107-3.96561 4.07 0 .34518.27982.625.625.625s.625-.27982.625-.625Zm4.4084 5.42846c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75.33579-.75.75-.75.75.3358.75.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14331" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Low-1--Streamline-Core-Gradient">
+  <desc>
+    Battery Low 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/battery-low-1--phone-mobile-charge-device-electricity-power-battery-low">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12306)" fill-rule="evenodd" d="M.43934 2.43934C.720644 2.15804 1.10218 2 1.5 2h9c.3978 0 .7794.15804 1.0607.43934S12 3.10217 12 3.5v.75h1c.2652 0 .5196.10536.7071.29289.1875.18754.2929.44189.2929.70711v3.5c0 .26521-.1054.51957-.2929.70711-.1875.18753-.4419.29289-.7071.29289h-1v.75c0 .3978-.158.7794-.4393 1.0607S10.8978 12 10.5 12h-9c-.39783 0-.779356-.158-1.06066-.4393C.158035 11.2794 0 10.8978 0 10.5v-7c0-.39782.158035-.77936.43934-1.06066ZM3.625 5c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v4c0 .34518.27982.625.625.625s.625-.27982.625-.625V5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12306" x1="15.213" x2=".928" y1="14.118" y2="-.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

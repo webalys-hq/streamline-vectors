@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gift--Streamline-Core-Gradient">
+  <desc>
+    Gift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/gift--reward-box-social-present-gift-media-rating-bow">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13608)" fill-rule="evenodd" d="M3.42383.76988c.26518-.318207.7381-.3612 1.05631-.096027L7 2.77374 9.51986.673853C9.83807.40868 10.311.451673 10.5762.76988c.2651.31821.2221.79113-.0961 1.0563L9.07154 3.00002H12c.8284 0 1.5.67157 1.5 1.5v1.25c0 .82843-.6716 1.5-1.5 1.5H7.625V4.375h-1.25v2.87502H2c-.82843 0-1.5-.67157-1.5-1.5v-1.25c0-.82843.67157-1.5 1.5-1.5h2.92846l-1.4086-1.17384c-.31821-.26517-.3612-.73809-.09603-1.0563ZM6.375 8.50001H2c-.17075 0-.33786-.01556-.5-.04534V12c0 .3978.15804.7794.43934 1.0607S2.60217 13.5 3 13.5h3.375l0-4.99999ZM7.625 13.5H11c.3978 0 .7794-.158 1.0607-.4393S12.5 12.3978 12.5 12V8.45467c-.1621.02978-.3293.04534-.5.04534H7.625l0 4.99999Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13608" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

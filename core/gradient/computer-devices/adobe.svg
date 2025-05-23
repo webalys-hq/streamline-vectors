@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Adobe--Streamline-Core-Gradient">
+  <desc>
+    Adobe Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/adobe">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12246)" fill-rule="evenodd" d="M.499023.998962c0-.276142.223858-.5.5-.5H13.0011c.2762 0 .5.223858.5.5V13.0011c0 .2761-.2238.5-.5.5H.999023c-.276142 0-.5-.2239-.5-.5V.998962ZM1.53549 12.4642 5.43856 1.53555h3.12247L12.4641 12.4642H9.62941L6.9998 5.20185 5.37172 10.1223h1.51024l.78062 2.3419H1.53549Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12246" x1="13.457" x2="-1.94" y1="13.504" y2="4.842" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

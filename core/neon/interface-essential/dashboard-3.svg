@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-3--Streamline-Core-Neon">
+  <desc>
+    Dashboard 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-3--app-application-dashboard-home-layout-vertical">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M12.5 6h-4c-0.27614 0 -0.5 0.22386 -0.5 0.5v6c0 0.2761 0.22386 0.5 0.5 0.5h4c0.2761 0 0.5 -0.2239 0.5 -0.5v-6c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12.5 1h-4c-0.27614 0 -0.5 0.22386 -0.5 0.5v2.01c0 0.27614 0.22386 0.5 0.5 0.5h4c0.2761 0 0.5 -0.22386 0.5 -0.5V1.5c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.5 1h-4c-0.27614 0 -0.5 0.22386 -0.5 0.5v6c0 0.27614 0.22386 0.5 0.5 0.5h4c0.27614 0 0.5 -0.22386 0.5 -0.5v-6c0 -0.27614 -0.22386 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M5.5 9.98999h-4c-0.27614 0 -0.5 0.22381 -0.5 0.50001v2.01c0 0.2761 0.22386 0.5 0.5 0.5h4c0.27614 0 0.5 -0.2239 0.5 -0.5v-2.01c0 -0.2762 -0.22386 -0.50001 -0.5 -0.50001Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wheelchair-1--Streamline-Core-Gradient">
+  <desc>
+    Wheelchair 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/wheelchair-1--person-access-wheelchair-accomodation-human-disability-disabled-user">
+    <path id="Union" fill="url(#paint0_linear_14402_10399)" fill-rule="evenodd" d="M7.5 4.5c1.24264 0 2.25-1.00736 2.25-2.25S8.74264 0 7.5 0 5.25 1.00736 5.25 2.25 6.25736 4.5 7.5 4.5Zm0 1c.55228 0 1 .44772 1 1v2h1.3406c.8001 0 1.5231.47679 1.8383 1.21216l1.2402 2.89394c.2176.5076-.0176 1.0955-.5252 1.313-.5076.2176-1.0955-.0176-1.313-.5252L9.8406 10.5H8.5c-1.10457 0-2-.89543-2-2v-2c0-.55228.44772-1 1-1ZM4.76931 7.04174c.40794-.07178.68046-.46067.60868-.86862-.07178-.40795-.46067-.68046-.86862-.60868C2.51516 5.91532 1 7.65496 1 9.75 1 12.0972 2.90279 14 5.25 14c1.03972 0 1.99397-.3743 2.73243-.9947.31715-.2664.35826-.7395.09182-1.0567-.26644-.3171-.73953-.3582-1.05668-.0918-.47831.4018-1.09378.6432-1.76757.6432-1.51878 0-2.75-1.2312-2.75-2.75 0-1.35434.97978-2.48136 2.26931-2.70826Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10399" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

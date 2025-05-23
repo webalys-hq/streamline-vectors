@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bug-Antivirus-Debugging--Streamline-Core-Gradient">
+  <desc>
+    Bug Antivirus Debugging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/bug-antivirus-debugging--code-bug-security-programming-secure-computer-antivirus-block-protection-malware-debugging">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11843)" fill-rule="evenodd" d="M1.5 7c0-1.24838.41592-2.39961 1.11674-3.3227l1.91615 1.91616c-.00011.00067-.00022.00135-.00033.00202l4.20347 4.20347c.0004-.00038.0008-.00077.0012-.00115l1.58547 1.5855C9.39961 12.0841 8.24838 12.5 7 12.5c-3.03757 0-5.5-2.4624-5.5-5.5Zm6.09747 3.4282L3.44183 6.27253C3.11616 6.35427 2.875 6.64897 2.875 7c0 .41421.33579.75.75.75H4.5V8c0 .13848.01126.27434.03291.40669l-.95582.95582c-.29289.2929-.29289.76779 0 1.06069.2929.2929.76777.2929 1.06066 0l.62521-.62523C5.71273 10.2326 6.32514 10.5 7 10.5c.20592 0 .40602-.0249.59747-.0718Zm-2.3346-6.22608L3.67741 2.61666C4.60047 1.91588 5.75167 1.5 7 1.5c3.0376 0 5.5 2.46243 5.5 5.5 0 1.24833-.4159 2.39952-1.1167 3.3226L9.46714 8.40639C9.48876 8.27413 9.5 8.13838 9.5 8v-.25h.8749c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H9.5V6c0-.13843-.01125-.27424-.03289-.40655l.95599-.95597c.2929-.2929.2929-.76777 0-1.06066-.2929-.2929-.76778-.2929-1.06068 0l-.62529.62529C8.28734 3.76743 7.6749 3.5 7 3.5s-1.28735.26744-1.73713.70212ZM7 0C3.13401 0 0 3.13401 0 7c0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7 0-3.86599-3.134-7-7-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11843" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Website-1--Streamline-Core-Gradient">
+  <desc>
+    Browser Website 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/browser-website-1--app-code-apps-window-website-web">
+    <path id="Union" fill="url(#paint0_linear_14402_11586)" fill-rule="evenodd" d="M2 3.51562v8.31128c0 .0956.07749.1731.17308.1731h9.65382c.0956 0 .1731-.0775.1731-.1731V3.51562H2ZM2.17308.5C1.24906.5.5 1.24906.5 2.17308v9.65382c0 .924.74906 1.6731 1.67308 1.6731h9.65382c.924 0 1.6731-.7491 1.6731-1.6731V2.17308C13.5 1.24906 12.7509.5 11.8269.5H2.17308Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11586" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

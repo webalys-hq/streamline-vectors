@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Input-Box--Streamline-Core-Gradient">
+  <desc>
+    Input Box Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/input-box--cursor-text-formatting-type-format">
+    <path id="Union" fill="url(#paint0_linear_14402_7812)" fill-rule="evenodd" d="M3.5.499939c-.41421 0-.75.335786-.75.750001 0 .41421.33579.75.75.75h.75v9.99996H3.5c-.41421 0-.75.3358-.75.75 0 .4143.33579.75.75.75h3c.41421 0 .75-.3357.75-.75 0-.4142-.33579-.75-.75-.75h-.75V1.99994h.75c.41421 0 .75-.33579.75-.75 0-.414215-.33579-.750001-.75-.750001h-3ZM3 3.49994v6.99996H1.5c-.828427 0-1.5-.67153-1.5-1.49996v-4c0-.82843.671573-1.5 1.5-1.5H3Zm9.5 6.99996H7V3.49994h5.5c.8284 0 1.5.67157 1.5 1.5v4c0 .82843-.6716 1.49996-1.5 1.49996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7812" x1=".538" x2="15.902" y1="1.55" y2="10.876" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

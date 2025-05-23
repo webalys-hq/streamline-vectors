@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Oval-Notification--Streamline-Core-Gradient">
+  <desc>
+    Chat Bubble Oval Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/chat-bubble-oval-notification--messages-message-bubble-chat-oval-notify-ping">
+    <path id="Union" fill="url(#paint0_linear_14402_11137)" fill-rule="evenodd" d="M11.5 6.25c.8786 0 1.6867-.30218 2.3259-.80828C13.9399 5.94284 14 6.46439 14 7c0 3.866-3.134 7-6.99999 7-1.04305 0-2.03401-.2285-2.92449-.6384l-3.486545.6304c-.177085.032-.357717-.0336-.472969-.1718-.115253128-.1382-.1473452-.3277-.0840308-.4961L1.0328 10.6613C.377773 9.59586.0000069795 8.34138.0000069795 7c0-3.86599 3.1340030205-7 7.0000030205-7 .5356 0 1.05715.0601545 1.55827.174076C8.05218.813303 7.75 1.62136 7.75 2.5c0 2.07107 1.67893 3.75 3.75 3.75ZM14 2.5C14 3.88071 12.8807 5 11.5 5S9 3.88071 9 2.5 10.1193 0 11.5 0 14 1.11929 14 2.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11137" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

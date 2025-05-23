@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Cross-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Medical Cross Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/medical-cross-symbol--health-sign-medical-symbol-hospital-emergency">
+    <path id="Union" fill="url(#paint0_linear_14402_16254)" fill-rule="evenodd" d="M5.50003 0c-.27614 0-.5.223858-.5.5v3.07227L2.24606 2.01568c-.23885-.135-.54186-.05232-.67904.18528L.0670186 4.79904c-.06670047.11553-.084469.25292-.0493532.38162.0351158.1287.1202036.23802.2363376.30366L2.93558 6.99999.253973 8.51568c-.116134.06564-.2012219.17496-.2363376.30366-.0351158.1287-.017347311.26609.0493531.38162L1.56699 11.799c.13718.2376.44019.3203.67904.1853l2.754-1.5566V13.5c0 .2761.22386.5.5.5h3c.27614 0 .5-.2239.5-.5v-3.0723l2.75397 1.5566c.2389.135.5419.0523.6791-.1853l1.5-2.59804c.0667-.11552.0844-.25292.0493-.38161-.0351-.1287-.1202-.23803-.2363-.30367l-2.6816-1.51569 2.6816-1.51567c.1161-.06564.2012-.17497.2363-.30367.0351-.12869.0173-.26609-.0494-.38161l-1.5-2.59808c-.1371-.2376-.4402-.32028-.679-.18528L9.00003 3.57227V.5c0-.276142-.22386-.5-.5-.5h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16254" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

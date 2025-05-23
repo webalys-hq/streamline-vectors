@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Upscale-Spark--Streamline-Core-Gradient">
+  <desc>
+    Ai Upscale Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Artificial Intelligence/ai-upscale-spark--magnifier-zoom-view-find-search-ai">
+    <path id="Union" fill="url(#paint0_linear_14402_15546)" fill-rule="evenodd" d="M6.5 1.5c-2.76142 0-5 2.23858-5 5s2.23858 5 5 5 5-2.23858 5-5-2.23858-5-5-5ZM0 6.5C0 2.91015 2.91015 0 6.5 0 10.0899 0 13 2.91015 13 6.5c0 1.4341-.4644 2.75973-1.2511 3.8347l1.9584 1.9584c.3906.3905.3906 1.0237 0 1.4142-.3905.3905-1.0236.3905-1.4142 0l-1.9584-1.9584C9.25974 12.5356 7.9341 13 6.5 13 2.91015 13 0 10.0899 0 6.5Zm5.67246-3.08313c.19048-.8848 1.44274-.89111 1.64101-.00716l.02631.11726c.24981 1.11375 1.1307 1.9593 2.22641 2.15314.91171.16129.91171 1.47849 0 1.63978-1.09571.19384-1.9766 1.0394-2.22641 2.15314l-.02631.11727c-.19827.8839-1.45054.8776-1.64101-.00716l-.02166-.10062c-.2407-1.11811-1.12065-1.9701-2.21837-2.16429-.9099-.16097-.90991-1.47549 0-1.63646C4.53015 5.48758 5.4101 4.6356 5.6508 3.51749l.02166-.10062Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15546" x1="15.213" x2="-3.671" y1="16.966" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

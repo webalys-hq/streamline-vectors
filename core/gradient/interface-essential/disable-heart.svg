@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Disable-Heart--Streamline-Core-Gradient">
+  <desc>
+    Disable Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/disable-heart">
+    <path id="Union" fill="url(#paint0_linear_14402_9576)" fill-rule="evenodd" d="M.219548 1.28027c-.2928932-.292894-.2928932-.767768 0-1.060661.292893-.2928933.767767-.2928933 1.060662 0L2.41209 1.3515c.48868-.2071 1.03265-.30862 1.61144-.26668.98056.07105 2.00232.54906 2.9804 1.51647.97784-.96715 1.99869-1.44424 2.97836-1.51372 1.10571-.07841 2.08311.36846 2.79031 1.0735 1.3904 1.38619 1.827 3.8945.1017 5.61981-.0058.00582-.0118.01149-.0179.01702l-2.0978 1.90015 3.0216 3.02155c.2929.2929.2929.7678 0 1.0607-.2929.2929-.7678.2929-1.0607 0L.219548 1.28027Zm.220565 1.96948L8.72788 11.5375 7.3396 12.795c-.19051.1726-.48082.1726-.67134 0L1.15145 7.7979c-.0061-.00553-.01207-.0112-.01789-.01702C-.206355 6.44096-.251818 4.63885.440113 3.24975Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9576" x1=".537" x2="16.494" y1="1.131" y2="10.126" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Computer-Pc-Desktop--Streamline-Core-Gradient">
+  <desc>
+    Computer Pc Desktop Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/computer-pc-desktop--screen-desktop-monitor-device-electronics-display-pc-computer">
+    <path id="Union" fill="url(#paint0_linear_14402_12441)" fill-rule="evenodd" d="M7 3c0-.55228.44771-1 1-1h5c.5523 0 1 .44772 1 1v3.375l-3.7528 0C10.1819 4.91423 8.97689 3.75 7.5 3.75H7V3Zm3.25 4.625 3.75 0V13c0 .5523-.4477 1-1 1H8c-.46596 0-.85748-.3187-.9685-.75H7.5c1.51878 0 2.75-1.2312 2.75-2.75V7.625Zm1.3748-3.74994c-.0061 0-.0122.00011-.0183.00033-.3367.00977-.6066.28578-.6066.62484 0 .34524.2798.62511.6251.62511.0061 0 .0122-.00011.0183-.00033.3367-.00977.6066-.28578.6066-.62484 0-.34524-.2798-.62511-.6251-.62511ZM1.5 6.75c0-.13807.11193-.25.25-.25h5.5c.13807 0 .25.11193.25.25v3.5c0 .1381-.11193.25-.25.25h-5.5c-.13807 0-.25-.1119-.25-.25v-3.5ZM5.25 12h2C8.2165 12 9 11.2165 9 10.25v-3.5C9 5.7835 8.2165 5 7.25 5h-5.5C.783502 5 0 5.7835 0 6.75v3.5C0 11.2165.783502 12 1.75 12h2v.5h-.5c-.41421 0-.75.3358-.75.75s.33579.75.75.75h2.5c.41421 0 .75-.3358.75-.75s-.33579-.75-.75-.75h-.5V12Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12441" x1="15.213" x2="-1.631" y1="16.542" y2="2.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

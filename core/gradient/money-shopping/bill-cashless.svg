@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bill-Cashless--Streamline-Core-Gradient">
+  <desc>
+    Bill Cashless Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bill-cashless--currency-billing-payment-finance-no-cash-bill-money-accounting-cashless">
+    <path id="Union" fill="url(#paint0_linear_14402_13903)" fill-rule="evenodd" d="M.21967 1.28033c-.2928931-.292893-.2928931-.767767 0-1.06066.292893-.2928933.767767-.2928933 1.06066 0L3.06066 2H12.5c.8284 0 1.5.67157 1.5 1.5v7c0 .6599-.4262 1.2203-1.0183 1.421l.7986.7987c.2929.2929.2929.7677 0 1.0606-.2929.2929-.7677.2929-1.0606 0L.21967 1.28033Zm8.811 6.68969C9.17122 7.6763 9.25 7.34729 9.25 7c0-1.24264-1.00736-2.25-2.25-2.25-.34728 0-.67629.07878-.97002.21933l3.00069 3.00069ZM0 3.5c0-.20065.0393976-.3921.110879-.56704L5.49406 8.31614c.05896.06742.12239.13084.1898.18981L9.17791 12H1.5C.671573 12 0 11.3284 0 10.5v-7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13903" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

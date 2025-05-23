@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Crossover-Down--Streamline-Core-Gradient">
+  <desc>
+    Line Arrow Crossover Down Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/line-arrow-crossover-down--cross-move-over-arrow-arrows-down">
+    <path id="Union" fill="url(#paint0_linear_14402_9073)" fill-rule="evenodd" d="m13.5 8.75 0 4c0 .4142-.3358.75-.75.75l-4 0c-.41421 0-.75-.3358-.75-.75s.33579-.75.75-.75l2.1893 0L.71967 1.78033c-.292893-.29289-.292893-.76777 0-1.06066.29289-.292893.76777-.292893 1.06066 0L12 10.9393 12 8.75c0-.41421.3358-.75.75-.75s.75.33579.75.75ZM3.06066 12l2.71967-2.71967c.29289-.29289.29289-.76777 0-1.06066s-.76777-.29289-1.06066 0L2 10.9393 2 8.75C2 8.33579 1.66421 8 1.25 8c-.414213 0-.75.33579-.75.75l.000001 4c0 .4142.335786.75.749999.75l4 0c.41421 0 .75-.3358.75-.75S5.66421 12 5.25 12l-2.18934 0ZM13.2803.71967c.2929.29289.2929.76777 0 1.06066l-3.74997 3.75c-.29289.29289-.76777.29289-1.06066 0s-.29289-.76777 0-1.06066l3.75003-3.75c.2929-.292893.7677-.292893 1.0606 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9073" x1="2.188" x2="12.687" y1="2.688" y2="8.505" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

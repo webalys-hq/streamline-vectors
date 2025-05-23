@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="One-Vesus-One--Streamline-Core-Gradient">
+  <desc>
+    One Vesus One Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/one-vesus-one--entertainment-gaming-one-vesus-one">
+    <path id="Union" fill="url(#paint0_linear_14402_14732)" fill-rule="evenodd" d="M2 3c0-1.65685 1.34315-3 3-3s3 1.34315 3 3-1.34315 3-3 3-3-1.34315-3-3Zm-2 9c0-2.76142 2.23858-5 5-5 .74687 0 1.4555.16376 2.09193.45732-1.15747.55468-1.99966 1.67664-2.14975 3.02778l-.17425 1.5686c-.03623.3262-.01668.6446.05067.9463H.5c-.276142 0-.5-.2239-.5-.5V12Zm6.18433-1.3769c.14479-1.30345 1.24633-2.28979 2.55777-2.28979h2.5158c1.3114 0 2.413.98634 2.5578 2.28979l.1742 1.5686C14.097 13.1562 13.3423 14 12.3717 14c-.7008 0-1.323-.4486-1.5445-1.1135l-.0885-.2655c-.0352-.1055-.1338-.1766-.2448-.1766h-.98775c-.11101 0-.20969.0711-.24486.1766l-.08846.2655C8.95126 13.5514 8.32913 14 7.62825 14c-.97052 0-1.72529-.8438-1.61816-1.8083l.17424-1.5686Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14732" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

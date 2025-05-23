@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-User-Curriculum--Streamline-Core-Gradient">
+  <desc>
+    Business User Curriculum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/business-user-curriculum">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14037)" fill-rule="evenodd" d="M2.5 0c-.39782 0-.77936.158035-1.06066.43934C1.15804.720644 1 1.10218 1 1.5v11c0 .3978.15804.7794.43934 1.0607S2.10217 14 2.5 14h9c.3978 0 .7794-.158 1.0607-.4393S13 12.8978 13 12.5v-8c0-.13261-.0527-.25979-.1464-.35355L8.85355.146447C8.75979.0526784 8.63261 0 8.5 0h-6Zm.375 8.5c0-.34518.27982-.625.625-.625h7c.3452 0 .625.27982.625.625s-.2798.625-.625.625h-7c-.34518 0-.625-.27982-.625-.625Zm.625 1.875c-.34518 0-.625.2798-.625.625s.27982.625.625.625h4c.34518 0 .625-.2798.625-.625s-.27982-.625-.625-.625h-4Zm2.77297-6.85042c0 .56572-.45861 1.02433-1.02433 1.02433-.56573 0-1.02434-.45861-1.02434-1.02433 0-.56573.45861-1.02434 1.02434-1.02434.56572 0 1.02433.45861 1.02433 1.02434ZM3.42652 5.92764c.48332-.43278 1.12168-.69595 1.8215-.69595.69983 0 1.33818.26317 1.8215.69595.28689.25689.06285.66983-.32224.66983H3.74876c-.38508 0-.60912-.41294-.32224-.66983Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14037" x1="12.959" x2="-2.219" y1="14.003" y2="6.684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

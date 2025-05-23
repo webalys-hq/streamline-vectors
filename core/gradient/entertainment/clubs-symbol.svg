@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Clubs-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Clubs Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/clubs-symbol--entertainment-gaming-card-clubs-symbol">
+    <path id="Union" fill="url(#paint0_linear_14402_14640)" fill-rule="evenodd" d="M7 0C5.18535 0 3.71429 1.47106 3.71429 3.28571c0 .45409.09242.9437.25581 1.42066-.23213-.04138-.46215-.06351-.68439-.06351C1.47106 4.64286 0 6.11392 0 7.92857c0 1.81465 1.47106 3.28573 3.28571 3.28573.51918 0 1.08548-.1209 1.62679-.3311l-.51029 2.5175c-.0298.147.00799.2997.10296.4158.09496.1161.23705.1835.38708.1835h4.2155c.15003 0 .29212-.0674.38708-.1835.09497-.1161.13276-.2688.10296-.4158l-.51029-2.5175c.54131.2102 1.1076.3311 1.6268.3311C12.5289 11.2143 14 9.74322 14 7.92857s-1.4711-3.28571-3.2857-3.28571c-.2223 0-.4523.02213-.6844.06351.1634-.47696.2558-.96657.2558-1.42066C10.2857 1.47106 8.81465 0 7 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14640" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

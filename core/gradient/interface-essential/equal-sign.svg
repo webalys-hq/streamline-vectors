@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Equal-Sign--Streamline-Core-Gradient">
+  <desc>
+    Equal Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/equal-sign--interface-math-equal-sign-mathematics">
+    <path id="Union" fill="url(#paint0_linear_14402_9644)" fill-rule="evenodd" d="M1 3.49994c-.552285 0-1 .44771-1 1 0 .55228.447715 1 1 1h12c.5523 0 1-.44772 1-1 0-.55229-.4477-1-1-1H1Zm0 5c-.552285 0-1 .44771-1 1 0 .55226.447715.99996 1 .99996h12c.5523 0 1-.4477 1-.99996 0-.55229-.4477-1-1-1H1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9644" x1="2.288" x2="8.922" y1="4.846" y2="12.197" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

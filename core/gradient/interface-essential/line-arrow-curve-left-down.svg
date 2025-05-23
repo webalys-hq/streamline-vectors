@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Curve-Left-Down--Streamline-Core-Gradient">
+  <desc>
+    Line Arrow Curve Left Down Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/line-arrow-curve-left-down--arrow-bend-curve-change-direction-left-to-down">
+    <path id="Union" fill="url(#paint0_linear_14402_9058)" fill-rule="evenodd" d="M2.29289 11.2071c-.39052-.3905-.39052-1.0237 0-1.41421.39053-.39052 1.02369-.39052 1.41422 0L4.5 10.5858 4.5 5C4.5 2.23858 6.73858-2.071e-7 9.5-3.278e-7l1.5-6.56e-8C11.5523-4.175e-7 12 .447715 12 1c0 .55228-.4477 1-1 1L9.5 2c-1.65685 0-3 1.34315-3 3l0 5.5858.79289-.79291c.39053-.39052 1.02369-.39052 1.41422 0 .39052.39051.39052 1.02371 0 1.41421L6.2077 13.7065c-.00237.0024-.00475.0048-.00715.0071-.17976.1765-.42592.2856-.69755.2864L5.5 14l-.003 0c-.1345-.0004-.26275-.0273-.37978-.0759-.11708-.0484-.22682-.1201-.3222-.2149m-2.50213-2.5021 2.49954 2.4995Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9058" x1="3.923" x2="11.08" y1="2.288" y2="11.515" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

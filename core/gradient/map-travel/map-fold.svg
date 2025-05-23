@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Map-Fold--Streamline-Core-Gradient">
+  <desc>
+    Map Fold Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/map-fold--navigation-map-maps-gps-travel-fold">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10205)" fill-rule="evenodd" d="M8.75 1.42212 5.25.547119V12.5779l3.5.875V1.42212Zm1.5 11.78078 2.1138-.5285c.6678-.1669 1.1362-.7669 1.1362-1.4552V2.28078c0-.97585-.9171-1.69189-1.8638-1.45521l-1.3862.34655V13.2029ZM1.6362 1.32557 3.75.797119V12.8279l-1.3862.3465C1.41708 13.4111.5 12.6951.5 11.7192V2.78078c0-.6883.468446-1.28827 1.1362-1.45521Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10205" x1="2.625" x2="13.089" y1="3.029" y2="8.869" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Threat-Folder--Streamline-Core-Gradient">
+  <desc>
+    Threat Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/threat-folder--bug-folder-file-threat-danger">
+    <path id="Union" fill="url(#paint0_linear_14402_11766)" fill-rule="evenodd" d="M1.5 0C.671573 0 0 .671573 0 1.5v9c0 .8284.671573 1.5 1.5 1.5h3.2943c.03743-.0839.08088-.1674.13084-.25L7.8214 6.52686c.37838-.78362 1.18308-1.29599 2.06295-1.29599.88265 0 1.68985.51567 2.06665 1.30372L14 10.2934V3.5c0-.82843-.6716-1.5-1.5-1.5H6.39039l-.21595-.8638C6.0075.468445 5.40753 0 4.71922 0H1.5Zm9.2283 7.01164c-.3838-.67181-1.35255-.67181-1.73644 0L5.85345 12.5039C5.4725 13.1705 5.95387 14 6.72169 14h6.27681c.7678 0 1.2492-.8295.8683-1.4961l-3.1385-5.49226Zm-.2432 2.48833c0-.34518-.2798-.625-.62499-.625-.34518 0-.625.27982-.625.625V10.5c0 .3451.27982.625.625.625.34519 0 .62499-.2799.62499-.625V9.49997ZM9.86011 13.125c.34519 0 .62499-.2799.62499-.625 0-.3452-.2798-.625-.62499-.625-.34518 0-.625.2798-.625.625 0 .3451.27982.625.625.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11766" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Help--Streamline-Core-Gradient">
+  <desc>
+    Desktop Help Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/desktop-help--device-help-information-display-desktop-question-info">
+    <path id="Union" fill="url(#paint0_linear_14402_12765)" fill-rule="evenodd" d="M10 2.75c0-.69036.5596-1.25 1.25-1.25s1.25.55964 1.25 1.25S11.9404 4 11.25 4c-.4142 0-.75.33579-.75.75v.64648c0 .41422.3358.75.75.75s.75-.33578.75-.75c1.1543-.32646 2-1.3877 2-2.64648C14 1.23122 12.7688 0 11.25 0 9.73122 0 8.5 1.23122 8.5 2.75c0 .41421.33579.75.75.75s.75-.33579.75-.75ZM11.25 9c.5523 0 1-.44771 1-1s-.4477-1-1-1-1 .44771-1 1 .4477 1 1 1Zm-2.55581 2.5H12.75c.6904 0 1.25-.5596 1.25-1.25 0-.41421-.3358-.75-.75-.75-.3266 0-.6044.2087-.7073.5H1.5V3h5.22227c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75H1.25C.559644 1.5 0 2.05964 0 2.75v7.5c0 .6904.559644 1.25 1.25 1.25h4.05572l-.3579 1H4c-.41421 0-.75.3358-.75.75s.33579.75.75.75h6c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-.94791l-.3579-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12765" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

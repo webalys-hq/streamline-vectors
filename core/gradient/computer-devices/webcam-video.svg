@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Webcam-Video--Streamline-Core-Gradient">
+  <desc>
+    Webcam Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/webcam-video--work-video-meeting-camera-company-conference-office">
+    <path id="Union" fill="url(#paint0_linear_14402_13400)" fill-rule="evenodd" d="M1.5 1.75c-.39782 0-.779356.15804-1.06066.43934C.158035 2.47064 0 2.85218 0 3.25v7.5c0 .3978.158035.7794.43934 1.0607.281304.2813.66283.4393 1.06066.4393H9c.39783 0 .77936-.158 1.0607-.4393.2813-.2813.4393-.6629.4393-1.0607v-.98145l2.1174.93855c.0074.0033.015.0064.0226.0094.6683.2579 1.36-.2747 1.36-.9365V4.22c0-.65058-.6716-1.24692-1.3841-.92647l-.0018.00084-2.1141.93708V3.25c0-.39783-.158-.77936-.4393-1.06066C9.77936 1.90804 9.39783 1.75 9 1.75H1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13400" x1="13.953" x2="-.015" y1="12.252" y2="1.776" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

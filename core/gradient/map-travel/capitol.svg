@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Capitol--Streamline-Core-Gradient">
+  <desc>
+    Capitol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/capitol--capitol-travel-places">
+    <path id="Union" fill="url(#paint0_linear_14402_9834)" fill-rule="evenodd" d="M7.75003 1.25c0-.414214-.33579-.75-.75-.75-.41422 0-.75.335786-.75.75v.8202c-1.70533.32349-3.02746 1.72952-3.22458 3.47629l3.00386-2.00258c.58783-.39188 1.35363-.39188 1.94145 0l3.00384 2.00256c-.1971-1.74676-1.51925-3.15278-3.22457-3.47627V1.25Zm-.47264 3.33397c-.16795-.11196-.38675-.11196-.5547 0l-6.000001 4c-.183329.12222-.265045.35004-.201196.56092.063849.21088.258212.35511.478547.35511h.24999V12c-.414213 0-.749999.3358-.749999.75s.335786.75.749999.75H12.75c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75V9.5H13c.2204 0 .4147-.14423.4786-.35511.0638-.21088-.0179-.4387-.2012-.56092l-6.00001-4ZM2.75003 12V9.5h1V12h-1Zm2.5 0V9.5h1V12h-1Zm2.5 0V9.5h1V12h-1ZM10.25 12V9.5h1V12h-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9834" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop offset=".151" stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

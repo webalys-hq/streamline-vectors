@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hearts-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Hearts Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/hearts-symbol--entertainment-gaming-card-hearts-symbol">
+    <path id="Union" fill="url(#paint0_linear_14402_14632)" fill-rule="evenodd" d="M3.79374 1.00077c1.01542.02132 2.10754.48606 3.20848 1.48499 1.09914-.9969 2.18989-1.46013 3.20438-1.48035 1.1291-.022497 2.0753.50601 2.7325 1.28157 1.2828 1.51361 1.5662 4.11642-.0705 5.77216l-.0016.00165-4.24723 4.25701c-.9075.9096-2.32766.9096-3.23516 0L1.13738 8.06079l-.00164-.00165C-.504346 6.3999-.224398 3.79518 1.05911 2.28075 1.71665 1.5049 2.66363.977041 3.79374 1.00077Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14632" x1="15.213" x2="-1.631" y1="15.542" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

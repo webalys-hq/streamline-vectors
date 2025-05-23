@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Milkshake--Streamline-Core-Gradient">
+  <desc>
+    Milkshake Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/milkshake--milkshake-drink-takeaway-cup-cold-beverage">
+    <path id="Union" fill="url(#paint0_linear_14402_10466)" fill-rule="evenodd" d="M2.09752 4.75H1.75c-.41421 0-.75.33579-.75.75s.33579.75.75.75h.4376l.49117 6.1396C2.75153 13.299 3.51081 14 4.42319 14h5.15362c.91239 0 1.67169-.701 1.74439-1.6104l.4912-6.1396h.4376c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75h-.3475c-.0241-.80356-.2437-1.56218-.6143-2.22749l1.2421-1.24218c.2929-.292893.2929-.767767 0-1.06066-.2929-.2928932-.7677-.2928934-1.0606 0l-1.1109 1.11087C9.48415.507657 8.30534 0 7 0 4.3215 0 2.17571 2.13751 2.09752 4.75Zm1.50116 0h6.80262C10.3229 2.95808 8.84312 1.5 7 1.5c-1.84313 0-3.32286 1.45807-3.40132 3.25Zm6.70892 1.5H3.6924l.18 2.25h6.2552l.18-2.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10466" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

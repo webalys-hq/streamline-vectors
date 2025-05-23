@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Quality-Education--Streamline-Core-Gradient">
+  <desc>
+    Quality Education Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/quality-education">
+    <path id="Union" fill="url(#paint0_linear_14402_10790)" fill-rule="evenodd" d="M11 3H4.1275c-.08366 0-.16598-.02099-.23943-.06105l-1.83333-1c-.34743-.18951-.34743-.68839 0-.8779L3.88807.0610522C3.96152.0209917 4.04384 0 4.1275 0H11c.8284 0 1.5.671573 1.5 1.5 0 .82843-.6716 1.5-1.5 1.5ZM5.7069 5.29482c.24709.11231.47013.23202.6681.35579v7.76929c-.03863-.0421-.08556-.0882-.14175-.1374-.20647-.1806-.51715-.385-.94015-.5773C4.44919 12.3216 3.1877 12 1.5 12c-.27614 0-.5-.2239-.5-.5V5c0-.27614.22386-.5.5-.5 1.8123 0 3.21748.34508 4.2069.79482ZM7.625 13.4199V5.65061c.19797-.12377.42101-.24348.6681-.35579C9.28252 4.84508 10.6877 4.5 12.5 4.5c.2761 0 .5.22386.5.5v6.5c0 .2761-.2239.5-.5.5-1.6877 0-2.94919.3216-3.7931.7052-.423.1923-.73368.3967-.94015.5773-.05619.0492-.10312.0953-.14175.1374Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10790" x1="14.04" x2="-3.313" y1="16.262" y2="5.24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

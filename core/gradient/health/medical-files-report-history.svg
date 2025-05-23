@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Files-Report-History--Streamline-Core-Gradient">
+  <desc>
+    Medical Files Report History Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/medical-files-report-history">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16148)" fill-rule="evenodd" d="M1.43934.43934C1.72064.158035 2.10218 0 2.5 0H9c.13261 0 .25979.0526784.35355.146447L12.8536 3.64645C12.9473 3.74021 13 3.86739 13 4v8.5c0 .3978-.158.7794-.4393 1.0607S11.8978 14 11.5 14h-9c-.39783 0-.77936-.158-1.06066-.4393C1.15804 13.2794 1 12.8978 1 12.5v-11c0-.39782.15804-.779356.43934-1.06066Zm4.4393 4.89409c0-.23592.19126-.42718.42719-.42718h1.38834c.23593 0 .42719.19126.42719.42718v1.45148h1.45145c.23593 0 .42719.19126.42719.42719v1.38835c0 .23593-.19126.42718-.42719.42718H8.12136v1.45147c0 .2359-.19126.4271-.42719.4271H6.30583c-.23593 0-.42719-.1912-.42719-.4271V9.02763H4.42718C4.19126 9.02763 4 8.83637 4 8.60045V7.2121c0-.23593.19126-.42719.42718-.42719h1.45146V5.33343Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16148" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Paint-Bucket--Streamline-Core-Gradient">
+  <desc>
+    Paint Bucket Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/paint-bucket--bucket-color-colors-design-paint-painting">
+    <path id="Union" fill="url(#paint0_linear_14402_8189)" fill-rule="evenodd" d="M11.8503 5.86133c.22.22016.194.58428-.0551.77092L4.89561 11.8015c-.19514.1434-.43481.2128-.67634.196-.24153-.0169-.46924-.1189-.64259-.288L.294677 8.42637c-.171679-.17403-.2753533-.40383-.2922343-.64775-.016881-.24392.0541482-.48581.2002153-.68185L5.37012.204505c.18666-.2489632.55047-.2748275.77045-.054773L11.8503 5.86133Zm.1012 4.43647c-.4643.6967-.9515 1.5957-.9515 2.2175 0 1.1135.75 1.4846 1.5 1.4846s1.5-.3711 1.5-1.4846c0-.6218-.4872-1.5208-.9515-2.2175-.2646-.39714-.8324-.39714-1.097 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8189" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Computer-Chip-1--Streamline-Core-Gradient">
+  <desc>
+    Computer Chip 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/computer-chip-1--computer-device-chip-electronics-cpu-microprocessor">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12399)" fill-rule="evenodd" d="M5.75.75C5.75.335786 5.41421 0 5 0s-.75.335786-.75.75V2H3.5C2.67157 2 2 2.67157 2 3.5v.75H.75C.335786 4.25 0 4.58579 0 5s.335786.75.75.75H2v2.5H.75C.335786 8.25 0 8.58579 0 9s.335786.75.75.75H2v.75c0 .8284.67157 1.5 1.5 1.5h.75v1.25c0 .4142.33579.75.75.75s.75-.3358.75-.75V12h2.5v1.25c0 .4142.33579.75.75.75s.75-.3358.75-.75V12h.75c.8284 0 1.5-.6716 1.5-1.5v-.75h1.25c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H12v-2.5h1.25c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75H12V3.5c0-.82843-.6716-1.5-1.5-1.5h-.75V.75C9.75.335786 9.41421 0 9 0s-.75.335786-.75.75V2h-2.5V.75Zm1 6.875c-.34518 0-.625.27982-.625.625s.27982.625.625.625h2c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625h-2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12399" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

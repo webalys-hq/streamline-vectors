@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Watch-Circle-Time--Streamline-Core-Gradient">
+  <desc>
+    Watch Circle Time Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/watch-circle-time--device-timepiece-circle-watch-round-time-clock-analog">
+    <path id="Union" fill="url(#paint0_linear_14402_13346)" fill-rule="evenodd" d="M5.5 0c-.39782 0-.77936.158035-1.06066.43934C4.15804.720644 4 1.10217 4 1.5v1.49963C2.78555 3.91184 2 5.36418 2 7c0 1.63582.78555 3.0882 2 4.0004V12.5c0 .3978.15804.7794.43934 1.0607S5.10217 14 5.5 14h3c.39783 0 .77936-.158 1.06066-.4393C9.84196 13.2794 10 12.8978 10 12.5v-1.4996c1.2144-.9122 2-2.36458 2-4.0004 0-1.63582-.7856-3.08816-2-4.00037V1.5c0-.39783-.15804-.779356-.43934-1.06066C9.27936.158035 8.89782 0 8.5 0h-3Zm-2 7c0-1.933 1.567-3.5 3.5-3.5s3.5 1.567 3.5 3.5-1.567 3.5-3.5 3.5S3.5 8.933 3.5 7Zm4.1875-1.9563c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v1.9125c0 .16576.06585.32473.18306.44194l1.125 1.125c.24408.24408.6398.24408.88388 0 .24408-.24407.24408-.6398 0-.88388l-.94194-.94194V5.0437Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13346" x1="11.966" x2="-1.456" y1="14.003" y2="8.61" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Floppy-Disk--Streamline-Core-Gradient">
+  <desc>
+    Floppy Disk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/floppy-disk--disk-floppy-electronics-device-disc-computer-storage">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13007)" fill-rule="evenodd" d="M4.875.600262c-.19189.073922-.36835.187198-.51711.334746l-.00144.001443L.936447 4.35645l-.000003 0-.00144.00145c-.277116.27939-.433343.65649-.435 1.05H.5V12c0 .3978.158035.7794.43934 1.0607.2813.2813.66283.4393 1.06066.4393h.875V9.25c0-.29837.11853-.58452.3295-.7955.21098-.21097.49713-.3295.7955-.3295h6c.2984 0 .5845.11852.7955.3295.211.21098.3295.49713.3295.7955v4.25H12c.3978 0 .7794-.158 1.0607-.4393S13.5 12.3978 13.5 12V2c0-.39782-.158-.77935-.4393-1.060656-.2813-.281305-.6629-.43934-1.0607-.43934l-.875-.000001V3.75c0 .29837-.1185.58452-.3295.79549-.211.21098-.4971.32951-.7955.32951H6c-.29837 0-.58452-.11853-.7955-.32951-.21097-.21097-.3295-.49712-.3295-.79549V.600262Zm5-.100259L6.125.5v3.125h3.75V.500003ZM9.875 13.5h-5.75V9.375h5.75V13.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13007" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

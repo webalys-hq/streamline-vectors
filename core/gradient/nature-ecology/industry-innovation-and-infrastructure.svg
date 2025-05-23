@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Industry-Innovation-And-Infrastructure--Streamline-Core-Gradient">
+  <desc>
+    Industry Innovation And Infrastructure Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/industry-innovation-and-infrastructure">
+    <path id="Union" fill="url(#paint0_linear_14402_10845)" fill-rule="evenodd" d="M4 3.19878V6l3 1.5L10 6V3.19878L7.27951 4.55902c-.17596.08798-.38306.08798-.55902 0L4 3.19878Zm.69877-1.04816L7 3.30123l2.30123-1.15061-2.07762-1.03881c-.14077-.07038-.30645-.07038-.44722 0L4.69877 2.15062ZM7.5 9.19877V12l3 1.5 2.7236-1.3618c.1694-.0847.2764-.2578.2764-.4472V9.19877L10.7795 10.559c-.1759.088-.3831.088-.559 0L7.5 9.19877Zm.69877-1.04816L10.5 9.30123l2.3012-1.15062L10.5 7 8.19877 8.15061ZM.5 11.691V9.19877L3.22049 10.559c.17596.088.38306.088.55902 0L6.5 9.19877V12l-3 1.5-2.723607-1.3618C.607001 12.0535.5 11.8804.5 11.691Zm3-2.38977L1.19877 8.15061 3.5 7l2.30123 1.15061L3.5 9.30123Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10845" x1="2.625" x2="12.903" y1="3.452" y2="9.402" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

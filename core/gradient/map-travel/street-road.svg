@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Street-Road--Streamline-Core-Gradient">
+  <desc>
+    Street Road Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/street-road">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10369)" fill-rule="evenodd" d="M6.25 0H3.5c-.23973 0-.44573.170156-.491.405576L.509001 13.4056c-.028166.1464.010524.2978.105509.4128C.709495 13.9334.850856 14 1 14h5.25v-2.1538c0-.4142.33579-.75.75-.75s.75.3358.75.75V14H13c.1492 0 .2905-.0666.3855-.1816.095-.115.1337-.2664.1055-.4128L10.991.405576C10.9457.170156 10.7397 0 10.5 0H7.75v2.15385c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75V0Zm1.5 5.9231c0-.41422-.33579-.75-.75-.75s-.75.33578-.75.75v2.15384c0 .41422.33579.75.75.75s.75-.33578.75-.75V5.9231Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10369" x1="13.456" x2="-2.466" y1="14.003" y2="5.686" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

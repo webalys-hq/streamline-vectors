@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volume-Off--Streamline-Core-Gradient">
+  <desc>
+    Volume Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/volume-off--speaker-music-mute-volume-control-audio-off-mute-entertainment">
+    <path id="Union" fill="url(#paint0_linear_14402_15025)" fill-rule="evenodd" d="M.21967 1.28033c-.2928934-.292893-.2928934-.767767 0-1.06066.292893-.2928933.767767-.2928933 1.06066 0L5.5528 4.49214l3.35309-3.18072c.01843-.01748.03817-.03354.05903-.04802.98442-.683194 2.30848.0381 2.28508 1.22862v7.69728l2.5303 2.5304c.2929.2929.2929.7677 0 1.0606-.2929.2929-.7677.2929-1.0606 0L.21967 1.28033Zm2.57897 4.3404 7.32376 7.32377c-.40553.1128-.85855.0626-1.24748-.2073-.02265-.0157-.04396-.0333-.06372-.0525L5.5468 9.5064H4.25c-.82224 0-1.5-.682-1.5-1.50304V5.99729c0-.12971.01691-.25594.04864-.37656Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15025" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

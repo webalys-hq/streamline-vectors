@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Jump-Object--Streamline-Core-Gradient">
+  <desc>
+    Jump Object Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/jump-object">
+    <path id="Union" fill="url(#paint0_linear_14402_7877)" fill-rule="evenodd" d="M.5 1.24994c0-.414215.335786-.750001.75-.750001h11.5c.4142 0 .75.335786.75.750001 0 .41421-.3358.75-.75.75H1.25c-.414214 0-.75-.33579-.75-.75Zm0 11.49996c0-.4142.335786-.75.75-.75h11.5c.4142 0 .75.3358.75.75 0 .4143-.3358.75-.75.75H1.25c-.414214 0-.75-.3357-.75-.75Zm3-7.74996c0-.82843.67157-1.5 1.5-1.5h4c.82843 0 1.5.67157 1.5 1.5v4c0 .82843-.67157 1.49996-1.5 1.49996H5c-.82843 0-1.5-.67153-1.5-1.49996v-4Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7877" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

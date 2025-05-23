@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="New-Sticky-Note--Streamline-Core-Gradient">
+  <desc>
+    New Sticky Note Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/new-sticky-note--empty-common-file">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8081)" fill-rule="evenodd" d="M7.87497 13.4999H2c-.82843 0-1.5-.6715-1.5-1.5V1.99994C.5 1.17151 1.17157.499939 2 .499939h10c.8284 0 1.5.671571 1.5 1.500001v5.87451H8.49997c-.34518 0-.625.27982-.625.625v5.00005l0 .0004Zm1.25-.6249 3.75053-3.75055H9.12497V12.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8081" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

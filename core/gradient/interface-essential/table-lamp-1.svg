@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Table-Lamp-1--Streamline-Core-Gradient">
+  <desc>
+    Table Lamp 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/table-lamp-1--lighting-light-incandescent-bulb-lights-table-lamp">
+    <path id="Union" fill="url(#paint0_linear_14402_8631)" fill-rule="evenodd" d="M2.93926.939279c.2813-.281305.66283-.43934 1.06066-.43934h2c.39782 0 .77935.158035 1.06066.43934.22167.221671.36679.505581.41836.810661h.271c2.62336 0 4.74996 2.12665 4.74996 4.75v5.49996h.25c.4143 0 .75.3358.75.75 0 .4143-.3357.75-.75.75H7.74994c-.41421 0-.75-.3357-.75-.75 0-.4142.33579-.75.75-.75h3.24996V6.49994c0-1.79493-1.45504-3.25-3.24996-3.25H7.5407c.56042.38334 1.02813.88947 1.36647 1.48157.39531.6918.59986 1.47615.59273 2.2729-.00246.27439-.22559.49553-.49998.49553H.999916c-.274396 0-.497524-.22114-.49998-.49553-.007132-.79674.197411-1.5811.592724-2.2729.34652-.60641.82873-1.12264 1.40726-1.50914V1.99994c0-.39783.15803-.77936.43934-1.060661Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8631" x1=".999" x2="15.816" y1="1.55" y2="9.902" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

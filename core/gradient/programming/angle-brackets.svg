@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Angle-Brackets--Streamline-Core-Gradient">
+  <desc>
+    Angle Brackets Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/angle-brackets--code-angle-programming-file-bracket">
+    <path id="Union" fill="url(#paint0_linear_14402_11627)" fill-rule="evenodd" d="M5.86188 3.55183c.39052-.39052.39052-1.02369 0-1.41421-.39053-.39052-1.02369-.39052-1.41422 0L.292405 6.29288c-.3905244.39052-.3905244 1.02369 0 1.41421L4.44766 11.8623c.39053.3906 1.02369.3906 1.41422 0 .39052-.3905.39052-1.0236 0-1.4142L2.41373 6.99998l3.44815-3.44815Zm3.69358-1.41421c-.39052-.39052-1.02369-.39052-1.41421 0-.39053.39052-.39053 1.02369 0 1.41421l3.44815 3.44815-3.44815 3.44812c-.39053.3906-.39053 1.0237 0 1.4142.39052.3906 1.02369.3906 1.41421 0l4.15524-4.15521c.3905-.39052.3905-1.02369 0-1.41421L9.55546 2.13762Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11627" x1="13.956" x2=".172" y1="12.157" y2="1.625" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

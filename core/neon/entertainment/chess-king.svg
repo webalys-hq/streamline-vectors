@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chess-King--Streamline-Core-Neon">
+  <desc>
+    Chess King Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-king">
+    <path id="Vector 967" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m3.99766 6.28898 1.02772 2.37881 -0.76848 2.04641h5.48626l-0.76823 -2.04641 1.02767 -2.37881c0.1421 -0.398 -0.17514 -0.809 -0.62444 -0.809H4.62214c-0.4493 0 -0.76656 0.411 -0.62448 0.809Z" stroke-width="1"></path>
+    <path id="Vector 968" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 3.51716V0.5" stroke-width="1"></path>
+    <path id="Vector 969" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.99463 1.50513h2.01029" stroke-width="1"></path>
+    <path id="Ellipse 50" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.96303 5.48005c0 -1.08411 -0.87885 -1.96296 -1.96296 -1.96296s-1.96296 0.87885 -1.96296 1.96296" stroke-width="1"></path>
+    <path id="Rectangle 56" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.27208 11.3493c0.13612 -0.3792 0.51826 -0.6349 0.94869 -0.6349l7.55853 0c0.4304 0 0.8125 0.2557 0.9487 0.6349l0.772 2.1508h-11l0.77208 -2.1508Z" stroke-width="1"></path>
+  </g>
+</svg>

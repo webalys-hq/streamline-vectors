@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Remove-Subtract--Streamline-Core-Gradient">
+  <desc>
+    User Remove Subtract Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/user-remove-subtract--actions-remove-close-geometric-human-person-minus-single-user">
+    <path id="Union" fill="url(#paint0_linear_14402_8765)" fill-rule="evenodd" d="M2 2.99994C2 1.34308 3.34315-.0000610352 5-.0000610352S8 1.34308 8 2.99994c0 1.65685-1.34315 3-3 3s-3-1.34315-3-3ZM0 11.9999c0-2.76139 2.23858-4.99996 5-4.99996 2.50652 0 4.58226 1.84437 4.94413 4.24996H8.25c-1.0199 0-1.8615.7635-1.98453 1.75H.5c-.276142 0-.5-.2238-.5-.5v-.5Zm14 1.25c0-.4142-.3358-.75-.75-.75h-5c-.41421 0-.75.3358-.75.75 0 .4143.33579.75.75.75h5c.4142 0 .75-.3357.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8765" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

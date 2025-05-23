@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="No-Poverty--Streamline-Core-Gradient">
+  <desc>
+    No Poverty Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/no-poverty">
+    <path id="Union" fill="url(#paint0_linear_14402_10874)" fill-rule="evenodd" d="M6 2.5c0 1.10457-.89543 2-2 2s-2-.89543-2-2 .89543-2 2-2 2 .89543 2 2ZM4 5C2.067 5 .5 6.567.5 8.5c0 .27614.223858.5.5.5h3.43718l.0006-.00038C4.00683 8.44819 3.75 7.75409 3.75 7c0-.743.24933-1.42776.66888-1.97519C4.28154 5.00843 4.14175 5 4 5Zm5.58112.02481C10.0007 5.57224 10.25 6.257 10.25 7c0 .75409-.25683 1.4482-.68778 1.99962L9.56281 9H13c.2761 0 .5-.22386.5-.5C13.5 6.567 11.933 5 10 5c-.14175 0-.28154.00843-.41888.02481ZM10 4.5c1.1046 0 2-.89543 2-2s-.8954-2-2-2c-1.10457 0-2 .89543-2 2s.89543 2 2 2ZM9 7c0 1.10457-.89543 2-2 2s-2-.89543-2-2 .89543-2 2-2 2 .89543 2 2Zm-5.5 6c0-1.933 1.567-3.5 3.5-3.5s3.5 1.567 3.5 3.5c0 .2761-.2239.5-.5.5H4c-.27614 0-.5-.2239-.5-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10874" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

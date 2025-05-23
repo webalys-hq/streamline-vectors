@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nurse-Assistant-Emergency--Streamline-Core-Gradient">
+  <desc>
+    Nurse Assistant Emergency Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/nurse-assistant-emergency">
+    <path id="Union" fill="url(#paint0_linear_14402_16291)" fill-rule="evenodd" d="M5 0C3.34315 0 2 1.34315 2 3s1.34315 3 3 3 3-1.34315 3-3-1.34315-3-3-3Zm3.12864 8.09956C7.27208 7.41161 6.18411 7 5 7c-2.76142 0-5 2.23858-5 5v.5c0 .2761.223858.5.5.5h6.37456c-.38092-.3074-.62456-.7782-.62456-1.3058V9.80585c0-.92629.7509-1.67719 1.67718-1.67719h.20146v-.0291Zm1.25-.17238c0-.23592.19126-.42718.42719-.42718h1.88837c.2359 0 .4272.19126.4272.42718v1.45148h1.4514c.2359 0 .4272.19126.4272.42719v1.88835c0 .2359-.1913.4272-.4272.4272h-1.4514v1.4514c0 .2359-.1913.4272-.4272.4272H9.80583c-.23593 0-.42719-.1913-.42719-.4272v-1.4514H7.92718c-.23592 0-.42718-.1913-.42718-.4272V9.80585c0-.23593.19126-.42719.42718-.42719h1.45146V7.92718Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16291" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

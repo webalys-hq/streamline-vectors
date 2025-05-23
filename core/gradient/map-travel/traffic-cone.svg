@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Traffic-Cone--Streamline-Core-Gradient">
+  <desc>
+    Traffic Cone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/traffic-cone--street-sign-traffic-cone-road">
+    <path id="Union" fill="url(#paint0_linear_14402_10384)" fill-rule="evenodd" d="M5.06402 1.09556C5.24539.447805 5.8358 0 6.50846 0h.98308c.67267 0 1.26308.447804 1.44445 1.09556L9.64423 3.625H4.35577l.70825-2.52944ZM4.00577 4.875l-.98 3.5h7.94843l-.97997-3.5H4.00577ZM2.01077 12l.665-2.375h8.64843l.665 2.375H13c.5523 0 1 .4477 1 1s-.4477 1-1 1H1c-.552285 0-1-.4477-1-1s.447715-1 1-1h1.01077Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10384" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

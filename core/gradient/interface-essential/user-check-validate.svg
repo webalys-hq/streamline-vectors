@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Check-Validate--Streamline-Core-Gradient">
+  <desc>
+    User Check Validate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/user-check-validate--actions-close-checkmark-check-geometric-human-person-single-success-user">
+    <path id="Union" fill="url(#paint0_linear_14402_8801)" fill-rule="evenodd" d="M2 2.99994C2 1.34308 3.34315-.0000610352 5-.0000610352S8 1.34308 8 2.99994c0 1.65685-1.34315 3-3 3s-3-1.34315-3-3ZM0 11.9999c0-2.76139 2.23858-4.99996 5-4.99996 1.95902 0 3.65491 1.12664 4.47506 2.76733l-.57572.71963-.44922-.3369c-.88366-.66273-2.13726-.48364-2.8.4-.55924.7457-.51906 1.7547.03807 2.4499H.5c-.276142 0-.5-.2238-.5-.5v-.5Zm13.8357-3.28141c.2588-.32345.2063-.79542-.1171-1.05418-.3235-.25875-.7954-.20631-1.0542.11714L9.1185 12.2138 7.70004 11.15c-.33137-.2486-.80147-.1814-1.05.15-.24852.3313-.18137.8014.15 1.05l2 1.5c.32408.243.7826.1848 1.03566-.1315l4-5.00001Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8801" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

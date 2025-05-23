@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pentagon--Streamline-Core-Gradient">
+  <desc>
+    Pentagon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pentagon--pentagon-design-geometric-shape-shapes-shape">
+    <path id="Union" fill="url(#paint0_linear_14402_8277)" fill-rule="evenodd" d="M7.99385.711588c-.56748-.502007-1.42023-.502007-1.98772 0L.686137 5.41774C.21902 5.83096.0563188 6.4901.277501 7.07322L2.53771 13.0319c.22102.5827.7793.9681 1.4025.9681h6.11959c.6232 0 1.1815-.3854 1.4025-.9681l2.2602-5.95868c.2212-.58312.0585-1.24226-.4086-1.65548L7.99385.711588Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8277" x1=".704" x2="16.264" y1="1.439" y2="10.193" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

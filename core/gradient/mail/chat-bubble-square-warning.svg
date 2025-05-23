@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Square-Warning--Streamline-Core-Gradient">
+  <desc>
+    Chat Bubble Square Warning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/chat-bubble-square-warning--bubble-square-messages-notification-chat-message-warning-alert">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11122)" fill-rule="evenodd" d="M1.43935.43934C1.72065.158035 2.10219 0 2.50001 0H12.5c.3978 0 .7794.158035 1.0607.43934C13.842.720644 14 1.10217 14 1.5v10c0 .3978-.158.7794-.4393 1.0607S12.8978 13 12.5 13H4.56156l-3.940282.9851c-.177042.0442-.364136-.0115-.488129-.1454-.12399296-.1339-.1651889-.3247-.1074803-.4978l.9743413-2.923V1.5c0-.39782.15804-.779356.43934-1.06066Zm6.87889 2.35589c0-.41422-.33579-.75-.75-.75-.41422 0-.75.33578-.75.75v3.65863c0 .41422.33578.75.75.75.41421 0 .75-.33578.75-.75V2.79523ZM6.57056 9.58116c0-.55101.44668-.99769.99769-.99769s.99769.44668.99769.99769c0 .55104-.44668.99764-.99769.99764s-.99769-.4466-.99769-.99764Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11122" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

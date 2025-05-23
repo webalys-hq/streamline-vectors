@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Roadmap--Streamline-Core-Neon">
+  <desc>
+    Line Arrow Roadmap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="line-arrow-roadmap">
+    <path id="Vector 4496" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m11 13.5 2 -2 -2 -2" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.5 2h4.125C11.9367 2 13 3.06332 13 4.375v0c0 1.31168 -1.0633 2.375 -2.375 2.375H9.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.5 6.75H3.375C2.06332 6.75 1 7.81332 1 9.125v0C1 10.4367 2.06332 11.5 3.375 11.5H3.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1 2h2.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.5 11.5H13" stroke-width="1"></path>
+    <path id="Ellipse 1856" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.5 2a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" stroke-width="1"></path>
+    <path id="Ellipse 1857" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.5 11.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" stroke-width="1"></path>
+    <path id="Ellipse 1858" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M6.5 6.75a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" stroke-width="1"></path>
+  </g>
+</svg>

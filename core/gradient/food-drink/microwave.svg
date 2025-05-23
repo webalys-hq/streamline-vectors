@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Microwave--Streamline-Core-Gradient">
+  <desc>
+    Microwave Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/microwave--cook-food-appliances-cooking-nutrition-appliance-microwave-kitchenware">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10611)" fill-rule="evenodd" d="M0 2.5c0-.55228.447715-1 1-1h12c.5523 0 1 .44772 1 1v9c0 .5523-.4477 1-1 1H1c-.552285 0-1-.4477-1-1v-9Zm2.54627 1.08752h6.40742c.3217 0 .58249.2608.58249.5825v5.65994c0 .32174-.26079.58254-.58249.58254H2.54627c-.3217 0-.58249-.2608-.58249-.58254V4.17002c0-.3217.26079-.5825.58249-.5825Zm8.14583.74866c0-.34518.2798-.625.625-.625h1.0464c.3452 0 .625.27982.625.625s-.2798.625-.625.625h-1.0464c-.3452 0-.625-.27982-.625-.625Zm.625 1.53882c-.3452 0-.625.27982-.625.625s.2798.625.625.625h1.0464c.3452 0 .625-.27982.625-.625s-.2798-.625-.625-.625h-1.0464Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10611" x1="2.288" x2="12.159" y1="3.615" y2="10.576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

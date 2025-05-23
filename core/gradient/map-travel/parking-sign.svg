@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Parking-Sign--Streamline-Core-Gradient">
+  <desc>
+    Parking Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/parking-sign--discount-coupon-parking-price-prices-hotel">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10270)" fill-rule="evenodd" d="M.5 2C.5 1.17157 1.17157.5 2 .5h10c.8284 0 1.5.67157 1.5 1.5v10c0 .8284-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6716-1.5-1.5V2Zm4 .875c-.34518 0-.625.27982-.625.625v7c0 .3452.27982.625.625.625s.625-.2798.625-.625V8.125H8c1.1736 0 2.125-.9514 2.125-2.125V5c0-1.17361-.9514-2.125-2.125-2.125H4.5Zm3.5 4H5.125v-2.75H8c.48325 0 .875.39175.875.875v1c0 .48325-.39175.875-.875.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10270" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

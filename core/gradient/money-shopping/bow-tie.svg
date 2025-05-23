@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bow-Tie--Streamline-Core-Gradient">
+  <desc>
+    Bow Tie Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/bow-tie--bow-tie-dress-gentleman-cloth-clothing-accessories">
+    <path id="Union" fill="url(#paint0_linear_14402_13458)" fill-rule="evenodd" d="M0 3.97807c0-.77884.61174-1.47558 1.44421-1.46532.9693.01194 1.80312.16073 2.65849.51074.55987.22909 1.11994.54077 1.72563.94412C4.6124 4.43775 3.75 5.61816 3.75 7c0 1.37862.85838 2.55675 2.06984 3.0291-.6225.4113-1.19111.7275-1.75562.9567-.8568.3478-1.68373.487-2.65087.48C.592458 11.4598 0 10.7681 0 10.0022V3.97807ZM10.25 7c0-1.38184-.8624-2.56225-2.07834-3.03239.6057-.40335 1.16577-.71503 1.72564-.94412.8554-.35001 1.6892-.4988 2.6585-.51074C13.3883 2.50249 14 3.19923 14 3.97807v6.02413c0 .7659-.5925 1.4576-1.4133 1.4636-.9672.007-1.7941-.1322-2.65092-.48-.56451-.2292-1.13312-.5454-1.75562-.9567C9.39162 9.55675 10.25 8.37862 10.25 7ZM9 7c0 1.10457-.89543 2-2 2s-2-.89543-2-2 .89543-2 2-2 2 .89543 2 2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13458" x1="13.953" x2="1.648" y1="11.468" y2=".644" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

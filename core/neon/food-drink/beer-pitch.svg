@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Beer-Pitch--Streamline-Core-Neon">
+  <desc>
+    Beer Pitch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="beer-pitch--drink-glass-beer-pitch">
+    <path id="Vector 3023" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5h2c0.5523 0 1 -0.4477 1 -1v-3c0 -0.55228 -0.4477 -1 -1 -1h-2" stroke-width="1"></path>
+    <path id="Vector 3022" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.5v6c0 0.5523 -0.44772 1 -1 1h-5c-0.55228 0 -1 -0.4477 -1 -1v-4" stroke-width="1"></path>
+    <path id="Union" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.53637 2.57274C3.73908 1.39557 4.76495 0.5 6 0.5c1.23505 0 2.26092 0.89558 2.46363 2.07274C8.63433 2.52534 8.81421 2.5 9 2.5c1.1046 0 2 0.89543 2 2s-0.8954 2 -2 2H5.5v2c0 0.82843 -0.67157 1.5 -1.5 1.5s-1.5 -0.67157 -1.5 -1.5V6.43699C1.63739 6.21497 1 5.43192 1 4.5c0 -1.10457 0.89543 -2 2 -2 0.1858 0 0.36567 0.02533 0.53637 0.07274Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Folder-Add--Streamline-Core-Gradient">
+  <desc>
+    Folder Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/folder-add--add-folder-plus">
+    <path id="Subtract" fill="url(#paint0_linear_14402_7564)" fill-rule="evenodd" d="M.5 1.99994C.5 1.17151 1.17157.499939 2 .499939h2.71922c.68831 0 1.28828.468445 1.45522 1.136201l.21595.8638H12c.8284 0 1.5.67157 1.5 1.5v7.99996c0 .8285-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6715-1.5-1.5V1.99994Zm6.5 2.75c.41421 0 .75.33579.75.75v1.75H9.5c.41421 0 .75.33579.75.75s-.33579.75-.75.75H7.75v1.74996c0 .4143-.33579.75-.75.75s-.75-.3357-.75-.75V8.74994H4.5c-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75h1.75v-1.75c0-.41421.33579-.75.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7564" x1="1" x2="15.816" y1="1.55" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

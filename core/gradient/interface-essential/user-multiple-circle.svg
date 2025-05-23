@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Multiple-Circle--Streamline-Core-Gradient">
+  <desc>
+    User Multiple Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/user-multiple-circle--close-geometric-human-multiple-person-user-circle">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8785)" fill-rule="evenodd" d="M0 6.99994c0 3.86596 3.13401 6.99996 7 6.99996 3.866 0 7-3.134 7-6.99996 0-3.86599-3.134-7.0000010352-7-7.0000010352-3.86599 0-7 3.1340110352-7 7.0000010352Zm10.4999 2c.5303 0 1.0334.11815 1.4839.32938-.4099.87568-1.0439 1.62548-1.8281 2.17578-.15915-.8299-.51377-1.59045-1.01407-2.23174.41759-.17602.87657-.27342 1.35827-.27342Zm-5.49993-.5c2.08494 0 3.7973 1.59516 3.98326 3.63156-.61525.238-1.28399.3684-1.9832.3684-2.07313 0-3.87836-1.147-4.8157-2.84099.72253-.71613 1.71714-1.15897 2.81564-1.15897Zm2.00006-3c0 1.10457-.89543 2-2 2s-2-.89543-2-2 .89543-2 2-2 2 .89543 2 2Zm3.49997 2.5c.8285 0 1.5-.67157 1.5-1.5s-.6715-1.5-1.5-1.5c-.8284 0-1.49997.67157-1.49997 1.5s.67157 1.5 1.49997 1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8785" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

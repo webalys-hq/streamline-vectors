@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shipment-Remove--Streamline-Core-Gradient">
+  <desc>
+    Shipment Remove Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Shipping/shipment-remove--shipping-parcel-shipment-remove-subtract">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15910)" fill-rule="evenodd" d="M6.375.5H3.38268c-.57955 0-1.10725.333862-1.35547.85757L.742908 4.06731H6.375V.5ZM.5 12.0769V5.31731h6.4989l.0011 0 .0011 0H13.5v6.75959c0 .3774-.1499.7394-.4168 1.0063s-.6289.4168-1.0063.4168H1.92308c-.37743 0-.73939-.1499-1.00627-.4168C.649931 12.8163.5 12.4543.5 12.0769Zm12.7571-8.00959H7.625V.5h2.9923c.5796 0 1.1073.333862 1.3555.85757l1.2843 2.70974ZM5 8.72116c-.34518 0-.625.27982-.625.625s.27982.625.625.625h4c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625H5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15910" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

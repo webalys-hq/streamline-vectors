@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Building-2--Streamline-Core-Gradient">
+  <desc>
+    Building 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/building-2--real-home-tower-building-house-estate">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13942)" fill-rule="evenodd" d="M4.43765.609566c.18261-.146088.44209-.146088.6247 0l3.75 3.000004C8.93095 3.70445 9 3.84811 9 4v9c0 .2761-.22386.5-.5.5h-3v-2c0-.4142-.33579-.75-.75-.75s-.75.3358-.75.75v2H1c-.276142 0-.5-.2239-.5-.5V4c0-.15189.069045-.29555.187652-.39043L4.43765.609566ZM10.75 6c-.2761 0-.5.22386-.5.5V13c0 .2761.2239.5.5.5H13c.2761 0 .5-.2239.5-.5V6.5c0-.27614-.2239-.5-.5-.5h-2.25ZM2.625 8.5c0-.34518.27982-.625.625-.625h3c.34518 0 .625.27982.625.625s-.27982.625-.625.625h-3c-.34518 0-.625-.27982-.625-.625Zm.625-3.625c-.34518 0-.625.27982-.625.625s.27982.625.625.625h3c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13942" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

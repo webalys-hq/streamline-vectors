@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Equalizer-1--Streamline-Core-Gradient">
+  <desc>
+    Music Equalizer 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/music-equalizer-1--music-audio-note-wave-sound-equalizer-entertainment">
+    <path id="Union" fill="url(#paint0_linear_14402_15115)" fill-rule="evenodd" d="M7.7501.749756c0-.414214-.33579-.750000141-.75-.750000141-.41422 0-.75.335786141-.75.750000141V13.2503c0 .4143.33578.75.75.75.41421 0 .75-.3357.75-.75V.749756ZM3.87487 2.40371c.41421 0 .75.33579.75.75v7.69269c0 .4142-.33579.75-.75.75-.41422 0-.75-.3358-.75-.75V3.15371c0-.41421.33578-.75.75-.75ZM.749756 4.80767c.414214 0 .750004.33579.750004.75v2.88476c0 .41421-.33579.75-.750004.75s-.750000141-.33579-.750000141-.75V5.55767c0-.41421.335786141-.75.750000141-.75ZM10.1252 2.40371c.4142 0 .75.33579.75.75v7.69269c0 .4142-.3358.75-.75.75s-.74999-.3358-.74999-.75V3.15371c0-.41421.33579-.75.74999-.75Zm3.8752 3.15396c0-.41421-.3357-.75-.75-.75-.4142 0-.75.33579-.75.75v2.88476c0 .41421.3358.75.75.75.4143 0 .75-.33579.75-.75V5.55767Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15115" x1=".538" x2="16.495" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

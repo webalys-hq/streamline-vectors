@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Information-Circle--Streamline-Core-Gradient">
+  <desc>
+    Information Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/information-circle--information-frame-info-more-help-point-circle">
+    <path id="Subtract" fill="url(#paint0_linear_14402_7806)" fill-rule="evenodd" d="M7 13.9999c3.866 0 7-3.134 7-6.99996 0-3.86599-3.134-7.0000010352-7-7.0000010352-3.86599 0-7 3.1340110352-7 7.0000010352 0 3.86596 3.13401 6.99996 7 6.99996ZM5.5 9.37494c-.34518 0-.625.27982-.625.625 0 .34516.27982.62496.625.62496h3c.34518 0 .625-.2798.625-.62496 0-.34518-.27982-.625-.625-.625h-.875v-2.875c0-.34518-.27982-.625-.625-.625H6c-.34518 0-.625.27982-.625.625s.27982.625.625.625h.375v2.25H5.5Zm2.5-5.375c0 .55228-.44772 1-1 1s-1-.44772-1-1c0-.55229.44772-1 1-1s1 .44771 1 1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7806" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

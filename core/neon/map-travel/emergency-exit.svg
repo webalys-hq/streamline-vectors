@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Emergency-Exit--Streamline-Core-Neon">
+  <desc>
+    Emergency Exit Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="emergency-exit">
+    <path id="Ellipse 1993" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.5 5.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" stroke-width="1"></path>
+    <path id="Vector 5000" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10h2.58579c0.26521 0 0.51957 -0.10536 0.7071 -0.29289L6 7.5" stroke-width="1"></path>
+    <path id="Vector 5001" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.5 6h1.58579c0.26521 0 0.51957 0.10536 0.7071 0.29289l2.41422 2.41422C7.39464 8.89464 7.649 9 7.91421 9H9.5" stroke-width="1"></path>
+    <path id="Vector 5002" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m4.25 9.25 1.45711 1.4571c0.18753 0.1875 0.29289 0.4419 0.29289 0.7071V13.5" stroke-width="1"></path>
+    <path id="Vector 4999" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5 2.5v-1c0 -0.552285 0.44772 -1 1 -1h6.5c0.5523 0 1 0.447715 1 1v11c0 0.5523 -0.4477 1 -1 1h-4" stroke-width="1"></path>
+  </g>
+</svg>

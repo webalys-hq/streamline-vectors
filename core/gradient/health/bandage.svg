@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bandage--Streamline-Core-Gradient">
+  <desc>
+    Bandage Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/bandage--health-medical-hospital-medicine-capsule-bandage-vaccine">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16360)" fill-rule="evenodd" d="M9.91198.000938416C10.9959.000938416 12.0355.431536 12.802 1.198c.7664.76647 1.197 1.80603 1.197 2.88998s-.4306 2.1235-1.197 2.88997l-.3661.36606c-.0236.0298-.0491.05836-.0762.08551L7.42948 12.3597c-.02753.0275-.05626.0531-.08603.0768l-.36555.3655c-.76647.7665-1.80602 1.1971-2.88997 1.1971s-2.12351-.4306-2.88998-1.1971C.431484 12.0355.000887871 10.996.000887871 9.91203c0-1.08395.430596129-2.1235 1.197062129-2.88997l.36644-.36644c.02355-.02964.04888-.05807.07591-.0851l4.93018-4.93017c.0274-.0274.056-.05288.08562-.07644l.36591-.36591C7.78848.431536 8.82803.000938416 9.91198.000938416ZM10.1479 6.81219 7.18782 3.85215 3.85214 7.18783l2.96003 2.96007 3.33573-3.33571Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16360" x1=".013" x2="8.954" y1="2.232" y2="16.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".161" stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

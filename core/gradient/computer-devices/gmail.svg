@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gmail--Streamline-Core-Gradient">
+  <desc>
+    Gmail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/gmail">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12826)" fill-rule="evenodd" d="M9.28564 2.46256 7 3.92659 5.33943 2.86295v5.81361l1.39088.8909c.16438.10529.375.10529.53937 0l2.01596-1.29129V2.46256Zm.99996 10.14454h2.2858c.7872 0 1.4285-.6364 1.4285-1.4252V6.90503L10.6902 9.025l-.4046.25914v3.32296Zm3.7143-7.18651v-.42943L14 4.98297v-1.2367c0-1.38049-1.1346-2.35207-2.3595-2.35399-.4277-.00069-.8664.11683-1.2717.37642l-.0832.05329V7.7997l3.7143-2.37911ZM4.08943 12.6071V9.47287c-.07478-.01472-.14811-.04346-.21618-.08706l-.5633-.36081L0 6.90487v4.27703c0 .7888.641303 1.4252 1.42857 1.4252h2.66086ZM0 5.42043l3.98416 2.55198.10527.06743V2.06228l-.45834-.29358c-.19575-.12538-.3993-.21762-.60563-.27941C1.58109 1.0568 0 2.11662 0 3.74627v1.67416Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12826" x1="13.953" x2="-.665" y1="12.609" y2="2.345" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

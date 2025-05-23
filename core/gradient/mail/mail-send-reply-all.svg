@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Reply-All--Streamline-Core-Gradient">
+  <desc>
+    Mail Send Reply All Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/mail-send-reply-all--email-message-reply-all-actions-action-arrow">
+    <path id="Union" fill="url(#paint0_linear_14402_11225)" fill-rule="evenodd" d="M8 2.75002c0-.30334-.18273-.57682-.46299-.69291-.28025-.11608-.60284-.05192-.81734.16258l-2.75 2.75c-.29289.2929-.29289.76777 0 1.06066l2.75 2.75c.2145.2145.53709.27867.81734.16258C7.81727 8.82685 8 8.55337 8 8.25002V6.5h1c1.6569 0 3 1.34315 3 3V11c0 .5523.4477 1 1 1s1-.4477 1-1V9.5c0-2.76142-2.2386-5-5-5H8V2.75002Zm-3.96967.53031c.29289-.29289.29289-.76777 0-1.06066s-.76777-.29289-1.06066 0l-2.75 2.75c-.2928933.29289-.2928933.76777 0 1.06066l2.75 2.75c.29289.29289.76777.29289 1.06066 0s.29289-.76777 0-1.06066L1.81066 5.5l2.21967-2.21967Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11225" x1="15.213" x2=".928" y1="14.118" y2="-.088" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

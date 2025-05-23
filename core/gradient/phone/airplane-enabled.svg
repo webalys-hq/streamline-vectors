@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Airplane-Enabled--Streamline-Core-Gradient">
+  <desc>
+    Airplane Enabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Phone/airplane-enabled--server-plane-airplane-enabled-on-wireless-mode-internet-network">
+    <path id="Union" fill="url(#paint0_linear_14402_15689)" fill-rule="evenodd" d="M8.9217.931281c-.9803-1.241708-2.8632-1.241708-3.84349 0-.58037.735139-.834 1.675829-.70219 2.602719l.15482 1.67822L.522628 7.24495c-.167992.0852-.273849.25758-.273849.44594v1.31684c0 .14682.064528.28622.176466.38122.111938.095.259973.136.404836.11213l4.495199-.7408.13862 1.44322-1.51416 1.2167c-.1181.0949-.1868.2383-.1868.3898v1.69c0 .1635.07993.3167.21405.4102.13412.0935.30548.1155.45888.0589l2.56408-.9451 2.56408.9451c.15341.0566.32477.0346.45887-.0589s.2141-.2467.2141-.4102v-1.69c0-.1515-.0687-.2949-.1868-.3898l-1.51419-1.2167.13861-1.44322 4.49518.7408c.1449.02387.2929-.01713.4049-.11213.1119-.095.1764-.2344.1764-.38122V7.69089c0-.18836-.1058-.36074-.2738-.44594L9.46906 5.21222l.15482-1.6782c.13182-.9269-.12181-1.8676-.70218-2.602739Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15689" x1="2.456" x2="13.543" y1="2.692" y2="8.617" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Application-Add--Streamline-Core-Gradient">
+  <desc>
+    Application Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/application-add--application-new-add-square">
+    <path id="Union" fill="url(#paint0_linear_14402_11867)" fill-rule="evenodd" d="M1.90909.5C1.13087.5.5 1.13087.5 1.90909v3.18182C.5 5.86913 1.13087 6.5 1.90909 6.5h3.18182C5.86913 6.5 6.5 5.86913 6.5 5.09091V1.90909C6.5 1.13087 5.86913.5 5.09091.5H1.90909ZM7.5 8.90909C7.5 8.13087 8.13087 7.5 8.90909 7.5h3.18181c.7782 0 1.4091.63087 1.4091 1.40909v3.18181c0 .7782-.6309 1.4091-1.4091 1.4091H8.90909C8.13087 13.5 7.5 12.8691 7.5 12.0909V8.90909ZM1.90909 7.5C1.13087 7.5.5 8.13087.5 8.90909v3.18181c0 .7782.63087 1.4091 1.40909 1.4091h3.18182C5.86913 13.5 6.5 12.8691 6.5 12.0909V8.90909C6.5 8.13087 5.86913 7.5 5.09091 7.5H1.90909ZM10.5.5c.4142 0 .75.335786.75.75v1.50001h1.5c.4142 0 .75.33578.75.75 0 .41421-.3358.75-.75.75h-1.5v1.50001c0 .41421-.3358.75-.75.75s-.75-.33579-.75-.75V4.25001h-1.5c-.41421 0-.75-.33579-.75-.75 0-.41422.33579-.75.75-.75h1.5V1.25c0-.414214.3358-.75.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11867" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

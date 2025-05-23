@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Workspace-Desk--Streamline-Core-Gradient">
+  <desc>
+    Workspace Desk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Work Education/workspace-desk--workspace-desk-work">
+    <path id="Union" fill="url(#paint0_linear_14402_15363)" fill-rule="evenodd" d="M4.17914 1.53399c0-.01878.01522-.03399.03398-.03399h5.57286c.01876 0 .03398.01521.03398.03399v3.34879c0 .01878-.01522.03399-.03398.03399H4.21312c-.01876 0-.03398-.01521-.03398-.03399V1.53399ZM4.21312 0c-.8472 0-1.53398.686795-1.53398 1.53399v3.34879c0 .8472.68678 1.53399 1.53398 1.53399H6.2498l-.00093 1.10851H2.78232C1.74854 7.52528 1 8.40861 1 9.38383V13.25c0 .4142.33579.75.75.75s.75-.3358.75-.75v-2.5378l9 0V13.25c0 .4142.3358.75.75.75s.75-.3358.75-.75v-3.0296c0-.0028.0001-.0055.0001-.0082 0-.0027-.0001-.0054-.0001-.0081v-.82027c0-.97521-.7485-1.85855-1.7823-1.85855H7.74887l.00093-1.10851h2.03618c.84722 0 1.53402-.68679 1.53402-1.53399V1.53399C11.32.686794 10.6332 0 9.78598 0H4.21312Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15363" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

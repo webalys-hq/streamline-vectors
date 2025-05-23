@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Printer--Streamline-Core-Gradient">
+  <desc>
+    Printer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/printer--scan-device-electronics-printer-print-computer">
+    <path id="Union" fill="url(#paint0_linear_14402_13142)" fill-rule="evenodd" d="M4 .5c-.26522 0-.51957.105357-.70711.292893C3.10536.980429 3 1.23478 3 1.5V3h8V1.5c0-.26522-.1054-.51957-.2929-.707107C10.5196.605356 10.2652.5 10 .5H4ZM2 4.25c-.39783 0-.77936.15804-1.06066.43934C.658035 4.97064.5 5.35218.5 5.75V10c0 .3978.158035.7794.43934 1.0607.2813.2813.66283.4393 1.06066.4393h.75V9.75C2.75 8.7835 3.5335 8 4.5 8h5c.9665 0 1.75.7835 1.75 1.75v1.75H12c.3978 0 .7794-.158 1.0607-.4393S13.5 10.3978 13.5 10V5.75c0-.39783-.158-.77936-.4393-1.06066C12.7794 4.40804 12.3978 4.25 12 4.25H2Zm8 1.375c-.34518 0-.625.27982-.625.625s.27982.625.625.625h1c.3452 0 .625-.27982.625-.625s-.2798-.625-.625-.625h-1ZM4.5 9.25c-.27614 0-.5.22386-.5.5v2.75c0 .2652.10536.5196.29289.7071.18754.1875.44189.2929.70711.2929h4c.26521 0 .51957-.1054.70711-.2929C9.89464 13.0196 10 12.7652 10 12.5V9.75c0-.27614-.22386-.5-.5-.5h-5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13142" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

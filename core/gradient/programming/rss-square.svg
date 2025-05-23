@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rss-Square--Streamline-Core-Gradient">
+  <desc>
+    Rss Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/rss-square--wireless-rss-feed-square-transmit-broadcast">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11658)" fill-rule="evenodd" d="M.5 1.92308C.5 1.13713 1.13713.5 1.92308.5H12.0769c.786 0 1.4231.63713 1.4231 1.42308V12.0769c0 .786-.6371 1.4231-1.4231 1.4231H1.92308C1.13713 13.5.5 12.8629.5 12.0769V1.92308ZM4 9c-.55228 0-1 .44771-1 1 0 .5523.44772 1 1 1s1-.4477 1-1c0-.55229-.44772-1-1-1Zm-.125-2.5c0-.34518.27982-.625.625-.625.96141 0 1.88344.38192 2.56326 1.06174C7.74308 7.61656 8.125 8.53859 8.125 9.5c0 .34518-.27982.625-.625.625s-.625-.27982-.625-.625c0-.62989-.25022-1.23398-.69562-1.67938S5.12989 7.125 4.5 7.125c-.34518 0-.625-.27982-.625-.625ZM4.5 2.875c-.34518 0-.625.27982-.625.625s.27982.625.625.625c1.42554 0 2.79269.56629 3.8007 1.5743S9.875 8.07446 9.875 9.5c0 .34518.2798.625.625.625s.625-.27982.625-.625c0-1.75706-.698-3.44215-1.94042-4.68458C7.94215 3.57299 6.25706 2.875 4.5 2.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11658" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

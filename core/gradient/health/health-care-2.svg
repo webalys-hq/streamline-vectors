@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Health-Care-2--Streamline-Core-Gradient">
+  <desc>
+    Health Care 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Health/health-care-2--health-medical-hospital-heart-care-symbol">
+    <path id="Union" fill="url(#paint0_linear_14402_16344)" fill-rule="evenodd" d="M7 0C5.61929 0 4.5 1.11929 4.5 2.5S5.61929 5 7 5s2.5-1.11929 2.5-2.5S8.38071 0 7 0Zm1.57494 5.71726c1.02426-.96874 2.63056-.95445 3.63736.03232 1.0834 1.06174 1.044 2.8188-.086 3.83077L7.33359 13.8725c-.18988.17-.47726.1701-.66714 0L1.87372 9.58035c-1.13-1.01197-1.169452-2.76903-.08607-3.83077 1.0069-.98677 2.61315-1.00106 3.63742-.03232l1.57495 1.48957 1.57491-1.48957.00001 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16344" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

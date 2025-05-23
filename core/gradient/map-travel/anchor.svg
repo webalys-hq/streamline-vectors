@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Anchor--Streamline-Core-Gradient">
+  <desc>
+    Anchor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/anchor--anchor-marina-harbor-port-travel-places">
+    <path id="Union" fill="url(#paint0_linear_14402_9733)" fill-rule="evenodd" d="M6.25 2.25c0-.41421.33579-.75.75-.75s.75.33579.75.75S7.41421 3 7 3s-.75-.33579-.75-.75Zm3 0c0 .97966-.62611 1.81309-1.5 2.12197V5.25h.75c.41421 0 .75.33579.75.75s-.33579.75-.75.75h-.75l0 5.6878c1.88438-.3162 3.3716-1.8034 3.6878-3.6878H11c-.4142 0-.75-.33579-.75-.75s.3358-.75.75-.75h1.25c.4142 0 .75.33579.75.75 0 3.3137-2.6863 6-6 6-3.31371 0-6-2.6863-6-6 0-.41421.33579-.75.75-.75H3c.41421 0 .75.33579.75.75s-.33579.75-.75.75h-.43778c.31614 1.8844 1.8034 3.3716 3.68778 3.6878l0-5.6878H5.5c-.41421 0-.75-.33579-.75-.75s.33579-.75.75-.75h.75v-.87803c-.87389-.30888-1.5-1.14231-1.5-2.12197C4.75 1.00736 5.75736 0 7 0s2.25 1.00736 2.25 2.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9733" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

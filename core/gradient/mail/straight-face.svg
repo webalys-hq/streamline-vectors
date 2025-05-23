@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Straight-Face--Streamline-Core-Gradient">
+  <desc>
+    Straight Face Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Mail/straight-face--smiley-chat-message-indifferent-emoji-face-poker">
+    <path id="Subtract" fill="url(#paint0_linear_14402_11441)" fill-rule="evenodd" d="M14 7c0-3.86599-3.134-7-7-7-3.86599 0-7 3.13401-7 7 0 3.866 3.13401 7 7 7 3.866 0 7-3.134 7-7ZM5.75 5.25c0-.55228-.44772-1-1-1s-1 .44772-1 1c0 .55229.44772 1 1 1s1-.44771 1-1ZM4.5 8.875c-.34518 0-.625.27982-.625.625s.27982.625.625.625h5c.34518 0 .625-.27982.625-.625s-.27982-.625-.625-.625h-5ZM9.25 4.25c.55228 0 1 .44772 1 1 0 .55229-.44772 1-1 1s-1-.44771-1-1c0-.55228.44772-1 1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11441" x1="2.288" x2="13.596" y1="2.692" y2="8.957" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

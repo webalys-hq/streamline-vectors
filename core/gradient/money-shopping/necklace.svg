@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Necklace--Streamline-Core-Gradient">
+  <desc>
+    Necklace Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/necklace--diamond-money-payment-finance-wealth-accessory-necklace-jewelry">
+    <path id="Union" fill="url(#paint0_linear_14402_13643)" fill-rule="evenodd" d="M2.5 5.1905C2.5 3.15229 4.15229 1.5 6.1905 1.5h1.619C9.84771 1.5 11.5 3.15229 11.5 5.1905c0 1.08556-.4779 2.11607-1.3067 2.81728L8.77605 9.20704 7.3 8.1c-.17778-.13333-.42222-.13333-.6 0L5.22395 9.20704l-1.4173-1.19926C2.97795 7.30657 2.5 6.27606 2.5 5.1905Zm2 5.3689L2.83774 9.15286C1.67221 8.16664 1 6.71729 1 5.1905 1 2.32387 3.32387 0 6.1905 0h1.619C10.6761 0 13 2.32387 13 5.1905c0 1.52679-.6722 2.97614-1.8377 3.96236L9.5 10.5594V12c0 .1574-.0741.3056-.2.4l-2 1.5c-.17778.1333-.42222.1333-.6 0l-2-1.5c-.1259-.0944-.2-.2426-.2-.4v-1.4406Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13643" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

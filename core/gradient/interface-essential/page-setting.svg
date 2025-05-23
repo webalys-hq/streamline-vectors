@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Page-Setting--Streamline-Core-Gradient">
+  <desc>
+    Page Setting Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/page-setting--page-setting-square-triangle-circle-line-combination-variation">
+    <path id="Union" fill="url(#paint0_linear_14402_8156)" fill-rule="evenodd" d="M10.75.499939c.1823 0 .3502.099266.4381.259041l2.75 5c.0852.1549.0823.34327-.0077.49544-.09.15217-.2536.24552-.4304.24552H8c-.17678 0-.34042-.09335-.4304-.24552-.08997-.15217-.0929-.34054-.00771-.49544l2.75001-5c.0879-.159775.2558-.259041.4381-.259041Zm-10 .750001c0-.276143.223858-.500001.5-.500001h4.5c.27614 0 .5.223858.5.500001v4.5c0 .27614-.22386.5-.5.5h-4.5c-.276142 0-.5-.22386-.5-.5v-4.5Zm2.75 6.25c-1.65685 0-3 1.34314-3 2.99996 0 1.6569 1.34315 3 3 3s3-1.3431 3-3c0-1.65682-1.34315-2.99996-3-2.99996Zm5.13.25c-.34517 0-.625.27982-.625.625s.27983.625.625.625h4.245c.3452 0 .625-.27982.625-.625s-.2798-.625-.625-.625H8.63Zm0 4.49996c-.34517 0-.625.2799-.625.625 0 .3452.27983.625.625.625h4.245c.3452 0 .625-.2798.625-.625 0-.3451-.2798-.625-.625-.625H8.63Zm-.625-1.625c0-.3451.27983-.62496.625-.62496h4.245c.3452 0 .625.27986.625.62496 0 .3452-.2798.625-.625.625H8.63c-.34517 0-.625-.2798-.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8156" x1="1.019" x2="16.12" y1="1.55" y2="10.389" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

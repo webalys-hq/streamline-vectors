@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Open-Book--Streamline-Core-Gradient">
+  <desc>
+    Open Book Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/open-book--content-books-book-open">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8135)" fill-rule="evenodd" d="M6.25 12.862V2.46254c-.05923-.05121-.12074-.10293-.18453-.15492C5.17964 1.58546 3.84479.800743 2.06284.568301 1.1722.452122.5 1.19172.5 1.99999v6.99999c0 .84312.67829 1.46142 1.4335 1.55992 1.55261.2025 2.71867.8857 3.50011 1.5228.35264.2875.62493.564.81639.7793Zm1.5-10.39946V12.862c.19146-.2153.46375-.4918.81639-.7793.78144-.6371 1.94751-1.3203 3.50011-1.5228.7552-.0985 1.4335-.7168 1.4335-1.55992V1.99999c0-.80827-.6722-1.547868-1.5628-1.431689-1.782.232442-3.11684 1.017159-4.00267 1.739319-.06379.05199-.1253.10371-.18453.15492Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8135" x1="13.456" x2="-1.521" y1="12.864" y2="3.964" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signal-Full--Streamline-Core-Gradient">
+  <desc>
+    Signal Full Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Phone/signal-full--phone-mobile-device-signal-wireless-smartphone-iphone-bar-bars-full-android">
+    <path id="Union" fill="url(#paint0_linear_14402_15725)" fill-rule="evenodd" d="M13.0004.5h-2.6625c-.2762 0-.50001.223858-.50001.5v12c0 .2761.22381.5.50001.5h2.6625c.2761 0 .5-.2239.5-.5V1c0-.276142-.2239-.5-.5-.5ZM3.66247 7H1c-.276142 0-.5.22386-.5.5V13c0 .2761.223857.5.5.5h2.66247c.27615 0 .5-.2239.5-.5V7.5c0-.27614-.22385-.5-.5-.5Zm2.00648-2.75h2.66247c.27614 0 .5.22386.5.5V13c0 .2761-.22386.5-.5.5H5.66895c-.27615 0-.5-.2239-.5-.5V4.75c0-.27614.22385-.5.5-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15725" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

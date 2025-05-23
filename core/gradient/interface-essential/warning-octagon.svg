@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warning-Octagon--Streamline-Core-Gradient">
+  <desc>
+    Warning Octagon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/warning-octagon--frame-alert-warning-octagon-exclamation-caution">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8930)" fill-rule="evenodd" d="M4.10355.939279c.28131-.281304.66284-.43934 1.06066-.43934h3.67158c.39782 0 .77935.158035 1.06066.43934L13.0607 4.10349c.2813.28131.4393.66284.4393 1.06066v3.67158c0 .39782-.158.77935-.4393 1.06066L9.89645 13.0606c-.28131.2813-.66284.4393-1.06066.4393H5.16421c-.39782 0-.77935-.158-1.06066-.4393L.93934 9.89639C.658036 9.61508.5 9.23355.5 8.83573V5.16415c0-.39782.158035-.77935.43934-1.06066L4.10355.939279ZM7 3.12494c.41421 0 .75.33579.75.75v3.25c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75v-3.25c0-.41421.33579-.75.75-.75Zm1 6.75c0 .55226-.44772.99996-1 .99996s-1-.4477-1-.99996c0-.55229.44772-1 1-1s1 .44771 1 1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8930" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

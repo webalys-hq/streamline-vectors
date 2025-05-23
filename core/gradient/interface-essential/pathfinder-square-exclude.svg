@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Square-Exclude--Streamline-Core-Gradient">
+  <desc>
+    Pathfinder Square Exclude Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/pathfinder-square-exclude">
+    <path id="Union" fill="url(#paint0_linear_14402_8215)" fill-rule="evenodd" d="M2 .499939h7c.82843 0 1.5.671571 1.5 1.500001v1.5H12c.8284 0 1.5.67157 1.5 1.5v6.99996c0 .8285-.6716 1.5-1.5 1.5H5c-.82843 0-1.5-.6715-1.5-1.5v-1.5H2c-.82843 0-1.5-.67153-1.5-1.49996v-7C.5 1.17151 1.17157.499939 2 .499939ZM5 8.99994h3.5c.27614 0 .5-.22386.5-.5v-3.5H5.5c-.27614 0-.5.22386-.5.5v3.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8215" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

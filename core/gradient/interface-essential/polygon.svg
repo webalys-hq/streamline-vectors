@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Polygon--Streamline-Core-Gradient">
+  <desc>
+    Polygon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/polygon--polygon-octangle-design-geometric-shape-shapes-shape">
+    <path id="Union" fill="url(#paint0_linear_14402_8320)" fill-rule="evenodd" d="M5.16421.499939c-.39782 0-.77935.158036-1.06066.43934L.93934 4.10349C.658035 4.3848.5 4.76633.5 5.16415v3.67158c0 .39782.158036.77935.43934 1.06066l3.16421 3.16421c.28131.2813.66284.4393 1.06066.4393h3.67158c.39782 0 .77935-.158 1.06066-.4393l3.16425-3.16421c.2813-.28131.4393-.66284.4393-1.06066V5.16415c0-.39782-.158-.77935-.4393-1.06066L9.89645.939279c-.28131-.281305-.66284-.43934-1.06066-.43934H5.16421Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8320" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

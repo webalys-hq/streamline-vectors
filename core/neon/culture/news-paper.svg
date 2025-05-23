@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="News-Paper--Streamline-Core-Neon">
+  <desc>
+    News Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="news-paper--newspaper-periodical-fold-content-entertainment">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.5 3.38095v7.80955c0 0.3473 -0.1317 0.6804 -0.3661 0.9259 -0.2344 0.2456 -0.5524 0.3836 -0.8839 0.3836m0 0c-0.3315 0 -0.6495 -0.138 -0.8839 -0.3836 -0.2344 -0.2455 -0.3661 -0.5786 -0.3661 -0.9259V2.02381c0 -0.13892 -0.0527 -0.27216 -0.1464 -0.37039C10.7598 1.55519 10.6326 1.5 10.5 1.5H1c-0.132608 0 -0.259785 0.05519 -0.353553 0.15342C0.552678 1.75165 0.5 1.88489 0.5 2.02381v9.42859c0 0.2778 0.105357 0.5443 0.292893 0.7408 0.187537 0.1964 0.441887 0.3068 0.707107 0.3068h10.75Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8 4.25H3.5v2.5H8v-2.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9.75H8" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heading-2-Paragraph-Styles-Heading--Streamline-Core-Gradient">
+  <desc>
+    Heading 2 Paragraph Styles Heading Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/heading-2-paragraph-styles-heading">
+    <path id="Union" fill="url(#paint0_linear_14402_7623)" fill-rule="evenodd" d="M1.5.749939c0-.414214-.33579-.7500000352-.75-.7500000352-.414214 0-.75.3357860352-.75.7500000352V11.2499c0 .4143.335786.75.75.75.41421 0 .75-.3357.75-.75V6.74994h4v4.49996c0 .4143.33579.75.75.75s.75-.3357.75-.75V.749939c0-.414214-.33579-.7500000352-.75-.7500000352S5.5.335725 5.5.749939V5.24994h-4V.749939Zm9.25 5.750001c-.98084 0-1.81326.62718-2.12178 1.50006-.13803.39054.06666.81903.4572.95707.39054.13803.81903-.06666.95708-.4572.1033-.29231.3821-.49993.7075-.49993h1.0389c.3927 0 .7111.31836.7111.71109 0 .28251-.1672.53823-.4261.65146l-2.22574.97381C9.02919 10.6946 8.5 11.5037 8.5 12.3976v.8523c0 .4143.33579.75.75.75h4c.4142 0 .75-.3357.75-.75 0-.4142-.3358-.75-.75-.75H10v-.1023c0-.298.1764-.5677.4494-.6871l2.2258-.9738C13.48 10.3846 14 9.58949 14 8.71103c0-1.22115-.9899-2.21109-2.2111-2.21109H10.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7623" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

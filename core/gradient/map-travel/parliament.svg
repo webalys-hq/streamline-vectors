@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Parliament--Streamline-Core-Gradient">
+  <desc>
+    Parliament Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/parliament--travel-places-parliament">
+    <path id="Union" fill="url(#paint0_linear_14402_10276)" fill-rule="evenodd" d="M6.25 1.25c0-.414214.33579-.75.75-.75h1c.41421 0 .75.335786.75.75 0 .41421-.33579.75-.75.75h-.25v1.5c0 .01401-.00038.02793-.00114.04175l1.10469 1.1047C8.94732 4.74021 9 4.86739 9 5v1.5H5V5c0-.13261.05268-.25979.14645-.35355l1.10469-1.1047C6.25038 3.52793 6.25 3.51401 6.25 3.5V1.25ZM2 5c.16718 0 .32329.08355.41603.22265l1 1.5C3.47078 6.80478 3.5 6.90129 3.5 7v6.5H1c-.276142 0-.5-.2239-.5-.5V7c0-.09871.029219-.19522.083975-.27735l.999995-1.5C1.67671 5.08355 1.83282 5 2 5Zm10.416.22265C12.3233 5.08355 12.1672 5 12 5s-.3233.08355-.416.22265l-1 1.5c-.0548.08213-.084.17864-.084.27735v6.5H13c.2761 0 .5-.2239.5-.5V7c0-.09871-.0292-.19522-.084-.27735l-1-1.5ZM5 7.5h-.5v6h1.75v-2c0-.4142.33579-.75.75-.75s.75.3358.75.75v2H9.5v-6H5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10276" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

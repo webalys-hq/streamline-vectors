@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chess-Knight--Streamline-Core-Neon">
+  <desc>
+    Chess Knight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-knight">
+    <path id="Vector 1178" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.57157 10.7143c0.15884 -0.83938 1.30596 -1.80375 2.11781 -2.44667C7.63431 6.72738 7.4541 5.41017 7.13642 5.053l-1.9325 1.11746c-0.46766 0.27043 -1.05657 0.20704 -1.45597 -0.15673v0c-0.4323 -0.39373 -0.53087 -1.03592 -0.23656 -1.54119l1.47197 -2.52696L4.41862 0.659754c0.92946 -0.333363 3.50147 -0.157085 4.51799 0.642986 1.27069 1.00009 2.89429 2.51814 1.55299 9.41156" stroke-width="1"></path>
+    <path id="Vector 1179" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7.77308 3.97144c-0.1126 0.48791 -0.38733 0.82617 -0.63148 1.02927" stroke-width="1"></path>
+    <path id="Rectangle 56" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2.27208 11.3493c0.13612 -0.3792 0.51826 -0.6349 0.94869 -0.6349l7.55853 0c0.4304 0 0.8125 0.2557 0.9487 0.6349l0.772 2.1508h-11l0.77208 -2.1508Z" stroke-width="1"></path>
+  </g>
+</svg>

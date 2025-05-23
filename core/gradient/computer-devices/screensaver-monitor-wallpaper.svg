@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screensaver-Monitor-Wallpaper--Streamline-Core-Gradient">
+  <desc>
+    Screensaver Monitor Wallpaper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/screensaver-monitor-wallpaper">
+    <path id="Union" fill="url(#paint0_linear_14402_13202)" fill-rule="evenodd" d="M1.5 6.85266V2h11v7.5H9.57928L5.05266 5.255c-.00708-.00664-.01435-.01307-.0218-.01928-.17956-.14974-.40596-.23181-.63984-.23181-.22686 0-.44669.07722-.62356.21852L1.5 6.85266ZM5.30572 11H1.25C.559644 11 0 10.4404 0 9.75v-8C0 1.05964.559644.5 1.25.5h11.5c.6904 0 1.25.55964 1.25 1.25v8c0 .6904-.5596 1.25-1.25 1.25H8.69419l.3579 1H10c.4142 0 .75.3358.75.75s-.3358.75-.75.75H4c-.41421 0-.75-.3358-.75-.75S3.58579 12 4 12h.94782l.3579-1Zm6.19758-6.39062c0-.90581-.7335-1.64063-1.639-1.64063-.90546 0-1.63896.73482-1.63896 1.64063 0 .9058.7335 1.64062 1.63896 1.64062.9055 0 1.639-.73482 1.639-1.64062Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13202" x1="2.288" x2="13.187" y1="3" y2="9.503" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

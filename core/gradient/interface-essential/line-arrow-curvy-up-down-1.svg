@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Curvy-Up-Down-1--Streamline-Core-Gradient">
+  <desc>
+    Line Arrow Curvy Up Down 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/line-arrow-curvy-up-down-1--both-direction-arrow-curvy-diagram-zigzag-vertical">
+    <path id="Vector 4386 (Stroke)" fill="url(#paint0_linear_14402_9100)" fill-rule="evenodd" d="M13.7803 3.78031c.2929-.29289.2929-.76777 0-1.06066l-2.5-2.500002c-.2145-.21449829-.5371-.2786653-.8173-.1625793C10.1827.173154 10 .446631 10 .749978L10 11.375c0 .6213-.50368 1.125-1.125 1.125s-1.125-.5037-1.125-1.125l0-8.75002c0-1.44975-1.17525-2.6250022591-2.625-2.6250023224C3.67525-.0000223858 2.5 1.17523 2.5 2.62498l0 8.81432-1.21967-1.2197c-.292893-.29285-.767767-.29285-1.06066 0-.292893.2929-.292893.7678 0 1.0607l2.5 2.5c.2145.2145.53709.2787.81734.1626C3.81727 13.8268 4 13.5533 4 13.25L4 2.62498c0-.62132.50368-1.125 1.125-1.125s1.125.50368 1.125 1.125l0 8.75002C6.25 12.8247 7.42525 14 8.875 14c1.4497 0 2.625-1.1753 2.625-2.625l0-8.81436 1.2197 1.21967c.2929.29289.7677.29289 1.0606 0Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9100" x1="1.851" x2="8.196" y1="2.187" y2="13.45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

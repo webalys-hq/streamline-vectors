@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cloud-Warning--Streamline-Core-Gradient">
+  <desc>
+    Cloud Warning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/cloud-warning--cloud-network-internet-server-warning-alert">
+    <path id="Union" fill="url(#paint0_linear_14402_11904)" fill-rule="evenodd" d="M7.88496.0318033C6.89132-.0886374 5.88643.135202 5.03785.665994 4.24794 1.16009 3.63793 1.89236 3.29404 2.75443c-.42969.04733-.84817.16967-1.2363.36184-.43533.21555-.82395.51472-1.143653.88045-.645678.73862-.9714928 1.70349-.90577008 2.68234C.0740396 7.65791.525917 8.57056 1.26454 9.21623c.73426.64187 1.6921.96767 2.665.90687H5V7.5c0-1.10457.89543-2 2-2s2 .89543 2 2v2.6231h1.7805l.003 0c.7918-.0047 1.5544-.29965 2.1434-.82893.589-.52927.9635-1.25614 1.0526-2.04299.089-.78684-.1135-1.57902-.5694-2.22654-.4182-.5942-1.0231-1.02873-1.7155-1.23658-.1254-.92519-.5438-1.78792-1.1965-2.46022C9.80091.609685 8.87859.152244 7.88496.0318033ZM7 6.75c.41421 0 .75.33579.75.75v3c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-3c0-.41421.33579-.75.75-.75ZM6 13c0-.5523.44772-1 1-1s1 .4477 1 1-.44772 1-1 1-1-.4477-1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11904" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

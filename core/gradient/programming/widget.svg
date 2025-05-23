@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Widget--Streamline-Core-Gradient">
+  <desc>
+    Widget Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Programming/widget">
+    <path id="Union" fill="url(#paint0_linear_14402_11857)" fill-rule="evenodd" d="M8.56839 6.5V2c0-.82843-.67157-1.5-1.5-1.5H2C1.17157.5.5 1.17157.5 2v4.5C.5 7.32843 1.17157 8 2 8l5.06839 0c.82843 0 1.5-.67157 1.5-1.5Zm4.93161 4V12c0 .8284-.6715 1.5-1.5 1.5l-9.99997 0C1.1716 13.5.500029 12.8284.500029 12l.000001-1.5c0-.82843.67157-1.5 1.5-1.5L12 9c.8285 0 1.5.67157 1.5 1.5Zm0-9v1.25c0 .55229-.4477 1-1 1l-1.9687 0c-.55231 0-1.00002-.44772-1.00002-1V1.5c0-.552285.44772-1 1.00002-1H12.5c.5523 0 1 .447716 1 1Zm0 5.5V5.75c0-.55228-.4477-1-1-1h-1.9687c-.5523 0-1.00002.44772-1.00002 1V7c0 .55229.44771 1 1.00002 1H12.5c.5523 0 1-.44771 1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11857" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pool-Ladder--Streamline-Core-Gradient">
+  <desc>
+    Pool Ladder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/pool-ladder--pool-stairs-swim-swimming-water-ladder-hotel">
+    <path id="Union" fill="url(#paint0_linear_14402_10319)" fill-rule="evenodd" d="M3 .5c-.41421 0-.75.335786-.75.75 0 .41421.33579.75.75.75s.75.33579.75.75v6.76772c.84807.12131 1.5.85068 1.5 1.73228v-3h3.5v3c0-.8816.65193-1.61097 1.5-1.73228V2.75C10.25 1.50736 9.24264.5 8 .5c-.41421 0-.75.335786-.75.75 0 .41421.33579.75.75.75s.75.33579.75.75v1h-3.5v-1C5.25 1.50736 4.24264.5 3 .5Zm5.75 6.25v-1.5h-3.5v1.5h3.5Zm-5.25 4c.27614 0 .5.2239.5.5 0 .6904.55964 1.25 1.25 1.25s1.25-.5596 1.25-1.25c0-.2761.22386-.5.5-.5s.5.2239.5.5c0 .6904.55964 1.25 1.25 1.25S10 11.9404 10 11.25c0-.2761.2239-.5.5-.5s.5.2239.5.5c0 .6904.5596 1.25 1.25 1.25.1926 0 .3738-.0432.5355-.12.1549-.0736.3367-.0627.4816.0289.145.0917.2329.2512.2329.4227V13c0 .2761-.2239.5-.5.5H1c-.276142 0-.5-.2239-.5-.5v-.1684c0-.1715.087893-.331.232861-.4227.144967-.0916.326779-.1025.481689-.0289.16169.0768.34282.12.53545.12.69036 0 1.25-.5596 1.25-1.25 0-.2761.22386-.5.5-.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10319" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

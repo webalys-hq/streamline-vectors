@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ticket-2--Streamline-Core-Gradient">
+  <desc>
+    Ticket 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/ticket-2--hobby-ticket-event-entertainment-stub-theater-entertainment-culture">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16485)" fill-rule="evenodd" d="M8.4845 1H1.56667C.656899 1 0 1.79678 0 2.67529v2.15728c0 .22274.147344.41862.361354.48039C.998549 5.49686 1.51667 6.15885 1.51667 7c0 .84115-.518121 1.50314-1.155316 1.68704C.147344 8.74881 0 8.94469 0 9.16743v2.15727C0 12.2032.656899 13 1.56667 13H8.4845v-2.3906c0-.3452.27982-.62502.625-.62502.34517 0 .625.27982.625.62502V13h2.6988C13.3431 13 14 12.2032 14 11.3247V9.16254c0-.22103-.1451-.41583-.3569-.47908C13.0115 8.4948 12.5 7.8356 12.5 7s.5115-1.4948 1.1431-1.68346c.2118-.06325.3569-.25805.3569-.47908V2.67529C14 1.79678 13.3431 1 12.4333 1H9.7345v2.39062c0 .34518-.27983.625-.625.625-.34518 0-.625-.27982-.625-.625V1Zm.625 4.30469c.34517 0 .625.27982.625.625v2.14062c0 .34518-.27983.625-.625.625-.34518 0-.625-.27982-.625-.625V5.92969c0-.34518.27982-.625.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16485" x1="13.953" x2="-1.302" y1="13.002" y2="2.991" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

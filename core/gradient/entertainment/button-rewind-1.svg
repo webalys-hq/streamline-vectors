@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Rewind-1--Streamline-Core-Gradient">
+  <desc>
+    Button Rewind 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/button-rewind-1--rewind-television-button-movies-buttons-tv-video-controls">
+    <path id="Union" fill="url(#paint0_linear_14402_14917)" fill-rule="evenodd" d="M7.50012 2.49746c0-1.36886-1.67853-1.985668-2.61181-1.04291L.430998 5.95712c-.574664.58049-.574664 1.50532 0 2.08582L4.88831 12.5455c.93328.9428 2.61181.326 2.61181-1.0429V8.61784l3.88818 3.92766c.9333.9428 2.6118.326 2.6118-1.0429V2.49746c0-1.36886-1.6785-1.985668-2.6118-1.04291L7.50012 5.38221V2.49746Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14917" x1="15.213" x2="-1.627" y1="15.539" y2="1.579" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

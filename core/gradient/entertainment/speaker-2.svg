@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Speaker-2--Streamline-Core-Gradient">
+  <desc>
+    Speaker 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/speaker-2--speakers-music-audio-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15069)" fill-rule="evenodd" d="M1 1.5C1 .671573 1.67157 0 2.5 0h9c.8284 0 1.5.671573 1.5 1.5v11c0 .8284-.6716 1.5-1.5 1.5h-9c-.82843 0-1.5-.6716-1.5-1.5v-11Zm6 .77649c.41421 0 .75.33579.75.75s-.33579.75-.75.75-.75-.33579-.75-.75.33579-.75.75-.75ZM7 5C5.067 5 3.5 6.567 3.5 8.5S5.067 12 7 12s3.5-1.567 3.5-3.5S8.933 5 7 5Zm.00004 2.75H7c-.41421 0-.75.33579-.75.75s.33579.75.75.75h.00004c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15069" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

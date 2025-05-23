@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Printer--Streamline-Core-Neon">
+  <desc>
+    Printer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="printer--scan-device-electronics-printer-print-computer">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 4.5v-3c0 -0.13261 -0.0527 -0.25979 -0.1464 -0.35355C10.2598 1.05268 10.1326 1 10 1H4c-0.13261 0 -0.25979 0.05268 -0.35355 0.14645C3.55268 1.24021 3.5 1.36739 3.5 1.5v3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10.5 11H12c0.2652 0 0.5196 -0.1054 0.7071 -0.2929S13 10.2652 13 10V5.5c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C12.5196 4.60536 12.2652 4.5 12 4.5H2c-0.26522 0 -0.51957 0.10536 -0.70711 0.29289C1.10536 4.98043 1 5.23478 1 5.5V10c0 0.2652 0.10536 0.5196 0.29289 0.7071C1.48043 10.8946 1.73478 11 2 11h1.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 9v3.5c0 0.1326 0.05268 0.2598 0.14645 0.3536 0.09376 0.0937 0.22094 0.1464 0.35355 0.1464h5c0.13261 0 0.25979 -0.0527 0.35355 -0.1464 0.09377 -0.0938 0.14645 -0.221 0.14645 -0.3536V9H4Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11 6.5h-1" stroke-width="1"></path>
+  </g>
+</svg>

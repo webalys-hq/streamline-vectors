@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Line-Arrow-Minimize-Window-1--Streamline-Core-Gradient">
+  <desc>
+    Line Arrow Minimize Window 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/line-arrow-minimize-window-1--expand-retract-shrink-bigger-big-small-smaller">
+    <path id="Union" fill="url(#paint0_linear_14402_8030)" fill-rule="evenodd" d="M11.5 13.4999c1.1046 0 2-.8954 2-2V2.49994c0-1.10457-.8954-2.000001-2-2.000001h-9c-1.10457 0-2 .895431-2 2.000001v2.5c0 .55228.447715 1 1 1 .55229 0 1-.44772 1-1v-2.5h9v8.99996H9c-.55228 0-1 .4478-1 1 0 .5523.44772 1 1 1h2.5Zm-6-2H3.91421l3.7929-3.79285c.39052-.39053.39052-1.02369 0-1.41422-.39053-.39052-1.02369-.39052-1.41422 0L2.5 10.0857V8.49994c0-.55229-.44772-1-1-1-.552285 0-1 .44771-1 1v3.99996c0 .5523.447715 1 1 1h4c.55228 0 1-.4477 1-1 0-.5522-.44772-1-1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8030" x1="1" x2="15.816" y1="1.55" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Beer-Mug--Streamline-Core-Gradient">
+  <desc>
+    Beer Mug Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/beer-mug--beer-cook-brewery-drink-mug-cooking-nutrition-brew-brewing-food">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10418)" fill-rule="evenodd" d="M2 .5C1.17157.5.5 1.17157.5 2v9c0 1.3807 1.11929 2.5 2.5 2.5h5c1.38071 0 2.5-1.1193 2.5-2.5h1.25c.9665 0 1.75-.7835 1.75-1.75v-4.5c0-.9665-.7835-1.75-1.75-1.75H10.5V2c0-.82843-.67157-1.5-1.5-1.5H2Zm9.75 9H10.5v-5h1.25c.1381 0 .25.11193.25.25v4.5c0 .13807-.1119.25-.25.25Zm-8-6.125c.34518 0 .625.27982.625.625v5.5c0 .34518-.27982.625-.625.625s-.625-.27982-.625-.625V4c0-.34518.27982-.625.625-.625Zm3.5 0c.34518 0 .625.27982.625.625v5.5c0 .34518-.27982.625-.625.625s-.625-.27982-.625-.625V4c0-.34518.27982-.625.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10418" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

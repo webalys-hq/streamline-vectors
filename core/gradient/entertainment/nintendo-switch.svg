@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nintendo-Switch--Streamline-Core-Gradient">
+  <desc>
+    Nintendo Switch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/nintendo-switch--nintendo-switch-entertainment-gaming">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14808)" fill-rule="evenodd" d="M.5 4C.5 2.067 2.067.5 4 .5h1.78934c.27615 0 .5.223858.5.5v11.9995c0 .2762-.22385.5-.5.5H4c-1.933 0-3.5-1.567-3.5-3.49995V4Zm9.5 9.5c1.933 0 3.5-1.567 3.5-3.5V4.00045c0-1.93299-1.567-3.499997-3.5-3.499997H8.21066c-.27615 0-.5.223858-.5.499997V13c0 .2761.22385.5.5.5H10ZM2.24658 4.47948c0-.70329.57013-1.27343 1.27342-1.27343.7033 0 1.27343.57014 1.27343 1.27343 0 .70329-.57013 1.27342-1.27343 1.27342-.70329 0-1.27342-.57013-1.27342-1.27342ZM10.48 10.7935c-.70333 0-1.27346-.5701-1.27346-1.2734S9.77667 8.24667 10.48 8.24667c.7033 0 1.2734.57013 1.2734 1.27343s-.5701 1.2734-1.2734 1.2734Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14808" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

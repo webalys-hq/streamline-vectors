@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Straight-Cap--Streamline-Core-Neon">
+  <desc>
+    Straight Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="straight-cap">
+    <path id="Vector 4475" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.5 5V3c0 -0.55228 0.44772 -1 1 -1h10" stroke-width="1"></path>
+    <path id="Vector 4476" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.5 9v2c0 0.5523 0.44772 1 1 1h10" stroke-width="1"></path>
+    <path id="Ellipse 1968" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
+    <path id="Vector 4477" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4.5 7h9" stroke-width="1"></path>
+  </g>
+</svg>

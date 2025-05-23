@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mouse--Streamline-Core-Gradient">
+  <desc>
+    Mouse Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/mouse--device-electronics-mouse">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13103)" fill-rule="evenodd" d="M12.3757 0c.3452 0 .625.279822.625.625v2.77296c0 1.16092-.9411 2.10204-2.1021 2.10204-1.16088 0-2.102-.94112-2.102-2.10204V2.75c0-.82843-.67157-1.5-1.5-1.5h-.09056c-.77963 0-1.42824.56092-1.5643 1.3012C7.5458 2.85826 9 4.50931 9 6.5V10c0 2.2091-1.79086 4-4 4s-4-1.7909-4-4V6.5c0-1.9984 1.46548-3.65452 3.38039-3.9523C4.52698 1.1165 5.73612 0 7.20604 0h.09056c1.51878 0 2.75 1.23122 2.75 2.75v.64796c0 .47057.3815.85204.852.85204.4706 0 .8521-.38147.8521-.85204V.625c0-.345178.2798-.625.625-.625ZM5.75 5.5c0-.41421-.33579-.75-.75-.75s-.75.33579-.75.75v1.75c0 .41421.33579.75.75.75s.75-.33579.75-.75V5.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13103" x1="2.962" x2="13.298" y1="2.692" y2="7.602" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

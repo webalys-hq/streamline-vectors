@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Serving-Dome--Streamline-Core-Gradient">
+  <desc>
+    Serving Dome Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/serving-dome--cook-tool-dome-kitchen-serving-paltter-dish-tools-food-kitchenware">
+    <path id="Union" fill="url(#paint0_linear_14402_10631)" fill-rule="evenodd" d="M7 1c.41421 0 .75.33579.75.75v.76043C11.2344 2.70486 14 5.59196 14 9.125c0 .75939-.6156 1.375-1.375 1.375H1.375C.615609 10.5 0 9.88439 0 9.125c0-3.53304 2.76558-6.42014 6.25-6.61457V1.75c0-.41421.33579-.75.75-.75ZM0 12.25c0-.4142.335786-.75.75-.75h12.5c.4142 0 .75.3358.75.75s-.3358.75-.75.75H.75c-.414214 0-.75-.3358-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10631" x1="15.213" x2="-1.631" y1="15.542" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

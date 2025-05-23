@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="File-Remove-Alternate--Streamline-Core-Gradient">
+  <desc>
+    File Remove Alternate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/file-remove-alternate--file-common-remove-minus-subtract">
+    <path id="Union" fill="url(#paint0_linear_14402_7459)" fill-rule="evenodd" d="M3.5-.0000610352c-.39782 0-.77936.1580350352-1.06066.4393400352C2.15804.720583 2 1.10211 2 1.49994v6.74951h3.75003c1.10457 0 2 .89543 2 2.00005 0 1.1045-.89543 2-2 2H2v.2504c0 .3979.15804.7794.43934 1.0607s.66283.4393 1.06066.4393h9c.3978 0 .7794-.158 1.0607-.4393S14 12.8978 14 12.4999V3.99994c0-.13261-.0527-.25979-.1464-.35355l-3.5-3.500004c-.0938-.0937686-.221-.1464470352-.3536-.1464470352H3.5ZM6.5 10.2495c0-.41426-.33579-.75005-.75-.75005h-5c-.414214 0-.75.33579-.75.75005 0 .4142.335786.75.75.75h5c.41421 0 .75-.3358.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7459" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blank-Calendar--Streamline-Core-Neon">
+  <desc>
+    Blank Calendar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="blank-calendar--blank-calendar-date-day-month-empty">
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M1.29289 12.7071C1.10536 12.5196 1 12.2652 1 12V6h12v6c0 0.2652 -0.1054 0.5196 -0.2929 0.7071S12.2652 13 12 13H2c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 6H1V3.5c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C1.48043 2.60536 1.73478 2.5 2 2.5h10c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711V6Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.5 1v3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1v3" stroke-width="1"></path>
+  </g>
+</svg>

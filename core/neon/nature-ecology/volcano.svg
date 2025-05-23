@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volcano--Streamline-Core-Neon">
+  <desc>
+    Volcano Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="volcano--nature-eruption-erupt-mountain-volcano-lava-magma-explosion">
+    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M10.5 6c1.1046 0 2 -0.89543 2 -2s-0.8954 -2 -2 -2c-0.4682 0 -0.8989 0.16091 -1.23969 0.43045C8.85946 1.58481 7.99802 1 7 1c-0.99802 0 -1.85946 0.58481 -2.26031 1.43045C4.3989 2.16091 3.96824 2 3.5 2c-1.10457 0 -2 0.89543 -2 2s0.89543 2 2 2" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.5 5v3.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.5 5v3.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 13s-3.5 -1.5233 -3.5 -4.5h-5C4.5 11.4767 1 13 1 13" stroke-width="1"></path>
+  </g>
+</svg>

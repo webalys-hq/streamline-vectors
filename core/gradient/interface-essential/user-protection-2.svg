@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Protection-2--Streamline-Core-Gradient">
+  <desc>
+    User Protection 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/user-protection-2--shield-secure-security-profile-person">
+    <path id="Union" fill="url(#paint0_linear_14402_8875)" fill-rule="evenodd" d="M2 .499939c-.82843 0-1.5.671571-1.5 1.500001v2.67544c0 2.39651.92056 4.6316 2.47575 6.30852 1.0355 1.1166 2.35234 1.9858 3.86614 2.4904.10263.0342.21359.0342.31622 0 1.5138-.5046 2.83065-1.3738 3.86619-2.4903C12.5794 9.30698 13.5 7.07188 13.5 4.67538V1.99994c0-.82843-.6716-1.500001-1.5-1.500001H2ZM3.88577 9.75161C4.69421 8.97635 5.79147 8.49994 7 8.49994c1.20854 0 2.3058.47641 3.1142 1.25167C9.2897 10.7085 8.22872 11.4692 7 11.9383c-1.22872-.4691-2.28971-1.2298-3.11423-2.18669ZM7 6.99994c1.10457 0 2-.89543 2-2s-.89543-2-2-2-2 .89543-2 2 .89543 2 2 2Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8875" x1="13.456" x2="-1.939" y1="13.503" y2="4.843" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

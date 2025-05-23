@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crop-Selection--Streamline-Core-Gradient">
+  <desc>
+    Crop Selection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/crop-selection--artboard-crop-design-image-picture">
+    <path id="Union" fill="url(#paint0_linear_14402_9513)" fill-rule="evenodd" d="M4.5 1c0-.552285-.44772-1-1-1s-1 .447715-1 1v1.5H1c-.552285 0-1 .44772-1 1s.447715 1 1 1h1.5V9c0 1.3807 1.11929 2.5 2.5 2.5h4.5V13c0 .5523.44771 1 1 1 .5523 0 1-.4477 1-1v-1.5H13c.5523 0 1-.4477 1-1 0-.55229-.4477-1-1-1H5c-.27614 0-.5-.22386-.5-.5V1ZM6 3.5c0-.55228.44772-1 1-1h2c1.3807 0 2.5 1.11929 2.5 2.5v2c0 .55228-.4477 1-1 1-.55228 0-1-.44772-1-1V5c0-.27614-.22386-.5-.5-.5H7c-.55228 0-1-.44772-1-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9513" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

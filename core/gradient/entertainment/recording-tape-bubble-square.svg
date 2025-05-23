@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Recording-Tape-Bubble-Square--Streamline-Core-Gradient">
+  <desc>
+    Recording Tape Bubble Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/recording-tape-bubble-square--phone-device-mail-mobile-voice-machine-answering-chat-entertainment">
+    <path id="Subtract" fill="url(#paint0_linear_14402_15093)" fill-rule="evenodd" d="M1.43935.43934C1.72065.158035 2.10219 0 2.50001 0H12.5c.3978 0 .7794.158035 1.0607.43934C13.842.720644 14 1.10217 14 1.5v10c0 .3978-.158.7794-.4393 1.0607S12.8978 13 12.5 13H4.56156l-3.940282.9851c-.177042.0442-.364136-.0115-.488129-.1454-.12399296-.1339-.1651889-.3247-.1074803-.4978l.9743413-2.923V1.5c0-.39782.15804-.779356.43934-1.06066ZM9.125 6.5c0-.48325.39175-.875.875-.875.4832 0 .875.39175.875.875s-.3918.875-.875.875c-.48325 0-.875-.39175-.875-.875Zm-1.06207.875C7.94221 7.10816 7.875 6.81193 7.875 6.5c0-1.1736.9514-2.125 2.125-2.125s2.125.9514 2.125 2.125S11.1736 8.625 10 8.625H5c-1.17361 0-2.125-.9514-2.125-2.125S3.82639 4.375 5 4.375c1.1736 0 2.125.9514 2.125 2.125 0 .31193-.06721.60816-.18793.875h1.12586ZM5 7.375c.48325 0 .875-.39175.875-.875S5.48325 5.625 5 5.625s-.875.39175-.875.875.39175.875.875.875Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15093" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

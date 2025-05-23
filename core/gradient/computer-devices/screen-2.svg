@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-2--Streamline-Core-Gradient">
+  <desc>
+    Screen 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/screen-2--screen-device-electronics-monitor-diplay-computer">
+    <path id="Union" fill="url(#paint0_linear_14402_13193)" fill-rule="evenodd" d="M1.5 9V2.5h11V9h-11Zm8.47141 1.5H12.75c.6904 0 1.25-.55964 1.25-1.25v-7C14 1.55964 13.4404 1 12.75 1H1.25C.559644 1 0 1.55964 0 2.25v7c0 .69036.559644 1.25 1.25 1.25h2.77863c-.35364.4792-.58868 1.0402-.67957 1.6371-.06235.4095.21906.792.62855.8544.40949.0623.792-.2191.85436-.6286.07894-.5184.34106-.9914.73881-1.3332.39776-.3418.90482-.5297 1.42924-.5297.52442 0 1.03148.1879 1.42924.5297.39775.3418.65987.8148.73881 1.3332.06236.4095.44487.6909.85433.6286.4095-.0624.6909-.4449.6286-.8544-.0909-.5969-.326-1.1579-.67959-1.6371Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13193" x1=".538" x2="15.216" y1="1.97" y2="11.622" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

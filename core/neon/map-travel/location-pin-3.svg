@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Pin-3--Streamline-Core-Neon">
+  <desc>
+    Location Pin 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin-3--navigation-map-maps-pin-gps-location">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11.5 10h0.5l1.5 3.5H0.5L2 10h0.5" stroke-width="1"></path>
+    <path id="Ellipse 1693" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.5 5c0 3.02964 -3.18446 5.31 -4.04036 5.8682C7.32253 10.9576 7.16369 11 7 11v0c-0.16369 0 -0.32253 -0.0424 -0.45964 -0.1318C5.68446 10.31 2.5 8.02964 2.5 5 2.5 2.51472 4.51472 0.5 7 0.5s4.5 2.01472 4.5 4.5Z" stroke-width="1"></path>
+    <path id="Ellipse 1692" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.25 4.75a1.75 1.75 0 1 0 3.5 0 1.75 1.75 0 1 0 -3.5 0" stroke-width="1"></path>
+  </g>
+</svg>

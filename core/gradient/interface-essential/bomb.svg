@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bomb--Streamline-Core-Gradient">
+  <desc>
+    Bomb Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/bomb--delete-bomb-remove">
+    <path id="Union" fill="url(#paint0_linear_14402_9302)" fill-rule="evenodd" d="M10.5431 2.41015C12.0402 3.60096 13 5.4384 13 7.5c0 3.5899-2.9101 6.5-6.5 6.5C2.91015 14 0 11.0899 0 7.5 0 3.91015 2.91015 1 6.5 1c.98943 0 1.92723.22107 2.76669.61652C9.96024.613562 11.1087 0 12.3508 0h.8992c.4142 0 .75.335786.75.75 0 .41421-.3358.75-.75.75h-.8992c-.7203 0-1.3881.34385-1.8077.91015ZM6.49998 5.125c-.62989 0-1.23396.25021-1.67936.6956-.4454.4454-.69562 1.04949-.69562 1.67938 0 .34518-.27982.625-.625.625s-.625-.27982-.625-.625c0-.96141.38192-1.88344 1.06174-2.56326C4.61656 4.2569 5.53858 3.875 6.49998 3.875c.34518 0 .625.27982.625.625s-.27982.625-.625.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9302" x1="15.213" x2="-3.671" y1="16.965" y2="3.551" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

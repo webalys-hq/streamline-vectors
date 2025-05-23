@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Code--Streamline-Core-Gradient">
+  <desc>
+    Desktop Code Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/desktop-code--desktop-device-display-computer-code-terminal-html-css-programming-system">
+    <path id="Union" fill="url(#paint0_linear_14402_12754)" fill-rule="evenodd" d="M9.25777.217534c.29289.292893.29289.767767 0 1.060656L7.6643 2.87166l1.59347 1.59347c.29289.2929.29289.76777 0 1.06066-.2929.2929-.76777.2929-1.06066 0l-2.1238-2.1238c-.2929-.29289-.2929-.76776 0-1.06066L8.19711.217534c.29289-.2928935.76776-.2928935 1.06066 0Zm1.32873.00003c.2929-.2928931.7678-.2928931 1.0607 0L13.771 2.34136c.2929.2929.2929.76777 0 1.06066l-2.1238 2.1238c-.2929.2929-.7678.2929-1.0607 0-.2929-.29289-.2929-.76776 0-1.06066L12.18 2.87169l-1.5935-1.59347c-.2929-.292889-.2929-.767763 0-1.060656ZM1.5 3h2.72227c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75H1.25C.559644 1.5 0 2.05964 0 2.75v7.5c0 .6904.559644 1.25 1.25 1.25h4.05572l-.3579 1H4c-.41421 0-.75.3358-.75.75s.33579.75.75.75h6c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-.94791l-.3579-1H12.75c.6904 0 1.25-.5596 1.25-1.25V6.38353c0-.41421-.3358-.75-.75-.75s-.75.33579-.75.75V10h-11V3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12754" x1=".538" x2="16.495" y1="1.129" y2="10.122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

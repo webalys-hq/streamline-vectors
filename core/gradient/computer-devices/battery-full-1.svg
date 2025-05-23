@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Full-1--Streamline-Core-Gradient">
+  <desc>
+    Battery Full 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/battery-full-1--phone-mobile-charge-device-electricity-power-battery-full">
+    <path id="Subtract" fill="url(#paint0_linear_14402_12298)" fill-rule="evenodd" d="M.43934 2.43934C.720644 2.15804 1.10218 2 1.5 2h9c.3978 0 .7794.15804 1.0607.43934S12 3.10217 12 3.5v.75h1c.2652 0 .5196.10536.7071.29289.1875.18754.2929.44189.2929.70711v3.5c0 .26521-.1054.51957-.2929.70711-.1875.18753-.4419.29289-.7071.29289h-1v.75c0 .3978-.158.7794-.4393 1.0607S10.8978 12 10.5 12h-9c-.39783 0-.779356-.158-1.06066-.4393C.158035 11.2794 0 10.8978 0 10.5v-7c0-.39782.158035-.77936.43934-1.06066ZM3.625 5c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v4c0 .34518.27982.625.625.625s.625-.27982.625-.625V5ZM6 4.375c.34518 0 .625.27982.625.625v4c0 .34518-.27982.625-.625.625S5.375 9.34518 5.375 9V5c0-.34518.27982-.625.625-.625ZM9.625 5c0-.34518-.27982-.625-.625-.625s-.625.27982-.625.625v4c0 .34518.27982.625.625.625s.625-.27982.625-.625V5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12298" x1=".538" x2="13.495" y1="2.808" y2="13.032" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

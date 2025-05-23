@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Parachute-Drop--Streamline-Core-Gradient">
+  <desc>
+    Parachute Drop Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Shipping/parachute-drop--package-box-fulfillment-cart-warehouse-shipping-delivery-drop-parachute">
+    <path id="Subtract" fill="url(#paint0_linear_14402_16017)" fill-rule="evenodd" d="M13.6301 2.90207C11.9773.954975 9.43178-.000853586 6.95891 5.72e-7 4.4629.000865025 2.01411.952363.368655 2.90269.115151 3.20317 0 3.57774 0 3.94191c0 .94044.762375 1.70281 1.70281 1.70281h.39415l1.25348 2.34313C3.1322 8.23795 3 8.56508 3 8.92308v3.65382C3 13.3629 3.63713 14 4.42308 14h5.15384C10.3629 14 11 13.3629 11 12.5769V8.92308c0-.36815-.1398-.70365-.3692-.95631l1.2422-2.32205h.424c.9405 0 1.703-.76245 1.703-1.70298 0-.36367-.1147-.73901-.3699-1.03967Zm-3.4582 2.74265L9.17936 7.5H7.73499V5.64472h2.43691ZM4.79061 7.5h1.44438V5.64472H3.79811L4.79061 7.5Zm2.47709 3.4764c-.34518 0-.625.2798-.625.625s.27982.625.625.625h1c.34518 0 .625-.2798.625-.625s-.27982-.625-.625-.625h-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16017" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

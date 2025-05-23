@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volume-Down--Streamline-Core-Gradient">
+  <desc>
+    Volume Down Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/volume-down--speaker-down-volume-control-audio-music-decrease-entertainment">
+    <path id="Union" fill="url(#paint0_linear_14402_15033)" fill-rule="evenodd" d="M8.5 2.49207C8.52342 1.30154 7.19934.580251 6.21492 1.26345c-.02086.01448-.0406.03053-.05903.04801L2.80058 4.49429H1.5c-.822239 0-1.5.68201-1.5 1.50304v2.00608c0 .82103.677762 1.50304 1.5 1.50304h1.2968l3.2644 3.17825c.01976.0193.04107.0368.06372.0526.97355.6756 2.3487-.026 2.37496-1.2122l.00012 0V2.49207Zm1.75 3.75798c-.41421 0-.75.33578-.75.75 0 .41421.33579.75.75.75h3c.4142 0 .75-.33579.75-.75 0-.41422-.3358-.75-.75-.75h-3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15033" x1="2.288" x2="12.713" y1="3.307" y2="10.044" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Quotation-2--Streamline-Core-Gradient">
+  <desc>
+    Quotation 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/quotation-2--quote-quotation-format-formatting-open-close-marks-text">
+    <path id="Union" fill="url(#paint0_linear_14402_8353)" fill-rule="evenodd" d="M1.48991 3.37663c-.06809-.40857-.45451-.68459-.863092-.61649-.408578.06809-.6845927.45452-.6164964.86309l.5000004 3c.068096.40858.454517.6846.863098.6165.40857-.0681.68459-.45452.61649-.8631l-.5-3Zm2.5 0c-.06809-.40857-.45451-.68459-.86309-.61649-.40858.06809-.68459.45452-.6165.86309l.5 3c.0681.40858.45452.6846.8631.6165.40857-.0681.68459-.45452.61649-.8631l-.5-3Zm7.13349 3.38351c.4086.0681.6846.45452.6165.8631l-.5 2.99996c-.0681.4086-.4545.6846-.8631.6165-.40855-.0681-.68457-.4545-.61647-.8631l.49997-2.99996c.0681-.40858.4545-.68459.8631-.6165Zm2.8665.8631c.0681-.40858-.2079-.795-.6165-.8631-.4086-.06809-.795.20792-.8631.6165l-.5 2.99996c-.0681.4086.2079.795.6165.8631.4086.0681.795-.2079.8631-.6165l.5-2.99996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8353" x1=".538" x2="11.831" y1="3.437" y2="13.92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

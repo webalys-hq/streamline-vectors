@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shelf--Streamline-Core-Gradient">
+  <desc>
+    Shelf Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/shelf--shelf-drawer-cabinet-prodcut-decoration-furniture">
+    <path id="Subtract" fill="url(#paint0_linear_14402_13542)" fill-rule="evenodd" d="M1 1.5C1 .671573 1.67157 0 2.5 0h9c.8284 0 1.5.671573 1.5 1.5v1.50195H1V1.5Zm0 2.75195V6.875h12V4.25195H1ZM6.375 8.125H1V12.5c0 .8284.67157 1.5 1.5 1.5h3.875V8.125ZM7.625 14V8.125H13V12.5c0 .8284-.6716 1.5-1.5 1.5H7.625Zm1.87503-4.11877c.34518 0 .62497.27977.62497.62497v1c0 .3452-.27979.625-.62497.625-.34518 0-.625-.2798-.625-.625v-1c0-.3452.27982-.62497.625-.62497Zm-4.375.62497c0-.3452-.27982-.62497-.625-.62497s-.625.27977-.625.62497v1c0 .3452.27982.625.625.625s.625-.2798.625-.625v-1Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13542" x1="14.04" x2="-3.727" y1="16.965" y2="6.148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

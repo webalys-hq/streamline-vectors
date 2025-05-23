@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cheese--Streamline-Core-Gradient">
+  <desc>
+    Cheese Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/cheese--cook-cheese-animal-products-cooking-nutrition-dairy-food">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10509)" fill-rule="evenodd" d="M8.22265.583975C8.30478.529219 8.40129.5 8.5.5c1.42375 0 2.6785.71172 3.5653 1.73503.8053.9291 1.3322 2.14134 1.4213 3.38997H.669271c.016728-.01475.034544-.02847.053379-.04103l7.5-4.999995ZM.5 6.875v3.141c0 .2304.310301.3598.51035.2456C1.30217 10.0951 1.63998 10 2 10c1.10457 0 2 .8954 2 2 0 .36-.09513.6978-.26162.9897-.11413.2.01526.5103.24558.5103H12c.8284 0 1.5-.6716 1.5-1.5V6.875H.5ZM10.5 10c0 .8284-.67157 1.5-1.5 1.5s-1.5-.6716-1.5-1.5c0-.82843.67157-1.5 1.5-1.5s1.5.67157 1.5 1.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10509" x1="1" x2="15.816" y1="1.551" y2="9.901" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-Progress-Bar-2--Streamline-Core-Gradient">
+  <desc>
+    Business Progress Bar 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/business-progress-bar-2--business-production-arrow-workflow-money-flag-timeline">
+    <path id="Union" fill="url(#paint0_linear_14402_13997)" fill-rule="evenodd" d="M6.03889 1.22837C5.90255 1.08754 5.7115 1 5.5 1l-.00062 0c-.41393.00033-.74938.33599-.74938.75v6.64538c-.50135.20294-.90168.60327-1.10462 1.10462H.75c-.414214 0-.75.33579-.75.75 0 .4142.335786.75.75.75h2.89538c.29669.733 1.01528 1.25 1.85462 1.25s1.55793-.517 1.85462-1.25H10.75v1.5c0 .2022.1218.3845.3087.4619.1868.0774.4019.0347.5449-.1083l2.25-2.25c.1952-.1953.1952-.5119 0-.70715l-2.25-2.25c-.143-.143-.3581-.18578-.5449-.10839-.1869.07739-.3087.25971-.3087.46194v1.5H7.35462c-.20294-.50135-.60327-.90168-1.10462-1.10462V6.40366l3.74391-2.09219c.15809-.08836.25609-.25533.25609-.43647 0-.18114-.098-.34811-.25609-.43647L6.03889 1.22837Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13997" x1="15.213" x2="-1.631" y1="15.542" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

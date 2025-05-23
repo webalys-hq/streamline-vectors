@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Projector-Board--Streamline-Core-Gradient">
+  <desc>
+    Projector Board Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/projector-board--projector-screen-work-meeting-presentation">
+    <path id="Union" fill="url(#paint0_linear_14402_8336)" fill-rule="evenodd" d="M2 .499939c-.82843 0-1.5.671571-1.5 1.500001v.875h13v-.875c0-.82843-.6716-1.500001-1.5-1.500001H2ZM.5 8.99994v-4.875h13v4.875c0 .82843-.6716 1.49996-1.5 1.49996h-1.9393l1.7196 1.7197c.2929.2929.2929.7678 0 1.0607-.2929.2929-.7677.2929-1.0606 0l-2.78036-2.7804H7.75v2.25c0 .4143-.33579.75-.75.75s-.75-.3357-.75-.75v-2.25h-.18934l-2.78033 2.7804c-.29289.2929-.76777.2929-1.06066 0s-.29289-.7678 0-1.0607l1.71967-1.7197H2c-.82843 0-1.5-.67153-1.5-1.49996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8336" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

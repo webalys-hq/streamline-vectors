@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Receipt-Subtract--Streamline-Core-Gradient">
+  <desc>
+    Receipt Subtract Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/receipt-subtract--shop-shopping-pay-payment-store-cash-bill-receipt-subtract-minus-remove">
+    <path id="Subtract" fill="url(#paint0_linear_14402_14396)" fill-rule="evenodd" d="M3 .5c-.66304 0-1.29893.263392-1.76777.73223C.763392 1.70107.5 2.33696.5 3v10c0 .1844.101492.3538.264071.4408.162579.087.359849.0775.513279-.0248L3.25 12.1009l1.97265 1.3151c.16795.112.38675.112.5547 0L7.75 12.1009l1.97265 1.3151c.15343.1023.35065.1118.51325.0248.1626-.087.2641-.2564.2641-.4408V5.5h.002V3c0-.34518.2798-.625.625-.625.3451 0 .625.27982.625.625v2.5H13c.2761 0 .5-.22386.5-.5V2.5c0-.53043-.2107-1.03914-.5858-1.41421C12.5391.710714 12.0304.5 11.5.5H3Zm.25 5.25c-.41421 0-.75.33579-.75.75s.33579.75.75.75h4.5c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75h-4.5Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14396" x1="2.625" x2="13.125" y1="3" y2="8.818" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

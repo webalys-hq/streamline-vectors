@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Earth-1--Streamline-Core-Neon">
+  <desc>
+    Earth 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="earth-1--planet-earth-globe-world">
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1 9.49995h1.75c0.46413 0 0.90925 -0.18438 1.23744 -0.51257C4.31563 8.6592 4.5 8.21407 4.5 7.74995v-1.5c0 -0.46413 0.18437 -0.90925 0.51256 -1.23744 0.32819 -0.32819 0.77331 -0.51256 1.23744 -0.51256 0.46413 0 0.90925 -0.18438 1.23744 -0.51257C7.81563 3.65919 8 3.21408 8 2.74995V0.569946" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.9c-0.5007 -0.25979 -1.0559 -0.39689 -1.62 -0.4H9.75c-0.46413 0 -0.90925 0.18437 -1.23744 0.51256C8.18437 7.34075 8 7.78587 8 8.25c0 0.46413 0.18437 0.90925 0.51256 1.23744C8.84075 9.81563 9.28587 10 9.75 10c0.3315 0 0.6495 0.1317 0.8839 0.3661 0.2344 0.2344 0.3661 0.5524 0.3661 0.8839v0.87" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+  </g>
+</svg>

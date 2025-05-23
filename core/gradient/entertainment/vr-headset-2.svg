@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vr-Headset-2--Streamline-Core-Gradient">
+  <desc>
+    Vr Headset 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/vr-headset-2--entertainment-gaming-vr-headset">
+    <path id="Union" fill="url(#paint0_linear_14402_15237)" fill-rule="evenodd" d="M5.14299 1c-.2517 0-.46416.1871-.49598.43679l-.31303 2.45603h5.33231l-.31302-2.45603C9.32145 1.1871 9.10898 1 8.85728 1H5.14299ZM2.35714 5.14282C1.06188 5.14282 0 6.1802 0 7.47441v3.12839c0 1.5303 1.44636 2.6173 2.91378 2.3588 1.24808-.2199 2.78101-.4287 4.08622-.4287 1.30521 0 2.83814.2088 4.0862.4287C12.5536 13.2201 14 12.1331 14 10.6028V7.47441c0-1.29421-1.0619-2.33159-2.3571-2.33159H2.35714Zm1.35722 2.78571c0-.41422.33578-.75.75-.75h5.07142c.41422 0 .75002.33578.75002.75 0 .41421-.3358.75-.75002.75H4.46436c-.41422 0-.75-.33579-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_15237" x1="15.213" x2="-1.63" y1="15.541" y2="1.582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

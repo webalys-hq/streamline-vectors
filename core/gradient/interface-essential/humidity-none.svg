@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Humidity-None--Streamline-Core-Gradient">
+  <desc>
+    Humidity None Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/humidity-none--humidity-drop-weather">
+    <path id="Union" fill="url(#paint0_linear_14402_7775)" fill-rule="evenodd" d="M1.5 8.49994c0-.87227.35771-1.83444.83879-2.7485.06832-.12981.13972-.25973.21374-.38946l7.62657 7.62662c-.89763.6369-1.99464 1.0113-3.1791 1.0113-3.03757 0-5.5-2.4624-5.5-5.49996Zm10.4536 2.39286c.3501-.7234.5464-1.53522.5464-2.39286 0-.87227-.3577-1.83444-.8388-2.7485-.487-.92539-1.1306-1.85672-1.76489-2.68136-.6357-.82641-1.27016-1.55593-1.74509-2.078352C7.89062.70507 7.62733.42057 7.35355.146386c-.19526-.1952626-.51184-.1952626-.7071 0-.27378.274184-.53707.558685-.79767.845342-.472.519192-1.10155 1.242932-1.7333 2.063032L1.28033.219609c-.292893-.2928933-.767767-.2928933-1.06066 0-.2928934.292893-.2928934.767767 0 1.060661L12.7197 13.7803c.2929.2929.7677.2929 1.0606 0 .2929-.2929.2929-.7678 0-1.0607l-1.8267-1.8268Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_7775" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

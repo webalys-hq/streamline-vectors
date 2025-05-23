@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Check--Streamline-Core-Gradient">
+  <desc>
+    Desktop Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/desktop-check--success-approve-device-display-desktop-computer">
+    <path id="Union" fill="url(#paint0_linear_14402_12433)" fill-rule="evenodd" d="M13.8357 1.21855c.2588-.323448.2063-.795417-.1171-1.054174-.3235-.2587571-.7954-.2063161-1.0542.11713L9.1185 4.71387 7.70004 3.65003c-.33137-.24853-.80147-.18137-1.05.15-.24852.33137-.18137.80147.15 1.05l2 1.5c.32408.24305.7826.18484 1.03566-.13148l4-5ZM1.5 3h4.72227c.41422 0 .75-.33579.75-.75s-.33578-.75-.75-.75H1.25C.559644 1.5 0 2.05964 0 2.75v7.5c0 .6904.559644 1.25 1.25 1.25h4.05572l-.3579 1H4c-.41421 0-.75.3358-.75.75s.33579.75.75.75h6c.4142 0 .75-.3358.75-.75s-.3358-.75-.75-.75h-.94791l-.3579-1H12.75c.6904 0 1.25-.5596 1.25-1.25V4.88353c0-.41421-.3358-.75-.75-.75s-.75.33579-.75.75V10h-11V3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_12433" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

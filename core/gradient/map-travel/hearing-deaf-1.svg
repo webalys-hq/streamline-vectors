@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hearing-Deaf-1--Streamline-Core-Gradient">
+  <desc>
+    Hearing Deaf 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/hearing-deaf-1--disability-hearing-deaf">
+    <path id="Union" fill="url(#paint0_linear_14402_9975)" fill-rule="evenodd" d="M2 5c0-.05602.00092-.11182.00275-.16739L8.81015 11.64C8.33728 13.0133 7.03387 14 5.5 14 3.567 14 2 12.433 2 10.5V5Zm7.03481 5.0969L2.28105 3.34314c.00013-.00035.00025-.0007.00038-.00105L.21967 1.28033c-.2928934-.292893-.2928934-.767767 0-1.06066.292893-.2928933.767767-.2928933 1.06066 0l1.74561 1.74562C3.93963.770604 5.37982 0 7 0c2.76214 0 5 2.24428 5 5.00498 0 1.08855-.4324 2.13448-1.2024 2.90454l-.91372.9137 3.89642 3.89648c.2929.2929.2929.7677 0 1.0606-.2929.2929-.7677.2929-1.0606 0l-3.68465-3.6846-.00024.0012ZM7 2.375c-.34518 0-.625.27982-.625.625s.27982.625.625.625c.75939 0 1.375.61561 1.375 1.375 0 .34518.27982.625.625.625s.625-.27982.625-.625c0-1.44975-1.17525-2.625-2.625-2.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9975" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

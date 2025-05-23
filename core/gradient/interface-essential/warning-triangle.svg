@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warning-Triangle--Streamline-Core-Gradient">
+  <desc>
+    Warning Triangle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/warning-triangle--frame-alert-warning-triangle-exclamation-caution">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8938)" fill-rule="evenodd" d="M5.70432 1.72875c.57882-.992258 2.01252-.992254 2.59134 0l5.25894 9.01535c.5833 1-.138 2.2558-1.2956 2.2558H1.74103c-1.157688 0-1.878994-1.2558-1.29567-2.2558l5.25896-9.01535ZM7 4.12494c.41421 0 .75.33579.75.75v2.75c0 .41421-.33579.75-.75.75s-.75-.33579-.75-.75v-2.75c0-.41421.33579-.75.75-.75Zm1 6.24996c0 .5523-.44772 1-1 1s-1-.4477-1-1c0-.55225.44772-.99996 1-.99996s1 .44771 1 .99996Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8938" x1="2.449" x2="12.727" y1="3.295" y2="9.704" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Laptop-Charging--Streamline-Core-Gradient">
+  <desc>
+    Laptop Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/laptop-charging--device-laptop-electronics-computer-notebook-charging">
+    <path id="Union" fill="url(#paint0_linear_14402_13085)" fill-rule="evenodd" d="M12.4512 1.23016c.2652-.318211.2222-.791134-.096-1.056307-.3182-.2651732-.7911-.2221802-1.0563.096027l-2.29168 2.75c-.1863.22356-.22646.53472-.10303.79826.12344.26353.38818.43188.67919.43188h2.06542l-1.2666 1.51986c-.2652.31821-.2222.79113.096 1.0563.3183.26518.7912.22218 1.0563-.09602l2.2917-2.75c.1863-.22357.2265-.53472.103-.79826-.1234-.26354-.3881-.43188-.6792-.43188h-2.0653l1.2665-1.51986ZM3.25 4.5c-.13807 0-.25.11193-.25.25V9h8v-.25c0-.41421.3358-.75.75-.75s.75.33579.75.75v.63197l1.3618 2.72363c.0909.1817.1382.3822.1382.5854 0 .7229-.5861 1.309-1.309 1.309H1.30902C.586067 14 0 13.4139 0 12.691c0-.2032.0473146-.4037.138197-.5854L1.5 9.38197V4.75C1.5 3.7835 2.2835 3 3.25 3h3.9375c.41421 0 .75.33579.75.75s-.33579.75-.75.75H3.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13085" x1="13.953" x2="-2.626" y1="14.003" y2="4.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

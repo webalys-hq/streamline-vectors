@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gas-Station-Fuel-Petroleum--Streamline-Core-Gradient">
+  <desc>
+    Gas Station Fuel Petroleum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Map Travel/gas-station-fuel-petroleum">
+    <path id="Union" fill="url(#paint0_linear_14402_9961)" fill-rule="evenodd" d="M.5 3.5C.5 2.11929 1.61929 1 3 1h3.5C7.88071 1 9 2.11929 9 3.5v7.5013h1.9231c.7328 0 1.3269-.5941 1.3269-1.32689v-.26749c0-.58511-.4743-1.05943-1.0594-1.05943-.8104 0-1.46725-.6569-1.46725-1.46722V5.28141c-.00014-.00765-.00014-.01529 0-.0229v-.95189c0-.16576.06584-.32473.18305-.44194l1.9457-1.9457.0126-.01263.5634-.56332c.244-.24408.6398-.24408.8838 0 .2441.24408.2441.63981 0 .88388l-.3866.38663v2.16891c0 .28679-.1952.53678-.4734.60634l-1.4786.36964v1.12184c0 .11996.0973.21722.2173.21722 1.2754 0 2.3094 1.03396 2.3094 2.30943v.26749c0 1.42319-1.1537 2.57689-2.5769 2.57689H8.97903C8.85946 12.9601 8.24278 13.5 7.5 13.5H2c-.82843 0-1.5-.6716-1.5-1.5V3.5Zm1 1.5H8v2.26337H1.5V5ZM3 9.125c.34518 0 .625.27982.625.625v1c0 .3452-.27982.625-.625.625s-.625-.2798-.625-.625v-1c0-.34518.27982-.625.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9961" x1="14.627" x2="-2.441" y1="16.148" y2="3.538" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

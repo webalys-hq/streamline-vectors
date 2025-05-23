@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rose--Streamline-Core-Gradient">
+  <desc>
+    Rose Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Nature Ecology/rose--nature-flower-rose-plant-tree">
+    <path id="Union" fill="url(#paint0_linear_14402_11049)" fill-rule="evenodd" d="M7.32453 1.94821c.70962-.34874 1.45959-.62801 2.24109-.82891C8.92646.430812 8.01354 0 7.00001 0c-.96054 0-1.8307.386933-2.46313 1.01343 1.00081.19048 1.94122.49291 2.78765.93478ZM13 6c0 1.52251-.5671 2.91257-1.5016 3.97049l0-.00129 0-.00217c-.0099.01348-.0204.02655-.0317.03917-.9406 1.048-2.24613 1.7639-3.7167 1.9474V13.25c0 .4142-.33579.75-.75.75s-.75-.3358-.75-.75v-1.2964C3.29027 11.5845 1 9.05971 1 6V2.5c0-.27614.22386-.5.5-.5 4.64535 0 8.585 3.01626 9.9695 7.19616-.1678-2.69587-1.0193-4.60115-2.31632-5.91085-.1853-.1871-.37969-.36205-.58248-.52541C9.78435 2.26982 11.1106 2 12.5 2c.2761 0 .5.22386.5.5V6Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_11049" x1="1.461" x2="16.073" y1="1.131" y2="8.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

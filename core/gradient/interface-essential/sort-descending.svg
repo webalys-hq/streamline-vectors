@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sort-Descending--Streamline-Core-Gradient">
+  <desc>
+    Sort Descending Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/sort-descending">
+    <path id="Union" fill="url(#paint0_linear_14402_8509)" fill-rule="evenodd" d="M0 .749939c0-.414214.335786-.7500000352.75-.7500000352H8c.41421 0 .75.3357860352.75.7500000352 0 .414211-.33579.750001-.75.750001H.75c-.414214 0-.75-.33579-.75-.750001ZM3.25 2.49994c-.41421 0-.75.33579-.75.75s.33579.75.75.75H8c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75H3.25Zm2 2.5c-.41421 0-.75.33579-.75.75s.33579.75.75.75H8c.41421 0 .75-.33579.75-.75s-.33579-.75-.75-.75H5.25ZM11-.0000610352c.5523 0 1 .4477150352 1 1.0000000352V10.4999h1.5c.2022 0 .3846.1219.462.3087.0773.1868.0346.4019-.1084.5449l-2.5 2.5c-.1953.1953-.5119.1953-.7071 0l-2.50004-2.5c-.143-.143-.18578-.3581-.10839-.5449.0774-.1868.25971-.3087.46194-.3087H10V.999939c0-.552285.4477-1.0000000352 1-1.0000000352Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8509" x1=".538" x2="16.494" y1="1.131" y2="10.125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

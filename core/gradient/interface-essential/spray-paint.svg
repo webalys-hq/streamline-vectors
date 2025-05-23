@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Spray-Paint--Streamline-Core-Gradient">
+  <desc>
+    Spray Paint Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/spray-paint--can-color-colors-design-paint-painting-spray">
+    <path id="Union" fill="url(#paint0_linear_14402_8527)" fill-rule="evenodd" d="M12.9321 1.4776c.4018-.10046.6461-.507661.5457-.909507-.1005-.401847-.5077-.6461671-.9095-.5457056L8.56828 1.02239c-.40185.10046-.64617.50766-.54571.90951.10046.40184.50766.64616.90951.5457l4.00002-1ZM8.93208 3.02239c-.40185-.10046-.80905.14386-.90951.5457-.10046.40185.14386.80905.54571.90951l4.00002 1c.4018.10046.809-.14386.9095-.5457.1004-.40185-.1439-.80905-.5457-.90951l-4.00002-1ZM3 1.75043c-.41421 0-.75.33578-.75.75 0 .41421.33579.75.75.75h.25v1.24951H2c-.82843 0-1.5.67157-1.5 1.5v6.49996c0 .8285.67157 1.5 1.5 1.5h4c.82843 0 1.5-.6715 1.5-1.5V5.99994c0-.82843-.67157-1.5-1.5-1.5H4.75V3.25043H5c.41421 0 .75-.33579.75-.75 0-.41422-.33579-.75-.75-.75H3Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8527" x1="13.456" x2="-2.466" y1="14.003" y2="5.686" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Module-Puzzle-3--Streamline-Core-Neon">
+  <desc>
+    Module Puzzle 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="module-puzzle-3--code-puzzle-module-programming-plugin-piece">
+    <path id="Vector 2333" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13 7v5c0 0.5523 -0.4477 1 -1 1H7" stroke-width="1"></path>
+    <path id="Vector 2331" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 1H2c-0.55228 0 -1 0.44772 -1 1v5" stroke-width="1"></path>
+    <path id="Vector 2328" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M7 1v1.96795c-0.24497 -0.21925 -0.56845 -0.35257 -0.92308 -0.35257 -0.7647 0 -1.38461 0.61992 -1.38461 1.38462 0 0.7647 0.61991 1.38462 1.38461 1.38462 0.35463 0 0.67811 -0.13332 0.92308 -0.35257v3.9359c0.24496 -0.21925 0.56845 -0.35257 0.92308 -0.35257 0.7647 0 1.38461 0.61992 1.38461 1.38462 0 0.7647 -0.61991 1.3846 -1.38461 1.3846 -0.35463 0 -0.67812 -0.1333 -0.92308 -0.3526V13" stroke-width="1"></path>
+    <path id="Vector 2334" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7 1 5 0c0.5523 0 1 0.44772 1 1l0 5" stroke-width="1"></path>
+    <path id="Vector 2335" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m1 7 0 5c0 0.5523 0.44772 1 1 1l5 0" stroke-width="1"></path>
+    <path id="Vector 2332" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m13 7 -0.9574 -0.00002c-0.3905 -0.00001 -0.658 -0.53261 -0.658 -0.9231v0c0 -0.76471 -0.6199 -1.38462 -1.3846 -1.38462s-1.38462 0.61991 -1.38462 1.38462v0c0 0.39049 -0.26745 0.92307 -0.65794 0.92307H6.04256c-0.39049 0 -0.65794 0.53259 -0.65794 0.92308v0c0 0.7647 -0.61992 1.38462 -1.38462 1.38462 -0.7647 0 -1.38462 -0.61992 -1.38462 -1.38462v0c0 -0.39048 -0.26746 -0.92306 -0.65794 -0.92305L1 7" stroke-width="1"></path>
+  </g>
+</svg>

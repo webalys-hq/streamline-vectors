@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Spades-Symbol--Streamline-Core-Gradient">
+  <desc>
+    Spades Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/spades-symbol--entertainment-gaming-card-spades-symbol">
+    <path id="Union" fill="url(#paint0_linear_14402_14628)" fill-rule="evenodd" d="M8.509 1.09286c-.84932-.790478-2.16479-.790479-3.01411 0L1.57437 4.74172l-.00169.00159C.186881 6.04515.256958 8.02148 1.14123 9.35978c.44776.67762 1.11912 1.22172 1.95483 1.45152.58349.1605 1.2253.1617 1.89771-.0298l-.42955 2.1192c-.02981.147.00799.2997.10295.4158.09496.1161.23706.1835.38708.1835h3.89123c.15002 0 .29212-.0674.38708-.1835.09496-.1161.13276-.2688.10295-.4158l-.43026-2.1227c.67173.1911 1.31305.1895 1.89615.029.8354-.23 1.5068-.7741 1.9549-1.45134.8848-1.33718.9584-3.31275-.4251-4.61236l-.0017-.00158L8.509 1.09286Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14628" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

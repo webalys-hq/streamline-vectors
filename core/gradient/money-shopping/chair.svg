@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chair--Streamline-Core-Gradient">
+  <desc>
+    Chair Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Money Shopping/chair--chair-business-product-comfort-decoration-sit-furniture">
+    <path id="Union" fill="url(#paint0_linear_14402_13524)" fill-rule="evenodd" d="M2.75 0c.41421 0 .75.335786.75.75V1h7V.75c0-.414214.3358-.75.75-.75s.75.335786.75.75v6.44075c.0206.01847.0404.03823.0591.05925h.1909c.4142 0 .75.33579.75.75s-.3358.75-.75.75h-.8807l-3.04545 2.0938 2.60105 1.7882c.3413.2346.4278.7016.1931 1.0429-.2346.3413-.7016.4278-1.0429.1931L7 11.7539 3.9249 13.868c-.34133.2347-.80827.1482-1.04293-.1931-.23467-.3413-.1482-.8083.19313-1.0429l2.60105-1.7882L2.63069 8.75H1.75C1.33579 8.75 1 8.41421 1 8s.33579-.75.75-.75h.19087c.01876-.02102.03851-.04078.05913-.05925V.75c0-.414214.33579-.75.75-.75ZM7 9.9336 8.7216 8.75H5.2784L7 9.9336ZM10.5 7.25V5h-7v2.25h7Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13524" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

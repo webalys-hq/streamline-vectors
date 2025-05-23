@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Clock--Streamline-Core-Gradient">
+  <desc>
+    Square Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/square-clock--clock-loading-frame-measure-time-circle">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8556)" fill-rule="evenodd" d="M.5 1.99994C.5 1.17151 1.17157.499939 2 .499939h10c.8284 0 1.5.671571 1.5 1.500001v9.99996c0 .8285-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6715-1.5-1.5V1.99994ZM7 11.4999c2.48528 0 4.5-2.01468 4.5-4.49996s-2.01472-4.5-4.5-4.5-4.5 2.01472-4.5 4.5S4.51472 11.4999 7 11.4999Zm0-7.12496c.34518 0 .625.27982.625.625v1.375H9c.34518 0 .625.27982.625.625s-.27982.625-.625.625H7c-.34518 0-.625-.27982-.625-.625v-2c0-.34518.27982-.625.625-.625Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8556" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Text-Square--Streamline-Core-Gradient">
+  <desc>
+    Text Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/text-square--text-options-formatting-format-square-color-border-fill">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8664)" fill-rule="evenodd" d="M.5 1.99994C.5 1.17151 1.17157.499939 2 .499939h10c.8284 0 1.5.671571 1.5 1.500001v9.99996c0 .8285-.6716 1.5-1.5 1.5H2c-.82843 0-1.5-.6715-1.5-1.5V1.99994Zm6.49996 2.625c-.02958 0-.05583.01892-.06519.04698l-.901 2.70302h1.93238l-.901-2.70302c-.00936-.02806-.03561-.04698-.06519-.04698ZM3.90703 9.8023l.66161-1.98483c.00313-.01028.00652-.02044.01016-.03049l1.17012-3.51034c.17949-.53849.68342-.9017 1.25104-.9017.56761 0 1.07155.36321 1.25104.9017l1.17115 3.51345c.00184.00517.00362.01037.00533.0156.00093.00286.00185.00573.00274.00862l.66268 1.98799c.1091.3275-.0678.6814-.3953.7906-.32746.1091-.68141-.0679-.79057-.3953l-.52421-1.57266H5.6171l-.52421 1.57266c-.10916.3274-.46311.5044-.79057.3953-.32747-.1092-.50444-.4631-.39529-.7906Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8664" x1="14.627" x2="-2.908" y1="16.253" y2="3.797" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Previous--Streamline-Core-Gradient">
+  <desc>
+    Button Previous Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Entertainment/button-previous--button-television-buttons-movies-skip-previous-video-controls">
+    <path id="Union" fill="url(#paint0_linear_14402_14891)" fill-rule="evenodd" d="M11.1268.780343c.986-.7017046 2.3731-.009227 2.3731 1.212607V12.0069c0 1.2218-1.3871 1.9143-2.3731 1.2126L4.09148 8.21252c-.83584-.59485-.83584-1.83036 0-2.42521L11.1268.780343ZM2.5 1.49994c0-.552286-.44772-1.000001-1-1.000001-.552285 0-1 .447715-1 1.000001V12.4999c0 .5523.447715 1 1 1 .55228 0 1-.4477 1-1V1.49994Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_14891" x1="14.627" x2="-2.909" y1="16.254" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

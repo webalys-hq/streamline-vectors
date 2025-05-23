@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Folder-Song--Streamline-Core-Gradient">
+  <desc>
+    Music Folder Song Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/music-folder-song">
+    <path id="Subtract" fill="url(#paint0_linear_14402_8072)" fill-rule="evenodd" d="M0 2.49994C0 1.67151.671573.999939 1.5.999939h3.21922c.68831 0 1.28828.468441 1.45522 1.136201l.21595.8638H12.5c.8284 0 1.5.67157 1.5 1.5v6.99996c0 .8285-.6716 1.5-1.5 1.5h-11c-.828427 0-1.5-.6715-1.5-1.5V2.49994Zm9.75125 3.00104c.15657.1181.24863.30285.24863.49896v3.1875c0 .00808-.00015.01611-.00046.02411.00039.01275.00058.02555.00058.03839 0 .69036-.55964 1.24996-1.25 1.24996S7.5 9.9403 7.5 9.24994c0-.69031.55958-1.24993 1.24988-1.25V6.82853l-2.25.64285v2.76092l.00012.0176c0 .6904-.55964 1.25-1.25 1.25S4 10.9403 4 10.2499c0-.69027.55958-1.24989 1.24988-1.24996v-2c0-.27905.18498-.52429.4533-.60095l3.5-1c.18857-.05388.3915-.01612.54807.10199Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8072" x1="13.953" x2="-1.302" y1="13.002" y2="2.991" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff51e3"></stop>
+      <stop offset="1" stop-color="#1b4dff"></stop>
+    </linearGradient>
+  </defs>
+</svg>

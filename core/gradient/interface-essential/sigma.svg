@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sigma--Streamline-Core-Gradient">
+  <desc>
+    Sigma Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/sigma--formula-text-format-sigma-formatting-sum">
+    <path id="Vector 4169 (Stroke)" fill="url(#paint0_linear_14402_8478)" fill-rule="evenodd" d="M.5 2.20705c0-.94281.7643-1.707111 1.70711-1.707111H12.5c.5523 0 1 .447715 1 1.000001 0 .55228-.4477 1-1 1H2.91421l3.7929 3.79289c.39052.39053.39052 1.02369 0 1.41422l-3.7929 3.79285H12.5c.5523 0 1 .4478 1 1 0 .5523-.4477 1-1 1H2.20711C1.2643 13.4999.5 12.7356.5 11.7928c0-.4527.179855-.8869.5-1.2071l3.58579-3.58576L1 3.41415C.679855 3.09401.5 2.6598.5 2.20705Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_8478" x1="2.625" x2="13.125" y1="3" y2="8.817" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

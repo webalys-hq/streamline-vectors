@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bullet-List--Streamline-Core-Gradient">
+  <desc>
+    Bullet List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Interface Essential/bullet-list--points-bullet-unordered-list-lists-bullets">
+    <path id="Union" fill="url(#paint0_linear_14402_9358)" fill-rule="evenodd" d="M1.5.5c-.552285 0-1 .447715-1 1 0 .55228.447715 1 1 1 .55228 0 1-.44772 1-1 0-.552285-.44772-1-1-1Zm0 5.5c-.552285 0-1 .44772-1 1s.447715 1 1 1c.55228 0 1-.44772 1-1s-.44772-1-1-1Zm-1 6.5c0-.5523.447715-1 1-1 .55228 0 1 .4477 1 1s-.44772 1-1 1c-.552285 0-1-.4477-1-1ZM5.25.75c-.41421 0-.75.33579-.75.75s.33579.75.75.75h7.5c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75h-7.5Zm0 5.5c-.41421 0-.75.33579-.75.75s.33579.75.75.75h7.5c.4142 0 .75-.33579.75-.75s-.3358-.75-.75-.75h-7.5ZM4.5 12.5c0-.4142.33579-.75.75-.75h7.5c.4142 0 .75.3358.75.75s-.3358.75-.75.75h-7.5c-.41421 0-.75-.3358-.75-.75Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_9358" x1="14.627" x2="-2.908" y1="16.253" y2="3.798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#ff007a"></stop>
+    </linearGradient>
+  </defs>
+</svg>

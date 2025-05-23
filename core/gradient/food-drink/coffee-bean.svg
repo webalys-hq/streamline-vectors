@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Coffee-Bean--Streamline-Core-Gradient">
+  <desc>
+    Coffee Bean Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Food Drink/coffee-bean--cook-cooking-nutrition-coffee-bean">
+    <path id="Subtract" fill="url(#paint0_linear_14402_10594)" fill-rule="evenodd" d="M11.8231 1.69738C9.47065-.343315 5.56182.317594 2.93977 2.93965.632423 5.24699-.156293 8.55076 1.07818 10.9136c.55841-1.38156 1.2885-2.33627 2.14711-3.02094 1.11804-.89156 2.39122-1.2668 3.51238-1.59723l.05031-.01483c1.17115-.3453 2.18095-.65172 3.05169-1.34608.75953-.60569 1.46713-1.55592 1.98343-3.23714ZM2.17708 12.3025c2.35243 2.0408 6.26128 1.3799 8.88332-1.2422 2.3074-2.30736 3.0961-5.61115 1.8616-7.97397-.5584 1.38155-1.2885 2.33627-2.1471 3.02095-1.11808.8916-2.39128 1.26684-3.51246 1.59727l-.05026.01482c-1.17115.3453-2.18096.65171-3.05169 1.34606-.75954.60568-1.46718 1.55587-1.98341 3.23707Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_10594" x1=".998" x2="15.819" y1="1.549" y2="9.902" gradientUnits="userSpaceOnUse">
+      <stop offset=".146" stop-color="#00d078"></stop>
+      <stop offset="1" stop-color="#007df0"></stop>
+    </linearGradient>
+  </defs>
+</svg>

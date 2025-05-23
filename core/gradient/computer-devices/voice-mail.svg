@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Voice-Mail--Streamline-Core-Gradient">
+  <desc>
+    Voice Mail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Computer Devices/voice-mail--mic-audio-mike-music-microphone">
+    <path id="Union" fill="url(#paint0_linear_14402_13244)" fill-rule="evenodd" d="M7 0C5.20507 0 3.74998 1.45508 3.74998 3.25002v2.74996C3.74998 7.79492 5.20507 9.25 7 9.25c1.79493 0 3.25-1.45508 3.25-3.25002V3.25002C10.25 1.45508 8.79493 0 7 0Zm-.74998 12.2036V13.25c0 .4142.33578.75.75.75.41421 0 .75-.3358.75-.75v-1.0464C10.7097 11.8345 13 9.30972 13 6.25c0-.41421-.3358-.75-.75-.75s-.75.33579-.75.75c0 2.48528-2.0147 4.5-4.49998 4.5C4.51473 10.75 2.5 8.73528 2.5 6.25c0-.41421-.33579-.75-.75-.75S1 5.83579 1 6.25c0 3.05972 2.29028 5.5845 5.25002 5.9536Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_13244" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Politics-Speech--Streamline-Core-Gradient">
+  <desc>
+    Politics Speech Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Free Gradient/Culture/politics-speech">
+    <path id="Union" fill="url(#paint0_linear_14402_16497)" fill-rule="evenodd" d="M7 0C5.75736 0 4.75 1.00736 4.75 2.25S5.75736 4.5 7 4.5s2.25-1.00736 2.25-2.25S8.24264 0 7 0ZM3.67798 7.10352c.60148-1.22728 1.86303-2.07227 3.32194-2.07227 1.45892 0 2.72047.84499 3.32198 2.07227H3.67798ZM1 8.97852c0-.41422.33579-.75.75-.75h10.5001c.4142 0 .75.33578.75.75 0 .41421-.3358.75-.75.75h-.699l-.3874 3.82188c-.0259.2553-.2408.4496-.4974.4496H3.33378c-.25662 0-.47157-.1943-.49745-.4496l-.38738-3.82188H1.75c-.41421 0-.75-.33579-.75-.75Zm6 1.03098c-.69036 0-1.25.5597-1.25 1.25 0 .6904.55964 1.25 1.25 1.25s1.25-.5596 1.25-1.25c0-.6903-.55964-1.25-1.25-1.25Z" clip-rule="evenodd"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_14402_16497" x1="2.962" x2="13.298" y1="2.692" y2="7.601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd600"></stop>
+      <stop offset="1" stop-color="#00d078"></stop>
+    </linearGradient>
+  </defs>
+</svg>
