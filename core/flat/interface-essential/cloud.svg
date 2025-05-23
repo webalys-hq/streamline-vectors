@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cloud--cloud-meteorology-cloudy-overcast-cover-weather"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.913 2.38A5 5 0 1 0 5 12h6a3 3 0 0 0 0-6v.5V6a3.01 3.01 0 0 0-1.065.196 5 5 0 0 0-3.022-3.815Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cloud--Streamline-Core">
+  <desc>
+    Cloud Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cloud--cloud-meteorology-cloudy-overcast-cover-weather">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.913 2.38A5 5 0 1 0 5 12h6a3 3 0 0 0 0 -6v0.5l0 -0.5a3.01 3.01 0 0 0 -1.065 0.196 5 5 0 0 0 -3.022 -3.815Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tape-cassette-record--music-entertainment-tape-cassette-record"><path id="Rectangle 1681" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 3a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1V3Z"></path><path id="Rectangle 1683" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.5h5l1 2.5h-7l1-2.5Z"></path><path id="Rectangle 1682" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 5.75c0-.69.56-1.25 1.25-1.25h6.5c.69 0 1.25.56 1.25 1.25v0c0 .69-.56 1.25-1.25 1.25h-6.5C3.06 7 2.5 6.44 2.5 5.75v0Z"></path><path id="Ellipse 609" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.833 4.5a1.5 1.5 0 0 1 0 2.5"></path><path id="Ellipse 611" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.167 4.5a1.5 1.5 0 0 0 0 2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tape-Cassette-Record--Streamline-Core">
+  <desc>
+    Tape Cassette Record Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tape-cassette-record--music-entertainment-tape-cassette-record">
+    <path id="Rectangle 1681" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 3c0 -0.55228 0.447715 -1 1 -1h11c0.5523 0 1 0.44772 1 1v8c0 0.5523 -0.4477 1 -1 1h-11c-0.552285 0 -1 -0.4477 -1 -1l0 -8Z" stroke-width="1"></path>
+    <path id="Rectangle 1683" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.5h5l1 2.5h-7l1 -2.5Z" stroke-width="1"></path>
+    <path id="Rectangle 1682" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 5.75c0 -0.69036 0.55964 -1.25 1.25 -1.25h6.5c0.6904 0 1.25 0.55964 1.25 1.25v0c0 0.69036 -0.5596 1.25 -1.25 1.25h-6.5C3.05964 7 2.5 6.44036 2.5 5.75v0Z" stroke-width="1"></path>
+    <path id="Ellipse 609" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.83313 4.5c0.40357 0.26912 0.66943 0.72848 0.66943 1.24994s-0.26586 0.98082 -0.66943 1.24994" stroke-width="1"></path>
+    <path id="Ellipse 611" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.16687 4.5c-0.40357 0.26912 -0.66943 0.72848 -0.66943 1.24994s0.26586 0.98082 0.66943 1.24994" stroke-width="1"></path>
+  </g>
+</svg>

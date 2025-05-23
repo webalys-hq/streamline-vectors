@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tree-3--nature-tree-plant-cloud-shape-park"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.92 8.494a1 1 0 0 1 1 1v3.486a1 1 0 1 1-2 0V9.494a1 1 0 0 1 1-1Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" d="M4.353.985a4 4 0 0 1 6.477 2.023 3.5 3.5 0 0 1-.328 6.984H3.498a3.5 3.5 0 0 1-.41-6.976A4 4 0 0 1 4.353.986Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tree-3--Streamline-Core">
+  <desc>
+    Tree 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tree-3--nature-tree-plant-cloud-shape-park">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M6.92 8.494a1 1 0 0 1 1 1v3.486a1 1 0 1 1 -2 0l0 -3.486a1 1 0 0 1 1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M4.353 0.985a4 4 0 0 1 6.477 2.023 3.5 3.5 0 0 1 -0.328 6.984H3.498a3.5 3.5 0 0 1 -0.41 -6.976A4 4 0 0 1 4.353 0.986Z" stroke-width="1"></path>
+  </g>
+</svg>

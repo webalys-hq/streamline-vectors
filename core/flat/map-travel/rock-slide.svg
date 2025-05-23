@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="rock-slide--hill-cliff-sign-danger-stone"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M.854.146A.5.5 0 0 0 0 .5v13a.5.5 0 0 0 .5.5H9a.5.5 0 0 0 .49-.598l-.5-2.5a.5.5 0 0 0-.154-.272L3.47 5.751 2.995 2.43a.5.5 0 0 0-.141-.283l-2-2Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5 1a1 1 0 1 1 2 0 1 1 0 0 1-2 0Zm5 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm2 8a1 1 0 1 1 2 0 1 1 0 0 1-2 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rock-Slide--Streamline-Core">
+  <desc>
+    Rock Slide Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rock-slide--hill-cliff-sign-danger-stone">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M0.853553 0.146447C0.710554 0.00344762 0.495495 -0.0393302 0.308658 0.0380602 0.121821 0.115451 0 0.297769 0 0.5v13c0 0.2761 0.223858 0.5 0.5 0.5H9c0.1498 0 0.2917 -0.0672 0.38667 -0.183s0.133 -0.2682 0.10362 -0.4151l-0.5 -2.5c-0.02095 -0.1047 -0.0749 -0.2 -0.15395 -0.2719L3.46952 5.75111l-0.47455 -3.32182c-0.01529 -0.1071 -0.06492 -0.20635 -0.14142 -0.28284L0.853553 0.146447Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5 1c0 -0.552285 0.44772 -1 1 -1s1 0.447715 1 1c0 0.55228 -0.44772 1 -1 1s-1 -0.44772 -1 -1Zm5 2c-1.10457 0 -2 0.89543 -2 2s0.89543 2 2 2c1.1046 0 2 -0.89543 2 -2s-0.8954 -2 -2 -2Zm2 8c0 -0.5523 0.4477 -1 1 -1s1 0.4477 1 1 -0.4477 1 -1 1 -1 -0.4477 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

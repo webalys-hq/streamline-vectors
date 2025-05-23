@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="discussion-converstion-reply"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.052 6.906V2.314a.845.845 0 0 1 .845-.845h8.22a.845.845 0 0 1 .845.845v.53M2.052 9.03v.965l-.845 2.535 3.38-.845h6.53a.845.845 0 0 0 .845-.845V4.875"></path><path id="vector 384" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.65 5.612 2.038 7l1.388-1.388"></path><path id="vector 385" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.574 6.248 1.388-1.388 1.388 1.388"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discussion-Converstion-Reply--Streamline-Core">
+  <desc>
+    Discussion Converstion Reply Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="discussion-converstion-reply">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.05225 6.90625V2.31396c0 -0.22416 0.08904 -0.43914 0.24755 -0.59765 0.15851 -0.15851 0.3735 -0.24756 0.59766 -0.24756h8.21904c0.2242 0 0.4392 0.08905 0.5977 0.24756 0.1585 0.15851 0.2475 0.37349 0.2475 0.59765v0.52979m-9.90945 6.1875v0.96436l-0.84522 2.53559 3.38086 -0.8452h6.52861c0.2242 0 0.4392 -0.089 0.5977 -0.2475 0.1585 -0.1585 0.2475 -0.3735 0.2475 -0.5977V4.875" stroke-width="1"></path>
+    <path id="vector 384" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.650391 5.61207 2.03832 7l1.38793 -1.38793" stroke-width="1"></path>
+    <path id="vector 385" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.5742 6.24828 1.3879 -1.38793 1.388 1.38793" stroke-width="1"></path>
+  </g>
+</svg>

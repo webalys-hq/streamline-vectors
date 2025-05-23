@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zodiac-8--sign-astrology-stars-space-libra"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 12h13"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8h-3c.344-.61.516-1.3.5-2a4 4 0 1 0-8 0 3.89 3.89 0 0 0 .54 2H.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zodiac-8--Streamline-Core">
+  <desc>
+    Zodiac 8 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zodiac-8--sign-astrology-stars-space-libra">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 12h13" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8h-3c0.3435 -0.60957 0.5162 -1.3005 0.5 -2 0 -1.06087 -0.4214 -2.07828 -1.17157 -2.82843C9.07828 2.42143 8.06087 2 7 2s-2.07828 0.42143 -2.82843 1.17157C3.42143 3.92172 3 4.93913 3 6c-0.00409 0.70322 0.18253 1.3944 0.54 2H0.5" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="square-clock--clock-loading-frame-measure-time-circle"><path id="Rectangle 676" fill="#37d7ff" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v11a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-11Z"></path><path id="Ellipse 552" fill="#3e3e3e" d="M2.5 7a4.5 4.5 0 1 0 9 0 4.5 4.5 0 1 0-9 0"></path><path id="Vector 1537 (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M7 4.375c.345 0 .625.28.625.625v1.375H9a.625.625 0 1 1 0 1.25H7A.625.625 0 0 1 6.375 7V5c0-.345.28-.625.625-.625Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Clock--Streamline-Core">
+  <desc>
+    Square Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="square-clock--clock-loading-frame-measure-time-circle">
+    <path id="Rectangle 676" fill="#8fbffa" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v11a1.5 1.5 0 0 1 -1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-11Z" stroke-width="1"></path>
+    <path id="Ellipse 552" fill="#2859c5" d="M2.5 7a4.5 4.5 0 1 0 9 0 4.5 4.5 0 1 0 -9 0" stroke-width="1"></path>
+    <path id="Vector 1537 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M7 4.375c0.345 0 0.625 0.28 0.625 0.625v1.375H9a0.625 0.625 0 1 1 0 1.25H7A0.625 0.625 0 0 1 6.375 7V5c0 -0.345 0.28 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

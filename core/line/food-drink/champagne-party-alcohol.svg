@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="champagne-party-alcohol"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.179 6.011 4.114.881l3.653 1.04-1.062 5.38a2.362 2.362 0 1 1-4.526-1.29Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.742 9.115-1.074 3.766"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m1.184 12.457 2.967.846"></path><path id="vector 2109" stroke="#3e3e3e" d="m3.148 3.438 4.086 1.175"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.567 8.963a2.362 2.362 0 0 0 3.255-2.952L9.885.881l-.576.163"></path><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.258 9.115 1.074 3.766"></path><path id="vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m12.816 12.457-2.967.846"></path><path id="vector 2110" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.852 3.45-1.669.48"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Champagne-Party-Alcohol--Streamline-Core">
+  <desc>
+    Champagne Party Alcohol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="champagne-party-alcohol">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.17875 6.01104 4.11431 0.880216 7.7668 1.92163 6.70545 7.30171c-0.26739 1.3554 -1.63601 2.19288 -2.96459 1.81407 -1.32857 -0.37881 -2.04973 -1.81214 -1.56211 -3.10474Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.74219 9.11523 2.6684 12.8813" stroke-width="1"></path>
+    <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.18359 12.457 2.96719 0.846" stroke-width="1"></path>
+    <path id="vector 2109" stroke="#000000" d="m3.14844 3.4375 4.08594 1.17578" stroke-width="1"></path>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.56665 8.96279c0.50558 0.24984 1.10298 0.32123 1.69245 0.15314 1.3286 -0.3788 2.0498 -1.81213 1.5621 -3.10474L9.88569 0.880371l-0.5755 0.164089" stroke-width="1"></path>
+    <path id="vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.2578 9.11523 1.0738 3.76607" stroke-width="1"></path>
+    <path id="vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12.8164 12.457 -2.96718 0.846" stroke-width="1"></path>
+    <path id="vector 2110" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.8516 3.44922 -1.66839 0.48094" stroke-width="1"></path>
+  </g>
+</svg>

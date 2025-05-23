@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="insert-top-right--paragraph-image-text-alignment-wrap-right-formatting"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 1H5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 4H5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 7H5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 13h13"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10h13"></path><path id="Vector_6" fill="#37d7ff" d="M8 7h5a.5.5 0 0 0 .5-.5v-5A.5.5 0 0 0 13 1H8a.5.5 0 0 0-.5.5v5A.5.5 0 0 0 8 7Z"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 7h5a.5.5 0 0 0 .5-.5v-5A.5.5 0 0 0 13 1H8a.5.5 0 0 0-.5.5v5A.5.5 0 0 0 8 7Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Insert-Top-Right--Streamline-Core">
+  <desc>
+    Insert Top Right Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="insert-top-right--paragraph-image-text-alignment-wrap-right-formatting">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 1H5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 4H5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7H5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 13h13" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10h13" stroke-width="1"></path>
+    <path id="Vector_6" fill="#d7e0ff" d="m8 7 5 0a0.5 0.5 0 0 0 0.5 -0.5v-5A0.5 0.5 0 0 0 13 1L8 1a0.5 0.5 0 0 0 -0.5 0.5l0 5A0.5 0.5 0 0 0 8 7Z" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m8 7 5 0a0.5 0.5 0 0 0 0.5 -0.5v-5A0.5 0.5 0 0 0 13 1L8 1a0.5 0.5 0 0 0 -0.5 0.5l0 5A0.5 0.5 0 0 0 8 7Z" stroke-width="1"></path>
+  </g>
+</svg>

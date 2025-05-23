@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="nurse-assistant-emergency"><path id="ellipse 337" fill="#37d7ff" d="M2 3a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path><path id="union" fill="#3e3e3e" d="M9.406 6.5a.5.5 0 0 0-.5.5v1.906H7a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.906V13.5a.5.5 0 0 0 .5.5h1.625a.5.5 0 0 0 .5-.5v-1.969H13.5a.5.5 0 0 0 .5-.5V9.406a.5.5 0 0 0-.5-.5h-1.969V7a.5.5 0 0 0-.5-.5H9.406Z"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M7.478 7.656A5 5 0 0 0 0 12a.5.5 0 0 0 .5.5h5.548a1.748 1.748 0 0 1-.798-1.469V9.406c0-.966.784-1.75 1.75-1.75h.478Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nurse-Assistant-Emergency--Streamline-Core">
+  <desc>
+    Nurse Assistant Emergency Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="nurse-assistant-emergency">
+    <path id="ellipse 337" fill="#8fbffa" d="M2 3a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <path id="union" fill="#2859c5" d="M9.406 6.5a0.5 0.5 0 0 0 -0.5 0.5v1.906H7a0.5 0.5 0 0 0 -0.5 0.5v1.625a0.5 0.5 0 0 0 0.5 0.5h1.906V13.5a0.5 0.5 0 0 0 0.5 0.5h1.625a0.5 0.5 0 0 0 0.5 -0.5v-1.969H13.5a0.5 0.5 0 0 0 0.5 -0.5V9.406a0.5 0.5 0 0 0 -0.5 -0.5h-1.969V7a0.5 0.5 0 0 0 -0.5 -0.5H9.406Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M7.478 7.656A5 5 0 0 0 0 12a0.5 0.5 0 0 0 0.5 0.5h5.548a1.748 1.748 0 0 1 -0.798 -1.469V9.406c0 -0.966 0.784 -1.75 1.75 -1.75h0.478Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

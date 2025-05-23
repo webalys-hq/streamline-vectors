@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="briefcase-dollar--briefcase-payment-cash-money-finance-baggage-bag"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 3.5v-2a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v2"></path><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.276 7.167a1 1 0 0 0-.943-.667H6.56a.893.893 0 0 0-.19 1.765l1.178.257a1 1 0 0 1-.214 1.978h-.666a1 1 0 0 1-.943-.667"></path><path id="Vector 2489" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 6.5v-1"></path><path id="Vector 2490" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5v-1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Briefcase-Dollar--Streamline-Core">
+  <desc>
+    Briefcase Dollar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="briefcase-dollar--briefcase-payment-cash-money-finance-baggage-bag">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5h-11c-0.552285 0 -1 0.44772 -1 1v8c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-8c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 3.5v-2c0 -0.26522 -0.10536 -0.51957 -0.29289 -0.707107C9.51957 0.605357 9.26522 0.5 9 0.5H5c-0.26522 0 -0.51957 0.105357 -0.70711 0.292893C4.10536 0.98043 4 1.23478 4 1.5v2" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.2764 7.16667c-0.0439 -0.12421 -0.11164 -0.23715 -0.19773 -0.33333C7.89557 6.62875 7.62947 6.5 7.3333 6.5h-0.77404c-0.49299 0 -0.89263 0.39965 -0.89263 0.89264 0 0.41948 0.29208 0.78237 0.70188 0.87201l1.17849 0.2578c0.45908 0.10042 0.78631 0.50726 0.78631 0.9772 0 0.55225 -0.44772 1.00035 -1.00001 1.00035h-0.66667c-0.43541 0 -0.80582 -0.2783 -0.9431 -0.66665" stroke-width="1"></path>
+    <path id="Vector 2489" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 6.50001V5.5" stroke-width="1"></path>
+    <path id="Vector 2490" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5v-1" stroke-width="1"></path>
+  </g>
+</svg>

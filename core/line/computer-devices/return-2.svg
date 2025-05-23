@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="return-2--arrow-return-enter-keyboard"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 9.5h9a4 4 0 1 0 0-8h-3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.5 6.5-3 3 3 3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Return-2--Streamline-Core">
+  <desc>
+    Return 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="return-2--arrow-return-enter-keyboard">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 9.5h9c1.0609 0 2.0783 -0.42143 2.8284 -1.17157C13.0786 7.57828 13.5 6.56087 13.5 5.5s-0.4214 -2.07828 -1.1716 -2.82843C11.5783 1.92143 10.5609 1.5 9.5 1.5h-3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.5 6.5 -3 3 3 3" stroke-width="1"></path>
+  </g>
+</svg>

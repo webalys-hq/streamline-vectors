@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="gift-2--reward-box-social-present-gift-media-rating-bow"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.276 12.235V6.393H1.724v5.842a1 1 0 0 0 1 1h8.552a1 1 0 0 0 1-1Z"></path><path id="Vector 2239" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.234V6.391"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.138 4.792v.6a1 1 0 0 1-1 1H1.862a1 1 0 0 1-1-1v-.6a1 1 0 0 1 1-1h10.276a1 1 0 0 1 1 1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3.792C7 2.917 5.98.875 4.448.875c-2.491 0-1.584 2.917-.391 2.917"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3.792C7 2.917 8.02.875 9.552.875c2.491 0 1.584 2.917.391 2.917"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gift-2--Streamline-Core">
+  <desc>
+    Gift 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gift-2--reward-box-social-present-gift-media-rating-bow">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.2756 12.2345V6.39258H1.72412v5.84192c0 0.5523 0.44772 1 1 1h8.55148c0.5523 0 1 -0.4477 1 -1Z" stroke-width="1"></path>
+    <path id="Vector 2239" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.2344V6.39062" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.1379 4.79177v0.60081c0 0.55228 -0.4477 1 -1 1H1.86206c-0.55228 0 -0.999999 -0.44772 -0.999999 -1v-0.60081c0 -0.55228 0.447719 -1 0.999999 -1H12.1379c0.5523 0 1 0.44772 1 1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00012 3.79167c0 -0.875 -1.02083 -2.91667 -2.55208 -2.91667 -2.49111 0 -1.58366 2.91667 -0.39135 2.91667" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 3.79167C7 2.91667 8.02083 0.875 9.55208 0.875c2.49112 0 1.58362 2.91667 0.39135 2.91667" stroke-width="1"></path>
+  </g>
+</svg>

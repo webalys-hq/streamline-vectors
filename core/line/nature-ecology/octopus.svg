@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="octopus--nature-sealife-animals"><path id="Ellipse 954" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 9.5c0 2-2.5 2.354-3.854 1-1.084-1.083-.83-2.267 0-3a4 4 0 1 0-5.292 0c.83.733 1.084 1.917 0 3C3 11.854.5 11.5.5 9.5"></path><path id="Vector 2282" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.25 10.5c-.167 1-1.25 3-3.25 3-1 0-1.5-.5-1.5-.5"></path><path id="Vector 2283" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.75 10.5c.167 1 1.25 3 3.25 3 1 0 1.5-.5 1.5-.5"></path><g id="Group 4541"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.5a.25.25 0 0 1 0-.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.5a.25.25 0 0 0 0-.5"></path></g><g id="Group 4540"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.75 5.5a.25.25 0 0 1 0-.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.75 5.5a.25.25 0 0 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Octopus--Streamline-Core">
+  <desc>
+    Octopus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="octopus--nature-sealife-animals">
+    <path id="Ellipse 954" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 9.5c0 2 -2.5 2.3542 -3.85416 1 -1.08334 -1.08334 -0.83042 -2.26706 0 -3C10.4763 6.76706 11 5.69469 11 4.5c0 -2.20914 -1.79085 -4 -3.99999 -4C4.79088 0.5 3 2.29086 3 4.5c0 1.19469 0.52375 2.26706 1.35418 3 0.83042 0.73294 1.08334 1.91666 0 3C3 11.8542 0.5 11.5 0.5 9.5" stroke-width="1"></path>
+    <path id="Vector 2282" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.25 10.5c-0.16667 1 -1.25 3 -3.25 3 -1 0 -1.5 -0.5 -1.5 -0.5" stroke-width="1"></path>
+    <path id="Vector 2283" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.75 10.5c0.16667 1 1.25 3 3.25 3 1 0 1.5 -0.5 1.5 -0.5" stroke-width="1"></path>
+    <g id="Group 4541">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S5.11193 5 5.25 5" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.5c0.13807 0 0.25 -0.11193 0.25 -0.25S5.38807 5 5.25 5" stroke-width="1"></path>
+    </g>
+    <g id="Group 4540">
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.75 5.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S8.61193 5 8.75 5" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.75 5.5c0.13807 0 0.25 -0.11193 0.25 -0.25S8.88807 5 8.75 5" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

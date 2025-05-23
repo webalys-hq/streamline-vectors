@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="production-belt--production-produce-box-belt-factory-product-package-business"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.9 8.875h8.2a2.305 2.305 0 0 1 0 4.61H2.9a2.305 2.305 0 0 1 0-4.61Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.445 1.496h-7c-.351 0-.636.254-.636.568v6.243c0 .314.285.568.636.568h7c.351 0 .636-.254.636-.568V2.064c0-.314-.285-.568-.636-.568Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.218 1.496v2.838a.27.27 0 0 1-.093.2.339.339 0 0 1-.225.084H5.99a.339.339 0 0 1-.224-.083.27.27 0 0 1-.093-.2v-2.84"></path><g id="Group 4552"><path id="Ellipse 1121" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.735 11.43a.25.25 0 1 1 0-.5"></path><path id="Ellipse 1122" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.735 11.43a.25.25 0 1 0 0-.5"></path></g><g id="Group 4553"><path id="Ellipse 1121_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.43a.25.25 0 1 1 0-.5"></path><path id="Ellipse 1122_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.43a.25.25 0 1 0 0-.5"></path></g><g id="Group 4554"><path id="Ellipse 1121_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.265 11.43a.25.25 0 1 1 0-.5"></path><path id="Ellipse 1122_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.265 11.43a.25.25 0 1 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Production-Belt--Streamline-Core">
+  <desc>
+    Production Belt Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="production-belt--production-produce-box-belt-factory-product-package-business">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.89991 8.875H11.1c1.2728 0 2.3047 1.03185 2.3047 2.3047 0 1.2728 -1.0319 2.3047 -2.3047 2.3047H2.89991c-1.27285 0 -2.304695 -1.0319 -2.304695 -2.3047 0 -1.27285 1.031845 -2.3047 2.304695 -2.3047Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.445 1.49609H3.44518c-0.35144 0 -0.63634 0.25413 -0.63634 0.56761v6.24369c0 0.31348 0.2849 0.56761 0.63634 0.56761H10.445c0.3514 0 0.6363 -0.25413 0.6363 -0.56761V2.0637c0 -0.31348 -0.2849 -0.56761 -0.6363 -0.56761Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.21798 1.49609v2.83804c0 0.07527 -0.03352 0.14746 -0.09319 0.20068 -0.05967 0.05323 -0.1406 0.08313 -0.22498 0.08313H5.99078c-0.08439 0 -0.16531 -0.0299 -0.22498 -0.08313 -0.05967 -0.05322 -0.09319 -0.12541 -0.09319 -0.20068V1.49609" stroke-width="1"></path>
+    <g id="Group 4552">
+      <path id="Ellipse 1121" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.73486 11.4297c-0.13807 0 -0.25 -0.1119 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1122" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.73486 11.4297c0.13807 0 0.25 -0.1119 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 4553">
+      <path id="Ellipse 1121_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 11.4297c-0.13807 0 -0.25 -0.1119 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1122_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 11.4297c0.13807 0 0.25 -0.1119 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 4554">
+      <path id="Ellipse 1121_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.265 11.4297c-0.1381 0 -0.25 -0.1119 -0.25 -0.25s0.1119 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1122_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.265 11.4297c0.1381 0 0.25 -0.1119 0.25 -0.25s-0.1119 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

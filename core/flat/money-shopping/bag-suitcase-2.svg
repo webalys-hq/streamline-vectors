@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag-suitcase-2--product-business-briefcase"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M3.763.532A1.75 1.75 0 0 1 5 .02h4a1.75 1.75 0 0 1 1.75 1.75v2a.75.75 0 0 1-1.5 0v-2A.25.25 0 0 0 9 1.52H5a.25.25 0 0 0-.25.25v2a.75.75 0 0 1-1.5 0v-2c0-.464.184-.91.513-1.238Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" d="M1.5 3A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 12.5 3h-11Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Suitcase-2--Streamline-Core">
+  <desc>
+    Bag Suitcase 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-suitcase-2--product-business-briefcase">
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M3.763 0.532A1.75 1.75 0 0 1 5 0.02h4a1.75 1.75 0 0 1 1.75 1.75v2a0.75 0.75 0 0 1 -1.5 0v-2A0.25 0.25 0 0 0 9 1.52H5a0.25 0.25 0 0 0 -0.25 0.25v2a0.75 0.75 0 0 1 -1.5 0v-2c0 -0.464 0.184 -0.91 0.513 -1.238Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M1.5 3A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5 -1.5v-8A1.5 1.5 0 0 0 12.5 3h-11Z" stroke-width="1"></path>
+  </g>
+</svg>

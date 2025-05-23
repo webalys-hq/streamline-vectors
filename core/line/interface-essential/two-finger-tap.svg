@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="two-finger-tap"><path id="Ellipse 302" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.263 5.982a3.498 3.498 0 0 1 4.085-4.229 3.498 3.498 0 0 1 6.09 3.041"></path><path id="Vector 108" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.312 8.258.616-4.69a1.29 1.29 0 0 1 1.278-1.122v0c.778 0 1.38.685 1.278 1.457l-.572 4.355h.473c1.185 0 2.145.96 2.145 2.144v3.08"></path><path id="Vector 107" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.31 8.266 6.733 4.91A1.313 1.313 0 0 0 5.44 3.82v0c-.793 0-1.405.697-1.302 1.483l.57 4.368-.648.121a1.715 1.715 0 0 0-1.095 2.659l.298.432.424.617"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Two-Finger-Tap--Streamline-Core">
+  <desc>
+    Two Finger Tap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="two-finger-tap">
+    <path id="Ellipse 302" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.26327 5.98176c-0.05947 -0.25564 -0.09091 -0.52204 -0.09091 -0.79578 0 -1.93217 1.56633 -3.4985 3.4985 -3.4985 0.23178 0 0.4583 0.02254 0.67748 0.06555C6.9901 0.987065 7.95379 0.5 9.03124 0.5c1.93216 0 3.49846 1.56633 3.49846 3.4985 0 0.27374 -0.0314 0.54014 -0.0909 0.79579" stroke-width="1"></path>
+    <path id="Vector 108" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.31201 8.25772 0.61555 -4.69033c0.08421 -0.64163 0.63105 -1.12139 1.27818 -1.12139v0c0.7786 0 1.37946 0.68491 1.27816 1.45689l-0.57149 4.35483 0.47309 0c1.1842 0 2.1442 0.95998 2.1442 2.14418l0 3.0793" stroke-width="1"></path>
+    <path id="Vector 107" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.30929 8.26579 -0.57557 -3.35494c-0.10812 -0.63023 -0.65456 -1.0909 -1.29399 -1.0909v0c-0.79249 0 -1.40434 0.69678 -1.30189 1.48262l0.56944 4.36793 -0.64687 0.12174C2.8415 10.0216 2.26144 11.4289 2.9647 12.4506l0.29788 0.4327 0.42396 0.6167" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-fast-forward-1--button-controls-fast-forward-movies-television-video-tv"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.497 5.894 1.27 2.424a.83.83 0 0 0-.92.056.823.823 0 0 0-.35.648v7.723c0 .638.735 1.05 1.27.724l5.227-3.449v2.724c0 .639.734 1.052 1.27.725l5.867-3.872c.488-.316.488-1.067 0-1.384L7.767 2.424a.832.832 0 0 0-.92.056.823.823 0 0 0-.35.648v2.766Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Fast-Forward-1--Streamline-Core">
+  <desc>
+    Button Fast Forward 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-fast-forward-1--button-controls-fast-forward-movies-television-video-tv">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M6.497 5.894 1.27 2.424a0.83 0.83 0 0 0 -0.92 0.056 0.823 0.823 0 0 0 -0.35 0.648v7.72l0 0.003c0 0.638 0.735 1.05 1.27 0.724l5.227 -3.449 0 2.722 0 0.002c0 0.639 0.734 1.052 1.27 0.725l5.867 -3.872c0.488 -0.316 0.488 -1.067 0 -1.384L7.767 2.424a0.832 0.832 0 0 0 -0.92 0.056 0.823 0.823 0 0 0 -0.35 0.648l0 2.766Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

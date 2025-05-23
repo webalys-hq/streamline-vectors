@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="database-check--raid-storage-code-disk-programming-database-array-hard-disc-check-approve"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M0 9.882V2h11.5v5.515l-2.588 2.912-.528-.396a2 2 0 0 0-3.067 2.319C2.344 12.254 0 11.185 0 9.882Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M0 7.115V5.46c.045.083.12.18.241.292.249.225.643.458 1.183.665C2.501 6.83 4.03 7.1 5.75 7.1c1.72 0 3.25-.27 4.326-.684.54-.207.934-.44 1.183-.665.122-.111.197-.209.241-.292v1.656a6.236 6.236 0 0 1-.975.468c-1.253.482-2.941.767-4.775.767-1.834 0-3.522-.285-4.775-.767A6.235 6.235 0 0 1 0 7.115Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M13.682 8.07a.75.75 0 0 1 .063 1.06l-4 4.5a.75.75 0 0 1-1.01.101l-2-1.5a.75.75 0 1 1 .9-1.2l1.447 1.086 3.542-3.984a.75.75 0 0 1 1.058-.062Z" clip-rule="evenodd"></path><path id="Vector" fill="#3e3e3e" d="M5.75 4c3.176 0 5.75-.895 5.75-2S8.926 0 5.75 0 0 .895 0 2s2.574 2 5.75 2Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Database-Check--Streamline-Core">
+  <desc>
+    Database Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="database-check--raid-storage-code-disk-programming-database-array-hard-disc-check-approve">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0 9.882V2l11.5 0v5.515l-2.588 2.912 -0.528 -0.396a2 2 0 0 0 -3.067 2.319C2.344 12.254 0 11.185 0 9.882Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M0 7.115V5.46c0.045 0.083 0.12 0.18 0.241 0.292 0.249 0.225 0.643 0.458 1.183 0.665C2.501 6.83 4.03 7.1 5.75 7.1c1.72 0 3.25 -0.27 4.326 -0.684 0.54 -0.207 0.934 -0.44 1.183 -0.665 0.122 -0.111 0.197 -0.209 0.241 -0.292v1.656a6.236 6.236 0 0 1 -0.975 0.468c-1.253 0.482 -2.941 0.767 -4.775 0.767 -1.834 0 -3.522 -0.285 -4.775 -0.767A6.235 6.235 0 0 1 0 7.115Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M13.682 8.07a0.75 0.75 0 0 1 0.063 1.06l-4 4.5a0.75 0.75 0 0 1 -1.01 0.101l-2 -1.5a0.75 0.75 0 1 1 0.9 -1.2l1.447 1.086 3.542 -3.984a0.75 0.75 0 0 1 1.058 -0.062Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M5.75 4c3.176 0 5.75 -0.895 5.75 -2S8.926 0 5.75 0 0 0.895 0 2s2.574 2 5.75 2Z" stroke-width="1"></path>
+  </g>
+</svg>

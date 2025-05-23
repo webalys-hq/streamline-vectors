@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="navigation-arrow-on--compass-arrow-map-bearing-navigation-maps-heading-gps-off-disable"><path id="Vector" fill="#37d7ff" d="M7.515 12.53a.5.5 0 0 0 .908-.029l4.596-10.865a.5.5 0 0 0-.655-.655L1.5 5.577a.5.5 0 0 0-.029.908l3.88 1.94a.5.5 0 0 1 .225.224l1.94 3.88Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.515 12.53a.5.5 0 0 0 .908-.029l4.596-10.865a.5.5 0 0 0-.655-.655L1.5 5.577a.5.5 0 0 0-.029.908l3.88 1.94a.5.5 0 0 1 .225.224l1.94 3.88Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Navigation-Arrow-On--Streamline-Core">
+  <desc>
+    Navigation Arrow On Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="navigation-arrow-on--compass-arrow-map-bearing-navigation-maps-heading-gps-off-disable">
+    <path id="Vector" fill="#d7e0ff" d="M7.51493 12.5299c0.19086 0.3817 0.74141 0.3642 0.90769 -0.0288L13.0194 1.63586c0.175 -0.41361 -0.2417 -0.83029 -0.6553 -0.655304L1.49893 5.57738c-0.39304 0.16628 -0.4105 0.71683 -0.02879 0.90769l3.88079 1.94039c0.09676 0.04839 0.17522 0.12685 0.22361 0.22361l1.94039 3.88083Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.51493 12.5299c0.19086 0.3817 0.74141 0.3642 0.90769 -0.0288L13.0194 1.63586c0.175 -0.41361 -0.2417 -0.83029 -0.6553 -0.655304L1.49893 5.57738c-0.39304 0.16628 -0.4105 0.71683 -0.02879 0.90769l3.88079 1.94039c0.09676 0.04839 0.17522 0.12685 0.22361 0.22361l1.94039 3.88083Z" stroke-width="1"></path>
+  </g>
+</svg>

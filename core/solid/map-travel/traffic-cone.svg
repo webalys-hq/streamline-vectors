@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="traffic-cone--street-sign-traffic-cone-road"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="m4.715 3.714.658-2.443a1 1 0 0 1 .965-.74h1.323a1 1 0 0 1 .966.74l.658 2.443h-4.57Zm-.336 1.25-.945 3.51h7.132l-.945-3.51H4.38Zm-1.937 7.192.655-2.432h7.806l.655 2.432h1.63a.75.75 0 0 1 0 1.5H.812a.75.75 0 1 1 0-1.5h1.63Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Traffic-Cone--Streamline-Core">
+  <desc>
+    Traffic Cone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="traffic-cone--street-sign-traffic-cone-road">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="m4.71521 3.71393 0.65764 -2.44265c0.11755 -0.436617 0.51345 -0.74003 0.96561 -0.74003h1.32302c0.45216 0 0.84806 0.303412 0.96561 0.74003l0.65764 2.44265H4.71521Zm-0.33654 1.25 -0.9449 3.50964h7.13243l-0.94493 -3.50964h-5.2426ZM2.44228 12.1562l0.65495 -2.43263h7.80547l0.655 2.43263h1.6298c0.4142 0 0.75 0.3358 0.75 0.75 0 0.4143 -0.3358 0.75 -0.75 0.75H0.8125c-0.414214 0 -0.75 -0.3357 -0.75 -0.75 0 -0.4142 0.335786 -0.75 0.75 -0.75h1.62978Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

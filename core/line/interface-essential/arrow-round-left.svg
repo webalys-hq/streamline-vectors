@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-round-left--diagram-round-arrow-left"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.75.5 2.25 3l2.5 2.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.75 8.25A5.25 5.25 0 1 0 7 3H2.25"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Round-Left--Streamline-Core">
+  <desc>
+    Arrow Round Left Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-round-left--diagram-round-arrow-left">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.75 0.5 2.25 3l2.5 2.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.75 8.25c0 1.03835 0.30791 2.0534 0.88478 2.9167 0.57688 0.8634 1.39682 1.5363 2.35613 1.9337 0.95931 0.3973 2.01491 0.5013 3.03331 0.2987 1.0184 -0.2025 1.95387 -0.7026 2.68808 -1.4368 0.7342 -0.7342 1.2343 -1.6697 1.4368 -2.68808 0.2026 -1.0184 0.0986 -2.074 -0.2987 -3.03331 -0.3974 -0.95931 -1.0703 -1.77925 -1.93366 -2.35613C9.05339 3.30791 8.03835 3 7 3H2.25" stroke-width="1"></path>
+  </g>
+</svg>

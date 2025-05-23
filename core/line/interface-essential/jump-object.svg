@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="jump-object"><path id="Vector 1066" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 13.451h13"></path><path id="Vector 1067" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5.549h13"></path><path id="Vector 1056" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.246 10.224H4.75a1 1 0 0 1-1-1V4.778a1 1 0 0 1 1-1h4.495a1 1 0 0 1 1 1v4.446a1 1 0 0 1-1 1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Jump-Object--Streamline-Core">
+  <desc>
+    Jump Object Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="jump-object">
+    <path id="Vector 1066" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 13.4514h13" stroke-width="1"></path>
+    <path id="Vector 1067" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 0.548584h13" stroke-width="1"></path>
+    <path id="Vector 1056" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.24567 10.2239H4.75146c-0.55228 0 -1 -0.44769 -1 -0.99998V4.77783c0 -0.55228 0.44772 -1 1.00001 -1h4.4942c0.55228 0 1.00003 0.44772 1.00003 1v4.44609c0 0.55229 -0.44775 0.99998 -1.00003 0.99998Z" stroke-width="1"></path>
+  </g>
+</svg>

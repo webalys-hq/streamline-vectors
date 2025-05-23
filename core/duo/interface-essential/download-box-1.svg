@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="download-box-1--arrow-box-down-download-internet-network-server-upload"><path id="Vector" fill="#ffffff" d="M11.29 1a1 1 0 0 0-.84-.5h-6.9a1 1 0 0 0-.84.5L.5 4.5h13L11.29 1Z"></path><path id="Vector_2" fill="#37d7ff" d="M1.5 13.5a1 1 0 0 1-1-1v-8h13v8a1 1 0 0 1-1 1h-11Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 13.5h-1a1 1 0 0 1-1-1v-8h13v8a1 1 0 0 1-1 1h-1"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 11 7 13.5 9.5 11"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5v-6"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.29 1a1 1 0 0 0-.84-.5h-6.9a1 1 0 0 0-.84.5L.5 4.5h13L11.29 1Z"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5v4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Download-Box-1--Streamline-Core">
+  <desc>
+    Download Box 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="download-box-1--arrow-box-down-download-internet-network-server-upload">
+    <path id="Vector" fill="#ffffff" d="M11.29 1a1 1 0 0 0 -0.84 -0.5h-6.9a1 1 0 0 0 -0.84 0.5L0.5 4.5h13L11.29 1Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M1.5 13.5a1 1 0 0 1 -1 -1v-8h13v8a1 1 0 0 1 -1 1h-11Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 13.5h-1a1 1 0 0 1 -1 -1v-8h13v8a1 1 0 0 1 -1 1h-1" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.5 11 7 13.5 9.5 11" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5v-6" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.29 1a1 1 0 0 0 -0.84 -0.5h-6.9a1 1 0 0 0 -0.84 0.5L0.5 4.5h13L11.29 1Z" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5v4" stroke-width="1"></path>
+  </g>
+</svg>

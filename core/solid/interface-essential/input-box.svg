@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="input-box--cursor-text-formatting-type-format"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M4 1.75a.75.75 0 0 0 0 1.5h.25v7.5H4a.75.75 0 0 0 0 1.5h2a.75.75 0 0 0 0-1.5h-.25v-7.5H6a.75.75 0 0 0 0-1.5H4ZM3 4.5H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h2v-5Zm4 5h6a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1H7v5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Input-Box--Streamline-Core">
+  <desc>
+    Input Box Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="input-box--cursor-text-formatting-type-format">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M4 1.75c-0.41421 0 -0.75 0.33579 -0.75 0.75s0.33579 0.75 0.75 0.75h0.25v7.5H4c-0.41421 0 -0.75 0.3358 -0.75 0.75s0.33579 0.75 0.75 0.75h2c0.41421 0 0.75 -0.3358 0.75 -0.75s-0.33579 -0.75 -0.75 -0.75h-0.25v-7.5H6c0.41421 0 0.75 -0.33579 0.75 -0.75s-0.33579 -0.75 -0.75 -0.75H4ZM3 4.50049H1c-0.552285 0 -1 0.44771 -1 1v3c0 0.55228 0.447716 1 1 1h2v-5Zm4 5h6c0.5523 0 1 -0.44772 1 -1v-3c0 -0.55229 -0.4477 -1 -1 -1H7v5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cloud-block--cloud-network-internet-block-server-deny"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M5.041.748a4.368 4.368 0 0 1 6.645 3.115 3.23 3.23 0 0 1 .208 6.118 4.906 4.906 0 0 0-9.776-.145 3.692 3.692 0 0 1 1.183-7.004A4.368 4.368 0 0 1 5.04.748Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9.127 10.325a2.127 2.127 0 0 0-3.004-1.939l2.815 2.816a2.12 2.12 0 0 0 .19-.877Zm.485 2.516a3.627 3.627 0 1 0-5.225-5.032 3.627 3.627 0 0 0 5.225 5.032Zm-1.734-.578L5.062 9.447a2.127 2.127 0 0 0 2.816 2.816Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cloud-Block--Streamline-Core">
+  <desc>
+    Cloud Block Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cloud-block--cloud-network-internet-block-server-deny">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M5.041 0.748a4.368 4.368 0 0 1 6.645 3.115 3.23 3.23 0 0 1 0.208 6.118 4.906 4.906 0 0 0 -9.776 -0.145 3.692 3.692 0 0 1 1.183 -7.004A4.368 4.368 0 0 1 5.04 0.748Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M9.127 10.325a2.127 2.127 0 0 0 -3.004 -1.939l2.815 2.816a2.12 2.12 0 0 0 0.19 -0.877Zm0.485 2.516a3.627 3.627 0 1 0 -5.225 -5.032 3.627 3.627 0 0 0 5.225 5.032Zm-1.734 -0.578L5.062 9.447a2.127 2.127 0 0 0 2.816 2.816Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

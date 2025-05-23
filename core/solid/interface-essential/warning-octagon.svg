@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="warning-octagon--frame-alert-warning-octagon-exclamation-caution"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.854.44A1.5 1.5 0 0 1 4.914 0h4.172a1.5 1.5 0 0 1 1.06.44l3.415 3.414A1.5 1.5 0 0 1 14 4.914v4.172a1.5 1.5 0 0 1-.44 1.06l-3.414 3.415a1.5 1.5 0 0 1-1.06.439H4.914a1.5 1.5 0 0 1-1.06-.44L.439 10.147A1.5 1.5 0 0 1 0 9.086V4.914c0-.398.158-.78.44-1.06L3.853.439ZM7 3.124a.75.75 0 0 1 .75.75v3.25a.75.75 0 0 1-1.5 0v-3.25a.75.75 0 0 1 .75-.75Zm1 6.75a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warning-Octagon--Streamline-Core">
+  <desc>
+    Warning Octagon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warning-octagon--frame-alert-warning-octagon-exclamation-caution">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M3.85355 0.43934C4.13486 0.158035 4.51639 0 4.91421 0h4.17158c0.39782 0 0.77935 0.158035 1.06061 0.43934l3.4143 3.41421c0.2813 0.28131 0.4393 0.66284 0.4393 1.06066v4.17158c0 0.39782 -0.158 0.77935 -0.4393 1.06061l-3.4143 3.4143C9.86514 13.842 9.48361 14 9.08579 14H4.91421c-0.39782 0 -0.77935 -0.158 -1.06066 -0.4393L0.43934 10.1464C0.158035 9.86514 0 9.48361 0 9.08579V4.91421c0 -0.39782 0.158035 -0.77935 0.43934 -1.06066L3.85355 0.43934ZM7 3.125c0.41421 0 0.75 0.33579 0.75 0.75v3.25c0 0.41421 -0.33579 0.75 -0.75 0.75s-0.75 -0.33579 -0.75 -0.75v-3.25c0 -0.41421 0.33579 -0.75 0.75 -0.75Zm1 6.75c0 0.5523 -0.44772 1 -1 1s-1 -0.4477 -1 -1c0 -0.55228 0.44772 -1 1 -1s1 0.44772 1 1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shopping-basket-2--shopping-basket"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.28 6H1.72a1 1 0 0 0-1 1.2l1.1 5.5a1 1 0 0 0 1 .8h8.36a1 1 0 0 0 1-.8l1.1-5.5a1 1 0 0 0-1-1.2Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 2.5 11 6"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3 6 2-3.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Basket-2--Streamline-Core">
+  <desc>
+    Shopping Basket 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-basket-2--shopping-basket">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.28 5.99996H1.72001c-0.14998 -0.00304 -0.29872 0.02771 -0.43521 0.08996 -0.13648 0.06225 -0.25722 0.15441 -0.353253 0.26965 -0.096036 0.11524 -0.164913 0.25062 -0.20153 0.39609 -0.036618 0.14548 -0.040036 0.29733 -0.010003 0.4443L1.82001 12.7c0.04676 0.2292 0.17243 0.4349 0.35515 0.581 0.18271 0.1462 0.41091 0.2237 0.64485 0.219H11.18c0.234 0.0047 0.4622 -0.0728 0.6449 -0.219 0.1827 -0.1461 0.3084 -0.3518 0.3551 -0.581l1.1 -5.50004c0.03 -0.14697 0.0266 -0.29882 -0.01 -0.4443 -0.0366 -0.14547 -0.1055 -0.28085 -0.2015 -0.39609 -0.0961 -0.11524 -0.2168 -0.2074 -0.3533 -0.26965s-0.2852 -0.093 -0.4352 -0.08996Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 2.5 11 6" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3 6 2 -3.5" stroke-width="1"></path>
+  </g>
+</svg>

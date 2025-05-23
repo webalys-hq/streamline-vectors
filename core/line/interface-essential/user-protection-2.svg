@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-protection-2âshield-secure-security-profile-person"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.36 13.43a1 1 0 0 1-.72 0v0a9.67 9.67 0 0 1-6.14-9V1.5a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v2.92a9.67 9.67 0 0 1-6.14 9.01v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.837 10.73A4.995 4.995 0 0 1 7 8.5c1.737 0 3.267.886 4.164 2.23"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7a2.25 2.25 0 1 0 0-4.5A2.25 2.25 0 0 0 7 7Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Protection-2--Streamline-Core">
+  <desc>
+    User Protection 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-protection-2âshield-secure-security-profile-person">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.36 13.43c-0.23168 0.0894 -0.48832 0.0894 -0.72 0v0c-1.80931 -0.7094 -3.36287 -1.9476 -4.45812 -3.553C1.08664 8.2716 0.500536 6.37342 0.5 4.43V1.5c0 -0.26522 0.105357 -0.51957 0.292893 -0.707107C0.98043 0.605357 1.23478 0.5 1.5 0.5h11c0.2652 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107v2.92c0.0015 1.94513 -0.5837 3.84549 -1.6791 5.45287C10.7256 11.4803 9.17089 12.7199 7.36 13.43v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.83655 10.7304C3.73276 9.38584 5.26295 8.5 7.00005 8.5c1.73709 0 3.26725 0.88583 4.16345 2.2304" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 7c1.24264 0 2.25 -1.00736 2.25 -2.25S8.24264 2.5 7 2.5 4.75 3.50736 4.75 4.75 5.75736 7 7 7Z" stroke-width="1"></path>
+  </g>
+</svg>

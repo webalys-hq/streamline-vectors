@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pathfinder-divide"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.5 0h7A1.5 1.5 0 0 1 10 1.5v1.245H5.377A2.625 2.625 0 0 0 2.752 5.37V10H1.5A1.5 1.5 0 0 1 0 8.5v-7A1.5 1.5 0 0 1 1.5 0Zm11 4h-1.236v4.632a2.625 2.625 0 0 1-2.626 2.625H4V12.5A1.5 1.5 0 0 0 5.5 14h7a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 12.5 4Z" clip-rule="evenodd"></path><path id="Subtract" fill="#3e3e3e" d="M10 3.995V4h.014v4.632c0 .76-.616 1.375-1.376 1.375H4.002V5.37c0-.76.616-1.375 1.375-1.375H10Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Divide--Streamline-Core">
+  <desc>
+    Pathfinder Divide Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pathfinder-divide">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.5 0h7A1.5 1.5 0 0 1 10 1.5v1.245H5.377A2.625 2.625 0 0 0 2.752 5.37V10H1.5A1.5 1.5 0 0 1 0 8.5v-7A1.5 1.5 0 0 1 1.5 0Zm11 4h-1.236l0 4.632a2.625 2.625 0 0 1 -2.626 2.625H4V12.5A1.5 1.5 0 0 0 5.5 14h7a1.5 1.5 0 0 0 1.5 -1.5v-7A1.5 1.5 0 0 0 12.5 4Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" d="M10 3.995V4h0.014l0 4.632c0 0.76 -0.616 1.375 -1.376 1.375H4.002V5.37c0 -0.76 0.616 -1.375 1.375 -1.375H10Z" stroke-width="1"></path>
+  </g>
+</svg>

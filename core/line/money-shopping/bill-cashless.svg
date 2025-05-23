@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bill-cashless--currency-billing-payment-finance-no-cash-bill-money-accounting-cashless"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 2.5h10a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-1"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 3.5v7a1 1 0 0 0 1 1H9"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.586 5.586a2 2 0 1 1 2.828 2.828"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.022 7.296a2.001 2.001 0 0 0 1.745 1.69"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5.5.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bill-Cashless--Streamline-Core">
+  <desc>
+    Bill Cashless Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bill-cashless--currency-billing-payment-finance-no-cash-bill-money-accounting-cashless">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 2.5h10c0.5523 0 1 0.44772 1 1v7c0 0.5523 -0.4477 1 -1 1h-1" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 3.5v7c0 0.5523 0.447715 1 1 1H9" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.58582 5.58579C5.94774 5.22386 6.44774 5 7.00003 5c1.10457 0 2 0.89543 2 2 0 0.55229 -0.22386 1.05229 -0.58579 1.41422" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.02173 7.2959c0.13181 0.88859 0.84808 1.58659 1.74543 1.69063" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5 0.5 0.5" stroke-width="1"></path>
+  </g>
+</svg>

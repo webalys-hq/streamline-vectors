@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dice-1"><path id="Rectangle 569" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5.5h9s2 0 2 2v9s0 2-2 2h-9s-2 0-2-2v-9s0-2 2-2"></path><path id="Ellipse 1036" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 7a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dice-1--Streamline-Core">
+  <desc>
+    Dice 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dice-1">
+    <path id="Rectangle 569" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 0.5h9s2 0 2 2v9s0 2 -2 2h-9s-2 0 -2 -2v-9s0 -2 2 -2" stroke-width="1"></path>
+    <path id="Ellipse 1036" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.5 7a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+  </g>
+</svg>

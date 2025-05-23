@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="camera-square--photos-picture-camera-photography-photo-pictures-frame-square"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 6a1 1 0 0 0-1-1H9L8 3.5H6L5 5h-.5a1 1 0 0 0-1 1v2.5a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1V6Z"></path><g id="Group 11"><path id="Ellipse 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.375a.375.375 0 1 1 0-.75"></path><path id="Ellipse 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.375a.375.375 0 1 0 0-.75"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Square--Streamline-Core">
+  <desc>
+    Camera Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-square--photos-picture-camera-photography-photo-pictures-frame-square">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 6c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C10.0196 5.10536 9.76522 5 9.5 5H9L8 3.5H6L5 5h-0.5c-0.26522 0 -0.51957 0.10536 -0.70711 0.29289C3.60536 5.48043 3.5 5.73478 3.5 6v2.5c0 0.26522 0.10536 0.51957 0.29289 0.70711 0.18754 0.18753 0.44189 0.29289 0.70711 0.29289h5c0.26522 0 0.5196 -0.10536 0.7071 -0.29289 0.1875 -0.18754 0.2929 -0.44189 0.2929 -0.70711V6Z" stroke-width="1"></path>
+    <g id="Group 11">
+      <path id="Ellipse 1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 7.375c-0.20711 0 -0.375 -0.16789 -0.375 -0.375s0.16789 -0.375 0.375 -0.375" stroke-width="1"></path>
+      <path id="Ellipse 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00006 7.375c0.20711 0 0.375 -0.16789 0.375 -0.375s-0.16789 -0.375 -0.375 -0.375" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

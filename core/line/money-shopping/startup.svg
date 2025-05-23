@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="startup--shop-rocket-launch-startup"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.71 4.31C3.79 3 2 4 .5 5.54l3.32 2"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.69 8.29C11 10.21 10 12 8.46 13.5l-2-3.32"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.82 7.53 2.65 2.65C8.59 8.91 11 7.68 12.1 6.54c2.38-2.38 1-5.64 1-5.64s-3.26-1.38-5.64 1C6.32 3 5.08 5.42 3.82 7.53Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.28 5.02 3.7 3.7"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 4a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.68 12.44C3.1 13 .5 13.5.5 13.5s.5-2.6 1.06-3.18a1.501 1.501 0 0 1 2.597 1.049 1.5 1.5 0 0 1-.477 1.07v0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Startup--Streamline-Core">
+  <desc>
+    Startup Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="startup--shop-rocket-launch-startup">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.71 4.3099c-1.92 -1.31 -3.71 -0.31 -5.21 1.23l3.32 2" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.69002 8.29004C11 10.21 10 12 8.46002 13.5l-2 -3.32" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.82001 7.5301 2.65 2.65C8.59001 8.91009 11 7.68009 12.1 6.54009c2.38 -2.38 1 -5.639995 1 -5.639995s-3.25999 -1.38 -5.63999 0.999995c-1.14 1.1 -2.38 3.52001 -3.64 5.63001Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.28003 5.02002 3.7 3.7" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 4c0.2761 0 0.5 -0.22386 0.5 -0.5s-0.2239 -0.5 -0.5 -0.5 -0.5 0.22386 -0.5 0.5 0.2239 0.5 0.5 0.5Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.68 12.4399c-0.58 0.56 -3.18 1.06 -3.18 1.06s0.5 -2.6 1.06 -3.18c0.13732 -0.1473 0.30292 -0.2655 0.48692 -0.34752 0.184 -0.08198 0.38263 -0.12606 0.58403 -0.12962 0.20141 -0.00355 0.40147 0.0335 0.58825 0.10894 0.18677 0.0754 0.35644 0.1877 0.49888 0.3302 0.14243 0.1424 0.25472 0.3121 0.33017 0.4989 0.07544 0.1867 0.11249 0.3868 0.10893 0.5882 -0.00355 0.2014 -0.04763 0.4 -0.12962 0.584 -0.08198 0.184 -0.20019 0.3496 -0.34756 0.4869v0Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="justice-hammer--hammer-work-mallet-office-company-gavel-justice-judge-arbitration-court"><path id="Vector" fill="#ffffff" d="M7 13.29v-2.5H1.5v2.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 13.29H8"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.29v-2.5H1.5v2.5"></path><path id="Vector_4" fill="#37d7ff" d="M7.787 1.002 4.202 4.587a1 1 0 0 0 0 1.414l1.584 1.584a1 1 0 0 0 1.414 0L10.785 4a1 1 0 0 0 0-1.414L9.2 1.002a1 1 0 0 0-1.414 0Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.787 1.002 4.202 4.587a1 1 0 0 0 0 1.414l1.584 1.584a1 1 0 0 0 1.414 0L10.785 4a1 1 0 0 0 0-1.414L9.2 1.002a1 1 0 0 0-1.414 0Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9 5.79 4.5 4.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Justice-Hammer--Streamline-Core">
+  <desc>
+    Justice Hammer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="justice-hammer--hammer-work-mallet-office-company-gavel-justice-judge-arbitration-court">
+    <path id="Vector" fill="#ffffff" d="M7 13.29v-2.5H1.5v2.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 13.29H8" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.29v-2.5H1.5v2.5" stroke-width="1"></path>
+    <path id="Vector_4" fill="#d7e0ff" d="M7.78671 1.00217 4.20167 4.5872c-0.39052 0.39053 -0.39052 1.02369 0 1.41422l1.58392 1.58392c0.39053 0.39052 1.02369 0.39052 1.41422 0l3.58499 -3.58503c0.3906 -0.39053 0.3906 -1.02369 0 -1.41422L9.20092 1.00217c-0.39053 -0.390521 -1.02369 -0.390521 -1.41421 0Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.78671 1.00205 4.20167 4.58708c-0.39052 0.39053 -0.39052 1.02369 0 1.41422l1.58392 1.58392c0.39053 0.39052 1.02369 0.39052 1.41422 0l3.58499 -3.58504c0.3906 -0.39052 0.3906 -1.02369 0 -1.41421L9.20092 1.00205c-0.39053 -0.390523 -1.02369 -0.390523 -1.41421 0Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9 5.79004 13.5 10.29" stroke-width="1"></path>
+  </g>
+</svg>

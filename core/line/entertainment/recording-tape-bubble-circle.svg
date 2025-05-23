@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="recording-tape-bubble-circle--phone-device-mail-mobile-voice-machine-answering-chat-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 8.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.5h5"></path><path id="Ellipse 1144" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.145 12.84a6.5 6.5 0 1 0-2.556-2.238m2.556 2.239L.5 13.5l1.089-2.897m2.556 2.238.005-.001m-2.561-2.237.001-.003"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Recording-Tape-Bubble-Circle--Streamline-Core">
+  <desc>
+    Recording Tape Bubble Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="recording-tape-bubble-circle--phone-device-mail-mobile-voice-machine-answering-chat-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 8.5c0.8284 0 1.5 -0.67157 1.5 -1.5s-0.6716 -1.5 -1.5 -1.5C8.67157 5.5 8 6.17157 8 7s0.67157 1.5 1.5 1.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.5C5.32843 8.5 6 7.82843 6 7s-0.67157 -1.5 -1.5 -1.5S3 6.17157 3 7s0.67157 1.5 1.5 1.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.5h5" stroke-width="1"></path>
+    <path id="Ellipse 1144" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.14472 12.8409C5.00659 13.263 5.97562 13.5 7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 1.33261 0.40102 2.57155 1.08896 3.6027m2.55576 2.2382L0.5 13.5l1.08896 -2.8973m2.55576 2.2382L4.15 12.84m-2.56104 -2.2373L1.59 10.6" stroke-width="1"></path>
+  </g>
+</svg>

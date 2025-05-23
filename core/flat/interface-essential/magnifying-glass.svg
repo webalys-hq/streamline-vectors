@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="magnifying-glass--glass-search-magnifying"><path id="Ellipse 651" fill="#37d7ff" d="M1 6a5 5 0 1 0 10 0A5 5 0 1 0 1 6"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M2 6a4 4 0 1 1 8 0 4 4 0 0 1-8 0Zm4-6a6 6 0 1 0 3.476 10.89l2.817 2.817a1 1 0 0 0 1.414-1.414l-2.816-2.816A6 6 0 0 0 6 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Magnifying-Glass--Streamline-Core">
+  <desc>
+    Magnifying Glass Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="magnifying-glass--glass-search-magnifying">
+    <path id="Ellipse 651" fill="#8fbffa" d="M1 6a5 5 0 1 0 10 0A5 5 0 1 0 1 6" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M2 6c0 -2.20914 1.79086 -4 4 -4s4 1.79086 4 4 -1.79086 4 -4 4 -4 -1.79086 -4 -4Zm4 -6C2.68629 0 0 2.68629 0 6s2.68629 6 6 6c1.29578 0 2.49562 -0.4108 3.47642 -1.1092l2.81648 2.8165c0.3905 0.3905 1.0237 0.3905 1.4142 0 0.3905 -0.3905 0.3905 -1.0237 0 -1.4142l-2.8164 -2.81645C11.5892 8.49581 12 7.29588 12 6c0 -3.31371 -2.68629 -6 -6 -6Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shopping-bag-hand-bag-2--shopping-bag-purse-goods-item-products"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.88 12.39a1 1 0 0 1-1 1.11H2.12a1 1 0 0 1-1-1.11L2 4.5h10l.88 7.89Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 4.5V3a2.5 2.5 0 1 1 5 0v1.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Bag-Hand-Bag-2--Streamline-Core">
+  <desc>
+    Shopping Bag Hand Bag 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-bag-hand-bag-2--shopping-bag-purse-goods-item-products">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.88 12.39c0.0158 0.1403 0.0016 0.2823 -0.0415 0.4168 -0.0431 0.1344 -0.1141 0.2582 -0.2085 0.3632 -0.0946 0.1048 -0.2104 0.1885 -0.3396 0.2453 -0.1293 0.0569 -0.2692 0.0858 -0.4104 0.0847H2.12001c-0.14123 0.0011 -0.28108 -0.0278 -0.41035 -0.0847 -0.12927 -0.0568 -0.24503 -0.1405 -0.33965 -0.2453 -0.09437 -0.105 -0.16543 -0.2288 -0.20852 -0.3632 -0.04309 -0.1345 -0.05723 -0.2765 -0.04148 -0.4168l0.88 -7.89H12l0.88 7.89Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 4.5V3c0 -0.66304 0.26339 -1.29893 0.73223 -1.76777C5.70107 0.763392 6.33696 0.5 7 0.5c0.66304 0 1.29893 0.263392 1.76777 0.73223C9.23661 1.70107 9.5 2.33696 9.5 3v1.5" stroke-width="1"></path>
+  </g>
+</svg>

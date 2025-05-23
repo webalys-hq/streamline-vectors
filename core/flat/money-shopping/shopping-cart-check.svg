@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shopping-cart-check--shopping-cart-checkout-check-confirm"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M4.251.753a.75.75 0 0 0-.746-.675H1.177a.75.75 0 1 0 0 1.5h1.65l.251 2.506c0 .017 0 .035.002.052l.483 4.795a1.431 1.431 0 0 0 1.431 1.241h5.851a1.432 1.432 0 0 0 1.417-.973v-.002l1.239-3.724v-.001a1.431 1.431 0 0 0-.199-1.286 1.431 1.431 0 0 0-1.217-.6h-7.55L4.252.753Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M10.654 11.644a1.178 1.178 0 1 1 0 2.356 1.178 1.178 0 0 1 0-2.356Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M5.508 11.644a1.178 1.178 0 1 1 0 2.356 1.178 1.178 0 0 1 0-2.356Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M9.866 5.28a.625.625 0 0 1 .125.874l-1.663 2.22a.625.625 0 0 1-.875.126l-1.11-.831a.625.625 0 0 1 .75-1l.61.456 1.288-1.72a.625.625 0 0 1 .875-.126Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Cart-Check--Streamline-Core">
+  <desc>
+    Shopping Cart Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-cart-check--shopping-cart-checkout-check-confirm">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M4.251 0.753a0.75 0.75 0 0 0 -0.746 -0.675H1.177a0.75 0.75 0 1 0 0 1.5h1.65l0.251 2.506c0 0.017 0 0.035 0.002 0.052l0.483 4.795a1.431 1.431 0 0 0 1.431 1.241h5.851a1.432 1.432 0 0 0 1.417 -0.973l0 -0.002 1.239 -3.724 0 -0.001a1.431 1.431 0 0 0 -0.199 -1.286 1.431 1.431 0 0 0 -1.217 -0.6h-7.55L4.252 0.753Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M10.654 11.644a1.178 1.178 0 1 1 0 2.356 1.178 1.178 0 0 1 0 -2.356Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M5.508 11.644a1.178 1.178 0 1 1 0 2.356 1.178 1.178 0 0 1 0 -2.356Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M9.866 5.28a0.625 0.625 0 0 1 0.125 0.874l-1.663 2.22a0.625 0.625 0 0 1 -0.875 0.126l-1.11 -0.831a0.625 0.625 0 0 1 0.75 -1l0.61 0.456 1.288 -1.72a0.625 0.625 0 0 1 0.875 -0.126Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

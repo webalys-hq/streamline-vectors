@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="virtual-reality--gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.209.86a1.5 1.5 0 0 0-1.41.987L.039 6.68a.5.5 0 0 0-.03.171v1.464H14V6.852a.5.5 0 0 0-.03-.171L12.2 1.845A1.5 1.5 0 0 0 10.793.86H3.209Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M.5 6.5A.5.5 0 0 0 0 7v5a1.5 1.5 0 0 0 1.5 1.5h3.02a1.5 1.5 0 0 0 1.17-.563l.92-1.149a.5.5 0 0 1 .78 0l.92 1.149a1.5 1.5 0 0 0 1.17.563h3.02A1.5 1.5 0 0 0 14 12V7a.5.5 0 0 0-.5-.5H.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Virtual-Reality--Streamline-Core">
+  <desc>
+    Virtual Reality Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="virtual-reality--gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M3.20903 0.860229c-0.63035 0 -1.19345 0.394101 -1.40931 0.986341L0.0376758 6.68109c-0.0199983 0.05487 -0.03022951 0.11281 -0.03022951 0.17121v1.46332H14.0005V6.8523c0 -0.05859 -0.0103 -0.11673 -0.0304 -0.17176l-1.7688 -4.83559c-0.2163 -0.5914 -0.779 -0.984715 -1.4087 -0.984716L3.20903 0.860229Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M0.5 6.5c-0.276142 0 -0.5 0.22386 -0.5 0.5v5c0 0.8284 0.671573 1.5 1.5 1.5h3.01938c0.45567 0 0.88664 -0.2071 1.1713 -0.563l0.91889 -1.1486c0.20016 -0.2502 0.5807 -0.2502 0.78086 0l0.91889 1.1486c0.28466 0.3559 0.71563 0.563 1.17131 0.563H12.5c0.8284 0 1.5 -0.6716 1.5 -1.5V7c0 -0.27614 -0.2239 -0.5 -0.5 -0.5H0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

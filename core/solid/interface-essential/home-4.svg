@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="home-4--home-house-roof-shelter"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7.707 1.293a1 1 0 0 0-1.414 0l-6 6a1 1 0 0 0 1.414 1.414L2 8.414V13a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8.414l.293.293a1 1 0 1 0 1.414-1.414l-6-6Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Home-4--Streamline-Core">
+  <desc>
+    Home 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="home-4--home-house-roof-shelter">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M7.70711 1.29289c-0.39053 -0.390521 -1.02369 -0.390521 -1.41422 0l-5.999997 6c-0.3905241 0.39053 -0.3905241 1.02369 0 1.41422 0.390524 0.39052 1.023687 0.39052 1.414217 0L2 8.41421V13c0 0.5523 0.44772 1 1 1h8c0.5523 0 1 -0.4477 1 -1V8.41421l0.2929 0.2929c0.3905 0.39052 1.0237 0.39052 1.4142 0 0.3905 -0.39053 0.3905 -1.02369 0 -1.41422l-5.99999 -6Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

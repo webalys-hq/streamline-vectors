@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="square-root-x-circle--interface-math-square-root-sign-mathematics"><path id="Vector 2379" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.563 8.039 1.153 1.615.923-5.308h3.923"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25A6.25 6.25 0 1 0 7 .75a6.25 6.25 0 0 0 0 12.5Z"></path><path id="Vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.264 6.966 2.361 2.688"></path><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.486 6.966 7.125 9.654"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Root-X-Circle--Streamline-Core">
+  <desc>
+    Square Root X Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="square-root-x-circle--interface-math-square-root-sign-mathematics">
+    <path id="Vector 2379" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.5625 8.0385 1.15385 1.61538 0.92307 -5.30769H9.5625" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25c3.4518 0 6.25 -2.7982 6.25 -6.25C13.25 3.54822 10.4518 0.75 7 0.75 3.54822 0.75 0.75 3.54822 0.75 7c0 3.4518 2.79822 6.25 6.25 6.25Z" stroke-width="1"></path>
+    <path id="Vector 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.26392 6.96631 2.36111 2.6875" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.48608 6.96631 -2.36111 2.6875" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-up-1--arrow-up-keyboard"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.646.146a.5.5 0 0 1 .708 0l3.5 3.5a.5.5 0 0 1-.354.854H8V13a1 1 0 1 1-2 0V4.5H3.5a.5.5 0 0 1-.354-.854l3.5-3.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Up-1--Streamline-Core">
+  <desc>
+    Arrow Up 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-up-1--arrow-up-keyboard">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.646 0.146a0.5 0.5 0 0 1 0.708 0l3.5 3.5a0.5 0.5 0 0 1 -0.354 0.854H8V13a1 1 0 1 1 -2 0V4.5H3.5a0.5 0.5 0 0 1 -0.354 -0.854l3.5 -3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="open-umbrella--storm-rain-umbrella-open-weather"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7 0a.75.75 0 0 1 .75.75v.801A5.5 5.5 0 0 1 12.5 7a.5.5 0 0 1-.5.5H7.75v4.25a.75.75 0 0 0 1.5 0 .75.75 0 0 1 1.5 0 2.25 2.25 0 0 1-4.5 0V7.5H2a.5.5 0 0 1-.5-.5 5.5 5.5 0 0 1 4.75-5.449V.75A.75.75 0 0 1 7 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Open-Umbrella--Streamline-Core">
+  <desc>
+    Open Umbrella Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="open-umbrella--storm-rain-umbrella-open-weather">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M7 0c0.41421 0 0.75 0.335786 0.75 0.75v0.80135c1.18166 0.16264 2.2861 0.70653 3.1391 1.55956C11.9205 4.14236 12.5 5.54131 12.5 7c0 0.13261 -0.0527 0.25979 -0.1464 0.35355 -0.0938 0.09377 -0.221 0.14645 -0.3536 0.14645H7.75v4.25c0 0.4142 0.33579 0.75 0.75 0.75s0.75 -0.3358 0.75 -0.75 0.33579 -0.75 0.75 -0.75c0.4142 0 0.75 0.3358 0.75 0.75 0 1.2426 -1.00736 2.25 -2.25 2.25s-2.25 -1.0074 -2.25 -2.25V7.5H2c-0.13261 0 -0.25979 -0.05268 -0.35355 -0.14645C1.55268 7.25979 1.5 7.13261 1.5 7c0 -1.45869 0.57946 -2.85764 1.61091 -3.88909 0.85304 -0.85303 1.95743 -1.39692 3.13909 -1.55956V0.75C6.25 0.335786 6.58579 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

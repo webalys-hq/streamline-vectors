@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="desktop-game--controller-display-device-computer-games-leisure"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.635 10.577a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.332l.687 1.918H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.918Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.518.884C.714.884.062 1.536.062 2.34v7.31c0 .804.652 1.456 1.456 1.456H12.5a1.5 1.5 0 0 0 1.5-1.5V2.384a1.5 1.5 0 0 0-1.5-1.5H1.518Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M4.814 4.53a.625.625 0 0 0-1.25 0v.875h-.875a.625.625 0 0 0 0 1.25h.875v.875a.625.625 0 0 0 1.25 0v-.875h.875a.625.625 0 1 0 0-1.25h-.875V4.53Zm5.292.525a.875.875 0 1 0 1.75 0 .875.875 0 0 0-1.75 0Zm-1.942 1.95a.875.875 0 1 0 1.75 0 .875.875 0 0 0-1.75 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Game--Streamline-Core">
+  <desc>
+    Desktop Game Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="desktop-game--controller-display-device-computer-games-leisure">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.635 10.577a0.5 0.5 0 0 1 0.47 -0.332h1.79a0.5 0.5 0 0 1 0.47 0.332l0.687 1.918H10a0.75 0.75 0 1 1 0 1.5H4a0.75 0.75 0 0 1 0 -1.5h0.948l0.686 -1.918Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.518 0.884C0.714 0.884 0.062 1.536 0.062 2.34v7.31c0 0.804 0.652 1.456 1.456 1.456H12.5a1.5 1.5 0 0 0 1.5 -1.5V2.384a1.5 1.5 0 0 0 -1.5 -1.5H1.518Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M4.814 4.53a0.625 0.625 0 0 0 -1.25 0v0.875h-0.875a0.625 0.625 0 0 0 0 1.25h0.875v0.875a0.625 0.625 0 0 0 1.25 0v-0.875h0.875a0.625 0.625 0 1 0 0 -1.25h-0.875V4.53Zm5.292 0.525a0.875 0.875 0 1 0 1.75 0 0.875 0.875 0 0 0 -1.75 0Zm-1.942 1.95a0.875 0.875 0 1 0 1.75 0 0.875 0.875 0 0 0 -1.75 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

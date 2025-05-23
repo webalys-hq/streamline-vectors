@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="news-paper--newspaper-periodical-fold-content-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5V11a1.25 1.25 0 0 1-2.5 0V2.25a.5.5 0 0 0-.5-.5H1a.5.5 0 0 0-.5.5v9a1 1 0 0 0 1 1h10.75"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 4.25H3.5v2.5H8v-2.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9.75H8"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="News-Paper--Streamline-Core">
+  <desc>
+    News Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="news-paper--newspaper-periodical-fold-content-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5V11c0 0.3315 -0.1317 0.6495 -0.3661 0.8839 -0.2344 0.2344 -0.5524 0.3661 -0.8839 0.3661s-0.6495 -0.1317 -0.8839 -0.3661C11.1317 11.6495 11 11.3315 11 11V2.25c0 -0.13261 -0.0527 -0.25979 -0.1464 -0.35355 -0.0938 -0.09377 -0.221 -0.14645 -0.3536 -0.14645H1c-0.132608 0 -0.259785 0.05268 -0.353553 0.14645C0.552678 1.99021 0.5 2.11739 0.5 2.25v9c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h10.75" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 4.25H3.5v2.5H8v-2.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9.75H8" stroke-width="1"></path>
+  </g>
+</svg>

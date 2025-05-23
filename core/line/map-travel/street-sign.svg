@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="street-sign--crossroad-street-sign-metaphor-directions-travel-places"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 4.5H2.707a.5.5 0 0 1-.353-.146l-1.5-1.5a.5.5 0 0 1 0-.708l1.5-1.5A.5.5 0 0 1 2.707.5H7"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.5h4.293a.5.5 0 0 0 .353-.146l1.5-1.5a.5.5 0 0 0 0-.708l-1.5-1.5a.5.5 0 0 0-.353-.146H7"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.5H2.707a.5.5 0 0 1-.353-.146l-1.5-1.5a.5.5 0 0 1 0-.708l1.5-1.5a.5.5 0 0 1 .353-.146H7"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5v13"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Street-Sign--Streamline-Core">
+  <desc>
+    Street Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="street-sign--crossroad-street-sign-metaphor-directions-travel-places">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 4.5H2.70711c-0.13261 0 -0.25979 -0.05268 -0.35356 -0.14645l-1.499997 -1.5c-0.195262 -0.19526 -0.195262 -0.51184 0 -0.7071L2.35355 0.646446C2.44732 0.552678 2.5745 0.5 2.70711 0.5H7" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 7.5h4.2929c0.1326 0 0.2598 -0.05268 0.3535 -0.14645l1.5 -1.5c0.1953 -0.19526 0.1953 -0.51184 0 -0.7071l-1.5 -1.5c-0.0937 -0.09377 -0.2209 -0.14645 -0.3535 -0.14645H7" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 10.5H2.70711c-0.13261 0 -0.25979 -0.0527 -0.35356 -0.1464L0.853553 8.85355c-0.195262 -0.19526 -0.195262 -0.51184 0 -0.7071l1.499997 -1.5C2.44732 6.55268 2.5745 6.5 2.70711 6.5H7" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5v13" stroke-width="1"></path>
+  </g>
+</svg>

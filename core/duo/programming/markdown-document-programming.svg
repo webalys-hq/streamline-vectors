@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="markdown-document-programming"><path id="Vector" fill="#37d7ff" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1h6l4 4v8Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1h6l4 4v8Z"></path><path id="Vector 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 10.5V6.743c0-.134.109-.243.243-.243v0c.096 0 .182.056.221.143l.754 1.675A.31.31 0 0 0 5 8.5v0a.31.31 0 0 0 .282-.182l.754-1.675a.243.243 0 0 1 .221-.143v0c.134 0 .243.109.243.243V10.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.5v4"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.5 9.5 1 1 1-1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Markdown-Document-Programming--Streamline-Core">
+  <desc>
+    Markdown Document Programming Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="markdown-document-programming">
+    <path id="Vector" fill="#d7e0ff" d="M12.5 12.5a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-11a1 1 0 0 1 1 -1h6l4 4v8Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-11a1 1 0 0 1 1 -1h6l4 4v8Z" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 10.5V6.743c0 -0.134 0.109 -0.243 0.243 -0.243v0c0.096 0 0.182 0.056 0.221 0.143l0.754 1.675A0.31 0.31 0 0 0 5 8.5v0a0.31 0.31 0 0 0 0.282 -0.182l0.754 -1.675a0.243 0.243 0 0 1 0.221 -0.143v0c0.134 0 0.243 0.109 0.243 0.243V10.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.5v4" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m8.5 9.5 1 1 1 -1" stroke-width="1"></path>
+  </g>
+</svg>

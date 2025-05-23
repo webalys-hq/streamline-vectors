@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="syringe--instrument-medical-syringe-health-beauty-needle"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3 2.42 7.49a2 2 0 0 0 0 2.83l1.26 1.26a1.998 1.998 0 0 0 2.83 0L11 7"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.5.5 3 3"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9 5 3-3"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.05 10.95.5 13.5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.5 1.5 7 7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Syringe--Streamline-Core">
+  <desc>
+    Syringe Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="syringe--instrument-medical-syringe-health-beauty-needle">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.00001 3 -4.58 4.49c-0.18595 0.18575 -0.33347 0.40632 -0.43412 0.64912 -0.10065 0.2428 -0.15245 0.50305 -0.15245 0.76588s0.0518 0.52308 0.15245 0.76588c0.10065 0.2428 0.24817 0.46342 0.43412 0.64912l1.26 1.26c0.18574 0.186 0.40632 0.3335 0.64912 0.4341 0.24279 0.1007 0.50305 0.1525 0.76588 0.1525s0.52308 -0.0518 0.76588 -0.1525c0.2428 -0.1006 0.46337 -0.2481 0.64912 -0.4341L11 7" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.5 0.5 3 3" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9 5 3 -3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.05 10.95 0.5 13.5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.5 1.5 7 7" stroke-width="1"></path>
+  </g>
+</svg>

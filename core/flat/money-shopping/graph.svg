@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="graph--analytics-business-product-graph-data-chart-analysis"><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M.824.148a.75.75 0 0 1 .75.75v11.454h11.454a.75.75 0 0 1 0 1.5H.823a.75.75 0 0 1-.75-.75V.898a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_2" fill="#3e3e3e" fill-rule="evenodd" d="M9.46 2.261a1 1 0 0 1 .761.17l3.286 2.347a1 1 0 0 1-1.162 1.628L9.899 4.659 6.717 9.432a1 1 0 0 1-1.539.152L2.832 7.238a1 1 0 1 1 1.414-1.415L5.73 7.308 8.808 2.69a1 1 0 0 1 .652-.429Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Graph--Streamline-Core">
+  <desc>
+    Graph Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="graph--analytics-business-product-graph-data-chart-analysis">
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M0.824 0.148a0.75 0.75 0 0 1 0.75 0.75v11.454h11.454a0.75 0.75 0 0 1 0 1.5H0.823a0.75 0.75 0 0 1 -0.75 -0.75V0.898a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M9.46 2.261a1 1 0 0 1 0.761 0.17l3.286 2.347a1 1 0 0 1 -1.162 1.628L9.899 4.659 6.717 9.432a1 1 0 0 1 -1.539 0.152L2.832 7.238a1 1 0 1 1 1.414 -1.415L5.73 7.308 8.808 2.69a1 1 0 0 1 0.652 -0.429Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

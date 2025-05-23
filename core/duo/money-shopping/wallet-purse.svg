@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wallet-purse--money-payment-finance-wallet-purse"><path id="Vector" fill="#37d7ff" d="M13.5 12a6.5 6.5 0 1 0-13 0A1.5 1.5 0 0 0 2 13.5h10a1.5 1.5 0 0 0 1.5-1.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 12a6.5 6.5 0 1 0-13 0A1.5 1.5 0 0 0 2 13.5h10a1.5 1.5 0 0 0 1.5-1.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 1a2 2 0 1 1-4 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.64 5.64a9 9 0 0 1 12.72 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wallet-Purse--Streamline-Core">
+  <desc>
+    Wallet Purse Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wallet-purse--money-payment-finance-wallet-purse">
+    <path id="Vector" fill="#d7e0ff" d="M13.5 12c0 -1.7239 -0.6848 -3.37721 -1.9038 -4.59619C10.3772 6.18482 8.72391 5.5 7 5.5c-1.72391 0 -3.37721 0.68482 -4.59619 1.90381C1.18482 8.62279 0.5 10.2761 0.5 12c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h10c0.3978 0 0.7794 -0.158 1.0607 -0.4393S13.5 12.3978 13.5 12Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 12c0 -1.7239 -0.6848 -3.37721 -1.9038 -4.59619C10.3772 6.18482 8.72391 5.5 7 5.5c-1.72391 0 -3.37721 0.68482 -4.59619 1.90381C1.18482 8.62279 0.5 10.2761 0.5 12c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h10c0.3978 0 0.7794 -0.158 1.0607 -0.4393S13.5 12.3978 13.5 12Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9 1c0 0.53043 -0.21071 1.03914 -0.58579 1.41421C8.03914 2.78929 7.53043 3 7 3s-1.03914 -0.21071 -1.41421 -0.58579C5.21071 2.03914 5 1.53043 5 1" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.639999 5.64001C2.3275 3.95461 4.61499 3.00793 7 3.00793c2.38501 0 4.6725 0.94668 6.36 2.63208" stroke-width="1"></path>
+  </g>
+</svg>

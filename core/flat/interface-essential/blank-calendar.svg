@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="blank-calendar--blank-calendar-date-day-month-empty"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 0a1 1 0 0 1 1 1v1h5V1a1 1 0 0 1 2 0v1h1A1.5 1.5 0 0 1 14 3.5v1H0v-1A1.5 1.5 0 0 1 1.5 2h1V1a1 1 0 0 1 1-1Z" clip-rule="evenodd"></path><path id="Rectangle 481" fill="#37d7ff" d="M0 4.5h14v8a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-8Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blank-Calendar--Streamline-Core">
+  <desc>
+    Blank Calendar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="blank-calendar--blank-calendar-date-day-month-empty">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M3.5 0a1 1 0 0 1 1 1v1h5V1a1 1 0 0 1 2 0v1h1A1.5 1.5 0 0 1 14 3.5v1H0v-1A1.5 1.5 0 0 1 1.5 2h1V1a1 1 0 0 1 1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Rectangle 481" fill="#8fbffa" d="M0 4.5h14v8a1.5 1.5 0 0 1 -1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-8Z" stroke-width="1"></path>
+  </g>
+</svg>

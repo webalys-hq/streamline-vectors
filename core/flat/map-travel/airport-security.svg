@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="airport-security"><g id="Vector (Stroke)"><path fill="#37d7ff" fill-rule="evenodd" d="M7.54 13.9a1.5 1.5 0 0 1-1.079 0A10.065 10.065 0 0 1 .004 4.498V1.499c0-.397.158-.779.44-1.06" clip-rule="evenodd"></path><path fill="#37d7ff" d="M1.503 0a1.5 1.5 0 0 0-1.5 1.5v2.998A10.065 10.065 0 0 0 6.462 13.9a1.5 1.5 0 0 0 1.078 0 10.067 10.067 0 0 0 6.458-9.402V1.499A1.5 1.5 0 0 0 12.497 0H1.503Z"></path></g><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M8.974 3.685a2.308 2.308 0 0 1 2.365 1.48.812.812 0 0 1-.537 1.016l-1.94.57-.091.027-.7 2.051a.547.547 0 0 1-.357.369l-1.189.437-.007.003a.556.556 0 0 1-.715-.657l.4-1.31-1.792.582a.804.804 0 0 1-1.018-.492l-.746-2.296-.003-.01a.53.53 0 0 1 .328-.64l.827-.282a.531.531 0 0 1 .67.263l.472.731 3.099-1.55a2.3 2.3 0 0 1 .934-.292Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Airport-Security--Streamline-Core">
+  <desc>
+    Airport Security Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="airport-security">
+    <g id="Vector (Stroke)">
+      <path fill="#8fbffa" fill-rule="evenodd" d="M7.54 13.9a1.5 1.5 0 0 1 -1.079 0A10.065 10.065 0 0 1 0.004 4.498V1.499c0 -0.397 0.158 -0.779 0.44 -1.06" clip-rule="evenodd" stroke-width="1"></path>
+      <path fill="#8fbffa" d="M1.503 0a1.5 1.5 0 0 0 -1.5 1.5v2.998A10.065 10.065 0 0 0 6.462 13.9a1.5 1.5 0 0 0 1.078 0 10.067 10.067 0 0 0 6.458 -9.402V1.499A1.5 1.5 0 0 0 12.497 0H1.503Z" stroke-width="1"></path>
+    </g>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M8.974 3.685a2.308 2.308 0 0 1 2.365 1.48 0.812 0.812 0 0 1 -0.537 1.016l-1.94 0.57 -0.091 0.027 -0.7 2.051a0.547 0.547 0 0 1 -0.357 0.369l-1.189 0.437 -0.007 0.003a0.556 0.556 0 0 1 -0.715 -0.657l0.4 -1.31 -1.792 0.582a0.804 0.804 0 0 1 -1.018 -0.492l-0.746 -2.296 -0.003 -0.01a0.53 0.53 0 0 1 0.328 -0.64l0.827 -0.282a0.531 0.531 0 0 1 0.67 0.263l0.472 0.731 3.099 -1.55a2.3 2.3 0 0 1 0.934 -0.292Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

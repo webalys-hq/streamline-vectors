@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="moon-cloud--cloud-meteorology-cloudy-partly-sunny-weather"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.67 2.5A3.001 3.001 0 0 1 10.673.505a2 2 0 1 0 2.824 2.824 3.001 3.001 0 0 1-1.995 3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 8.5a2.51 2.51 0 0 0-1.5.5A4.5 4.5 0 1 0 5 13.5h6a2.5 2.5 0 0 0 0-5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Moon-Cloud--Streamline-Core">
+  <desc>
+    Moon Cloud Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="moon-cloud--cloud-meteorology-cloudy-partly-sunny-weather">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.67065 2.5c0.41184 -1.16519 1.52308 -2 2.82925 -2 0.0577 0 0.1149 0.001624 0.1717 0.004828C10.2595 0.871173 9.99995 1.40527 9.99995 2c0 1.10457 0.89545 2 1.99995 2 0.5948 0 1.1289 -0.25959 1.4952 -0.67164 0.0032 0.05681 0.0048 0.11403 0.0048 0.17164 0 1.30623 -0.8348 2.41747 -2 2.8293" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 8.5c-0.5408 0.00072 -1.06692 0.17609 -1.5 0.5 0 -0.89001 -0.26392 -1.76004 -0.75838 -2.50006 -0.49447 -0.74003 -1.19728 -1.3168 -2.01954 -1.6574 -0.82227 -0.34059 -1.72707 -0.42971 -2.59998 -0.25607 -0.87292 0.17363 -1.67474 0.60221 -2.30408 1.23155C1.18869 6.44736 0.760102 7.24918 0.586468 8.1221c-0.173633 0.87291 -0.084518 1.77771 0.256076 2.6 0.340596 0.8222 0.917366 1.525 1.657396 2.0195C3.23996 13.2361 4.10999 13.5 5 13.5h6c0.663 0 1.2989 -0.2634 1.7678 -0.7322 0.4688 -0.4689 0.7322 -1.1048 0.7322 -1.7678s-0.2634 -1.29892 -0.7322 -1.76777C12.2989 8.76339 11.663 8.5 11 8.5Z" stroke-width="1"></path>
+  </g>
+</svg>

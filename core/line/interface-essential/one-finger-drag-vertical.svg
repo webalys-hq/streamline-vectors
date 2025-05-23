@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="one-finger-drag-vertical"><path id="Vector 107" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5v-2.927A2.573 2.573 0 0 0 10.927 8H8.5V3.75c0-.69-.56-1.25-1.25-1.25v0C6.56 2.5 6 3.06 6 3.75V9l-.707.202a1.715 1.715 0 0 0-.944 2.62L5.5 13.5"></path><path id="Vector 2508" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 2 2 .5 3.5 2"></path><path id="Vector 2509" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 5.5 2 7l1.5-1.5"></path><path id="Vector 2510" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 .5V7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="One-Finger-Drag-Vertical--Streamline-Core">
+  <desc>
+    One Finger Drag Vertical Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="one-finger-drag-vertical">
+    <path id="Vector 107" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.5 0 -2.927C13.5 9.15198 12.348 8 10.927 8L8.5 8l0 -4.25c0 -0.69036 -0.55964 -1.25 -1.25 -1.25v0C6.55964 2.5 6 3.05964 6 3.75L6 9l-0.70723 0.20168c-1.12711 0.32142 -1.6071 1.65342 -0.94411 2.61992L5.5 13.5" stroke-width="1"></path>
+    <path id="Vector 2508" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 2 2 0.5 3.5 2" stroke-width="1"></path>
+    <path id="Vector 2509" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 5.5 2 7l1.5 -1.5" stroke-width="1"></path>
+    <path id="Vector 2510" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 0.5V7" stroke-width="1"></path>
+  </g>
+</svg>

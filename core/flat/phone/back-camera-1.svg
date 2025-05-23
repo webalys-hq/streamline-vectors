@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="back-camera-1--android-phone-mobile-device-smartphone-iphone-camera-lenses"><path id="Union" fill="#37d7ff" d="M3.731 0c-.405 0-.778.147-1.047.432-.267.283-.395.663-.395 1.068v11c0 .405.128.785.395 1.068.27.286.642.432 1.047.432h6.538a1.41 1.41 0 0 0 1.047-.432c.267-.283.395-.663.395-1.068v-11c0-.405-.128-.785-.395-1.068A1.412 1.412 0 0 0 10.27 0H3.731Z"></path><path id="Ellipse 1022" fill="#3e3e3e" d="M6 3a1 1 0 1 0 2 0 1 1 0 1 0-2 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Back-Camera-1--Streamline-Core">
+  <desc>
+    Back Camera 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="back-camera-1--android-phone-mobile-device-smartphone-iphone-camera-lenses">
+    <path id="Union" fill="#8fbffa" d="M3.731 0c-0.405 0 -0.778 0.147 -1.047 0.432 -0.267 0.283 -0.395 0.663 -0.395 1.068v11c0 0.405 0.128 0.785 0.395 1.068 0.27 0.286 0.642 0.432 1.047 0.432h6.538a1.41 1.41 0 0 0 1.047 -0.432c0.267 -0.283 0.395 -0.663 0.395 -1.068v-11c0 -0.405 -0.128 -0.785 -0.395 -1.068A1.412 1.412 0 0 0 10.27 0H3.731Z" stroke-width="1"></path>
+    <path id="Ellipse 1022" fill="#2859c5" d="M6 3a1 1 0 1 0 2 0 1 1 0 1 0 -2 0" stroke-width="1"></path>
+  </g>
+</svg>

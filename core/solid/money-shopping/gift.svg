@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="gift--reward-box-social-present-gift-media-rating-bow"><g id="Subtract"><path fill="#3e3e3e" d="M4.657.626a.75.75 0 1 0-.804 1.267l.958.607H1.5C.778 2.5 0 2.989 0 3.806v1.416c0 .762.677 1.24 1.354 1.3a.497.497 0 0 0-.017.005h5.038V3.884h1.25v2.643h5.038a.493.493 0 0 0-.018-.006C13.324 6.461 14 5.984 14 5.222V3.806c0-.817-.778-1.306-1.5-1.306H9.189l.958-.607A.75.75 0 0 0 9.344.626L7 2.112 4.657.626Z"></path><path fill="#3e3e3e" d="M13 7.777H7.625V14H11.5a1.5 1.5 0 0 0 1.5-1.5V7.777Z"></path><path fill="#3e3e3e" d="M6.375 7.777H1V12.5A1.5 1.5 0 0 0 2.5 14h3.875V7.777Z"></path></g><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M9.197 3.38h-4.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gift--Streamline-Core">
+  <desc>
+    Gift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gift--reward-box-social-present-gift-media-rating-bow">
+    <g id="Subtract">
+      <path fill="#000000" d="M4.657 0.626a0.75 0.75 0 1 0 -0.804 1.267l0.958 0.607H1.5C0.778 2.5 0 2.989 0 3.806v1.416c0 0.762 0.677 1.24 1.354 1.3a0.497 0.497 0 0 0 -0.017 0.005h5.038V3.884h1.25v2.643h5.038a0.493 0.493 0 0 0 -0.018 -0.006C13.324 6.461 14 5.984 14 5.222V3.806c0 -0.817 -0.778 -1.306 -1.5 -1.306H9.189l0.958 -0.607A0.75 0.75 0 0 0 9.344 0.626L7 2.112 4.657 0.626Z" stroke-width="1"></path>
+      <path fill="#000000" d="M13 7.777H7.625l0 6.223 3.875 0a1.5 1.5 0 0 0 1.5 -1.5V7.777Z" stroke-width="1"></path>
+      <path fill="#000000" d="M6.375 7.777H1V12.5A1.5 1.5 0 0 0 2.5 14l3.875 0 0 -6.223Z" stroke-width="1"></path>
+    </g>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="m9.197 3.38 -4.5 0"></path>
+  </g>
+</svg>

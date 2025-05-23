@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="vr-headset-2--entertainment-gaming-vr-headset"><path id="Rectangle 338" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 6.992c0-1.021.831-1.849 1.857-1.849h9.286c1.025 0 1.857.828 1.857 1.85v3.663c0 1.203-1.138 2.096-2.327 1.884-1.257-.223-2.824-.44-4.173-.44-1.349 0-2.916.217-4.173.44C1.637 12.752.5 11.86.5 10.656V6.992Z"></path><path id="Vector 788" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.679 5.143.464-3.714h3.714l.464 3.714"></path><path id="Vector 789" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.214 7.929h5.572"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vr-Headset-2--Streamline-Core">
+  <desc>
+    Vr Headset 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="vr-headset-2--entertainment-gaming-vr-headset">
+    <path id="Rectangle 338" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 6.99242c0 -1.02137 0.83147 -1.84935 1.85714 -1.84935h9.28576c1.0256 0 1.8571 0.82798 1.8571 1.84935v3.66368c0 1.2031 -1.1377 2.096 -2.327 1.8844C9.91572 12.3168 8.34898 12.1 7 12.1s-2.91572 0.2168 -4.17297 0.4405C1.63765 12.7521 0.5 11.8592 0.5 10.6561V6.99242Z" stroke-width="1"></path>
+    <path id="Vector 788" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.67859 5.143 0.46428 -3.71429h3.71429L9.32145 5.143" stroke-width="1"></path>
+    <path id="Vector 789" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.21423 7.92871h5.57143" stroke-width="1"></path>
+  </g>
+</svg>

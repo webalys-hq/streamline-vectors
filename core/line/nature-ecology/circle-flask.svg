@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="circle-flask--science-experiment-lab-flask-chemistry-solution"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.494 4.767V.523H5.505v4.244a4.483 4.483 0 1 0 2.99 0Z"></path><path id="Vector 11" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 .523h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Circle-Flask--Streamline-Core">
+  <desc>
+    Circle Flask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="circle-flask--science-experiment-lab-flask-chemistry-solution">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.49437 4.76692V0.522705H5.50549V4.76692c-0.99711 0.35253 -1.83749 1.04621 -2.37262 1.95843 -0.53512 0.91223 -0.73053 1.98426 -0.55169 3.02662 0.17884 1.04233 0.72042 1.98793 1.52901 2.66963 0.8086 0.6817 1.83215 1.0556 2.88974 1.0556 1.0576 0 2.08115 -0.3739 2.88974 -1.0556 0.80863 -0.6817 1.35013 -1.6273 1.52903 -2.66963 0.1788 -1.04236 -0.0166 -2.11439 -0.5517 -3.02662 -0.5351 -0.91222 -1.37551 -1.6059 -2.37263 -1.95843Z" stroke-width="1"></path>
+    <path id="Vector 11" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 0.522705h6" stroke-width="1"></path>
+  </g>
+</svg>

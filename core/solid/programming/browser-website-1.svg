@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-website-1--app-code-apps-window-website-web"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.546 12.25V3.314h10.908v8.934a.204.204 0 0 1-.205.205H1.751a.204.204 0 0 1-.205-.205Zm-1.5-10.5C.046.81.81.047 1.751.047h10.498c.942 0 1.705.763 1.705 1.705V12.25c0 .942-.763 1.705-1.705 1.705H1.751A1.704 1.704 0 0 1 .046 12.25V1.751Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Website-1--Streamline-Core">
+  <desc>
+    Browser Website 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-website-1--app-code-apps-window-website-web">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.546 12.25V3.314h10.908v8.934a0.204 0.204 0 0 1 -0.205 0.205H1.751a0.204 0.204 0 0 1 -0.205 -0.205Zm-1.5 -10.5C0.046 0.81 0.81 0.047 1.751 0.047h10.498c0.942 0 1.705 0.763 1.705 1.705V12.25c0 0.942 -0.763 1.705 -1.705 1.705H1.751A1.704 1.704 0 0 1 0.046 12.25V1.751Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

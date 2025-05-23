@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="flu-mask--health-medical-hospital-mask-flu-vaccine-protection"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25c2.5 0 3.5-1 3.5-1v-5.5h-7v5.5s1 1 3.5 1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 6.25h2"></path><path id="Vector 5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 3.75H2.268C1.29 3.75.5 4.541.5 5.518v0c0 .469.186.918.518 1.25L3.5 9.25"></path><path id="Vector 6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 3.75h1.232c.977 0 1.768.791 1.768 1.768v0c0 .469-.186.918-.518 1.25L10.5 9.25"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flu-Mask--Streamline-Core">
+  <desc>
+    Flu Mask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flu-mask--health-medical-hospital-mask-flu-vaccine-protection">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00001 10.25c2.49999 0 3.49999 -1 3.49999 -1v-5.5H3.50001v5.5s0.99999 1 3.5 1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 6.25h2" stroke-width="1"></path>
+    <path id="Vector 5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 3.75H2.26777C1.29146 3.75 0.5 4.54146 0.5 5.51777v0c0 0.46884 0.186246 0.91848 0.51777 1.25L3.5 9.25" stroke-width="1"></path>
+    <path id="Vector 6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 3.75h1.2322c0.9763 0 1.7678 0.79146 1.7678 1.76777v0c0 0.46884 -0.1862 0.91848 -0.5178 1.25L10.5 9.25" stroke-width="1"></path>
+  </g>
+</svg>

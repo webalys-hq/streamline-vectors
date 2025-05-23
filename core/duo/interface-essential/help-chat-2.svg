@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="help-chat-2--bubble-help-mark-message-query-question-speech-circle"><path id="Vector" fill="#37d7ff" d="M6.998.56a6.44 6.44 0 0 0-5.36 10.006L.558 13.44l3.617-.654A6.44 6.44 0 1 0 6.998.56Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.998.56a6.44 6.44 0 0 0-5.36 10.006L.558 13.44l3.617-.653A6.44 6.44 0 1 0 6.998.56v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 5.5A1.5 1.5 0 1 1 7 7v1"></path><g id="Group 2576"><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.002 10.5a.25.25 0 1 1 0-.5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.002 10.5a.25.25 0 1 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Help-Chat-2--Streamline-Core">
+  <desc>
+    Help Chat 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="help-chat-2--bubble-help-mark-message-query-question-speech-circle">
+    <path id="Vector" fill="#d7e0ff" d="M6.998 0.56a6.44 6.44 0 0 0 -5.36 10.006L0.558 13.44l3.617 -0.654A6.44 6.44 0 1 0 6.998 0.56Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.998 0.56a6.44 6.44 0 0 0 -5.36 10.006L0.558 13.44l3.617 -0.653A6.44 6.44 0 1 0 6.998 0.56v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.5 5.5A1.5 1.5 0 1 1 7 7v1" stroke-width="1"></path>
+    <g id="Group 2576">
+      <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.002 10.5a0.25 0.25 0 1 1 0 -0.5" stroke-width="1"></path>
+      <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.002 10.5a0.25 0.25 0 1 0 0 -0.5" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

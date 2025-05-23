@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="round-cap"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M5.294 2.206H13.5v9.588H5.294a4.794 4.794 0 0 1 0-9.588Zm.896 6.59a1.798 1.798 0 1 0 0-3.595 1.798 1.798 0 0 0 0 3.596Z" clip-rule="evenodd"></path><path id="Ellipse 400" fill="#ffffff" d="M4.392 6.999a1.798 1.798 0 1 0 3.596 0 1.798 1.798 0 1 0-3.596 0"></path><path id="Vector 807" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.988 7H13.5"></path><path id="Vector 809" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2.206H5.294a4.794 4.794 0 0 0 0 9.588H13.5"></path><path id="Ellipse 399" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.392 6.999a1.798 1.798 0 1 0 3.596 0 1.798 1.798 0 1 0-3.596 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Round-Cap--Streamline-Core">
+  <desc>
+    Round Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="round-cap">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M5.29378 2.2063H13.5l0 9.5876H5.29378C2.64625 11.7939 0.5 9.64761 0.5 7.00008S2.64625 2.2063 5.29378 2.2063Zm0.89637 6.59045c0.99283 0 1.79767 -0.80484 1.79767 -1.79767 0 -0.99282 -0.80484 -1.79766 -1.79767 -1.79766 -0.99282 0 -1.79767 0.80484 -1.79767 1.79766 0 0.99283 0.80485 1.79767 1.79767 1.79767Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Ellipse 400" fill="#ffffff" d="M4.392 6.999a1.798 1.798 0 1 0 3.596 0 1.798 1.798 0 1 0 -3.596 0" stroke-width="1"></path>
+    <path id="Vector 807" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.98834 6.99951 5.51166 0" stroke-width="1"></path>
+    <path id="Vector 809" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m13.5 2.2063 -8.20622 0C2.64625 2.2063 0.5 4.35255 0.5 7.00008c0 2.64753 2.14625 4.79382 4.79378 4.79382H13.5" stroke-width="1"></path>
+    <path id="Ellipse 399" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.392 6.999a1.798 1.798 0 1 0 3.596 0 1.798 1.798 0 1 0 -3.596 0" stroke-width="1"></path>
+  </g>
+</svg>

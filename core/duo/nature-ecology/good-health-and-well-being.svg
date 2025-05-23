@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="good-health-and-well-being"><path id="Vector" fill="#37d7ff" d="m10.097 12.468-2.774-2.52c-1.53-1.522.718-4.423 2.774-2.045 2.104-2.33 4.303.57 2.773 2.045l-2.773 2.52Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.097 12.468-2.774-2.52c-1.53-1.522.718-4.423 2.774-2.045 2.104-2.33 4.303.57 2.773 2.045l-2.773 2.52Z"></path><path id="Vector 801" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.62 6.088h1.368l1.823 3.19 4.101-7.747 1.823 3.646"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Good-Health-And-Well-Being--Streamline-Core">
+  <desc>
+    Good Health And Well Being Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="good-health-and-well-being">
+    <path id="Vector" fill="#d7e0ff" d="m10.097 12.468 -2.774 -2.52c-1.53 -1.522 0.718 -4.423 2.774 -2.045 2.104 -2.33 4.303 0.57 2.773 2.045l-2.773 2.52Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m10.097 12.468 -2.774 -2.52c-1.53 -1.522 0.718 -4.423 2.774 -2.045 2.104 -2.33 4.303 0.57 2.773 2.045l-2.773 2.52Z" stroke-width="1"></path>
+    <path id="Vector 801" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.62 6.088h1.368l1.823 3.19 4.101 -7.747 1.823 3.646" stroke-width="1"></path>
+  </g>
+</svg>

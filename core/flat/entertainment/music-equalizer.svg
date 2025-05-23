@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="music-equalizer--music-audio-note-wave-sound-equalizer-entertainment"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7.75.851a.75.75 0 0 0-1.5 0V13.15a.75.75 0 0 0 1.5 0V.851ZM4 2.466a.75.75 0 0 1 .75.75v7.568a.75.75 0 1 1-1.5 0V3.216a.75.75 0 0 1 .75-.75ZM1 4.831a.75.75 0 0 1 .75.75V8.42a.75.75 0 0 1-1.5 0V5.581a.75.75 0 0 1 .75-.75Zm9-2.365a.75.75 0 0 1 .75.75v7.568a.75.75 0 1 1-1.5 0V3.216a.75.75 0 0 1 .75-.75Zm3.75 3.115a.75.75 0 0 0-1.5 0V8.42a.75.75 0 0 0 1.5 0V5.581Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Equalizer--Streamline-Core">
+  <desc>
+    Music Equalizer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="music-equalizer--music-audio-note-wave-sound-equalizer-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.75 0.851a0.75 0.75 0 0 0 -1.5 0V13.15a0.75 0.75 0 0 0 1.5 0V0.851ZM4 2.466a0.75 0.75 0 0 1 0.75 0.75v7.568a0.75 0.75 0 1 1 -1.5 0V3.216a0.75 0.75 0 0 1 0.75 -0.75ZM1 4.831a0.75 0.75 0 0 1 0.75 0.75V8.42a0.75 0.75 0 0 1 -1.5 0V5.581a0.75 0.75 0 0 1 0.75 -0.75Zm9 -2.365a0.75 0.75 0 0 1 0.75 0.75v7.568a0.75 0.75 0 1 1 -1.5 0V3.216a0.75 0.75 0 0 1 0.75 -0.75Zm3.75 3.115a0.75 0.75 0 0 0 -1.5 0V8.42a0.75 0.75 0 0 0 1.5 0V5.581Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

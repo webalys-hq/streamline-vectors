@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bitcoin--crypto-circle-payment-blokchain-finance-bitcoin-money-currency"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M5.744 1.029a1 1 0 1 0-2 0v.604a1.744 1.744 0 0 0-.886 1.518v7.432a1.744 1.744 0 0 0 .886 1.518v.87a1 1 0 1 0 2 0v-.644h1.019v.644a1 1 0 1 0 2 0v-.805A3.416 3.416 0 0 0 9.99 6.353a3.05 3.05 0 0 0-1.227-4.725v-.6a1 1 0 1 0-2 0v.379h-1.02v-.378Zm-.886 6.466v2.832h2.868a1.416 1.416 0 0 0 .02-2.832H4.859Zm2.832-2H4.858V3.407h2.86a1.049 1.049 0 0 1-.028 2.088Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bitcoin--Streamline-Core">
+  <desc>
+    Bitcoin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bitcoin--crypto-circle-payment-blokchain-finance-bitcoin-money-currency">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5.744 1.029a1 1 0 1 0 -2 0v0.604a1.744 1.744 0 0 0 -0.886 1.518v7.432a1.744 1.744 0 0 0 0.886 1.518v0.87a1 1 0 1 0 2 0v-0.644h1.019v0.644a1 1 0 1 0 2 0v-0.805A3.416 3.416 0 0 0 9.99 6.353a3.05 3.05 0 0 0 -1.227 -4.725v-0.6a1 1 0 1 0 -2 0v0.379h-1.02v-0.378Zm-0.886 6.466v2.832h2.868a1.416 1.416 0 0 0 0.02 -2.832H4.859Zm2.832 -2H4.858V3.407h2.86a1.049 1.049 0 0 1 -0.028 2.088Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

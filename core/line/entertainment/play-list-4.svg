@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="play-list-4--screen-television-display-player-movies-players-tv-media-video-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.23 9.23V4.91a.41.41 0 0 1 .62-.35l3.7 2.15a.41.41 0 0 1 0 .71l-3.7 2.16a.41.41 0 0 1-.62-.35v0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Play-List-4--Streamline-Core">
+  <desc>
+    Play List 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="play-list-4--screen-television-display-player-movies-players-tv-media-video-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.22998 9.23006v-4.32c0.00038 -0.07228 0.01985 -0.14317 0.05646 -0.2055 0.03661 -0.06233 0.08904 -0.11387 0.15198 -0.1494 0.06295 -0.03553 0.13416 -0.05379 0.20644 -0.05293 0.07228 0.00086 0.14304 0.02081 0.20512 0.05783l3.7 2.15c0.0623 0.036 0.11402 0.08775 0.14998 0.15007 0.03597 0.06231 0.0549 0.13299 0.0549 0.20493 0 0.07195 -0.01893 0.14263 -0.0549 0.20494 -0.03596 0.06232 -0.08768 0.11407 -0.14998 0.15006l-3.7 2.16c-0.06208 0.03703 -0.13284 0.05698 -0.20512 0.05784 -0.07228 0.00086 -0.14349 -0.0174 -0.20644 -0.05293 -0.06294 -0.03553 -0.11537 -0.08708 -0.15198 -0.1494 -0.03661 -0.06233 -0.05608 -0.13323 -0.05646 -0.20551v0Z" stroke-width="1"></path>
+  </g>
+</svg>

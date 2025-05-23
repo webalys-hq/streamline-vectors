@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="yin-yang-symbol--religion-tao-yin-yang-taoism-culture-symbol"><path id="Vector" fill="#37d7ff" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M7.473.016c-.316.263-3.69 3.216-.476 6.98 3.239 3.796-.215 6.766-.484 6.987.089.006.178.01.267.014h.44A7 7 0 0 0 7.473.016Z" clip-rule="evenodd"></path><path id="Vector_2" fill="#37d7ff" d="M9.092 5.25a1.236 1.236 0 1 0 0-2.473 1.236 1.236 0 0 0 0 2.473Z"></path><path id="Vector_3" fill="#3e3e3e" d="M5.26 11.226a1.236 1.236 0 1 0 0-2.472 1.236 1.236 0 0 0 0 2.472Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Yin-Yang-Symbol--Streamline-Core">
+  <desc>
+    Yin Yang Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="yin-yang-symbol--religion-tao-yin-yang-taoism-culture-symbol">
+    <path id="Vector" fill="#8fbffa" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M7.473 0.016c-0.316 0.263 -3.69 3.216 -0.476 6.98 3.239 3.796 -0.215 6.766 -0.484 6.987 0.089 0.006 0.178 0.01 0.267 0.014h0.44A7 7 0 0 0 7.473 0.016Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector_2" fill="#8fbffa" d="M9.092 5.25a1.236 1.236 0 1 0 0 -2.473 1.236 1.236 0 0 0 0 2.473Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#2859c5" d="M5.26 11.226a1.236 1.236 0 1 0 0 -2.472 1.236 1.236 0 0 0 0 2.472Z" stroke-width="1"></path>
+  </g>
+</svg>

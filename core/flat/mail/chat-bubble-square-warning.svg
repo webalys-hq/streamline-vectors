@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chat-bubble-square-warning--bubble-square-messages-notification-chat-message-warning-alert"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v8.919l-.974 2.923a.5.5 0 0 0 .595.643L4.561 13H12.5a1.5 1.5 0 0 0 1.5-1.5v-10A1.5 1.5 0 0 0 12.5 0h-10Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7.568 2.17c.345 0 .625.28.625.625v3.659a.625.625 0 1 1-1.25 0V2.795c0-.345.28-.625.625-.625Zm-.997 7.411a.998.998 0 1 1 1.995 0 .998.998 0 0 1-1.995 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Square-Warning--Streamline-Core">
+  <desc>
+    Chat Bubble Square Warning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-square-warning--bubble-square-messages-notification-chat-message-warning-alert">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.5 0c-0.39782 0 -0.77936 0.158035 -1.06066 0.43934C1.15804 0.720644 1 1.10218 1 1.5v8.9189l-0.9743417 2.923c-0.0577086 0.1731 -0.01651259 0.3639 0.1074807 0.4978 0.123993 0.1339 0.311087 0.1896 0.488129 0.1454L4.56155 13H12.5c0.3978 0 0.7794 -0.158 1.0607 -0.4393S14 11.8978 14 11.5v-10c0 -0.39783 -0.158 -0.779356 -0.4393 -1.06066C13.2794 0.158035 12.8978 0 12.5 0h-10Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7.56824 2.17017c0.34518 0 0.625 0.27982 0.625 0.625l0 3.65863c0 0.34518 -0.27982 0.625 -0.625 0.625s-0.625 -0.27982 -0.625 -0.625l0 -3.65863c0 -0.34518 0.27982 -0.625 0.625 -0.625ZM6.57056 9.5811c0 -0.55101 0.44668 -0.9977 0.99769 -0.9977s0.99769 0.44669 0.99769 0.9977c0 0.551 -0.44668 0.9977 -0.99769 0.9977s-0.99769 -0.4467 -0.99769 -0.9977Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

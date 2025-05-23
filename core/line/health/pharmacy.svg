@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pharmacy--health-medical-pharmacy-sign-medicine-mortar-pestle"><path id="Union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m1.532 8.384-.221-1.97a1 1 0 0 1 .993-1.112h9.392a1 1 0 0 1 .993 1.112l-.221 1.97a3.998 3.998 0 0 1-1.966 3.012c.17.305.288.645.343 1.008a.748.748 0 0 1-.74.858h-6.21a.748.748 0 0 1-.74-.858c.055-.363.173-.703.342-1.008a3.998 3.998 0 0 1-1.965-3.012Z"></path><path id="Vector 2093" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.469 5.281 2.373-3.72a1.198 1.198 0 0 1 1.644-.372v0c.569.355.736 1.107.37 1.67L10.281 5.28"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.251 9.282H8.75"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.534v3.497"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pharmacy--Streamline-Core">
+  <desc>
+    Pharmacy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pharmacy--health-medical-pharmacy-sign-medicine-mortar-pestle">
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.5324 8.38438 -0.22169 -1.97032c-0.0667 -0.59283 0.39717 -1.11181 0.99373 -1.11181h9.39116c0.5965 0 1.0604 0.51898 0.9937 1.11181l-0.2217 1.97032c-0.1461 1.29848 -0.9032 2.39352 -1.9651 3.01152 0.1696 0.3055 0.2878 0.6451 0.3422 1.0081 0.0677 0.452 -0.2824 0.8584 -0.7394 0.8584l-6.21058 0c-0.45703 0 -0.80712 -0.4064 -0.73942 -0.8584 0.05437 -0.363 0.17256 -0.7026 0.34214 -1.0081 -1.06184 -0.618 -1.81894 -1.71305 -1.96504 -3.01152Z" stroke-width="1"></path>
+    <path id="Vector 2093" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.46881 5.2812 2.37328 -3.71983c0.35321 -0.5536 1.08621 -0.719636 1.64351 -0.37226v0c0.569 0.35468 0.7361 1.10728 0.3707 1.66943L10.2814 5.2812" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25122 9.28247h3.49756" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 7.53369v3.49751" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="factorial--interface-math-number-factorial-sign-mathematics"><path id="Vector 292" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5V10"></path><path id="Ellipse 85" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 13.5V6a4 4 0 1 1 8 0v7.5"></path><path id="Vector 291" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 2v4"></path><path id="Ellipse 1000" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 13a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Factorial--Streamline-Core">
+  <desc>
+    Factorial Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="factorial--interface-math-number-factorial-sign-mathematics">
+    <path id="Vector 292" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5V10" stroke-width="1"></path>
+    <path id="Ellipse 85" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1 13.5 1 6c0 -2.20914 1.79086 -4 4 -4s4 1.79086 4 4v7.5" stroke-width="1"></path>
+    <path id="Vector 291" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1 2v4" stroke-width="1"></path>
+    <path id="Ellipse 1000" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12 13a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+  </g>
+</svg>

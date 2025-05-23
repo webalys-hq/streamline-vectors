@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-send-reply-all--email-message-reply-all-actions-action-arrow"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.5 2.5-3 3 3 3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 11.5v-2a4 4 0 0 0-4-4h-5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.5 2.5-3 3 3 3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Reply-All--Streamline-Core">
+  <desc>
+    Mail Send Reply All Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-send-reply-all--email-message-reply-all-actions-action-arrow">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.5 2.5 -3 3 3 3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 11.5v-2c0 -1.06087 -0.4214 -2.07828 -1.1716 -2.82843C11.5783 5.92143 10.5609 5.5 9.5 5.5h-5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m3.5 2.5 -3 3 3 3" stroke-width="1"></path>
+  </g>
+</svg>

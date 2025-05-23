@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="music-note-off-2--music-audio-note-off-mute-entertainment"><path id="Vector" fill="#37d7ff" d="M13.5 3.42V1.08a.499.499 0 0 0-.63-.48l-8 2.22a.5.5 0 0 0-.37.48v1.218L5.528 5.59"></path><path id="Vector_2" fill="#37d7ff" d="M10.79 10.79c.226.09.467.133.71.13a2 2 0 1 0-1.87-1.29"></path><path id="Vector_3" fill="#37d7ff" d="M2.5 13.42a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5.5 13 13"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 13.42a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.79 10.79c.226.09.467.133.71.13a2 2 0 1 0-1.87-1.29"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8v3.42"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.92V1.08a.499.499 0 0 0-.63-.48l-8 2.22a.5.5 0 0 0-.37.48v1.2"></path><path id="Vector_9" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.61 5.61 7.89-2.19"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Note-Off-2--Streamline-Core">
+  <desc>
+    Music Note Off 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="music-note-off-2--music-audio-note-off-mute-entertainment">
+    <path id="Vector" fill="#d7e0ff" d="M13.5 3.42V1.08a0.499 0.499 0 0 0 -0.63 -0.48l-8 2.22a0.5 0.5 0 0 0 -0.37 0.48l0 1.218L5.528 5.59" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M10.79 10.79c0.226 0.09 0.467 0.133 0.71 0.13a2 2 0 1 0 -1.87 -1.29" stroke-width="1"></path>
+    <path id="Vector_3" fill="#d7e0ff" d="M2.5 13.42a2 2 0 1 0 0 -4 2 2 0 0 0 0 4Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m0.5 0.5 13 13" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 13.42a2 2 0 1 0 0 -4 2 2 0 0 0 0 4Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.79 10.79c0.226 0.09 0.467 0.133 0.71 0.13a2 2 0 1 0 -1.87 -1.29" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8v3.42" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.92V1.08a0.499 0.499 0 0 0 -0.63 -0.48l-8 2.22a0.5 0.5 0 0 0 -0.37 0.48v1.2" stroke-width="1"></path>
+    <path id="Vector_9" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.61 5.61 7.89 -2.19" stroke-width="1"></path>
+  </g>
+</svg>

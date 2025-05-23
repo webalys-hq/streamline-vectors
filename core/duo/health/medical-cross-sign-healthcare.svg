@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="medical-cross-sign-healthcare"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M9 .5H5V5H.5v4H5v4.5h4V9h4.5V5H9V.5Z" clip-rule="evenodd"></path><path id="union" stroke="#3e3e3e" stroke-linejoin="round" d="M9 .5H5V5H.5v4H5v4.5h4V9h4.5V5H9V.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Cross-Sign-Healthcare--Streamline-Core">
+  <desc>
+    Medical Cross Sign Healthcare Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-cross-sign-healthcare">
+    <path id="Union" fill="#d7e0ff" fill-rule="evenodd" d="M9 0.5H5V5H0.5v4H5v4.5h4V9h4.5V5H9V0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="union" stroke="#4147d5" stroke-linejoin="round" d="M9 0.5H5V5H0.5v4H5v4.5h4V9h4.5V5H9V0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

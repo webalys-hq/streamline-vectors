@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="desktop-emoji--device-display-desktop-padlock-smiley"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.635 10.577a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.332l.687 1.918H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.918Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.457.5C.652.5 0 1.152 0 1.957v7.586C0 10.348.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V1.957C14 1.152 13.348.5 12.543.5H1.457Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M6.016 4.003a.766.766 0 1 1-1.531 0 .766.766 0 0 1 1.53 0ZM4.119 6.378a.625.625 0 0 1 .884.008c.358.364 1.038.741 1.997.741.959 0 1.64-.377 1.998-.741a.625.625 0 0 1 .89.876C9.295 7.867 8.293 8.377 7 8.377c-1.292 0-2.294-.51-2.889-1.115a.625.625 0 0 1 .008-.884Zm4.631-1.61a.766.766 0 1 0 0-1.531.766.766 0 0 0 0 1.531Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Emoji--Streamline-Core">
+  <desc>
+    Desktop Emoji Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="desktop-emoji--device-display-desktop-padlock-smiley">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.635 10.577a0.5 0.5 0 0 1 0.47 -0.332h1.79a0.5 0.5 0 0 1 0.47 0.332l0.687 1.918H10a0.75 0.75 0 1 1 0 1.5H4a0.75 0.75 0 0 1 0 -1.5h0.948l0.686 -1.918Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.457 0.5C0.652 0.5 0 1.152 0 1.957v7.586C0 10.348 0.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V1.957C14 1.152 13.348 0.5 12.543 0.5H1.457Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M6.016 4.003a0.766 0.766 0 1 1 -1.531 0 0.766 0.766 0 0 1 1.53 0ZM4.119 6.378a0.625 0.625 0 0 1 0.884 0.008c0.358 0.364 1.038 0.741 1.997 0.741 0.959 0 1.64 -0.377 1.998 -0.741a0.625 0.625 0 0 1 0.89 0.876C9.295 7.867 8.293 8.377 7 8.377c-1.292 0 -2.294 -0.51 -2.889 -1.115a0.625 0.625 0 0 1 0.008 -0.884Zm4.631 -1.61a0.766 0.766 0 1 0 0 -1.531 0.766 0.766 0 0 0 0 1.531Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

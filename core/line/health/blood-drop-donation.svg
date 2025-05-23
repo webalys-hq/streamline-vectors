@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="blood-drop-donation"><g id="Group 4565"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.092 8.954C2.092 4.308 7 .6 7 .6s4.908 3.708 4.908 8.354c0 3.002-2.486 4.446-4.908 4.446s-4.908-1.444-4.908-4.446Z"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.379 6.014a.382.382 0 0 0-.382.382v1.076H4.92a.382.382 0 0 0-.382.382v1.242c0 .212.171.383.382.383h1.076v1.075c0 .211.17.382.382.382H7.62a.382.382 0 0 0 .383-.382V9.479h1.075a.382.382 0 0 0 .382-.383V7.854a.382.382 0 0 0-.382-.382H8.004V6.396a.382.382 0 0 0-.383-.382H6.38Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Blood-Drop-Donation--Streamline-Core">
+  <desc>
+    Blood Drop Donation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="blood-drop-donation">
+    <g id="Group 4565">
+      <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.09174 8.95351c0 -4.64599 4.90827 -8.353412 4.90827 -8.353412S11.9083 4.30752 11.9083 8.95351c0 3.00299 -2.48615 4.44659 -4.90829 4.44659 -2.42215 0 -4.90827 -1.4436 -4.90827 -4.44659Z" stroke-width="1"></path>
+      <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.3788 6.01416c-0.21114 0 -0.38229 0.17116 -0.38229 0.38229v1.07521l-1.07519 0c-0.21113 0 -0.38229 0.17115 -0.38229 0.38228v1.24244c0 0.21114 0.17116 0.38229 0.38229 0.38229h1.07519v1.07513c0 0.2112 0.17115 0.3823 0.38229 0.3823h1.24243c0.21114 0 0.38229 -0.1711 0.38229 -0.3823V9.47867h1.07519c0.21113 0 0.38229 -0.17115 0.38229 -0.38229V7.85394c0 -0.21113 -0.17116 -0.38228 -0.38229 -0.38228l-1.07519 0V6.39645c0 -0.21113 -0.17115 -0.38229 -0.38229 -0.38229H6.3788Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

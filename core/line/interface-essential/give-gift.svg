@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="give-gift--reward-social-rating-media-queen-vip-gift"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2.5h-7v5h7v-5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 2.5v5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.5.5 1.5 2 1.5-2"></path><path id="Vector 294" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5 11 2.444 2.036a2 2 0 0 0 1.28.463h6.442c.46 0 .834-.373.834-.833 0-.92-.746-1.667-1.667-1.667H5.354"></path><path id="Vector 295" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.5 10 .75.75a1.06 1.06 0 0 0 1.5-1.5L4.586 8.085A2 2 0 0 0 3.17 7.5H.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Give-Gift--Streamline-Core">
+  <desc>
+    Give Gift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="give-gift--reward-social-rating-media-queen-vip-gift">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2.5h-7v5h7v-5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 2.5v5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.5 0.5 1.5 2 1.5 -2" stroke-width="1"></path>
+    <path id="Vector 294" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.499878 10.9995 2.94361 13.036c0.35943 0.2995 0.81249 0.4635 1.28037 0.4635l6.44252 0c0.4603 0 0.8334 -0.3731 0.8334 -0.8333 0 -0.9205 -0.7462 -1.6667 -1.66669 -1.6667H5.35417" stroke-width="1"></path>
+    <path id="Vector 295" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.49988 9.99951 0.75 0.74999c0.41421 0.4142 1.08578 0.4142 1.5 0 0.41421 -0.4142 0.41421 -1.08577 0 -1.49999L4.58566 8.0853c-0.37507 -0.37508 -0.88378 -0.58579 -1.41421 -0.58579H0.499878" stroke-width="1"></path>
+  </g>
+</svg>

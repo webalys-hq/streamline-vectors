@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="party-popper--hobby-entertainment-party-popper-confetti-event"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.85 13.2-6.68-2.49a1.25 1.25 0 0 1-.48-2.05l4.19-4.19a1.26 1.26 0 0 1 2.06.53l2.48 6.68a1.22 1.22 0 0 1-1.57 1.52v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.05 7.13a2.06 2.06 0 0 1 1.46-.21"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.33 4.28A2.1 2.1 0 0 1 4 2.83"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.63.72A4.72 4.72 0 0 0 6.76 4"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 3.78a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Party-Popper--Streamline-Core">
+  <desc>
+    Party Popper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="party-popper--hobby-entertainment-party-popper-confetti-event">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.8501 13.2001 -6.68005 -2.49c-0.19773 -0.0699 -0.37472 -0.1883 -0.51467 -0.3445 -0.13994 -0.1562 -0.23835 -0.345 -0.28616 -0.54921 -0.04781 -0.20418 -0.04348 -0.41711 0.01259 -0.61917 0.05606 -0.20207 0.16207 -0.38679 0.30824 -0.53715l4.19 -4.19c0.15478 -0.14507 0.34368 -0.24871 0.54919 -0.30132 0.20551 -0.0526 0.42097 -0.05247 0.62646 0.00038 0.2054 0.05286 0.3942 0.15673 0.5488 0.30199 0.1546 0.14526 0.27 0.3272 0.3356 0.52895l2.48 6.68003c0.0688 0.2164 0.076 0.4477 0.0205 0.668 -0.0555 0.2202 -0.1713 0.4206 -0.3345 0.5785 -0.1631 0.158 -0.3672 0.2673 -0.5891 0.3156 -0.2219 0.0483 -0.4529 0.0337 -0.6669 -0.0421v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.05005 7.13004c0.44406 -0.24781 0.96409 -0.32261 1.46 -0.21" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.32999 4.28008c-0.28318 -0.4269 -0.40054 -0.9426 -0.33 -1.45" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.63 0.719971C6.27951 1.79364 6.32563 2.9574 6.76 3.99997" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1 3.78003c0.27614 0 0.5 -0.22386 0.5 -0.5s-0.22386 -0.5 -0.5 -0.5c-0.276142 0 -0.5 0.22386 -0.5 0.5s0.223858 0.5 0.5 0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

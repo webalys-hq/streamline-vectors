@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="serving-dome--cook-tool-dome-kitchen-serving-paltter-dish-tools-food-kitchenware"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3a6.5 6.5 0 0 1 6.5 6.5v0a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1A6.5 6.5 0 0 1 7 3v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3V1.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 12.5h13"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Serving-Dome--Streamline-Core">
+  <desc>
+    Serving Dome Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="serving-dome--cook-tool-dome-kitchen-serving-paltter-dish-tools-food-kitchenware">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 3c1.72391 0 3.3772 0.68482 4.5962 1.90381C12.8152 6.12279 13.5 7.77609 13.5 9.5v0c0 0.26522 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-11c-0.26522 0 -0.51957 -0.1054 -0.707107 -0.2929C0.605357 10.0196 0.5 9.76522 0.5 9.5c0 -1.72391 0.68482 -3.37721 1.90381 -4.59619C3.62279 3.68482 5.27609 3 7 3v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 3V1.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5h13" stroke-width="1"></path>
+  </g>
+</svg>

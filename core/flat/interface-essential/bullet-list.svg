@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bullet-list--points-bullet-unordered-list-lists-bullets"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1 3.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM2 7a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm0 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M4 2.5a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 4 2.5ZM4 7a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5A.75.75 0 0 1 4 7Zm.75 3.75a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bullet-List--Streamline-Core">
+  <desc>
+    Bullet List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bullet-list--points-bullet-unordered-list-lists-bullets">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1 3.5a1 1 0 1 0 0 -2 1 1 0 0 0 0 2ZM2 7a1 1 0 1 1 -2 0 1 1 0 0 1 2 0Zm0 4.5a1 1 0 1 1 -2 0 1 1 0 0 1 2 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M4 2.5a0.75 0.75 0 0 1 0.75 -0.75h8.5a0.75 0.75 0 0 1 0 1.5h-8.5A0.75 0.75 0 0 1 4 2.5ZM4 7a0.75 0.75 0 0 1 0.75 -0.75h8.5a0.75 0.75 0 0 1 0 1.5h-8.5A0.75 0.75 0 0 1 4 7Zm0.75 3.75a0.75 0.75 0 0 0 0 1.5h8.5a0.75 0.75 0 0 0 0 -1.5h-8.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

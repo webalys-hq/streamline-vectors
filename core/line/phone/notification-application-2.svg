@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="notification-application-2--android-phone-mobile-device-smartphone-iphone-alert-box"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 2.5h-4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2v-3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5.5v3"></path><g id="Group 623"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25a.25.25 0 0 1 0-.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25a.25.25 0 0 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Application-2--Streamline-Core">
+  <desc>
+    Notification Application 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-application-2--android-phone-mobile-device-smartphone-iphone-alert-box">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.5 2.5h-4c-0.53043 0 -1.03914 0.21071 -1.41421 0.58579C0.710714 3.46086 0.5 3.96957 0.5 4.5v7c0 0.5304 0.210714 1.0391 0.58579 1.4142 0.37507 0.3751 0.88378 0.5858 1.41421 0.5858h7c0.5304 0 1.0391 -0.2107 1.4142 -0.5858S11.5 12.0304 11.5 11.5v-3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 0.5v3" stroke-width="1"></path>
+    <g id="Group 623">
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

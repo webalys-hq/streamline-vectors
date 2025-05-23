@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="volume-level-off--volume-speaker-control-music-audio-entertainment"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.716 1.779A1.454 1.454 0 0 1 9 3.005v8.006c-.026 1.186-1.403 1.882-2.374 1.21l-.008-.005L2.84 9.5H1.5C.68 9.5 0 8.82 0 8V6c0-.82.68-1.5 1.5-1.5h1.342l3.87-2.72.003-.001Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volume-Level-Off--Streamline-Core">
+  <desc>
+    Volume Level Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="volume-level-off--volume-speaker-control-music-audio-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.716 1.779A1.454 1.454 0 0 1 9 3.005v8.006c-0.026 1.186 -1.403 1.882 -2.374 1.21l-0.008 -0.005L2.84 9.5H1.5C0.68 9.5 0 8.82 0 8V6c0 -0.82 0.68 -1.5 1.5 -1.5h1.342l3.87 -2.72 0.003 -0.001Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

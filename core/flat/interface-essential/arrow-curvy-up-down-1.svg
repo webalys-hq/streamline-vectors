@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-curvy-up-down-1--both-direction-arrow-curvy-diagram-zigzag-vertical"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.058.227a.996.996 0 0 1 1.248-.016.995.995 0 0 1 .093.082L13.707 2.6A1 1 0 0 1 13 4.308h-1.308v6.846a2.847 2.847 0 0 1-5.692 0V2.846a.846.846 0 0 0-1.692 0V13a1 1 0 0 1-1.707.707L.293 11.4A1 1 0 0 1 1 9.692h1.308V2.846a2.846 2.846 0 0 1 5.692 0v8.308a.846.846 0 1 0 1.692 0V1a.997.997 0 0 1 .366-.773Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Curvy-Up-Down-1--Streamline-Core">
+  <desc>
+    Arrow Curvy Up Down 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-curvy-up-down-1--both-direction-arrow-curvy-diagram-zigzag-vertical">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.058 0.227a0.996 0.996 0 0 1 1.248 -0.016 0.995 0.995 0 0 1 0.093 0.082L13.707 2.6A1 1 0 0 1 13 4.308h-1.308v6.846a2.847 2.847 0 0 1 -5.692 0V2.846a0.846 0.846 0 0 0 -1.692 0v7.841l0 0.005V13a1 1 0 0 1 -1.707 0.707L0.293 11.4A1 1 0 0 1 1 9.692h1.308V2.846a2.846 2.846 0 0 1 5.692 0v8.308a0.846 0.846 0 1 0 1.692 0V1a0.997 0.997 0 0 1 0.366 -0.773Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

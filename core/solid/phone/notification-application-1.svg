@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="notification-application-1--android-phone-mobile-device-smartphone-iphone-alert-box"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M14 2.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm-12 0h5.75a3.75 3.75 0 0 0 3.75 3.75V12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4.5a2 2 0 0 1 2-2Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Application-1--Streamline-Core">
+  <desc>
+    Notification Application 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-application-1--android-phone-mobile-device-smartphone-iphone-alert-box">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M14 2.5C14 3.88071 12.8807 5 11.5 5S9 3.88071 9 2.5 10.1193 0 11.5 0 14 1.11929 14 2.5Zm-12 0h5.75c0 2.07107 1.67893 3.75 3.75 3.75l0 5.75c0 1.1046 -0.8954 2 -2 2H2c-1.104569 0 -2 -0.8954 -2 -2V4.5c0 -1.10457 0.895431 -2 2 -2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

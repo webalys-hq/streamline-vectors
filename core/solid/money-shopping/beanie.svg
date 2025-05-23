@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="beanie--beanie-winter-hat-warm-cloth-clothing-wearable-accessories"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M8 1a1 1 0 0 0-2 0v.566a6 6 0 0 0-5 5.916v2.02h12v-2.02a6 6 0 0 0-5-5.916V1Zm-6.923 9.751h11.846c.595 0 1.077.482 1.077 1.077v1.077c0 .595-.482 1.077-1.077 1.077H1.077A1.077 1.077 0 0 1 0 12.905v-1.077c0-.595.482-1.077 1.077-1.077Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Beanie--Streamline-Core">
+  <desc>
+    Beanie Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="beanie--beanie-winter-hat-warm-cloth-clothing-wearable-accessories">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M8 1a1 1 0 0 0 -2 0v0.566a6 6 0 0 0 -5 5.916v2.02l0.077 0h11.846l0.077 0v-2.02a6 6 0 0 0 -5 -5.916V1Zm-6.923 9.751h11.846c0.595 0 1.077 0.482 1.077 1.077v1.077c0 0.595 -0.482 1.077 -1.077 1.077H1.077A1.077 1.077 0 0 1 0 12.905v-1.077c0 -0.595 0.482 -1.077 1.077 -1.077Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

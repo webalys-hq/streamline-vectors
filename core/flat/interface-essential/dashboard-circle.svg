@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dashboard-circle--app-application-dashboard-home-layout-circle"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm8 0a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM3 14a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm11-3a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-Circle--Streamline-Core">
+  <desc>
+    Dashboard Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-circle--app-application-dashboard-home-layout-circle">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6 3c0 1.65685 -1.34315 3 -3 3S0 4.65685 0 3s1.34315 -3 3 -3 3 1.34315 3 3Zm8 0c0 1.65685 -1.3431 3 -3 3 -1.65685 0 -3 -1.34315 -3 -3s1.34315 -3 3 -3c1.6569 0 3 1.34315 3 3ZM3 14c1.65685 0 3 -1.3431 3 -3 0 -1.65685 -1.34315 -3 -3 -3s-3 1.34315 -3 3c0 1.6569 1.34315 3 3 3Zm11 -3c0 1.6569 -1.3431 3 -3 3 -1.65685 0 -3 -1.3431 -3 -3 0 -1.65685 1.34315 -3 3 -3 1.6569 0 3 1.34315 3 3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

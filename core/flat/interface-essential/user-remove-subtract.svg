@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-remove-subtract--actions-remove-close-geometric-human-person-minus-single-up-user"><path id="Ellipse 337" fill="#37d7ff" d="M2 3a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path><path id="Vector (Stroke)" fill="#3e3e3e" d="M13.25 10a.75.75 0 0 1 0 1.5h-5a.75.75 0 0 1 0-1.5h5Z"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M0 12a5 5 0 0 1 8.8-3.25h-.55a2 2 0 0 0-.97 3.75H.5A.5.5 0 0 1 0 12Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Remove-Subtract--Streamline-Core">
+  <desc>
+    User Remove Subtract Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-remove-subtract--actions-remove-close-geometric-human-person-minus-single-up-user">
+    <path id="Ellipse 337" fill="#8fbffa" d="M2 3a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" d="M13.25 10c0.4142 0 0.75 0.3358 0.75 0.75s-0.3358 0.75 -0.75 0.75h-5c-0.41421 0 -0.75 -0.3358 -0.75 -0.75s0.33579 -0.75 0.75 -0.75h5Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0 12c0 -2.76145 2.23858 -5.00003 5 -5.00003 1.52067 0 2.88278 0.67885 3.79982 1.75003H8.25c-1.10457 0 -2 0.89543 -2 2 0 0.753 0.41612 1.4088 1.03094 1.75H0.5c-0.276142 0 -0.5 -0.2239 -0.5 -0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

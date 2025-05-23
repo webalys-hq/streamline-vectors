@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pictures-folder-memories"><path id="union" fill="#37d7ff" d="M6.177.813A1.457 1.457 0 0 0 5.26.516H1.734A1.457 1.457 0 0 0 .276 1.974v10.053a1.458 1.458 0 0 0 1.458 1.458h10.532a1.458 1.458 0 0 0 1.458-1.458V3.89a1.458 1.458 0 0 0-1.458-1.458H6.912l-.202-.807a1.46 1.46 0 0 0-.533-.811Z"></path><path id="vector" fill="#3e3e3e" d="M9.858 7.566a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Z"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M12.314 13.484 5.504 7.23a.662.662 0 0 0-.837 0l-4.39 3.096v1.701a1.458 1.458 0 0 0 1.457 1.458h10.532l.048-.001Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pictures-Folder-Memories--Streamline-Core">
+  <desc>
+    Pictures Folder Memories Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pictures-folder-memories">
+    <path id="union" fill="#8fbffa" d="M6.177 0.813A1.457 1.457 0 0 0 5.26 0.516H1.734A1.457 1.457 0 0 0 0.276 1.974v10.053a1.458 1.458 0 0 0 1.458 1.458h10.532a1.458 1.458 0 0 0 1.458 -1.458V3.89a1.458 1.458 0 0 0 -1.458 -1.458H6.912l-0.202 -0.807a1.46 1.46 0 0 0 -0.533 -0.811Z" stroke-width="1"></path>
+    <path id="vector" fill="#2859c5" d="M9.858 7.566a1.5 1.5 0 1 1 0 -3 1.5 1.5 0 0 1 0 3Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M12.314 13.484 5.504 7.23a0.662 0.662 0 0 0 -0.837 0l-4.39 3.096v1.701a1.458 1.458 0 0 0 1.457 1.458h10.532l0.048 -0.001Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

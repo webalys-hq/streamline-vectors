@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="circle-flask--science-experiment-lab-flask-chemistry-solution"><path id="Vector" fill="#37d7ff" d="M8.494 4.767V.523H5.506v4.244a4.483 4.483 0 1 0 2.988 0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.494 4.767V.523H5.506v4.244a4.483 4.483 0 1 0 2.988 0Z"></path><path id="Vector 11" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 .523h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Circle-Flask--Streamline-Core">
+  <desc>
+    Circle Flask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="circle-flask--science-experiment-lab-flask-chemistry-solution">
+    <path id="Vector" fill="#d7e0ff" d="M8.49444 4.76698V0.522766H5.50555V4.76698c-0.99711 0.35253 -1.83749 1.04621 -2.37262 1.95843 -0.53512 0.91223 -0.73053 1.98426 -0.55169 3.02662 0.17884 1.04237 0.72042 1.98797 1.52901 2.66967 0.8086 0.6816 1.83215 1.0555 2.88974 1.0555 1.0576 0 2.08115 -0.3739 2.88974 -1.0555 0.80857 -0.6817 1.35017 -1.6273 1.52907 -2.66967 0.1788 -1.04236 -0.0166 -2.11439 -0.5517 -3.02662 -0.5352 -0.91222 -1.37555 -1.6059 -2.37266 -1.95843Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.49444 4.76698V0.522766H5.50555V4.76698c-0.99711 0.35253 -1.83749 1.04621 -2.37262 1.95843 -0.53512 0.91223 -0.73053 1.98426 -0.55169 3.02662 0.17884 1.04237 0.72042 1.98797 1.52901 2.66967 0.8086 0.6816 1.83215 1.0555 2.88974 1.0555 1.0576 0 2.08115 -0.3739 2.88974 -1.0555 0.80857 -0.6817 1.35017 -1.6273 1.52907 -2.66967 0.1788 -1.04236 -0.0166 -2.11439 -0.5517 -3.02662 -0.5352 -0.91222 -1.37555 -1.6059 -2.37266 -1.95843Z" stroke-width="1"></path>
+    <path id="Vector 11" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 0.522766h6" stroke-width="1"></path>
+  </g>
+</svg>

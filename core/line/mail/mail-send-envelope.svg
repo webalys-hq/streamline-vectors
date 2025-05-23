@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-send-envelope--envelope-email-message-unopened-sealed-close"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 1.75h-11a1 1 0 0 0-1 1v8.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8.5a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5 3 5.86 3.524c.18.106.406.163.64.163.234 0 .46-.057.64-.163L13.5 3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Envelope--Streamline-Core">
+  <desc>
+    Mail Send Envelope Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-send-envelope--envelope-email-message-unopened-sealed-close">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 1.75h-11c-0.552285 0 -1 0.44772 -1 1v8.5c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-8.5c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 3 5.86 3.52424c0.17969 0.10549 0.40615 0.16326 0.64 0.16326s0.46031 -0.05777 0.64 -0.16326L13.5 3" stroke-width="1"></path>
+  </g>
+</svg>

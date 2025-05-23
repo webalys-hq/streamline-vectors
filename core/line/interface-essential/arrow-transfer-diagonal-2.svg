@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-transfer-diagonal-2--arrows-arrow-server-data-diagonal-internet-transfer-network"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 10.5 3.5.5H8"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5 3.5 10 10H6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Transfer-Diagonal-2--Streamline-Core">
+  <desc>
+    Arrow Transfer Diagonal 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-transfer-diagonal-2--arrows-arrow-server-data-diagonal-internet-transfer-network">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 10.5 3.5 0.5H8" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 3.5 10 10H6" stroke-width="1"></path>
+  </g>
+</svg>

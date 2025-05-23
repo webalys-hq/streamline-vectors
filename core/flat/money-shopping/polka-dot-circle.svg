@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="polka-dot-circle--crypto-circle-payment-blockchain-finance-polka-dot-currency"><path id="Vector" fill="#37d7ff" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7 2.93c-1.51 0-2.716 1.26-2.716 2.82a.625.625 0 1 1-1.25 0c0-2.2 1.717-4.07 3.966-4.07 2.237 0 3.966 1.858 3.966 3.965 0 2.082-1.705 4.07-3.966 4.07-.536 0-1.082.31-1.337.894l-.138.691a.625.625 0 0 1-1.226-.245l.093-.466a.624.624 0 0 1 .032-.235c.011-.035.023-.07.036-.104l.883-4.414a.625.625 0 0 1 1.226.245l-.511 2.557c.301-.114.621-.173.942-.173 1.497 0 2.716-1.353 2.716-2.82C9.716 4.203 8.52 2.929 7 2.929Zm.943 8.998a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Polka-Dot-Circle--Streamline-Core">
+  <desc>
+    Polka Dot Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="polka-dot-circle--crypto-circle-payment-blockchain-finance-polka-dot-currency">
+    <path id="Vector" fill="#8fbffa" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7 2.93c-1.51 0 -2.716 1.26 -2.716 2.82a0.625 0.625 0 1 1 -1.25 0c0 -2.2 1.717 -4.07 3.966 -4.07 2.237 0 3.966 1.858 3.966 3.965 0 2.082 -1.705 4.07 -3.966 4.07 -0.536 0 -1.082 0.31 -1.337 0.894l-0.138 0.691a0.625 0.625 0 0 1 -1.226 -0.245l0.093 -0.466a0.624 0.624 0 0 1 0.032 -0.235c0.011 -0.035 0.023 -0.07 0.036 -0.104l0.883 -4.414a0.625 0.625 0 0 1 1.226 0.245l-0.511 2.557c0.301 -0.114 0.621 -0.173 0.942 -0.173 1.497 0 2.716 -1.353 2.716 -2.82C9.716 4.203 8.52 2.929 7 2.929Zm0.943 8.998a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

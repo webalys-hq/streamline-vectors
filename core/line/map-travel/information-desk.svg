@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="information-desk"><path id="Vector 636" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.901 4.317v1.364"></path><g id="Group 9"><path id="Ellipse 229" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.9 2.662a.124.124 0 0 1-.124-.125c0-.07.056-.125.124-.125"></path><path id="Ellipse 230" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.902 2.662a.125.125 0 0 0 .124-.125.124.124 0 0 0-.124-.125"></path></g><path id="Vector 637" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.857 12.864h12.007"></path><path id="Ellipse 227" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.989 6.829a1.939 1.939 0 1 0 3.878 0 1.939 1.939 0 1 0-3.878 0"></path><path id="Ellipse 228" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.855 12.865v-1.024a3.072 3.072 0 1 1 6.145 0v1.024"></path><path id="Ellipse 50" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.394 6.716A3.554 3.554 0 1 0 6.33 4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Information-Desk--Streamline-Core">
+  <desc>
+    Information Desk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="information-desk">
+    <path id="Vector 636" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.90126 4.31726 -0.00001 1.36379" stroke-width="1"></path>
+    <g id="Group 9">
+      <path id="Ellipse 229" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.90016 2.66187c-0.06844 0 -0.12391 -0.05597 -0.12391 -0.125 0 -0.06904 0.05547 -0.125 0.12391 -0.125" stroke-width="1"></path>
+      <path id="Ellipse 230" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.90234 2.66187c0.06844 0 0.12396 -0.05597 0.12396 -0.125 0 -0.06904 -0.05552 -0.125 -0.12396 -0.125" stroke-width="1"></path>
+    </g>
+    <path id="Vector 637" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.856689 12.8635H12.8641" stroke-width="1"></path>
+    <path id="Ellipse 227" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.989 6.829a1.939 1.939 0 1 0 3.878 0 1.939 1.939 0 1 0 -3.878 0" stroke-width="1"></path>
+    <path id="Ellipse 228" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.855469 12.8651V11.841c0 -1.6968 1.375511 -3.07232 3.072301 -3.07232 1.69678 0 3.07229 1.37552 3.07229 3.07232v1.0241" stroke-width="1"></path>
+    <path id="Ellipse 50" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.3935 6.71593c0.64091 0.62786 1.51859 1.01497 2.48667 1.01497 1.96263 0 3.55373 -1.59104 3.55373 -3.55368 0 -1.96265 -1.5911 -3.553685 -3.55373 -3.553685C7.97695 0.623535 6.42316 2.11969 6.33081 4" stroke-width="1"></path>
+  </g>
+</svg>

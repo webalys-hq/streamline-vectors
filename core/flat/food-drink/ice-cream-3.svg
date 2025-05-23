@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ice-cream-3--cook-frozen-cone-cream-ice-cooking-nutrition-freezer-cold-food"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.644 5.972a.5.5 0 0 0-.46.696l2.845 6.69a1.04 1.04 0 0 0 1.921 0l2.866-6.689a.5.5 0 0 0-.46-.697H3.644Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M7 0a2.476 2.476 0 0 1 2.475 2.405A2.476 2.476 0 1 1 7 6.226a2.476 2.476 0 1 1-2.475-3.82A2.476 2.476 0 0 1 7 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ice-Cream-3--Streamline-Core">
+  <desc>
+    Ice Cream 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ice-cream-3--cook-frozen-cone-cream-ice-cooking-nutrition-freezer-cold-food">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M3.64384 5.9723c-0.16784 0 -0.32447 0.0842 -0.41705 0.22419 -0.09258 0.13998 -0.10875 0.31708 -0.04306 0.47152l2.84553 6.68949c0.07822 0.1895 0.21076 0.3517 0.38097 0.4661 0.17141 0.1152 0.37325 0.1767 0.57977 0.1767 0.20652 0 0.40837 -0.0615 0.57978 -0.1767 0.17001 -0.1143 0.30243 -0.2762 0.38069 -0.4654l2.86533 -6.68903c0.0661 -0.15448 0.0503 -0.33186 -0.0423 -0.47216 -0.0925 -0.14029 -0.2493 -0.22471 -0.4174 -0.22471H3.64384Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M7.00001 -0.000289917c1.34385 0 2.43761 1.070809917 2.47457 2.405739917 1.16742 0.19921 2.05612 1.21591 2.05612 2.44016 0 1.36721 -1.1083 2.47554 -2.4755 2.47554 -0.85606 0 -1.61064 -0.43453 -2.0552 -1.09507 -0.44455 0.66054 -1.19912 1.09507 -2.05519 1.09507 -1.36721 0 -2.47554 -1.10833 -2.47554 -2.47554 0 -1.22425 0.88869 -2.24095 2.05616 -2.44016 0.03696 -1.33493 1.13072 -2.405739917 2.47458 -2.405739917Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

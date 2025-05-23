@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-search--inbox-envelope-email-message-search"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 9.5H1.5a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v4"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 1.76 6.5 6l6-4.24"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.5-1.73-1.73"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Search--Streamline-Core">
+  <desc>
+    Mail Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-search--inbox-envelope-email-message-search">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 9.5H1.5c-0.26522 0 -0.51957 -0.10536 -0.707107 -0.29289C0.605357 9.01957 0.5 8.76522 0.5 8.5v-7c0 -0.26522 0.105357 -0.51957 0.292893 -0.707107C0.98043 0.605357 1.23478 0.5 1.5 0.5h10c0.2652 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107v4" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 1.76001 6 4.24 6 -4.24" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 12.5c1.3807 0 2.5 -1.1193 2.5 -2.5 0 -1.38071 -1.1193 -2.5 -2.5 -2.5 -1.38071 0 -2.5 1.11929 -2.5 2.5 0 1.3807 1.11929 2.5 2.5 2.5Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.5 -1.73 -1.73" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="woman-symbol--geometric-gender-female-person-human-user"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9A4.25 4.25 0 1 0 7 .5 4.25 4.25 0 0 0 7 9Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9v4.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 11.5h4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Woman-Symbol--Streamline-Core">
+  <desc>
+    Woman Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="woman-symbol--geometric-gender-female-person-human-user">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9c2.34721 0 4.25 -1.90279 4.25 -4.25S9.34721 0.5 7 0.5 2.75 2.40279 2.75 4.75 4.65279 9 7 9Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9v4.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 11.5h4" stroke-width="1"></path>
+  </g>
+</svg>

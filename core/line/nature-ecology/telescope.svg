@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="telescope--science-experiment-star-gazing-sky-night-space-universe-astronomy-astronomy"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.34 4.814.72 6.134"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m1.6 8.546 3.619-1.319"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.12 4.211 1.318 3.62L13.5 5.575 11.741.75 4.12 4.211Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.497 13.25 2.5-6.135 2.5 6.135"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5 5.53 1.319 3.62"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Telescope--Streamline-Core">
+  <desc>
+    Telescope Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="telescope--science-experiment-star-gazing-sky-night-space-universe-astronomy-astronomy">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.33915 4.81421 -3.619301 1.319" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.59924 8.5463 3.61931 -1.31901" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.11938 4.21106 1.31901 3.6193L13.5 5.57574 11.7414 0.75 4.11938 4.21106Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.49707 13.2499 2.5 -6.13515 2.50003 6.13515" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 5.53003 1.319 3.6193" stroke-width="1"></path>
+  </g>
+</svg>

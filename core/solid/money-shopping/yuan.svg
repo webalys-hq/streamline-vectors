@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="yuan--exchange-payment-forex-finance-yuan-foreign-currency"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.8.4a1 1 0 1 0-1.6 1.2l3.917 5.222v.021H3.915a1 1 0 1 0 0 2h2.202v1.245H3.915a1 1 0 1 0 0 2h2.202v.805a1 1 0 1 0 2 0v-.805h2.202a1 1 0 1 0 0-2H8.117V8.843h2.202a1 1 0 1 0 0-2H8.117v-.02L12.033 1.6a1 1 0 1 0-1.6-1.2L7.117 4.822 3.8.4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Yuan--Streamline-Core">
+  <desc>
+    Yuan Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="yuan--exchange-payment-forex-finance-yuan-foreign-currency">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M3.80006 0.400059c-0.33137 -0.4418279 -0.95817 -0.531371 -1.4 -0.2 -0.44183 0.331371 -0.53137 0.958171 -0.2 1.400001l3.9167 5.22226v0.02082H3.91491c-0.55228 0 -1 0.44771 -1 1 0 0.55228 0.44772 1 1 1h2.20185v1.24536H3.91491c-0.55228 0 -1 0.4477 -1 1s0.44772 1 1 1h2.20185v0.8041c0 0.5523 0.44771 1 1 1 0.55228 0 1 -0.4477 1 -1v-0.8041h2.20184c0.5523 0 1 -0.4477 1 -1s-0.4477 -1 -1 -1H8.11676V8.84314h2.20184c0.5523 0 1 -0.44772 1 -1 0 -0.55229 -0.4477 -1 -1 -1H8.11676v-0.02087l3.91664 -5.22221c0.3314 -0.44183 0.2418 -1.06863 -0.2 -1.400001 -0.4418 -0.331371 -1.0686 -0.2418279 -1.4 0.2L7.11674 4.8223 3.80006 0.400059Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

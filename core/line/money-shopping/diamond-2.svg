@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="diamond-2--diamond-money-payment-finance-wealth-jewelry"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.638 1.54H3.362a1.07 1.07 0 0 0-.85.46L.692 4.52a1.05 1.05 0 0 0 .06 1.29L6.21 12.1a.999.999 0 0 0 1.58 0l5.457-6.29a1.05 1.05 0 0 0 .06-1.29L11.488 2a1.07 1.07 0 0 0-.85-.46v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.48 1.53 4.04 5.31 7 12.46"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.55 1.53 2.43 3.78L7 12.46"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.52 5.31h12.96"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Diamond-2--Streamline-Core">
+  <desc>
+    Diamond 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="diamond-2--diamond-money-payment-finance-wealth-jewelry">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.6384 1.54004H3.36162c-0.16776 0.00461 -0.33208 0.04865 -0.47968 0.12856 -0.1476 0.07991 -0.27432 0.19345 -0.36994 0.33144l-1.819186 2.52c-0.135083 0.19097 -0.202545 0.42161 -0.19168 0.65531 0.010865 0.23371 0.099435 0.45708 0.251653 0.63469L6.21035 12.1c0.09344 0.1205 0.21316 0.218 0.35002 0.285 0.13686 0.0671 0.28724 0.1019 0.43963 0.1019 0.15239 0 0.30277 -0.0348 0.43963 -0.1019 0.13686 -0.067 0.25658 -0.1645 0.35002 -0.285l5.45755 -6.28996c0.1522 -0.17761 0.2408 -0.40098 0.2517 -0.63469 0.0108 -0.2337 -0.0566 -0.46434 -0.1917 -0.65531l-1.8192 -2.52c-0.0956 -0.13799 -0.2223 -0.25153 -0.3699 -0.33144 -0.1476 -0.07991 -0.312 -0.12395 -0.4797 -0.12856v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.48004 1.53003 -2.44 3.78 2.96 7.14997" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.55 1.53003 2.43 3.78L7 12.46" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.52002 5.31006H13.48" stroke-width="1"></path>
+  </g>
+</svg>

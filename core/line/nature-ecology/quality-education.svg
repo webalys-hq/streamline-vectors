@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="quality-education"><path id="Vector 367" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 6.546c-.748-.553-1.869-1.52-5.083-1.52v6.924c3.214 0 4.335.967 5.083 1.52V6.546Z"></path><path id="Vector 368" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 6.546c.748-.553 1.869-1.52 5.083-1.52v6.924c-3.214 0-4.335.967-5.083 1.52V6.546Z"></path><path id="Vector 1242" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.763.521H4.086a1 1 0 0 0-.528.15L1.801 1.765l1.757 1.092a1 1 0 0 0 .528.15h6.677a1.243 1.243 0 1 0 0-2.485Z"></path><path id="Vector 1243" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.986.575v2.432"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Quality-Education--Streamline-Core">
+  <desc>
+    Quality Education Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="quality-education">
+    <path id="Vector 367" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.99985 6.54628c-0.74737 -0.55297 -1.86876 -1.52065 -5.08286 -1.52065v6.92407c3.2141 0 4.33549 0.9677 5.08286 1.5207V6.54628Z" stroke-width="1"></path>
+    <path id="Vector 368" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00027 6.54628c0.74737 -0.55297 1.86876 -1.52065 5.08283 -1.52065v6.92407c-3.21407 0 -4.33546 0.9677 -5.08283 1.5207V6.54628Z" stroke-width="1"></path>
+    <path id="Vector 1242" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.7631 0.52124H4.08617c-0.18653 0 -0.36935 0.052176 -0.52779 0.15063l-1.7576 1.09217 1.7576 1.09216c0.15844 0.09846 0.34126 0.15063 0.52779 0.15063h6.67693c0.6864 0 1.2428 -0.55641 1.2428 -1.24279 0 -0.68638 -0.5564 -1.2428 -1.2428 -1.2428Z" stroke-width="1"></path>
+    <path id="Vector 1243" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.98584 0.574707V3.00687" stroke-width="1"></path>
+  </g>
+</svg>

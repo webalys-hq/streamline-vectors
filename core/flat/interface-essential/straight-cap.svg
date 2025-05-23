@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="straight-cap"><path id="Subtract" fill="#37d7ff" d="M2.5 3.5A1.5 1.5 0 0 1 4 2h10v10H4a1.5 1.5 0 0 1-1.5-1.5v-7Z"></path><path id="Subtract_2" fill="#3e3e3e" fill-rule="evenodd" d="M14 6.25H4.348a2 2 0 1 0 0 1.5H14v-1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Straight-Cap--Streamline-Core">
+  <desc>
+    Straight Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="straight-cap">
+    <path id="Subtract" fill="#8fbffa" d="M2.5 3.5C2.5 2.67157 3.17157 2 4 2h10v10H4c-0.82843 0 -1.5 -0.6716 -1.5 -1.5v-7Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M14 6.24992H4.34819C4.05148 5.517 3.33292 5 2.49361 5 1.38904 5 0.493607 5.89543 0.493607 7S1.38904 9 2.49361 9c0.83937 0 1.55798 -0.51708 1.85465 -1.25008H14v-1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

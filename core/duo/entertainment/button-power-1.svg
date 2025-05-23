@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-power-1--power-button-on-off"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5v5.456"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.968 1.969a6.448 6.448 0 1 1-7.936 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Power-1--Streamline-Core">
+  <desc>
+    Button Power 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-power-1--power-button-on-off">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5v5.45623" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.9681 1.96899c1.0584 0.82629 1.8324 1.96235 2.2141 3.24967 0.3817 1.28732 0.352 2.66168 -0.0849 3.93132 -0.4369 1.26962 -1.2593 2.37122 -2.3523 3.15102 -1.09309 0.7798 -2.40232 1.199 -3.74503 1.199 -1.34271 0 -2.65194 -0.4192 -3.74499 -1.199 -1.09306 -0.7798 -1.91542 -1.8814 -2.35234 -3.15102 -0.436922 -1.26964 -0.466609 -2.644 -0.084919 -3.93132C1.19941 3.93134 1.97344 2.79528 3.0318 1.96899" stroke-width="1"></path>
+  </g>
+</svg>

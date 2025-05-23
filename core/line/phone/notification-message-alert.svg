@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 2.5V4"></path><g id="Group 623"><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25a.25.25 0 0 1 0-.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25a.25.25 0 0 0 0-.5"></path></g><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5.5a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58L5 8l2.14-.27A4 4 0 1 0 9.5.5v0Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 .5H1.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-2"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 11h1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Message-Alert--Streamline-Core">
+  <desc>
+    Notification Message Alert Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 2.5V4" stroke-width="1"></path>
+    <g id="Group 623">
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 6.25c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 0.5C8.43913 0.5 7.42172 0.921427 6.67157 1.67157 5.92143 2.42172 5.5 3.43913 5.5 4.5c0.00288 0.54247 0.11158 1.07916 0.32 1.58L5 8l2.14 -0.27c0.51006 0.37259 1.10111 0.61909 1.72476 0.71932 0.62365 0.10023 1.26214 0.05134 1.86334 -0.14267 0.6011 -0.19401 1.1477 -0.52763 1.5951 -0.97353 0.4474 -0.44591 0.7828 -0.99143 0.9788 -1.5919 0.196 -0.60048 0.247 -1.23883 0.1489 -1.86281 -0.0982 -0.62398 -0.3427 -1.21585 -0.7136 -1.72714 -0.3709 -0.5113 -0.8576 -0.92749 -1.4203 -1.214501C10.7543 0.649758 10.1317 0.500084 9.5 0.5v0Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 0.5H1.5c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1h7c0.55228 0 1 -0.4477 1 -1v-2" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 11h1" stroke-width="1"></path>
+  </g>
+</svg>

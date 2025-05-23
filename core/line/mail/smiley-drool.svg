@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="smiley-drool"><path id="Vector 576" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 9.95v1.8a1.25 1.25 0 0 1-2.5 0V11c.481-.481 1.537-1.05 2.5-1.05Z"></path><path id="Ellipse 650" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7.5A3.5 3.5 0 0 0 7 11v.75a1.25 1.25 0 1 0 2.5 0v-1.8c.619-.632 1-1.496 1-2.45h-7Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.124 11A6.5 6.5 0 1 0 5 13.187"></path><path id="Vector 557" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.797 5.377c.092-.179.38-.497.713-.69.333-.192.753-.282.954-.272"></path><path id="Vector 559" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.536 4.413c.201-.01.62.08.954.273.333.192.621.51.713.69"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Smiley-Drool--Streamline-Core">
+  <desc>
+    Smiley Drool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="smiley-drool">
+    <path id="Vector 576" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 9.94995V11.75c0 0.6903 -0.55964 1.25 -1.25 1.25S7 12.4403 7 11.75V11c0.48125 -0.4813 1.5375 -1.05005 2.5 -1.05005Z" stroke-width="1"></path>
+    <path id="Ellipse 650" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7.5C3.5 9.433 5.067 11 7 11v0.75c0 0.6904 0.55964 1.25 1.25 1.25s1.25 -0.5596 1.25 -1.25V9.94949c0.6186 -0.63127 1 -1.49584 1 -2.44949h-7Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.1238 11C12.9861 9.89703 13.5 8.50853 13.5 7 13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 2.89204 1.88874 5.3429 4.5 6.1865" stroke-width="1"></path>
+    <path id="Vector 557" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.79675 5.37705c0.09199 -0.17905 0.37982 -0.49714 0.71324 -0.68964s0.7528 -0.28273 0.95386 -0.27286" stroke-width="1"></path>
+    <path id="Vector 559" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.53613 4.41308c0.20106 -0.00986 0.62045 0.08036 0.95386 0.27286 0.33342 0.1925 0.62121 0.51059 0.71321 0.68964" stroke-width="1"></path>
+  </g>
+</svg>

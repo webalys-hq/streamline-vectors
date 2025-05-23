@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pyramid-Shape--Streamline-Core">
+  <desc>
+    Pyramid Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pyramid">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M13.195 10.9a1 1 0 0 0 0.42 -1.467L7.816 0.75a1 1 0 0 0 -1.663 0l-5.8 8.68a1 1 0 0 0 0.42 1.466l5.594 2.532a1.5 1.5 0 0 0 1.236 0l5.592 -2.529Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M13.195 10.9a1 1 0 0 0 0.42 -1.467L7.816 0.75A0.992 0.992 0 0 0 7 0.306v13.255a1.5 1.5 0 0 0 0.603 -0.133l5.592 -2.529Z" stroke-width="1"></path>
+  </g>
+</svg>

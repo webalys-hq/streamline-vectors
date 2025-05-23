@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="delete-keyboard"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.316 10.463a2 2 0 0 0 1.523.703h6.182a2 2 0 0 0 2-2V4.834a2 2 0 0 0-2-2H4.839a2 2 0 0 0-1.523.703L1.471 5.703a2 2 0 0 0 0 2.594l1.845 2.166Zm2.165-5.718a.625.625 0 0 1 .884 0l1.35 1.35 1.349-1.35a.625.625 0 1 1 .884.884l-1.35 1.35 1.35 1.35a.625.625 0 1 1-.884.884l-1.35-1.35-1.35 1.35a.625.625 0 0 1-.883-.884l1.35-1.35-1.35-1.35a.625.625 0 0 1 0-.884Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Delete-Keyboard--Streamline-Core">
+  <desc>
+    Delete Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="delete-keyboard">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M3.316 10.463a2 2 0 0 0 1.523 0.703h6.182a2 2 0 0 0 2 -2V4.834a2 2 0 0 0 -2 -2H4.839a2 2 0 0 0 -1.523 0.703L1.471 5.703a2 2 0 0 0 0 2.594l1.845 2.166Zm2.165 -5.718a0.625 0.625 0 0 1 0.884 0l1.35 1.35 1.349 -1.35a0.625 0.625 0 1 1 0.884 0.884l-1.35 1.35 1.35 1.35a0.625 0.625 0 1 1 -0.884 0.884l-1.35 -1.35 -1.35 1.35a0.625 0.625 0 0 1 -0.883 -0.884l1.35 -1.35 -1.35 -1.35a0.625 0.625 0 0 1 0 -0.884Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="volcano--nature-eruption-erupt-mountain-volcano-lava-magma-explosion"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.45 13.45s-3.97-1.984-3.97-4.96H4.52c0 2.977-3.97 4.961-3.97 4.961"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.473 5.512a1.984 1.984 0 1 0-1.23-3.542 2.48 2.48 0 0 0-4.485 0 1.984 1.984 0 1 0-1.23 3.542"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.512 4.52v3.969"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.488 4.52v3.969"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volcano--Streamline-Core">
+  <desc>
+    Volcano Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="volcano--nature-eruption-erupt-mountain-volcano-lava-magma-explosion">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.4494 13.4501s-3.9689 -1.9844 -3.9689 -4.96109H4.51941c0 2.97669 -3.968873 4.96109 -3.968873 4.96109" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4728 5.5123c0.5263 0 1.0311 -0.20907 1.4032 -0.58123 0.3722 -0.37215 0.5812 -0.8769 0.5812 -1.40321 0 -0.5263 -0.209 -1.03105 -0.5812 -1.4032 -0.3721 -0.37216 -0.8769 -0.58123 -1.4032 -0.58123 -0.4464 -0.00023 -0.87989 0.15009 -1.23034 0.42665 -0.20089 -0.42478 -0.51831 -0.78377 -0.9153 -1.035167C7.93017 0.683516 7.46994 0.550049 7.00005 0.550049c-0.4699 0 -0.93013 0.133467 -1.32711 0.384864 -0.39699 0.251397 -0.71441 0.610387 -0.91531 1.035167 -0.35045 -0.27656 -0.78391 -0.42688 -1.23035 -0.42665 -0.5263 0 -1.03105 0.20907 -1.40321 0.58123 -0.37215 0.37215 -0.58122 0.8769 -0.58122 1.4032 0 0.52631 0.20907 1.03106 0.58122 1.40321 0.37216 0.37216 0.87691 0.58123 1.40321 0.58123" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.51172 4.52002v3.96887" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.48828 4.52002v3.96887" stroke-width="1"></path>
+  </g>
+</svg>

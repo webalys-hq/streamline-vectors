@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="definition-search-book"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.5-1.73-1.73"></path><path id="vector 2652" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 2v0A1.5 1.5 0 0 0 5.5.5h-5v10h5"></path><path id="vector 2656" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 2v4.5"></path><path id="vector 2653" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 2v0A1.5 1.5 0 0 1 8.5.5h5v7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Definition-Search-Book--Streamline-Core">
+  <desc>
+    Definition Search Book Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="definition-search-book">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 12.5002c1.3807 0 2.5 -1.1192 2.5 -2.5 0 -1.38067 -1.1193 -2.49996 -2.5 -2.49996 -1.38071 0 -2.5 1.11929 -2.5 2.49996 0 1.3808 1.11929 2.5 2.5 2.5Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.4995 13.4998 -1.73 -1.73" stroke-width="1"></path>
+    <path id="vector 2652" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 2.00024v0C7 1.17182 6.32843 0.500244 5.5 0.500244h-5V10.5002h5" stroke-width="1"></path>
+    <path id="vector 2656" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 2.00024v4.5" stroke-width="1"></path>
+    <path id="vector 2653" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 2v0C7 1.17157 7.67157 0.5 8.5 0.5h5v7.00024" stroke-width="1"></path>
+  </g>
+</svg>

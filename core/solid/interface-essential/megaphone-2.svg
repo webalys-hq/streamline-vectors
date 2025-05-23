@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="megaphone-2--bullhorn-loud-megaphone-share-speaker-transmit"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.25 3.5 11.956.795A1.5 1.5 0 0 1 14 2.193v8.226a1.5 1.5 0 0 1-1.974 1.423L5.25 9.5v-6ZM3 3.5h1v7a1 1 0 0 0 1 1h.5a1 1 0 1 1 0 2H5a3 3 0 0 1-3-3V9.33A3.001 3.001 0 0 1 3 3.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Megaphone-2--Streamline-Core">
+  <desc>
+    Megaphone 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="megaphone-2--bullhorn-loud-megaphone-share-speaker-transmit">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5.25 3.49994 11.9563 0.794702C12.9396 0.412306 14 1.13767 14 2.19271v8.22609c0 1.0238 -1.003 1.7468 -1.9743 1.423L5.25 9.49994v-6ZM3 3.5h1v7c0 0.5523 0.44772 1 1 1h0.5c0.55228 0 1 0.4477 1 1s-0.44772 1 -1 1H5c-1.65685 0 -3 -1.3431 -3 -3V9.32929C0.834808 8.91746 0 7.80622 0 6.5c0 -1.65685 1.34315 -3 3 -3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="subscription-cashflow"><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.351 5.307a1.166 1.166 0 0 0-1.1-.778h-.903a1.041 1.041 0 0 0-.223 2.059l1.375.3a1.167 1.167 0 0 1-.25 2.308h-.777c-.508 0-.94-.325-1.1-.778"></path><path id="Vector 2489" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.862 4.529V3.362"></path><path id="Vector 2490" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.862 10.362V9.196"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.998 13.498v-2.5h2.5"></path><path id="Ellipse 1132" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.388 5.804a6.5 6.5 0 0 1-11.39 5.35"></path><path id="Ellipse 1133" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.612 8.196a6.5 6.5 0 0 1 11.39-5.35"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.002.502v2.5h-2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Subscription-Cashflow--Streamline-Core">
+  <desc>
+    Subscription Cashflow Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="subscription-cashflow">
+    <path id="Vector 3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.351 5.307a1.166 1.166 0 0 0 -1.1 -0.778h-0.903a1.041 1.041 0 0 0 -0.223 2.059l1.375 0.3a1.167 1.167 0 0 1 -0.25 2.308h-0.777c-0.508 0 -0.94 -0.325 -1.1 -0.778" stroke-width="1"></path>
+    <path id="Vector 2489" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.862 4.529V3.362" stroke-width="1"></path>
+    <path id="Vector 2490" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.862 10.362V9.196" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.998 13.498v-2.5h2.5" stroke-width="1"></path>
+    <path id="Ellipse 1132" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.388 5.804a6.5 6.5 0 0 1 -11.39 5.35" stroke-width="1"></path>
+    <path id="Ellipse 1133" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.612 8.196a6.5 6.5 0 0 1 11.39 -5.35" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.002 0.502v2.5h-2.5" stroke-width="1"></path>
+  </g>
+</svg>

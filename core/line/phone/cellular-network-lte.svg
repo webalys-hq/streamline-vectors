@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cellular-network-lte"><path id="Vector 14" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.03 8.027v5.223M4.287 8.027H7.77"></path><path id="Vector 15" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.758 8.027H9.276v5.223h3.482m-3.482-2.83h3.047"></path><path id="Vector 13" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.242 8.027v5.223h3.047"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.527 4.846c-.773-.547-1.632-.853-2.511-.892-.877.042-1.734.348-2.505.895"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.098 2.828A7.912 7.912 0 0 1 7.003.953a7.9 7.9 0 0 1 4.9 1.875"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cellular-Network-Lte--Streamline-Core">
+  <desc>
+    Cellular Network Lte Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cellular-network-lte">
+    <path id="Vector 14" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.02946 8.02686 0 5.22314M4.28841 8.02686h3.4821" stroke-width="1"></path>
+    <path id="Vector 15" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12.7585 8.02686 -3.48213 0V13.25h3.48213m-3.48213 -2.8292h3.04683" stroke-width="1"></path>
+    <path id="Vector 13" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.2417 8.02686V13.25h3.04684" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.52702 4.84554c-0.77262 -0.54684 -1.63237 -0.85213 -2.51126 -0.8917 -0.87673 0.04207 -1.734 0.34855 -2.50429 0.89528" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.0979 2.82837c0.42124 -0.35736 0.88015 -0.67082 1.3699 -0.93431C4.55662 1.30828 5.76755 0.98581 7.00349 0.952512c1.23723 0.033739 2.44922 0.357708 3.53831 0.945798 0.4863 0.26263 0.9421 0.57465 1.3605 0.93006" stroke-width="1"></path>
+  </g>
+</svg>

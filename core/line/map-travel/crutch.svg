@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="crutch--disability-crutch"><path id="Vector 662" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.147 6.832h3.991"></path><path id="Vector 663" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.034 6.832V9.68a1.11 1.11 0 0 0 1.11 1.109v0c.612 0 1.108-.497 1.108-1.11V6.833"></path><path id="Vector 664" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.13 10.792v2.138"></path><path id="Vector 665" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.477 12.946h1.33"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.553 4.65a1.886 1.886 0 1 0 0-3.771 1.886 1.886 0 0 0 0 3.772Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.667 5.243a3.3 3.3 0 0 1 5.186 2.709v1.414H10.44l-.472 3.772h-2.83l-.393-3.146"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crutch--Streamline-Core">
+  <desc>
+    Crutch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="crutch--disability-crutch">
+    <path id="Vector 662" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.14661 6.83215h3.99185" stroke-width="1"></path>
+    <path id="Vector 663" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.03442 6.83215v2.84771c0 0.61244 0.49645 1.10884 1.10885 1.10884v0c0.6124 0 1.10885 -0.4964 1.10885 -1.10884V6.83215" stroke-width="1"></path>
+    <path id="Vector 664" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.12988 10.7921v2.1382" stroke-width="1"></path>
+    <path id="Vector 665" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.47668 12.9464H4.8073" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.55272 4.65086c1.04167 0 1.88608 -0.84444 1.88608 -1.8861 0 -1.04166 -0.84441 -1.886098 -1.88608 -1.886098 -1.04166 0 -1.88609 0.844438 -1.88609 1.886098s0.84443 1.8861 1.88609 1.8861Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.66663 5.24283c0.54967 -0.38273 1.2071 -0.59195 1.8861 -0.59195 0.87539 0 1.71497 0.34775 2.33397 0.96674 0.6189 0.619 0.9667 1.45854 0.9667 2.33393v1.41458h-1.4146l-0.4715 3.77217H7.13815l-0.39327 -3.14612" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="netflix"><path id="Vector 551" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.504.791H2.512l5.236 11.53 3.74.888L5.504.79Z"></path><path id="Vector 552" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.512.791v12.418l2.618-.887V6.547"></path><path id="Vector 553" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.489 13.209V.79H8.871v6.982"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Netflix--Streamline-Core">
+  <desc>
+    Netflix Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="netflix">
+    <path id="Vector 551" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.50364 0.791016H2.51172L7.74758 12.3216l3.73992 0.8869L5.50364 0.791016Z" stroke-width="1"></path>
+    <path id="Vector 552" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.51172 0.791016V13.2085l2.61793 -0.8869V6.54669" stroke-width="1"></path>
+    <path id="Vector 553" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.489 13.2085V0.791016l-2.61791 0V7.77291" stroke-width="1"></path>
+  </g>
+</svg>

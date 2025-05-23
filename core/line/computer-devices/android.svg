@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="android--android-code-apps-bugdroid-programming"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 13.5v-8a4 4 0 0 1 8 0v8"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 11h8"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10V8a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v2"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 .5 9.28 2.22"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3 .5 1.72 1.72"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Android--Streamline-Core">
+  <desc>
+    Android Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="android--android-code-apps-bugdroid-programming">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 13.5v-8c0 -1.06087 0.42143 -2.07828 1.17157 -2.82843C4.92172 1.92143 5.93913 1.5 7 1.5s2.07828 0.42143 2.82843 1.17157C10.5786 3.42172 11 4.43913 11 5.5v8" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 11h8" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10V8c0 -0.53043 0.210714 -1.03914 0.58579 -1.41421C1.46086 6.21071 1.96957 6 2.5 6h9c0.5304 0 1.0391 0.21071 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v2" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 0.5 9.28 2.22" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3 0.5 1.72 1.72" stroke-width="1"></path>
+  </g>
+</svg>

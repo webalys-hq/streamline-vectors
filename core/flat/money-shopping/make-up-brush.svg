@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="make-up-brush--fashion-beauty-make-up-brush"><path id="Rectangle 1706" fill="#37d7ff" d="m5.456 4.944 3.77 3.77 3.9-1.82a1 1 0 0 0 .285-1.613L8.89.76a1 1 0 0 0-1.613.284l-1.82 3.9Z"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M9.476 1.346 8.135 3.124a.625.625 0 1 0 .998.753l1.236-1.638-.893-.893Zm2.512 2.512-1.62 1.026a.625.625 0 1 0 .668 1.056l1.858-1.176-.906-.906Z" clip-rule="evenodd"></path><path id="Rectangle 1705" fill="#3e3e3e" d="m5.457 4.94 3.77 3.77-4.336 4.317a2.666 2.666 0 1 1-3.762-3.78L5.457 4.94Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Make-Up-Brush--Streamline-Core">
+  <desc>
+    Make Up Brush Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="make-up-brush--fashion-beauty-make-up-brush">
+    <path id="Rectangle 1706" fill="#8fbffa" d="m5.45593 4.94412 3.77056 3.77055L13.1269 6.8945c0.6288 -0.29347 0.7749 -1.12258 0.2842 -1.61329L8.88939 0.759527C8.39869 0.26882 7.56957 0.41489 7.27611 1.04375L5.45593 4.94412Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M9.47648 1.34644 8.13497 3.12386c-0.20795 0.27551 -0.15317 0.66743 0.12234 0.87538 0.27551 0.20794 0.66743 0.15316 0.87537 -0.12235L10.369 2.23891l-0.89252 -0.89247ZM11.9882 3.8582l-1.6206 1.02533c-0.2917 0.18454 -0.37861 0.57062 -0.1941 0.86232 0.1846 0.2917 0.5707 0.37857 0.8624 0.19402l1.8583 -1.17569 -0.906 -0.90598Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Rectangle 1705" fill="#2859c5" d="m5.45699 4.94038 3.77055 3.77056L4.8912 13.0274c-1.0419 1.0372 -2.72669 1.0352 -3.76621 -0.0043 -1.0428943 -1.0429 -1.0409545 -2.7344 0.00433 -3.77486l4.32767 -4.30786Z" stroke-width="1"></path>
+  </g>
+</svg>

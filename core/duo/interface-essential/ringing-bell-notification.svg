@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ringing-bell-notification--notification-vibrate-ring-sound-alarm-alert-bell-noise"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 13.25h2"></path><path id="Vector_2" fill="#37d7ff" d="M11 5.75a4 4 0 1 0-8 0v3.5a1.5 1.5 0 0 1-1.5 1.5h11a1.5 1.5 0 0 1-1.5-1.5v-3.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 5.75a4 4 0 1 0-8 0v3.5a1.5 1.5 0 0 1-1.5 1.5h11a1.5 1.5 0 0 1-1.5-1.5v-3.5Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 5.62A6 6 0 0 1 3 .75"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.62A6 6 0 0 0 11 .75"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ringing-Bell-Notification--Streamline-Core">
+  <desc>
+    Ringing Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ringing-bell-notification--notification-vibrate-ring-sound-alarm-alert-bell-noise">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6 13.25h2" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M11 5.75c0 -1.06087 -0.4214 -2.07828 -1.17157 -2.82843C9.07828 2.17143 8.06087 1.75 7 1.75s-2.07828 0.42143 -2.82843 1.17157C3.42143 3.67172 3 4.68913 3 5.75v3.5c0 0.39782 -0.15804 0.7794 -0.43934 1.0607S1.89782 10.75 1.5 10.75h11c-0.3978 0 -0.7794 -0.158 -1.0607 -0.4393S11 9.64782 11 9.25v-3.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11 5.75c0 -1.06087 -0.4214 -2.07828 -1.17157 -2.82843C9.07828 2.17143 8.06087 1.75 7 1.75s-2.07828 0.42143 -2.82843 1.17157C3.42143 3.67172 3 4.68913 3 5.75v3.5c0 0.39782 -0.15804 0.7794 -0.43934 1.0607S1.89782 10.75 1.5 10.75h11c-0.3978 0 -0.7794 -0.158 -1.0607 -0.4393S11 9.64782 11 9.25v-3.5Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 5.62c0.000539 -0.95186 0.227534 -1.88993 0.66224 -2.73673C1.59694 2.03647 2.22687 1.30525 3 0.75" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.62c-0.0005 -0.95186 -0.2275 -1.88993 -0.6622 -2.73673S11.7731 1.30525 11 0.75" stroke-width="1"></path>
+  </g>
+</svg>

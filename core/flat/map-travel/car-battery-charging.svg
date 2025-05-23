@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="car-battery-charging"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 2a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H2a.5.5 0 0 1-.5-.5V2Zm7 0a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H9a.5.5 0 0 1-.5-.5V2Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" d="M1.5 3.5A1.5 1.5 0 0 0 0 5v7.5A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5V5a1.5 1.5 0 0 0-1.5-1.5h-11Z"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M7.849 5.741c.27.216.313.61.097.879l-1.02 1.276h1.449a.625.625 0 0 1 .52.972l-1.833 2.75a.625.625 0 0 1-1.04-.694l1.185-1.778H5.625a.625.625 0 0 1-.488-1.016L6.97 5.84a.625.625 0 0 1 .879-.098Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Car-Battery-Charging--Streamline-Core">
+  <desc>
+    Car Battery Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="car-battery-charging">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1.5 2c0 -0.27614 0.22386 -0.5 0.5 -0.5h3c0.27614 0 0.5 0.22386 0.5 0.5v2c0 0.27614 -0.22386 0.5 -0.5 0.5H2c-0.27614 0 -0.5 -0.22386 -0.5 -0.5V2Zm7 0c0 -0.27614 0.22386 -0.5 0.5 -0.5h3c0.2761 0 0.5 0.22386 0.5 0.5v2c0 0.27614 -0.2239 0.5 -0.5 0.5H9c-0.27614 0 -0.5 -0.22386 -0.5 -0.5V2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M1.5 3.5C0.671573 3.5 0 4.17157 0 5v7.5c0 0.8284 0.671573 1.5 1.5 1.5h11c0.8284 0 1.5 -0.6716 1.5 -1.5V5c0 -0.82843 -0.6716 -1.5 -1.5 -1.5h-11Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M7.84877 5.74114c0.26954 0.21563 0.31324 0.60894 0.09761 0.87847L6.9254 7.89585h1.44961c0.23049 0 0.44228 0.12686 0.55104 0.33008 0.10876 0.20323 0.09684 0.44982 -0.03101 0.6416L7.0617 11.6175c-0.19147 0.2872 -0.57951 0.3648 -0.86672 0.1734 -0.2872 -0.1915 -0.36481 -0.5795 -0.17334 -0.8667l1.18554 -1.77835H5.62501c-0.24026 0 -0.45924 -0.13772 -0.56332 -0.35426 -0.10407 -0.21654 -0.07481 -0.47357 0.07527 -0.66118L6.9703 5.83875c0.21563 -0.26954 0.60894 -0.31324 0.87847 -0.09761Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

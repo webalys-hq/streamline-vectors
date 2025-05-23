@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chat-bubble-text-square--messages-message-bubble-text-square-chat"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v8.919l-.974 2.923a.5.5 0 0 0 .595.643L4.561 13H12.5a1.5 1.5 0 0 0 1.5-1.5v-10A1.5 1.5 0 0 0 12.5 0h-10Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M4.5 4.22a.625.625 0 1 0 0 1.25h6a.625.625 0 1 0 0-1.25h-6Zm0 3.31a.625.625 0 1 0 0 1.25h4a.625.625 0 1 0 0-1.25h-4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Text-Square--Streamline-Core">
+  <desc>
+    Chat Bubble Text Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-text-square--messages-message-bubble-text-square-chat">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v8.919l-0.974 2.923a0.5 0.5 0 0 0 0.595 0.643L4.561 13H12.5a1.5 1.5 0 0 0 1.5 -1.5v-10A1.5 1.5 0 0 0 12.5 0h-10Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M4.5 4.22a0.625 0.625 0 1 0 0 1.25h6a0.625 0.625 0 1 0 0 -1.25h-6Zm0 3.31a0.625 0.625 0 1 0 0 1.25h4a0.625 0.625 0 1 0 0 -1.25h-4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

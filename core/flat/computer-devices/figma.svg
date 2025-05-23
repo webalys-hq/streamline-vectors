@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="figma"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2 2.25A2.25 2.25 0 0 1 4.25 0H7v4.5H4.25A2.25 2.25 0 0 1 2 2.25ZM12 7a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0ZM4.25 9.5a2.25 2.25 0 0 0 0 4.5h.25A2.5 2.5 0 0 0 7 11.5v-2H4.25Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M9.75 0a2.25 2.25 0 0 1 0 4.5H7V0h2.75ZM4.5 4.5a2.5 2.5 0 0 0 0 5H7v-5H4.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Figma--Streamline-Core">
+  <desc>
+    Figma Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="figma">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.99976 2.24991C1.99976 1.00732 3.00707 0 4.24966 0h2.74989v4.49982H4.24966c-1.24259 0 -2.2499 -1.00732 -2.2499 -2.24991Zm9.99984 4.74925c0 -1.38065 -1.1193 -2.4999 -2.49993 -2.4999 -1.38065 0 -2.4999 1.11925 -2.4999 2.4999 0 1.38066 1.11925 2.4999 2.4999 2.4999 1.38063 0 2.49993 -1.11924 2.49993 -2.4999ZM4.24966 9.50018c-1.24259 0 -2.2499 1.00732 -2.2499 2.24992S3.00707 14 4.24966 14h0.24999c1.38066 0 2.4999 -1.1192 2.4999 -2.4999V9.50018H4.24966Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M9.75034 0c1.24256 0 2.24986 1.00732 2.24986 2.24991 0 1.24259 -1.0073 2.24991 -2.24986 2.24991H7.00045V0h2.74989ZM4.49965 4.4996c-1.38065 0 -2.49989 1.11924 -2.49989 2.4999 0 1.38066 1.11924 2.4999 2.49989 2.4999h2.4999V4.4996h-2.4999Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

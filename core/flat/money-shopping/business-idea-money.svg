@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="business-idea-money"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.903 0A5 5 0 0 1 12 5.035 4.98 4.98 0 0 1 9.5 9.33v.936a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1V9.33A5 5 0 0 1 6.903 0ZM5 12.488a.75.75 0 1 0 0 1.5h4a.75.75 0 0 0 0-1.5H5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7 1.726c.345 0 .625.28.625.625v.384A1.607 1.607 0 0 1 8.843 3.78a.625.625 0 1 1-1.178.416.357.357 0 0 0-.337-.238h-.76a.252.252 0 0 0-.055.498l1.158.253a1.608 1.608 0 0 1-.046 3.15v.386a.625.625 0 1 1-1.25 0V7.86a1.61 1.61 0 0 1-1.218-1.044.625.625 0 0 1 1.178-.417c.05.14.183.238.338.238h.655a.358.358 0 0 0 .076-.707l-1.158-.253a1.502 1.502 0 0 1 .13-2.957v-.37c0-.345.279-.624.624-.624Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-Idea-Money--Streamline-Core">
+  <desc>
+    Business Idea Money Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="business-idea-money">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.903 0A5 5 0 0 1 12 5.035 4.98 4.98 0 0 1 9.5 9.33v0.936a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1V9.33A5 5 0 0 1 6.903 0ZM5 12.488a0.75 0.75 0 1 0 0 1.5h4a0.75 0.75 0 0 0 0 -1.5H5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7 1.726c0.345 0 0.625 0.28 0.625 0.625v0.384A1.607 1.607 0 0 1 8.843 3.78a0.625 0.625 0 1 1 -1.178 0.416 0.357 0.357 0 0 0 -0.337 -0.238h-0.76a0.252 0.252 0 0 0 -0.055 0.498l1.158 0.253a1.608 1.608 0 0 1 -0.046 3.15v0.386a0.625 0.625 0 1 1 -1.25 0V7.86a1.61 1.61 0 0 1 -1.218 -1.044 0.625 0.625 0 0 1 1.178 -0.417c0.05 0.14 0.183 0.238 0.338 0.238h0.655a0.358 0.358 0 0 0 0.076 -0.707l-1.158 -0.253a1.502 1.502 0 0 1 0.13 -2.957v-0.37c0 -0.345 0.279 -0.624 0.624 -0.624Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="warehouse-1--delivery-warehouse-shipping-fulfillment"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M.318 6.045A1 1 0 0 0 0 6.776V12.5A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5V6.776a1 1 0 0 0-.318-.731L7.325.12a.5.5 0 0 0-.65 0L.318 6.045Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.75 8.75h1.753v-3h-3v3H6.75Zm-2.004 4H6.5v-3h-3v3h1.246Zm4.022 0H7.5v-3h3v3H8.768Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warehouse-1--Streamline-Core">
+  <desc>
+    Warehouse 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warehouse-1--delivery-warehouse-shipping-fulfillment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M0.318 6.045A1 1 0 0 0 0 6.776V12.5A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5 -1.5V6.776a1 1 0 0 0 -0.318 -0.731L7.325 0.12a0.5 0.5 0 0 0 -0.65 0L0.318 6.045Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="m6.75 8.75 0.02 0h0.46l0.02 0h1.253v-3h-3v3H6.75Zm-2.004 4 0.021 0h0.459l0.02 0H6.5v-3h-3v3h1.246Zm4.022 0 -0.021 0H7.5v-3h3v3H9.247l-0.02 0h-0.459Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

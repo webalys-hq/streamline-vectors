@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="smiley-grumpy"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M2.94 4.408c0-.345.28-.625.626-.625h1.303c.346 0 .625.28.625.625v.595a.625.625 0 0 1-1.249.03h-.68a.625.625 0 0 1-.624-.625Zm7.157 5.615a.625.625 0 0 1-.766-.442 2.415 2.415 0 0 0-4.662 0 .625.625 0 1 1-1.207-.324 3.665 3.665 0 0 1 7.077 0 .625.625 0 0 1-.442.766Zm-.967-6.24a.625.625 0 0 0 0 1.25h.68a.625.625 0 0 0 1.249-.03v-.595a.625.625 0 0 0-.625-.625H9.13Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Smiley-Grumpy--Streamline-Core">
+  <desc>
+    Smiley Grumpy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="smiley-grumpy">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M2.94 4.408c0 -0.345 0.28 -0.625 0.626 -0.625h1.303c0.346 0 0.625 0.28 0.625 0.625v0.595a0.625 0.625 0 0 1 -1.249 0.03h-0.68a0.625 0.625 0 0 1 -0.624 -0.625Zm7.157 5.615a0.625 0.625 0 0 1 -0.766 -0.442 2.415 2.415 0 0 0 -4.662 0 0.625 0.625 0 1 1 -1.207 -0.324 3.665 3.665 0 0 1 7.077 0 0.625 0.625 0 0 1 -0.442 0.766Zm-0.967 -6.24a0.625 0.625 0 0 0 0 1.25h0.68a0.625 0.625 0 0 0 1.249 -0.03v-0.595a0.625 0.625 0 0 0 -0.625 -0.625H9.13Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

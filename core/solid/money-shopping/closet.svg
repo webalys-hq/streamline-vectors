@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="closet--closet-dressing-dresser-product-decoration-cloth-clothing-cabinet-furniture"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.375 0H2.5A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h3.875V0Zm1.25 14H11.5a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 11.5 0H7.625v14ZM9.5 5.837c.345 0 .625.28.625.625v1.076a.625.625 0 1 1-1.25 0V6.462c0-.346.28-.625.625-.625Zm-4.375.625a.625.625 0 1 0-1.25 0v1.076a.625.625 0 1 0 1.25 0V6.462Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Closet--Streamline-Core">
+  <desc>
+    Closet Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="closet--closet-dressing-dresser-product-decoration-cloth-clothing-cabinet-furniture">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M6.375 0H2.5A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14l3.875 0V0Zm1.25 14 3.875 0a1.5 1.5 0 0 0 1.5 -1.5v-11A1.5 1.5 0 0 0 11.5 0H7.625v14ZM9.5 5.837c0.345 0 0.625 0.28 0.625 0.625v1.076a0.625 0.625 0 1 1 -1.25 0V6.462c0 -0.346 0.28 -0.625 0.625 -0.625Zm-4.375 0.625a0.625 0.625 0 1 0 -1.25 0v1.076a0.625 0.625 0 1 0 1.25 0V6.462Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

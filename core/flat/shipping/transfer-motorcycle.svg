@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="transfer-motorcycle--motorcycle-shipping-delivery-courier-transfer"><path id="Union" fill="#3e3e3e" d="M11 3.5a1.5 1.5 0 0 0 0 3h1a.5.5 0 0 0 .5-.5V4a.5.5 0 0 0-.5-.5h-1Z"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M8 2.25a.75.75 0 0 0 0 1.5h.75v7.5h-.5a.75.75 0 0 1-.75-.75v-1a2.75 2.75 0 0 0-2.75-2.75h-2A2.75 2.75 0 0 0 0 9.5V12c0 .414.336.75.75.75H12.5c.916 0 1.5-.75 1.5-1.75 0-1.927-1.58-3.621-3.75-3.743V3a.75.75 0 0 0-.75-.75H8Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M1.998 12.499a1.501 1.501 0 1 0 3.002 0 1.501 1.501 0 0 0-3.002 0Zm7 0a1.501 1.501 0 1 0 3.002 0 1.501 1.501 0 0 0-3.002 0Z" clip-rule="evenodd"></path><path id="Vector 2556" fill="#3e3e3e" d="M1 6.75h3a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Transfer-Motorcycle--Streamline-Core">
+  <desc>
+    Transfer Motorcycle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="transfer-motorcycle--motorcycle-shipping-delivery-courier-transfer">
+    <path id="Union" fill="#2859c5" d="M11 3.5c-0.8284 0 -1.5 0.67157 -1.5 1.5s0.6716 1.5 1.5 1.5h1c0.2761 0 0.5 -0.22386 0.5 -0.5V4c0 -0.27614 -0.2239 -0.5 -0.5 -0.5h-1Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M8 2.25c-0.41421 0 -0.75 0.33579 -0.75 0.75s0.33579 0.75 0.75 0.75h0.75v7.5h-0.5c-0.41421 0 -0.75 -0.3358 -0.75 -0.75v-1c0 -1.51878 -1.23122 -2.75 -2.75 -2.75h-2C1.23122 6.75 0 7.98122 0 9.5V12c0 0.4142 0.335786 0.75 0.75 0.75H12.5c0.9156 0 1.5 -0.75 1.5 -1.75 0 -1.92673 -1.5805 -3.62145 -3.75 -3.74303V3c0 -0.41421 -0.33579 -0.75 -0.75 -0.75H8Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M1.99792 12.4989c0 0.8291 0.67205 1.5011 1.50107 1.5011 0.82901 0 1.50106 -0.672 1.50106 -1.5011 0 -0.829 -0.67205 -1.501 -1.50106 -1.501 -0.82902 0 -1.50107 0.672 -1.50107 1.501Zm7.00001 0c0 0.829 0.67205 1.5011 1.50107 1.5011 0.829 0 1.501 -0.6721 1.501 -1.5011 0 -0.829 -0.672 -1.501 -1.501 -1.501 -0.82902 0 -1.50107 0.672 -1.50107 1.501Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2556" fill="#2859c5" d="M1 6.74997h3c0.55228 0 1 -0.44772 1 -1v-3c0 -0.55229 -0.44772 -1 -1 -1H1c-0.552285 0 -1 0.44771 -1 1v3c0 0.55228 0.447715 1 1 1Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="coffee-bean--cook-cooking-nutrition-coffee-bean"><path id="Ellipse 924" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.536 10.536c-2.539 2.538-6.18 3.013-8.132 1.06C.45 9.643.926 6.003 3.464 3.464 6.004.926 9.645.451 11.597 2.404c1.953 1.952 1.478 5.593-1.06 8.132Z"></path><path id="Vector 2157" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.596 2.404s-.353 2.475-1.768 3.889c-1.414 1.414-4.242 0-5.656 1.414-1.415 1.414-1.768 3.89-1.768 3.89"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Coffee-Bean--Streamline-Core">
+  <desc>
+    Coffee Bean Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="coffee-bean--cook-cooking-nutrition-coffee-bean">
+    <path id="Ellipse 924" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5356 10.5355c-2.53843 2.5384 -6.17913 3.0132 -8.13175 1.0606C0.45123 9.6435 0.926103 6.0028 3.46451 3.46439 6.00292 0.925981 9.64362 0.451108 11.5962 2.40373c1.9527 1.95262 1.4778 5.59332 -1.0606 8.13177Z" stroke-width="1"></path>
+    <path id="Vector 2157" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5962 2.40381s-0.3536 2.47487 -1.76777 3.88909c-1.41421 1.41421 -4.24264 0 -5.65685 1.41421 -1.41422 1.41421 -1.76777 3.88909 -1.76777 3.88909" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="flash-1--flash-power-connect-charge-electricity-lightning"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.25.5 2 5.81a.5.5 0 0 0 .46.69h2.79l-2 7 8.59-8.14a.5.5 0 0 0-.34-.86H7.75l2-4h-5.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flash-1--Streamline-Core">
+  <desc>
+    Flash 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flash-1--flash-power-connect-charge-electricity-lightning">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.25 0.5 2 5.81c-0.03112 0.07575 -0.04315 0.15798 -0.03505 0.23947 0.0081 0.08149 0.03609 0.15975 0.08152 0.22789 0.04542 0.06813 0.10689 0.12407 0.179 0.16289 0.0721 0.03883 0.15264 0.05934 0.23453 0.05975h2.79l-2 7 8.59 -8.14c0.0714 -0.06876 0.1207 -0.15716 0.1417 -0.254 0.021 -0.09683 0.0128 -0.19773 -0.0237 -0.28988 -0.0364 -0.09215 -0.0994 -0.17139 -0.1809 -0.22768 -0.0816 -0.05628 -0.178 -0.08707 -0.2771 -0.08844H7.75l2 -4h-5.5Z" stroke-width="1"></path>
+  </g>
+</svg>

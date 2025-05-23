@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="voice-mail-off--mic-audio-mike-music-microphone-mute-off"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5.5.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 8.5a2.49 2.49 0 0 0 1-2V3a2.5 2.5 0 1 0-5 0v1.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.73 7.54A2.5 2.5 0 0 0 6 8.79"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.42 10.42A4.46 4.46 0 0 0 12 7"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 7a4.49 4.49 0 0 0 4.5 4.5h1c.187.01.373.01.56 0"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5v2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Voice-Mail-Off--Streamline-Core">
+  <desc>
+    Voice Mail Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="voice-mail-off--mic-audio-mike-music-microphone-mute-off">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5 0.5 0.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.49999 8.5c0.31107 -0.23233 0.5635 -0.53417 0.73713 -0.88144 0.17363 -0.34726 0.26365 -0.73031 0.26287 -1.11856V3c0 -0.66304 -0.26339 -1.29893 -0.73223 -1.76777C8.29892 0.763392 7.66304 0.5 6.99999 0.5c-0.66304 0 -1.29892 0.263392 -1.76776 0.73223C4.76339 1.70107 4.49999 2.33696 4.49999 3v1.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.73 7.54004c0.25542 0.55852 0.7075 1.00347 1.27 1.25" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.42 10.42c0.4969 -0.42025 0.8959 -0.94417 1.1688 -1.53499 0.273 -0.59081 0.4133 -1.2342 0.4112 -1.88501" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 7c-0.00132 0.59132 0.11418 1.17707 0.33985 1.72363 0.22568 0.54656 0.5571 1.04316 0.97523 1.46127 0.41812 0.4181 0.91472 0.7496 1.46128 0.9752 0.54656 0.2257 1.13232 0.3412 1.72364 0.3399h1c0.18653 0.01 0.37346 0.01 0.56 0" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5v2" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hearing-deaf-1--disability-hearing-deaf"><path id="Vector 1240" fill="#37d7ff" d="M11.703 4.647c-.168-2.32-2.22-3.8-5.112-3.397-1.418.198-2.269 1.214-2.74 2.25l.62 9.22c.303.302.708.617 1.548.537 1.358-.13 1.883-1.002 2.152-1.917.27-.915 1.211-2.186 1.615-2.522.807-1.01 2.085-1.85 1.917-4.171Z"></path><path id="Vector 887" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5.5.5"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.322 9.322c.18-.227.345-.406.464-.504.807-1.01 2.085-1.85 1.917-4.17-.168-2.322-2.22-3.802-5.112-3.398-1.418.198-2.269 1.214-2.74 2.25"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.171 11.34c-.269.915-.794 1.788-2.152 1.917-.84.08-1.245-.235-1.547-.538"></path><path id="Vector 1241" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.296 4.106c.37-.589.743-.793 1.11-.891 1.532-.408 2.704 1.515 1.38 2.943"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hearing-Deaf-1--Streamline-Core">
+  <desc>
+    Hearing Deaf 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hearing-deaf-1--disability-hearing-deaf">
+    <path id="Vector 1240" fill="#d7e0ff" d="M11.703 4.64699c-0.1682 -2.32072 -2.21982 -3.800602 -5.11232 -3.397 -1.41792 0.19785 -2.26841 1.21403 -2.74026 2.24996l0.62134 9.21915c0.3027 0.3027 0.70752 0.6181 1.54715 0.5381 1.3579 -0.1293 1.88348 -1.0023 2.15255 -1.9171 0.26907 -0.9148 1.21081 -2.18619 1.61442 -2.52253 0.80722 -1.00901 2.08532 -1.84986 1.91712 -4.17058Z" stroke-width="1"></path>
+    <path id="Vector 887" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5 0.5 0.5" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.32234 9.32239c0.18044 -0.22698 0.34515 -0.4061 0.46354 -0.50476 0.80722 -1.00901 2.08532 -1.84986 1.91712 -4.17058 -0.1682 -2.32073 -2.21982 -3.800608 -5.11231 -3.397C5.17276 1.4479 4.32228 2.46408 3.85043 3.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.17147 11.3401c-0.26907 0.9148 -0.79465 1.7878 -2.15255 1.9171 -0.83963 0.08 -1.24445 -0.2354 -1.54715 -0.5381" stroke-width="1"></path>
+    <path id="Vector 1241" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.2962 4.10603c0.36997 -0.58857 0.74231 -0.79343 1.10991 -0.89128 1.53195 -0.40776 2.70429 1.51557 1.37898 2.9429" stroke-width="1"></path>
+  </g>
+</svg>

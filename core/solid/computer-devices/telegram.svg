@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="telegram"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M.25 7a6.75 6.75 0 1 1 13.5 0A6.75 6.75 0 0 1 .25 7Zm9.002 4.064 1.045-7.932-8.165 3.935 2.417.876 2.686-2.076a.5.5 0 1 1 .611.792L5.618 8.38v2.726l1.685-1.604 1.949 1.561Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Telegram--Streamline-Core">
+  <desc>
+    Telegram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="telegram">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M0.25 7a6.75 6.75 0 1 1 13.5 0A6.75 6.75 0 0 1 0.25 7Zm9.002 4.064 1.045 -7.932 -8.165 3.935 2.417 0.876 2.686 -2.076a0.5 0.5 0 1 1 0.611 0.792L5.618 8.38l0 2.726 1.685 -1.604 1.949 1.561Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

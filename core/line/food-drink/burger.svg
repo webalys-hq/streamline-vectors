@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="burger--burger-fast-cook-cooking-nutrition-food"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 7.5h13"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 .5h6A3.5 3.5 0 0 1 13.5 4a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1A3.5 3.5 0 0 1 4 .5v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 10H7l-1.5 1.5-3-1.5H1a.5.5 0 0 0-.5.5v0a3 3 0 0 0 3 3h7a3 3 0 0 0 3-3 .5.5 0 0 0-.5-.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Burger--Streamline-Core">
+  <desc>
+    Burger Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="burger--burger-fast-cook-cooking-nutrition-food">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7.5h13" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 0.5h6c0.9283 0 1.8185 0.368749 2.4749 1.02513C13.1313 2.1815 13.5 3.07174 13.5 4c0 0.26522 -0.1054 0.51957 -0.2929 0.70711C13.0196 4.89464 12.7652 5 12.5 5h-11c-0.26522 0 -0.51957 -0.10536 -0.707107 -0.29289C0.605357 4.51957 0.5 4.26522 0.5 4c0 -0.92826 0.368749 -1.8185 1.02513 -2.47487C2.1815 0.868749 3.07174 0.5 4 0.5v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 10H7l-1.5 1.5 -3 -1.5H1c-0.132608 0 -0.259785 0.0527 -0.353553 0.1464C0.552678 10.2402 0.5 10.3674 0.5 10.5v0c0 0.7956 0.31607 1.5587 0.87868 2.1213 0.56261 0.5626 1.32567 0.8787 2.12132 0.8787h7c0.7956 0 1.5587 -0.3161 2.1213 -0.8787 0.5626 -0.5626 0.8787 -1.3257 0.8787 -2.1213 0 -0.1326 -0.0527 -0.2598 -0.1464 -0.3536C13.2598 10.0527 13.1326 10 13 10Z" stroke-width="1"></path>
+  </g>
+</svg>

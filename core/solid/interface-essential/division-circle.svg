@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="division-circle--interface-math-divided-by-sign-mathematics"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M.25 7a6.75 6.75 0 1 1 13.5 0A6.75 6.75 0 0 1 .25 7Zm3.794-.62a.625.625 0 1 0 0 1.25h5.977a.625.625 0 0 0 0-1.25H4.044ZM7 5.012a.875.875 0 1 1 0-1.75.875.875 0 1 1 0 1.75Zm0 5.74A.875.875 0 1 1 7 9a.875.875 0 0 1 0 1.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Division-Circle--Streamline-Core">
+  <desc>
+    Division Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="division-circle--interface-math-divided-by-sign-mathematics">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M0.25 7C0.25 3.27208 3.27208 0.25 7 0.25c3.7279 0 6.75 3.02208 6.75 6.75 0 3.7279 -3.0221 6.75 -6.75 6.75C3.27208 13.75 0.25 10.7279 0.25 7Zm3.79358 -0.61938c-0.34518 0 -0.625 0.27982 -0.625 0.625 0 0.34517 0.27982 0.625 0.625 0.625h5.97722c0.3451 0 0.625 -0.27983 0.625 -0.625 0 -0.34518 -0.2799 -0.625 -0.625 -0.625H4.04358ZM7 5.01099c-0.48325 0 -0.875 -0.39175 -0.875 -0.875s0.39175 -0.875 0.875 -0.875h0.00001c0.48325 0 0.875 0.39175 0.875 0.875s-0.39175 0.875 -0.875 0.875H7Zm0 5.73921c-0.48325 0 -0.875 -0.3917 -0.875 -0.87496 0 -0.48324 0.39175 -0.875 0.875 -0.875l0.00001 0c0.48325 0 0.875 0.39176 0.875 0.875 0 0.48326 -0.39175 0.87496 -0.875 0.87496l-0.00001 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

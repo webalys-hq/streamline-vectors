@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="signal-medium--smartphone-phone-mobile-device-iphone-signal-medium-wireless-bar-bars-android"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M8.331 5H5.67a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h2.66a.5.5 0 0 0 .5-.5v-8a.5.5 0 0 0-.5-.5ZM3.162 8H.5a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h2.662a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5Zm7.704 4.5a.75.75 0 0 0 0 1.5h2.375a.75.75 0 0 0 0-1.5h-2.375Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signal-Medium--Streamline-Core">
+  <desc>
+    Signal Medium Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="signal-medium--smartphone-phone-mobile-device-iphone-signal-medium-wireless-bar-bars-android">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M8.33124 5H5.66876c-0.27614 0 -0.5 0.22386 -0.5 0.5v8c0 0.2761 0.22386 0.5 0.5 0.5h2.66248c0.27614 0 0.5 -0.2239 0.5 -0.5v-8c0 -0.27614 -0.22386 -0.5 -0.5 -0.5ZM3.16247 8H0.5c-0.276142 0 -0.5 0.22386 -0.5 0.5v5c0 0.2761 0.223857 0.5 0.5 0.5h2.66247c0.27615 0 0.5 -0.2239 0.5 -0.5v-5c0 -0.27614 -0.22385 -0.5 -0.5 -0.5Zm7.70373 4.5c-0.4142 0 -0.75 0.3358 -0.75 0.75s0.3358 0.75 0.75 0.75h2.3749c0.4142 0 0.75 -0.3358 0.75 -0.75s-0.3358 -0.75 -0.75 -0.75h-2.3749Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

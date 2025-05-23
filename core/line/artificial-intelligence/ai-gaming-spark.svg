@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-gaming-spark--remote-control-controller-technology-artificial-intelligence-ai"><path id="Vector 693" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.312 7.003v2.311"></path><path id="Vector 694" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.467 8.159h-2.31"></path><path id="Vector 2430" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.066 4.527H4.15a3 3 0 0 0-2.981 2.669l-.412 3.71a2.283 2.283 0 0 0 4.31 1.273l.36-.72h2.971l.36.72a2.283 2.283 0 0 0 4.31-1.274l-.412-3.71"></path><g id="Group 630"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.644 8.736a.248.248 0 1 1 .496 0"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.645 8.736a.248.248 0 1 0 .495 0"></path></g><path id="Vector 2136" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.175 3.994c-.351-.062-.351-.565 0-.626A3.176 3.176 0 0 0 9.733.918L9.754.82c.076-.347.57-.35.649-.003l.026.113a3.192 3.192 0 0 0 2.565 2.435c.353.061.353.568 0 .63A3.192 3.192 0 0 0 10.43 6.43l-.026.112c-.079.346-.573.344-.649-.003l-.02-.096a3.176 3.176 0 0 0-2.56-2.45Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Gaming-Spark--Streamline-Core">
+  <desc>
+    Ai Gaming Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-gaming-spark--remote-control-controller-technology-artificial-intelligence-ai">
+    <path id="Vector 693" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.31155 7.00317v2.3109" stroke-width="1"></path>
+    <path id="Vector 694" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.46707 8.15869 -2.3109 0" stroke-width="1"></path>
+    <path id="Vector 2430" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.06642 4.5271 -0.91701 0c-1.52865 0 -2.81284 1.14941 -2.98165 2.66871L0.755567 10.9055c-0.150258 1.3524 0.908303 2.5351 2.268953 2.5351 0.8647 0 1.65519 -0.4886 2.0419 -1.262l0.3594 -0.7188h2.97115l0.35941 0.7188c0.38671 0.7734 1.17719 1.262 2.04192 1.262 1.3606 0 2.4192 -1.1827 2.2689 -2.5351l-0.4122 -3.7097" stroke-width="1"></path>
+    <g id="Group 630">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.64449 8.73637c0 -0.13675 0.11085 -0.2476 0.24759 -0.2476 0.13675 0 0.2476 0.11085 0.2476 0.2476" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.64458 8.73629c0 0.13674 0.11085 0.2476 0.24759 0.2476 0.13675 0 0.2476 -0.11086 0.2476 -0.2476" stroke-width="1"></path>
+    </g>
+    <path id="Vector 2136" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.1746 3.99352c-0.35092 -0.06105 -0.35093 -0.56483 0 -0.62588C8.44596 3.14646 9.45715 2.1781 9.7331 0.917492l0.02115 -0.09663c0.07593 -0.346833 0.56975 -0.348991 0.64875 -0.002835l0.0257 0.11261c0.2861 1.254653 1.2976 2.214843 2.5654 2.435403 0.3527 0.06137 0.3527 0.56771 0 0.62908 -1.2678 0.22056 -2.2793 1.18075 -2.5654 2.4354l-0.0257 0.11261c-0.079 0.34616 -0.57282 0.344 -0.64875 -0.00283l-0.02115 -0.09663c-0.27595 -1.2606 -1.28714 -2.22897 -2.5585 -2.45015Z" stroke-width="1"></path>
+  </g>
+</svg>

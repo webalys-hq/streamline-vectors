@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="medical-files-report-history"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1H9L12.5 4v8.5Z"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.303 4.771a.43.43 0 0 0-.43.43v1.208H4.666a.43.43 0 0 0-.43.429v1.395c0 .238.193.43.43.43h1.207V9.87c0 .238.193.43.43.43h1.395a.43.43 0 0 0 .43-.43V8.663h1.207a.43.43 0 0 0 .43-.43V6.838a.43.43 0 0 0-.43-.43H8.128V5.202a.43.43 0 0 0-.43-.43H6.303Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Files-Report-History--Streamline-Core">
+  <desc>
+    Medical Files Report History Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-files-report-history">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-9c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C1.60536 13.0196 1.5 12.7652 1.5 12.5v-11c0 -0.26522 0.10536 -0.51957 0.29289 -0.707107C1.98043 0.605357 2.23478 0.5 2.5 0.5H9L12.5 4v8.5Z" stroke-width="1"></path>
+    <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.30274 4.77148c-0.23714 0 -0.42938 0.19225 -0.42938 0.42939v1.20766l-1.20765 0c-0.23714 0 -0.42938 0.19225 -0.42938 0.42939v1.3955c0 0.23714 0.19224 0.42938 0.42938 0.42938h1.20765v1.20762c0 0.23718 0.19224 0.42938 0.42938 0.42938h1.3955c0.23714 0 0.42938 -0.1922 0.42938 -0.42938V8.6628h1.20764c0.23715 0 0.42939 -0.19224 0.42939 -0.42938v-1.3955c0 -0.23714 -0.19224 -0.42939 -0.42939 -0.42939l-1.20764 0V5.20087c0 -0.23714 -0.19224 -0.42939 -0.42938 -0.42939h-1.3955Z" stroke-width="1"></path>
+  </g>
+</svg>

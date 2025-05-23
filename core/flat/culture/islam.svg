@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="islam--religion-islam-moon-crescent-muslim-culture-star"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7.325.003a7 7 0 1 0 3.529 12.92.5.5 0 0 0-.264-.923 5 5 0 0 1 0-10 .5.5 0 0 0 .264-.923A7 7 0 0 0 7.325.003Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M12.195 4.944a.5.5 0 0 0-.894.002l-.4.806h-.774a.5.5 0 0 0-.359.848l.635.654-.17.944a.5.5 0 0 0 .745.52l.776-.454.822.46a.5.5 0 0 0 .733-.542l-.201-.936.627-.646a.5.5 0 0 0-.358-.848h-.775l-.407-.808Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Islam--Streamline-Core">
+  <desc>
+    Islam Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="islam--religion-islam-moon-crescent-muslim-culture-star">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.325 0.003a7 7 0 1 0 3.529 12.92 0.5 0.5 0 0 0 -0.264 -0.923 5 5 0 0 1 0 -10 0.5 0.5 0 0 0 0.264 -0.923A7 7 0 0 0 7.325 0.003Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M12.195 4.944a0.5 0.5 0 0 0 -0.894 0.002l-0.4 0.806h-0.774a0.5 0.5 0 0 0 -0.359 0.848l0.635 0.654 -0.17 0.944a0.5 0.5 0 0 0 0.745 0.52l0.776 -0.454 0.822 0.46a0.5 0.5 0 0 0 0.733 -0.542l-0.201 -0.936 0.627 -0.646a0.5 0.5 0 0 0 -0.358 -0.848h-0.775l-0.407 -0.808Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="VPN-connection"><path id="Vector" fill="#37d7ff" d="M7.377 13.43c-.189.094-.471.094-.754 0C2.95 12.013.5 8.426.5 4.463V1.538C.5.972.971.5 1.536.5h10.928c.565 0 1.036.472 1.036 1.038v2.926c0 4.058-2.45 7.55-6.123 8.965Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7.377 13.43c-.189.094-.471.094-.754 0C2.95 12.013.5 8.426.5 4.463V1.538C.5.972.971.5 1.536.5h10.928c.565 0 1.036.472 1.036 1.038v2.926c0 4.058-2.45 7.55-6.123 8.965Z"></path><path id="Vector 524" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.283 5.076c.465-.31 1.857-.929 3.715-.929 1.857 0 3.25.619 3.714.929"></path><path id="Vector 525" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.63 7.063c.395-.197 1.42-.592 2.368-.592.946 0 1.972.395 2.367.592"></path><path id="Vector 526" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.222 9.079a1.97 1.97 0 0 1 .776-.194c.31 0 .646.13.775.194"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vpn-Connection--Streamline-Core">
+  <desc>
+    VPN Connection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="VPN-connection">
+    <path id="Vector" fill="#d7e0ff" d="M7.377 13.43c-0.189 0.094 -0.471 0.094 -0.754 0C2.95 12.013 0.5 8.426 0.5 4.463V1.538C0.5 0.972 0.971 0.5 1.536 0.5h10.928c0.565 0 1.036 0.472 1.036 1.038v2.926c0 4.058 -2.45 7.55 -6.123 8.965Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7.377 13.43c-0.189 0.094 -0.471 0.094 -0.754 0C2.95 12.013 0.5 8.426 0.5 4.463V1.538C0.5 0.972 0.971 0.5 1.536 0.5h10.928c0.565 0 1.036 0.472 1.036 1.038v2.926c0 4.058 -2.45 7.55 -6.123 8.965Z" stroke-width="1"></path>
+    <path id="Vector 524" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.283 5.076c0.465 -0.31 1.857 -0.929 3.715 -0.929 1.857 0 3.25 0.619 3.714 0.929" stroke-width="1"></path>
+    <path id="Vector 525" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.63 7.063c0.395 -0.197 1.42 -0.592 2.368 -0.592 0.946 0 1.972 0.395 2.367 0.592" stroke-width="1"></path>
+    <path id="Vector 526" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.222 9.079a1.97 1.97 0 0 1 0.776 -0.194c0.31 0 0.646 0.13 0.775 0.194" stroke-width="1"></path>
+  </g>
+</svg>

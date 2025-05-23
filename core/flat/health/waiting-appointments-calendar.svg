@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="waiting-appointments-calendar"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 0a1 1 0 0 1 1 1v1h5V1a1 1 0 0 1 2 0v1h1A1.5 1.5 0 0 1 14 3.5v1H0v-1A1.5 1.5 0 0 1 1.5 2h1V1a1 1 0 0 1 1-1Z" clip-rule="evenodd"></path><path id="rectangle 481" fill="#37d7ff" d="M0 4.5h14v8a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-8Z"></path><path id="union" fill="#3e3e3e" d="M6.363 6.268a.392.392 0 0 0-.393.392v1.56H4.41a.392.392 0 0 0-.392.392v1.276c0 .216.175.392.392.392h1.56v1.56c0 .217.176.392.392.392h1.276a.392.392 0 0 0 .392-.392v-1.56h1.56a.392.392 0 0 0 .392-.392V8.612a.392.392 0 0 0-.392-.392H8.03V6.66a.392.392 0 0 0-.392-.392H6.363Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Waiting-Appointments-Calendar--Streamline-Core">
+  <desc>
+    Waiting Appointments Calendar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="waiting-appointments-calendar">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M3.5 0a1 1 0 0 1 1 1v1h5V1a1 1 0 0 1 2 0v1h1A1.5 1.5 0 0 1 14 3.5v1H0v-1A1.5 1.5 0 0 1 1.5 2h1V1a1 1 0 0 1 1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="rectangle 481" fill="#8fbffa" d="M0 4.5h14v8a1.5 1.5 0 0 1 -1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-8Z" stroke-width="1"></path>
+    <path id="union" fill="#2859c5" d="M6.363 6.268a0.392 0.392 0 0 0 -0.393 0.392v1.56H4.41a0.392 0.392 0 0 0 -0.392 0.392v1.276c0 0.216 0.175 0.392 0.392 0.392h1.56v1.56c0 0.217 0.176 0.392 0.392 0.392h1.276a0.392 0.392 0 0 0 0.392 -0.392l0 -1.56h1.56a0.392 0.392 0 0 0 0.392 -0.392V8.612a0.392 0.392 0 0 0 -0.392 -0.392l-1.56 0V6.66a0.392 0.392 0 0 0 -0.392 -0.392H6.363Z" stroke-width="1"></path>
+  </g>
+</svg>

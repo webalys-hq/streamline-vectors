@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag-suitcase-1--product-business-briefcase"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M5 1.553a.25.25 0 0 0-.25.25v1.25h4.5v-1.25a.25.25 0 0 0-.25-.25H5ZM3.763.566A1.75 1.75 0 0 1 5 .053h4a1.75 1.75 0 0 1 1.75 1.75v2a.75.75 0 0 1-.75.75H4a.75.75 0 0 1-.75-.75v-2c0-.464.184-.909.513-1.237Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" d="M1.5 3A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 12.5 3h-11Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 5.953a.625.625 0 1 0 0 1.25h7a.625.625 0 1 0 0-1.25h-7Zm0 3.844a.625.625 0 1 0 0 1.25h7a.625.625 0 1 0 0-1.25h-7Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Suitcase-1--Streamline-Core">
+  <desc>
+    Bag Suitcase 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-suitcase-1--product-business-briefcase">
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M5 1.55347c-0.0663 0 -0.12989 0.02634 -0.17678 0.07322 -0.04688 0.04688 -0.07322 0.11047 -0.07322 0.17678v1.25h4.5v-1.25c0 -0.06631 -0.02634 -0.1299 -0.07322 -0.17678C9.12989 1.57981 9.0663 1.55347 9 1.55347H5ZM3.76256 0.56603C4.09075 0.237841 4.53587 0.0534668 5 0.0534668h4c0.46413 0 0.90925 0.1843742 1.2374 0.5125632 0.3282 0.328188 0.5126 0.77331 0.5126 1.23744v2c0 0.41421 -0.3358 0.75 -0.75 0.75H4c-0.41421 0 -0.75 -0.33579 -0.75 -0.75v-2c0 -0.46413 0.18437 -0.909252 0.51256 -1.23744Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M1.5 3C0.671573 3 0 3.67157 0 4.5v8c0 0.8284 0.671573 1.5 1.5 1.5h11c0.8284 0 1.5 -0.6716 1.5 -1.5v-8c0 -0.82843 -0.6716 -1.5 -1.5 -1.5h-11Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M3.5 5.95319c-0.34518 0 -0.625 0.27982 -0.625 0.625 0 0.34517 0.27982 0.625 0.625 0.625h7c0.3452 0 0.625 -0.27983 0.625 -0.625 0 -0.34518 -0.2798 -0.625 -0.625 -0.625h-7Zm0 3.84362c-0.34518 0 -0.625 0.27979 -0.625 0.62499 0 0.3452 0.27982 0.625 0.625 0.625h7c0.3452 0 0.625 -0.2798 0.625 -0.625s-0.2798 -0.62499 -0.625 -0.62499h-7Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

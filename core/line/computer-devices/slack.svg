@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="slack"><path id="Ellipse 1136" stroke="#3e3e3e" d="M5.5 2a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path><path id="Ellipse 1137" stroke="#3e3e3e" d="M11.5 6a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path><path id="Ellipse 1138" stroke="#3e3e3e" d="M7.5 12a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path><path id="Ellipse 1139" stroke="#3e3e3e" d="M1.5 8a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path><path id="Vector 588" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.793 1.219v4.937"></path><path id="Vector 589" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.203 7.848v4.937"></path><path id="Vector 590" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.215 5.207h4.937"></path><path id="Vector 591" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.844 8.797h4.937"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Slack--Streamline-Core">
+  <desc>
+    Slack Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="slack">
+    <path id="Ellipse 1136" stroke="#000000" d="M5.5 2a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Ellipse 1137" stroke="#000000" d="M11.5 6a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Ellipse 1138" stroke="#000000" d="M7.5 12a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Ellipse 1139" stroke="#000000" d="M1.5 8a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Vector 588" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.79318 1.21899v4.93672" stroke-width="1"></path>
+    <path id="Vector 589" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.20334 7.8479v4.9367" stroke-width="1"></path>
+    <path id="Vector 590" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.21503 5.20728h4.93661" stroke-width="1"></path>
+    <path id="Vector 591" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.84396 8.79712h4.93684" stroke-width="1"></path>
+  </g>
+</svg>

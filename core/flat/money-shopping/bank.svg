@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bank--institution-saving-bank-payment-finance"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M10.284 5.934v5.054h2.664V5.933l-.038.001h-2.626Z" clip-rule="evenodd"></path><path id="Subtract_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.668 5.934v5.054h2.664V5.934H5.668Z" clip-rule="evenodd"></path><path id="Subtract_3" fill="#3e3e3e" fill-rule="evenodd" d="M1.052 5.933v5.055h2.664V5.934H1.052Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.386.233a1.21 1.21 0 0 1 1.248.013l5.911 3.87c.42.277.547.754.385 1.161-.156.392-.55.657-1.02.657H1.09c-.47 0-.864-.265-1.02-.657-.162-.407-.034-.884.385-1.16l.001-.001 5.91-3.87a.496.496 0 0 1 .02-.013ZM0 11.877c0-.6.572-.889 1-.889h12c.428 0 1 .289 1 .89v1.167c0 .6-.572.889-1 .889H1c-.428 0-1-.289-1-.89v-1.167Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bank--Streamline-Core">
+  <desc>
+    Bank Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bank--institution-saving-bank-payment-finance">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M10.284 5.934v5.054h2.664V5.933l-0.038 0.001h-2.626Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" fill-rule="evenodd" d="M5.668 5.934v5.054h2.664V5.934H5.668Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_3" fill="#2859c5" fill-rule="evenodd" d="M1.052 5.933v5.055h2.664V5.934H1.09l-0.038 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.386 0.233a1.21 1.21 0 0 1 1.248 0.013l5.911 3.87c0.42 0.277 0.547 0.754 0.385 1.161 -0.156 0.392 -0.55 0.657 -1.02 0.657H1.09c-0.47 0 -0.864 -0.265 -1.02 -0.657 -0.162 -0.407 -0.034 -0.884 0.385 -1.16l0.001 -0.001 5.91 -3.87a0.496 0.496 0 0 1 0.02 -0.013ZM0 11.877c0 -0.6 0.572 -0.889 1 -0.889h12c0.428 0 1 0.289 1 0.89v1.167c0 0.6 -0.572 0.889 -1 0.889H1c-0.428 0 -1 -0.289 -1 -0.89v-1.167Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

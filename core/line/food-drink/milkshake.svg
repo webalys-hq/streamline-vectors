@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="milkshake--milkshake-drink-takeaway-cup-cold-beverage"><path id="Vector 2077" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 6.5V6a3.5 3.5 0 1 1 7 0v.5l-.434 6.071a1 1 0 0 1-.997.929H4.93a1 1 0 0 1-.997-.929L3.5 6.5Z"></path><path id="Vector 2080" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 6.5h9"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.72 2.951 9.5.5"></path><path id="Vector 2086" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.684 9h6.602"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Milkshake--Streamline-Core">
+  <desc>
+    Milkshake Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="milkshake--milkshake-drink-takeaway-cup-cold-beverage">
+    <path id="Vector 2077" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 6.5V6c0 -1.933 1.567 -3.5 3.5 -3.5s3.5 1.567 3.5 3.5v0.5l-0.4337 6.0712c-0.0373 0.5234 -0.47278 0.9288 -0.99742 0.9288H4.93112c-0.52464 0 -0.96008 -0.4054 -0.99746 -0.9288L3.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector 2080" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 6.5h9" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.72009 2.95113 9.5 0.5" stroke-width="1"></path>
+    <path id="Vector 2086" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.68384 9h6.60256" stroke-width="1"></path>
+  </g>
+</svg>

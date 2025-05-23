@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="underline-text-1--text-underline-formatting-format"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M4.75.75a.75.75 0 0 0-1.5 0V7.5a3.75 3.75 0 1 0 7.5 0V.75a.75.75 0 0 0-1.5 0V7.5a2.25 2.25 0 0 1-4.5 0V.75Zm-4 11.75a.75.75 0 0 0 0 1.5h12.5a.75.75 0 0 0 0-1.5H.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Underline-Text-1--Streamline-Core">
+  <desc>
+    Underline Text 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="underline-text-1--text-underline-formatting-format">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M4.75 0.75C4.75 0.335786 4.41421 0 4 0s-0.75 0.335786 -0.75 0.75V7.5c0 2.07107 1.67893 3.75 3.75 3.75 2.07107 0 3.75 -1.67893 3.75 -3.75V0.75c0 -0.414214 -0.3358 -0.75 -0.75 -0.75 -0.41421 0 -0.75 0.335786 -0.75 0.75V7.5c0 1.24264 -1.00736 2.25 -2.25 2.25S4.75 8.74264 4.75 7.5V0.75Zm-4 11.75c-0.414214 0 -0.75 0.3358 -0.75 0.75s0.335786 0.75 0.75 0.75h12.5c0.4142 0 0.75 -0.3358 0.75 -0.75s-0.3358 -0.75 -0.75 -0.75H0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

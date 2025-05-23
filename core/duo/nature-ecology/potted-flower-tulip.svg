@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="potted-flower-tulip--nature-flower-plant-tree-pot"><path id="Vector 2250" fill="#37d7ff" d="M3.5 4V.5l3.5 2 3.5-2V4a3.5 3.5 0 1 1-7 0Z"></path><path id="Vector 2251" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.5v6"></path><path id="Vector 2376" fill="#ffffff" d="M7 12.5v1h2.5a3 3 0 0 0 3-3V10a.5.5 0 0 0-.5-.5h-2a3 3 0 0 0-3 3Z"></path><path id="Vector 2377" fill="#ffffff" d="M1.5 10v.5a3 3 0 0 0 3 3H7v-1a3 3 0 0 0-3-3H2a.5.5 0 0 0-.5.5Z"></path><path id="Vector 2378" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 4V.5l3.5 2 3.5-2V4a3.5 3.5 0 1 1-7 0Z"></path><path id="Vector 2379" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 12.5v1h2.5a3 3 0 0 0 3-3V10a.5.5 0 0 0-.5-.5h-2a3 3 0 0 0-3 3Z"></path><path id="Vector 2380" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 10v.5a3 3 0 0 0 3 3H7v-1a3 3 0 0 0-3-3H2a.5.5 0 0 0-.5.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Potted-Flower-Tulip--Streamline-Core">
+  <desc>
+    Potted Flower Tulip Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="potted-flower-tulip--nature-flower-plant-tree-pot">
+    <path id="Vector 2250" fill="#d7e0ff" d="M3.5 4V0.5l3.5 2 3.5 -2V4c0 1.933 -1.567 3.5 -3.5 3.5S3.5 5.933 3.5 4Z" stroke-width="1"></path>
+    <path id="Vector 2251" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 7.5v6" stroke-width="1"></path>
+    <path id="Vector 2376" fill="#ffffff" d="M7 12.5v1h2.5c1.6569 0 3 -1.3431 3 -3V10c0 -0.27614 -0.2239 -0.5 -0.5 -0.5h-2c-1.65685 0 -3 1.3431 -3 3Z" stroke-width="1"></path>
+    <path id="Vector 2377" fill="#ffffff" d="M1.5 10v0.5c0 1.6569 1.34315 3 3 3H7v-1c0 -1.6569 -1.34315 -3 -3 -3H2c-0.27614 0 -0.5 0.22386 -0.5 0.5Z" stroke-width="1"></path>
+    <path id="Vector 2378" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 4V0.5l3.5 2 3.5 -2V4c0 1.933 -1.567 3.5 -3.5 3.5S3.5 5.933 3.5 4Z" stroke-width="1"></path>
+    <path id="Vector 2379" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 12.5v1h2.5c1.6569 0 3 -1.3431 3 -3V10c0 -0.27614 -0.2239 -0.5 -0.5 -0.5h-2c-1.65685 0 -3 1.3431 -3 3Z" stroke-width="1"></path>
+    <path id="Vector 2380" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 10v0.5c0 1.6569 1.34315 3 3 3H7v-1c0 -1.6569 -1.34315 -3 -3 -3H2c-0.27614 0 -0.5 0.22386 -0.5 0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

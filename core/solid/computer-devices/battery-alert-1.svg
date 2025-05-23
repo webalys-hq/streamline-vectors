@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="battery-alert-1--phone-mobile-charge-device-electricity-power-battery-alert-warning"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Zm-7-1.625c.345 0 .625.28.625.625V7a.625.625 0 1 1-1.25 0V4.5c0-.345.28-.625.625-.625Zm.75 5.375a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Alert-1--Streamline-Core">
+  <desc>
+    Battery Alert 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="battery-alert-1--phone-mobile-charge-device-electricity-power-battery-alert-warning">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M13.5 5.5c0 -0.13261 -0.0527 -0.25979 -0.1464 -0.35355C13.2598 5.05268 13.1326 5 13 5h-0.5V3.5c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C12.0196 2.60536 11.7652 2.5 11.5 2.5h-10c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 2.98043 0.5 3.23478 0.5 3.5v7c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h10c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071V9h0.5c0.1326 0 0.2598 -0.05268 0.3536 -0.14645 0.0937 -0.09376 0.1464 -0.22094 0.1464 -0.35355v-3Zm-7 -1.625c0.34518 0 0.625 0.27982 0.625 0.625V7c0 0.34518 -0.27982 0.625 -0.625 0.625S5.875 7.34518 5.875 7V4.5c0 -0.34518 0.27982 -0.625 0.625 -0.625Zm0.75 5.375c0 0.41421 -0.33579 0.75 -0.75 0.75s-0.75 -0.33579 -0.75 -0.75 0.33579 -0.75 0.75 -0.75 0.75 0.33579 0.75 0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

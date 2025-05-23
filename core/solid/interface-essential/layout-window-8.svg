@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="layout-window-8--grid-header-layout-layouts-masthead"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 0A1.5 1.5 0 0 0 0 1.5v1.375h14V1.5A1.5 1.5 0 0 0 12.5 0h-11ZM0 8.375v-4.25h6.375v4.25H0Zm0 1.25V12.5A1.5 1.5 0 0 0 1.5 14h4.875V9.625H0Zm7.625 0V14H12.5a1.5 1.5 0 0 0 1.5-1.5V9.625H7.625ZM14 8.375v-4.25H7.625v4.25H14Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Layout-Window-8--Streamline-Core">
+  <desc>
+    Layout Window 8 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layout-window-8--grid-header-layout-layouts-masthead">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M1.5 0C0.671573 0 0 0.671573 0 1.5v1.375h14V1.5c0 -0.828427 -0.6716 -1.5 -1.5 -1.5h-11ZM0 8.37488V4.125h6.375v4.24988H0Zm0 1.25V12.5c0 0.8284 0.671573 1.5 1.5 1.5h4.875V9.62488H0Zm7.625 0V14H12.5c0.8284 0 1.5 -0.6716 1.5 -1.5V9.62488H7.625Zm6.375 -1.25V4.125H7.625v4.24988H14Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

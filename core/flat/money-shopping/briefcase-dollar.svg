@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="briefcase-dollar--briefcase-payment-cash-money-finance-baggage-bag"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M3.763.587A1.75 1.75 0 0 1 5 .074h4a1.75 1.75 0 0 1 1.75 1.75v2a.75.75 0 0 1-1.5 0v-2a.25.25 0 0 0-.25-.25H5a.25.25 0 0 0-.25.25v2a.75.75 0 0 1-1.5 0v-2c0-.464.184-.91.513-1.237Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" d="M1.5 3A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 12.5 3h-11Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7 4a.75.75 0 0 1 .75.75v.528a1.999 1.999 0 0 1 1.553 1.306.75.75 0 0 1-1.415.5.5.5 0 0 0-.471-.334h-.968a.366.366 0 0 0-.078.723l1.473.322a2 2 0 0 1-.094 3.927v.528a.75.75 0 0 1-1.5 0v-.528a2.003 2.003 0 0 1-1.553-1.305.75.75 0 0 1 1.415-.5.5.5 0 0 0 .471.333h.834a.5.5 0 0 0 .107-.99L6.05 8.94a1.866 1.866 0 0 1 .2-3.678v-.51A.75.75 0 0 1 7 4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Briefcase-Dollar--Streamline-Core">
+  <desc>
+    Briefcase Dollar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="briefcase-dollar--briefcase-payment-cash-money-finance-baggage-bag">
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M3.763 0.587A1.75 1.75 0 0 1 5 0.074h4a1.75 1.75 0 0 1 1.75 1.75v2a0.75 0.75 0 0 1 -1.5 0v-2a0.25 0.25 0 0 0 -0.25 -0.25H5a0.25 0.25 0 0 0 -0.25 0.25v2a0.75 0.75 0 0 1 -1.5 0v-2c0 -0.464 0.184 -0.91 0.513 -1.237Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M1.5 3A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5 -1.5v-8A1.5 1.5 0 0 0 12.5 3h-11Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7 4a0.75 0.75 0 0 1 0.75 0.75v0.528a1.999 1.999 0 0 1 1.553 1.306 0.75 0.75 0 0 1 -1.415 0.5 0.5 0.5 0 0 0 -0.471 -0.334h-0.968a0.366 0.366 0 0 0 -0.078 0.723l1.473 0.322a2 2 0 0 1 -0.094 3.927v0.528a0.75 0.75 0 0 1 -1.5 0v-0.528a2.003 2.003 0 0 1 -1.553 -1.305 0.75 0.75 0 0 1 1.415 -0.5 0.5 0.5 0 0 0 0.471 0.333h0.834a0.5 0.5 0 0 0 0.107 -0.99L6.05 8.94a1.866 1.866 0 0 1 0.2 -3.678v-0.51A0.75 0.75 0 0 1 7 4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

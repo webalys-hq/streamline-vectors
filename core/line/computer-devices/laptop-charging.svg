@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="laptop-charging--device-laptop-electronics-computer-notebook-charging"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.5.5-2 3h3l-2 3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.475 9.4.675 12c-.2.3-.2.7 0 1 .2.3.5.5.8.5h10.8c.6 0 1-.4 1-1 0-.2 0-.3-.1-.5l-1.8-2.6h-8.9Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.375 9.4v-.9"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.975 3.4h-3.5c-.6 0-1 .4-1 1v5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Laptop-Charging--Streamline-Core">
+  <desc>
+    Laptop Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="laptop-charging--device-laptop-electronics-computer-notebook-charging">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.5 0.5 -2 3h3l-2 3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m2.4749 9.3999 -1.799998 2.6c-0.2 0.3 -0.2 0.7 0 1 0.2 0.3 0.499998 0.5 0.799998 0.5h10.8c0.6 0 1 -0.4 1 -1 0 -0.2 0 -0.3 -0.1 -0.5l-1.8 -2.6h-8.9Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.375 9.40002V8.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.9751 3.3999h-3.5c-0.6 0 -1 0.4 -1 1v5" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-multiple-window--app-code-apps-two-window-cascade"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 5V1.5a1 1 0 0 1 1-1h8.5a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H11"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 3.5h10.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.5 7.5h-6a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10h8"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Multiple-Window--Streamline-Core">
+  <desc>
+    Browser Multiple Window Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-multiple-window--app-code-apps-two-window-cascade">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 5V1.5c0 -0.26522 0.10536 -0.51957 0.29289 -0.707107C3.48043 0.605357 3.73478 0.5 4 0.5h8.5c0.2652 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107v8c0 0.26522 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929H11" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 3.5h10.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 7.5h-6c-0.552285 0 -1 0.44772 -1 1v4c0 0.5523 0.447715 1 1 1h6c0.55228 0 1 -0.4477 1 -1v-4c0 -0.55228 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10h8" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="video-swap-camera"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.15 8.063-.841.636-.636-.841"></path><path id="Ellipse 50" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.262 8.636a2.58 2.58 0 0 0-3.25-3.585"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.795 6.865.84-.635.636.84"></path><path id="Ellipse 52" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.682 6.293a2.58 2.58 0 0 0 3.25 3.585"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5a1 1 0 0 0-1-1h-2L9 1.5H5l-1.5 2h-2a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-7Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Video-Swap-Camera--Streamline-Core">
+  <desc>
+    Video Swap Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="video-swap-camera">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.1499 8.06331 -0.841 0.63566 -0.63566 -0.84101" stroke-width="1"></path>
+    <path id="Ellipse 50" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.26249 8.63561c0.13884 -0.26675 0.23304 -0.56248 0.27159 -0.87858 0.17244 -1.41399 -0.83403 -2.70004 -2.24802 -2.87248 -0.44752 -0.05458 -0.88223 0.00893 -1.27288 0.16609" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.7948 6.8654 0.841 -0.63566 0.63566 0.84101" stroke-width="1"></path>
+    <path id="Ellipse 52" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.68222 6.2931c-0.13885 0.26675 -0.23305 0.56248 -0.2716 0.87858 -0.17244 1.41399 0.83403 2.70004 2.24802 2.87252 0.44752 0.0545 0.88224 -0.009 1.27288 -0.16613" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C13.0196 3.60536 12.7652 3.5 12.5 3.5h-2L9 1.5H5l-1.5 2h-2c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 3.98043 0.5 4.23478 0.5 4.5v7c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h11c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071v-7Z" stroke-width="1"></path>
+  </g>
+</svg>

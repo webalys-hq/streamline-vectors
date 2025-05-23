@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="music-note-1--music-audio-note-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.25 13.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.75 11V.5a5.5 5.5 0 0 1 5.5 5.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Note-1--Streamline-Core">
+  <desc>
+    Music Note 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="music-note-1--music-audio-note-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.25 13.5c1.38071 0 2.5 -1.1193 2.5 -2.5 0 -1.38071 -1.11929 -2.5 -2.5 -2.5s-2.5 1.11929 -2.5 2.5c0 1.3807 1.11929 2.5 2.5 2.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 11V0.5c0.72227 0 1.43747 0.142262 2.10476 0.418663 0.66729 0.276397 1.27364 0.681527 1.78434 1.192247 0.5107 0.51073 0.9158 1.11704 1.1922 1.78433 0.2764 0.66729 0.4187 1.38249 0.4187 2.10476" stroke-width="1"></path>
+  </g>
+</svg>

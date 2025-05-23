@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pentagon--pentagon-design-geometric-shape-shapes-shape"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.232 6.67a1 1 0 0 0-.282-1.136L7.646 1.047a1 1 0 0 0-1.292 0L1.05 5.534A1 1 0 0 0 .768 6.67l2.48 6.202a1 1 0 0 0 .929.629h5.646a1 1 0 0 0 .928-.629l2.481-6.202Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pentagon--Streamline-Core">
+  <desc>
+    Pentagon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pentagon--pentagon-design-geometric-shape-shapes-shape">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.2323 6.66921c0.1599 -0.39965 0.0461 -0.85675 -0.2825 -1.13478L7.64594 1.04657c-0.37284 -0.315488 -0.91904 -0.315488 -1.29188 0L1.05022 5.53443c-0.328586 0.27803 -0.442395 0.73513 -0.282537 1.13478L3.24856 12.8714c0.15186 0.3796 0.51957 0.6286 0.92847 0.6286h5.64594c0.40893 0 0.77663 -0.249 0.92843 -0.6286l2.4809 -6.20219Z" stroke-width="1"></path>
+  </g>
+</svg>

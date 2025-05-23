@@ -1,1 +1,12 @@
-<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="box-sign--box-package-label-delivery-shipment-shipping-this-way-up-arrow-sign-sticker"><path id="Vector" d="M12.5.5h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z" fill="#37d7ff"></path><path id="Vector_2" d="M12.5.5h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_3" d="M3.5 10.5h7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_4" d="M5.5 8.5v-5l-2 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_5" d="M8.5 8.5v-5l2 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" id="Box-Sign--Streamline-Core">
+  <desc>
+    Box Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="box-sign--box-package-label-delivery-shipment-shipping-this-way-up-arrow-sign-sticker">
+    <path id="Vector" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" fill="#d7e0ff" stroke-width="1"></path>
+    <path id="Vector_2" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_3" d="M3.5 10.5h7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_4" d="M5.5 8.5v-5l-2 2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_5" d="M8.5 8.5v-5l2 2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>

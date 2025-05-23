@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="heart--reward-social-rating-media-heart-it-like-favorite-love"><path id="Vector" fill="#37d7ff" d="M7.004 12.36 1.53 7.402c-2.976-2.976 1.398-8.688 5.474-4.067 4.076-4.621 8.43 1.111 5.474 4.067L7.004 12.36Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.004 12.36 1.53 7.402c-2.976-2.976 1.398-8.688 5.474-4.067 4.076-4.621 8.43 1.111 5.474 4.067L7.004 12.36Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heart--Streamline-Core">
+  <desc>
+    Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart--reward-social-rating-media-heart-it-like-favorite-love">
+    <path id="Vector" fill="#d7e0ff" d="M7.00404 12.3603 1.52966 7.4016c-2.9752 -2.97521 1.39835 -8.6876 5.47438 -4.06612C11.0801 -1.286 15.4338 4.44623 12.4784 7.4016l-5.47436 4.9587Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.00404 12.3602 1.52966 7.40151c-2.9752 -2.97521 1.39835 -8.6876 5.47438 -4.06612 4.07606 -4.62148 8.42976 1.11075 5.47436 4.06612L7.00404 12.3602Z" stroke-width="1"></path>
+  </g>
+</svg>

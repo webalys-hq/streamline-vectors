@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shuffle--multimedia-shuffle-multi-button-controls-media"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M11.854 1.646A.5.5 0 0 0 11 2v1H8.5a1 1 0 1 0 0 2H11v1a.5.5 0 0 0 .854.354l2-2a.5.5 0 0 0 0-.708l-2-2ZM0 4a1 1 0 0 1 1-1h3.25a1 1 0 0 1 .832.445L8.785 9H11V8a.5.5 0 0 1 .854-.354l2 2a.5.5 0 0 1 0 .708l-2 2A.5.5 0 0 1 11 12v-1H8.25a1 1 0 0 1-.832-.445L3.715 5H1a1 1 0 0 1-1-1Zm0 6a1 1 0 0 1 1-1h3a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shuffle--Streamline-Core">
+  <desc>
+    Shuffle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shuffle--multimedia-shuffle-multi-button-controls-media">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M11.854 1.646A0.5 0.5 0 0 0 11 2v1H8.5a1 1 0 1 0 0 2H11v1a0.5 0.5 0 0 0 0.854 0.354l2 -2a0.5 0.5 0 0 0 0 -0.708l-2 -2ZM0 4a1 1 0 0 1 1 -1h3.25a1 1 0 0 1 0.832 0.445L8.785 9H11V8a0.5 0.5 0 0 1 0.854 -0.354l2 2a0.5 0.5 0 0 1 0 0.708l-2 2A0.5 0.5 0 0 1 11 12v-1H8.25a1 1 0 0 1 -0.832 -0.445L3.715 5H1a1 1 0 0 1 -1 -1Zm0 6a1 1 0 0 1 1 -1h3a1 1 0 1 1 0 2H1a1 1 0 0 1 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

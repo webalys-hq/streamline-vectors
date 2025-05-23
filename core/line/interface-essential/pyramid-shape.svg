@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pyramid-shape"><path id="rectangle 631" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m12.99 10.444-5.593 2.528a1 1 0 0 1-.824 0L.979 10.441a.5.5 0 0 1-.21-.734l5.8-8.678a.5.5 0 0 1 .831 0l5.8 8.681a.5.5 0 0 1-.21.733Z"></path><path id="vector 2064" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.984.938v12.124"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pyramid-Shape--Streamline-Core">
+  <desc>
+    Pyramid Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pyramid-shape">
+    <path id="rectangle 631" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12.9891 10.4439 -5.59214 2.5284c-0.26199 0.1184 -0.5623 0.1184 -0.82425 -0.0002L0.978728 10.4408c-0.28131 -0.1273 -0.381145 -0.47664 -0.209585 -0.73336L6.56896 1.02852c0.19801 -0.296301 0.63359 -0.296241 0.83152 0.00012l5.79842 8.68197c0.1715 0.25678 0.0715 0.60609 -0.2098 0.73329Z" stroke-width="1"></path>
+    <path id="vector 2064" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.98438 0.9375 0 12.125" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dashboard-3--app-application-dashboard-home-layout-vertical"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 6.5H9a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5V7a.5.5 0 0 0-.5-.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 .5H9a.5.5 0 0 0-.5.5v2.01a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5V1a.5.5 0 0 0-.5-.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 .5H1a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5V1A.5.5 0 0 0 5 .5Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 10.49H1a.5.5 0 0 0-.5.5V13a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-2.01a.5.5 0 0 0-.5-.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-3--Streamline-Core">
+  <desc>
+    Dashboard 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-3--app-application-dashboard-home-layout-vertical">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 6.5H9c-0.27614 0 -0.5 0.22386 -0.5 0.5v6c0 0.2761 0.22386 0.5 0.5 0.5h4c0.2761 0 0.5 -0.2239 0.5 -0.5V7c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 0.5H9c-0.27614 0 -0.5 0.223858 -0.5 0.5v2.01c0 0.27614 0.22386 0.5 0.5 0.5h4c0.2761 0 0.5 -0.22386 0.5 -0.5V1c0 -0.276142 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 0.5H1C0.723858 0.5 0.5 0.723858 0.5 1v6c0 0.27614 0.223858 0.5 0.5 0.5h4c0.27614 0 0.5 -0.22386 0.5 -0.5V1c0 -0.276142 -0.22386 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 10.49H1c-0.276142 0 -0.5 0.2238 -0.5 0.5V13c0 0.2761 0.223858 0.5 0.5 0.5h4c0.27614 0 0.5 -0.2239 0.5 -0.5v-2.01c0 -0.2762 -0.22386 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

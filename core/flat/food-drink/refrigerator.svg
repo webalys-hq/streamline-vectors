@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="refrigerator--fridge-cook-appliances-cooking-nutrition-freezer-appliance-food-kitchenware"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M4 11.493a.75.75 0 0 1 .75.75v1a.75.75 0 0 1-1.5 0v-1a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_2" fill="#3e3e3e" fill-rule="evenodd" d="M10 11.493a.75.75 0 0 1 .75.75v1a.75.75 0 0 1-1.5 0v-1a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M3.5 0C2.682 0 2 .652 2 1.479v9.786c0 .827.682 1.478 1.5 1.478h7c.818 0 1.5-.651 1.5-1.478V1.479A1.49 1.49 0 0 0 10.5 0h-7Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_3" fill="#3e3e3e" fill-rule="evenodd" d="M4.416 1.984c.345 0 .625.28.625.625v.5a.625.625 0 1 1-1.25 0v-.5c0-.345.28-.625.625-.625Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="m12 5.376-.029-.001H2v1.25h10v-1.25Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Refrigerator--Streamline-Core">
+  <desc>
+    Refrigerator Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="refrigerator--fridge-cook-appliances-cooking-nutrition-freezer-appliance-food-kitchenware">
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M4 11.4935c0.41421 0 0.75 0.3358 0.75 0.75v1c0 0.4142 -0.33579 0.75 -0.75 0.75s-0.75 -0.3358 -0.75 -0.75v-1c0 -0.4142 0.33579 -0.75 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M10 11.4935c0.4142 0 0.75 0.3358 0.75 0.75v1c0 0.4142 -0.3358 0.75 -0.75 0.75 -0.41421 0 -0.75 -0.3358 -0.75 -0.75v-1c0 -0.4142 0.33579 -0.75 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M3.5 0C2.68181 0 2 0.651871 2 1.47862v9.78618c0 0.8268 0.68181 1.4787 1.5 1.4787h7c0.8182 0 1.5 -0.6519 1.5 -1.4787V1.47862C12 0.651871 11.3182 0 10.5 0h-7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_3" fill="#2859c5" fill-rule="evenodd" d="M4.41626 1.98425c0.34518 0 0.625 0.27982 0.625 0.625v0.5c0 0.34518 -0.27982 0.625 -0.625 0.625s-0.625 -0.27982 -0.625 -0.625v-0.5c0 -0.34518 0.27982 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M12 5.37564c-0.0095 -0.00042 -0.019 -0.00064 -0.0286 -0.00064H2.02859c-0.00958 0 -0.01911 0.00022 -0.02859 0.00064v1.24872c0.00948 0.00042 0.01901 0.00064 0.02859 0.00064h9.94281c0.0096 0 0.0191 -0.00022 0.0286 -0.00064V5.37564Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="search-visual"><path id="Ellipse 1174" fill="#37d7ff" d="M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.573 1.573A.25.25 0 0 1 1.75 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5A1.75 1.75 0 0 0 0 1.75v1.5a.75.75 0 0 0 1.5 0v-1.5a.25.25 0 0 1 .073-.177ZM14 10.75a.75.75 0 0 0-1.5 0v1.5a.25.25 0 0 1-.25.25h-1.5a.75.75 0 0 0 0 1.5h1.5A1.75 1.75 0 0 0 14 12.25v-1.5ZM.75 10a.75.75 0 0 1 .75.75v1.5a.25.25 0 0 0 .25.25h1.5a.75.75 0 0 1 0 1.5h-1.5A1.75 1.75 0 0 1 0 12.25v-1.5A.75.75 0 0 1 .75 10Zm10-10a.75.75 0 0 0 0 1.5h1.5a.25.25 0 0 1 .25.25v1.5a.75.75 0 0 0 1.5 0v-1.5A1.75 1.75 0 0 0 12.25 0h-1.5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M4 6.25a2.25 2.25 0 1 1 4.5 0 2.25 2.25 0 0 1-4.5 0ZM6.25 2.5a3.75 3.75 0 1 0 2.068 6.879L9.97 11.03a.75.75 0 1 0 1.06-1.06L9.38 8.318A3.75 3.75 0 0 0 6.25 2.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Search-Visual--Streamline-Core">
+  <desc>
+    Search Visual Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="search-visual">
+    <path id="Ellipse 1174" fill="#8fbffa" d="M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.573 1.573A0.25 0.25 0 0 1 1.75 1.5h1.5a0.75 0.75 0 0 0 0 -1.5h-1.5A1.75 1.75 0 0 0 0 1.75v1.5a0.75 0.75 0 0 0 1.5 0v-1.5a0.25 0.25 0 0 1 0.073 -0.177ZM14 10.75a0.75 0.75 0 0 0 -1.5 0v1.5a0.25 0.25 0 0 1 -0.25 0.25h-1.5a0.75 0.75 0 0 0 0 1.5h1.5A1.75 1.75 0 0 0 14 12.25v-1.5ZM0.75 10a0.75 0.75 0 0 1 0.75 0.75v1.5a0.25 0.25 0 0 0 0.25 0.25h1.5a0.75 0.75 0 0 1 0 1.5h-1.5A1.75 1.75 0 0 1 0 12.25v-1.5A0.75 0.75 0 0 1 0.75 10Zm10 -10a0.75 0.75 0 0 0 0 1.5h1.5a0.25 0.25 0 0 1 0.25 0.25v1.5a0.75 0.75 0 0 0 1.5 0v-1.5A1.75 1.75 0 0 0 12.25 0h-1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M4 6.25a2.25 2.25 0 1 1 4.5 0 2.25 2.25 0 0 1 -4.5 0ZM6.25 2.5a3.75 3.75 0 1 0 2.068 6.879L9.97 11.03a0.75 0.75 0 1 0 1.06 -1.06L9.38 8.318A3.75 3.75 0 0 0 6.25 2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

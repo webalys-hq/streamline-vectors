@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zodiac-5--sign-astrology-stars-space-taurus"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.53.5a4.5 4.5 0 0 0 8.94 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zodiac-5--Streamline-Core">
+  <desc>
+    Zodiac 5 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zodiac-5--sign-astrology-stars-space-taurus">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c2.48528 0 4.5 -2.0147 4.5 -4.5 0 -2.48528 -2.01472 -4.5 -4.5 -4.5S2.5 6.51472 2.5 9c0 2.4853 2.01472 4.5 4.5 4.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.53003 0.5c0.12722 1.09629 0.65289 2.1076 1.47704 2.84164 0.82415 0.73403 1.88931 1.13961 2.99296 1.13961s2.16881 -0.40558 2.99296 -1.13961C10.8171 2.6076 11.3428 1.59629 11.47 0.5" stroke-width="1"></path>
+  </g>
+</svg>

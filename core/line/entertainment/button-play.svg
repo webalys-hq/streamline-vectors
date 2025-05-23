@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-play--button-television-buttons-movies-play-tv-video-controls"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.436 12.33a1.14 1.14 0 0 0 .63 1 1.24 1.24 0 0 0 1.22 0l8.65-5.35a1.11 1.11 0 0 0 0-2L3.286.67a1.24 1.24 0 0 0-1.22 0 1.14 1.14 0 0 0-.63 1v10.66Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Play--Streamline-Core">
+  <desc>
+    Button Play Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-play--button-television-buttons-movies-play-tv-video-controls">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.43591 12.3299c0.00359 0.2084 0.06422 0.4118 0.17529 0.5881 0.11107 0.1763 0.26834 0.3188 0.45471 0.4119 0.18611 0.1052 0.39624 0.1605 0.61 0.1605s0.4239 -0.0553 0.61 -0.1605l8.64999 -5.34996c0.1882 -0.09067 0.347 -0.23262 0.4582 -0.40952 0.1111 -0.1769 0.17 -0.38157 0.17 -0.59048 0 -0.20891 -0.0589 -0.41358 -0.17 -0.59048 -0.1112 -0.1769 -0.27 -0.31885 -0.4582 -0.40952L3.28591 0.669938c-0.1861 -0.105157 -0.39624 -0.160417 -0.61 -0.160417s-0.42389 0.05526 -0.61 0.160417c-0.18637 0.093189 -0.34364 0.235677 -0.45471 0.411982 -0.11107 0.1763 -0.1717 0.37968 -0.17529 0.58802V12.3299Z" stroke-width="1"></path>
+  </g>
+</svg>

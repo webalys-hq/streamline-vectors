@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="binance-circle--crypto-circle-payment-blockchain-finance-binance-currency"><path id="Vector" fill="#37d7ff" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.61 1.963a.625.625 0 0 1 .78 0l2.5 2a.625.625 0 1 1-.78.976L7 3.252 4.89 4.939a.625.625 0 1 1-.78-.976l2.5-2ZM4.012 9.158a.625.625 0 0 1 .878-.098L7 10.748 9.11 9.06a.625.625 0 1 1 .78.976l-2.5 2a.625.625 0 0 1-.78 0l-2.5-2a.625.625 0 0 1-.098-.878ZM7 7.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM4.55 7a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm5.65.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Binance-Circle--Streamline-Core">
+  <desc>
+    Binance Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="binance-circle--crypto-circle-payment-blockchain-finance-binance-currency">
+    <path id="Vector" fill="#8fbffa" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M6.61 1.963a0.625 0.625 0 0 1 0.78 0l2.5 2a0.625 0.625 0 1 1 -0.78 0.976L7 3.252 4.89 4.939a0.625 0.625 0 1 1 -0.78 -0.976l2.5 -2ZM4.012 9.158a0.625 0.625 0 0 1 0.878 -0.098L7 10.748 9.11 9.06a0.625 0.625 0 1 1 0.78 0.976l-2.5 2a0.625 0.625 0 0 1 -0.78 0l-2.5 -2a0.625 0.625 0 0 1 -0.098 -0.878ZM7 7.75a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5ZM4.55 7a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0Zm5.65 0.75a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="drone--artificial-robotics-intelligence-machine-technology-android-flying"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 1h4"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1h4"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 1v3"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 1v3"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4H.5v1a2 2 0 0 0 2 2h1a3 3 0 0 0 3 3h1a3 3 0 0 0 3-3h1a2 2 0 0 0 2-2V4Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7h7"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 8.65A4.48 4.48 0 0 0 2.5 12v1h1"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 8.65A4.48 4.48 0 0 1 11.5 12v1h-1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Drone--Streamline-Core">
+  <desc>
+    Drone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="drone--artificial-robotics-intelligence-machine-technology-android-flying">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 1h4" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1h4" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 1v3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5 1v3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4H0.5v1c0 0.53043 0.210714 1.03914 0.58579 1.41421C1.46086 6.78929 1.96957 7 2.5 7h1c0 0.79565 0.31607 1.55871 0.87868 2.12132C4.94129 9.68393 5.70435 10 6.5 10h1c0.79565 0 1.55871 -0.31607 2.12132 -0.87868C10.1839 8.55871 10.5 7.79565 10.5 7h1c0.5304 0 1.0391 -0.21071 1.4142 -0.58579C13.2893 6.03914 13.5 5.53043 13.5 5V4Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7h7" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 8.6499c-0.47238 0.42082 -0.85029 0.93693 -1.10883 1.5143 -0.25854 0.5774 -0.39185 1.2031 -0.39117 1.8357v1h1" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 8.6499c0.4724 0.42082 0.8503 0.93693 1.1088 1.5143 0.2586 0.5774 0.3919 1.2031 0.3912 1.8357v1h-1" stroke-width="1"></path>
+  </g>
+</svg>

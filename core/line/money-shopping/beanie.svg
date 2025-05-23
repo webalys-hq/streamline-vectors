@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="beanie--beanie-winter-hat-warm-cloth-clothing-wearable-accessories"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 10.5h-11a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-1a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 10.5v-3a5.5 5.5 0 1 1 11 0v3"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 2V.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Beanie--Streamline-Core">
+  <desc>
+    Beanie Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="beanie--beanie-winter-hat-warm-cloth-clothing-wearable-accessories">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 10.5h-11c-0.552285 0 -1 0.4477 -1 1v1c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-1c0 -0.5523 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 10.5v-3c0 -1.45869 0.57946 -2.85764 1.61091 -3.88909S5.54131 2 7 2c1.45869 0 2.85764 0.57946 3.8891 1.61091C11.9205 4.64236 12.5 6.04131 12.5 7.5v3" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 2V0.5" stroke-width="1"></path>
+  </g>
+</svg>

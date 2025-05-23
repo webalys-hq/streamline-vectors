@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shift--key-shift-up-arrow-keyboard"><path id="Vector 2460" fill="#37d7ff" d="M6.646.854 1.354 6.146A.5.5 0 0 0 1.707 7H3.5v6a.5.5 0 0 0 .5.5h6a.5.5 0 0 0 .5-.5V7h1.793a.5.5 0 0 0 .353-.854L7.354.854a.5.5 0 0 0-.708 0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shift--Streamline-Core">
+  <desc>
+    Shift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shift--key-shift-up-arrow-keyboard">
+    <path id="Vector 2460" fill="#8fbffa" d="M6.646 0.854 1.354 6.146A0.5 0.5 0 0 0 1.707 7H3.5v6a0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5 -0.5V7h1.793a0.5 0.5 0 0 0 0.353 -0.854L7.354 0.854a0.5 0.5 0 0 0 -0.708 0Z" stroke-width="1"></path>
+  </g>
+</svg>

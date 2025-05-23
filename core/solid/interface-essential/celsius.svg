@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="celsius--degrees-temperature-centigrade-celsius-degree-weather"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 2.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0ZM2.25 0a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 0 0 0-4.5ZM8 4a2 2 0 0 1 2-2c.934 0 1.803.614 2.057 1.333a1 1 0 0 0 1.886-.666C13.373 1.056 11.679 0 10 0a4 4 0 0 0-4 4v6a4 4 0 0 0 4 4c1.678 0 3.373-1.056 3.943-2.667a1 1 0 1 0-1.886-.666C11.803 11.387 10.934 12 10 12a2 2 0 0 1-2-2V4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Celsius--Streamline-Core">
+  <desc>
+    Celsius Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="celsius--degrees-temperature-centigrade-celsius-degree-weather">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.5 2.25c0 -0.41421 0.33579 -0.75 0.75 -0.75s0.75 0.33579 0.75 0.75 -0.33579 0.75 -0.75 0.75 -0.75 -0.33579 -0.75 -0.75ZM2.25 0C1.00736 0 0 1.00736 0 2.25S1.00736 4.5 2.25 4.5 4.5 3.49264 4.5 2.25 3.49264 0 2.25 0Zm5.74979 4c0 -1.10457 0.89543 -2 2 -2 0.93371 0 1.80291 0.61393 2.05711 1.33325 0.1841 0.52071 0.7554 0.79364 1.2761 0.60959 0.5207 -0.18405 0.7937 -0.75537 0.6096 -1.27609C13.3732 1.05568 11.6785 0 9.99979 0c-2.20914 0 -4 1.79086 -4 4v6c0 2.2091 1.79086 4 4 4 1.67871 0 3.37341 -1.0557 3.94281 -2.6668 0.1841 -0.5207 -0.0889 -1.092 -0.6096 -1.276 -0.5207 -0.18409 -1.092 0.0888 -1.2761 0.6096C11.8027 11.3861 10.9335 12 9.99979 12c-1.10457 0 -2 -0.8954 -2 -2V4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

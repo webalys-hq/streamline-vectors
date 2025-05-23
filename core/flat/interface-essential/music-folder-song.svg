@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="music-folder-song"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.127.556A1.5 1.5 0 0 0 5.183.25H1.5A1.5 1.5 0 0 0 0 1.75v10.5a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5-1.5v-8.5a1.5 1.5 0 0 0-1.5-1.5H6.89l-.215-.86a1.5 1.5 0 0 0-.548-.834Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M9.04 4.494a.967.967 0 0 1 1.22.928V9.16a1.536 1.536 0 1 1-1.5-1.535V6.322l-2.408.668v3.294a1.536 1.536 0 1 1-1.5-1.536V6.386a.967.967 0 0 1 .712-.927l3.471-.963.006-.002Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Folder-Song--Streamline-Core">
+  <desc>
+    Music Folder Song Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="music-folder-song">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.127 0.556A1.5 1.5 0 0 0 5.183 0.25H1.5A1.5 1.5 0 0 0 0 1.75v10.5a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5 -1.5v-8.5a1.5 1.5 0 0 0 -1.5 -1.5H6.89l-0.215 -0.86a1.5 1.5 0 0 0 -0.548 -0.834Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M9.04 4.494a0.967 0.967 0 0 1 1.22 0.928l0 0.004 0 3.683 0 0.05a1.536 1.536 0 1 1 -1.5 -1.535l0 -1.302 -2.408 0.668 0 3.286 0 0.008a1.536 1.536 0 1 1 -1.5 -1.536l0 -2.357 0 -0.005a0.967 0.967 0 0 1 0.712 -0.927l3.471 -0.963 0.006 -0.002Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

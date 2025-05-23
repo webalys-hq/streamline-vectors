@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="online-medical-service-monitor"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.635 10.33a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.331l.687 1.919H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.919Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.457.252C.652.252 0 .905 0 1.71v7.587c0 .804.652 1.456 1.457 1.456h11.086c.805 0 1.457-.652 1.457-1.456V1.709c0-.804-.652-1.457-1.457-1.457H1.457Z" clip-rule="evenodd"></path><path id="union" fill="#3e3e3e" d="M6.38 2.272a.392.392 0 0 0-.392.392v1.56h-1.56a.392.392 0 0 0-.393.393v1.275c0 .217.176.392.392.392h1.56v1.56c0 .217.176.393.393.393h1.275a.392.392 0 0 0 .392-.393v-1.56h1.56A.392.392 0 0 0 10 5.892V4.617a.392.392 0 0 0-.392-.392h-1.56v-1.56a.392.392 0 0 0-.393-.393H6.38Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Online-Medical-Service-Monitor--Streamline-Core">
+  <desc>
+    Online Medical Service Monitor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="online-medical-service-monitor">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.635 10.33a0.5 0.5 0 0 1 0.47 -0.332h1.79a0.5 0.5 0 0 1 0.47 0.331l0.687 1.919H10a0.75 0.75 0 1 1 0 1.5H4a0.75 0.75 0 0 1 0 -1.5h0.948l0.686 -1.919Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.457 0.252C0.652 0.252 0 0.905 0 1.71v7.587c0 0.804 0.652 1.456 1.457 1.456h11.086c0.805 0 1.457 -0.652 1.457 -1.456V1.709c0 -0.804 -0.652 -1.457 -1.457 -1.457H1.457Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="union" fill="#2859c5" d="M6.38 2.272a0.392 0.392 0 0 0 -0.392 0.392v1.56h-1.56a0.392 0.392 0 0 0 -0.393 0.393v1.275c0 0.217 0.176 0.392 0.392 0.392h1.56v1.56c0 0.217 0.176 0.393 0.393 0.393h1.275a0.392 0.392 0 0 0 0.392 -0.393l0 -1.56h1.56A0.392 0.392 0 0 0 10 5.892V4.617a0.392 0.392 0 0 0 -0.392 -0.392l-1.56 0v-1.56a0.392 0.392 0 0 0 -0.393 -0.393H6.38Z" stroke-width="1"></path>
+  </g>
+</svg>

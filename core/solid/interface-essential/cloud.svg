@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cloud--cloud-meteorology-cloudy-overcast-cover-weather"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.913 2.38A5 5 0 1 0 5 12h6a3 3 0 0 0 0-6v.5V6a3.01 3.01 0 0 0-1.065.196 5 5 0 0 0-3.022-3.815Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cloud--Streamline-Core">
+  <desc>
+    Cloud Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cloud--cloud-meteorology-cloudy-overcast-cover-weather">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M6.91342 2.3806c-0.91363 -0.37843 -1.91896 -0.47745 -2.88887 -0.28452 -0.9699 0.19292 -1.86082 0.66913 -2.56008 1.36839C0.765206 4.16373 0.289002 5.05465 0.0960759 6.02455c-0.1929261 0.96991 -0.09390948 1.97524 0.2845291 2.88887 0.378438 0.91363 1.019305 1.69448 1.841545 2.24398C3.0444 11.7068 4.0111 12 5 12h6c0.7957 0 1.5587 -0.3161 2.1213 -0.8787C13.6839 10.5587 14 9.79565 14 9c0 -0.79565 -0.3161 -1.55871 -0.8787 -2.12132C12.5587 6.31607 11.7957 6 11 6v0.5l-0.0007 -0.5c-0.366 0.00049 -0.7264 0.0677 -1.06436 0.196 -0.11453 -0.70294 -0.37846 -1.37651 -0.77759 -1.97385 -0.54941 -0.82225 -1.3303 -1.46311 -2.24393 -1.84155Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

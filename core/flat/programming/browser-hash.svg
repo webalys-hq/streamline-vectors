@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-hash--window-hash-code-internet-language-browser-web-tag"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.75.046C.81.046.047.81.047 1.751v10.498c0 .942.763 1.705 1.705 1.705H12.25c.942 0 1.705-.763 1.705-1.705V1.751c0-.942-.763-1.705-1.705-1.705H1.751Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" d="M1.75.046C.81.046.047.81.047 1.751V3.5h13.908V1.75c0-.94-.763-1.704-1.705-1.704H1.751Z"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M7.255 6.319a.75.75 0 1 0-1.419-.486l-.294.857H4.275a.75.75 0 0 0 0 1.5h.753l-.42 1.225h-.787a.75.75 0 0 0 0 1.5h.274l-.075.22a.75.75 0 0 0 1.419.486l.241-.706h1.14l-.075.22a.75.75 0 0 0 1.419.486l.242-.706h1.32a.75.75 0 0 0 0-1.5h-.807l.42-1.225h.84a.75.75 0 0 0 0-1.5h-.326l.127-.371a.75.75 0 1 0-1.419-.486l-.293.857h-1.14l.127-.371Zm.079 3.096.42-1.225h-1.14l-.42 1.225h1.14Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Hash--Streamline-Core">
+  <desc>
+    Browser Hash Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-hash--window-hash-code-internet-language-browser-web-tag">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.75 0.046C0.81 0.046 0.047 0.81 0.047 1.751v10.498c0 0.942 0.763 1.705 1.705 1.705H12.25c0.942 0 1.705 -0.763 1.705 -1.705V1.751c0 -0.942 -0.763 -1.705 -1.705 -1.705H1.751Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M1.75 0.046C0.81 0.046 0.047 0.81 0.047 1.751V3.5h13.908V1.75c0 -0.94 -0.763 -1.704 -1.705 -1.704H1.751Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M7.255 6.319a0.75 0.75 0 1 0 -1.419 -0.486l-0.294 0.857H4.275a0.75 0.75 0 0 0 0 1.5h0.753l-0.42 1.225h-0.787a0.75 0.75 0 0 0 0 1.5h0.274l-0.075 0.22a0.75 0.75 0 0 0 1.419 0.486l0.241 -0.706h1.14l-0.075 0.22a0.75 0.75 0 0 0 1.419 0.486l0.242 -0.706h1.32a0.75 0.75 0 0 0 0 -1.5h-0.807l0.42 -1.225h0.84a0.75 0.75 0 0 0 0 -1.5h-0.326l0.127 -0.371a0.75 0.75 0 1 0 -1.419 -0.486l-0.293 0.857h-1.14l0.127 -0.371Zm0.079 3.096 0.42 -1.225h-1.14l-0.42 1.225h1.14Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

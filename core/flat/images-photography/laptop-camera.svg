@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="laptop-camera--photos-photo-picture-photography-camera-pictures-laptop-computer"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M5.592 4H3.5A1.5 1.5 0 0 0 2 5.5V10a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5V7.403H7.842a2.25 2.25 0 0 1-2.25-2.25V4Z" clip-rule="evenodd"></path><path id="Vector 1357" fill="#3e3e3e" d="M.193 12.21 2 9.5h10l1.807 2.71a1.152 1.152 0 0 1-.958 1.79H1.15a1.151 1.151 0 0 1-.958-1.79Z"></path><path id="Vector" fill="#3e3e3e" d="M13.842 2.653a1 1 0 0 0-1-1h-.5l-1-1.5h-2l-1 1.5h-.5a1 1 0 0 0-1 1v2.5a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1v-2.5Z"></path><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M9.342 3.653a1 1 0 1 1 2 0 1 1 0 0 1-2 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Laptop-Camera--Streamline-Core">
+  <desc>
+    Laptop Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="laptop-camera--photos-photo-picture-photography-camera-pictures-laptop-computer">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M5.592 4H3.5A1.5 1.5 0 0 0 2 5.5V10a0.5 0.5 0 0 0 0.5 0.5h9a0.5 0.5 0 0 0 0.5 -0.5V7.403H7.842a2.25 2.25 0 0 1 -2.25 -2.25V4Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1357" fill="#2859c5" d="M0.193 12.21 2 9.5h10l1.807 2.71a1.152 1.152 0 0 1 -0.958 1.79H1.15a1.151 1.151 0 0 1 -0.958 -1.79Z" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M13.842 2.653a1 1 0 0 0 -1 -1h-0.5l-1 -1.5h-2l-1 1.5h-0.5a1 1 0 0 0 -1 1v2.5a1 1 0 0 0 1 1h5a1 1 0 0 0 1 -1v-2.5Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M9.342 3.653a1 1 0 1 1 2 0 1 1 0 0 1 -2 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

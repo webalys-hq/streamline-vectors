@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="earpods--airpods-audio-earpods-music-earbuds-true-wireless-entertainment"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M13.46.707a3.146 3.146 0 0 0-1.742-.523 3.146 3.146 0 0 0-3.145 3.145v9.217a1.31 1.31 0 0 0 2.621 0V6.475c.174.016.35.016.524 0 .623 0 1.229-.183 1.742-.524.238-.157.355-.436.355-.721V1.428c0-.285-.117-.564-.354-.722ZM.54.707A3.146 3.146 0 0 1 2.281.184a3.146 3.146 0 0 1 3.145 3.145v9.217a1.31 1.31 0 0 1-2.621 0V6.475c-.174.016-.35.016-.524 0A3.146 3.146 0 0 1 .539 5.95c-.237-.156-.354-.435-.354-.72V1.429c0-.285.117-.564.354-.722Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Earpods--Streamline-Core">
+  <desc>
+    Earpods Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="earpods--airpods-audio-earpods-music-earbuds-true-wireless-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M13.46 0.707a3.146 3.146 0 0 0 -1.742 -0.523 3.146 3.146 0 0 0 -3.145 3.145v9.217a1.31 1.31 0 0 0 2.621 0V6.475c0.174 0.016 0.35 0.016 0.524 0 0.623 0 1.229 -0.183 1.742 -0.524 0.238 -0.157 0.355 -0.436 0.355 -0.721V1.428c0 -0.285 -0.117 -0.564 -0.354 -0.722ZM0.54 0.707A3.146 3.146 0 0 1 2.281 0.184a3.146 3.146 0 0 1 3.145 3.145v9.217a1.31 1.31 0 0 1 -2.621 0V6.475c-0.174 0.016 -0.35 0.016 -0.524 0A3.146 3.146 0 0 1 0.539 5.95c-0.237 -0.156 -0.354 -0.435 -0.354 -0.72V1.429c0 -0.285 0.117 -0.564 0.354 -0.722Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

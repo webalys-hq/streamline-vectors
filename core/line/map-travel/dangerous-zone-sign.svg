@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dangerous-zone-sign"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.89 1.05a1 1 0 0 0-1.78 0l-5.5 11a1 1 0 0 0 .89 1.45h11a1 1 0 0 0 .89-1.45l-5.5-11Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.696 10.969 2.022-2.767H5.281l2.022-2.766"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dangerous-Zone-Sign--Streamline-Core">
+  <desc>
+    Dangerous Zone Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dangerous-zone-sign">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.89088 1.0499C7.80696 0.886097 7.67947 0.748632 7.52244 0.652642 7.3654 0.556651 7.18493 0.505859 7.00088 0.505859c-0.18405 0 -0.36452 0.050792 -0.52155 0.146783 -0.15704 0.09599 -0.28453 0.233455 -0.36845 0.397258l-5.5 11c-0.07671 0.1522 -0.113232 0.3215 -0.106097 0.4919 0.007134 0.1703 0.057688 0.3359 0.14686 0.4812 0.089173 0.1453 0.214003 0.2654 0.362637 0.3488 0.14863 0.0835 0.31614 0.1276 0.4866 0.1281H12.5009c0.1704 -0.0005 0.3379 -0.0446 0.4866 -0.1281 0.1486 -0.0834 0.2734 -0.2035 0.3626 -0.3488s0.1397 -0.3109 0.1469 -0.4812c0.0071 -0.1704 -0.0294 -0.3397 -0.1061 -0.4919l-5.50002 -11Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.6963 10.9688 2.02217 -2.76665H5.28125l2.02218 -2.7666" stroke-width="1"></path>
+  </g>
+</svg>

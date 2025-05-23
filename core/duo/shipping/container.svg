@@ -1,1 +1,14 @@
-<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="container--box-package-label-delivery-shipment-shipping-container"><path id="Vector" d="M12.75 11.5v-9H1.25v9h11.5Z" fill="#37d7ff"></path><path id="Vector_2" d="M12.75 11.5v-9H1.25v9h11.5Z" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_3" d="M13.5 2.5H.5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_4" d="M13.5 11.5H.5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_5" d="M4 5v4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_6" d="M7 5v4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_7" d="M10 5v4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" id="Container--Streamline-Core">
+  <desc>
+    Container Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="container--box-package-label-delivery-shipment-shipping-container">
+    <path id="Vector" d="M12.75 11.5v-9H1.25v9h11.5Z" fill="#d7e0ff" stroke-width="1"></path>
+    <path id="Vector_2" d="M12.75 11.5v-9H1.25v9h11.5Z" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_3" d="m13.5 2.5 -13 0" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_4" d="m13.5 11.5 -13 0" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_5" d="M4 5v4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_6" d="M7 5v4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_7" d="M10 5v4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>

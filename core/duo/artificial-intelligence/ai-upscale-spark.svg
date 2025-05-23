@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-upscale-spark--magnifier-zoom-view-find-search-ai"><path id="Vector" fill="#37d7ff" d="M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.74 2.76 2.76"></path><path id="Vector 2136" fill="#ffffff" d="M3.59 6.813c-.351-.061-.351-.565 0-.626a3.176 3.176 0 0 0 2.558-2.45l.021-.097c.076-.347.57-.349.649-.003l.026.113a3.193 3.193 0 0 0 2.565 2.436c.353.06.353.567 0 .629A3.193 3.193 0 0 0 6.844 9.25l-.026.113c-.079.346-.573.344-.649-.003l-.021-.097a3.176 3.176 0 0 0-2.558-2.45Z"></path><path id="Vector 2137" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.59 6.813c-.351-.061-.351-.565 0-.626a3.176 3.176 0 0 0 2.558-2.45l.021-.097c.076-.347.57-.349.649-.003l.026.113a3.193 3.193 0 0 0 2.565 2.436c.353.06.353.567 0 .629A3.193 3.193 0 0 0 6.844 9.25l-.026.113c-.079.346-.573.344-.649-.003l-.021-.097a3.176 3.176 0 0 0-2.558-2.45Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Upscale-Spark--Streamline-Core">
+  <desc>
+    Ai Upscale Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-upscale-spark--magnifier-zoom-view-find-search-ai">
+    <path id="Vector" fill="#d7e0ff" d="M6.5 12.5a6 6 0 1 0 0 -12 6 6 0 0 0 0 12Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5a6 6 0 1 0 0 -12 6 6 0 0 0 0 12Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.74 2.76 2.76" stroke-width="1"></path>
+    <path id="Vector 2136" fill="#ffffff" d="M3.59 6.813c-0.351 -0.061 -0.351 -0.565 0 -0.626a3.176 3.176 0 0 0 2.558 -2.45l0.021 -0.097c0.076 -0.347 0.57 -0.349 0.649 -0.003l0.026 0.113a3.193 3.193 0 0 0 2.565 2.436c0.353 0.06 0.353 0.567 0 0.629A3.193 3.193 0 0 0 6.844 9.25l-0.026 0.113c-0.079 0.346 -0.573 0.344 -0.649 -0.003l-0.021 -0.097a3.176 3.176 0 0 0 -2.558 -2.45Z" stroke-width="1"></path>
+    <path id="Vector 2137" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.59 6.813c-0.351 -0.061 -0.351 -0.565 0 -0.626a3.176 3.176 0 0 0 2.558 -2.45l0.021 -0.097c0.076 -0.347 0.57 -0.349 0.649 -0.003l0.026 0.113a3.193 3.193 0 0 0 2.565 2.436c0.353 0.06 0.353 0.567 0 0.629A3.193 3.193 0 0 0 6.844 9.25l-0.026 0.113c-0.079 0.346 -0.573 0.344 -0.649 -0.003l-0.021 -0.097a3.176 3.176 0 0 0 -2.558 -2.45Z" stroke-width="1"></path>
+  </g>
+</svg>

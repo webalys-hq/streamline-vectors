@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="camera-video--film-television-tv-camera-movies-video-recorder"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 6.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 6.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 9H4.5a1 1 0 0 0-1 1v2.5a1 1 0 0 0 1 1H10a1 1 0 0 0 1-1V10a1 1 0 0 0-1-1Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 10v2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Video--Streamline-Core">
+  <desc>
+    Camera Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-video--film-television-tv-camera-movies-video-recorder">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 6.5c1.65685 0 3 -1.34315 3 -3s-1.34315 -3 -3 -3 -3 1.34315 -3 3 1.34315 3 3 3Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 6.5c1.1046 0 2 -0.89543 2 -2s-0.8954 -2 -2 -2c-1.10457 0 -2 0.89543 -2 2s0.89543 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 9H4.5c-0.55228 0 -1 0.44772 -1 1v2.5c0 0.5523 0.44772 1 1 1H10c0.5523 0 1 -0.4477 1 -1V10c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 10v2.5" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="composition-vertical--camera-portrait-frame-vertical-composition-photography-photo"><g id="Union"><path fill="#37d7ff" d="M10.827.051c-.044-.002-.084 0-.108 0h-.02l-.031.002H3.362a1.399 1.399 0 0 0-.342.026 1.004 1.004 0 0 0-.657 1.427l.006.013a13.975 13.975 0 0 1-.014 10.995l-.004.009c-.014.033-.047.108-.067.19-.134.55.23 1.155.846 1.229.071.008.149.007.178.007h7.319c.05.001.183.004.302-.02a.955.955 0 0 0 .727-1.207 1.91 1.91 0 0 0-.091-.23l-.003-.007A13.974 13.974 0 0 1 11.618 1.5c.001-.002.046-.098.066-.154a.96.96 0 0 0-.857-1.295Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Composition-Vertical--Streamline-Core">
+  <desc>
+    Composition Vertical Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="composition-vertical--camera-portrait-frame-vertical-composition-photography-photo">
+    <g id="Union">
+      <path fill="#8fbffa" d="M10.827 0.051c-0.044 -0.002 -0.084 0 -0.108 0l-0.02 0 -0.031 0.002h-7.29l-0.016 0a1.399 1.399 0 0 0 -0.342 0.026 1.004 1.004 0 0 0 -0.657 1.427l0.006 0.013a13.975 13.975 0 0 1 -0.014 10.995l-0.004 0.009c-0.014 0.033 -0.047 0.108 -0.067 0.19 -0.134 0.55 0.23 1.155 0.846 1.229 0.071 0.008 0.149 0.007 0.178 0.007l0.01 0h7.293l0.016 0c0.05 0.001 0.183 0.004 0.302 -0.02a0.955 0.955 0 0 0 0.727 -1.207 1.91 1.91 0 0 0 -0.091 -0.23l-0.003 -0.007A13.974 13.974 0 0 1 11.618 1.5c0.001 -0.002 0.046 -0.098 0.066 -0.154a0.96 0.96 0 0 0 -0.857 -1.295Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

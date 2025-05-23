@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hand-grab--hand-select-cursor-finger-grab"><path id="Vector 2346" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.364 13.5v-1.496l-1.926-1.54a1.995 1.995 0 0 1-.71-1.167l-.53-2.647a1.994 1.994 0 0 1 1.216-2.243l.952-.38V2.494A1.995 1.995 0 0 1 5.772.544l5.485 1.154A1.994 1.994 0 0 1 12.84 3.65v3.008c0 1.548-.36 3.075-1.053 4.46l-.443.886V13.5"></path><path id="Vector 2347" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.366 4.026V6.52"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Grab--Streamline-Core">
+  <desc>
+    Hand Grab Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hand-grab--hand-select-cursor-finger-grab">
+    <path id="Vector 2346" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.36361 13.5v-1.4959l-1.92579 -1.5406c-0.36644 -0.2932 -0.61778 -0.70614 -0.70982 -1.1663l-0.52939 -2.64698c-0.18856 -0.9428 0.32233 -1.88592 1.21503 -2.243l0.95272 -0.3811V2.49524c0 -1.26685 1.16572 -2.212703 2.40539 -1.951718L11.2566 1.69823c0.923 0.19431 1.5836 1.00855 1.5836 1.95172v3.00824c0 1.54818 -0.3604 3.0751 -1.0528 4.45981l-0.443 0.8861V13.5" stroke-width="1"></path>
+    <path id="Vector 2347" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.36646 4.02612v2.49313" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shield-cross--shield-secure-security-cross-add-plus"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.36 13.433a1 1 0 0 1-.72 0A9.565 9.565 0 0 1 .504 4.498V1.499A1 1 0 0 1 1.503.5h10.994a1 1 0 0 1 1 1v2.998a9.565 9.565 0 0 1-6.137 8.935Z"></path><path id="Vector 5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 3.008H6v2H4.001v1.998h2v2h1.998v-2h2V5.007h-2V3.008Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-Cross--Streamline-Core">
+  <desc>
+    Shield Cross Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shield-cross--shield-secure-security-cross-add-plus">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.35982 13.433c-0.23155 0.0893 -0.48806 0.0893 -0.71961 0 -1.80675 -0.6937 -3.36058 -1.9191 -4.45624 -3.51438C1.08831 8.32331 0.50237 6.43316 0.503542 4.49783V1.49946c0 -0.26507 0.1053 -0.519291 0.292734 -0.706725C0.983711 0.6053 1.23793 0.5 1.503 0.5h10.994c0.2651 0 0.5193 0.1053 0.7068 0.292735 0.1874 0.187434 0.2927 0.441655 0.2927 0.706725v2.99837c0.0012 1.93533 -0.5848 3.82548 -1.6804 5.42079 -1.0957 1.59528 -2.64952 2.82068 -4.45628 3.51438Z" stroke-width="1"></path>
+    <path id="Vector 5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.9993 3.0083H6.00038v1.99892H4.00146v1.99891h1.99892v1.99892H7.9993V7.00613h1.99891V5.00722H7.9993V3.0083Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="page-setting--page-setting-square-triangle-circle-line-combination-variation"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.21.334 7.565 5.626a.603.603 0 0 0 .54.874h5.29c.45 0 .741-.472.54-.874L11.29.334a.604.604 0 0 0-1.08 0ZM0 1A.5.5 0 0 1 .5.5h5A.5.5 0 0 1 6 1v5a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 0 6V1Zm3 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M8.5 8a.75.75 0 0 0 0 1.5H13A.75.75 0 0 0 13 8H8.5Zm-.75 3a.75.75 0 0 1 .75-.75H13a.75.75 0 0 1 0 1.5H8.5a.75.75 0 0 1-.75-.75Zm0 2.25a.75.75 0 0 1 .75-.75H13a.75.75 0 0 1 0 1.5H8.5a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Page-Setting--Streamline-Core">
+  <desc>
+    Page Setting Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="page-setting--page-setting-square-triangle-circle-line-combination-variation">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.21 0.334 7.565 5.626a0.603 0.603 0 0 0 0.54 0.874h5.29c0.45 0 0.741 -0.472 0.54 -0.874L11.29 0.334a0.604 0.604 0 0 0 -1.08 0ZM0 1A0.5 0.5 0 0 1 0.5 0.5h5A0.5 0.5 0 0 1 6 1v5a0.5 0.5 0 0 1 -0.5 0.5h-5A0.5 0.5 0 0 1 0 6V1Zm3 13a3 3 0 1 0 0 -6 3 3 0 0 0 0 6Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M8.5 8a0.75 0.75 0 0 0 0 1.5H13A0.75 0.75 0 0 0 13 8H8.5Zm-0.75 3a0.75 0.75 0 0 1 0.75 -0.75H13a0.75 0.75 0 0 1 0 1.5H8.5a0.75 0.75 0 0 1 -0.75 -0.75Zm0 2.25a0.75 0.75 0 0 1 0.75 -0.75H13a0.75 0.75 0 0 1 0 1.5H8.5a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="code-monitor-2--code-tags-angle-image-ui-ux-design"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.105 10.245a.5.5 0 0 0-.47.332l-.687 1.918H4a.75.75 0 1 0 0 1.5h6a.75.75 0 0 0 0-1.5h-.948l-.686-1.918a.5.5 0 0 0-.471-.332h-1.79Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.457.75C.79.75.25 1.29.25 1.957v7.586c0 .667.54 1.207 1.207 1.207h11.086c.667 0 1.207-.54 1.207-1.207V1.957c0-.667-.54-1.207-1.207-1.207H1.457Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" d="M1.457.75C.79.75.25 1.29.25 1.957v7.586c0 .667.54 1.207 1.207 1.207H6v-10H1.457Z"></path><path id="Vector" fill="#3e3e3e" d="M7.897 9.25h4.13a.25.25 0 0 0 .28-.26v-1.2a.22.22 0 0 0-.09-.19l-1.81-1.56a1.37 1.37 0 0 0-1.75 0l-.88.71a.22.22 0 0 0-.12.17V9a.25.25 0 0 0 .24.25Z"></path><path id="Vector_2" fill="#37d7ff" d="M4.276 3.87h-1.75a.63.63 0 1 0 0 1.26h1.75a.63.63 0 0 0 0-1.26Z"></path><path id="Vector_3" fill="#37d7ff" d="M3.526 6.37h-1a.63.63 0 1 0 0 1.26h1a.63.63 0 0 0 0-1.26Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Code-Monitor-2--Streamline-Core">
+  <desc>
+    Code Monitor 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="code-monitor-2--code-tags-angle-image-ui-ux-design">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M6.105 10.245a0.5 0.5 0 0 0 -0.47 0.332l-0.687 1.918H4a0.75 0.75 0 1 0 0 1.5h6a0.75 0.75 0 0 0 0 -1.5h-0.948l-0.686 -1.918a0.5 0.5 0 0 0 -0.471 -0.332h-1.79Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.457 0.75C0.79 0.75 0.25 1.29 0.25 1.957v7.586c0 0.667 0.54 1.207 1.207 1.207h11.086c0.667 0 1.207 -0.54 1.207 -1.207V1.957c0 -0.667 -0.54 -1.207 -1.207 -1.207H1.457Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" d="M1.457 0.75C0.79 0.75 0.25 1.29 0.25 1.957v7.586c0 0.667 0.54 1.207 1.207 1.207H6v-10H1.457Z" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M7.897 9.25h4.13a0.25 0.25 0 0 0 0.28 -0.26v-1.2a0.22 0.22 0 0 0 -0.09 -0.19l-1.81 -1.56a1.37 1.37 0 0 0 -1.75 0l-0.88 0.71a0.22 0.22 0 0 0 -0.12 0.17V9a0.25 0.25 0 0 0 0.24 0.25Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#8fbffa" d="M4.276 3.87h-1.75a0.63 0.63 0 1 0 0 1.26h1.75a0.63 0.63 0 0 0 0 -1.26Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#8fbffa" d="M3.526 6.37h-1a0.63 0.63 0 1 0 0 1.26h1a0.63 0.63 0 0 0 0 -1.26Z" stroke-width="1"></path>
+  </g>
+</svg>

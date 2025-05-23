@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="usb-drive--usb-drive-stick-memory-storage-data-connection"><path id="Vector 2448" fill="#ffffff" d="M4 .5v4h6v-4H4Z"></path><path id="Vector 2447" fill="#37d7ff" d="M2.5 9V5.5a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1V9a4.5 4.5 0 1 1-9 0Z"></path><path id="Vector 2445" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 9V5.5a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1V9a4.5 4.5 0 1 1-9 0Z"></path><path id="Vector 2446" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 .5v4h6v-4H4Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Usb-Drive--Streamline-Core">
+  <desc>
+    Usb Drive Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="usb-drive--usb-drive-stick-memory-storage-data-connection">
+    <path id="Vector 2448" fill="#ffffff" d="M4 0.5v4h6v-4H4Z" stroke-width="1"></path>
+    <path id="Vector 2447" fill="#d7e0ff" d="M2.5 9V5.5c0 -0.55228 0.44772 -1 1 -1h7c0.5523 0 1 0.44772 1 1V9c0 2.4853 -2.01472 4.5 -4.5 4.5S2.5 11.4853 2.5 9Z" stroke-width="1"></path>
+    <path id="Vector 2445" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 9V5.5c0 -0.55228 0.44772 -1 1 -1h7c0.5523 0 1 0.44772 1 1V9c0 2.4853 -2.01472 4.5 -4.5 4.5S2.5 11.4853 2.5 9Z" stroke-width="1"></path>
+    <path id="Vector 2446" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 0.5v4h6v-4H4Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="add-layer-2--layer-add-design-plus-layers-square-box"><g id="Rectangle 461"><path fill="#3e3e3e" d="M13.25 2.25a1.5 1.5 0 0 0-1.5-1.5h-8a1.5 1.5 0 0 0-1.5 1.5v8a1.5 1.5 0 0 0 1.5 1.5h8a1.5 1.5 0 0 0 1.5-1.5v-8Z"></path></g><g id="Rectangle 460"><path fill="#37d7ff" d="M11 4.5A1.5 1.5 0 0 0 9.5 3h-8A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h8a1.5 1.5 0 0 0 1.5-1.5v-8Z"></path></g><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.25 6a.75.75 0 0 0-1.5 0v1.75H3a.75.75 0 0 0 0 1.5h1.75V11a.75.75 0 0 0 1.5 0V9.25H8a.75.75 0 0 0 0-1.5H6.25V6Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Layer-2--Streamline-Core">
+  <desc>
+    Add Layer 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="add-layer-2--layer-add-design-plus-layers-square-box">
+    <g id="Rectangle 461">
+      <path fill="#2859c5" d="M13.25 2.25a1.5 1.5 0 0 0 -1.5 -1.5h-8a1.5 1.5 0 0 0 -1.5 1.5v8a1.5 1.5 0 0 0 1.5 1.5h8a1.5 1.5 0 0 0 1.5 -1.5v-8Z" stroke-width="1"></path>
+    </g>
+    <g id="Rectangle 460">
+      <path fill="#8fbffa" d="M11 4.5A1.5 1.5 0 0 0 9.5 3h-8A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h8a1.5 1.5 0 0 0 1.5 -1.5v-8Z" stroke-width="1"></path>
+    </g>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M6.25 6a0.75 0.75 0 0 0 -1.5 0v1.75H3a0.75 0.75 0 0 0 0 1.5h1.75V11a0.75 0.75 0 0 0 1.5 0V9.25H8a0.75 0.75 0 0 0 0 -1.5H6.25V6Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

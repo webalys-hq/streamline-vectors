@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-lock--secure-password-window-browser-lock-security-login-encryption"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.75.046C.81.046.047.81.047 1.751v10.498c0 .942.763 1.705 1.705 1.705H12.25c.942 0 1.705-.763 1.705-1.705V1.751c0-.942-.763-1.705-1.705-1.705H1.751Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" d="M1.75.046C.81.046.047.81.047 1.751V3.5h13.908V1.75c0-.94-.763-1.704-1.705-1.704H1.751Z"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M6.125 7.267a.875.875 0 1 1 1.75 0v.5h-1.75v-.5Zm-1.25.72v-.72a2.125 2.125 0 1 1 4.25 0v.72a.998.998 0 0 1 .375.78v2a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-2c0-.316.146-.598.375-.78Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Lock--Streamline-Core">
+  <desc>
+    Browser Lock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-lock--secure-password-window-browser-lock-security-login-encryption">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.75 0.046C0.81 0.046 0.047 0.81 0.047 1.751v10.498c0 0.942 0.763 1.705 1.705 1.705H12.25c0.942 0 1.705 -0.763 1.705 -1.705V1.751c0 -0.942 -0.763 -1.705 -1.705 -1.705H1.751Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M1.75 0.046C0.81 0.046 0.047 0.81 0.047 1.751V3.5h13.908V1.75c0 -0.94 -0.763 -1.704 -1.705 -1.704H1.751Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M6.125 7.267a0.875 0.875 0 1 1 1.75 0v0.5h-1.75v-0.5Zm-1.25 0.72v-0.72a2.125 2.125 0 1 1 4.25 0v0.72a0.998 0.998 0 0 1 0.375 0.78v2a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-2c0 -0.316 0.146 -0.598 0.375 -0.78Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

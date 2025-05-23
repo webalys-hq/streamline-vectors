@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="music-note-2--music-audio-note-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 13.42a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 10.92a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.92V1.08a.499.499 0 0 0-.63-.48l-8 2.22a.5.5 0 0 0-.37.48v8.12"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.5 5.92 9-2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Note-2--Streamline-Core">
+  <desc>
+    Music Note 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="music-note-2--music-audio-note-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 13.4199c1.10457 0 2 -0.8954 2 -2 0 -1.1045 -0.89543 -1.99998 -2 -1.99998s-2 0.89548 -2 1.99998c0 1.1046 0.89543 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5 10.9199c1.1046 0 2 -0.8954 2 -1.99998 0 -1.10457 -0.8954 -2 -2 -2s-2 0.89543 -2 2c0 1.10458 0.8954 1.99998 2 1.99998Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.91996v-7.84c-0.0004 -0.07651 -0.0184 -0.151896 -0.0526 -0.220362 -0.0341 -0.068466 -0.0835 -0.128182 -0.1444 -0.17455 -0.0608 -0.046368 -0.1315 -0.078152 -0.2066 -0.092903s-0.1525 -0.012077 -0.2264 0.007816l-8 2.219999c-0.10572 0.02847 -0.19917 0.09084 -0.26601 0.17755 -0.06684 0.08672 -0.10338 0.19297 -0.10399 0.30245V11.42" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.5 5.91992 9 -2.5" stroke-width="1"></path>
+  </g>
+</svg>

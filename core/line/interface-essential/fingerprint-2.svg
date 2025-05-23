@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="fingerprint-2--identification-password-touch-id-secure-fingerprint-finger-security"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.39a5 5 0 0 0 5-5V5.61a5 5 0 0 0-1.27-3.33"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 6.72v1.67A5 5 0 0 0 5.06 13"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1.28a5 5 0 0 0-6.83 1.83 4.91 4.91 0 0 0-.57 1.52"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.48 3.51A2.51 2.51 0 0 1 9.5 6v1.61"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.86 9.71A2.5 2.5 0 0 1 4.5 8V6a2.53 2.53 0 0 1 .2-1"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 6.11v1.67"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fingerprint-2--Streamline-Core">
+  <desc>
+    Fingerprint 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fingerprint-2--identification-password-touch-id-secure-fingerprint-finger-security">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.39c0.65661 0 1.30679 -0.1293 1.91342 -0.3806 0.60662 -0.2512 1.15778 -0.6195 1.62208 -1.0838 0.4643 -0.4643 0.8326 -1.0155 1.0839 -1.6222 0.2513 -0.60658 0.3806 -1.25676 0.3806 -1.91337v-2.78c0.0001 -1.22832 -0.452 -2.41368 -1.27 -3.33" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 6.71997v1.67c-0.00033 0.98429 0.28985 1.94683 0.8342 2.76683 0.54434 0.8201 1.31862 1.4613 2.2258 1.8432" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.49998 1.27997C8.35158 0.616958 6.98685 0.437285 5.70598 0.780475 4.42512 1.12366 3.33304 1.9616 2.66998 3.10997c-0.27303 0.47153 -0.46566 0.98522 -0.57 1.52" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.47998 3.50992c0.3678 -0.07635 0.74804 -0.06918 1.1127 0.02098 0.36466 0.09017 0.70443 0.26104 0.99426 0.5 0.28983 0.23897 0.52233 0.53994 0.68035 0.88072 0.15802 0.34079 0.23754 0.71269 0.23269 1.0883v1.61" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.85995 9.71c-0.34025 0.379 -0.78814 0.645 -1.28373 0.7625 -0.49559 0.1175 -1.01524 0.0808 -1.4894 -0.1052 -0.47415 -0.186 -0.8802 -0.51232 -1.1638 -0.93538 -0.28359 -0.42307 -0.4312 -0.92266 -0.42307 -1.43192V6c-0.0019 -0.34345 0.06615 -0.6837 0.2 -1" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 6.11011v1.67" stroke-width="1"></path>
+  </g>
+</svg>

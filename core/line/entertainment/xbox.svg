@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="xbox--xbox-entertainment-gaming"><path id="Ellipse 247" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0-13 0"></path><path id="Vector 706" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.285 2.526c3.785.296 8.775 5.102 8.95 9.405"></path><path id="Vector 705" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.716 2.526c-3.786.296-8.776 5.102-8.95 9.405"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Xbox--Streamline-Core">
+  <desc>
+    Xbox Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="xbox--xbox-entertainment-gaming">
+    <path id="Ellipse 247" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="Vector 706" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.28467 2.52563c3.78537 0.29681 8.77583 5.10219 8.94993 9.40567" stroke-width="1"></path>
+    <path id="Vector 705" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.7157 2.52563c-3.78537 0.29681 -8.77581 5.10219 -8.94989 9.40567" stroke-width="1"></path>
+  </g>
+</svg>

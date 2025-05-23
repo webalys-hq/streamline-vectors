@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tree-2--nature-tree-plant-circle-round-park"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.501 5.499A5.499 5.499 0 1 1 8 10.907V13a1 1 0 1 1-2 0v-2.094a5.5 5.5 0 0 1-4.499-5.408Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tree-2--Streamline-Core">
+  <desc>
+    Tree 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tree-2--nature-tree-plant-circle-round-park">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.50125 5.49874C1.50125 2.46187 3.96312 0 6.99999 0c3.03691 0 5.49871 2.46187 5.49871 5.49874 0 2.69537 -1.9393 4.93776 -4.4987 5.40806v2.0941c0 0.5523 -0.44771 1 -1 1 -0.55228 0 -1 -0.4477 -1 -1v-2.0941c-2.55942 -0.4703 -4.49875 -2.71268 -4.49875 -5.40806Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

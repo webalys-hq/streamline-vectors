@@ -1,1 +1,12 @@
-<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="fragile--fragile-shipping-glass-delivery-wine-crack-shipment-sign-sticker"><path id="Vector" d="M3.67.5a1 1 0 0 0-1 .89C2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5-1.38 4.5-4c0-.45-.06-2-.17-3.11a1 1 0 0 0-1-.89H3.67Z" fill="#37d7ff"></path><path id="Vector_2" d="M3.67.5a1 1 0 0 0-1 .89C2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5-1.38 4.5-4c0-.45-.06-2-.17-3.11a1 1 0 0 0-1-.89H3.67Z" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_3" d="M7 8.5v5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_4" d="M5 13.5h4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path><path id="Vector_5" d="m7 .5-1.5 2 2 1.5-1 1.5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>
+<svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" id="Fragile--Streamline-Core">
+  <desc>
+    Fragile Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fragile--fragile-shipping-glass-delivery-wine-crack-shipment-sign-sticker">
+    <path id="Vector" d="M3.67 0.500003c-0.24721 -0.0015 -0.48622 0.088627 -0.67089 0.252985C2.81443 0.917346 2.69719 1.14428 2.67 1.39 2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5 -1.38 4.5 -4c0 -0.45 -0.06 -2 -0.17 -3.11 -0.0272 -0.24572 -0.1444 -0.472654 -0.3291 -0.637012S10.5772 0.498503 10.33 0.500003H3.67Z" fill="#d7e0ff" stroke-width="1"></path>
+    <path id="Vector_2" d="M3.67 0.500003c-0.24721 -0.0015 -0.48622 0.088627 -0.67089 0.252985C2.81443 0.917346 2.69719 1.14428 2.67 1.39 2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5 -1.38 4.5 -4c0 -0.45 -0.06 -2 -0.17 -3.11 -0.0272 -0.24572 -0.1444 -0.472654 -0.3291 -0.637012S10.5772 0.498503 10.33 0.500003H3.67Z" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_3" d="M7 8.5v5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_4" d="M5 13.5h4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+    <path id="Vector_5" d="m7 0.5 -1.5 2 2 1.5 -1 1.5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>

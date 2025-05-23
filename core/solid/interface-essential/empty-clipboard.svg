@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="empty-clipboard--work-plain-clipboard-task-list-company-office"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.5 0a1 1 0 0 0-1 1v.5a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1h-3ZM2.75 1h.5v.5A2.25 2.25 0 0 0 5.5 3.75h3a2.25 2.25 0 0 0 2.25-2.25V1h.5a1.5 1.5 0 0 1 1.5 1.5v10a1.5 1.5 0 0 1-1.5 1.5h-8.5a1.5 1.5 0 0 1-1.5-1.5v-10A1.5 1.5 0 0 1 2.75 1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Empty-Clipboard--Streamline-Core">
+  <desc>
+    Empty Clipboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="empty-clipboard--work-plain-clipboard-task-list-company-office">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5.5 0c-0.55228 0 -1 0.447716 -1 1v0.5c0 0.55229 0.44772 1 1 1h3c0.55229 0 1 -0.44771 1 -1V1c0 -0.552285 -0.44771 -1 -1 -1h-3ZM2.75 1h0.5v0.5c0 1.24264 1.00736 2.25 2.25 2.25h3c1.24264 0 2.25 -1.00736 2.25 -2.25V1h0.5c0.8284 0 1.5 0.67157 1.5 1.5v10c0 0.8284 -0.6716 1.5 -1.5 1.5h-8.5c-0.82843 0 -1.5 -0.6716 -1.5 -1.5v-10c0 -0.82843 0.67157 -1.5 1.5 -1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

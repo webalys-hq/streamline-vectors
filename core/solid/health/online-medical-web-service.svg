@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="online-medical-web-service"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.547 12.25V3.314h10.907v8.934a.204.204 0 0 1-.204.205H1.751a.204.204 0 0 1-.204-.205Zm-1.5-10.5C.047.81.81.046 1.75.046h10.5c.94 0 1.704.763 1.704 1.704v10.5c0 .94-.764 1.704-1.705 1.704H1.751a1.705 1.705 0 0 1-1.704-1.705V1.75Z" clip-rule="evenodd"></path><path id="union" fill="#3e3e3e" d="M6.364 5.04a.392.392 0 0 0-.393.392v1.56h-1.56a.392.392 0 0 0-.392.392V8.66c0 .217.175.393.392.393h1.56v1.56c0 .217.176.392.392.392h1.275a.392.392 0 0 0 .393-.392v-1.56h1.56a.392.392 0 0 0 .392-.393V7.384a.392.392 0 0 0-.392-.392h-1.56v-1.56a.392.392 0 0 0-.392-.393H6.364Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Online-Medical-Web-Service--Streamline-Core">
+  <desc>
+    Online Medical Web Service Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="online-medical-web-service">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.547 12.25V3.314h10.907v8.934a0.204 0.204 0 0 1 -0.204 0.205H1.751a0.204 0.204 0 0 1 -0.204 -0.205Zm-1.5 -10.5C0.047 0.81 0.81 0.046 1.75 0.046h10.5c0.94 0 1.704 0.763 1.704 1.704v10.5c0 0.94 -0.764 1.704 -1.705 1.704H1.751a1.705 1.705 0 0 1 -1.704 -1.705V1.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="union" fill="#000000" d="M6.364 5.04a0.392 0.392 0 0 0 -0.393 0.392v1.56h-1.56a0.392 0.392 0 0 0 -0.392 0.392V8.66c0 0.217 0.175 0.393 0.392 0.393h1.56v1.56c0 0.217 0.176 0.392 0.392 0.392h1.275a0.392 0.392 0 0 0 0.393 -0.392l0 -1.56h1.56a0.392 0.392 0 0 0 0.392 -0.393V7.384a0.392 0.392 0 0 0 -0.392 -0.392l-1.56 0v-1.56a0.392 0.392 0 0 0 -0.392 -0.393H6.364Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wifi--wireless-wifi-internet-server-network-connection"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 12.25a1.31 1.31 0 1 0 0-2.62 1.31 1.31 0 0 0 0 2.62Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.53 8a3.49 3.49 0 0 1 5 0"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.36 6.31a6.55 6.55 0 0 1 9.29 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 4.45a9.19 9.19 0 0 1 13 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wifi--Streamline-Core">
+  <desc>
+    Wifi Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wifi--wireless-wifi-internet-server-network-connection">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 12.2499c0.7235 0 1.31 -0.5865 1.31 -1.31S7.7235 9.62988 7 9.62988c-0.72349 0 -1.31 0.58652 -1.31 1.31002 0 0.7235 0.58651 1.31 1.31 1.31Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.53 7.99989c0.32517 -0.33383 0.71392 -0.59916 1.14329 -0.78032 0.42937 -0.18117 0.89068 -0.2745 1.35671 -0.2745 0.46603 0 0.92734 0.09333 1.35671 0.2745 0.42937 0.18116 0.81811 0.44649 1.14329 0.78032" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.35999 6.31011c0.60871 -0.61226 1.33246 -1.09814 2.12962 -1.4297 0.79716 -0.33155 1.65201 -0.50224 2.51538 -0.50224 0.86336 0 1.71821 0.17069 2.51537 0.50224 0.79714 0.33156 1.52094 0.81744 2.12964 1.4297" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 4.44997c0.85343 -0.85388 1.86674 -1.53123 2.98204 -1.99337C4.59733 1.99446 5.79275 1.75659 7 1.75659c1.20725 0 2.40267 0.23787 3.518 0.70001 1.1153 0.46214 2.1286 1.13949 2.982 1.99337" stroke-width="1"></path>
+  </g>
+</svg>

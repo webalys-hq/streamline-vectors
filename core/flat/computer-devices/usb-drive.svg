@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="usb-drive--usb-drive-stick-memory-storage-data-connection"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.75.375A.25.25 0 0 1 4 .125h6a.25.25 0 0 1 .25.25v3.781h-6.5V.375Z" clip-rule="evenodd"></path><path id="Vector 2445" fill="#37d7ff" d="M2.5 9.375V5.156a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v4.219a4.5 4.5 0 1 1-9 0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Usb-Drive--Streamline-Core">
+  <desc>
+    Usb Drive Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="usb-drive--usb-drive-stick-memory-storage-data-connection">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M3.75 0.375A0.25 0.25 0 0 1 4 0.125h6a0.25 0.25 0 0 1 0.25 0.25v3.781h-6.5V0.375Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2445" fill="#8fbffa" d="M2.5 9.375V5.156a1 1 0 0 1 1 -1h7a1 1 0 0 1 1 1v4.219a4.5 4.5 0 1 1 -9 0Z" stroke-width="1"></path>
+  </g>
+</svg>

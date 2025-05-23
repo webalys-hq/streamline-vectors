@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="curly-brackets"><path id="vector 2099" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.977 1.125H5.59a1 1 0 0 0-1 1v2.77a2 2 0 0 1-.92 1.684l-.804.515.803.515a2 2 0 0 1 .921 1.684v2.77a1 1 0 0 0 1 1h.386"></path><path id="vector 2100" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.366 1.125h.386a1 1 0 0 1 1 1v2.77a2 2 0 0 0 .92 1.684l.804.515-.804.515a2 2 0 0 0-.92 1.684v2.77a1 1 0 0 1-1 1h-.386"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Curly-Brackets--Streamline-Core">
+  <desc>
+    Curly Brackets Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="curly-brackets">
+    <path id="vector 2099" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.97688 1.125H5.591c-0.55228 0 -1 0.44772 -1 1v2.76984c0 0.68145 -0.34697 1.316 -0.92066 1.68376l-0.80364 0.51515 0.80364 0.51515c0.57369 0.36776 0.92066 1.00231 0.92066 1.68376v2.76984c0 0.5523 0.44772 1 1 1h0.38588" stroke-width="1"></path>
+    <path id="vector 2100" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.36589 1.125h0.38588c0.55228 0 1 0.44772 1 1v2.76984c0 0.68145 0.34693 1.316 0.92063 1.68376l0.8037 0.51515 -0.8037 0.51515c-0.5737 0.36776 -0.92063 1.00231 -0.92063 1.68376v2.76984c0 0.5523 -0.44772 1 -1 1h-0.38588" stroke-width="1"></path>
+  </g>
+</svg>

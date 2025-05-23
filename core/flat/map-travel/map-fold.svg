@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="map-fold--navigation-map-maps-gps-travel-fold"><path id="Vector" fill="#37d7ff" d="m4.63 12.923-3.403.792A1 1 0 0 1 0 12.74V1.87A1 1 0 0 1 .773.897L4.63 0v12.923Z"></path><path id="Vector_2" fill="#3e3e3e" d="M4.63 12.923 9.37 14V1.077L4.63 0v12.923Z"></path><path id="Vector_3" fill="#37d7ff" d="M14 12.129a1 1 0 0 1-.773.974L9.37 14V1.077l3.402-.792A1 1 0 0 1 14 1.26v10.87Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Map-Fold--Streamline-Core">
+  <desc>
+    Map Fold Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="map-fold--navigation-map-maps-gps-travel-fold">
+    <path id="Vector" fill="#8fbffa" d="m4.62918 12.9231 -3.40259 0.7915C0.599519 13.8605 0 13.3845 0 12.7407V1.87099C0 1.406 0.320514 1.00236 0.773413 0.896998L4.62918 0v12.9231Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#2859c5" d="M4.62918 12.9231 9.3708 14V1.07692L4.62918 0v12.9231Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#8fbffa" d="M14 12.129c0 0.465 -0.3205 0.8686 -0.7734 0.974L9.3708 14V1.07692l3.4026 -0.791571C13.4005 0.13947 14 0.615527 14 1.25934V12.129Z" stroke-width="1"></path>
+  </g>
+</svg>

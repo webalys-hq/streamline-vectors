@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="fingerprint-1--identification-password-touch-id-secure-fingerprint-finger-security"><path id="Vector 2502" fill="#37d7ff" d="M1 6.5V14h12V6.5a6 6 0 0 0-12 0Z"></path><path id="Vector 2496" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 13.5v-7a6 6 0 1 1 12 0v2"></path><path id="Vector 2497" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5v-2"></path><path id="Vector 2498" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 9V7a3 3 0 0 1 6 0v6.5"></path><path id="Vector 2499" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 11.5v2"></path><path id="Vector 2500" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 12v1.5"></path><path id="Vector 2501" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9.5v-2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fingerprint-1--Streamline-Core">
+  <desc>
+    Fingerprint 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fingerprint-1--identification-password-touch-id-secure-fingerprint-finger-security">
+    <path id="Vector 2502" fill="#d7e0ff" d="M1 6.5V14h12V6.5c0 -3.31371 -2.6863 -6 -6 -6 -3.31371 0 -6 2.68629 -6 6Z" stroke-width="1"></path>
+    <path id="Vector 2496" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1 13.5v-7c0 -3.31371 2.68629 -6 6 -6 3.3137 0 6 2.68629 6 6v2" stroke-width="1"></path>
+    <path id="Vector 2497" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5v-2" stroke-width="1"></path>
+    <path id="Vector 2498" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 9V7c0 -1.65685 1.34315 -3 3 -3s3 1.34315 3 3v6.5" stroke-width="1"></path>
+    <path id="Vector 2499" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13 11.5v2" stroke-width="1"></path>
+    <path id="Vector 2500" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 12v1.5" stroke-width="1"></path>
+    <path id="Vector 2501" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 9.5v-2" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="megaphone-2--bullhorn-loud-megaphone-share-speaker-transmit"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.5 9.06 7.68 2.56a1 1 0 0 0 .9-.14 1 1 0 0 0 .42-.81V2.44a1 1 0 0 0-.854-.983 1 1 0 0 0-.466.043L4.5 4.06v5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 6.56A2.5 2.5 0 0 0 3 9.06h1.5v-5H3a2.5 2.5 0 0 0-2.5 2.5v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 9.06v1a2.5 2.5 0 0 0 2.5 2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Megaphone-2--Streamline-Core">
+  <desc>
+    Megaphone 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="megaphone-2--bullhorn-loud-megaphone-share-speaker-transmit">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.06002 12.18 11.62c0.1504 0.0496 0.3104 0.0628 0.4669 0.0384 0.1564 -0.0243 0.3049 -0.0855 0.4331 -0.1784 0.1292 -0.092 0.2347 -0.2134 0.3078 -0.3543 0.073 -0.1408 0.1115 -0.297 0.1122 -0.4557V2.44002c-0.0007 -0.15865 -0.0392 -0.31485 -0.1122 -0.45569 -0.0731 -0.14084 -0.1786 -0.26229 -0.3078 -0.35431 -0.1291 -0.09126 -0.2779 -0.15062 -0.4344 -0.17322 -0.1564 -0.02259 -0.316 -0.00778 -0.4656 0.04322l-7.68 2.56v5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 6.56006c0 0.3283 0.064664 0.65339 0.190301 0.95671 0.125637 0.30331 0.309789 0.57891 0.541929 0.81106 0.46884 0.46884 1.10473 0.73223 1.76777 0.73223h1.5v-5H3c-0.3283 0 -0.65339 0.06466 -0.95671 0.1903 -0.30331 0.12564 -0.57891 0.30979 -0.81106 0.54193C0.763392 5.26113 0.5 5.89702 0.5 6.56006v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 9.06006v1.00004c0 0.3283 0.06466 0.6534 0.1903 0.9567s0.30979 0.5789 0.54193 0.811c0.23215 0.2322 0.50775 0.4163 0.81106 0.542 0.30332 0.1256 0.62841 0.1903 0.95671 0.1903" stroke-width="1"></path>
+  </g>
+</svg>

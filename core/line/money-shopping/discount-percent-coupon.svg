@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="discount-percent-coupon--shop-shops-stores-discount-coupon-voucher"><path id="Subtract" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 11a1 1 0 0 0 .998 1h11.004a1 1 0 0 0 .998-1V8.966a2.037 2.037 0 0 1 0-3.932V3a1 1 0 0 0-.998-1H1.498A1 1 0 0 0 .5 3v2.03a2.037 2.037 0 0 1 0 3.94V11Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.52 9.5 5-5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.02 5.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.02 9.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discount-Percent-Coupon--Streamline-Core">
+  <desc>
+    Discount Percent Coupon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="discount-percent-coupon--shop-shops-stores-discount-coupon-voucher">
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 11c0 0.5523 0.446969 1 0.99833 1H12.5017c0.5513 0 0.9983 -0.4477 0.9983 -1V8.96597C12.6357 8.73132 11.9999 7.94003 11.9999 7c0 -0.94003 0.6358 -1.73132 1.5001 -1.96597V3c0 -0.55228 -0.447 -1 -0.9983 -1H1.49833C0.94697 2 0.5 2.44771 0.5 3v2.02963C1.3727 5.25866 2.01656 6.05401 2.01656 7c0 0.94599 -0.64386 1.74134 -1.51656 1.97037V11Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.52051 9.5 5 -5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.02051 5.5c0.27614 0 0.5 -0.22386 0.5 -0.5s-0.22386 -0.5 -0.5 -0.5 -0.5 0.22386 -0.5 0.5 0.22386 0.5 0.5 0.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.02051 9.5c0.27614 0 0.5 -0.22386 0.5 -0.5s-0.22386 -0.5 -0.5 -0.5 -0.5 0.22386 -0.5 0.5 0.22386 0.5 0.5 0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

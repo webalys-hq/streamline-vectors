@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="snorkle--diving-scuba-outdoor-recreation-ocean-mask-water-sea-snorkle-travel-places"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M13.188.062a.75.75 0 0 1 .75.75v9.52a3.606 3.606 0 0 1-3.606 3.606H8.428a3.606 3.606 0 0 1-3.606-3.606.75.75 0 1 1 1.5 0 2.106 2.106 0 0 0 2.106 2.106h1.904a2.106 2.106 0 0 0 2.106-2.106V.812a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.716 2.134A2.404 2.404 0 0 0 .312 4.538v1.904a2.404 2.404 0 0 0 2.404 2.404h.952a.5.5 0 0 0 .416-.222l1.113-1.666a.452.452 0 0 1 .75 0L7.06 8.624a.5.5 0 0 0 .416.222h.952a2.404 2.404 0 0 0 2.404-2.404V4.538a2.404 2.404 0 0 0-2.404-2.404H2.716Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Snorkle--Streamline-Core">
+  <desc>
+    Snorkle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="snorkle--diving-scuba-outdoor-recreation-ocean-mask-water-sea-snorkle-travel-places">
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M13.188 0.062a0.75 0.75 0 0 1 0.75 0.75v9.52a3.606 3.606 0 0 1 -3.606 3.606H8.428a3.606 3.606 0 0 1 -3.606 -3.606 0.75 0.75 0 1 1 1.5 0 2.106 2.106 0 0 0 2.106 2.106h1.904a2.106 2.106 0 0 0 2.106 -2.106V0.812a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.716 2.134A2.404 2.404 0 0 0 0.312 4.538v1.904a2.404 2.404 0 0 0 2.404 2.404h0.952a0.5 0.5 0 0 0 0.416 -0.222l1.113 -1.666a0.452 0.452 0 0 1 0.75 0L7.06 8.624a0.5 0.5 0 0 0 0.416 0.222h0.952a2.404 2.404 0 0 0 2.404 -2.404V4.538a2.404 2.404 0 0 0 -2.404 -2.404H2.716Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

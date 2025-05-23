@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M6.6 0a5.252 5.252 0 0 0-1.85 4v.007c.003.52.08 1.034.23 1.53l-.492 1.151a1.45 1.45 0 0 0 1.515 2.009l1.34-.17A5.25 5.25 0 0 0 10 9.25v3A1.75 1.75 0 0 1 8.25 14h-6.5a1.44 1.44 0 0 1-.602-.15c-.17-.08-.342-.19-.498-.322-.289-.246-.65-.686-.65-1.278V1.75C0 .784.784 0 1.75 0H6.6Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M3.75 10.5a.75.75 0 0 1 .75-.75h1a.75.75 0 0 1 0 1.5h-1a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><g id="Vector"><path fill="#3e3e3e" d="M10 0a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58l-.683 1.6a.2.2 0 0 0 .21.276L7.64 7.23A4 4 0 1 0 10 0Z"></path></g><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.5 2a.5.5 0 1 0-1 0v1.5a.5.5 0 1 0 1 0V2Zm.25 3.5a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Message-Alert--Streamline-Core">
+  <desc>
+    Notification Message Alert Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M6.6 0a5.252 5.252 0 0 0 -1.85 4l0 0.007c0.003 0.52 0.08 1.034 0.23 1.53l-0.492 1.151a1.45 1.45 0 0 0 1.515 2.009l1.34 -0.17A5.25 5.25 0 0 0 10 9.25v3A1.75 1.75 0 0 1 8.25 14h-6.5a1.44 1.44 0 0 1 -0.602 -0.15c-0.17 -0.08 -0.342 -0.19 -0.498 -0.322 -0.289 -0.246 -0.65 -0.686 -0.65 -1.278V1.75C0 0.784 0.784 0 1.75 0H6.6Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M3.75 10.5a0.75 0.75 0 0 1 0.75 -0.75h1a0.75 0.75 0 0 1 0 1.5h-1a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <g id="Vector">
+      <path fill="#2859c5" d="M10 0a4 4 0 0 0 -4 4 4.17 4.17 0 0 0 0.32 1.58l-0.683 1.6a0.2 0.2 0 0 0 0.21 0.276L7.64 7.23A4 4 0 1 0 10 0Z" stroke-width="1"></path>
+    </g>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.5 2a0.5 0.5 0 1 0 -1 0v1.5a0.5 0.5 0 1 0 1 0V2Zm0.25 3.5a0.75 0.75 0 1 0 -1.5 0 0.75 0.75 0 0 0 1.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

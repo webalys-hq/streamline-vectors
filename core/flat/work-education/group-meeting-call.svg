@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="group-meeting-call--group-meeting-call-work"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M2.218 0C1.545 0 1 .545 1 1.218v4.57c0 .674.545 1.22 1.218 1.22h9.564c.673 0 1.218-.546 1.218-1.22v-4.57C13 .545 12.455 0 11.782 0H2.218Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7 3.708a1.35 1.35 0 1 0 0-2.701 1.35 1.35 0 0 0 0 2.7Zm-2.374 2.9a2.408 2.408 0 0 1 4.748 0c.037.218-.146.4-.368.4H4.994c-.222 0-.405-.182-.368-.4Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M3.48 10.886a1.441 1.441 0 1 0 0-2.882 1.441 1.441 0 0 0 0 2.883Zm7.045 0a1.441 1.441 0 1 0 0-2.882 1.441 1.441 0 0 0 0 2.883Zm-7.046.779a2.336 2.336 0 0 0-2.303 1.947c-.035.212.143.388.358.388h3.891c.215 0 .393-.176.358-.388a2.336 2.336 0 0 0-2.304-1.947Zm4.743 1.947a2.336 2.336 0 0 1 4.607 0c.035.212-.143.388-.358.388H8.58c-.214 0-.392-.176-.357-.388Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Group-Meeting-Call--Streamline-Core">
+  <desc>
+    Group Meeting Call Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="group-meeting-call--group-meeting-call-work">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M2.218 0C1.545 0 1 0.545 1 1.218v4.57c0 0.674 0.545 1.22 1.218 1.22h9.564c0.673 0 1.218 -0.546 1.218 -1.22v-4.57C13 0.545 12.455 0 11.782 0H2.218Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7 3.708a1.35 1.35 0 1 0 0 -2.701 1.35 1.35 0 0 0 0 2.7Zm-2.374 2.9a2.408 2.408 0 0 1 4.748 0c0.037 0.218 -0.146 0.4 -0.368 0.4H4.994c-0.222 0 -0.405 -0.182 -0.368 -0.4Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M3.48 10.886a1.441 1.441 0 1 0 0 -2.882 1.441 1.441 0 0 0 0 2.883Zm7.045 0a1.441 1.441 0 1 0 0 -2.882 1.441 1.441 0 0 0 0 2.883Zm-7.046 0.779a2.336 2.336 0 0 0 -2.303 1.947c-0.035 0.212 0.143 0.388 0.358 0.388h3.891c0.215 0 0.393 -0.176 0.358 -0.388a2.336 2.336 0 0 0 -2.304 -1.947Zm4.743 1.947a2.336 2.336 0 0 1 4.607 0c0.035 0.212 -0.143 0.388 -0.358 0.388H8.58c-0.214 0 -0.392 -0.176 -0.357 -0.388Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

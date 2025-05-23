@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="check--check-form-validation-checkmark-success-add-addition-tick"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5 8.55 2.73 3.51a1 1 0 0 0 1.56.03L13.5 1.55"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Check--Streamline-Core">
+  <desc>
+    Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="check--check-form-validation-checkmark-success-add-addition-tick">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 8.55005 3.23 12.06c0.09212 0.1197 0.21016 0.217 0.34525 0.2846 0.13509 0.0675 0.28373 0.1036 0.43475 0.1054 0.14859 0.0018 0.2957 -0.0297 0.43063 -0.0919 0.13492 -0.0623 0.25427 -0.1539 0.34937 -0.2681L13.5 1.55005" stroke-width="1"></path>
+  </g>
+</svg>

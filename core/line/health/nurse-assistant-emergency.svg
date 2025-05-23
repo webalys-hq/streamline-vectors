@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="nurse-assistant-emergency"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.031 5.531a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.438 7.031a.5.5 0 0 0-.5.5v1.407H7.53a.5.5 0 0 0-.5.5v1.624a.5.5 0 0 0 .5.5h1.407v1.407a.5.5 0 0 0 .5.5h1.624a.5.5 0 0 0 .5-.5v-1.406h1.407a.5.5 0 0 0 .5-.5V9.438a.5.5 0 0 0-.5-.5h-1.406V7.53a.5.5 0 0 0-.5-.5H9.437Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.528 12.531H.531v-.542a4.51 4.51 0 0 1 5.116-4.422"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nurse-Assistant-Emergency--Streamline-Core">
+  <desc>
+    Nurse Assistant Emergency Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="nurse-assistant-emergency">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.03125 5.53125c1.38071 0 2.5 -1.11929 2.5 -2.5s-1.11929 -2.5 -2.5 -2.5 -2.5 1.11929 -2.5 2.5 1.11929 2.5 2.5 2.5Z" stroke-width="1"></path>
+    <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.4375 7.03125c-0.27614 0 -0.5 0.22386 -0.5 0.5v1.40628l-1.40625 0c-0.27614 0 -0.5 0.22385 -0.5 0.5v1.62497c0 0.2762 0.22386 0.5 0.5 0.5H8.9375v1.4063c0 0.2761 0.22386 0.5 0.5 0.5h1.625c0.2761 0 0.5 -0.2239 0.5 -0.5v-1.4063h1.4063c0.2761 0 0.5 -0.2238 0.5 -0.5V9.43753c0 -0.27615 -0.2239 -0.5 -0.5 -0.5l-1.4063 0V7.53125c0 -0.27614 -0.2239 -0.5 -0.5 -0.5h-1.625Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.52835 12.5314H0.53125l0 -0.5421c0.007961 -0.7622 0.208977 -1.51 0.58427 -2.17345 0.3753 -0.66346 0.91263 -1.22097 1.5618 -1.62046 0.64918 -0.39949 1.38902 -0.62793 2.15041 -0.66398 0.27468 -0.013 0.54893 -0.00081 0.81943 0.03588" stroke-width="1"></path>
+  </g>
+</svg>

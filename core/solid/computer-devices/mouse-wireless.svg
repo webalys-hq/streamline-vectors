@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mouse-wireless--remote-wireless-device-electronics-mouse-computer"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M2 5a5 5 0 0 1 10 0v4A5 5 0 0 1 2 9V5Zm5.625-1.5a.625.625 0 1 0-1.25 0V5a.625.625 0 1 0 1.25 0V3.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mouse-Wireless--Streamline-Core">
+  <desc>
+    Mouse Wireless Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mouse-wireless--remote-wireless-device-electronics-mouse-computer">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M2 5c0 -2.76142 2.23858 -5 5 -5s5 2.23858 5 5v4c0 2.7614 -2.23858 5 -5 5s-5 -2.2386 -5 -5V5Zm5.625 -1.5c0 -0.34518 -0.27982 -0.625 -0.625 -0.625s-0.625 0.27982 -0.625 0.625V5c0 0.34518 0.27982 0.625 0.625 0.625s0.625 -0.27982 0.625 -0.625V3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

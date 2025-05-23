@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pork-meat"><g id="Group 4557"><path id="union" fill="#37d7ff" d="M1.68 4.883c-.417.51-1.055 1.601-1.055 3.5C.625 11.696 3.686 13 7 13s6.375-1.304 6.375-4.617c0-1.899-.638-2.99-1.055-3.5-.2-.246-.353-.546-.353-.864V1l-3.15 1.5S7.633 2.22 7 2.22s-1.817.28-1.817.28L2.033 1v3.02c0 .317-.152.617-.353.863Z"></path><path id="union_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.68 4.883c-.417.51-1.055 1.601-1.055 3.5C.625 11.696 3.686 13 7 13s6.375-1.304 6.375-4.617c0-1.899-.638-2.99-1.055-3.5-.2-.246-.353-.546-.353-.864V1l-3.15 1.5S7.633 2.22 7 2.22s-1.817.28-1.817.28L2.033 1v3.02c0 .317-.152.617-.353.863Z"></path><path id="ellipse 1466" fill="#ffffff" d="M9.938 8.969c0 1.344-1.316 2.156-2.938 2.156s-2.938-.75-2.938-2.156c0-1.406 1.316-2.156 2.938-2.156s2.938.812 2.938 2.156Z"></path><path id="ellipse 1467" stroke="#3e3e3e" d="M9.938 8.969c0 1.344-1.316 2.156-2.938 2.156s-2.938-.75-2.938-2.156c0-1.406 1.316-2.156 2.938-2.156s2.938.812 2.938 2.156Z"></path><g id="group 2220"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.188 5.75a.125.125 0 1 1 0-.25"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.188 5.75a.125.125 0 1 0 0-.25"></path></g><g id="group 2223"><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.813 5.75a.125.125 0 1 0 0-.25"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.813 5.75a.125.125 0 1 1 0-.25"></path></g><g id="group 2221"><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 9.219a.125.125 0 1 1 0-.25"></path><path id="vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 9.219a.125.125 0 1 0 0-.25"></path></g><g id="group 2224"><path id="vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 9.219a.125.125 0 1 0 0-.25"></path><path id="vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 9.219a.125.125 0 1 1 0-.25"></path></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pork-Meat--Streamline-Core">
+  <desc>
+    Pork Meat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pork-meat">
+    <g id="Group 4557">
+      <path id="union" fill="#d7e0ff" d="M1.67994 4.88318C1.26291 5.39349 0.625 6.48434 0.625 8.38267 0.625 11.6964 3.68629 13 7 13c3.3137 0 6.375 -1.3036 6.375 -4.61733 0 -1.89833 -0.6379 -2.98918 -1.0549 -3.49948 -0.201 -0.24596 -0.353 -0.54621 -0.353 -0.86384V1L8.8173 2.5S7.63349 2.21986 7 2.21986c-0.63349 0 -1.8173 0.28014 -1.8173 0.28014L2.03288 1v3.01934c0 0.31764 -0.15194 0.61789 -0.35294 0.86384Z" stroke-width="1"></path>
+      <path id="union_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.67994 4.88318C1.26291 5.39349 0.625 6.48434 0.625 8.38267 0.625 11.6964 3.68629 13 7 13c3.3137 0 6.375 -1.3036 6.375 -4.61733 0 -1.89833 -0.6379 -2.98918 -1.0549 -3.49948 -0.201 -0.24596 -0.353 -0.54621 -0.353 -0.86384V1L8.8173 2.5S7.63349 2.21986 7 2.21986c-0.63349 0 -1.8173 0.28014 -1.8173 0.28014L2.03288 1v3.01934c0 0.31764 -0.15194 0.61789 -0.35294 0.86384Z" stroke-width="1"></path>
+      <path id="ellipse 1466" fill="#ffffff" d="M9.9375 8.96875C9.9375 10.3125 8.62234 11.125 7 11.125s-2.9375 -0.75 -2.9375 -2.15625S5.37766 6.8125 7 6.8125s2.9375 0.8125 2.9375 2.15625Z" stroke-width="1"></path>
+      <path id="ellipse 1467" stroke="#4147d5" d="M9.9375 8.96875C9.9375 10.3125 8.62234 11.125 7 11.125s-2.9375 -0.75 -2.9375 -2.15625S5.37766 6.8125 7 6.8125s2.9375 0.8125 2.9375 2.15625Z" stroke-width="1"></path>
+      <g id="group 2220">
+        <path id="vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.1875 5.75c-0.06904 0 -0.125 -0.05596 -0.125 -0.125 0 -0.06904 0.05596 -0.125 0.125 -0.125" stroke-width="1"></path>
+        <path id="vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.1875 5.75c0.06904 0 0.125 -0.05596 0.125 -0.125 0 -0.06904 -0.05596 -0.125 -0.125 -0.125" stroke-width="1"></path>
+      </g>
+      <g id="group 2223">
+        <path id="vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.8125 5.75c0.06904 0 0.125 -0.05596 0.125 -0.125 0 -0.06904 -0.05596 -0.125 -0.125 -0.125" stroke-width="1"></path>
+        <path id="vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.8125 5.75c-0.06904 0 -0.125 -0.05596 -0.125 -0.125 0 -0.06904 0.05596 -0.125 0.125 -0.125" stroke-width="1"></path>
+      </g>
+      <g id="group 2221">
+        <path id="vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6 9.21875c-0.06904 0 -0.125 -0.05596 -0.125 -0.125 0 -0.06904 0.05596 -0.125 0.125 -0.125" stroke-width="1"></path>
+        <path id="vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6 9.21875c0.06904 0 0.125 -0.05596 0.125 -0.125 0 -0.06904 -0.05596 -0.125 -0.125 -0.125" stroke-width="1"></path>
+      </g>
+      <g id="group 2224">
+        <path id="vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8 9.21875c0.06904 0 0.125 -0.05596 0.125 -0.125 0 -0.06904 -0.05596 -0.125 -0.125 -0.125" stroke-width="1"></path>
+        <path id="vector_8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8 9.21875c-0.06904 0 -0.125 -0.05596 -0.125 -0.125 0 -0.06904 0.05596 -0.125 0.125 -0.125" stroke-width="1"></path>
+      </g>
+    </g>
+  </g>
+</svg>

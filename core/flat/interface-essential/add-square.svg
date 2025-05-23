@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="add-square--square-remove-cross-buttons-add-plus-button-+-mathematics-math"><path id="Rectangle 703" fill="#37d7ff" d="M3.5 0h7S14 0 14 3.5v7s0 3.5-3.5 3.5h-7S0 14 0 10.5v-7S0 0 3.5 0"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7.75 4a.75.75 0 0 0-1.5 0v2.25H4a.75.75 0 0 0 0 1.5h2.25V10a.75.75 0 0 0 1.5 0V7.75H10a.75.75 0 0 0 0-1.5H7.75V4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Square--Streamline-Core">
+  <desc>
+    Add Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="add-square--square-remove-cross-buttons-add-plus-button-+-mathematics-math">
+    <path id="Rectangle 703" fill="#8fbffa" d="M3.5 0h7S14 0 14 3.5v7s0 3.5 -3.5 3.5h-7S0 14 0 10.5v-7S0 0 3.5 0" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7.75 4a0.75 0.75 0 0 0 -1.5 0v2.25H4a0.75 0.75 0 0 0 0 1.5h2.25V10a0.75 0.75 0 0 0 1.5 0V7.75H10a0.75 0.75 0 0 0 0 -1.5H7.75V4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

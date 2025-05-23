@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="home-4--home-house-roof-shelter"><g id="Vector 2"><path fill="#37d7ff" d="M2 13V7l5-5 5 5v6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1Z"></path></g><path id="Vector 1 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M6.293 1.293a1 1 0 0 1 1.414 0l6 6a1 1 0 0 1-1.414 1.414L7 3.414 1.707 8.707A1 1 0 0 1 .293 7.293l6-6Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Home-4--Streamline-Core">
+  <desc>
+    Home 4 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="home-4--home-house-roof-shelter">
+    <g id="Vector 2">
+      <path fill="#8fbffa" d="M2 13V7l5 -5 5 5v6a1 1 0 0 1 -1 1H3a1 1 0 0 1 -1 -1Z" stroke-width="1"></path>
+    </g>
+    <path id="Vector 1 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M6.293 1.293a1 1 0 0 1 1.414 0l6 6a1 1 0 0 1 -1.414 1.414L7 3.414 1.707 8.707A1 1 0 0 1 0.293 7.293l6 -6Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

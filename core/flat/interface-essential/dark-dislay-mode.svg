@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dark-dislay-mode"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0Z" clip-rule="evenodd"></path><path id="Subtract" fill="#3e3e3e" d="M9.46 4.522a2.46 2.46 0 1 0 0 4.919c.25 0 .441.3.258.47a3.996 3.996 0 1 1 0-5.86c.183.17-.008.471-.258.471Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dark-Dislay-Mode--Streamline-Core">
+  <desc>
+    Dark Dislay Mode Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dark-dislay-mode">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" d="M9.46 4.522a2.46 2.46 0 1 0 0 4.919c0.25 0 0.441 0.3 0.258 0.47a3.996 3.996 0 1 1 0 -5.86c0.183 0.17 -0.008 0.471 -0.258 0.471Z" stroke-width="1"></path>
+  </g>
+</svg>

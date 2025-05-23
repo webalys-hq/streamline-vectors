@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bitcoin--crypto-circle-payment-blokchain-finance-bitcoin-money-currency"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.79 6.45A2.23 2.23 0 0 0 7.83 2H4.39a.81.81 0 0 0-.81.81v8.09a.81.81 0 0 0 .81.81h3.4a2.63 2.63 0 0 0 0-5.26Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.13 2V.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.63 2V.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.13 13.5v-1.79"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.63 13.5v-1.79"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.83 6.45H3.58"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bitcoin--Streamline-Core">
+  <desc>
+    Bitcoin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bitcoin--crypto-circle-payment-blokchain-finance-bitcoin-money-currency">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.78996 6.45c0.56489 -0.03245 1.09633 -0.27843 1.48664 -0.6881 0.3903 -0.40966 0.61028 -0.95238 0.61537 -1.51819 0.00509 -0.5658 -0.2051 -1.11239 -0.58798 -1.529C8.92111 2.29809 8.39418 2.0426 7.82996 2h-3.44c-0.21483 0 -0.42086 0.08534 -0.57276 0.23724 -0.1519 0.15191 -0.23724 0.35793 -0.23724 0.57276v8.09c0 0.2148 0.08534 0.4209 0.23724 0.5728 0.1519 0.1519 0.35793 0.2372 0.57276 0.2372h3.4c0.69752 0 1.36647 -0.2771 1.85969 -0.7703 0.49325 -0.4932 0.77035 -1.16218 0.77035 -1.8597 0 -0.69752 -0.2771 -1.36647 -0.77035 -1.85969C9.15643 6.72709 8.48748 6.45 7.78996 6.45Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.13 2V0.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.63 2V0.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.13 13.5v-1.79" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.63 13.5v-1.79" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.82996 6.44995h-4.25" stroke-width="1"></path>
+  </g>
+</svg>

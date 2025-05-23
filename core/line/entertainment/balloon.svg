@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="balloon--hobby-entertainment-party-balloon"><path id="Vector 1873" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.021 11.27c.205 2.682 2.541 2.356 3.553 1.706 1.712-1.1 2.846-1.385 4.864-1.226"></path><path id="Ellipse 609" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.04 4.404c0-1.975-1.8-3.779-4.02-3.779-2.219 0-4.018 1.804-4.018 3.779 0 1.974 1.8 4.152 4.018 4.152 2.22 0 4.019-2.178 4.019-4.152Z"></path><path id="Vector 1874" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.048 8.556-1.25 1.512a.5.5 0 0 0 .386.819h1.693a.5.5 0 0 0 .39-.813l-1.22-1.518Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Balloon--Streamline-Core">
+  <desc>
+    Balloon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="balloon--hobby-entertainment-party-balloon">
+    <path id="Vector 1873" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.02148 11.2705c0.20453 2.6815 2.54055 2.3557 3.55247 1.7052 1.71165 -1.1003 2.84645 -1.3842 4.86355 -1.2257" stroke-width="1"></path>
+    <path id="Ellipse 609" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.03955 4.40357C9.03955 2.42931 7.2405 0.625 5.02138 0.625c-2.21911 0 -4.01796 1.80431 -4.01796 3.77857 0 1.97426 1.79885 4.15283 4.01796 4.15283 2.21912 0 4.01817 -2.17857 4.01817 -4.15283Z" stroke-width="1"></path>
+    <path id="Vector 1874" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.04793 8.5564 -1.24916 1.512c-0.26938 0.326 -0.03747 0.8184 0.38546 0.8184h1.69271c0.41972 0 0.65266 -0.4859 0.38981 -0.8131L5.04793 8.5564Z" stroke-width="1"></path>
+  </g>
+</svg>

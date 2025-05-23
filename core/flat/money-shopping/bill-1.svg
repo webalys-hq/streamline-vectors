@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bill-1--billing-bills-payment-finance-cash-currency-money-accounting"><path id="Union" fill="#37d7ff" d="M3.5 6.439c-.801 0-1.5.62-1.5 1.445v4.67C2 13.38 2.699 14 3.5 14h7c.802 0 1.5-.62 1.5-1.445V7.884c0-.824-.698-1.445-1.5-1.445h-7Z"></path><path id="Union_2" fill="#3e3e3e" d="M2.5 3.72c-.801 0-1.5.62-1.5 1.445v4.67c0 .825.699 1.446 1.5 1.446h9c.802 0 1.5-.621 1.5-1.446v-4.67c0-.825-.698-1.446-1.5-1.446h-9Z"></path><path id="Union_3" fill="#37d7ff" d="M1.5 0C.699 0 0 .62 0 1.445v5.671c0 .824.699 1.445 1.5 1.445h11c.802 0 1.5-.62 1.5-1.445v-5.67C14 .62 13.302 0 12.5 0h-11Z"></path><path id="Union_4" fill="#3e3e3e" fill-rule="evenodd" d="M7 2.477a1.803 1.803 0 1 0 0 3.607 1.803 1.803 0 0 0 0-3.607ZM3.529 4.502a.752.752 0 1 1-1.504 0 .752.752 0 0 1 1.504 0Zm7.694.752a.752.752 0 1 0 0-1.504.752.752 0 0 0 0 1.504Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bill-1--Streamline-Core">
+  <desc>
+    Bill 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bill-1--billing-bills-payment-finance-cash-currency-money-accounting">
+    <path id="Union" fill="#8fbffa" d="M3.5 6.439c-0.801 0 -1.5 0.62 -1.5 1.445v4.67C2 13.38 2.699 14 3.5 14h7c0.802 0 1.5 -0.62 1.5 -1.445V7.884c0 -0.824 -0.698 -1.445 -1.5 -1.445h-7Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M2.5 3.72c-0.801 0 -1.5 0.62 -1.5 1.445v4.67c0 0.825 0.699 1.446 1.5 1.446h9c0.802 0 1.5 -0.621 1.5 -1.446v-4.67c0 -0.825 -0.698 -1.446 -1.5 -1.446h-9Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#8fbffa" d="M1.5 0C0.699 0 0 0.62 0 1.445v5.671c0 0.824 0.699 1.445 1.5 1.445h11c0.802 0 1.5 -0.62 1.5 -1.445v-5.67C14 0.62 13.302 0 12.5 0h-11Z" stroke-width="1"></path>
+    <path id="Union_4" fill="#2859c5" fill-rule="evenodd" d="M7 2.477a1.803 1.803 0 1 0 0 3.607 1.803 1.803 0 0 0 0 -3.607ZM3.529 4.502a0.752 0.752 0 1 1 -1.504 0 0.752 0.752 0 0 1 1.504 0Zm7.694 0.752a0.752 0.752 0 1 0 0 -1.504 0.752 0.752 0 0 0 0 1.504Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

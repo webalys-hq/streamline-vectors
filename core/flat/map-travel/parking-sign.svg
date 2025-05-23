@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="parking-sign--discount-coupon-parking-price-prices-hotel"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M3.5 0A3.5 3.5 0 0 0 0 3.5v7A3.5 3.5 0 0 0 3.5 14h7a3.5 3.5 0 0 0 3.5-3.5v-7A3.5 3.5 0 0 0 10.5 0h-7Z" clip-rule="evenodd"></path><path id="Vector 2 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M4.767 3.3a.625.625 0 0 1 .442-.183h3.185c1.173 0 2.125.952 2.125 2.125v1.1a2.125 2.125 0 0 1-2.125 2.124h-2.56v2.304a.625.625 0 0 1-1.25 0V3.742c0-.166.066-.324.183-.442Zm1.067 3.916h2.56a.875.875 0 0 0 .875-.875V5.242a.875.875 0 0 0-.875-.875h-2.56v2.85Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Parking-Sign--Streamline-Core">
+  <desc>
+    Parking Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="parking-sign--discount-coupon-parking-price-prices-hotel">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M3.5 0C1.567 0 0 1.567 0 3.5v7C0 12.433 1.567 14 3.5 14h7c1.933 0 3.5 -1.567 3.5 -3.5v-7C14 1.567 12.433 0 10.5 0h-7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M4.7671 3.30031c0.11721 -0.11721 0.27619 -0.18306 0.44195 -0.18306h3.1848c1.1736 0 2.12495 0.95139 2.12495 2.125v1.0992c0 1.17361 -0.95135 2.125 -2.12495 2.125h-2.5598v2.30305c0 0.3451 -0.27983 0.625 -0.625 0.625 -0.34518 0 -0.625 -0.2799 -0.625 -0.625V3.74225c0 -0.16576 0.06584 -0.32473 0.18305 -0.44194Zm1.06695 3.91614h2.5598c0.48325 0 0.875 -0.39175 0.875 -0.875v-1.0992c0 -0.48325 -0.39175 -0.875 -0.875 -0.875h-2.5598v2.8492Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

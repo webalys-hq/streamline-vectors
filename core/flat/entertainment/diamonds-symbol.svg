@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="diamonds-symbol--entertainment-gaming-card-diamonds-symbol"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M8.072.785a1.342 1.342 0 0 0-2.144 0L1.89 6.25a1.257 1.257 0 0 0 0 1.5l4.037 5.465a1.342 1.342 0 0 0 2.144 0L12.11 7.75a1.257 1.257 0 0 0 0-1.5L8.072.785Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Diamonds-Symbol--Streamline-Core">
+  <desc>
+    Diamonds Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="diamonds-symbol--entertainment-gaming-card-diamonds-symbol">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M8.0721 0.784927c-0.52684 -0.7132358 -1.61743 -0.7132363 -2.14427 0L1.89112 6.24982c-0.33106 0.44819 -0.33106 1.05217 0 1.50036l4.03671 5.46492c0.52684 0.7132 1.61743 0.7132 2.14427 0l4.0367 -5.46492c0.3311 -0.44819 0.3311 -1.05217 0 -1.50036L8.0721 0.784927Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

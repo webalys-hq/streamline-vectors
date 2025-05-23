@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="disable-bell-notification--disable-silent-notification-off-silence-alarm-bell-alert"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.499-13-13"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 10.495H13c-.442 0-.757-.175-1.07-.488a1.666 1.666 0 0 1-.487-1.178V4.942a4.443 4.443 0 0 0-8.42-1.979"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 13.501h2"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.557 5.499v3.33c0 .442-.175.866-.488 1.178-.312.313-.627.488-1.069.488h6.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Disable-Bell-Notification--Streamline-Core">
+  <desc>
+    Disable Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="disable-bell-notification--disable-silent-notification-off-silence-alarm-bell-alert">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.499 0.5 0.499023" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 10.4951H13c-0.4419 0 -0.757 -0.1756 -1.0694 -0.488 -0.3125 -0.31245 -0.488 -0.7362 -0.488 -1.17805V4.9417c0 -1.17827 -0.4681 -2.30828 -1.3012 -3.14145C9.30822 0.96709 8.17821 0.499023 6.99994 0.499023c-1.17828 0 -2.30829 0.468067 -3.14145 1.301227 -0.34305 0.34305 -0.6242 0.73642 -0.83627 1.16277" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 13.501h2" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5573 5.49902v3.33003c0 0.44185 -0.17552 0.8656 -0.48796 1.17805 -0.31243 0.3124 -0.62749 0.488 -1.06934 0.488h6.5" stroke-width="1"></path>
+  </g>
+</svg>

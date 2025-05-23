@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="orientation-landscape--photos-photo-orientation-landscape-picture-photography-camera-pictures-image"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M14 11a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 11V3a1.5 1.5 0 0 1 1.5-1.5h11A1.5 1.5 0 0 1 14 3v8Zm-3.031-6.033a1.467 1.467 0 1 1-2.934 0 1.467 1.467 0 0 1 2.934 0ZM1.958 6.714A6.598 6.598 0 0 1 8.452 11.5H1.5A.5.5 0 0 1 1 11V6.775c.313-.042.629-.062.945-.061h.013ZM9.486 11.5H12.5a.5.5 0 0 0 .5-.5V9.309a7.128 7.128 0 0 0-1.944-.27h-.002a7.216 7.216 0 0 0-2.405.408c.376.636.66 1.327.837 2.053Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Orientation-Landscape--Streamline-Core">
+  <desc>
+    Orientation Landscape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="orientation-landscape--photos-photo-orientation-landscape-picture-photography-camera-pictures-image">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M14 11c0 0.8284 -0.6716 1.5 -1.5 1.5h-11C0.671573 12.5 0 11.8284 0 11V3c0 -0.82843 0.671573 -1.5 1.5 -1.5h11c0.8284 0 1.5 0.67157 1.5 1.5v8Zm-3.0312 -6.0331c0 0.81019 -0.6567 1.46697 -1.46692 1.46697 -0.81018 0 -1.46697 -0.65678 -1.46697 -1.46697 0 -0.81018 0.65679 -1.46696 1.46697 -1.46696 0.81022 0 1.46692 0.65678 1.46692 1.46696ZM1.95792 6.71378c1.56381 -0.03536 3.08932 0.48605 4.30433 1.47119C7.31905 9.04183 8.08114 10.201 8.45163 11.5L1.5 11.5c-0.27614 0 -0.5 -0.2239 -0.5 -0.5V6.77458c0.31324 -0.04123 0.62903 -0.06151 0.94527 -0.06067l0 0.00016 0.01265 -0.00029ZM9.48612 11.5h3.01398c0.2762 0 0.5 -0.2239 0.5 -0.5V9.30899c-0.6321 -0.17885 -1.2865 -0.26961 -1.9446 -0.26924l-0.0013 0c-0.8201 -0.00178 -1.63323 0.13623 -2.40479 0.40694 0.37577 0.63641 0.65877 1.32771 0.83671 2.05331Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

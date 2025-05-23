@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="office-worker--office-worker-human-resources"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M5.5 2a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm.045 7.97V10H5.5l-.445 3.562a.5.5 0 0 1-.496.438H2.44a.5.5 0 0 1-.496-.438L1.5 10h-1a.5.5 0 0 1-.5-.5v-1a3.5 3.5 0 0 1 6.9-.832A2.632 2.632 0 0 0 5.545 9.97Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M9.677 7.937a.25.25 0 0 1 .25-.25h.913a.25.25 0 0 1 .25.25v.651H9.677v-.65Zm-1.5.651v-.65c0-.967.784-1.75 1.75-1.75h.913c.966 0 1.75.783 1.75 1.75v.65c.763 0 1.381.62 1.381 1.383v2.647c0 .763-.619 1.382-1.382 1.382H8.177a1.382 1.382 0 0 1-1.382-1.382V9.97c0-.763.619-1.382 1.382-1.382Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Office-Worker--Streamline-Core">
+  <desc>
+    Office Worker Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="office-worker--office-worker-human-resources">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5.5 2a2 2 0 1 1 -4 0 2 2 0 0 1 4 0Zm0.045 7.97V10H5.5l-0.445 3.562a0.5 0.5 0 0 1 -0.496 0.438H2.44a0.5 0.5 0 0 1 -0.496 -0.438L1.5 10h-1a0.5 0.5 0 0 1 -0.5 -0.5v-1a3.5 3.5 0 0 1 6.9 -0.832A2.632 2.632 0 0 0 5.545 9.97Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M9.677 7.937a0.25 0.25 0 0 1 0.25 -0.25h0.913a0.25 0.25 0 0 1 0.25 0.25v0.651H9.677v-0.65Zm-1.5 0.651v-0.65c0 -0.967 0.784 -1.75 1.75 -1.75h0.913c0.966 0 1.75 0.783 1.75 1.75v0.65c0.763 0 1.381 0.62 1.381 1.383v2.647c0 0.763 -0.619 1.382 -1.382 1.382H8.177a1.382 1.382 0 0 1 -1.382 -1.382V9.97c0 -0.763 0.619 -1.382 1.382 -1.382Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

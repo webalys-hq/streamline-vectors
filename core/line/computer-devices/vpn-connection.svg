@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="VPN-connection"><path id="Vector 524" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.283 5.076c.465-.31 1.857-.929 3.715-.929 1.857 0 3.25.619 3.714.929"></path><path id="Vector 525" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.63 7.063c.395-.198 1.42-.592 2.368-.592.946 0 1.972.394 2.367.592"></path><path id="Vector 526" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.222 9.08c.13-.066.466-.195.776-.195s.646.13.775.194"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7.377 13.43c-.189.094-.471.094-.754 0C2.95 12.013.5 8.426.5 4.463V1.538C.5.972.971.5 1.536.5h10.928c.565 0 1.036.472 1.036 1.038v2.926c0 4.058-2.45 7.55-6.123 8.965Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vpn-Connection--Streamline-Core">
+  <desc>
+    VPN Connection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="VPN-connection">
+    <path id="Vector 524" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.28333 5.07554c0.46428 -0.30952 1.85714 -0.92857 3.71428 -0.92857s3.24999 0.61905 3.71429 0.92857" stroke-width="1"></path>
+    <path id="Vector 525" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.63055 7.0627c0.39451 -0.19725 1.42022 -0.59175 2.36703 -0.59175 0.94681 0 1.97253 0.3945 2.36703 0.59175" stroke-width="1"></path>
+    <path id="Vector 526" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.22241 9.07905c0.1292 -0.0646 0.46512 -0.1938 0.77519 -0.1938 0.31008 0 0.646 0.1292 0.77519 0.1938" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7.37681 13.4292c-0.1884 0.0944 -0.47101 0.0944 -0.75362 0C2.94928 12.0136 0.5 8.42741 0.5 4.46371V1.53812C0.5 0.971875 0.971014 0.5 1.53623 0.5H12.4638C13.029 0.5 13.5 0.971875 13.5 1.53812v2.92559c0 4.05807 -2.4493 7.54989 -6.12319 8.96549Z" stroke-width="1"></path>
+  </g>
+</svg>

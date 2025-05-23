@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag-suitcase-2--product-business-briefcase"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5 .02a1.75 1.75 0 0 0-1.75 1.75V3H1.5A1.5 1.5 0 0 0 0 4.5v8A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 12.5 3h-1.75V1.77A1.75 1.75 0 0 0 9 .02H5ZM9.25 3V1.77A.25.25 0 0 0 9 1.52H5a.25.25 0 0 0-.25.25V3h4.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Suitcase-2--Streamline-Core">
+  <desc>
+    Bag Suitcase 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-suitcase-2--product-business-briefcase">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5 0.0197754c-0.46413 0 -0.90925 0.1843746 -1.23744 0.5125636C3.43437 0.860527 3.25 1.30565 3.25 1.76978v1.23025H1.5c-0.828427 0 -1.5 0.67157 -1.5 1.5V12.5c0 0.8285 0.671573 1.5 1.5 1.5h11c0.8284 0 1.5 -0.6715 1.5 -1.5V4.50003c0 -0.82843 -0.6716 -1.5 -1.5 -1.5h-1.75V1.76978c0 -0.46413 -0.1844 -0.909253 -0.5126 -1.237441C9.90925 0.20415 9.46413 0.0197754 9 0.0197754H5ZM9.25 3.00003V1.76978c0 -0.06631 -0.02634 -0.1299 -0.07322 -0.17678C9.12989 1.54611 9.0663 1.51978 9 1.51978H5c-0.0663 0 -0.12989 0.02633 -0.17678 0.07322 -0.04688 0.04688 -0.07322 0.11047 -0.07322 0.17678v1.23025h4.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

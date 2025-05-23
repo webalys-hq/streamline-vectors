@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chat-bubble-typing-oval--messages-message-bubble-typing-chat"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.02.736a6.954 6.954 0 0 0-8.95 9.897l-.993 2.645a.5.5 0 0 0 .556.667L4.1 13.32A6.953 6.953 0 0 0 10.02.736Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M4 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm4-1a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm3 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Typing-Oval--Streamline-Core">
+  <desc>
+    Chat Bubble Typing Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-typing-oval--messages-message-bubble-typing-chat">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.02 0.736a6.954 6.954 0 0 0 -8.95 9.897l-0.993 2.645a0.5 0.5 0 0 0 0.556 0.667L4.1 13.32A6.953 6.953 0 0 0 10.02 0.736Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M4 8a1 1 0 1 0 0 -2 1 1 0 0 0 0 2Zm4 -1a1 1 0 1 1 -2 0 1 1 0 0 1 2 0Zm3 0a1 1 0 1 1 -2 0 1 1 0 0 1 2 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="global-learning--global-learning-education"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.366 7.318a5.506 5.506 0 1 0-7.549 3.736"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.512 6.006h11.011"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.382 8.547a9.503 9.503 0 0 1-.484-2.541A9.504 9.504 0 0 1 6.016.5a9.504 9.504 0 0 1 2.117 5.506A9.505 9.505 0 0 1 8.02 7.06"></path><path id="Rectangle 645" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9.458 8.178 4.03 1.746-4.03 1.746L5.43 9.924l4.03-1.746Z"></path><path id="Ellipse 346" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.257 10.72.004 1.9s.665.88 2.197.88 2.2-.88 2.2-.88v-1.9"></path><path id="Ellipse 347" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.429 12.995V9.924"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Global-Learning--Streamline-Core">
+  <desc>
+    Global Learning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="global-learning--global-learning-education">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.3657 7.31835c0.1029 -0.42066 0.1574 -0.86028 0.1574 -1.31264C11.5231 2.96499 9.05815 0.5 6.01743 0.5 2.97671 0.5 0.511719 2.96499 0.511719 6.00571c0 2.25848 1.359851 4.19929 3.305441 5.04849" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.511719 6.00562H11.5231" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.38187 8.54688c-0.27467 -0.81611 -0.43883 -1.67067 -0.4838 -2.54117C4.00209 3.99232 4.74368 2.06417 6.01565 0.5c1.27198 1.56417 2.01357 3.49232 2.11759 5.50571 -0.01833 0.35479 -0.05646 0.70692 -0.11379 1.05488" stroke-width="1"></path>
+    <path id="Rectangle 645" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.45839 8.17798 4.02941 1.74585 -4.02941 1.74587 -4.02943 -1.74587 4.02943 -1.74585Z" stroke-width="1"></path>
+    <path id="Ellipse 346" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.25702 10.7202 0.00399 1.8996s0.66526 0.8803 2.197 0.8803c1.53169 0 2.20049 -0.8803 2.20049 -0.8803l-0.0004 -1.8996" stroke-width="1"></path>
+    <path id="Ellipse 347" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.42896 12.9949V9.92383" stroke-width="1"></path>
+  </g>
+</svg>

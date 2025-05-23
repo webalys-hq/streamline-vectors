@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-roadmap"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1 1a1 1 0 0 0 0 2h9.75a1.25 1.25 0 1 1 0 2.5H3.5a3.5 3.5 0 1 0 0 7H11v1a.5.5 0 0 0 .854.353l2-2a.5.5 0 0 0 0-.707l-2-2A.5.5 0 0 0 11 9.5v1H3.5a1.5 1.5 0 1 1 0-3h7.25a3.25 3.25 0 0 0 0-6.5H1Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.5 2a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm1 9.5a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm1-3a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Roadmap--Streamline-Core">
+  <desc>
+    Arrow Roadmap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-roadmap">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1 1a1 1 0 0 0 0 2h9.75a1.25 1.25 0 1 1 0 2.5H3.5a3.5 3.5 0 1 0 0 7H11v1a0.5 0.5 0 0 0 0.854 0.353l2 -2a0.5 0.5 0 0 0 0 -0.707l-2 -2A0.5 0.5 0 0 0 11 9.5v1H3.5a1.5 1.5 0 1 1 0 -3h7.25a3.25 3.25 0 0 0 0 -6.5H1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M6.5 2a2 2 0 1 1 -4 0 2 2 0 0 1 4 0Zm1 9.5a2 2 0 1 1 -4 0 2 2 0 0 1 4 0Zm1 -3a2 2 0 1 0 0 -4 2 2 0 0 0 0 4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

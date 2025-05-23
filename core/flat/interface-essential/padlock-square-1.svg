@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="padlock-square-1--combination-combo-lock-locked-padlock-secure-security-shield-keyhole"><path id="Vector 1169 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M7 2a2 2 0 0 0-2 2v1.5a1 1 0 0 1-2 0V4a4 4 0 1 1 8 0v1.5a1 1 0 1 1-2 0V4a2 2 0 0 0-2-2Z" clip-rule="evenodd"></path><path id="Rectangle 446" fill="#37d7ff" d="M1.5 6.5A1.5 1.5 0 0 1 3 5h8a1.5 1.5 0 0 1 1.5 1.5v6A1.5 1.5 0 0 1 11 14H3a1.5 1.5 0 0 1-1.5-1.5v-6Z"></path><path id="Ellipse 367" fill="#3e3e3e" d="M5.75 9.5a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 1 0-2.5 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Padlock-Square-1--Streamline-Core">
+  <desc>
+    Padlock Square 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="padlock-square-1--combination-combo-lock-locked-padlock-secure-security-shield-keyhole">
+    <path id="Vector 1169 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M7 2a2 2 0 0 0 -2 2v1.5a1 1 0 0 1 -2 0V4a4 4 0 1 1 8 0v1.5a1 1 0 1 1 -2 0V4a2 2 0 0 0 -2 -2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Rectangle 446" fill="#8fbffa" d="M1.5 6.5A1.5 1.5 0 0 1 3 5h8a1.5 1.5 0 0 1 1.5 1.5v6A1.5 1.5 0 0 1 11 14H3a1.5 1.5 0 0 1 -1.5 -1.5v-6Z" stroke-width="1"></path>
+    <path id="Ellipse 367" fill="#2859c5" d="M5.75 9.5a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 1 0 -2.5 0" stroke-width="1"></path>
+  </g>
+</svg>

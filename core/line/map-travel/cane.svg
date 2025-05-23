@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cane--disability-cane"><path id="Vector 895" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.799 9.979-.057-.641a1.183 1.183 0 0 1 1.075-1.282v0a1.183 1.183 0 0 1 1.211.764l1.411 3.772"></path><path id="Ellipse 224" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.57 2.822a1.715 1.715 0 1 0 3.43 0 1.715 1.715 0 1 0-3.43 0"></path><path id="Vector 578" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.099 12.592 2.573-8.148c.278.706 1.565 2.557 3.194 2.386"></path><path id="Vector 896" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.57 7.963 2.087 1.503a1 1 0 0 1 .388.577l.615 2.549"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cane--Streamline-Core">
+  <desc>
+    Cane Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cane--disability-cane">
+    <path id="Vector 895" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.79868 9.97899 -0.05644 -0.64131c-0.05727 -0.65066 0.42378 -1.22456 1.07445 -1.28182v0c0.52961 -0.04661 1.02511 0.26585 1.21141 0.76377l1.4112 3.77267" stroke-width="1"></path>
+    <path id="Ellipse 224" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.57 2.822a1.715 1.715 0 1 0 3.43 0 1.715 1.715 0 1 0 -3.43 0" stroke-width="1"></path>
+    <path id="Vector 578" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m2.09886 12.592 2.57302 -8.14791c0.27856 0.70585 1.5647 2.55712 3.19427 2.38558" stroke-width="1"></path>
+    <path id="Vector 896" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.56934 7.9635 2.0874 1.50252c0.19412 0.13973 0.33173 0.3444 0.38786 0.57688l0.61543 2.5489" stroke-width="1"></path>
+  </g>
+</svg>

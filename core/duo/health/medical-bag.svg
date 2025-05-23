@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="medical-bag--health-sign-medical-symbol-hospital-bag-medicine-medkit"><path id="Vector" fill="#37d7ff" d="M12.5 3.5h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 8.5h4"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 6.5v4"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 3.5v-2a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Bag--Streamline-Core">
+  <desc>
+    Medical Bag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-bag--health-sign-medical-symbol-hospital-bag-medicine-medkit">
+    <path id="Vector" fill="#d7e0ff" d="M12.5 3.5h-11a1 1 0 0 0 -1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1 -1v-8a1 1 0 0 0 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 8.5h4" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 6.5v4" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5h-11a1 1 0 0 0 -1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1 -1v-8a1 1 0 0 0 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10 3.5v-2a1 1 0 0 0 -1 -1H5a1 1 0 0 0 -1 1v2" stroke-width="1"></path>
+  </g>
+</svg>

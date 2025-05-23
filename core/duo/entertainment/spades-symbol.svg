@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="spades-symbol--entertainment-gaming-card-spades-symbol"><path id="Vector" fill="#37d7ff" d="M1.491 4.95 5.74.997a1.855 1.855 0 0 1 2.527 0l4.247 3.953c2.532 2.379-.162 7.342-4.072 5.262l.667 3.288H4.892l.666-3.284C1.644 12.297-1.047 7.335 1.49 4.95Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.491 4.95 5.74.997a1.855 1.855 0 0 1 2.527 0l4.247 3.953c2.532 2.379-.162 7.342-4.072 5.262l.667 3.288H4.892l.666-3.284C1.644 12.297-1.047 7.335 1.49 4.95Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Spades-Symbol--Streamline-Core">
+  <desc>
+    Spades Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="spades-symbol--entertainment-gaming-card-spades-symbol">
+    <path id="Vector" fill="#d7e0ff" d="M1.49139 4.95004 5.73862 0.9971c0.71214 -0.6628 1.81508 -0.6628 2.52723 0l4.24725 3.95294c2.5321 2.37862 -0.1625 7.34196 -4.07175 5.26236L9.10773 13.5h-4.2155l0.66561 -3.2838c-3.9134 2.0809 -6.60522 -2.8812 -4.06645 -5.26616Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.49139 4.95004 5.73862 0.9971c0.71214 -0.6628 1.81508 -0.6628 2.52723 0l4.24725 3.95294c2.5321 2.37862 -0.1625 7.34196 -4.07175 5.26236L9.10773 13.5h-4.2155l0.66561 -3.2838c-3.9134 2.0809 -6.60522 -2.8812 -4.06645 -5.26616Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="table-lamp-1--lighting-light-incandescent-bulb-lights-table-lamp"><path id="Vector" fill="#37d7ff" d="M6.5 3V1.5a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1V3a4 4 0 0 0-2 3.5h8a4 4 0 0 0-2-3.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 3V1.5a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1V3a4 4 0 0 0-2 3.5h8a4 4 0 0 0-2-3.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 1.5H8a4 4 0 0 1 4 4v8"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5h-6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Table-Lamp-1--Streamline-Core">
+  <desc>
+    Table Lamp 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="table-lamp-1--lighting-light-incandescent-bulb-lights-table-lamp">
+    <path id="Vector" fill="#d7e0ff" d="M6.50001 3V1.5c0 -0.26522 -0.10536 -0.51957 -0.2929 -0.707107C6.01958 0.605357 5.76522 0.5 5.50001 0.5h-2c-0.26522 0 -0.51957 0.105357 -0.70711 0.292893 -0.18754 0.187537 -0.29289 0.441887 -0.29289 0.707107V3c-0.61338 0.3541 -1.12174 0.86471 -1.47314 1.47964C0.675484 5.09457 0.493668 5.79178 0.500008 6.5H8.50001c0.00634 -0.70822 -0.17548 -1.40543 -0.52687 -2.02036C7.62175 3.86471 7.11339 3.3541 6.50001 3Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.50001 3V1.5c0 -0.26522 -0.10536 -0.51957 -0.2929 -0.707107C6.01958 0.605357 5.76522 0.5 5.50001 0.5h-2c-0.26522 0 -0.51957 0.105357 -0.70711 0.292893 -0.18754 0.187537 -0.29289 0.441887 -0.29289 0.707107V3c-0.61338 0.3541 -1.12174 0.86471 -1.47314 1.47964C0.675484 5.09457 0.493668 5.79178 0.500008 6.5H8.50001c0.00634 -0.70822 -0.17548 -1.40543 -0.52687 -2.02036C7.62175 3.86471 7.11339 3.3541 6.50001 3Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.5 1.5H8c1.06087 0 2.0783 0.42143 2.8284 1.17157C11.5786 3.42172 12 4.43913 12 5.5v8" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5h-6" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shelf--shelf-drawer-cabinet-prodcut-decoration-furniture"><path id="Union" fill="#37d7ff" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M1 3.002h12v1.25H1v-1.25Zm0 3.873h12v1.25H7.625V14h-1.25V8.125H1v-1.25Zm4.125 3.631a.625.625 0 1 0-1.25 0v1a.625.625 0 1 0 1.25 0v-1Zm5 0a.625.625 0 1 0-1.25 0v1a.625.625 0 1 0 1.25 0v-1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shelf--Streamline-Core">
+  <desc>
+    Shelf Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shelf--shelf-drawer-cabinet-prodcut-decoration-furniture">
+    <path id="Union" fill="#8fbffa" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5 -1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1 3.002h12v1.25H1v-1.25Zm0 3.873h12v1.25H7.625V14h-1.25V8.125H1v-1.25Zm4.125 3.631a0.625 0.625 0 1 0 -1.25 0v1a0.625 0.625 0 1 0 1.25 0v-1Zm5 0a0.625 0.625 0 1 0 -1.25 0v1a0.625 0.625 0 1 0 1.25 0v-1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cheese--cook-cheese-animal-products-cooking-nutrition-dairy-food"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.09.77 9 .75.75 5.61A.47.47 0 0 0 .5 6v6.71a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5v-7A5.88 5.88 0 0 0 9.09.77v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.59 5.75H13"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5 10.38.08-.07A2 2 0 0 1 2 9.71a2 2 0 0 1 2 2 2 2 0 0 1-.59 1.41"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 10.75a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cheese--Streamline-Core">
+  <desc>
+    Cheese Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cheese--cook-cheese-animal-products-cooking-nutrition-dairy-food">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.09 0.77 9 0.75 0.75 5.61c-0.071805 0.03788 -0.132574 0.09371 -0.176387 0.16206C0.529801 5.84041 0.50444 5.91894 0.5 6v6.71c0 0.1326 0.052678 0.2598 0.146447 0.3536 0.093768 0.0937 0.220945 0.1464 0.353553 0.1464h12c0.1326 0 0.2598 -0.0527 0.3536 -0.1464 0.0937 -0.0938 0.1464 -0.221 0.1464 -0.3536v-7c-0.1539 -1.17109 -0.6569 -2.2687 -1.4435 -3.14983C11.2699 1.67904 10.2362 1.05522 9.09 0.77v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.589966 5.75H13" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 10.38 0.08 -0.07c0.185229 -0.189 0.406118 -0.33936 0.64987 -0.44235 0.24375 -0.10299 0.50552 -0.15659 0.77013 -0.15769 0.53043 0 1.03914 0.21072 1.41421 0.58574C3.78929 10.6708 4 11.1795 4 11.71c-0.00223 0.5295 -0.21441 1.0366 -0.59 1.41" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 10.75c0.82843 0 1.5 -0.6716 1.5 -1.5 0 -0.82843 -0.67157 -1.5 -1.5 -1.5s-1.5 0.67157 -1.5 1.5c0 0.8284 0.67157 1.5 1.5 1.5Z" stroke-width="1"></path>
+  </g>
+</svg>

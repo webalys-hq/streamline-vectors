@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="transfer-van--van-shipping-delivery-transfer"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="m13.691 7.212-1.338-2.74a1.5 1.5 0 0 0-1.348-.842h-.438v3.582h3.124Zm-4.374-4.06a1.497 1.497 0 0 0-1.158-.548H1.702a1.5 1.5 0 0 0-1.5 1.5v6.626a1.5 1.5 0 0 0 1.5 1.5h.304a1.896 1.896 0 0 0 3.784 0h2.553a1.896 1.896 0 0 0 3.787-.187h.166a1.5 1.5 0 0 0 1.5-1.5V8.462H9.942a.625.625 0 0 1-.625-.625V3.152Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Transfer-Van--Streamline-Core">
+  <desc>
+    Transfer Van Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="transfer-van--van-shipping-delivery-transfer">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="m13.6913 7.21164 -1.3381 -2.73972c-0.2515 -0.51505 -0.7746 -0.8417 -1.3478 -0.8417h-0.438v3.58142h3.1239Zm-4.37392 -4.06c-0.27511 -0.33434 -0.69209 -0.54754 -1.15886 -0.54754H1.70215c-0.828429 0 -1.500002 0.67157 -1.500002 1.5v6.6256c0 0.8284 0.671574 1.5 1.500002 1.5h0.30392c0.06479 0.9884 0.88704 1.7701 1.89184 1.7701 1.00481 0 1.82705 -0.7817 1.89185 -1.7701h2.55322c0.0648 0.9884 0.88704 1.7701 1.89182 1.7701 1.0471 0 1.896 -0.8489 1.896 -1.896 0 -0.0203 -0.0003 -0.0405 -0.001 -0.0607h0.1666c0.8284 0 1.5 -0.6715 1.5 -1.5V8.46164H9.94238c-0.34518 0 -0.625 -0.27982 -0.625 -0.625v-4.685Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

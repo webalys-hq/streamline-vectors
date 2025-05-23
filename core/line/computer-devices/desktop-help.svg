@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="desktop-help--device-help-information-display-desktop-question-info"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.576V10.5a.5.5 0 0 1-.5.5H1a.5.5 0 0 1-.5-.5v-8A.5.5 0 0 1 1 2h6.166"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 11-1 2.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8 11 1 2.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5h6"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 2A1.5 1.5 0 1 1 11 3.5v1"></path><g id="Group 623"><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 7a.25.25 0 1 1 0-.5"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 7a.25.25 0 1 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Help--Streamline-Core">
+  <desc>
+    Desktop Help Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="desktop-help--device-help-information-display-desktop-question-info">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.57642V10.5c0 0.1326 -0.0527 0.2598 -0.1464 0.3536 -0.0938 0.0937 -0.221 0.1464 -0.3536 0.1464H1c-0.132608 0 -0.259785 -0.0527 -0.353553 -0.1464C0.552678 10.7598 0.5 10.6326 0.5 10.5v-8c0 -0.13261 0.052678 -0.25979 0.146447 -0.35355C0.740215 2.05268 0.867392 2 1 2h6.16612" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6 11 -1 2.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8 11 1 2.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5h6" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 2c0 -0.29667 0.08797 -0.58668 0.2528 -0.83335 0.16482 -0.246679 0.3991 -0.438937 0.6732 -0.552469 0.2741 -0.113531 0.5757 -0.143236 0.8666 -0.085358 0.291 0.057878 0.5583 0.200739 0.7681 0.410517 0.2097 0.20978 0.3526 0.47705 0.4105 0.76803 0.0579 0.29097 0.0282 0.59257 -0.0854 0.86666 -0.1135 0.27408 -0.3058 0.50835 -0.5524 0.67317 -0.2467 0.16483 -0.5367 0.2528 -0.8334 0.2528v1" stroke-width="1"></path>
+    <g id="Group 623">
+      <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 7c-0.1381 0 -0.25 -0.11193 -0.25 -0.25s0.1119 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 7c0.1381 0 0.25 -0.11193 0.25 -0.25s-0.1119 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

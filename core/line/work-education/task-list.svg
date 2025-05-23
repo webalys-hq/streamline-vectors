@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="task-list--task-list-work"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.719 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1h5.586a1 1 0 0 1 .707.293l3.414 3.414a1 1 0 0 1 .293.707V12.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.777 6.375h2.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.777 9.844h2.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.91 9.787.838.838L5.145 8.67"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.91 6.256.838.838 1.397-1.955"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Task-List--Streamline-Core">
+  <desc>
+    Task List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="task-list--task-list-work">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.7188 12.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071 -0.1876 0.1875 -0.4419 0.2929 -0.7071 0.2929H1.71875c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929 -0.187533 -0.1875 -0.29289 -0.4419 -0.29289 -0.7071v-11c0 -0.26522 0.105357 -0.51957 0.29289 -0.707107C1.19918 0.605357 1.45353 0.5 1.71875 0.5h5.58579c0.26521 0 0.51957 0.105357 0.7071 0.292893L11.4259 4.20711c0.1875 0.18753 0.2929 0.44189 0.2929 0.7071V12.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.77734 6.375 2.5 0" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.77734 9.84375 2.5 0" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m2.91016 9.78711 0.83789 0.83789 1.39648 -1.95508" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m2.91016 6.25586 0.83789 0.83789 1.39648 -1.95508" stroke-width="1"></path>
+  </g>
+</svg>

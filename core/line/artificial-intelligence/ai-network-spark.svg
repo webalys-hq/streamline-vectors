@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-network-spark--globe-internet-world-artificial-intelligence-ai"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.512 7.463a6 6 0 1 1-6-6"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.512 7.463h6.923"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.512 1.463a10.357 10.357 0 0 0-2.308 6 10.357 10.357 0 0 0 2.308 6 10.357 10.357 0 0 0 2.142-4.615"></path><path id="Vector 2136" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.404 3.97c-.35-.06-.35-.564 0-.625A3.176 3.176 0 0 0 9.963.895l.02-.097c.077-.347.57-.35.65-.003l.025.113a3.193 3.193 0 0 0 2.566 2.435c.352.061.352.568 0 .63a3.193 3.193 0 0 0-2.566 2.435l-.025.112c-.08.346-.573.344-.65-.003l-.02-.096a3.176 3.176 0 0 0-2.559-2.45Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Network-Spark--Streamline-Core">
+  <desc>
+    Ai Network Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-network-spark--globe-internet-world-artificial-intelligence-ai">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5117 7.46338c0 3.31372 -2.68633 6.00002 -6.00004 6.00002 -3.31371 0 -6.000002 -2.6863 -6.000002 -6.00002 0 -3.31371 2.686292 -6 6.000002 -6" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.511658 7.46338H7.43473" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.51173 1.46338c-1.38616 1.7046 -2.19434 3.80585 -2.30769 6 0.11335 2.19414 0.92153 4.29542 2.30769 6.00002 1.09132 -1.342 1.82438 -2.9299 2.14217 -4.61541" stroke-width="1"></path>
+    <path id="Vector 2136" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.40425 3.97057c-0.35093 -0.06105 -0.35093 -0.56483 0 -0.62588 1.27136 -0.22118 2.28254 -1.18954 2.5585 -2.450148L9.9839 0.797913c0.0759 -0.346833 0.5698 -0.348991 0.6487 -0.002835l0.0257 0.112609c0.2862 1.254653 1.2976 2.214843 2.5655 2.435413 0.3527 0.06136 0.3527 0.5677 0 0.62907 -1.2679 0.22056 -2.2793 1.18075 -2.5655 2.4354l-0.0257 0.11261c-0.0789 0.34616 -0.5728 0.344 -0.6487 -0.00283l-0.02115 -0.09663c-0.27596 -1.2606 -1.28714 -2.22897 -2.5585 -2.45015Z" stroke-width="1"></path>
+  </g>
+</svg>

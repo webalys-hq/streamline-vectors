@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shipment-add--shipping-parcel-shipment-add"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.375 0H3.489a2.189 2.189 0 0 0-1.874 1.195L0 4.308v.016h6.375V0ZM0 12.923V5.574h14v7.35A1.077 1.077 0 0 1 12.923 14H1.077A1.077 1.077 0 0 1 0 12.923Zm14-8.615v.016H7.625V0h2.886a2.19 2.19 0 0 1 1.928 1.195L14 4.308ZM7 6.5a.75.75 0 0 1 .75.75V9H9.5a.75.75 0 0 1 0 1.5H7.75v1.75a.75.75 0 0 1-1.5 0V10.5H4.5a.75.75 0 0 1 0-1.5h1.75V7.25A.75.75 0 0 1 7 6.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shipment-Add--Streamline-Core">
+  <desc>
+    Shipment Add Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shipment-add--shipping-parcel-shipment-add">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M6.375 0H3.489a2.189 2.189 0 0 0 -1.874 1.195L0 4.308v0.016h6.375V0ZM0 12.923V5.574h14l0 7.35A1.077 1.077 0 0 1 12.923 14H1.077A1.077 1.077 0 0 1 0 12.923Zm14 -8.615 0 0.016H7.625V0h2.886a2.19 2.19 0 0 1 1.928 1.195L14 4.308ZM7 6.5a0.75 0.75 0 0 1 0.75 0.75V9H9.5a0.75 0.75 0 0 1 0 1.5H7.75v1.75a0.75 0.75 0 0 1 -1.5 0V10.5H4.5a0.75 0.75 0 0 1 0 -1.5h1.75V7.25A0.75 0.75 0 0 1 7 6.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

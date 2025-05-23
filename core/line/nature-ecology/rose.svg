@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="rose--nature-flower-rose-plant-tree"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 4.108a8.613 8.613 0 0 1 5.495-1.599v3.497a5.495 5.495 0 0 1-10.99 0V2.51s6.554-.79 9.552 7.204"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.908 2.769a2.998 2.998 0 0 0-5.816 0"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.502V13.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rose--Streamline-Core">
+  <desc>
+    Rose Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rose--nature-flower-rose-plant-tree">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 4.10771c1.59605 -1.14374 3.535 -1.70779 5.4955 -1.59869v3.49713c0 1.45749 -0.579 2.85529 -1.6096 3.88589C9.85529 10.9226 8.45749 11.5016 7 11.5016s-2.85529 -0.579 -3.88589 -1.60956c-1.03061 -1.0306 -1.60959 -2.4284 -1.60959 -3.88589V2.50902s6.55461 -0.78935 9.55218 7.20408" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.90763 2.76882c-0.16244 -0.64815 -0.53679 -1.22344 -1.06358 -1.6345C8.31725 0.72326 7.66821 0.5 7.00002 0.5c-0.6682 0 -1.31723 0.22326 -1.84403 0.63432 -0.52679 0.41106 -0.90114 0.98635 -1.06358 1.6345" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5017v1.9984" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pathfinder-merge"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M8.5 0h-7A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10h1.254V6.5a.625.625 0 1 1 1.25 0v4.25a.63.63 0 0 1-.004.07v1.68A1.5 1.5 0 0 0 5.5 14h7a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 12.5 4H10V1.5A1.5 1.5 0 0 0 8.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Merge--Streamline-Core">
+  <desc>
+    Pathfinder Merge Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pathfinder-merge">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M8.5 0h-7C0.671573 0 0 0.671573 0 1.5v7C0 9.32843 0.671573 10 1.5 10h1.25387V6.5c0 -0.34518 0.27982 -0.625 0.625 -0.625s0.625 0.27982 0.625 0.625v4.25c0 0.0236 -0.00131 0.047 -0.00387 0.0699V12.5c0 0.8284 0.67157 1.5 1.5 1.5h7c0.8284 0 1.5 -0.6716 1.5 -1.5v-7c0 -0.82843 -0.6716 -1.5 -1.5 -1.5H10V1.5C10 0.671573 9.32843 0 8.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

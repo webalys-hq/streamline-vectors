@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="controller--remote-quadcopter-drones-flying-drone-control-controller-technology-fly"><path id="Vector 2432" fill="#37d7ff" d="M1.243 7.187.83 10.912a2.288 2.288 0 0 0 4.322 1.276l.36-.72H8.49l.36.72a2.288 2.288 0 0 0 4.322-1.276l-.414-3.725a3 3 0 0 0-2.982-2.669h-5.55a3 3 0 0 0-2.982 2.669Z"></path><path id="Vector 693" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.394 7v2.317"></path><path id="Vector 694" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.552 8.158H3.236"></path><path id="Vector 2430" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.243 7.187.83 10.912a2.288 2.288 0 0 0 4.322 1.276l.36-.72H8.49l.36.72a2.288 2.288 0 0 0 4.322-1.276l-.414-3.725a3 3 0 0 0-2.982-2.669h-5.55a3 3 0 0 0-2.982 2.669Z"></path><path id="Vector 2431" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 4.518v-.986a1 1 0 0 1 1-1h1.475a1 1 0 0 0 1-1V.547"></path><g id="Group 628"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.475 7.496a.248.248 0 1 1 0-.496"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.475 7.496a.248.248 0 0 0 0-.496"></path></g><g id="Group 630"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.737 8.737a.248.248 0 0 1 .497 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.737 8.737a.248.248 0 0 0 .497 0"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Controller--Streamline-Core">
+  <desc>
+    Controller Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="controller--remote-quadcopter-drones-flying-drone-control-controller-technology-fly">
+    <path id="Vector 2432" fill="#d7e0ff" d="M1.24314 7.18671 0.829228 10.9119c-0.150623 1.3556 0.910512 2.5412 2.274462 2.5412 0.8668 0 1.65921 -0.4897 2.04685 -1.265l0.36028 -0.7206h2.97836l0.36028 0.7206c0.38764 0.7753 1.18004 1.265 2.04684 1.265 1.364 0 2.4251 -1.1856 2.2745 -2.5412l-0.4139 -3.72519c-0.1689 -1.5193 -1.453 -2.6687 -2.98169 -2.6687H4.22479c-1.52865 0 -2.81284 1.1494 -2.98165 2.6687Z" stroke-width="1"></path>
+    <path id="Vector 693" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.39392 7v2.31651" stroke-width="1"></path>
+    <path id="Vector 694" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.55225 8.15826 -2.31651 0" stroke-width="1"></path>
+    <path id="Vector 2430" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.24312 7.18671 0.829209 10.9119c-0.150622 1.3556 0.910511 2.5412 2.274461 2.5412 0.8668 0 1.65921 -0.4897 2.04685 -1.265l0.36028 -0.7206h2.97836l0.36028 0.7206c0.38765 0.7753 1.18006 1.265 2.04686 1.265 1.3639 0 2.4251 -1.1856 2.2745 -2.5412l-0.414 -3.72519c-0.1688 -1.5193 -1.453 -2.6687 -2.98161 -2.6687H4.22477c-1.52864 0 -2.81284 1.1494 -2.98165 2.6687Z" stroke-width="1"></path>
+    <path id="Vector 2431" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 4.51803v-0.98558c0 -0.55228 0.44772 -1 1 -1h1.47476c0.55224 0 1.00004 -0.44771 1.00004 -1V0.546875" stroke-width="1"></path>
+    <g id="Group 628">
+      <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.4748 7.49639c-0.1371 0 -0.2482 -0.11112 -0.2482 -0.24819 0 -0.13708 0.1111 -0.2482 0.2482 -0.2482" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.4748 7.49639c0.137 0 0.2482 -0.11112 0.2482 -0.24819 0 -0.13708 -0.1112 -0.2482 -0.2482 -0.2482" stroke-width="1"></path>
+    </g>
+    <g id="Group 630">
+      <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.73737 8.73739c0 -0.13707 0.11112 -0.24819 0.2482 -0.24819 0.13707 0 0.24819 0.11112 0.24819 0.24819" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.73725 8.7374c0 0.13707 0.11112 0.2482 0.2482 0.2482 0.13707 0 0.24819 -0.11113 0.24819 -0.2482" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

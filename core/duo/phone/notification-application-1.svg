@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="notification-application-1--android-phone-mobile-device-smartphone-iphone-alert-box"><path id="Vector" fill="#ffffff" d="M11 5.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M11.5 5.45A2.5 2.5 0 0 1 8.55 2.5H2.5a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2V5.45Z" clip-rule="evenodd"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 2.5H2.5a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2V8"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 5.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Application-1--Streamline-Core">
+  <desc>
+    Notification Application 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-application-1--android-phone-mobile-device-smartphone-iphone-alert-box">
+    <path id="Vector" fill="#ffffff" d="M11 5.5c1.3807 0 2.5 -1.11929 2.5 -2.5S12.3807 0.5 11 0.5C9.61929 0.5 8.5 1.61929 8.5 3S9.61929 5.5 11 5.5Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M11.5 5.44999c-0.1616 0.03279 -0.3288 0.05001 -0.5 0.05001 -1.38071 0 -2.5 -1.11929 -2.5 -2.5 0 -0.17123 0.01721 -0.33845 0.05001 -0.5H2.5c-1.10457 0 -2 0.89543 -2 2v7c0 1.1046 0.89543 2 2 2h7c1.1046 0 2 -0.8954 2 -2V5.44999Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6 2.5H2.5c-0.53043 0 -1.03914 0.21071 -1.41421 0.58579C0.710714 3.46086 0.5 3.96957 0.5 4.5v7c0 0.5304 0.210714 1.0391 0.58579 1.4142 0.37507 0.3751 0.88378 0.5858 1.41421 0.5858h7c0.5304 0 1.0391 -0.2107 1.4142 -0.5858S11.5 12.0304 11.5 11.5V8" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11 5.5c1.3807 0 2.5 -1.11929 2.5 -2.5S12.3807 0.5 11 0.5C9.61929 0.5 8.5 1.61929 8.5 3S9.61929 5.5 11 5.5Z" stroke-width="1"></path>
+  </g>
+</svg>

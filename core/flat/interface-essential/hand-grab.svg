@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hand-grab--hand-select-cursor-finger-grab"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.809.07a2.5 2.5 0 0 0-3.015 2.446v.922l-1.533.45-.023.006-.023.009A2.5 2.5 0 0 0 .692 6.714l.531 2.655a2.5 2.5 0 0 0 .89 1.461l1.743 1.395v1.26a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 .5-.5v-1.382l.392-.783a10.5 10.5 0 0 0 1.108-4.696V3.608a2.5 2.5 0 0 0-1.977-2.445L6.822.073 6.81.07Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M2.544 3.804V6.08a.625.625 0 1 0 1.25 0V2.497v.941l-1.25.366Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Grab--Streamline-Core">
+  <desc>
+    Hand Grab Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hand-grab--hand-select-cursor-finger-grab">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.80893 0.0696891C5.25506 -0.257441 3.79391 0.928133 3.79391 2.51606v0.92225l-1.5333 0.4488 -0.023 0.00673 -0.02224 0.0089C1.09642 4.35032 0.456046 5.53248 0.692394 6.71422l0.530856 2.6543c0.11536 0.57678 0.4304 1.09438 0.88971 1.46188l1.74346 1.3948v1.2597c0 0.2761 0.22386 0.5 0.5 0.5h6.99998c0.2762 0 0.5 -0.2239 0.5 -0.5v-1.382l0.3915 -0.783c0.729 -1.45797 1.1085 -3.06567 1.1085 -4.69574V3.60762c0 -1.17981 -0.8247 -2.19867 -1.9779 -2.44487L6.82227 0.0726872l0.00004 -0.0001817 -0.01338 -0.0028164Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M2.54395 3.80419v2.27438c0 0.34518 0.27982 0.625 0.625 0.625 0.34517 0 0.625 -0.27982 0.625 -0.625l0 -3.5815c-0.00005 0.00633 -0.00007 0.01267 -0.00007 0.01901v0.92225l-1.24993 0.36586Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pool-ladder--pool-stairs-swim-swimming-water-ladder-hotel"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5H13a2 2 0 0 1-2-2 2 2 0 0 1-4 0 2 2 0 0 1-4 0 2 2 0 0 1-2 2H.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 2.5a2 2 0 1 1 4 0v7"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5.5a2 2 0 0 1 2 2v7"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 4.5h5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 7.5h5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pool-Ladder--Streamline-Core">
+  <desc>
+    Pool Ladder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pool-ladder--pool-stairs-swim-swimming-water-ladder-hotel">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5H13c-0.5304 0 -1.0391 -0.2107 -1.4142 -0.5858S11 12.0304 11 11.5c0 0.5304 -0.2107 1.0391 -0.5858 1.4142S9.53043 13.5 9 13.5s-1.03914 -0.2107 -1.41421 -0.5858C7.21071 12.5391 7 12.0304 7 11.5c0 0.5304 -0.21071 1.0391 -0.58579 1.4142C6.03914 13.2893 5.53043 13.5 5 13.5s-1.03914 -0.2107 -1.41421 -0.5858C3.21071 12.5391 3 12.0304 3 11.5c0 0.5304 -0.21071 1.0391 -0.58579 1.4142C2.03914 13.2893 1.53043 13.5 1 13.5H0.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 2.5c0 -0.53043 0.21071 -1.03914 0.58579 -1.41421C3.46086 0.710714 3.96957 0.5 4.5 0.5s1.03914 0.210714 1.41421 0.58579C6.28929 1.46086 6.5 1.96957 6.5 2.5v7" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 0.5c0.5304 0 1.0391 0.210714 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v7" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.5 4.5h5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.5 7.5h5" stroke-width="1"></path>
+  </g>
+</svg>

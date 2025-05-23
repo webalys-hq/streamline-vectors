@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="camera-1--photos-picture-camera-photography-photo-pictures"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M4.6 1.7a.5.5 0 0 1 .4-.2h4a.5.5 0 0 1 .4.2l1.35 1.8h1.75A1.5 1.5 0 0 1 14 5v6a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 11V5a1.5 1.5 0 0 1 1.5-1.5h1.75L4.6 1.7Zm4.861 6.011a2.461 2.461 0 1 1-4.922 0 2.461 2.461 0 0 1 4.922 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-1--Streamline-Core">
+  <desc>
+    Camera 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-1--photos-picture-camera-photography-photo-pictures">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M4.6 1.7c0.09443 -0.1259 0.24262 -0.2 0.4 -0.2h4c0.15738 0 0.30557 0.0741 0.4 0.2l1.35 1.8h1.75c0.3978 0 0.7794 0.15804 1.0607 0.43934S14 4.60217 14 5v6c0 0.3978 -0.158 0.7794 -0.4393 1.0607S12.8978 12.5 12.5 12.5h-11c-0.39783 0 -0.779356 -0.158 -1.06066 -0.4393C0.158035 11.7794 0 11.3978 0 11V5c0 -0.39782 0.158035 -0.77936 0.43934 -1.06066C0.720644 3.65804 1.10217 3.5 1.5 3.5h1.75L4.6 1.7Zm4.86132 6.01132c0 1.35936 -1.10198 2.46128 -2.46133 2.46128 -1.35935 0 -2.46132 -1.10192 -2.46132 -2.46128 0 -1.35935 1.10197 -2.46132 2.46132 -2.46132 1.35935 0 2.46133 1.10197 2.46133 2.46132Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

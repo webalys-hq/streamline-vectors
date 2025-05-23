@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="manual-book"><path id="vector" fill="#3e3e3e" d="M3.5 13.25h8.233v-3H3.5a1.5 1.5 0 1 0 0 3Z"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.25 2.25v9.375A2.375 2.375 0 0 0 3.625 14H12a.75.75 0 0 0 0-1.5H3.625a.875.875 0 0 1 0-1.75H12a.75.75 0 0 0 .75-.75V2.25A2.25 2.25 0 0 0 10.5 0h-7a2.25 2.25 0 0 0-2.25 2.25Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7.17 2.829a.875.875 0 0 0-1.045.858.625.625 0 1 1-1.25 0 2.125 2.125 0 1 1 2.75 2.031.625.625 0 0 1-1.25-.031v-.5c0-.345.28-.625.625-.625a.875.875 0 0 0 .17-1.733Zm-1.045 5.18a.875.875 0 1 0 1.75 0 .875.875 0 0 0-1.75 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Manual-Book--Streamline-Core">
+  <desc>
+    Manual Book Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="manual-book">
+    <path id="vector" fill="#2859c5" d="m3.5 13.25 8.233 0v-3l-8.233 0a1.5 1.5 0 1 0 0 3Z" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.25 2.25v9.375A2.375 2.375 0 0 0 3.625 14H12a0.75 0.75 0 0 0 0 -1.5H3.625a0.875 0.875 0 0 1 0 -1.75H12a0.75 0.75 0 0 0 0.75 -0.75V2.25A2.25 2.25 0 0 0 10.5 0h-7a2.25 2.25 0 0 0 -2.25 2.25Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7.17 2.829a0.875 0.875 0 0 0 -1.045 0.858 0.625 0.625 0 1 1 -1.25 0 2.125 2.125 0 1 1 2.75 2.031 0.625 0.625 0 0 1 -1.25 -0.031v-0.5c0 -0.345 0.28 -0.625 0.625 -0.625a0.875 0.875 0 0 0 0.17 -1.733Zm-1.045 5.18a0.875 0.875 0 1 0 1.75 0 0.875 0.875 0 0 0 -1.75 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

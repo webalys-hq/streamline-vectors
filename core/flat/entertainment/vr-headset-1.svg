@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="vr-headset-1--entertainment-gaming-vr-headset"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.071 0a6.071 6.071 0 0 0-3.285 11.178V13.5a.5.5 0 0 0 .5.5h5.571a.5.5 0 0 0 .5-.5v-1.821h1.357c.79 0 1.429-.64 1.429-1.429V7.929a.5.5 0 0 0-.007-.08l-.745-4.643a.5.5 0 0 0-.06-.17A6.07 6.07 0 0 0 6.07 0Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M12.5 7.813H9.946V3.401H12.5a1 1 0 0 1 1 1v2.412a1 1 0 0 1-1 1ZM8.206 3.401h.49v4.412h-.49a2.207 2.207 0 0 1-2.117-1.58H.002a6.186 6.186 0 0 1 .095-1.25H6.09A2.207 2.207 0 0 1 8.206 3.4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vr-Headset-1--Streamline-Core">
+  <desc>
+    Vr Headset 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="vr-headset-1--entertainment-gaming-vr-headset">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.07143 0C2.71827 0 0 2.71827 0 6.07143c0 2.14315 1.11066 4.02637 2.78571 5.10627V13.5c0 0.2761 0.22386 0.5 0.5 0.5h5.57143c0.27615 0 0.5 -0.2239 0.5 -0.5v-1.8214h1.35716c0.789 0 1.4286 -0.6396 1.4286 -1.4286V7.92857c0 -0.02654 -0.0022 -0.05305 -0.0064 -0.07925l-0.7453 -4.64286c-0.0097 -0.06027 -0.0303 -0.11827 -0.0609 -0.17111C10.2813 1.2219 8.31934 0 6.07143 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M12.5 7.81316H9.94644V3.40112H12.5c0.5523 0 1 0.44772 1 1v2.41204c0 0.55229 -0.4477 1 -1 1ZM8.20553 3.40112h0.49091v4.41204h-0.49091c-1.00125 0 -1.84671 -0.66704 -2.11622 -1.58098l-6.08722283 0C0.000698595 6.17876 0 6.12518 0 6.07143c0 -0.37184 0.0334266 -0.73587 0.0974387 -1.08925H6.08929c0.26949 -0.91398 1.11496 -1.58106 2.11624 -1.58106Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

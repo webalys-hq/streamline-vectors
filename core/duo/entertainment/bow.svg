@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bow--entertainment-gaming-bow-weapon"><path id="Vector 934" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 2.82s5.107-.928 8.357 2.322c3.25 3.25 2.322 8.357 2.322 8.357"></path><path id="Vector 936" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.357 11.643 13.5.5"></path><path id="Vector 937" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.714.5H13.5v2.786"></path><path id="Vector 980" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.357 2.698V13.5"></path><path id="Vector 981" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.301 11.643H.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bow--Streamline-Core">
+  <desc>
+    Bow Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bow--entertainment-gaming-bow-weapon">
+    <path id="Vector 934" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 2.82087s5.10716 -0.92884 8.35717 2.32111c3.25003 3.24994 2.32143 8.35752 2.32143 8.35752" stroke-width="1"></path>
+    <path id="Vector 936" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.35715 11.6429 13.5 0.5" stroke-width="1"></path>
+    <path id="Vector 937" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.7143 0.5H13.5v2.78572" stroke-width="1"></path>
+    <path id="Vector 980" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.35715 2.698V13.5" stroke-width="1"></path>
+    <path id="Vector 981" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.3014 11.6428H0.5" stroke-width="1"></path>
+  </g>
+</svg>

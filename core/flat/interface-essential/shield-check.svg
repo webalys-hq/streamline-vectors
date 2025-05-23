@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shield-check--shield-protection-security-defend-crime-war-cover-check"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.5 0C.68 0 0 .678 0 1.5v2.853c0 4.136 2.51 8.006 6.411 9.528.167.065.365.118.582.12a1.62 1.62 0 0 0 .596-.12C11.49 12.359 14 8.489 14 4.353V1.5c0-.82-.68-1.5-1.5-1.5h-11Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M10.498 3.44a.75.75 0 0 1 .063 1.058l-4 4.5A.75.75 0 0 1 5.55 9.1l-2-1.5a.75.75 0 1 1 .9-1.2l1.448 1.086 3.541-3.984a.75.75 0 0 1 1.06-.063Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-Check--Streamline-Core">
+  <desc>
+    Shield Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shield-check--shield-protection-security-defend-crime-war-cover-check">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.5 0C0.68 0 0 0.678 0 1.5v2.853c0 4.136 2.51 8.006 6.411 9.528 0.167 0.065 0.365 0.118 0.582 0.12a1.62 1.62 0 0 0 0.596 -0.12C11.49 12.359 14 8.489 14 4.353V1.5c0 -0.82 -0.68 -1.5 -1.5 -1.5h-11Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10.498 3.44a0.75 0.75 0 0 1 0.063 1.058l-4 4.5A0.75 0.75 0 0 1 5.55 9.1l-2 -1.5a0.75 0.75 0 1 1 0.9 -1.2l1.448 1.086 3.541 -3.984a0.75 0.75 0 0 1 1.06 -0.063Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

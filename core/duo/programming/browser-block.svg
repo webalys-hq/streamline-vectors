@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-block--block-access-denied-window-browser-privacy-remove"><path id="Vector" fill="#ffffff" d="M12.5 13.5a1 1 0 0 0 1-1V3.508H.5V12.5a1 1 0 0 0 1 1h11Z"></path><path id="Vector_2" fill="#37d7ff" d="M7 11.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"></path><path id="Vector_3" fill="#37d7ff" d="M.793.793A1 1 0 0 0 .5 1.5v2.011h13V1.5a1 1 0 0 0-1-1h-11a1 1 0 0 0-.707.293Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.793.793A1 1 0 0 0 .5 1.5v2.011h13V1.5a1 1 0 0 0-1-1h-11a1 1 0 0 0-.707.293Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 13.5a1 1 0 0 0 1-1V3.508H.5V12.5a1 1 0 0 0 1 1h11Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.123 10.623 4.877 6.377"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Block--Streamline-Core">
+  <desc>
+    Browser Block Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-block--block-access-denied-window-browser-privacy-remove">
+    <path id="Vector" fill="#ffffff" d="M12.5 13.5c0.5523 0 1 -0.4477 1 -1V3.50781H0.5V12.5c0 0.5523 0.447715 1 1 1h11Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M7 11.5c1.65685 0 3 -1.3431 3 -3 0 -1.65685 -1.34315 -3 -3 -3s-3 1.34315 -3 3c0 1.6569 1.34315 3 3 3Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#d7e0ff" d="M0.792893 0.792893C0.605357 0.98043 0.5 1.23478 0.5 1.5v2.01123h13V1.5c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.707107C13.0196 0.605357 12.7652 0.5 12.5 0.5h-11C1.23478 0.5 0.98043 0.605357 0.792893 0.792893Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.792893 0.792893C0.605357 0.98043 0.5 1.23478 0.5 1.5v2.01123h13V1.5c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.707107C13.0196 0.605357 12.7652 0.5 12.5 0.5h-11C1.23478 0.5 0.98043 0.605357 0.792893 0.792893Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 13.5c0.5523 0 1 -0.4477 1 -1V3.50781H0.5V12.5c0 0.5523 0.447715 1 1 1h11Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5c1.65685 0 3 -1.3431 3 -3 0 -1.65685 -1.34315 -3 -3 -3s-3 1.34315 -3 3c0 1.6569 1.34315 3 3 3Z" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.12305 10.623 4.87689 6.37683" stroke-width="1"></path>
+  </g>
+</svg>

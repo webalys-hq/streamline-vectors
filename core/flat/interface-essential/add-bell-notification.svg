@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="add-bell-notification--notification-alarm-alert-bell-add"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M10.75 0a.75.75 0 0 1 .75.75V2.5h1.75a.75.75 0 0 1 0 1.5H11.5v1.75a.75.75 0 0 1-1.5 0V4H8.25a.75.75 0 0 1 0-1.5H10V.75a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M7.086 1.623A4.849 4.849 0 0 0 6 1.5a4.725 4.725 0 0 0-3.22 1.247c-.862.804-1.352 1.901-1.352 3.053v3.775c0 .234-.1.466-.289.642-.219.204-.391.283-.639.283a.5.5 0 0 0 0 1h11a.5.5 0 1 0 0-1c-.248 0-.42-.079-.64-.283a.879.879 0 0 1-.287-.642V7.742A2 2 0 0 1 8.75 5.75v-.5h-.5a2 2 0 0 1-1.164-3.627ZM5 12.5A.75.75 0 0 0 5 14h2a.75.75 0 0 0 0-1.5H5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Bell-Notification--Streamline-Core">
+  <desc>
+    Add Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="add-bell-notification--notification-alarm-alert-bell-add">
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10.75 0a0.75 0.75 0 0 1 0.75 0.75V2.5h1.75a0.75 0.75 0 0 1 0 1.5H11.5v1.75a0.75 0.75 0 0 1 -1.5 0V4H8.25a0.75 0.75 0 0 1 0 -1.5H10V0.75a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M7.086 1.623A4.849 4.849 0 0 0 6 1.5a4.725 4.725 0 0 0 -3.22 1.247c-0.862 0.804 -1.352 1.901 -1.352 3.053v3.775c0 0.234 -0.1 0.466 -0.289 0.642 -0.219 0.204 -0.391 0.283 -0.639 0.283a0.5 0.5 0 0 0 0 1h11a0.5 0.5 0 1 0 0 -1c-0.248 0 -0.42 -0.079 -0.64 -0.283a0.879 0.879 0 0 1 -0.287 -0.642V7.742A2 2 0 0 1 8.75 5.75v-0.5h-0.5a2 2 0 0 1 -1.164 -3.627ZM5 12.5A0.75 0.75 0 0 0 5 14h2a0.75 0.75 0 0 0 0 -1.5H5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

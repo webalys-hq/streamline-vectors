@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="screensaver-monitor-wallpaper"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 1.25h12c.3 0 .5.2.5.5v8c0 .3-.2.5-.5.5H1c-.3 0-.5-.2-.5-.5v-8c0-.3.2-.5.5-.5Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.64 5.75a1.39 1.39 0 1 0 0-2.781 1.39 1.39 0 0 0 0 2.781Z"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 10.25-1 2.5"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8 10.25 1 2.5"></path><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 12.75h6"></path><path id="vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.09 10.25 5.075-4.88a.48.48 0 0 1 .624 0L13.5 8.11"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screensaver-Monitor-Wallpaper--Streamline-Core">
+  <desc>
+    Screensaver Monitor Wallpaper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screensaver-monitor-wallpaper">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1 1.25h12c0.3 0 0.5 0.2 0.5 0.5v8c0 0.3 -0.2 0.5 -0.5 0.5H1c-0.3 0 -0.5 -0.2 -0.5 -0.5v-8c0 -0.3 0.2 -0.5 0.5 -0.5Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.64062 5.75c0.76803 0 1.39063 -0.6226 1.39063 -1.39062 0 -0.76803 -0.6226 -1.39063 -1.39063 -1.39063 -0.76802 0 -1.39062 0.6226 -1.39062 1.39063C3.25 5.1274 3.8726 5.75 4.64062 5.75Z" stroke-width="1"></path>
+    <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6 10.25 -1 2.5" stroke-width="1"></path>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8 10.25 1 2.5" stroke-width="1"></path>
+    <path id="vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 12.75h6" stroke-width="1"></path>
+    <path id="vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.08984 10.2497 5.07525 -4.87998c0.08752 -0.07483 0.19782 -0.11581 0.31173 -0.11581 0.1139 0 0.2242 0.04098 0.31172 0.11581l3.71146 2.74" stroke-width="1"></path>
+  </g>
+</svg>

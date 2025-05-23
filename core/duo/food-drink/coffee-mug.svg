@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="coffee-mug--coffee-cook-cup-drink-mug-cooking-nutrition-cafe-caffeine-food"><path id="Vector" fill="#37d7ff" d="M3 5.5h5a1 1 0 0 1 1 1v5a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-5a1 1 0 0 1 1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 5.5h5a1 1 0 0 1 1 1v5a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-5a1 1 0 0 1 1-1v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 6.5h.5a2.5 2.5 0 0 1 0 5H9"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 .5v2"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5v2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Coffee-Mug--Streamline-Core">
+  <desc>
+    Coffee Mug Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="coffee-mug--coffee-cook-cup-drink-mug-cooking-nutrition-cafe-caffeine-food">
+    <path id="Vector" fill="#d7e0ff" d="M3 5.5h5c0.26522 0 0.51957 0.10536 0.70711 0.29289C8.89464 5.98043 9 6.23478 9 6.5v5c0 0.5304 -0.21071 1.0391 -0.58579 1.4142C8.03914 13.2893 7.53043 13.5 7 13.5H4c-0.53043 0 -1.03914 -0.2107 -1.41421 -0.5858C2.21071 12.5391 2 12.0304 2 11.5v-5c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C2.48043 5.60536 2.73478 5.5 3 5.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3 5.5h5c0.26522 0 0.51957 0.10536 0.70711 0.29289C8.89464 5.98043 9 6.23478 9 6.5v5c0 0.5304 -0.21071 1.0391 -0.58579 1.4142C8.03914 13.2893 7.53043 13.5 7 13.5H4c-0.53043 0 -1.03914 -0.2107 -1.41421 -0.5858C2.21071 12.5391 2 12.0304 2 11.5v-5c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C2.48043 5.60536 2.73478 5.5 3 5.5v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9 6.5h0.5c0.663 0 1.2989 0.26339 1.7678 0.73223C11.7366 7.70107 12 8.33696 12 9c0 0.66304 -0.2634 1.2989 -0.7322 1.7678 -0.4689 0.4688 -1.1048 0.7322 -1.7678 0.7322H9" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 0.5v2" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5v2" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag-suitcase-1--product-business-briefcase"><path id="Vector" fill="#37d7ff" d="M12.5 3.5h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 .5h4a1 1 0 0 1 1 1v2H4v-2a1 1 0 0 1 1-1Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7h7"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 10h7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Suitcase-1--Streamline-Core">
+  <desc>
+    Bag Suitcase 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-suitcase-1--product-business-briefcase">
+    <path id="Vector" fill="#d7e0ff" d="M12.5 3.5h-11c-0.552285 0 -1 0.44772 -1 1v8c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-8c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5h-11c-0.552285 0 -1 0.44772 -1 1v8c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-8c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 0.5h4c0.26522 0 0.51957 0.105357 0.70711 0.292893C9.89464 0.98043 10 1.23478 10 1.5v2H4v-2c0 -0.26522 0.10536 -0.51957 0.29289 -0.707107C4.48043 0.605357 4.73478 0.5 5 0.5Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7h7" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 10h7" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="petri-dish-lab-equipment"><path id="ellipse 1474" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0-13 0"></path><path id="vector 2632" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.529 7.664c.286-.139.994-.312 1.535.105.54.417.554 1.146.493 1.458-.06.312-.047 1.04.494 1.457.54.417 1.249.244 1.535.105"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.833 6.5A1.667 1.667 0 1 0 7.32 4.137a1.25 1.25 0 1 0 .385 1.922 1.66 1.66 0 0 0 1.13.441Z"></path><g id="group 2218"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.25 9a.25.25 0 1 1 0-.5"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.25 9a.25.25 0 1 0 0-.5"></path></g><g id="group 2220"><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.25 5.5a.25.25 0 1 1 0-.5"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.25 5.5a.25.25 0 1 0 0-.5"></path></g><g id="group 2219"><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.25 10a.25.25 0 0 1 0-.5"></path><path id="vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.25 10a.25.25 0 0 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Petri-Dish-Lab-Equipment--Streamline-Core">
+  <desc>
+    Petri Dish Lab Equipment Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="petri-dish-lab-equipment">
+    <path id="ellipse 1474" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="vector 2632" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.52854 7.66404c0.28634 -0.1386 0.99427 -0.31162 1.53527 0.1051 0.54099 0.41672 0.55439 1.14536 0.49347 1.4576 -0.06093 0.31223 -0.04753 1.04086 0.49347 1.45756 0.54099 0.4168 1.24892 0.2437 1.53526 0.1051" stroke-width="1"></path>
+    <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.83333 6.50033c0.92048 0 1.66667 -0.7462 1.66667 -1.66667 0 -0.92048 -0.74619 -1.66667 -1.66667 -1.66667 -0.67175 0 -1.25068 0.39742 -1.5145 0.96996 -0.17063 -0.08735 -0.36397 -0.13662 -0.56883 -0.13662 -0.69036 0 -1.25 0.55964 -1.25 1.25 0 0.69035 0.55964 1.25 1.25 1.25 0.38206 0 0.72409 -0.17141 0.95337 -0.44152 0.29702 0.27408 0.69394 0.44152 1.12996 0.44152Z" stroke-width="1"></path>
+    <g id="group 2218">
+      <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25003 9.00006C8.11194 9.00006 8 8.88812 8 8.75003S8.11194 8.5 8.25003 8.5" stroke-width="1"></path>
+      <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.24997 9.00006c0.13809 0 0.25003 -0.11194 0.25003 -0.25003S8.38806 8.5 8.24997 8.5" stroke-width="1"></path>
+    </g>
+    <g id="group 2220">
+      <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.25003 5.50006C3.11194 5.50006 3 5.38812 3 5.25003S3.11194 5 3.25003 5" stroke-width="1"></path>
+      <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.24997 5.50006c0.13809 0 0.25003 -0.11194 0.25003 -0.25003S3.38806 5 3.24997 5" stroke-width="1"></path>
+    </g>
+    <g id="group 2219">
+      <path id="vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.25 10.0001c-0.1381 0 -0.25 -0.11198 -0.25 -0.25007 0 -0.13809 0.1119 -0.25003 0.25 -0.25003" stroke-width="1"></path>
+      <path id="vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.25 10.0001c0.1381 0 0.25 -0.11198 0.25 -0.25007 0 -0.13809 -0.1119 -0.25003 -0.25 -0.25003" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

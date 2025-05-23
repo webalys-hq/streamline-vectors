@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="check-square--check-form-validation-checkmark-success-add-addition-box-square-tick"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 0A3.5 3.5 0 0 0 0 3.5v7A3.5 3.5 0 0 0 3.5 14h7a3.5 3.5 0 0 0 3.5-3.5v-7A3.5 3.5 0 0 0 10.5 0h-7Zm7.003 5.219A.75.75 0 0 0 9.33 4.28L5.786 8.714 4.367 7.65a.75.75 0 1 0-.9 1.2l2 1.5a.75.75 0 0 0 1.036-.131l4-5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Check-Square--Streamline-Core">
+  <desc>
+    Check Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="check-square--check-form-validation-checkmark-success-add-addition-box-square-tick">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M3.5 0C1.567 0 0 1.567 0 3.5v7C0 12.433 1.567 14 3.5 14h7c1.933 0 3.5 -1.567 3.5 -3.5v-7C14 1.567 12.433 0 10.5 0h-7Zm7.0028 5.21852c0.2587 -0.32345 0.2063 -0.79541 -0.1172 -1.05417 -0.3234 -0.25876 -0.79538 -0.20632 -1.05414 0.11713L5.78557 8.71384 4.36711 7.65c-0.33137 -0.24853 -0.80147 -0.18137 -1.05 0.15 -0.24852 0.33137 -0.18137 0.80147 0.15 1.05l2 1.5c0.32408 0.2431 0.7826 0.1848 1.03566 -0.1315l4.00003 -4.99998Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

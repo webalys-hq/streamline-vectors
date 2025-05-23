@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tree-2--nature-tree-plant-circle-round-park"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7 9.52a1 1 0 0 1 1 1V13a1 1 0 1 1-2 0v-2.48a1 1 0 0 1 1-1Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M7 0a5.499 5.499 0 1 0 0 10.997A5.499 5.499 0 0 0 7 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tree-2--Streamline-Core">
+  <desc>
+    Tree 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tree-2--nature-tree-plant-circle-round-park">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7 9.5191c0.55228 0 1 0.44772 1 1v2.4818c0 0.5523 -0.44772 1 -1 1s-1 -0.4477 -1 -1l0 -2.4818c0 -0.55228 0.44772 -1 1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M6.99999 0C3.96312 0 1.50125 2.46187 1.50125 5.49874s2.46187 5.49876 5.49874 5.49876c3.03691 0 5.49871 -2.46189 5.49871 -5.49876S10.0369 0 6.99999 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

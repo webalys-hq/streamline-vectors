@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-transfer-diagonal-1--arrows-arrow-server-data-diagonal-internet-transfer-network"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.998 1.068a.996.996 0 0 1-.29.64l-2 2-7 7A1 1 0 0 1 .292 9.292L6.586 3 5.293 1.707A1 1 0 0 1 6 0h4a1 1 0 0 1 .674.261m.082.084ZM7.414 11l6.293-6.293a1 1 0 0 0-1.414-1.414l-7 7-2 2a.996.996 0 0 0-.05 1.36A.996.996 0 0 0 4 14h4a1 1 0 0 0 .707-1.708L7.414 11Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Transfer-Diagonal-1--Streamline-Core">
+  <desc>
+    Arrow Transfer Diagonal 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-transfer-diagonal-1--arrows-arrow-server-data-diagonal-internet-transfer-network">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.998 1.068a0.996 0.996 0 0 1 -0.29 0.64l-2 2 -7 7A1 1 0 0 1 0.292 9.292L6.586 3 5.293 1.707A1 1 0 0 1 6 0h4a1 1 0 0 1 0.674 0.261m0.082 0.084ZM7.414 11l6.293 -6.293a1 1 0 0 0 -1.414 -1.414l-7 7 -2 2a0.996 0.996 0 0 0 -0.05 1.36A0.996 0.996 0 0 0 4 14h4a1 1 0 0 0 0.707 -1.708L7.414 11Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

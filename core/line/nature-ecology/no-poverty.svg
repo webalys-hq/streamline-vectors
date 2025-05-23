@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="no-poverty"><path id="Ellipse 227" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.8 2.501a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 1 0-3.6 0"></path><path id="Ellipse 228" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.3 8.801v-.9a2.7 2.7 0 0 0-5.063-1.307"></path><path id="Ellipse 227_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.6 2.501a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 1 0-3.6 0"></path><path id="Ellipse 228_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.7 8.801v-.9a2.7 2.7 0 0 1 5.063-1.307"></path><path id="Ellipse 227_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.201 7.899a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 1 0-3.6 0"></path><path id="Ellipse 228_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.701 13.299a2.7 2.7 0 0 0-5.4 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="No-Poverty--Streamline-Core">
+  <desc>
+    No Poverty Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="no-poverty">
+    <path id="Ellipse 227" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.8 2.501a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 1 0 -3.6 0" stroke-width="1"></path>
+    <path id="Ellipse 228" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.3 8.80125v-0.90002c0 -1.4912 -1.2088 -2.70006 -2.7 -2.70006 -1.01687 0 -1.90244 0.56211 -2.36294 1.39254" stroke-width="1"></path>
+    <path id="Ellipse 227_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.6 2.501a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 1 0 -3.6 0" stroke-width="1"></path>
+    <path id="Ellipse 228_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.699951 8.80125v-0.90002c0 -1.4912 1.208859 -2.70006 2.700059 -2.70006 1.01685 0 1.90241 0.56211 2.36291 1.39254" stroke-width="1"></path>
+    <path id="Ellipse 227_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.201 7.899a1.8 1.8 0 1 0 3.6 0 1.8 1.8 0 1 0 -3.6 0" stroke-width="1"></path>
+    <path id="Ellipse 228_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.70126 13.2989c0 -1.4912 -1.20886 -2.7 -2.70006 -2.7s-2.70005 1.2088 -2.70005 2.7" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 9.5 8.5 4 4.5.5v13l4-3.5L1 4.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.033 3.5c1.9 1.9 1.9 5 0 6.9"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 5.305c.859.859.859 2.33 0 3.19"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bluetooth-Searching--Streamline-Core">
+  <desc>
+    Bluetooth Searching Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1 9.5 8.5 4 4.5 0.5v13l4 -3.5L1 4.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.0328 3.5c1.9 1.9 1.9 5 0 6.9" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5001 5.30518c0.8586 0.85863 0.8586 2.33056 0 3.18919" stroke-width="1"></path>
+  </g>
+</svg>

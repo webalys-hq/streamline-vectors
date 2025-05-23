@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cherries--cook-plant-cherry-plants-cooking-nutrition-vegetarian-fruit-food-cherries"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.36 13.5a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.64 12.46a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.41 7.57A10.36 10.36 0 0 1 6 .5a13.78 13.78 0 0 0-2.6 7.8"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.36.5h5.2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cherries--Streamline-Core">
+  <desc>
+    Cherries Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cherries--cook-plant-cherry-plants-cooking-nutrition-vegetarian-fruit-food-cherries">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.36001 13.5c1.43594 0 2.6 -1.164 2.6 -2.6 0 -1.43589 -1.16406 -2.59995 -2.6 -2.59995s-2.6 1.16406 -2.6 2.59995c0 1.436 1.16406 2.6 2.6 2.6Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.64 12.46c1.436 0 2.6 -1.1641 2.6 -2.59999 0 -1.43594 -1.164 -2.6 -2.6 -2.6 -1.4359 0 -2.59996 1.16406 -2.59996 2.6C8.04004 11.2959 9.2041 12.46 10.64 12.46Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.41002 7.57c-2.02 -1.81817 -3.24467 -4.35729 -3.41 -7.07 -1.64019 2.27485 -2.54725 4.996 -2.6 7.8" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.35999 0.5h5.2" stroke-width="1"></path>
+  </g>
+</svg>

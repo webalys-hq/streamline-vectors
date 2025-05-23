@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="search-dollar--search-pay-product-currency-query-magnifying-cash-business-money-glass"><path id="Vector" fill="#37d7ff" d="M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.74 2.76 2.76"></path><path id="Vector_4" fill="#ffffff" d="M3.5 6.099c0-.489.396-.885.885-.885h4.23c.489 0 .885.396.885.885v2.516a.884.884 0 0 1-.885.885h-4.23a.884.884 0 0 1-.885-.885V6.1Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 5.849c0-.489.396-.885.885-.885h4.23c.489 0 .885.396.885.885v2.516a.884.884 0 0 1-.885.885h-4.23a.884.884 0 0 1-.885-.885V5.85Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.214 4.76v-.51a1 1 0 0 1 1-1h.572a1 1 0 0 1 1 1v.51"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Search-Dollar--Streamline-Core">
+  <desc>
+    Search Dollar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="search-dollar--search-pay-product-currency-query-magnifying-cash-business-money-glass">
+    <path id="Vector" fill="#d7e0ff" d="M6.5 12.5c3.31371 0 6 -2.68629 6 -6s-2.68629 -6 -6 -6 -6 2.68629 -6 6 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5c3.31371 0 6 -2.68629 6 -6s-2.68629 -6 -6 -6 -6 2.68629 -6 6 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.74 2.76 2.76" stroke-width="1"></path>
+    <path id="Vector_4" fill="#ffffff" d="M3.50018 6.09882c0 -0.48847 0.39599 -0.88446 0.88447 -0.88446h4.23072c0.48848 0 0.88446 0.39599 0.88446 0.88446v2.51654c0 0.48847 -0.39598 0.88446 -0.88446 0.88446H4.38465c-0.48848 0 -0.88447 -0.39599 -0.88447 -0.88446V6.09882Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.50018 5.84857c0 -0.48847 0.39599 -0.88446 0.88447 -0.88446h4.23072c0.48848 0 0.88446 0.39599 0.88446 0.88446v2.51654c0 0.48848 -0.39598 0.88447 -0.88446 0.88447H4.38465c-0.48848 0 -0.88447 -0.39599 -0.88447 -0.88447V5.84857Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.21436 4.76006V4.25c0 -0.55228 0.44771 -1 1 -1h0.57127c0.55229 0 1 0.44772 1 1v0.51006" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zero-hunger"><path id="Ellipse 274" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.858 6.612h12.007a6.005 6.005 0 0 1-3.43 5.426v1.078H4.287v-1.078a6.004 6.004 0 0 1-3.43-5.426Z"></path><path id="Vector 15" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.499.858c-.858 1.231 1.286 2.462.429 3.693"></path><path id="Vector 16" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.633.858C5.775 2.09 7.919 3.32 7.06 4.551"></path><path id="Vector 17" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.78.858c-.858 1.231 1.286 2.462.429 3.693"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zero-Hunger--Streamline-Core">
+  <desc>
+    Zero Hunger Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zero-hunger">
+    <path id="Ellipse 274" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.857788 6.61182H12.8652c0 2.39495 -1.4024 4.46238 -3.4307 5.42598v1.0777H4.28847v-1.0777C2.26013 11.0742 0.857788 9.00677 0.857788 6.61182Z" stroke-width="1"></path>
+    <path id="Vector 15" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4988 0.858398c-0.85766 1.230842 1.2865 2.461682 0.4288 3.692522" stroke-width="1"></path>
+    <path id="Vector 16" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.63259 0.858398C5.77493 2.08924 7.91908 3.32008 7.06141 4.55092" stroke-width="1"></path>
+    <path id="Vector 17" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.77981 0.858398C1.92215 2.08924 4.06629 3.32008 3.20862 4.55092" stroke-width="1"></path>
+  </g>
+</svg>

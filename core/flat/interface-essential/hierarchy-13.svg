@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hierarchy-13--node-organization-links-structure-link-nodes-network-hierarchy"><path id="Vector 2485 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M12.252 1.794a.75.75 0 0 1 .454.958l-2.5 7a.75.75 0 0 1-1.21.303L4.46 5.932l-1.227 5.725a.75.75 0 0 1-1.466-.314l1.5-7a.75.75 0 0 1 1.238-.398l4.667 4.243 2.122-5.94a.75.75 0 0 1 .958-.454Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.5 0H13a1 1 0 0 1 1 1v2.5a1 1 0 0 1-1 1h-2.5a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1ZM3 2.5h2.5a1 1 0 0 1 1 1V6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1Zm-2 7h2.5a1 1 0 0 1 1 1V13a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 1-1ZM11 7H8.5a1 1 0 0 0-1 1v2.5a1 1 0 0 0 1 1H11a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hierarchy-13--Streamline-Core">
+  <desc>
+    Hierarchy 13 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hierarchy-13--node-organization-links-structure-link-nodes-network-hierarchy">
+    <path id="Vector 2485 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M12.252 1.794a0.75 0.75 0 0 1 0.454 0.958l-2.5 7a0.75 0.75 0 0 1 -1.21 0.303L4.46 5.932l-1.227 5.725a0.75 0.75 0 0 1 -1.466 -0.314l1.5 -7a0.75 0.75 0 0 1 1.238 -0.398l4.667 4.243 2.122 -5.94a0.75 0.75 0 0 1 0.958 -0.454Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.5 0H13a1 1 0 0 1 1 1v2.5a1 1 0 0 1 -1 1h-2.5a1 1 0 0 1 -1 -1V1a1 1 0 0 1 1 -1ZM3 2.5h2.5a1 1 0 0 1 1 1V6a1 1 0 0 1 -1 1H3a1 1 0 0 1 -1 -1V3.5a1 1 0 0 1 1 -1Zm-2 7h2.5a1 1 0 0 1 1 1V13a1 1 0 0 1 -1 1H1a1 1 0 0 1 -1 -1v-2.5a1 1 0 0 1 1 -1ZM11 7H8.5a1 1 0 0 0 -1 1v2.5a1 1 0 0 0 1 1H11a1 1 0 0 0 1 -1V8a1 1 0 0 0 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

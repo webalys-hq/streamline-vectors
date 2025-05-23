@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="smiley-grumpy"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M0 7a7 7 0 1 1 14 0A7 7 0 0 1 0 7Zm9.331 2.582a.625.625 0 0 0 1.208-.325 3.665 3.665 0 0 0-7.077 0 .625.625 0 1 0 1.207.325 2.415 2.415 0 0 1 4.662 0Zm-6.39-5.174c0-.345.28-.625.625-.625h1.303c.346 0 .625.28.625.625v.595a.625.625 0 0 1-1.249.03h-.68a.625.625 0 0 1-.624-.625Zm6.19-.625a.625.625 0 0 0 0 1.25h.679a.625.625 0 0 0 1.25-.03v-.595a.625.625 0 0 0-.626-.625H9.131Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Smiley-Grumpy--Streamline-Core">
+  <desc>
+    Smiley Grumpy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="smiley-grumpy">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M0 7a7 7 0 1 1 14 0A7 7 0 0 1 0 7Zm9.331 2.582a0.625 0.625 0 0 0 1.208 -0.325 3.665 3.665 0 0 0 -7.077 0 0.625 0.625 0 1 0 1.207 0.325 2.415 2.415 0 0 1 4.662 0Zm-6.39 -5.174c0 -0.345 0.28 -0.625 0.625 -0.625h1.303c0.346 0 0.625 0.28 0.625 0.625v0.595a0.625 0.625 0 0 1 -1.249 0.03h-0.68a0.625 0.625 0 0 1 -0.624 -0.625Zm6.19 -0.625a0.625 0.625 0 0 0 0 1.25h0.679a0.625 0.625 0 0 0 1.25 -0.03v-0.595a0.625 0.625 0 0 0 -0.626 -0.625H9.131Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

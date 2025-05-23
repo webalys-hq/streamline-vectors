@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="signage-3--street-sandwich-shops-shop-stores-board-sign-store"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M11.05 1.84a.75.75 0 1 0-1.454.37l2.075 8.155H7.5a.75.75 0 0 0 0 1.5h4.552l.392 1.542a.75.75 0 0 0 1.454-.37L11.05 1.841Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" d="M3.677 1.275a.75.75 0 0 0-.727.565L.102 13.037a.75.75 0 0 0 .727.935h6.646a.75.75 0 0 0 .727-.565L11.05 2.21a.75.75 0 0 0-.727-.935H3.677Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signage-3--Streamline-Core">
+  <desc>
+    Signage 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="signage-3--street-sandwich-shops-shop-stores-board-sign-store">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M11.0498 1.84054c-0.1021 -0.40142 -0.5103 -0.64406 -0.9117 -0.54194 -0.40143 0.10212 -0.64407 0.51033 -0.54195 0.91175l2.07455 8.15475H7.5c-0.41421 0 -0.75 0.3358 -0.75 0.75s0.33579 0.75 0.75 0.75h4.5522l0.3922 1.5418c0.1022 0.4014 0.5104 0.644 0.9118 0.5419 0.4014 -0.1021 0.6441 -0.5103 0.5419 -0.9118L11.0498 1.84054Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M3.67698 1.27539c-0.343 0 -0.64229 0.23269 -0.72685 0.5651L0.101832 13.037c-0.0570732 0.2243 -0.0073446 0.4625 0.134743 0.6452 0.142088 0.1828 0.360611 0.2897 0.592106 0.2897H7.47471c0.343 0 0.64229 -0.2327 0.72685 -0.5651L11.0499 2.2103c0.057 -0.22435 0.0073 -0.46249 -0.1348 -0.64525 -0.1421 -0.18276 -0.3606 -0.28966 -0.5921 -0.28966H3.67698Z" stroke-width="1"></path>
+  </g>
+</svg>

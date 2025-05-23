@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="square-brackets-circle--interface-math-brackets-sign-mathematics"><path id="Vector" fill="#37d7ff" d="M7 13.25A6.25 6.25 0 1 0 7 .75a6.25 6.25 0 0 0 0 12.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25A6.25 6.25 0 1 0 7 .75a6.25 6.25 0 0 0 0 12.5Z"></path><path id="Vector 2393" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 9.5H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h.5"></path><path id="Vector 2394" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 9.5H9a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Brackets-Circle--Streamline-Core">
+  <desc>
+    Square Brackets Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="square-brackets-circle--interface-math-brackets-sign-mathematics">
+    <path id="Vector" fill="#d7e0ff" d="M7 13.25A6.25 6.25 0 1 0 7 0.75a6.25 6.25 0 0 0 0 12.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25A6.25 6.25 0 1 0 7 0.75a6.25 6.25 0 0 0 0 12.5Z" stroke-width="1"></path>
+    <path id="Vector 2393" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.5 9.5H5a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1h0.5" stroke-width="1"></path>
+    <path id="Vector 2394" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.5 9.5H9a1 1 0 0 0 1 -1v-3a1 1 0 0 0 -1 -1h-0.5" stroke-width="1"></path>
+  </g>
+</svg>

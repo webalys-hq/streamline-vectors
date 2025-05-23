@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="disable-bell-notification--disable-silent-notification-off-silence-alarm-bell-alert"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M3.508 1.451a4.939 4.939 0 0 1 8.43 3.493v4.409c0 .308.123.605.342.823.248.248.442.341.715.341a.5.5 0 0 1 0 1H1.005a.5.5 0 1 1 0-1c.273 0 .467-.093.715-.34.219-.22.341-.516.341-.824v-4.41c0-1.31.52-2.565 1.447-3.492ZM5.25 13.244a.75.75 0 0 1 .75-.75h1.998a.75.75 0 0 1 0 1.5H6.001a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M.297.298a.75.75 0 0 0 0 1.06l12.345 12.345a.75.75 0 1 0 1.06-1.06L1.359.297a.75.75 0 0 0-1.06 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Disable-Bell-Notification--Streamline-Core">
+  <desc>
+    Disable Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="disable-bell-notification--disable-silent-notification-off-silence-alarm-bell-alert">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M3.508 1.451a4.939 4.939 0 0 1 8.43 3.493v4.409c0 0.308 0.123 0.605 0.342 0.823 0.248 0.248 0.442 0.341 0.715 0.341a0.5 0.5 0 0 1 0 1H1.005a0.5 0.5 0 1 1 0 -1c0.273 0 0.467 -0.093 0.715 -0.34 0.219 -0.22 0.341 -0.516 0.341 -0.824v-4.41c0 -1.31 0.52 -2.565 1.447 -3.492ZM5.25 13.244a0.75 0.75 0 0 1 0.75 -0.75h1.998a0.75 0.75 0 0 1 0 1.5H6.001a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M0.297 0.298a0.75 0.75 0 0 0 0 1.06l12.345 12.345a0.75 0.75 0 1 0 1.06 -1.06L1.359 0.297a0.75 0.75 0 0 0 -1.06 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pets-allowed--travel-wayfinder-pets-allowed"><path id="Vector 743" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.75 11.018v-7.59l1.254 1.004c.633.506 1.42.782 2.23.782H7L8.292 2.63a1.786 1.786 0 0 1 1.597-.987h.682v2.232l2.679.893v.893c0 .986-.8 1.785-1.786 1.785H9.68v3.572a1.34 1.34 0 1 1-2.679 0v-.447c0-.493-.4-.892-.893-.892H4.321c-.493 0-.892.4-.892.892v.447a1.34 1.34 0 1 1-2.679 0Z"></path><path id="Vector 1209" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.012 5.097c.175.717 1 2.195 2.895 2.375"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pets-Allowed--Streamline-Core">
+  <desc>
+    Pets Allowed Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pets-allowed--travel-wayfinder-pets-allowed">
+    <path id="Vector 743" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 11.0178V3.42854l1.25388 1.0031c0.63326 0.50661 1.42008 0.78261 2.23105 0.78261H7l1.29215 -2.58431c0.30249 -0.60497 0.92082 -0.98712 1.5972 -0.98712h0.68205v2.23214l2.6786 0.89286v0.89286c0 0.98622 -0.7995 1.78571 -1.7857 1.78571H9.67857v3.57141c0 0.7397 -0.59962 1.3393 -1.33928 1.3393C7.59962 12.3571 7 11.7575 7 11.0178v-0.4464c0 -0.4931 -0.39975 -0.89286 -0.89286 -0.89286H4.32143c-0.49311 0 -0.89286 0.39976 -0.89286 0.89286v0.4464c0 0.7397 -0.59962 1.3393 -1.33928 1.3393 -0.73967 0 -1.33929 -0.5996 -1.33929 -1.3393Z" stroke-width="1"></path>
+    <path id="Vector 1209" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.01184 5.09717c0.17548 0.71673 1.00021 2.19512 2.89535 2.37484" stroke-width="1"></path>
+  </g>
+</svg>

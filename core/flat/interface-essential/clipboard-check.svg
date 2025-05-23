@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="clipboard-check--checkmark-edit-task-edition-checklist-check-success-clipboard-form"><path id="Rectangle 659" fill="#37d7ff" d="M1.25 2.5A1.5 1.5 0 0 1 2.75 1h8.5a1.5 1.5 0 0 1 1.5 1.5v10a1.5 1.5 0 0 1-1.5 1.5h-8.5a1.5 1.5 0 0 1-1.5-1.5v-10Z"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.5 0a1 1 0 0 0-1 1v.5a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1h-3Zm4.6 6.95a.75.75 0 0 0-1.2-.9L6.326 9.482l-.91-.606a.75.75 0 0 0-.832 1.248l1.5 1A.75.75 0 0 0 7.1 10.95l3-4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Clipboard-Check--Streamline-Core">
+  <desc>
+    Clipboard Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="clipboard-check--checkmark-edit-task-edition-checklist-check-success-clipboard-form">
+    <path id="Rectangle 659" fill="#8fbffa" d="M1.25 2.5A1.5 1.5 0 0 1 2.75 1h8.5a1.5 1.5 0 0 1 1.5 1.5v10a1.5 1.5 0 0 1 -1.5 1.5h-8.5a1.5 1.5 0 0 1 -1.5 -1.5v-10Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.5 0a1 1 0 0 0 -1 1v0.5a1 1 0 0 0 1 1h3a1 1 0 0 0 1 -1V1a1 1 0 0 0 -1 -1h-3Zm4.6 6.95a0.75 0.75 0 0 0 -1.2 -0.9L6.326 9.482l-0.91 -0.606a0.75 0.75 0 0 0 -0.832 1.248l1.5 1A0.75 0.75 0 0 0 7.1 10.95l3 -4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

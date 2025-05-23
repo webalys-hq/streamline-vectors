@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-incoming--inbox-envelope-email-message-down-arrow-inbox"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 4 7 6.5 9.5 4"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5v6"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 4.5a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 5.76 7 10l6-4.24"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Incoming--Streamline-Core">
+  <desc>
+    Mail Incoming Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-incoming--inbox-envelope-email-message-down-arrow-inbox">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 4 7 6.5 9.5 4" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5v6" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 4.5c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v7c0 0.2652 -0.1054 0.5196 -0.2929 0.7071S12.2652 13.5 12 13.5H2c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C1.10536 13.0196 1 12.7652 1 12.5v-7c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C1.48043 4.60536 1.73478 4.5 2 4.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1 5.76001 7 10l6 -4.23999" stroke-width="1"></path>
+  </g>
+</svg>

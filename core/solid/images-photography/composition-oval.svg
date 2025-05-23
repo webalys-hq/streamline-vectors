@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="composition-oval--camera-frame-composition-photography-pictures-landscape-photo-oval"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M12.32 2.391A13.77 13.77 0 0 0 7 1.5a13.77 13.77 0 0 0-5.32.891 1.415 1.415 0 0 0-.798.76A10.84 10.84 0 0 0 0 7.022a10.84 10.84 0 0 0 .882 3.827c.153.353.442.625.797.76A13.77 13.77 0 0 0 7 12.5a13.77 13.77 0 0 0 5.32-.891c.356-.135.645-.407.798-.76a10.84 10.84 0 0 0 .881-3.871 10.84 10.84 0 0 0-.881-3.827 1.415 1.415 0 0 0-.797-.76Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Composition-Oval--Streamline-Core">
+  <desc>
+    Composition Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="composition-oval--camera-frame-composition-photography-pictures-landscape-photo-oval">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M12.3208 2.39108C10.6245 1.74648 8.81627 1.44307 7 1.49974c-1.81627 -0.05667 -3.62451 0.24674 -5.3208 0.89133 -0.35512 0.13495 -0.64438 0.40698 -0.797055 0.75962C0.358128 4.36105 0.058942 5.65799 0.000489593 6.97787c-0.000652791 0.01474 -0.000652791 0.0295 0 0.04424C0.058942 8.342 0.358128 9.63893 0.882145 10.8493c0.152675 0.3526 0.441935 0.6247 0.797055 0.7596 1.69629 0.6446 3.50453 0.948 5.3208 0.8913 1.81627 0.0567 3.6245 -0.2467 5.3208 -0.8913 0.3551 -0.1349 0.6444 -0.407 0.7971 -0.7596 0.524 -1.21037 0.8232 -2.5073 0.8816 -3.82719 0.0007 -0.01474 0.0007 -0.0295 0 -0.04424 -0.0584 -1.31988 -0.3576 -2.61681 -0.8816 -3.82718 -0.1527 -0.35264 -0.442 -0.62467 -0.7971 -0.75961Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

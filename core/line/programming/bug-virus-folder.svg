@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bug-virus-folder--bug-document-folder-virus-threat-danger"><g id="Group 4499"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 6.5 1.3 1.3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 13.5 1.3-1.3"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10H5.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13 6.5-1.3 1.3"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13 13.5-1.3-1.3"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9a2.5 2.5 0 1 1 5 0v2a2.5 2.5 0 0 1-5 0V9Z"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 10h1.5"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9.5h5"></path></g><path id="Vector_9" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 12h-2a1 1 0 0 1-1-1V1.5a1 1 0 0 1 1-1h3.69a1 1 0 0 1 1 .76l.28 1.24h6a1 1 0 0 1 1 1V4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bug-Virus-Folder--Streamline-Core">
+  <desc>
+    Bug Virus Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bug-virus-folder--bug-document-folder-virus-threat-danger">
+    <g id="Group 4499">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6 6.5 1.3 1.3" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6 13.5 1.3 -1.3" stroke-width="1"></path>
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 10H5.5" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13 6.5 -1.3 1.3" stroke-width="1"></path>
+      <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13 13.5 -1.3 -1.3" stroke-width="1"></path>
+      <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9c0 -0.66304 0.26339 -1.29893 0.73223 -1.76777C8.20107 6.76339 8.83696 6.5 9.5 6.5c0.663 0 1.2989 0.26339 1.7678 0.73223C11.7366 7.70107 12 8.33696 12 9v2c0 0.663 -0.2634 1.2989 -0.7322 1.7678 -0.4689 0.4688 -1.1048 0.7322 -1.7678 0.7322 -0.66304 0 -1.29893 -0.2634 -1.76777 -0.7322C7.26339 12.2989 7 11.663 7 11V9Z" stroke-width="1"></path>
+      <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 10h1.5" stroke-width="1"></path>
+      <path id="Vector_8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9.5h5" stroke-width="1"></path>
+    </g>
+    <path id="Vector_9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 11.9999h-2c-0.26522 0 -0.51957 -0.1053 -0.707107 -0.2929C0.605357 11.5195 0.5 11.2652 0.5 10.9999V1.49994c0 -0.26522 0.105357 -0.519574 0.292893 -0.707111C0.98043 0.605293 1.23478 0.499936 1.5 0.499936h3.69c0.22843 -0.006655 0.45226 0.065133 0.63421 0.203414 0.18194 0.13828 0.31104 0.33471 0.36579 0.55659l0.28 1.24h6c0.2652 0 0.5196 0.10535 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v0.5" stroke-width="1"></path>
+  </g>
+</svg>

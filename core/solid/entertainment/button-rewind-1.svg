@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-rewind-1--rewind-television-button-movies-buttons-tv-video-controls"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="m7.503 5.894 5.227-3.47c.296-.181.658-.133.92.056a.823.823 0 0 1 .35.648v7.723c0 .638-.735 1.05-1.27.724L7.503 8.126v2.724c0 .639-.734 1.052-1.27.725L.366 7.703c-.488-.316-.488-1.067 0-1.384l5.867-3.895a.832.832 0 0 1 .92.056.823.823 0 0 1 .35.648v2.766Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Rewind-1--Streamline-Core">
+  <desc>
+    Button Rewind 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-rewind-1--rewind-television-button-movies-buttons-tv-video-controls">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="m7.50329 5.89365 5.22631 -3.47003c0.2969 -0.18076 0.6587 -0.13258 0.9202 0.05642 0.2016 0.14566 0.3435 0.37496 0.3502 0.64755v7.72021l0 0.0031c0 0.6378 -0.7345 1.0506 -1.2704 0.7243L7.50329 8.1261l0 2.7217 0.00001 0.0027c0.00033 0.638 -0.73441 1.0511 -1.27039 0.7247L0.366072 7.70339c-0.488096 -0.31659 -0.488096 -1.06788 0 -1.38447l5.866838 -3.8953c0.29687 -0.18076 0.6587 -0.13258 0.92021 0.05642 0.20153 0.14566 0.34348 0.37496 0.35017 0.64755l0 2.76606Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

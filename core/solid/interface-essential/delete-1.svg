@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="delete-1--remove-add-button-buttons-delete-cross-x-mathematics-multiply-math"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.707.293A1 1 0 0 0 .293 1.707L5.586 7 .293 12.293a1 1 0 1 0 1.414 1.414L7 8.414l5.293 5.293a1 1 0 0 0 1.414-1.414L8.414 7l5.293-5.293A1 1 0 0 0 12.293.293L7 5.586 1.707.293Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Delete-1--Streamline-Core">
+  <desc>
+    Delete 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="delete-1--remove-add-button-buttons-delete-cross-x-mathematics-multiply-math">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.70711 0.292893c-0.39053 -0.3905241 -1.023693 -0.3905241 -1.414217 0 -0.3905241 0.390524 -0.3905241 1.023687 0 1.414217L5.58579 7 0.292893 12.2929c-0.3905241 0.3905 -0.3905241 1.0237 0 1.4142 0.390524 0.3905 1.023687 0.3905 1.414217 0L7 8.41421l5.2929 5.29289c0.3905 0.3905 1.0237 0.3905 1.4142 0 0.3905 -0.3905 0.3905 -1.0237 0 -1.4142L8.41421 7l5.29289 -5.29289c0.3905 -0.39053 0.3905 -1.023693 0 -1.414217 -0.3905 -0.3905241 -1.0237 -0.3905241 -1.4142 0L7 5.58579 1.70711 0.292893Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

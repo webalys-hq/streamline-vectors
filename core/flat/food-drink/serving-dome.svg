@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="serving-dome--cook-tool-dome-kitchen-serving-paltter-dish-tools-food-kitchenware"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7.75.853a.75.75 0 0 0-1.5 0v1.5a.75.75 0 1 0 1.5 0v-1.5ZM.78 11.75a.75.75 0 0 0 0 1.5h12.44a.75.75 0 0 0 0-1.5H.78Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M11.95 3.904A7 7 0 0 1 14 8.854a1.5 1.5 0 0 1-1.5 1.5h-11a1.5 1.5 0 0 1-1.5-1.5 7 7 0 0 1 11.95-4.95Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Serving-Dome--Streamline-Core">
+  <desc>
+    Serving Dome Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="serving-dome--cook-tool-dome-kitchen-serving-paltter-dish-tools-food-kitchenware">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7.75 0.853a0.75 0.75 0 0 0 -1.5 0v1.5a0.75 0.75 0 1 0 1.5 0v-1.5ZM0.78 11.75a0.75 0.75 0 0 0 0 1.5h12.44a0.75 0.75 0 0 0 0 -1.5H0.78Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M11.95 3.904A7 7 0 0 1 14 8.854a1.5 1.5 0 0 1 -1.5 1.5h-11a1.5 1.5 0 0 1 -1.5 -1.5 7 7 0 0 1 11.95 -4.95Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

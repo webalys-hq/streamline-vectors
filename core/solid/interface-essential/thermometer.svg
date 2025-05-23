@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure"><path id="Union (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M4.75 2.25a2.25 2.25 0 0 1 4.5 0v5.569a3.5 3.5 0 1 1-4.5 0V2.25ZM7 1.5a.75.75 0 0 0-.75.75v5.945a.75.75 0 0 1-.34.628 2 2 0 1 0 2.18 0 .75.75 0 0 1-.34-.628V2.25A.75.75 0 0 0 7 1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Thermometer--Streamline-Core">
+  <desc>
+    Thermometer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
+    <path id="Union (Stroke)" fill="#000000" fill-rule="evenodd" d="M4.75 2.25C4.75 1.00736 5.75736 0 7 0s2.25 1.00736 2.25 2.25v5.56902c0.7632 0.64121 1.25 1.60409 1.25 2.68098 0 1.933 -1.567 3.5 -3.5 3.5s-3.5 -1.567 -3.5 -3.5c0 -1.07689 0.48681 -2.03977 1.25 -2.68098V2.25ZM7 1.5c-0.41421 0 -0.75 0.33579 -0.75 0.75v5.94473c0 0.25348 -0.12804 0.48981 -0.34037 0.62826C5.3604 9.18109 5 9.79866 5 10.5c0 1.1046 0.89543 2 2 2s2 -0.8954 2 -2c0 -0.70134 -0.3604 -1.31891 -0.90963 -1.67701 -0.21233 -0.13845 -0.34037 -0.37478 -0.34037 -0.62826V2.25c0 -0.41421 -0.33579 -0.75 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

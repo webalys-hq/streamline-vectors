@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="erlenmeyer-flask--science-experiment-lab-flask-chemistry-solution"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 .5v6l3.59 4.57a1.5 1.5 0 0 1-1.18 2.43H2.59a1.5 1.5 0 0 1-1.18-2.43L5 6.5v-6"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5.5h7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Erlenmeyer-Flask--Streamline-Core">
+  <desc>
+    Erlenmeyer Flask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="erlenmeyer-flask--science-experiment-lab-flask-chemistry-solution">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.00001 0.5v6L12.59 11.07c0.1749 0.2213 0.2838 0.4874 0.3143 0.7678 0.0305 0.2804 -0.0187 0.5637 -0.1419 0.8174 -0.1232 0.2537 -0.3154 0.4676 -0.5546 0.617 -0.2392 0.1494 -0.5157 0.2284 -0.7978 0.2278H2.59001c-0.28204 0.0006 -0.55854 -0.0784 -0.79776 -0.2278 -0.23921 -0.1494 -0.43146 -0.3633 -0.55466 -0.617 -0.1232 -0.2537 -0.17238 -0.537 -0.14188 -0.8174s0.13943 -0.5465 0.3143 -0.7678l3.59 -4.57v-6" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 0.5h7" stroke-width="1"></path>
+  </g>
+</svg>

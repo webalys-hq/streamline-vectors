@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-add-plus--actions-add-close-geometric-human-person-plus-single-up-user"><path id="Ellipse 337" fill="#37d7ff" d="M2 3a3 3 0 1 0 6 0 3 3 0 1 0-6 0"></path><g id="Vector"><path fill="#37d7ff" d="M8.75 8.693A5 5 0 0 0 0 12a.5.5 0 0 0 .5.5h6.78a2 2 0 0 1 .97-3.75h.5v-.057Z"></path></g><g id="Vector_2"><path fill="#3e3e3e" fill-rule="evenodd" d="M10.75 7.5a.75.75 0 0 1 .75.75V10h1.75a.75.75 0 0 1 0 1.5H11.5v1.75a.75.75 0 0 1-1.5 0V11.5H8.25a.75.75 0 0 1 0-1.5H10V8.25a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Add-Plus--Streamline-Core">
+  <desc>
+    User Add Plus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-add-plus--actions-add-close-geometric-human-person-plus-single-up-user">
+    <path id="Ellipse 337" fill="#8fbffa" d="M2 3a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <g id="Vector">
+      <path fill="#8fbffa" d="M8.75 8.69269C7.83382 7.65466 6.49337 6.99997 5 6.99997c-2.76142 0 -5 2.23858 -5 5.00003 0 0.2761 0.223858 0.5 0.5 0.5h6.78095C6.66612 12.1588 6.25 11.503 6.25 10.75c0 -1.10458 0.89543 -2.00001 2 -2.00001h0.5v-0.0573Z" stroke-width="1"></path>
+    </g>
+    <g id="Vector_2">
+      <path fill="#2859c5" fill-rule="evenodd" d="M10.75 7.5c0.4142 0 0.75 0.33579 0.75 0.75V10h1.75c0.4142 0 0.75 0.3358 0.75 0.75s-0.3358 0.75 -0.75 0.75H11.5v1.75c0 0.4142 -0.3358 0.75 -0.75 0.75s-0.75 -0.3358 -0.75 -0.75V11.5H8.25c-0.41421 0 -0.75 -0.3358 -0.75 -0.75s0.33579 -0.75 0.75 -0.75H10V8.25c0 -0.41421 0.3358 -0.75 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

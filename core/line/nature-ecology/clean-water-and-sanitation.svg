@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="clean-water-and-sanitation"><path id="Rectangle 342" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.942 1.812A1.015 1.015 0 0 1 3.95.671h5.823c.61 0 1.083.535 1.007 1.141l-.761 6.093c-.064.508-.496.89-1.008.89h-4.3c-.512 0-.944-.382-1.007-.89l-.762-6.093Z"></path><path id="Vector 817" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.748 8.789v4.39"></path><path id="Vector 818" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.285 11.715 1.463 1.463 1.463-1.463"></path><path id="Vector 819" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.307 4.714c3.628.518 3.628-1.555 7.255-1.036"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Clean-Water-And-Sanitation--Streamline-Core">
+  <desc>
+    Clean Water And Sanitation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="clean-water-and-sanitation">
+    <path id="Rectangle 342" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.94244 1.81224C2.86668 1.2062 3.33924 0.670898 3.94999 0.670898h5.82273c0.61078 0 1.08328 0.535302 1.00758 1.141342l-0.7616 6.09237c-0.06349 0.50814 -0.49544 0.88946 -1.00753 0.88946H4.71154c-0.51209 0 -0.94404 -0.38132 -1.00755 -0.88946l-0.76155 -6.09237Z" stroke-width="1"></path>
+    <path id="Vector 817" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.7478 8.78882v4.38938" stroke-width="1"></path>
+    <path id="Vector 818" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.28467 11.7151 1.46314 1.4631 1.46314 -1.4631" stroke-width="1"></path>
+    <path id="Vector 819" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.30725 4.71411c3.62763 0.51822 3.62763 -1.55469 7.25525 -1.03646" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="checkup-medical-report-clipboard"><path id="rectangle 659" fill="#37d7ff" d="M1.25 2.5A1.5 1.5 0 0 1 2.75 1h8.5a1.5 1.5 0 0 1 1.5 1.5v10a1.5 1.5 0 0 1-1.5 1.5h-8.5a1.5 1.5 0 0 1-1.5-1.5v-10Z"></path><path id="rectangle 660" fill="#3e3e3e" d="M4.5 1a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v.5a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1V1Z"></path><path id="union" fill="#3e3e3e" d="M6.363 5.065a.392.392 0 0 0-.393.393v1.56H4.41a.392.392 0 0 0-.392.392v1.275c0 .217.175.393.392.393h1.56v1.56c0 .217.176.392.392.392h1.276a.392.392 0 0 0 .392-.392v-1.56h1.56a.392.392 0 0 0 .392-.393V7.41a.392.392 0 0 0-.392-.392H8.03v-1.56a.392.392 0 0 0-.392-.393H6.363Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Checkup-Medical-Report-Clipboard--Streamline-Core">
+  <desc>
+    Checkup Medical Report Clipboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="checkup-medical-report-clipboard">
+    <path id="rectangle 659" fill="#8fbffa" d="M1.25 2.5A1.5 1.5 0 0 1 2.75 1h8.5a1.5 1.5 0 0 1 1.5 1.5v10a1.5 1.5 0 0 1 -1.5 1.5h-8.5a1.5 1.5 0 0 1 -1.5 -1.5v-10Z" stroke-width="1"></path>
+    <path id="rectangle 660" fill="#2859c5" d="M4.5 1a1 1 0 0 1 1 -1h3a1 1 0 0 1 1 1v0.5a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1V1Z" stroke-width="1"></path>
+    <path id="union" fill="#2859c5" d="M6.363 5.065a0.392 0.392 0 0 0 -0.393 0.393v1.56H4.41a0.392 0.392 0 0 0 -0.392 0.392v1.275c0 0.217 0.175 0.393 0.392 0.393h1.56v1.56c0 0.217 0.176 0.392 0.392 0.392h1.276a0.392 0.392 0 0 0 0.392 -0.392l0 -1.56h1.56a0.392 0.392 0 0 0 0.392 -0.393V7.41a0.392 0.392 0 0 0 -0.392 -0.392l-1.56 0v-1.56a0.392 0.392 0 0 0 -0.392 -0.393H6.363Z" stroke-width="1"></path>
+  </g>
+</svg>

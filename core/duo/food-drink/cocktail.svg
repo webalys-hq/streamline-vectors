@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass"><path id="Vector" fill="#ffffff" d="M2.243.5h9.514a.743.743 0 0 1 .584 1.202L11.321 3H2.68L1.66 1.702A.743.743 0 0 1 2.243.5Z"></path><path id="Vector_2" fill="#37d7ff" d="M7 8.5 2.679 3h8.642L7 8.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5 1.659 1.702A.743.743 0 0 1 2.243.5h9.514a.743.743 0 0 1 .584 1.202L7 8.5Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.679 3h8.642"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5v5"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cocktail--Streamline-Core">
+  <desc>
+    Cocktail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass">
+    <path id="Vector" fill="#ffffff" d="M2.24302 0.5H11.757c0.4103 0 0.743 0.33266 0.743 0.74302 0 0.16648 -0.0559 0.32814 -0.1588 0.45905L11.3214 3H2.67857l-1.0198 -1.29793C1.55591 1.57116 1.5 1.4095 1.5 1.24302 1.5 0.832661 1.83266 0.5 2.24302 0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M7 8.5 2.67857 3h8.64283L7 8.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5 1.65877 1.70207C1.55591 1.57116 1.5 1.4095 1.5 1.24302 1.5 0.832661 1.83266 0.5 2.24302 0.5H11.757c0.4103 0 0.743 0.33266 0.743 0.74302 0 0.16648 -0.0559 0.32814 -0.1588 0.45905L7 8.5Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.67857 3h8.64283" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7 8.5 0 5" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5h6" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wind-flow-1--wind-high-overcast-gust-weather-meteorology-gale"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.75.75A.75.75 0 0 1 7.5 0a2.5 2.5 0 1 1 0 5H.75a.75.75 0 0 1 0-1.5H7.5a1 1 0 0 0 0-2 .75.75 0 0 1-.75-.75ZM2 7a.75.75 0 0 1 .75-.75h8.75a2.5 2.5 0 0 1 0 5 .75.75 0 0 1 0-1.5 1 1 0 1 0 0-2H2.75A.75.75 0 0 1 2 7Zm-.25 2a.75.75 0 0 0 0 1.5h5.5a1 1 0 0 1 0 2 .75.75 0 0 0 0 1.5 2.5 2.5 0 0 0 0-5h-5.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wind-Flow-1--Streamline-Core">
+  <desc>
+    Wind Flow 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wind-flow-1--wind-high-overcast-gust-weather-meteorology-gale">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.75 0.75A0.75 0.75 0 0 1 7.5 0a2.5 2.5 0 1 1 0 5H0.75a0.75 0.75 0 0 1 0 -1.5H7.5a1 1 0 0 0 0 -2 0.75 0.75 0 0 1 -0.75 -0.75ZM2 7a0.75 0.75 0 0 1 0.75 -0.75h8.75a2.5 2.5 0 0 1 0 5 0.75 0.75 0 0 1 0 -1.5 1 1 0 1 0 0 -2H2.75A0.75 0.75 0 0 1 2 7Zm-0.25 2a0.75 0.75 0 0 0 0 1.5h5.5a1 1 0 0 1 0 2 0.75 0.75 0 0 0 0 1.5 2.5 2.5 0 0 0 0 -5h-5.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

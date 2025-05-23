@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hexagram--star-jew-jewish-judaism-hexagram-culture-religion-david"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7.857.564a1 1 0 0 0-1.714 0L4.67 3.017H1.655a1 1 0 0 0-.857 1.515L2.279 7 .798 9.468a1 1 0 0 0 .857 1.515H4.67l1.473 2.452a1 1 0 0 0 1.714 0l1.473-2.452h3.015a1 1 0 0 0 .857-1.515L11.721 7l1.481-2.468a1 1 0 0 0-.857-1.515H9.33L7.857.564Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hexagram--Streamline-Core">
+  <desc>
+    Hexagram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hexagram--star-jew-jewish-judaism-hexagram-culture-religion-david">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.857 0.564a1 1 0 0 0 -1.714 0L4.67 3.017H1.655a1 1 0 0 0 -0.857 1.515L2.279 7 0.798 9.468a1 1 0 0 0 0.857 1.515H4.67l1.473 2.452a1 1 0 0 0 1.714 0l1.473 -2.452h3.015a1 1 0 0 0 0.857 -1.515L11.721 7l1.481 -2.468a1 1 0 0 0 -0.857 -1.515H9.33L7.857 0.564Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

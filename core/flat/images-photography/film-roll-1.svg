@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="film-roll-1--photos-camera-shutter-picture-photography-pictures-photo-film-roll"><path id="Vector 512 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M10.25 5.5a.75.75 0 0 1 .75.75v5a.75.75 0 0 0 1.5 0 .75.75 0 0 1 1.5 0 2.25 2.25 0 0 1-4.5 0v-5a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M5.5.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.5 4.375a.875.875 0 1 0 0-1.75.875.875 0 0 0 0 1.75ZM3.195 6.883a.875.875 0 1 0 0-1.75.875.875 0 0 0 0 1.75Zm5.485-.875a.875.875 0 1 1-1.75 0 .875.875 0 0 1 1.75 0ZM5.5 9.242a.875.875 0 1 0 0-1.75.875.875 0 0 0 0 1.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Film-Roll-1--Streamline-Core">
+  <desc>
+    Film Roll 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="film-roll-1--photos-camera-shutter-picture-photography-pictures-photo-film-roll">
+    <path id="Vector 512 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10.25 5.5c0.4142 0 0.75 0.33579 0.75 0.75v5c0 0.4142 0.3358 0.75 0.75 0.75s0.75 -0.3358 0.75 -0.75 0.3358 -0.75 0.75 -0.75 0.75 0.3358 0.75 0.75c0 1.2426 -1.0074 2.25 -2.25 2.25S9.5 12.4926 9.5 11.25v-5c0 -0.41421 0.33579 -0.75 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5.5 0.5C2.46243 0.5 0 2.96243 0 6s2.46243 5.5 5.5 5.5S11 9.03757 11 6 8.53757 0.5 5.5 0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.5 4.375c0.48325 0 0.875 -0.39175 0.875 -0.875s-0.39175 -0.875 -0.875 -0.875 -0.875 0.39175 -0.875 0.875 0.39175 0.875 0.875 0.875ZM3.19531 6.88281c0.48325 0 0.875 -0.39175 0.875 -0.875s-0.39175 -0.875 -0.875 -0.875 -0.875 0.39175 -0.875 0.875 0.39175 0.875 0.875 0.875Zm5.48438 -0.875c0 0.48325 -0.39175 0.875 -0.875 0.875s-0.875 -0.39175 -0.875 -0.875 0.39175 -0.875 0.875 -0.875 0.875 0.39175 0.875 0.875ZM5.5 9.24219c0.48325 0 0.875 -0.39175 0.875 -0.875s-0.39175 -0.875 -0.875 -0.875 -0.875 0.39175 -0.875 0.875 0.39175 0.875 0.875 0.875Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

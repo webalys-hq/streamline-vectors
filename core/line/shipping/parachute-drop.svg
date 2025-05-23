@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="parachute-drop--package-box-fulfillment-cart-warehouse-shipping-delivery-drop-parachute"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.235 7h-4.5a1 1 0 0 0-1 1v4.5a1 1 0 0 0 1 1h4.5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.985 11.258h1"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.485 4.015a.5.5 0 0 0 .44-.27.47.47 0 0 0 0-.51 6.86 6.86 0 0 0-5.94-2.72 6.86 6.86 0 0 0-5.91 2.72.47.47 0 0 0 0 .51.5.5 0 0 0 .41.27h11Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.985 7.008v-3"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.485 7.008-2.5-3"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9.485 7.008 2.5-3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Parachute-Drop--Streamline-Core">
+  <desc>
+    Parachute Drop Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="parachute-drop--package-box-fulfillment-cart-warehouse-shipping-delivery-drop-parachute">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.23499 7h-4.5c-0.55229 0 -1 0.44772 -1 1v4.5c0 0.5523 0.44771 1 1 1h4.5c0.55228 0 1.00001 -0.4477 1.00001 -1V8c0 -0.55228 -0.44773 -1 -1.00001 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.98499 11.2577h1" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.485 4.01534c0.091 -0.00072 0.18 -0.02624 0.2575 -0.07382 0.0776 -0.04758 0.1407 -0.11541 0.1825 -0.19618 0.0491 -0.07599 0.0752 -0.16453 0.0752 -0.255 0 -0.09046 -0.0261 -0.17901 -0.0752 -0.255 -0.6859 -0.91151 -1.5882 -1.63758 -2.6254 -2.11252C9.26243 0.64789 8.12319 0.439097 6.98501 0.515341 5.85175 0.444182 4.71854 0.655443 3.68705 1.13017c-1.03149 0.47473 -1.92901 1.19809 -2.61204 2.10517 -0.04909 0.07599 -0.075193 0.16454 -0.075193 0.255 0 0.09047 0.026103 0.17901 0.075193 0.255 0.03935 0.07647 0.09776 0.14149 0.16958 0.18878 0.07182 0.0473 0.15463 0.07527 0.24042 0.08122H12.485Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.98499 7.00769v-3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.48499 7.00769 -2.5 -3" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.48499 7.00769 2.50001 -3" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cone-shape"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.852 13.38c3.041 0 5.507-1.01 5.507-2.256 0-1.246-2.466-2.256-5.507-2.256-3.042 0-5.508 1.01-5.508 2.256 0 1.246 2.466 2.256 5.508 2.256Z"></path><path id="rectangle 631" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.418 10.718 6.488.872c.174-.336.555-.336.728 0l5.07 9.85"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cone-Shape--Streamline-Core">
+  <desc>
+    Cone Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cone-shape">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.85156 13.3804c3.04188 0 5.50784 -1.0102 5.50784 -2.2563 0 -1.24612 -2.46596 -2.2563 -5.50784 -2.2563s-5.50781 1.01018 -5.50781 2.2563c0 1.2461 2.46593 2.2563 5.50781 2.2563Z" stroke-width="1"></path>
+    <path id="rectangle 631" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.4176 10.7182 6.48873 0.871711c0.17313 -0.336165 0.55398 -0.336097 0.72704 0.00013L12.2857 10.7218" stroke-width="1"></path>
+  </g>
+</svg>

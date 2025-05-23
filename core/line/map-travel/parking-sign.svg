@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="parking-sign--discount-coupon-parking-price-prices-hotel"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5.5h-7a3 3 0 0 0-3 3v7a3 3 0 0 0 3 3h7a3 3 0 0 0 3-3v-7a3 3 0 0 0-3-3Z"></path><path id="Vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.209 10.514V7.586m0 0v-4.1h3.185a1.5 1.5 0 0 1 1.5 1.5v1.1a1.5 1.5 0 0 1-1.5 1.5H5.209Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Parking-Sign--Streamline-Core">
+  <desc>
+    Parking Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="parking-sign--discount-coupon-parking-price-prices-hotel">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.5h-7c-1.65685 0 -3 1.34315 -3 3v7c0 1.6569 1.34315 3 3 3h7c1.6569 0 3 -1.3431 3 -3v-7c0 -1.65685 -1.3431 -3 -3 -3Z" stroke-width="1"></path>
+    <path id="Vector 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.20898 10.5135 0 -2.92797m0 0 0 -4.0992 3.18481 0c0.82843 0 1.5 0.67157 1.5 1.5v1.0992c0 0.82843 -0.67158 1.5 -1.5 1.5H5.20898Z" stroke-width="1"></path>
+  </g>
+</svg>

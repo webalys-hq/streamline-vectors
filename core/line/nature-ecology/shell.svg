@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shell--nature-sealife-animals"><path id="Vector 2292" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.497 11.5v1a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-1"></path><path id="Union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.775 3.851a2.5 2.5 0 0 0-3.572 3.147c-.125.16-.24.318-.345.47-.572.829-.202 1.898.678 2.387l2.96 1.645h5.047l2.924-1.642c.875-.49 1.242-1.557.672-2.383a9.875 9.875 0 0 0-.35-.477 2.5 2.5 0 0 0-3.572-3.147 2.5 2.5 0 0 0-4.442 0Z"></path><path id="Vector 2288" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.497 7 .724-3.154"></path><path id="Vector 2289" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.846 6.86 9.996 9"></path><path id="Vector 2290" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.497 7-.725-3.154"></path><path id="Vector 2291" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.147 6.86 3.997 9"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shell--Streamline-Core">
+  <desc>
+    Shell Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shell--nature-sealife-animals">
+    <path id="Vector 2292" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.49658 11.5v1c0 0.5523 -0.44771 1 -1 1h-3c-0.55228 0 -1 -0.4477 -1 -1v-1" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.77525 3.85142C4.40108 3.62823 3.9637 3.5 3.49637 3.5 2.11565 3.5 0.996365 4.61929 0.996365 6c0 0.35482 0.073915 0.69238 0.207195 0.99811 -0.12551 0.16047 -0.24062 0.31809 -0.345621 0.47006 -0.57239 0.82843 -0.201894 1.89832 0.678331 2.38733L4.49637 11.5h5.04675l2.92408 -1.64152c0.875 -0.49126 1.2419 -1.55763 0.6721 -2.38373 -0.1062 -0.154 -0.2228 -0.31385 -0.3501 -0.47664 0.1332 -0.30573 0.2072 -0.64329 0.2072 -0.99811 0 -1.38071 -1.1193 -2.5 -2.5 -2.5 -0.4674 0 -0.90475 0.12823 -1.27892 0.35142C8.80149 3.0486 7.96299 2.5 6.99637 2.5c-0.96663 0 -1.80512 0.5486 -2.22112 1.35142Z" stroke-width="1"></path>
+    <path id="Vector 2288" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.49654 7.00009 0.72416 -3.15414" stroke-width="1"></path>
+    <path id="Vector 2289" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.8457 6.85962 9.99658 8.99994" stroke-width="1"></path>
+    <path id="Vector 2290" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.49658 7.00009 -0.72416 -3.15414" stroke-width="1"></path>
+    <path id="Vector 2291" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.14746 6.85962 2.84912 2.14032" stroke-width="1"></path>
+  </g>
+</svg>

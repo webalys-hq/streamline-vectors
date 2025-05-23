@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dices-entertainment-gaming-dices"><path id="Subtract" fill="#ffffff" fill-rule="evenodd" d="M1.5.5a1 1 0 0 0-1 1v5.429a1 1 0 0 0 1 1h4.571V7.07a1 1 0 0 1 1-1h.858V1.5a1 1 0 0 0-1-1H1.5Z" clip-rule="evenodd"></path><path id="Rectangle 568" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.929 3.286V1.5a1 1 0 0 0-1-1H1.5a1 1 0 0 0-1 1v5.429a1 1 0 0 0 1 1h1.786"></path><path id="Rectangle 569" fill="#37d7ff" d="M7.071 6.071H12.5s1 0 1 1V12.5s0 1-1 1H7.071s-1 0-1-1V7.071s0-1 1-1"></path><path id="Rectangle 570" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.071 6.071H12.5s1 0 1 1V12.5s0 1-1 1H7.071s-1 0-1-1V7.071s0-1 1-1"></path><g id="Group 99"><path id="Ellipse 81" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.654 11.166a.25.25 0 0 1 0-.5"></path><path id="Ellipse 82" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.654 11.166a.25.25 0 1 0 0-.5"></path></g><g id="Group 2270"><path id="Ellipse 81_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.221 3.505a.25.25 0 0 1 0-.5"></path><path id="Ellipse 82_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.22 3.505a.25.25 0 0 0 0-.5"></path></g><g id="Group 2271"><path id="Ellipse 81_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.919 9.105a.25.25 0 0 1 0-.5"></path><path id="Ellipse 82_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.918 9.105a.25.25 0 1 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dices-Entertainment-Gaming-Dices--Streamline-Core">
+  <desc>
+    Dices Entertainment Gaming Dices Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dices-entertainment-gaming-dices">
+    <path id="Subtract" fill="#ffffff" fill-rule="evenodd" d="M1.5 0.5c-0.552285 0 -1 0.447715 -1 1v5.42859c0 0.55228 0.447715 1 1 1h4.57146v-0.85718c0 -0.55228 0.44771 -1 1 -1h0.85713V1.5c0 -0.552285 -0.44772 -1 -1 -1H1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Rectangle 568" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.92856 3.28572V1.5c0 -0.552285 -0.44772 -1 -1 -1H1.49997C0.947685 0.5 0.499969 0.947715 0.499969 1.5v5.42859c0 0.55228 0.447716 1 1.000001 1h1.78572" stroke-width="1"></path>
+    <path id="Rectangle 569" fill="#d7e0ff" d="M7.071 6.071H12.5s1 0 1 1V12.5s0 1 -1 1H7.071s-1 0 -1 -1V7.071s0 -1 1 -1" stroke-width="1"></path>
+    <path id="Rectangle 570" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.071 6.071H12.5s1 0 1 1V12.5s0 1 -1 1H7.071s-1 0 -1 -1V7.071s0 -1 1 -1" stroke-width="1"></path>
+    <g id="Group 99">
+      <path id="Ellipse 81" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.65405 11.1663c-0.13807 0 -0.25 -0.112 -0.25 -0.25 0 -0.1381 0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 82" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.65363 11.166c0.13807 0 0.25 -0.1119 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 2270">
+      <path id="Ellipse 81_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.22107 3.50513c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 82_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.22064 3.50488c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 2271">
+      <path id="Ellipse 81_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.9189 9.10547c-0.138 0 -0.25 -0.11193 -0.25 -0.25s0.112 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 82_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.9185 9.10522c0.1381 0 0.25 -0.11192 0.25 -0.25 0 -0.13807 -0.1119 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

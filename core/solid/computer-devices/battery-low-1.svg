@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="battery-low-1--phone-mobile-charge-device-electricity-power-battery-low"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M.44 2.44A1.5 1.5 0 0 1 1.5 2h10A1.5 1.5 0 0 1 13 3.5v1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1v1a1.5 1.5 0 0 1-1.5 1.5h-10A1.5 1.5 0 0 1 0 10.5v-7c0-.398.158-.78.44-1.06ZM3.374 5a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Low-1--Streamline-Core">
+  <desc>
+    Battery Low 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="battery-low-1--phone-mobile-charge-device-electricity-power-battery-low">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M0.43934 2.43934C0.720644 2.15804 1.10218 2 1.5 2h10c0.3978 0 0.7794 0.15804 1.0607 0.43934S13 3.10217 13 3.5v1c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v3c0 0.26521 -0.1054 0.51957 -0.2929 0.70711C13.5196 9.39464 13.2652 9.5 13 9.5v1c0 0.3978 -0.158 0.7794 -0.4393 1.0607S11.8978 12 11.5 12h-10c-0.39783 0 -0.779356 -0.158 -1.06066 -0.4393C0.158035 11.2794 0 10.8978 0 10.5v-7c0 -0.39782 0.158035 -0.77936 0.43934 -1.06066ZM3.375 5c0 -0.34518 -0.27982 -0.625 -0.625 -0.625s-0.625 0.27982 -0.625 0.625v4c0 0.34518 0.27982 0.625 0.625 0.625s0.625 -0.27982 0.625 -0.625V5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

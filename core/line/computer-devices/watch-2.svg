@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="watch-2--device-square-timepiece-electronics-face-blank-watch-smart"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 2.5v-1a1 1 0 0 0-1-1h-3a1 1 0 0 0-1 1v1"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5v1a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-1"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 2.5h-7a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Watch-2--Streamline-Core">
+  <desc>
+    Watch 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="watch-2--device-square-timepiece-electronics-face-blank-watch-smart">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 2.5v-1c0 -0.26522 -0.10536 -0.51957 -0.29289 -0.707107C9.01957 0.605357 8.76522 0.5 8.5 0.5h-3c-0.26522 0 -0.51957 0.105357 -0.70711 0.292893C4.60536 0.98043 4.5 1.23478 4.5 1.5v1" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5v1c0 0.2652 -0.10536 0.5196 -0.29289 0.7071 -0.18754 0.1875 -0.44189 0.2929 -0.70711 0.2929h-3c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C4.60536 13.0196 4.5 12.7652 4.5 12.5v-1" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 2.5h-7c-0.55228 0 -1 0.44772 -1 1v7c0 0.5523 0.44772 1 1 1h7c0.5523 0 1 -0.4477 1 -1v-7c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

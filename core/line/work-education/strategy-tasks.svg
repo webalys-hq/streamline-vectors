@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="strategy-tasks--strategy-tasks-work"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1.5H11a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1h1.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5.5h-3a1 1 0 0 0-1 1V2a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-.5a1 1 0 0 0-1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.046 6.203a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.452 8.833 2.5 2.5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9.954 8.833-2.5 2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Strategy-Tasks--Streamline-Core">
+  <desc>
+    Strategy Tasks Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="strategy-tasks--strategy-tasks-work">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1.5H11c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v10c0 0.2652 -0.1054 0.5196 -0.2929 0.7071S11.2652 13.5 11 13.5H3c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C2.10536 13.0196 2 12.7652 2 12.5v-10c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C2.48043 1.60536 2.73478 1.5 3 1.5h1.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.5 0.5h-3c-0.55228 0 -1 0.447715 -1 1V2c0 0.55228 0.44772 1 1 1h3c0.55228 0 1 -0.44772 1 -1v-0.5c0 -0.552285 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.0459 6.20312c0 0.69036 0.55964 1.25 1.25 1.25 0.17452 0 0.3407 -0.03576 0.49158 -0.10037 0.44597 -0.19094 0.75842 -0.63379 0.75842 -1.14963 0 -0.69035 -0.55965 -1.25 -1.25 -1.25 -0.69036 0 -1.25 0.55965 -1.25 1.25Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.45215 8.83276 2.5 2.50004" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.9538 8.83276 -2.5 2.50004" stroke-width="1"></path>
+  </g>
+</svg>

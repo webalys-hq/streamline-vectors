@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="nurse-hat--health-medical-hospital-nurse-doctor-cap"><path id="Vector" fill="#ffffff" d="M11.364 4.944 10.22 2.2a1 1 0 0 0-1-.7H4.74a1 1 0 0 0-1 .7L2.63 4.948"></path><path id="Vector_2" fill="#37d7ff" d="M13.5 5.5a21.68 21.68 0 0 0-13 0l2 7h9l2-7Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 8.5h3"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7v3"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.5a21.68 21.68 0 0 0-13 0l2 7h9l2-7Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.364 4.944 10.22 2.2a1 1 0 0 0-1-.7H4.74a1 1 0 0 0-1 .7L2.63 4.948"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nurse-Hat--Streamline-Core">
+  <desc>
+    Nurse Hat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="nurse-hat--health-medical-hospital-nurse-doctor-cap">
+    <path id="Vector" fill="#ffffff" d="M11.3641 4.9443 10.22 2.20007c-0.066 -0.21071 -0.1999 -0.39365 -0.3808 -0.52028 -0.1809 -0.12662 -0.39862 -0.18982 -0.6192 -0.17972H4.74c-0.22058 -0.0101 -0.4383 0.0531 -0.61919 0.17972 -0.1809 0.12663 -0.3148 0.30957 -0.38081 0.52028L2.62982 4.94848" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M13.5 5.50003c-4.23131 -1.32979 -8.76869 -1.32979 -13 0L2.5 12.5h9l2 -6.99997Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.5 8.5h3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 7v3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.50003c-4.23131 -1.32979 -8.76869 -1.32979 -13 0L2.5 12.5h9l2 -6.99997Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.3641 4.94418 10.22 2.19995c-0.066 -0.21071 -0.1999 -0.39365 -0.3808 -0.52028 -0.1809 -0.12663 -0.39862 -0.18982 -0.6192 -0.17972H4.74c-0.22058 -0.0101 -0.4383 0.05309 -0.61919 0.17972 -0.1809 0.12663 -0.3148 0.30957 -0.38081 0.52028L2.62982 4.94836" stroke-width="1"></path>
+  </g>
+</svg>

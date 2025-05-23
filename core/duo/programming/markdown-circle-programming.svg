@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="markdown-circle-programming"><path id="Ellipse 16" fill="#37d7ff" d="M.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0-13 0"></path><path id="Ellipse 17" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0-13 0"></path><path id="Vector 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9V5.243c0-.134.109-.243.243-.243v0c.096 0 .182.056.221.143l.754 1.675A.31.31 0 0 0 5 7v0a.31.31 0 0 0 .282-.182l.754-1.675A.243.243 0 0 1 6.257 5v0c.134 0 .243.109.243.243V9"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 5v4"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.5 8 1 1 1-1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Markdown-Circle-Programming--Streamline-Core">
+  <desc>
+    Markdown Circle Programming Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="markdown-circle-programming">
+    <path id="Ellipse 16" fill="#d7e0ff" d="M0.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="Ellipse 17" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9V5.24292C3.5 5.10876 3.60876 5 3.74292 5v0c0.0956 0 0.18231 0.05607 0.22153 0.14325l0.75334 1.67435c0.04994 0.11101 0.16035 0.1824 0.28208 0.1824v0c0.12171 0 0.23211 -0.07138 0.28206 -0.18237l0.75358 -1.6744C6.07475 5.05606 6.16145 5 6.25704 5v0c0.13417 0 0.24294 0.10876 0.24294 0.24293V9" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.5 5v3.99991" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m8.5 8 1 1 1 -1" stroke-width="1"></path>
+  </g>
+</svg>

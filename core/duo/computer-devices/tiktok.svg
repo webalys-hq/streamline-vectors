@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tiktok"><path id="Ellipse 16" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.422 9.717V1.141m0 8.58a2.893 2.893 0 1 1-2.893-2.893"></path><path id="Ellipse 17" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.422 1.14a4.288 4.288 0 0 0 4.288 4.29"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tiktok--Streamline-Core">
+  <desc>
+    Tiktok Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tiktok">
+    <path id="Ellipse 16" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.42188 9.71733V1.14062m0 8.58008c0 1.5975 -1.29506 2.8926 -2.89258 2.8926 -1.59753 0 -2.89258 -1.2951 -2.89258 -2.8926 0 -1.59752 1.29505 -2.89258 2.89258 -2.89258" stroke-width="1"></path>
+    <path id="Ellipse 17" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.42188 1.14062c0 2.3684 1.91992 4.28836 4.28832 4.28836" stroke-width="1"></path>
+  </g>
+</svg>

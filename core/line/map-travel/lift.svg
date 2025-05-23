@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="lift--arrow-up-human-down-person-user-lift-elevator"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.996 5.698 2.252-2.252L13.5 5.698"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.996 9.302 2.252 2.252L13.5 9.302"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.8 4.65a1.886 1.886 0 1 0 0-3.77 1.886 1.886 0 0 0 0 3.772Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.101 7.952a3.3 3.3 0 0 0-6.601 0v1.414h1.415l.471 3.772h2.83l.47-3.772h1.415V7.952Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lift--Streamline-Core">
+  <desc>
+    Lift Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lift--arrow-up-human-down-person-user-lift-elevator">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.99573 5.69831 2.25217 -2.25214L13.5 5.69831" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.99573 9.30164 2.25217 2.25216L13.5 9.30164" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.80065 4.65086c1.04166 0 1.8861 -0.84444 1.8861 -1.8861 0 -1.04166 -0.84444 -1.886098 -1.8861 -1.886098 -1.04166 0 -1.8861 0.844438 -1.8861 1.886098s0.84444 1.8861 1.8861 1.8861Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.10135 7.95155c0 -0.87539 -0.34775 -1.71493 -0.96675 -2.33393 -0.61899 -0.61899 -1.45853 -0.96674 -2.33393 -0.96674 -0.87539 0 -1.71493 0.34775 -2.33393 0.96674C0.847749 6.23662 0.5 7.07616 0.5 7.95155v1.41458h1.41457l0.47153 3.77217h2.82915l0.47152 -3.77217h1.41458V7.95155Z" stroke-width="1"></path>
+  </g>
+</svg>

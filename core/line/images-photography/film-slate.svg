@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="film-slate--pictures-photo-film-slate"><path id="Rectangle 1681" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.365 6.127h11.447v6.232a1 1 0 0 1-1 1H2.366a1 1 0 0 1-1-1V6.127Z"></path><path id="Rectangle 1683" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.364 6.127 12.42 3.164l-.48-1.79a1 1 0 0 0-1.225-.708L1.591 3.112a1 1 0 0 0-.707 1.224l.48 1.79Z"></path><path id="Rectangle 1682" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.99 10.817h1.278"></path><path id="Rectangle 1684" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.397 5.314.64-3.126"></path><path id="Rectangle 1685" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.009 4.346.64-3.126"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Film-Slate--Streamline-Core">
+  <desc>
+    Film Slate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="film-slate--pictures-photo-film-slate">
+    <path id="Rectangle 1681" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.36505 6.12683H12.8125v6.23257c0 0.5522 -0.4477 1 -1 1H2.36505c-0.55228 0 -1 -0.4477 -1 -1V6.12683Z" stroke-width="1"></path>
+    <path id="Rectangle 1683" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.36353 6.12683 12.4209 3.16402l-0.4798 -1.7905c-0.1429 -0.533466 -0.6912 -0.850048 -1.2247 -0.707106L1.59087 3.11159c-0.53347 0.14294 -0.850049 0.69128 -0.707107 1.22474l0.479767 1.7905Z" stroke-width="1"></path>
+    <path id="Rectangle 1682" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.98914 10.8174h1.27922" stroke-width="1"></path>
+    <path id="Rectangle 1684" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.39734 5.31396 0.63963 -3.12571" stroke-width="1"></path>
+    <path id="Rectangle 1685" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.00897 4.34619 0.63963 -3.12571" stroke-width="1"></path>
+  </g>
+</svg>

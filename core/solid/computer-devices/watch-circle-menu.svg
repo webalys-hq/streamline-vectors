@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="watch-circle-menu--device-timepiece-circle-watch-round-menu-list-option-app"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.5 0A1.5 1.5 0 0 0 4 1.5v1.191A5.244 5.244 0 0 0 1.75 7c0 1.784.89 3.36 2.25 4.309V12.5A1.5 1.5 0 0 0 5.5 14h3a1.5 1.5 0 0 0 1.5-1.5v-1.191A5.244 5.244 0 0 0 12.25 7c0-1.784-.89-3.36-2.25-4.309V1.5A1.5 1.5 0 0 0 8.5 0h-3ZM3.25 7a3.75 3.75 0 1 1 7.5 0 3.75 3.75 0 0 1-7.5 0Zm1.867-.385a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm1.498-.75c0-.346.28-.625.625-.625h1.75a.625.625 0 1 1 0 1.25H7.24a.625.625 0 0 1-.625-.625Zm0 2.27c0-.345.28-.625.625-.625h1.75a.625.625 0 1 1 0 1.25H7.24a.625.625 0 0 1-.625-.625Zm-.748 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Watch-Circle-Menu--Streamline-Core">
+  <desc>
+    Watch Circle Menu Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="watch-circle-menu--device-timepiece-circle-watch-round-menu-list-option-app">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5.5 0A1.5 1.5 0 0 0 4 1.5v1.191A5.244 5.244 0 0 0 1.75 7c0 1.784 0.89 3.36 2.25 4.309V12.5A1.5 1.5 0 0 0 5.5 14h3a1.5 1.5 0 0 0 1.5 -1.5v-1.191A5.244 5.244 0 0 0 12.25 7c0 -1.784 -0.89 -3.36 -2.25 -4.309V1.5A1.5 1.5 0 0 0 8.5 0h-3ZM3.25 7a3.75 3.75 0 1 1 7.5 0 3.75 3.75 0 0 1 -7.5 0Zm1.867 -0.385a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Zm1.498 -0.75c0 -0.346 0.28 -0.625 0.625 -0.625h1.75a0.625 0.625 0 1 1 0 1.25H7.24a0.625 0.625 0 0 1 -0.625 -0.625Zm0 2.27c0 -0.345 0.28 -0.625 0.625 -0.625h1.75a0.625 0.625 0 1 1 0 1.25H7.24a0.625 0.625 0 0 1 -0.625 -0.625Zm-0.748 0a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

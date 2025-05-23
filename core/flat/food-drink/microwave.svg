@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="microwave--cook-food-appliances-cooking-nutrition-appliance-microwave-kitchenware"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1 2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H1Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M8.954 4.088H2.546a.582.582 0 0 0-.582.582v4.66c0 .322.26.582.582.582h6.408c.321 0 .582-.26.582-.582V4.67a.582.582 0 0 0-.582-.582Zm1.738.748c0-.345.28-.625.625-.625h1.046a.625.625 0 1 1 0 1.25h-1.046a.625.625 0 0 1-.625-.625Zm.625 1.539a.625.625 0 1 0 0 1.25h1.046a.625.625 0 1 0 0-1.25h-1.046Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Microwave--Streamline-Core">
+  <desc>
+    Microwave Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="microwave--cook-food-appliances-cooking-nutrition-appliance-microwave-kitchenware">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1 2c-0.552285 0 -1 0.44772 -1 1v8c0 0.5523 0.447715 1 1 1h12c0.5523 0 1 -0.4477 1 -1V3c0 -0.55228 -0.4477 -1 -1 -1H1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M8.95366 4.08752H2.54624c-0.3217 0 -0.58249 0.2608 -0.58249 0.5825v4.65994c0 0.3217 0.26079 0.58249 0.58249 0.58249h6.40742c0.3217 0 0.58249 -0.26079 0.58249 -0.58249V4.67002c0 -0.3217 -0.26079 -0.5825 -0.58249 -0.5825Zm1.73844 0.74872c0 -0.34518 0.2798 -0.625 0.625 -0.625h1.0464c0.3452 0 0.625 0.27982 0.625 0.625s-0.2798 0.625 -0.625 0.625h-1.0464c-0.3452 0 -0.625 -0.27982 -0.625 -0.625Zm0.625 1.53876c-0.3452 0 -0.625 0.27982 -0.625 0.625s0.2798 0.625 0.625 0.625h1.0464c0.3452 0 0.625 -0.27982 0.625 -0.625s-0.2798 -0.625 -0.625 -0.625h-1.0464Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

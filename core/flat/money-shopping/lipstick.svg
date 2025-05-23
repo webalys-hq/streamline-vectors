@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="lipstick--fashion-beauty-lip-lipstick-makeup-shopping"><path id="Vector" fill="#37d7ff" d="M8.872 3.216 11.634.455a.981.981 0 0 1 1.07-.207.982.982 0 0 1 .608.903v2.13a.98.98 0 0 1-.285.696l-1.74 1.653"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M8.834 2.995a.75.75 0 0 0-1.06 0l-2.56 2.56h-.001a1.51 1.51 0 0 0 0 2.13l.001.002 1.59 1.59.001.001a1.51 1.51 0 0 0 2.13 0l.002-.001 2.559-2.56a.75.75 0 0 0 0-1.06L8.834 2.994Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M5.648 4.986a.53.53 0 0 0-.749 0L1.166 8.719l-.001.001a1.639 1.639 0 0 0 0 2.311l2.32 2.32a1.639 1.639 0 0 0 2.311 0h.001l3.734-3.734a.53.53 0 0 0 0-.749L5.648 4.986Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lipstick--Streamline-Core">
+  <desc>
+    Lipstick Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lipstick--fashion-beauty-lip-lipstick-makeup-shopping">
+    <path id="Vector" fill="#8fbffa" d="M8.872 3.216 11.634 0.455a0.981 0.981 0 0 1 1.07 -0.207 0.982 0.982 0 0 1 0.608 0.903v2.13a0.98 0.98 0 0 1 -0.285 0.696l-1.74 1.653" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M8.834 2.995a0.75 0.75 0 0 0 -1.06 0l-2.56 2.56 -0.001 0a1.51 1.51 0 0 0 0 2.13l0.001 0.002 1.59 1.59 0.001 0.001a1.51 1.51 0 0 0 2.13 0l0.002 -0.001 2.559 -2.56a0.75 0.75 0 0 0 0 -1.06L8.834 2.994Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M5.648 4.986a0.53 0.53 0 0 0 -0.749 0L1.166 8.719l-0.001 0.001a1.639 1.639 0 0 0 0 2.311l2.32 2.32a1.639 1.639 0 0 0 2.311 0l0.001 0 3.734 -3.734a0.53 0.53 0 0 0 0 -0.749L5.648 4.986Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="toilet-man--travel-wayfinder-toilet-man"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M9.03 2.03a2.03 2.03 0 1 1-4.06 0 2.03 2.03 0 0 1 4.06 0Zm.483 3.873a3.554 3.554 0 0 1 1.04 2.512V9.44a.5.5 0 0 1-.5.5H9.032l-.453 3.623a.5.5 0 0 1-.496.438H5.918a.5.5 0 0 1-.496-.438L4.97 9.939H3.946a.5.5 0 0 1-.5-.5V8.415a3.554 3.554 0 0 1 6.067-2.512Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Toilet-Man--Streamline-Core">
+  <desc>
+    Toilet Man Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="toilet-man--travel-wayfinder-toilet-man">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M9.03 2.03a2.03 2.03 0 1 1 -4.06 0 2.03 2.03 0 0 1 4.06 0Zm0.483 3.873a3.554 3.554 0 0 1 1.04 2.512V9.44a0.5 0.5 0 0 1 -0.5 0.5H9.032l-0.453 3.623a0.5 0.5 0 0 1 -0.496 0.438H5.918a0.5 0.5 0 0 1 -0.496 -0.438L4.97 9.939H3.946a0.5 0.5 0 0 1 -0.5 -0.5V8.415a3.554 3.554 0 0 1 6.067 -2.512Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

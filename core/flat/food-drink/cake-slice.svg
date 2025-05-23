@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cake-slice--cherry-cake-birthday-event-special-sweet-bake"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M4.224 3.42a2.031 2.031 0 1 1-1.256-.063 2.85 2.85 0 0 1 .152-.624c.09-.24.24-.521.494-.747.267-.238.62-.385 1.045-.385a.625.625 0 1 1 0 1.25c-.118 0-.175.034-.215.069a.634.634 0 0 0-.153.252c-.03.082-.053.168-.067.248Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" d="M.5 6.973a.5.5 0 0 0-.5.5V13.5a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5V7.473a.5.5 0 0 0-.5-.5H.5Z"></path><path id="Union_3" fill="#3e3e3e" d="M.5 6.973a.5.5 0 0 0-.5.5V10h14V7.473a.5.5 0 0 0-.5-.5H.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cake-Slice--Streamline-Core">
+  <desc>
+    Cake Slice Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cake-slice--cherry-cake-birthday-event-special-sweet-bake">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M4.224 3.42a2.031 2.031 0 1 1 -1.256 -0.063 2.85 2.85 0 0 1 0.152 -0.624c0.09 -0.24 0.24 -0.521 0.494 -0.747 0.267 -0.238 0.62 -0.385 1.045 -0.385a0.625 0.625 0 1 1 0 1.25c-0.118 0 -0.175 0.034 -0.215 0.069a0.634 0.634 0 0 0 -0.153 0.252c-0.03 0.082 -0.053 0.168 -0.067 0.248Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M0.5 6.973a0.5 0.5 0 0 0 -0.5 0.5V13.5a0.5 0.5 0 0 0 0.5 0.5h13a0.5 0.5 0 0 0 0.5 -0.5V7.473a0.5 0.5 0 0 0 -0.5 -0.5H0.5Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" d="M0.5 6.973a0.5 0.5 0 0 0 -0.5 0.5V10h14V7.473a0.5 0.5 0 0 0 -0.5 -0.5H0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

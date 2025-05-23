@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="fire-extinguisher-sign"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.266 4.5c0-.76.615-1.375 1.375-1.375h2.234V4.5a.625.625 0 1 0 1.25 0V3.125H9.5a.625.625 0 1 0 0-1.25H2.64A2.625 2.625 0 0 0 .017 4.5v2a.625.625 0 1 0 1.25 0v-2Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M12.758.17A1 1 0 0 1 14 1.14v2.72a1 1 0 0 1-1.242.97l-3-.75A1 1 0 0 1 9 3.11V1.89a1 1 0 0 1 .757-.97l3-.75ZM2 7.5a3.5 3.5 0 1 1 7 0v5A1.5 1.5 0 0 1 7.5 14h-4A1.5 1.5 0 0 1 2 12.5v-5Z" clip-rule="evenodd"></path><path id="Vector 2056" fill="#3e3e3e" d="M6 8h3v3H6a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fire-Extinguisher-Sign--Streamline-Core">
+  <desc>
+    Fire Extinguisher Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fire-extinguisher-sign">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1.26562 4.5c0 -0.75939 0.61561 -1.375 1.375 -1.375H4.875V4.5c0 0.34518 0.27982 0.625 0.625 0.625s0.625 -0.27982 0.625 -0.625V3.125H9.5c0.34518 0 0.625 -0.27982 0.625 -0.625s-0.27982 -0.625 -0.625 -0.625H2.64062C1.19088 1.875 0.015625 3.05025 0.015625 4.5v2c0 0.34518 0.279822 0.625 0.625 0.625s0.624995 -0.27982 0.624995 -0.625v-2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M12.7575 0.170243C13.3886 0.012456 14 0.489814 14 1.14039v2.71922c0 0.65057 -0.6114 1.12793 -1.2425 0.97014l-3.00004 -0.75C9.3123 3.96846 9 3.56848 9 3.10961V1.89039c0 -0.45887 0.3123 -0.85886 0.75746 -0.970147l3.00004 -0.75ZM2 7.5C2 5.567 3.567 4 5.5 4S9 5.567 9 7.5v5c0 0.8284 -0.67157 1.5 -1.5 1.5h-4c-0.82843 0 -1.5 -0.6716 -1.5 -1.5v-5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2056" fill="#2859c5" d="M6 8h3v3H6c-0.55228 0 -1 -0.4477 -1 -1V9c0 -0.55228 0.44772 -1 1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

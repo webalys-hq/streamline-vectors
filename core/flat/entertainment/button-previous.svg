@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-previous--button-television-buttons-movies-skip-previous-video-controls"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="m4.238 6.056 7.819-5.4c.396-.25.878-.183 1.226.08.269.201.458.519.467.897v10.704c0 .884-.979 1.457-1.693 1.005l-7.82-5.367c-.65-.439-.65-1.48 0-1.919ZM0 1.742a1 1 0 1 1 2 0v10.516a1 1 0 1 1-2 0V1.742Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Previous--Streamline-Core">
+  <desc>
+    Button Previous Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-previous--button-television-buttons-movies-skip-previous-video-controls">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="m4.238 6.056 7.819 -5.4c0.396 -0.25 0.878 -0.183 1.226 0.08 0.269 0.201 0.458 0.519 0.467 0.897v10.7l0 0.004c0 0.884 -0.979 1.457 -1.693 1.005l-7.82 -5.367c-0.65 -0.439 -0.65 -1.48 0 -1.919ZM0 1.742a1 1 0 1 1 2 0l0 10.516a1 1 0 1 1 -2 0V1.742Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

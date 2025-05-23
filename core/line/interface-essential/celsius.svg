@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="celsius--degrees-temperature-centigrade-celsius-degree-weather"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 3.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5c-.412-1.165-1.694-2-3-2a3 3 0 0 0-3 3v6a3 3 0 0 0 3 3c1.306 0 2.588-.835 3-2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Celsius--Streamline-Core">
+  <desc>
+    Celsius Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="celsius--degrees-temperature-centigrade-celsius-degree-weather">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 3.5c0.82843 0 1.5 -0.67157 1.5 -1.5S2.82843 0.5 2 0.5 0.5 1.17157 0.5 2 1.17157 3.5 2 3.5Z" stroke-width="1"></path>
+    <path id="Vector 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5c-0.4118 -1.16519 -1.6938 -2 -3 -2 -1.65685 0 -3 1.34315 -3 3v6c0 1.6569 1.34315 3 3 3 1.3062 0 2.5882 -0.8348 3 -2" stroke-width="1"></path>
+  </g>
+</svg>

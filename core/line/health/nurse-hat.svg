@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="nurse-hat--health-medical-hospital-nurse-doctor-cap"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 8.5h3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7v3"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.5a21.68 21.68 0 0 0-13 0l2 7h9l2-7Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.39 5-1.17-2.8a1 1 0 0 0-1-.7H4.74a1 1 0 0 0-1 .7L2.61 5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nurse-Hat--Streamline-Core">
+  <desc>
+    Nurse Hat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="nurse-hat--health-medical-hospital-nurse-doctor-cap">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 8.5h3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 7v3" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.50003c-4.23131 -1.32979 -8.76869 -1.32979 -13 0L2.5 12.5h9l2 -6.99997Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.39 5.00007 -1.17 -2.8c-0.066 -0.21071 -0.1999 -0.39365 -0.38082 -0.52028 -0.1809 -0.12662 -0.39861 -0.18982 -0.61919 -0.17972h-4.48c-0.22058 -0.0101 -0.4383 0.0531 -0.6192 0.17972 -0.18089 0.12663 -0.31479 0.30957 -0.3808 0.52028l-1.13 2.8" stroke-width="1"></path>
+  </g>
+</svg>

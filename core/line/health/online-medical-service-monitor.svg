@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="online-medical-service-monitor"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 1.25H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5v-8a.5.5 0 0 0-.5-.5Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 10.25-1 2.5"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8 10.25 1 2.5"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 12.75h6"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.302 2.986a.43.43 0 0 0-.43.43v1.207H4.666a.43.43 0 0 0-.43.43v1.395c0 .237.193.43.43.43h1.208v1.207c0 .237.192.43.43.43h1.395a.43.43 0 0 0 .43-.43V6.877h1.207a.43.43 0 0 0 .43-.43V5.053a.43.43 0 0 0-.43-.43H8.127V3.416a.43.43 0 0 0-.43-.43H6.303Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Online-Medical-Service-Monitor--Streamline-Core">
+  <desc>
+    Online Medical Service Monitor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="online-medical-service-monitor">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 1.25H1c-0.276142 0 -0.5 0.22386 -0.5 0.5v8c0 0.2761 0.223858 0.5 0.5 0.5h12c0.2761 0 0.5 -0.2239 0.5 -0.5v-8c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6 10.25 -1 2.5" stroke-width="1"></path>
+    <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8 10.25 1 2.5" stroke-width="1"></path>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 12.75h6" stroke-width="1"></path>
+    <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.30225 2.98584c-0.23714 0 -0.42938 0.19224 -0.42938 0.42938v1.20767l-1.20765 0c-0.23714 0 -0.42938 0.19224 -0.42938 0.42938v1.3955c0 0.23714 0.19224 0.42939 0.42938 0.42939h1.20765v1.20762c0 0.23714 0.19224 0.42938 0.42938 0.42938h1.3955c0.23714 0 0.42938 -0.19224 0.42938 -0.42938V6.87716h1.20765c0.23714 0 0.42938 -0.19225 0.42938 -0.42939v-1.3955c0 -0.23714 -0.19224 -0.42938 -0.42938 -0.42938l-1.20765 0V3.41522c0 -0.23714 -0.19224 -0.42938 -0.42938 -0.42938h-1.3955Z" stroke-width="1"></path>
+  </g>
+</svg>

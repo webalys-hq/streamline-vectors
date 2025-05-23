@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="discount-percent-circle--store-shop-shops-stores-discount-coupon"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M14 7A7 7 0 1 1 0 7a7 7 0 0 1 14 0Zm-3.812-3.188a.625.625 0 0 0-.884 0L3.812 9.304a.625.625 0 1 0 .884.884l5.492-5.492a.625.625 0 0 0 0-.884ZM4.803 3.63a1.174 1.174 0 1 0 0 2.349 1.174 1.174 0 0 0 0-2.349Zm4.394 4.393a1.174 1.174 0 1 0 0 2.349 1.174 1.174 0 0 0 0-2.349Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discount-Percent-Circle--Streamline-Core">
+  <desc>
+    Discount Percent Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="discount-percent-circle--store-shop-shops-stores-discount-coupon">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M14 7c0 3.866 -3.134 7 -7 7 -3.86599 0 -7 -3.134 -7 -7 0 -3.86599 3.13401 -7 7 -7 3.866 0 7 3.13401 7 7Zm-3.8123 -3.18772c-0.24408 -0.24407 -0.6398 -0.24407 -0.88388 0L3.81227 9.30383c-0.24408 0.24408 -0.24408 0.63981 0 0.88387 0.24408 0.2441 0.63981 0.2441 0.88388 0l5.49155 -5.49153c0.2441 -0.24408 0.2441 -0.63981 0 -0.88389Zm-5.38433 -0.18305c-0.64847 0 -1.17416 0.52568 -1.17416 1.17415s0.52569 1.17416 1.17416 1.17416c0.64846 0 1.17415 -0.52569 1.17415 -1.17416 0 -0.64847 -0.52569 -1.17415 -1.17415 -1.17415Zm4.39325 4.39323c-0.64847 0 -1.17416 0.52569 -1.17416 1.17416 0 0.64846 0.52569 1.17418 1.17416 1.17418 0.64846 0 1.17418 -0.52572 1.17418 -1.17418 0 -0.64847 -0.52572 -1.17416 -1.17418 -1.17416Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

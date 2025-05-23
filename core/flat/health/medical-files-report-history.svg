@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="medical-files-report-history"><path id="union" fill="#37d7ff" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5-1.5v-8a.5.5 0 0 0-.146-.354l-4-4A.5.5 0 0 0 8.5 0h-6Z"></path><path id="union_2" fill="#3e3e3e" d="M6.363 4.997a.392.392 0 0 0-.393.393v1.56H4.41a.392.392 0 0 0-.392.392v1.275c0 .217.175.392.392.392h1.56v1.56c0 .217.176.393.392.393h1.276a.392.392 0 0 0 .392-.392V9.01h1.56a.392.392 0 0 0 .392-.393V7.342a.392.392 0 0 0-.392-.392H8.03V5.39a.392.392 0 0 0-.392-.393H6.363Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Files-Report-History--Streamline-Core">
+  <desc>
+    Medical Files Report History Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-files-report-history">
+    <path id="union" fill="#8fbffa" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5 -1.5v-8a0.5 0.5 0 0 0 -0.146 -0.354l-4 -4A0.5 0.5 0 0 0 8.5 0h-6Z" stroke-width="1"></path>
+    <path id="union_2" fill="#2859c5" d="M6.363 4.997a0.392 0.392 0 0 0 -0.393 0.393v1.56H4.41a0.392 0.392 0 0 0 -0.392 0.392v1.275c0 0.217 0.175 0.392 0.392 0.392h1.56v1.56c0 0.217 0.176 0.393 0.392 0.393h1.276a0.392 0.392 0 0 0 0.392 -0.392l0 -1.56h1.56a0.392 0.392 0 0 0 0.392 -0.393V7.342a0.392 0.392 0 0 0 -0.392 -0.392l-1.56 0V5.39a0.392 0.392 0 0 0 -0.392 -0.393H6.363Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="book-reading--book-reading-learning"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M.998.055A1.38 1.38 0 0 1 1.58.014l.012.001a8.738 8.738 0 0 1 4.666 2.361 8.738 8.738 0 0 1 4.666-2.36l.011-.002a1.385 1.385 0 0 1 1.58 1.372v7.129a1.385 1.385 0 0 1-.521 1.09 3.267 3.267 0 0 0-.6-.056h-.75v-1.5a2.5 2.5 0 0 0-5 0v3.614c-1.466-1.022-2.79-1.493-4.426-1.766A1.386 1.386 0 0 1 0 8.515v-7.13A1.386 1.386 0 0 1 .998.056Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.644 8.049c0-.921.497-1.726 1.239-2.16V1.824c-.362.29-.888.29-1.25 0V11.3c0 .04.003.078.01.116V8.049Zm1.25 5.25v-5.25a1.25 1.25 0 0 1 2.5 0v2.75h2a2 2 0 0 1 2 2v.5a.5.5 0 0 1-.5.5h-5.5a.5.5 0 0 1-.5-.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Book-Reading--Streamline-Core">
+  <desc>
+    Book Reading Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="book-reading--book-reading-learning">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.998 0.055A1.38 1.38 0 0 1 1.58 0.014l0.012 0.001a8.738 8.738 0 0 1 4.666 2.361 8.738 8.738 0 0 1 4.666 -2.36l0.011 -0.002a1.385 1.385 0 0 1 1.58 1.372v7.129a1.385 1.385 0 0 1 -0.521 1.09 3.267 3.267 0 0 0 -0.6 -0.056h-0.75v-1.5a2.5 2.5 0 0 0 -5 0v3.614c-1.466 -1.022 -2.79 -1.493 -4.426 -1.766A1.386 1.386 0 0 1 0 8.515v-7.13A1.386 1.386 0 0 1 0.998 0.056Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.644 8.049c0 -0.921 0.497 -1.726 1.239 -2.16l0 -4.066c-0.362 0.29 -0.888 0.29 -1.25 0v9.476c0 0.04 0.003 0.078 0.01 0.116V8.049Zm1.25 5.25v-5.25a1.25 1.25 0 0 1 2.5 0v2.75h2a2 2 0 0 1 2 2v0.5a0.5 0.5 0 0 1 -0.5 0.5h-5.5a0.5 0.5 0 0 1 -0.5 -0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="city-hall--city-hall-travel-places"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M1.618 7.81v5.628l4.477-.001v-2.234a.93.93 0 1 1 1.862 0v2.233h4.59V7.808H1.616Z" clip-rule="evenodd"></path><path id="Rectangle 53" fill="#ffffff" d="M6.095 11.203a.93.93 0 1 1 1.862 0v2.235H6.095v-2.235Z"></path><path id="Rectangle 595" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.095 11.203a.93.93 0 0 1 .931-.93v0a.93.93 0 0 1 .931.93v2.235H6.095v-2.235Z"></path><path id="Rectangle 590" fill="#37d7ff" d="M7.082 3.156 3.86 5.687h6.444l-3.222-2.53Z"></path><path id="Vector 1044" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.707 13.438h12.75"></path><path id="Rectangle 592" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.35 7.812h5.464v5.625H4.35V7.813Z"></path><path id="Rectangle 593" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.86 5.688 3.222-2.532 3.222 2.531"></path><path id="Rectangle 594" fill="#ffffff" d="M3.238 5.687h7.688V7.81H3.238V5.687Z"></path><path id="Rectangle 596" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.238 5.687h7.688V7.81H3.238V5.687Z"></path><path id="Vector 1045" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.618 7.81v5.628"></path><path id="Vector 1046" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.546 7.81v5.625"></path><path id="Vector 1052" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.707 7.81h12.75"></path><path id="Vector 1050" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.082 3.156V.674"></path><path id="Vector 1051" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.082.674h1.25"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="City-Hall--Streamline-Core">
+  <desc>
+    City Hall Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="city-hall--city-hall-travel-places">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M1.61774 7.8092v5.6283l4.47766 -0.0009V11.203c0 -0.5141 0.41674 -0.9308 0.93081 -0.9308 0.51408 0 0.93082 0.4167 0.93082 0.9308v2.2333l4.58927 -0.0009V7.8092H1.61774Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Rectangle 53" fill="#ffffff" d="M6.0954 11.203c0 -0.5141 0.41674 -0.9308 0.93081 -0.9308 0.51408 0 0.93082 0.4167 0.93082 0.9308v2.2345H6.0954V11.203Z" stroke-width="1"></path>
+    <path id="Rectangle 595" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.0954 11.203c0 -0.5141 0.41674 -0.9308 0.93081 -0.9308v0c0.51408 0 0.93082 0.4167 0.93082 0.9308v2.2345H6.0954V11.203Z" stroke-width="1"></path>
+    <path id="Rectangle 590" fill="#d7e0ff" d="M7.08212 3.15627 3.86002 5.6875h6.44418L7.08212 3.15627Z" stroke-width="1"></path>
+    <path id="Vector 1044" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.707031 13.4375H13.457" stroke-width="1"></path>
+    <path id="Rectangle 592" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.34998 7.81248h5.46428v5.62502H4.34998V7.81248Z" stroke-width="1"></path>
+    <path id="Rectangle 593" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m3.86002 5.6875 3.2221 -2.53123L10.3042 5.6875" stroke-width="1"></path>
+    <path id="Rectangle 594" fill="#ffffff" d="M3.23828 5.68749h7.68752V7.8092H3.23828V5.68749Z" stroke-width="1"></path>
+    <path id="Rectangle 596" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.23828 5.68749h7.68752V7.8092H3.23828V5.68749Z" stroke-width="1"></path>
+    <path id="Vector 1045" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.61774 7.8092v5.6283" stroke-width="1"></path>
+    <path id="Vector 1046" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5463 7.8092v5.6262" stroke-width="1"></path>
+    <path id="Vector 1052" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.707031 7.8092H13.457" stroke-width="1"></path>
+    <path id="Vector 1050" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.08215 3.15628 7.08203 0.674133" stroke-width="1"></path>
+    <path id="Vector 1051" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.08215 0.674133h1.2504" stroke-width="1"></path>
+  </g>
+</svg>

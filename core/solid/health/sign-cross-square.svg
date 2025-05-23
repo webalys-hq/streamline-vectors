@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sign-cross-square--health-sign-medical-symbol-hospital-cross-square"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M.188 1.594a1.5 1.5 0 0 1 1.5-1.5H12.28a1.5 1.5 0 0 1 1.5 1.5v10.594a1.5 1.5 0 0 1-1.5 1.5H1.687a1.5 1.5 0 0 1-1.5-1.5V1.594Zm5.5 2.468a.5.5 0 0 1 .5-.5h1.625a.5.5 0 0 1 .5.5V5.47h1.406a.5.5 0 0 1 .5.5v1.625a.5.5 0 0 1-.5.5H8.313V9.5a.5.5 0 0 1-.5.5H6.188a.5.5 0 0 1-.5-.5V8.094H4.28a.5.5 0 0 1-.5-.5V5.969a.5.5 0 0 1 .5-.5h1.407V4.062Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sign-Cross-Square--Streamline-Core">
+  <desc>
+    Sign Cross Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sign-cross-square--health-sign-medical-symbol-hospital-cross-square">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M0.1875 1.59375c0 -0.828427 0.671573 -1.5 1.5 -1.5h10.5937c0.8285 0 1.5 0.671573 1.5 1.5V12.1875c0 0.8284 -0.6715 1.5 -1.5 1.5H1.6875c-0.828427 0 -1.5 -0.6716 -1.5 -1.5V1.59375Zm5.5 2.46875c0 -0.27614 0.22386 -0.5 0.5 -0.5h1.625c0.27614 0 0.5 0.22386 0.5 0.5v1.40628h1.40625c0.27614 0 0.50005 0.22385 0.50005 0.5v1.625c0 0.27614 -0.22391 0.5 -0.50005 0.5H8.3125V9.5c0 0.27614 -0.22386 0.5 -0.5 0.5h-1.625c-0.27614 0 -0.5 -0.22386 -0.5 -0.5V8.09378H4.28125c-0.27614 0 -0.5 -0.22386 -0.5 -0.5v-1.625c0 -0.27615 0.22386 -0.5 0.5 -0.5H5.6875V4.0625Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

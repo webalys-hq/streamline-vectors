@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hexagram--star-jew-jewish-judaism-hexagram-culture-religion-david"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 3.5h13L7 13.5.5 3.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10.5h13L7 .5l-6.5 10Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hexagram--Streamline-Core">
+  <desc>
+    Hexagram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hexagram--star-jew-jewish-judaism-hexagram-culture-religion-david">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 3.5h13L7 13.5 0.5 3.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10.5h13L7 0.5l-6.5 10Z" stroke-width="1"></path>
+  </g>
+</svg>

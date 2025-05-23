@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="lock-rotation"><path id="Ellipse 1115" stroke="#3e3e3e" stroke-linecap="round" d="M13.326 8.5a6.5 6.5 0 1 1-.558-4.5"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2v2.5H11"></path><path id="Vector 2567" stroke="#3e3e3e" stroke-linejoin="round" d="M4.75 9.25v-2a.5.5 0 0 1 .5-.5h3.5a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5h-3.5a.5.5 0 0 1-.5-.5Z"></path><path id="Vector 2568" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 6.75v-1A1.5 1.5 0 0 1 7 4.25v0a1.5 1.5 0 0 1 1.5 1.5v1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lock-Rotation--Streamline-Core">
+  <desc>
+    Lock Rotation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lock-rotation">
+    <path id="Ellipse 1115" stroke="#000000" stroke-linecap="round" d="M13.3261 8.5c-0.6772 2.8667 -3.2525 5 -6.3261 5C3.41015 13.5 0.5 10.5899 0.5 7 0.5 3.41015 3.41015 0.5 7 0.5c2.50772 0 4.6838 1.42011 5.7678 3.5" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2v2.5H11" stroke-width="1"></path>
+    <path id="Vector 2567" stroke="#000000" stroke-linejoin="round" d="M4.75 9.25v-2c0 -0.27614 0.22386 -0.5 0.5 -0.5h3.5c0.27614 0 0.5 0.22386 0.5 0.5v2c0 0.27614 -0.22386 0.5 -0.5 0.5h-3.5c-0.27614 0 -0.5 -0.22386 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector 2568" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 6.75v-1c0 -0.82843 0.67157 -1.5 1.5 -1.5v0c0.82843 0 1.5 0.67157 1.5 1.5v1" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="threat-browser-1--bug-browser-file-threat-danger-internet"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M.046 1.75C.046.81.81.047 1.751.047h10.498c.942 0 1.705.763 1.705 1.705v9.06L11.5 6.514c-.768-1.343-2.706-1.343-3.473 0l-3.139 5.493a1.98 1.98 0 0 0-.021 1.946H1.75a1.704 1.704 0 0 1-1.705-1.705V1.751Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" d="M1.75.046C.81.046.047.81.047 1.751V3.5h13.908V1.75c0-.94-.763-1.704-1.705-1.704H1.751Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M10.65 7.012a1 1 0 0 0-1.736 0l-3.139 5.492A1 1 0 0 0 6.643 14h6.277a1 1 0 0 0 .869-1.496L10.65 7.012Z" clip-rule="evenodd"></path><path id="Union_3" fill="#37d7ff" fill-rule="evenodd" d="M10.407 9.5a.625.625 0 0 0-1.25 0v1a.625.625 0 1 0 1.25 0v-1Zm-.625 3.625a.625.625 0 1 0 0-1.25.625.625 0 0 0 0 1.25Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Threat-Browser-1--Streamline-Core">
+  <desc>
+    Threat Browser 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="threat-browser-1--bug-browser-file-threat-danger-internet">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.046 1.75C0.046 0.81 0.81 0.047 1.751 0.047h10.498c0.942 0 1.705 0.763 1.705 1.705v9.06L11.5 6.514c-0.768 -1.343 -2.706 -1.343 -3.473 0l-3.139 5.493a1.98 1.98 0 0 0 -0.021 1.946H1.75a1.704 1.704 0 0 1 -1.705 -1.705V1.751Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" d="M1.75 0.046C0.81 0.046 0.047 0.81 0.047 1.751V3.5h13.908V1.75c0 -0.94 -0.763 -1.704 -1.705 -1.704H1.751Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M10.65 7.012a1 1 0 0 0 -1.736 0l-3.139 5.492A1 1 0 0 0 6.643 14h6.277a1 1 0 0 0 0.869 -1.496L10.65 7.012Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#8fbffa" fill-rule="evenodd" d="M10.407 9.5a0.625 0.625 0 0 0 -1.25 0v1a0.625 0.625 0 1 0 1.25 0v-1Zm-0.625 3.625a0.625 0.625 0 1 0 0 -1.25 0.625 0.625 0 0 0 0 1.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

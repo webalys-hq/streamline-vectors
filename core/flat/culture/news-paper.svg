@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="news-paper--newspaper-periodical-fold-content-entertainment"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M.293 1.543A1 1 0 0 1 1 1.25h9.27a1 1 0 0 1 1 1v1.76a.503.503 0 0 1 .096-.01H13.5a.5.5 0 0 1 .5.5V11a1.75 1.75 0 0 1-1.75 1.75H1.5a1.5 1.5 0 0 1-1.5-1.5v-9a1 1 0 0 1 .293-.707Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M2.787 4.037a.5.5 0 0 1 .5-.5h4.5a.5.5 0 0 1 .5.5v2.5a.5.5 0 0 1-.5.5h-4.5a.5.5 0 0 1-.5-.5v-2.5Zm.5 5.088a.625.625 0 1 0 0 1.25h4.5a.625.625 0 0 0 0-1.25h-4.5Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M11.27 3.713v.296A.503.503 0 0 1 11.366 4h1.153v6.459a.625.625 0 1 1-1.25 0V3.713Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="News-Paper--Streamline-Core">
+  <desc>
+    News Paper Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="news-paper--newspaper-periodical-fold-content-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M0.293 1.543A1 1 0 0 1 1 1.25h9.27a1 1 0 0 1 1 1v1.76a0.503 0.503 0 0 1 0.096 -0.01H13.5a0.5 0.5 0 0 1 0.5 0.5V11a1.75 1.75 0 0 1 -1.75 1.75H1.5a1.5 1.5 0 0 1 -1.5 -1.5v-9a1 1 0 0 1 0.293 -0.707Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M2.787 4.037a0.5 0.5 0 0 1 0.5 -0.5h4.5a0.5 0.5 0 0 1 0.5 0.5v2.5a0.5 0.5 0 0 1 -0.5 0.5h-4.5a0.5 0.5 0 0 1 -0.5 -0.5v-2.5Zm0.5 5.088a0.625 0.625 0 1 0 0 1.25h4.5a0.625 0.625 0 0 0 0 -1.25h-4.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M11.27 3.713v0.296A0.503 0.503 0 0 1 11.366 4h1.153l0 6.459a0.625 0.625 0 1 1 -1.25 0V3.743l0 -0.03Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

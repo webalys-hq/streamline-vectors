@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pie-chart--product-data-analysis-analytics-pie-business-chart"><path id="Vector" fill="#37d7ff" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z"></path><path id="Vector_2" fill="#3e3e3e" d="M14 7a7 7 0 0 0-7-7v6.586a1 1 0 0 0 .293.707l4.657 4.657A6.978 6.978 0 0 0 14 7Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pie-Chart--Streamline-Core">
+  <desc>
+    Pie Chart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pie-chart--product-data-analysis-analytics-pie-business-chart">
+    <path id="Vector" fill="#8fbffa" d="M7 14c3.866 0 7 -3.134 7 -7 0 -3.86599 -3.134 -7 -7 -7 -3.86599 0 -7 3.13401 -7 7 0 3.866 3.13401 7 7 7Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#2859c5" d="M14 7c0 -3.86599 -3.134 -7 -7 -7v6.58579c0 0.26521 0.10536 0.51957 0.29289 0.7071l4.65681 4.65681C13.2165 10.683 14 8.933 14 7Z" stroke-width="1"></path>
+  </g>
+</svg>

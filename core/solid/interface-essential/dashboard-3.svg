@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dashboard-3--app-application-dashboard-home-layout-vertical"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1 0a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1H1Zm7 1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2.01a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V1Zm0 6a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V7Zm-8 3.99a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1V13a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-2.01Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-3--Streamline-Core">
+  <desc>
+    Dashboard 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-3--app-application-dashboard-home-layout-vertical">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1 0C0.447715 0 0 0.447715 0 1v6c0 0.55229 0.447715 1 1 1h4c0.55229 0 1 -0.44771 1 -1V1c0 -0.552285 -0.44771 -1 -1 -1H1Zm7 1c0 -0.552285 0.44771 -1 1 -1h4c0.5523 0 1 0.447715 1 1v2.01c0 0.55228 -0.4477 1 -1 1H9c-0.55229 0 -1 -0.44772 -1 -1V1Zm0 6c0 -0.55228 0.44771 -1 1 -1h4c0.5523 0 1 0.44772 1 1v6c0 0.5523 -0.4477 1 -1 1H9c-0.55228 0 -1 -0.4477 -1 -1V7Zm-8 3.99c0 -0.5523 0.447715 -1.00001 1 -1.00001h4c0.55229 0 1 0.44771 1 1.00001V13c0 0.5523 -0.44771 1 -1 1H1c-0.552285 0 -1 -0.4477 -1 -1v-2.01Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

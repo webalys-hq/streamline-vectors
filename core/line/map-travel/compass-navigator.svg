@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="compass-navigator"><path id="rectangle 650" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.04 1.605a1.099 1.099 0 0 1 1.355 1.355l-1.902 6.772a1.099 1.099 0 0 1-.76.761L2.96 12.395a1.099 1.099 0 0 1-1.355-1.355l1.902-6.772c.103-.37.392-.658.76-.761l6.773-1.902Z"></path><path id="ellipse 169" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" transform="rotate(45 7 7)" d="M5.146 7a1.854 1.854 0 1 0 3.708 0 1.854 1.854 0 1 0-3.708 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Compass-Navigator--Streamline-Core">
+  <desc>
+    Compass Navigator Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="compass-navigator">
+    <path id="rectangle 650" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.0402 1.60472c.8257-.23188 1.5869.52931 1.355 1.35498l-1.9021 6.77271c-.1036.36889-.3919.65719-.76075.76079l-6.77271 1.9021c-.82567.2318-1.58686-.5293-1.35498-1.355l1.90207-6.77273c.1036-.36889.39189-.65718.76078-.76078l6.77269-1.90207Z"></path>
+    <path id="ellipse 169" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" transform="rotate(45 7 7)" d="M5.146 7a1.854 1.854 0 1 0 3.708 0 1.854 1.854 0 1 0-3.708 0"></path>
+  </g>
+</svg>

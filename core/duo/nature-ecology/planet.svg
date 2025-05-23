@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="planet--science-solar-system-ring-planet-saturn-space-astronomy-astronomy"><path id="Ellipse 735" fill="#37d7ff" d="M2 7a5 5 0 1 0 10 0A5 5 0 1 0 2 7"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.73 2.21C10.82.8 12.56.15 13.2.8c1 1-1.04 4.56-4.44 8-3.4 3.44-7 5.44-8 4.44-.657-.658-.02-2.455 1.491-4.592"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.44 11.754A5.06 5.06 0 0 0 7 12a5 5 0 0 0 4.736-6.613"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 10a5 5 0 0 1 7-7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Planet--Streamline-Core">
+  <desc>
+    Planet Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="planet--science-solar-system-ring-planet-saturn-space-astronomy-astronomy">
+    <path id="Ellipse 735" fill="#d7e0ff" d="M2 7a5 5 0 1 0 10 0A5 5 0 1 0 2 7" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.73 2.20998C10.82 0.799981 12.56 0.149981 13.2 0.799981c1 0.999999 -1.04 4.559999 -4.44 7.999999C5.36 12.24 1.76 14.24 0.760001 13.24c-0.657469 -0.6575 -0.020115 -2.4554 1.491209 -4.59185" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.43958 11.7541c0.50325 0.1629 1.02976 0.2461 1.56043 0.2459 0.8379 0.0006 1.6625 -0.2095 2.39803 -0.6108 0.73556 -0.4013 1.35846 -0.9811 1.81146 -1.68598 0.453 -0.70489 0.7216 -1.51232 0.7811 -2.3481 0.0475 -0.66806 -0.0397 -1.3371 -0.2547 -1.96785" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.00001 10c-0.72215 -0.96285 -1.07274 -2.15389 -0.98742 -3.35444 0.08532 -1.20055 0.60083 -2.33003 1.45188 -3.18109 0.85106 -0.85105 1.98054 -1.36656 3.18109 -1.45188 1.20055 -0.08532 2.39159 0.26527 3.35444 0.98742" stroke-width="1"></path>
+  </g>
+</svg>

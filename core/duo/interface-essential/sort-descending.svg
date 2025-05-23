@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sort-descending"><path id="Vector 1025" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.929.5H.5"></path><path id="Vector 1026" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.929 3.286H2.82"></path><path id="Vector 1027" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.929 6.071H5.143"></path><path id="Vector 348" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 11 11 13.5 8.5 11"></path><path id="Vector 349" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 .5v13"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sort-Descending--Streamline-Core">
+  <desc>
+    Sort Descending Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sort-descending">
+    <path id="Vector 1025" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.929 0.5H0.5" stroke-width="1"></path>
+    <path id="Vector 1026" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.929 3.286H2.82" stroke-width="1"></path>
+    <path id="Vector 1027" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.929 6.071H5.143" stroke-width="1"></path>
+    <path id="Vector 348" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 11 11 13.5 8.5 11" stroke-width="1"></path>
+    <path id="Vector 349" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11 0.5v13" stroke-width="1"></path>
+  </g>
+</svg>

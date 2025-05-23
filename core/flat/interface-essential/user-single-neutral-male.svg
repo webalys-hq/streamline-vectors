@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-single-neutral-male--close-geometric-human-person-single-up-user-male"><path id="Union" fill="#3e3e3e" d="M7 8.49a6.99 6.99 0 0 0-6.656 4.855.5.5 0 0 0 .476.653h12.36a.5.5 0 0 0 .476-.653A6.99 6.99 0 0 0 7 8.489Z"></path><path id="Union_2" fill="#37d7ff" d="M7 .002a4.73 4.73 0 1 0 0 9.46 4.73 4.73 0 0 0 0-9.46Z"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M2.498 3.305a4.734 4.734 0 0 1 9.148.56.5.5 0 0 1-.488.595h-.031a4.611 4.611 0 0 1-3.09-1.184A4.611 4.611 0 0 1 4.944 4.46c-.8 0-1.554-.203-2.211-.562a.5.5 0 0 1-.236-.593Zm2.837 2.29a.625.625 0 0 1 .84.275c.091.179.381.363.825.363.444 0 .734-.184.825-.363a.625.625 0 0 1 1.114.566C8.552 7.197 7.7 7.483 7 7.483s-1.552-.286-1.939-1.047a.625.625 0 0 1 .274-.84Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Single-Neutral-Male--Streamline-Core">
+  <desc>
+    User Single Neutral Male Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-single-neutral-male--close-geometric-human-person-single-up-user-male">
+    <path id="Union" fill="#2859c5" d="M7 8.49a6.99 6.99 0 0 0 -6.656 4.855 0.5 0.5 0 0 0 0.476 0.653h12.36a0.5 0.5 0 0 0 0.476 -0.653A6.99 6.99 0 0 0 7 8.489Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M7 0.002a4.73 4.73 0 1 0 0 9.46 4.73 4.73 0 0 0 0 -9.46Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M2.498 3.305a4.734 4.734 0 0 1 9.148 0.56 0.5 0.5 0 0 1 -0.488 0.595l-0.031 0a4.611 4.611 0 0 1 -3.09 -1.184A4.611 4.611 0 0 1 4.944 4.46c-0.8 0 -1.554 -0.203 -2.211 -0.562a0.5 0.5 0 0 1 -0.236 -0.593Zm2.837 2.29a0.625 0.625 0 0 1 0.84 0.275c0.091 0.179 0.381 0.363 0.825 0.363 0.444 0 0.734 -0.184 0.825 -0.363a0.625 0.625 0 0 1 1.114 0.566C8.552 7.197 7.7 7.483 7 7.483s-1.552 -0.286 -1.939 -1.047a0.625 0.625 0 0 1 0.274 -0.84Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

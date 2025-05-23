@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="help-chat-2--bubble-help-mark-message-query-question-speech-circle"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.998.046A6.954 6.954 0 1 1 4.099 13.32l-3.466.627a.5.5 0 0 1-.556-.668l.994-2.646A6.954 6.954 0 0 1 6.998.046Zm-.379 4.399A.995.995 0 1 1 7 6.36a.625.625 0 0 0-.625.625v1.08a.625.625 0 1 0 1.25 0V7.52a2.245 2.245 0 1 0-2.87-2.157.625.625 0 0 0 1.25 0 .995.995 0 0 1 .614-.919ZM7 11.39a.895.895 0 0 1 .002-1.79h.002a.895.895 0 0 1-.002 1.79H7Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Help-Chat-2--Streamline-Core">
+  <desc>
+    Help Chat 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="help-chat-2--bubble-help-mark-message-query-question-speech-circle">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M6.998 0.046A6.954 6.954 0 1 1 4.099 13.32l-3.466 0.627a0.5 0.5 0 0 1 -0.556 -0.668l0.994 -2.646A6.954 6.954 0 0 1 6.998 0.046Zm-0.379 4.399A0.995 0.995 0 1 1 7 6.36a0.625 0.625 0 0 0 -0.625 0.625v1.08a0.625 0.625 0 1 0 1.25 0V7.52a2.245 2.245 0 1 0 -2.87 -2.157 0.625 0.625 0 0 0 1.25 0 0.995 0.995 0 0 1 0.614 -0.919ZM7 11.39a0.895 0.895 0 0 1 0.002 -1.79l0.002 0a0.895 0.895 0 0 1 -0.002 1.79l-0.002 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

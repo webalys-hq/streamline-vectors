@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="passport--travel-book-id-adventure-visa-airport"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5.5h-9a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 6h6"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9V3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Passport--Streamline-Core">
+  <desc>
+    Passport Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="passport--travel-book-id-adventure-visa-airport">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5 0.5h-9c-0.55228 0 -1 0.447715 -1 1v11c0 0.5523 0.44772 1 1 1h9c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9c1.65685 0 3 -1.34315 3 -3S8.65685 3 7 3 4 4.34315 4 6s1.34315 3 3 3Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 6h6" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9V3" stroke-width="1"></path>
+  </g>
+</svg>

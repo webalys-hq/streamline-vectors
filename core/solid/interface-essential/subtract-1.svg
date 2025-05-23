@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="subtract-1--button-delete-buttons-subtract-horizontal-remove-line-add-mathematics-math-minus"><path id="Vector 1931 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M0 7a1 1 0 0 1 1-1h12a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Subtract-1--Streamline-Core">
+  <desc>
+    Subtract 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="subtract-1--button-delete-buttons-subtract-horizontal-remove-line-add-mathematics-math-minus">
+    <path id="Vector 1931 (Stroke)" fill="#000000" fill-rule="evenodd" d="M0 7c0 -0.55228 0.447715 -1 1 -1h12c0.5523 0 1 0.44772 1 1s-0.4477 1 -1 1H1c-0.552285 0 -1 -0.44772 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

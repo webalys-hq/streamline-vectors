@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="passport--travel-book-id-adventure-visa-airport"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z" clip-rule="evenodd"></path><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.5 2.636A3.402 3.402 0 0 0 3.636 5.5H6.5V2.636ZM3.636 6.5A3.402 3.402 0 0 0 6.5 9.364V6.5H3.636ZM7.5 9.364A3.402 3.402 0 0 0 10.364 6.5H7.5v2.864ZM10.364 5.5H7.5V2.636A3.402 3.402 0 0 1 10.364 5.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Passport--Streamline-Core">
+  <desc>
+    Passport Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="passport--travel-book-id-adventure-visa-airport">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.5 0C1.67157 0 1 0.671573 1 1.5v11c0 0.8284 0.67157 1.5 1.5 1.5h9c0.8284 0 1.5 -0.6716 1.5 -1.5v-11c0 -0.828427 -0.6716 -1.5 -1.5 -1.5h-9Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M6.49999 2.63638C5.02238 2.85413 3.85411 4.02239 3.63635 5.5h2.86364V2.63638ZM3.63635 6.5c0.21776 1.47761 1.38603 2.64587 2.86364 2.86362V6.5H3.63635Zm3.86364 2.86361C8.97758 9.14584 10.1458 7.97759 10.3636 6.5H7.49999v2.86361ZM10.3636 5.5H7.49999V2.63639C8.97758 2.85416 10.1458 4.02241 10.3636 5.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

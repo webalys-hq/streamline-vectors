@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="log--nature-tree-plant-circle-round-log"><path id="Vector 2249 (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M4.97 1.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1-1.06 1.06l-2-2a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" d="M11.5 4H2v8h9.5c.81 0 1.444-.57 1.848-1.277C13.761 10 14 9.037 14 8s-.24-2.001-.652-2.723C12.944 4.57 12.31 4 11.5 4Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M3.951 8.875A7.76 7.76 0 0 0 4 8c0-2.192-.895-3.969-2-3.969S0 5.808 0 8s.895 3.969 2 3.969c.71 0 1.335-.736 1.69-1.844H7a.625.625 0 1 0 0-1.25H3.95Zm4.549-2.5h5.292c.105.39.173.811.197 1.25H8.5a.625.625 0 1 1 0-1.25Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Log--Streamline-Core">
+  <desc>
+    Log Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="log--nature-tree-plant-circle-round-log">
+    <path id="Vector 2249 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M4.96967 1.96967c0.29289 -0.29289 0.76777 -0.29289 1.06066 0l2 2c0.29289 0.29289 0.29289 0.76777 0 1.06066s-0.76777 0.29289 -1.06066 0l-2 -2c-0.29289 -0.29289 -0.29289 -0.76777 0 -1.06066Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M11.5 4H2v8h9.5c0.8091 0 1.444 -0.5694 1.8483 -1.2771C13.7608 10.0012 14 9.03739 14 8s-0.2392 -2.00116 -0.6517 -2.72294C12.944 4.56941 12.3091 4 11.5 4Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M3.95123 8.875C3.98315 8.59348 4 8.30065 4 8c0 -2.19188 -0.89543 -3.96875 -2 -3.96875C0.895431 4.03125 0 5.80812 0 8c0 2.1919 0.895431 3.9688 2 3.9688 0.71064 0 1.33471 -0.7355 1.68946 -1.8438H6.9999c0.34518 0 0.625 -0.27982 0.625 -0.625s-0.27982 -0.625 -0.625 -0.625H3.95123ZM8.5 6.375h5.2917c0.1054 0.39015 0.1731 0.81132 0.1978 1.25H8.5c-0.34518 0 -0.625 -0.27982 -0.625 -0.625s0.27982 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

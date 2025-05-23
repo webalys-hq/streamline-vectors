@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mouse--device-electronics-mouse"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 6.5a3.5 3.5 0 1 0-7 0V10a3.5 3.5 0 1 0 7 0V6.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 7h7"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 7V2.75A2.25 2.25 0 0 1 6.75.5v0A2.25 2.25 0 0 1 9 2.75V3a2 2 0 1 0 4 0V1.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mouse--Streamline-Core">
+  <desc>
+    Mouse Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mouse--device-electronics-mouse">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 6.5C8 4.567 6.433 3 4.5 3S1 4.567 1 6.5V10c0 1.933 1.567 3.5 3.5 3.5S8 11.933 8 10V6.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1 7h7" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 7V2.75c0 -0.59674 0.23705 -1.16903 0.65901 -1.59099C5.58097 0.737053 6.15326 0.5 6.75 0.5v0c0.59674 0 1.16903 0.237053 1.59099 0.65901C8.76295 1.58097 9 2.15326 9 2.75V3c0 0.53043 0.21071 1.03914 0.58579 1.41421C9.96086 4.78929 10.4696 5 11 5s1.0391 -0.21071 1.4142 -0.58579C12.7893 4.03914 13 3.53043 13 3V1.5" stroke-width="1"></path>
+  </g>
+</svg>

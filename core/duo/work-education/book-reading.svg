@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="book-reading--book-reading-learning"><path id="Vector" fill="#37d7ff" d="M.724 9.11a.886.886 0 0 0 .564.292 8.202 8.202 0 0 1 3.9 1.627c.18.174.646.521 1.065.524.42 0 .888-.35 1.07-.524a8.218 8.218 0 0 1 3.903-1.627.886.886 0 0 0 .789-.886v-7.13a.886.886 0 0 0-1.01-.877 8.237 8.237 0 0 0-4.748 2.586A8.237 8.237 0 0 0 1.51.51a.886.886 0 0 0-1.01.877v7.13a.886.886 0 0 0 .224.594Z"></path><path id="Vector_2" fill="#ffffff" d="M6.969 14V8.25a1.25 1.25 0 0 1 2.5 0V11h2a2 2 0 0 1 2 2v1"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.969 13.5V8.25A1.25 1.25 0 0 1 8.219 7v0a1.25 1.25 0 0 1 1.25 1.25V11h2a2 2 0 0 1 2 2v.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.257 3.095A8.237 8.237 0 0 0 1.51.51a.886.886 0 0 0-1.01.877v7.13a.886.886 0 0 0 .788.886 8.202 8.202 0 0 1 3.9 1.627"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.258 5.858V3.095"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.226 9.402a.886.886 0 0 0 .789-.886v-7.13a.886.886 0 0 0-1.01-.877 8.238 8.238 0 0 0-4.748 2.586"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Book-Reading--Streamline-Core">
+  <desc>
+    Book Reading Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="book-reading--book-reading-learning">
+    <path id="Vector" fill="#d7e0ff" d="M0.724 9.11a0.886 0.886 0 0 0 0.564 0.292 8.202 8.202 0 0 1 3.9 1.627c0.18 0.174 0.646 0.521 1.065 0.524 0.42 0 0.888 -0.35 1.07 -0.524a8.218 8.218 0 0 1 3.903 -1.627 0.886 0.886 0 0 0 0.789 -0.886v-7.13a0.886 0.886 0 0 0 -1.01 -0.877 8.237 8.237 0 0 0 -4.748 2.586A8.237 8.237 0 0 0 1.51 0.51a0.886 0.886 0 0 0 -1.01 0.877v7.13a0.886 0.886 0 0 0 0.224 0.594Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#ffffff" d="M6.969 14V8.25a1.25 1.25 0 0 1 2.5 0V11h2a2 2 0 0 1 2 2v1" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.969 13.5V8.25A1.25 1.25 0 0 1 8.219 7v0a1.25 1.25 0 0 1 1.25 1.25V11h2a2 2 0 0 1 2 2v0.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.257 3.095A8.237 8.237 0 0 0 1.51 0.51a0.886 0.886 0 0 0 -1.01 0.877v7.13a0.886 0.886 0 0 0 0.788 0.886 8.202 8.202 0 0 1 3.9 1.627" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.258 5.858V3.095" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.226 9.402a0.886 0.886 0 0 0 0.789 -0.886v-7.13a0.886 0.886 0 0 0 -1.01 -0.877 8.238 8.238 0 0 0 -4.748 2.586" stroke-width="1"></path>
+  </g>
+</svg>

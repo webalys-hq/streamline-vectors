@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="esports--entertainment-gaming-esports"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.32 6.536c.638 1.544 1.197 3.545 1.18 4.643-.024 1.48-.928 2.32-1.857 2.32-.842-.395-1.858-2.32-2.785-2.32H5.142c-.927 0-1.943 1.925-2.786 2.32-.928 0-1.832-.84-1.856-2.32-.018-1.098.542-3.099 1.18-4.643"></path><path id="Vector 594" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.285 1.429v2.785a.93.93 0 0 0 .929.929h5.571a.929.929 0 0 0 .929-.929V1.43l-1.857.928L7 .5 5.142 2.357 3.285 1.43Z"></path><path id="Ellipse 1032" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 8.25a1 1 0 1 0 2 0 1 1 0 1 0-2 0"></path><path id="Ellipse 1033" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 8.25a1 1 0 1 0 2 0 1 1 0 1 0-2 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Esports--Streamline-Core">
+  <desc>
+    Esports Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="esports--entertainment-gaming-esports">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.3196 6.53564c0.6385 1.54485 1.1979 3.54546 1.1804 4.64286 -0.0238 1.4803 -0.9279 2.3214 -1.8565 2.3214 -0.8424 -0.3963 -1.85824 -2.3214 -2.78564 -2.3214H5.14214c-0.9274 0 -1.94321 1.9251 -2.78569 2.3214 -0.92857 0 -1.83269 -0.8411 -1.856412 -2.3214C0.482451 10.0811 1.0419 8.08049 1.6804 6.53564" stroke-width="1"></path>
+    <path id="Vector 594" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.28528 1.42856v2.7857c0 0.51283 0.41573 0.92856 0.92856 0.92856h5.57139c0.51287 0 0.92857 -0.41573 0.92857 -0.92856v-2.7857l-1.85716 0.92857L6.99951 0.5 5.14238 2.35713l-1.8571 -0.92857Z" stroke-width="1"></path>
+    <path id="Ellipse 1032" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 8.25a1 1 0 1 0 2 0 1 1 0 1 0 -2 0" stroke-width="1"></path>
+    <path id="Ellipse 1033" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.5 8.25a1 1 0 1 0 2 0 1 1 0 1 0 -2 0" stroke-width="1"></path>
+  </g>
+</svg>

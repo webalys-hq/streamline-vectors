@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ethereum-circle--crypto-circle-payment-blockchain-finance-eth-currency"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M14 7A7 7 0 1 1 0 7a7 7 0 0 1 14 0ZM7 2.5a.5.5 0 0 1 .384.18l2.5 3a.5.5 0 0 1-.072.71l-2.5 2a.5.5 0 0 1-.624 0l-2.5-2a.5.5 0 0 1-.072-.71l2.5-3A.5.5 0 0 1 7 2.5ZM4.89 8.512a.625.625 0 1 0-.78.976l2.5 2a.625.625 0 0 0 .78 0l2.5-2a.625.625 0 1 0-.78-.976L7 10.2 4.89 8.512Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ethereum-Circle--Streamline-Core">
+  <desc>
+    Ethereum Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ethereum-circle--crypto-circle-payment-blockchain-finance-eth-currency">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M14 7c0 3.866 -3.134 7 -7 7 -3.86599 0 -7 -3.134 -7 -7 0 -3.86599 3.13401 -7 7 -7 3.866 0 7 3.13401 7 7ZM7 2.5c0.14839 0 0.28911 0.06591 0.38411 0.17991l2.5 3c0.086 0.1032 0.12689 0.23667 0.11336 0.37033 -0.0135 0.13367 -0.08022 0.25627 -0.18512 0.34019l-2.5 2c-0.18261 0.14609 -0.44209 0.14609 -0.6247 0l-2.5 -2c-0.1049 -0.08392 -0.17162 -0.20652 -0.18512 -0.34019 -0.0135 -0.13366 0.02736 -0.26713 0.11336 -0.37033l2.5 -3C6.71089 2.56591 6.85161 2.5 7 2.5ZM4.89043 8.51196c-0.26953 -0.21563 -0.66284 -0.17193 -0.87847 0.09761 -0.21563 0.26953 -0.17193 0.66284 0.09761 0.87847l2.5 1.99996c0.22826 0.1827 0.5526 0.1827 0.78086 0l2.5 -1.99996c0.26957 -0.21563 0.31327 -0.60894 0.09761 -0.87847 -0.21563 -0.26954 -0.60894 -0.31324 -0.87847 -0.09761L7 10.1996 4.89043 8.51196Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

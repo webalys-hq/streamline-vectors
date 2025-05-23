@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-previous--button-television-buttons-movies-skip-previous-video-controls"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5.5v13"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.48 11.66a1 1 0 0 1-.52.88 1 1 0 0 1-1 0l-7.19-4.7a1 1 0 0 1 0-1.68l7.21-4.66a1 1 0 0 1 1 0 1 1 0 0 1 .52.88l-.02 9.28Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Previous--Streamline-Core">
+  <desc>
+    Button Previous Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-previous--button-television-buttons-movies-skip-previous-video-controls">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 0.5v13" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.48 11.6599c0.0005 0.1799 -0.0475 0.3566 -0.139 0.5115 -0.0916 0.1549 -0.2232 0.2822 -0.381 0.3685 -0.152 0.0878 -0.3244 0.134 -0.5 0.134 -0.1755 0 -0.3479 -0.0462 -0.5 -0.134L4.77004 7.83994c-0.14035 -0.09065 -0.25575 -0.21503 -0.33565 -0.36177 -0.0799 -0.14673 -0.12177 -0.31115 -0.12177 -0.47823s0.04187 -0.3315 0.12177 -0.47823c0.0799 -0.14674 0.1953 -0.27111 0.33565 -0.36177l7.20996 -4.66c0.1521 -0.08777 0.3245 -0.13397 0.5 -0.13397 0.1756 0 0.348 0.0462 0.5 0.13397 0.1579 0.08635 0.2894 0.21367 0.381 0.36854 0.0915 0.15488 0.1395 0.33157 0.139 0.51146l-0.02 9.27996Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="smiley-smirk"><g id="Group 624"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5a.25.25 0 0 1 0-.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5a.25.25 0 0 0 0-.5"></path></g><g id="Group 623"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5a.25.25 0 0 1 0-.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5a.25.25 0 0 0 0-.5"></path></g><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector 560" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.732 10.117c.349.048.88-.157 1.3-.478.42-.321.755-.78.8-1.13"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Smiley-Smirk--Streamline-Core">
+  <desc>
+    Smiley Smirk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="smiley-smirk">
+    <g id="Group 624">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S9.11193 5 9.25 5" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5c0.13807 0 0.25 -0.11193 0.25 -0.25S9.38807 5 9.25 5" stroke-width="1"></path>
+    </g>
+    <g id="Group 623">
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S4.61193 5 4.75 5" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5c0.13807 0 0.25 -0.11193 0.25 -0.25S4.88807 5 4.75 5" stroke-width="1"></path>
+    </g>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector 560" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.73206 10.117c0.34875 0.0477 0.8793 -0.15656 1.29941 -0.478 0.4201 -0.32144 0.75601 -0.78013 0.80111 -1.12923" stroke-width="1"></path>
+  </g>
+</svg>

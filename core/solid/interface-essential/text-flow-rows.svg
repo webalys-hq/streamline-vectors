@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="text-flow-rows"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1 0a.5.5 0 0 0-.5.5v3A.5.5 0 0 0 1 4h3a.5.5 0 0 0 .5-.5v-.75h5v.69L3.44 9.5H1a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-.75h6v1.25a.5.5 0 0 0 .854.354l2-2a.5.5 0 0 0 0-.708l-2-2a.5.5 0 0 0-.854.354v1.25h-6v-.19L11.06 4H13a.5.5 0 0 0 .5-.5v-3A.5.5 0 0 0 13 0h-3a.5.5 0 0 0-.5.5v.75h-5V.5A.5.5 0 0 0 4 0H1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Text-Flow-Rows--Streamline-Core">
+  <desc>
+    Text Flow Rows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-flow-rows">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1 0a0.5 0.5 0 0 0 -0.5 0.5l0 3A0.5 0.5 0 0 0 1 4h3a0.5 0.5 0 0 0 0.5 -0.5l0 -0.75h5v0.69L3.44 9.5H1a0.5 0.5 0 0 0 -0.5 0.5v3a0.5 0.5 0 0 0 0.5 0.5h3a0.5 0.5 0 0 0 0.5 -0.5v-0.75h6v1.25a0.5 0.5 0 0 0 0.854 0.354l2 -2a0.5 0.5 0 0 0 0 -0.708l-2 -2a0.5 0.5 0 0 0 -0.854 0.354v1.25h-6v-0.19L11.06 4H13a0.5 0.5 0 0 0 0.5 -0.5v-3A0.5 0.5 0 0 0 13 0h-3a0.5 0.5 0 0 0 -0.5 0.5v0.75h-5l0 -0.75A0.5 0.5 0 0 0 4 0H1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

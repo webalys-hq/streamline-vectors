@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="floppy-disk--disk-floppy-electronics-device-disc-computer-storage"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 12.5a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1V4.91a1 1 0 0 1 .29-.7L4.21.79a1 1 0 0 1 .7-.29h7.59a1 1 0 0 1 1 1v11Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 13.5V9a.5.5 0 0 0-.5-.5H4a.5.5 0 0 0-.5.5v4.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5.5V4a.5.5 0 0 1-.5.5H6a.5.5 0 0 1-.5-.5V.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Floppy-Disk--Streamline-Core">
+  <desc>
+    Floppy Disk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="floppy-disk--disk-floppy-electronics-device-disc-computer-storage">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 12.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-11c-0.26522 0 -0.51957 -0.1054 -0.707107 -0.2929C0.605357 13.0196 0.5 12.7652 0.5 12.5V4.91c0.001105 -0.26234 0.105256 -0.51374 0.29 -0.7L4.21 0.79c0.18626 -0.184744 0.43766 -0.288895 0.7 -0.29h7.59c0.2652 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107v11Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 13.5V9c0 -0.13261 -0.0527 -0.25979 -0.1464 -0.35355C10.2598 8.55268 10.1326 8.5 10 8.5H4c-0.13261 0 -0.25979 0.05268 -0.35355 0.14645C3.55268 8.74021 3.5 8.86739 3.5 9v4.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.5V4c0 0.13261 -0.0527 0.25979 -0.1464 0.35355 -0.0938 0.09377 -0.221 0.14645 -0.3536 0.14645H6c-0.13261 0 -0.25979 -0.05268 -0.35355 -0.14645C5.55268 4.25979 5.5 4.13261 5.5 4V0.5" stroke-width="1"></path>
+  </g>
+</svg>

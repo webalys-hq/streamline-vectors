@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="battery-empty-1--phone-mobile-charge-device-electricity-empty-power-battery"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h10a1.5 1.5 0 0 0 1.5-1.5v-1a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1v-1A1.5 1.5 0 0 0 11.5 2h-10Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Empty-1--Streamline-Core">
+  <desc>
+    Battery Empty 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="battery-empty-1--phone-mobile-charge-device-electricity-empty-power-battery">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.5 2c-0.39782 0 -0.779356 0.15804 -1.06066 0.43934C0.158035 2.72064 0 3.10218 0 3.5v7c0 0.3978 0.158035 0.7794 0.43934 1.0607C0.720644 11.842 1.10217 12 1.5 12h10c0.3978 0 0.7794 -0.158 1.0607 -0.4393S13 10.8978 13 10.5v-1c0.2652 0 0.5196 -0.10536 0.7071 -0.29289C13.8946 9.01957 14 8.76521 14 8.5v-3c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C13.5196 4.60536 13.2652 4.5 13 4.5v-1c0 -0.39783 -0.158 -0.77936 -0.4393 -1.06066C12.2794 2.15804 11.8978 2 11.5 2h-10Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

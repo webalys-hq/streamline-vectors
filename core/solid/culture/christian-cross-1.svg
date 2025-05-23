@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="christian-cross-1--religion-christian-cross-culture-bold"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5 0a.5.5 0 0 0-.5.5V3H2a.5.5 0 0 0-.5.5v4A.5.5 0 0 0 2 8h2.5v5.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5V8H12a.5.5 0 0 0 .5-.5v-4A.5.5 0 0 0 12 3H9.5V.5A.5.5 0 0 0 9 0H5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Christian-Cross-1--Streamline-Core">
+  <desc>
+    Christian Cross 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="christian-cross-1--religion-christian-cross-culture-bold">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5 0c-0.27614 0 -0.5 0.223858 -0.5 0.5V3H2c-0.27614 0 -0.5 0.22386 -0.5 0.5v4c0 0.27614 0.22386 0.5 0.5 0.5h2.5v5.5c0 0.2761 0.22386 0.5 0.5 0.5h4c0.27614 0 0.5 -0.2239 0.5 -0.5V8H12c0.2761 0 0.5 -0.22386 0.5 -0.5v-4c0 -0.27614 -0.2239 -0.5 -0.5 -0.5H9.5V0.5C9.5 0.223858 9.27614 0 9 0H5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

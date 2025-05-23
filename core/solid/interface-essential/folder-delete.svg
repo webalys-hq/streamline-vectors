@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="folder-delete--remove-minus-folder-subtract-delete"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M5.183.5a1.5 1.5 0 0 1 1.492 1.14l.215.86h5.61A1.5 1.5 0 0 1 14 4v8a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12V2A1.5 1.5 0 0 1 1.5.5h3.683ZM4.5 7.25a.75.75 0 0 0 0 1.5h5a.75.75 0 0 0 0-1.5h-5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Folder-Delete--Streamline-Core">
+  <desc>
+    Folder Delete Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="folder-delete--remove-minus-folder-subtract-delete">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M5.18345 0.499936c0.33987 -0.008085 0.6725 0.099529 0.9433 0.305333 0.2727 0.207261 0.46645 0.502391 0.54869 0.834881l0.21495 0.85979H12.5c0.3978 0 0.7794 0.15803 1.0607 0.43934 0.2813 0.2813 0.4393 0.66283 0.4393 1.06066v7.99996c0 0.3979 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393h-11c-0.39783 0 -0.779356 -0.158 -1.06066 -0.4393C0.158035 12.7793 0 12.3978 0 11.9999V1.99994c0 -0.39783 0.158035 -0.77936 0.43934 -1.060664C0.720644 0.657971 1.10218 0.499936 1.5 0.499936h3.68345ZM4.5 7.25c-0.41421 0 -0.75 0.33579 -0.75 0.75s0.33579 0.75 0.75 0.75h5c0.41421 0 0.75 -0.33579 0.75 -0.75s-0.33579 -0.75 -0.75 -0.75h-5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

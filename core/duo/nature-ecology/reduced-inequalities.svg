@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="reduced-inequalities"><path id="Vector 847" fill="#37d7ff" d="m.733 6.91 2.45-2.45v4.9L.733 6.91Z"></path><path id="Vector 850" fill="#37d7ff" d="m13.21 6.91-2.45-2.45v4.9l2.45-2.45Z"></path><path id="Vector 848" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.112 5.516h3.72"></path><path id="Vector 849" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.112 8.306h3.72"></path><path id="Vector 851" fill="#37d7ff" d="m6.972 13.15-2.45-2.45h4.9l-2.45 2.45Z"></path><path id="Vector 852" fill="#37d7ff" d="m6.972.672-2.45 2.45h4.9L6.972.671Z"></path><path id="Vector 853" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.733 6.91 2.45-2.45v4.9L.733 6.91Z"></path><path id="Vector 854" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.21 6.91-2.45-2.45v4.9l2.45-2.45Z"></path><path id="Vector 855" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.972 13.15-2.45-2.45h4.9l-2.45 2.45Z"></path><path id="Vector 856" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.972.672-2.45 2.45h4.9L6.972.671Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Reduced-Inequalities--Streamline-Core">
+  <desc>
+    Reduced Inequalities Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="reduced-inequalities">
+    <path id="Vector 847" fill="#d7e0ff" d="M0.732788 6.91056 3.18278 4.46057l0 4.89998L0.732788 6.91056Z" stroke-width="1"></path>
+    <path id="Vector 850" fill="#d7e0ff" d="m13.2109 6.91056 -2.45 -2.44999 0 4.89998 2.45 -2.44999Z" stroke-width="1"></path>
+    <path id="Vector 848" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.11182 5.5155h3.72007" stroke-width="1"></path>
+    <path id="Vector 849" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.11182 8.30554h3.72007" stroke-width="1"></path>
+    <path id="Vector 851" fill="#d7e0ff" d="m6.97196 13.1497 -2.44999 -2.45 4.89998 0 -2.44999 2.45Z" stroke-width="1"></path>
+    <path id="Vector 852" fill="#d7e0ff" d="M6.97184 0.671509 4.52185 3.1215l4.89998 0L6.97184 0.671509Z" stroke-width="1"></path>
+    <path id="Vector 853" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.732788 6.91056 3.18278 4.46057l0 4.89998L0.732788 6.91056Z" stroke-width="1"></path>
+    <path id="Vector 854" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m13.2109 6.91056 -2.45 -2.44999 0 4.89998 2.45 -2.44999Z" stroke-width="1"></path>
+    <path id="Vector 855" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m6.97196 13.1497 -2.44999 -2.45 4.89998 0 -2.44999 2.45Z" stroke-width="1"></path>
+    <path id="Vector 856" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.97184 0.671509 4.52185 3.1215l4.89998 0L6.97184 0.671509Z" stroke-width="1"></path>
+  </g>
+</svg>

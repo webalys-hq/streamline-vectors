@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zero-hunger"><path id="Ellipse 274" fill="#37d7ff" d="M.858 6.612h12.007a6.004 6.004 0 0 1-3.43 5.426v1.078H4.287v-1.078a6.004 6.004 0 0 1-3.43-5.426Z"></path><path id="Ellipse 275" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.858 6.612h12.007a6.004 6.004 0 0 1-3.43 5.426v1.078H4.287v-1.078a6.004 6.004 0 0 1-3.43-5.426Z"></path><path id="Vector 15" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.499.858c-.858 1.231 1.286 2.462.429 3.693"></path><path id="Vector 16" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.633.858C5.775 2.09 7.919 3.32 7.06 4.551"></path><path id="Vector 17" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.78.858c-.858 1.231 1.286 2.462.429 3.693"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zero-Hunger--Streamline-Core">
+  <desc>
+    Zero Hunger Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zero-hunger">
+    <path id="Ellipse 274" fill="#d7e0ff" d="M0.857788 6.61194H12.8652c0 2.39496 -1.4024 4.46236 -3.4307 5.42596v1.0777H4.28847v-1.0777C2.26013 11.0743 0.857788 9.0069 0.857788 6.61194Z" stroke-width="1"></path>
+    <path id="Ellipse 275" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.857788 6.61194H12.8652c0 2.39496 -1.4024 4.46236 -3.4307 5.42596v1.0777H4.28847v-1.0777C2.26013 11.0743 0.857788 9.0069 0.857788 6.61194Z" stroke-width="1"></path>
+    <path id="Vector 15" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.4988 0.858276c-0.85764 1.230844 1.2865 2.461684 0.4288 3.692524" stroke-width="1"></path>
+    <path id="Vector 16" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.6326 0.858276C5.77494 2.08912 7.91909 3.31996 7.06141 4.5508" stroke-width="1"></path>
+    <path id="Vector 17" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.77978 0.858276C1.92212 2.08912 4.06627 3.31996 3.2086 4.5508" stroke-width="1"></path>
+  </g>
+</svg>

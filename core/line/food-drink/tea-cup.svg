@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tea-cup--herbal-cook-tea-tisane-cup-drink-cooking-nutrition-mug-food"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 4h8.5v5a2 2 0 0 1-2 2h-5a2 2 0 0 1-2-2V4.5A.5.5 0 0 1 2 4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 13.5h13"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 4h1a2 2 0 0 1 0 4h-1"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 .5v1"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 .5v1"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5.5v1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tea-Cup--Streamline-Core">
+  <desc>
+    Tea Cup Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tea-cup--herbal-cook-tea-tisane-cup-drink-cooking-nutrition-mug-food">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 4h8.5v5c0 0.53043 -0.2107 1.0391 -0.58579 1.4142C9.53914 10.7893 9.03043 11 8.5 11h-5c-0.53043 0 -1.03914 -0.2107 -1.41421 -0.5858C1.71071 10.0391 1.5 9.53043 1.5 9V4.5c0 -0.13261 0.05268 -0.25979 0.14645 -0.35355C1.74021 4.05268 1.86739 4 2 4Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 13.5h13" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 4h1c0.5304 0 1.0391 0.21071 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421s-0.2107 1.03914 -0.5858 1.41421C12.5391 7.78929 12.0304 8 11.5 8h-1" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 0.5v1" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 0.5v1" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 0.5v1" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="one-finger-tap"><g id="Vector 107"><path fill="#37d7ff" d="M4.89 3.918v5.474l-.401.075a1.715 1.715 0 0 0-1.096 2.659l.162.234.783 1.14h7.763v-2.833A2.573 2.573 0 0 0 9.53 8.094H7.294V3.918a1.202 1.202 0 1 0-2.405 0Z"></path></g><path id="Vector 108" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.101 13.5v-2.833A2.573 2.573 0 0 0 9.53 8.094H7.294V3.918c0-.664-.538-1.202-1.202-1.202v0c-.664 0-1.203.538-1.203 1.202v5.474l-.4.075a1.715 1.715 0 0 0-1.096 2.659l.162.234.783 1.14"></path><path id="Ellipse 302" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.597 4.932a3.611 3.611 0 1 1 7.034 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="One-Finger-Tap--Streamline-Core">
+  <desc>
+    One Finger Tap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="one-finger-tap">
+    <g id="Vector 107">
+      <path fill="#d7e0ff" d="m4.89 3.918 0 5.474 -0.401 0.075a1.715 1.715 0 0 0 -1.096 2.659l0.162 0.234 0.783 1.14 7.763 0 0 -2.833A2.573 2.573 0 0 0 9.53 8.094l-2.235 0 0 -4.176a1.202 1.202 0 1 0 -2.405 0Z" stroke-width="1"></path>
+    </g>
+    <path id="Vector 108" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m12.101 13.5 0 -2.833A2.573 2.573 0 0 0 9.53 8.094l-2.235 0 0 -4.176c0 -0.664 -0.538 -1.202 -1.202 -1.202v0c-0.664 0 -1.203 0.538 -1.203 1.202l0 5.474 -0.4 0.075a1.715 1.715 0 0 0 -1.096 2.659l0.162 0.234 0.783 1.14" stroke-width="1"></path>
+    <path id="Ellipse 302" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.597 4.932a3.611 3.611 0 1 1 7.034 0" stroke-width="1"></path>
+  </g>
+</svg>

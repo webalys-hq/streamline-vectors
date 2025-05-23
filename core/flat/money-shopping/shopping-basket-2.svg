@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shopping-basket-2--shopping-basket"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.502 2.61a.75.75 0 1 0-1.303-.744L2.05 5.628a.75.75 0 0 0 1.303.744l2.15-3.762ZM9.8 1.866a.75.75 0 0 0-1.303.744l2.15 3.762a.75.75 0 1 0 1.302-.744L9.8 1.866Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" d="M12.275 5.5H1.725A1.5 1.5 0 0 0 .23 7.299l1.1 5.499v.002A1.5 1.5 0 0 0 2.825 14h8.35a1.5 1.5 0 0 0 1.495-1.2v-.002l1.1-5.498v-.001a1.501 1.501 0 0 0-1.495-1.8Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shopping-Basket-2--Streamline-Core">
+  <desc>
+    Shopping Basket 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shopping-basket-2--shopping-basket">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.502 2.61a0.75 0.75 0 1 0 -1.303 -0.744L2.05 5.628a0.75 0.75 0 0 0 1.303 0.744l2.15 -3.762ZM9.8 1.866a0.75 0.75 0 0 0 -1.303 0.744l2.15 3.762a0.75 0.75 0 1 0 1.302 -0.744L9.8 1.866Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M12.275 5.5H1.725A1.5 1.5 0 0 0 0.23 7.299l1.1 5.499 0 0.002A1.5 1.5 0 0 0 2.825 14h8.35a1.5 1.5 0 0 0 1.495 -1.2l0 -0.002 1.1 -5.498 0 -0.001a1.501 1.501 0 0 0 -1.495 -1.8Z" stroke-width="1"></path>
+  </g>
+</svg>

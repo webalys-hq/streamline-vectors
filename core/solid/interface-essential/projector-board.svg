@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="projector-board--projector-screen-work-meeting-presentation"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v1.375H0V1.5Zm0 2.625h14V9.5a1.5 1.5 0 0 1-1.5 1.5h-2.19l1.72 1.72a.75.75 0 1 1-1.06 1.06L8.19 11h-.44v2.25a.75.75 0 0 1-1.5 0V11h-.44l-2.78 2.78a.75.75 0 0 1-1.06-1.06L3.69 11H1.5A1.5 1.5 0 0 1 0 9.5V4.125Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Projector-Board--Streamline-Core">
+  <desc>
+    Projector Board Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="projector-board--projector-screen-work-meeting-presentation">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M0 1.5C0 0.671573 0.671573 0 1.5 0h11c0.8284 0 1.5 0.671573 1.5 1.5v1.375H0V1.5Zm0 2.625h14V9.5c0 0.8284 -0.6716 1.5 -1.5 1.5h-2.1893l1.7196 1.7197c0.2929 0.2929 0.2929 0.7677 0 1.0606 -0.2929 0.2929 -0.7677 0.2929 -1.0606 0L8.18934 11H7.75v2.25c0 0.4142 -0.33579 0.75 -0.75 0.75s-0.75 -0.3358 -0.75 -0.75V11h-0.43934l-2.78033 2.7803c-0.29289 0.2929 -0.76777 0.2929 -1.06066 0s-0.29289 -0.7677 0 -1.0606L3.68934 11H1.5C0.671573 11 0 10.3284 0 9.5V4.125Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

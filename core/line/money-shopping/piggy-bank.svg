@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="piggy-bank--institution-saving-bank-payment-finance"><path id="Vector 2206" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.896 2.681c.254.68.736 1.195 1.229 1.56"></path><path id="Vector 2207" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.75 4.902H4.896"></path><g id="Group 4470"><path id="Ellipse 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.834 6.404a.25.25 0 1 1 0-.5"></path><path id="Ellipse 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.834 6.404a.25.25 0 0 0 0-.5"></path></g><path id="Vector 2208" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.604 1.277V3.35c1.563.65 1.844 1.761 1.844 3.213l.875.719v2.219c-.516 1.109-1.469 1.687-2.719 2.13v.984a.5.5 0 0 1-.5.5h-1.75a.5.5 0 0 1-.5-.5v-.984h-3.14v.906a.5.5 0 0 1-.5.5H2.448a.5.5 0 0 1-.5-.5v-1.77c0-.047-.092-.303-.211-.699C1.389 8.91.81 6.954 1.642 5.112c.697-1.543 2.383-2.721 6.025-2.517.522-1.38 1.906-1.741 2.612-1.71.201.01.325.19.325.392Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Piggy-Bank--Streamline-Core">
+  <desc>
+    Piggy Bank Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="piggy-bank--institution-saving-bank-payment-finance">
+    <path id="Vector 2206" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.896072 2.68115c0.253738 0.67997 0.736068 1.19463 1.228438 1.55901" stroke-width="1"></path>
+    <path id="Vector 2207" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.75049 4.9021 -1.85498 0" stroke-width="1"></path>
+    <g id="Group 4470">
+      <path id="Ellipse 1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.8335 6.40381c-0.13808 0 -0.25 -0.11193 -0.25 -0.25s0.11192 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.8335 6.40381c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <path id="Vector 2208" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.6041 1.27653v2.07408c1.5624 0.651 1.8437 1.76189 1.8437 3.2135l0.875 0.71875v2.21875c-0.5157 1.10939 -1.4688 1.68749 -2.7187 2.13029v0.9843c0 0.2762 -0.2239 0.5 -0.5 0.5H8.35417c-0.27615 0 -0.5 -0.2238 -0.5 -0.5v-0.9843H4.71354v0.9062c0 0.2762 -0.22386 0.5 -0.5 0.5H2.44788c-0.27617 0 -0.50004 -0.2233 -0.50001 -0.4995 0.00007 -0.6058 0.00014 -1.5709 -0.00006 -1.7714 -0.00005 -0.0465 -0.09212 -0.302 -0.21097 -0.6978C1.38881 8.91023 0.811123 6.95402 1.642 5.1125c0.69655 -1.54378 2.38301 -2.72145 6.02456 -2.51714 0.5229 -1.3813 1.90619 -1.741833 2.61254 -1.709908 0.2011 0.009087 0.325 0.189818 0.325 0.391078Z" stroke-width="1"></path>
+  </g>
+</svg>

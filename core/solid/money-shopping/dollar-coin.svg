@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dollar-coin--accounting-billing-payment-cash-coin-currency-money-finance"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M14 7A7 7 0 1 1 0 7a7 7 0 0 1 14 0ZM7.75 3.25a.75.75 0 0 0-1.5 0v.51a1.866 1.866 0 0 0-.2 3.678l1.474.323a.5.5 0 0 1-.107.989h-.834a.5.5 0 0 1-.471-.333.75.75 0 0 0-1.415.5c.239.674.83 1.184 1.553 1.305v.528a.75.75 0 0 0 1.5 0v-.528a2.001 2.001 0 0 0 .094-3.927l-1.473-.322a.366.366 0 0 1 .078-.723h.968a.497.497 0 0 1 .471.333.75.75 0 1 0 1.415-.5A2 2 0 0 0 7.75 3.778V3.25Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dollar-Coin--Streamline-Core">
+  <desc>
+    Dollar Coin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dollar-coin--accounting-billing-payment-cash-coin-currency-money-finance">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M14 7A7 7 0 1 1 0 7a7 7 0 0 1 14 0ZM7.75 3.25a0.75 0.75 0 0 0 -1.5 0v0.51a1.866 1.866 0 0 0 -0.2 3.678l1.474 0.323a0.5 0.5 0 0 1 -0.107 0.989h-0.834a0.5 0.5 0 0 1 -0.471 -0.333 0.75 0.75 0 0 0 -1.415 0.5c0.239 0.674 0.83 1.184 1.553 1.305v0.528a0.75 0.75 0 0 0 1.5 0v-0.528a2.001 2.001 0 0 0 0.094 -3.927l-1.473 -0.322a0.366 0.366 0 0 1 0.078 -0.723h0.968a0.497 0.497 0 0 1 0.471 0.333 0.75 0.75 0 1 0 1.415 -0.5A2 2 0 0 0 7.75 3.778V3.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="windows--os-system-microsoft"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.94 2 12-1.38a.49.49 0 0 1 .56.49v11.82a.5.5 0 0 1-.58.49l-12-1.84a.51.51 0 0 1-.42-.5V2.46A.5.5 0 0 1 .94 2v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 1.38v10.98"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.76H.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Windows--Streamline-Core">
+  <desc>
+    Windows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="windows--os-system-microsoft">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.94 2.00002 12 -1.38c0.07 -0.010102 0.1413 -0.004947 0.2091 0.015112s0.1304 0.054546 0.1836 0.101096c0.0532 0.046549 0.0957 0.104058 0.1246 0.168579 0.0288 0.064521 0.0434 0.134523 0.0427 0.205213V12.93c-0.0005 0.0721 -0.0166 0.1433 -0.0472 0.2086s-0.075 0.1233 -0.1301 0.1698c-0.0551 0.0466 -0.1196 0.0806 -0.1891 0.0999 -0.0695 0.0193 -0.1424 0.0233 -0.2136 0.0117l-12 -1.84c-0.117436 -0.021 -0.223775 -0.0826 -0.300513 -0.1739C0.542748 11.3147 0.500467 11.1993 0.5 11.08V2.46002c0.00849 -0.11585 0.057051 -0.22512 0.137342 -0.30906 0.080291 -0.08395 0.187302 -0.13731 0.302658 -0.15094v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 1.37988V12.3599" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.76001H0.5" stroke-width="1"></path>
+  </g>
+</svg>

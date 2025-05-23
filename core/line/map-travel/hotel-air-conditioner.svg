@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hotel-air-conditioner--heating-ac-air-hvac-cool-cooling-cold-hot-conditioning-hotel"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5h-11a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 7.5v-2a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v2"></path><path id="Vector 14" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 12.5h.1A1.4 1.4 0 0 0 4 11.1V10"></path><path id="Vector 15" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 12.5h-.1a1.4 1.4 0 0 1-1.4-1.4V10"></path><path id="Vector 16" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5V10"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Air-Conditioner--Streamline-Core">
+  <desc>
+    Hotel Air Conditioner Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hotel-air-conditioner--heating-ac-air-hvac-cool-cooling-cold-hot-conditioning-hotel">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v5c0 0.55228 0.447715 1 1 1h11c0.5523 0 1 -0.44772 1 -1v-5c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 7.5v-2c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C10.5196 4.60536 10.2652 4.5 10 4.5H4c-0.26522 0 -0.51957 0.10536 -0.70711 0.29289C3.10536 4.98043 3 5.23478 3 5.5v2" stroke-width="1"></path>
+    <path id="Vector 14" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 12.5h0.1c0.7732 0 1.4 -0.6268 1.4 -1.4V10" stroke-width="1"></path>
+    <path id="Vector 15" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5 12.5h-0.1c-0.7732 0 -1.4 -0.6268 -1.4 -1.4V10" stroke-width="1"></path>
+    <path id="Vector 16" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5 7 10" stroke-width="1"></path>
+  </g>
+</svg>

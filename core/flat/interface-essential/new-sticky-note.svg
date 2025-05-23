@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="new-sticky-note--empty-common-file"><path id="Vector 1467" fill="#37d7ff" d="M1.5 14h6.879a1.5 1.5 0 0 0 1.06-.44l4.122-4.12A1.5 1.5 0 0 0 14 8.378V1.5A1.5 1.5 0 0 0 12.5 0h-11A1.5 1.5 0 0 0 0 1.5v11A1.5 1.5 0 0 0 1.5 14Z"></path><path id="Intersect" fill="#3e3e3e" d="M13.995 8.5H9a.5.5 0 0 0-.5.5v4.995a1.5 1.5 0 0 0 .94-.434l4.12-4.122a1.5 1.5 0 0 0 .435-.939Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="New-Sticky-Note--Streamline-Core">
+  <desc>
+    New Sticky Note Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="new-sticky-note--empty-common-file">
+    <path id="Vector 1467" fill="#8fbffa" d="M1.5 14h6.87868c0.39782 0 0.77936 -0.158 1.06066 -0.4393l4.12136 -4.12136C13.842 9.15804 14 8.7765 14 8.37868V1.5c0 -0.828427 -0.6716 -1.5 -1.5 -1.5h-11C0.671573 0 0 0.671573 0 1.5v11c0 0.8284 0.671573 1.5 1.5 1.5Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="M13.9951 8.5H9c-0.27614 0 -0.5 0.22386 -0.5 0.5v4.9951c0.35341 -0.0287 0.68677 -0.1819 0.93934 -0.4344l4.12136 -4.12136c0.2525 -0.25257 0.4057 -0.58593 0.4344 -0.93934Z" stroke-width="1"></path>
+  </g>
+</svg>

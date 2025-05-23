@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pacman--entertainment-gaming-pacman-video"><path id="Subtract" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.215 3.786 7 7l5.215 3.214a6.125 6.125 0 1 1 0-6.428Z"></path><path id="Ellipse 1042" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pacman--Streamline-Core">
+  <desc>
+    Pacman Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pacman--entertainment-gaming-pacman-video">
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.2151 3.78607 7 7l5.2151 3.2139C11.1362 11.9609 9.20403 13.125 7 13.125 3.61726 13.125 0.875 10.3827 0.875 7 0.875 3.61726 3.61726 0.875 7 0.875c2.20403 0 4.1362 1.16414 5.2151 2.91107Z" stroke-width="1"></path>
+    <path id="Ellipse 1042" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+  </g>
+</svg>

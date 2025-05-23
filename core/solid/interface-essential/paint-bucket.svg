@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="paint-bucket--bucket-color-colors-design-paint-painting"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M11.85 5.861c.22.22.194.585-.055.771l-6.9 5.17a1.022 1.022 0 0 1-1.318-.092L.295 8.425a1.023 1.023 0 0 1-.092-1.33L5.37.206A.511.511 0 0 1 6.14.15l5.71 5.711Zm.101 4.437c-.464.697-.951 1.596-.951 2.217C11 13.63 11.75 14 12.5 14s1.5-.371 1.5-1.485c0-.621-.487-1.52-.951-2.217a.654.654 0 0 0-1.098 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Paint-Bucket--Streamline-Core">
+  <desc>
+    Paint Bucket Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="paint-bucket--bucket-color-colors-design-paint-painting">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M11.8503 5.86139c0.22 0.22016 0.194 0.58428 -0.0551 0.77092L4.89561 11.8016c-0.19514 0.1433 -0.43481 0.2128 -0.67634 0.1959 -0.24153 -0.0168 -0.46924 -0.1189 -0.64259 -0.288L0.294677 8.42643C0.122998 8.2524 0.0193237 8.0226 0.0024427 7.77868c-0.016881 -0.24392 0.0541482 -0.48581 0.2002153 -0.68185L5.37012 0.204566c0.18666 -0.2489631 0.55047 -0.2748274 0.77045 -0.054773L11.8503 5.86139Zm0.1012 4.43641c-0.4643 0.6967 -0.9515 1.5958 -0.9515 2.2175C11 13.6288 11.75 14 12.5 14s1.5 -0.3712 1.5 -1.4847c0 -0.6217 -0.4872 -1.5208 -0.9515 -2.2175 -0.2646 -0.39708 -0.8324 -0.39708 -1.097 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

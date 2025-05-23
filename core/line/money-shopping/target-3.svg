@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="target-3--shop-bullseye-shooting-target"><path id="Ellipse 19" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.875 7a6.125 6.125 0 1 1 12.25 0A6.125 6.125 0 0 1 .875 7Z"></path><path id="Vector 1585" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .875v1.633"></path><path id="Vector 1587" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.125 7h-1.633"></path><path id="Vector 1586" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.125v-1.633"></path><path id="Vector 1588" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.875 7h1.633"></path><path id="Vector 1589" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.396 7h3.208"></path><path id="Vector 1590" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 5.396v3.208"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Target-3--Streamline-Core">
+  <desc>
+    Target 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="target-3--shop-bullseye-shooting-target">
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.875 7C0.875 3.61726 3.61726 0.875 7 0.875c3.3827 0 6.125 2.74226 6.125 6.125 0 3.3827 -2.7423 6.125 -6.125 6.125C3.61726 13.125 0.875 10.3827 0.875 7Z" stroke-width="1"></path>
+    <path id="Vector 1585" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 0.875v1.63333" stroke-width="1"></path>
+    <path id="Vector 1587" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.125 7 -1.6333 0" stroke-width="1"></path>
+    <path id="Vector 1586" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.125v-1.6333" stroke-width="1"></path>
+    <path id="Vector 1588" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.875 7 1.63333 0" stroke-width="1"></path>
+    <path id="Vector 1589" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.39624 7 3.20742 0" stroke-width="1"></path>
+    <path id="Vector 1590" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 5.39624 0 3.20742" stroke-width="1"></path>
+  </g>
+</svg>

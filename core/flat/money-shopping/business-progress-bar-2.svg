@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="business-progress-bar-2--business-production-arrow-workflow-money-flag-timeline"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M5.864.562a.75.75 0 0 0-1.114.656v5a.75.75 0 0 0 1.114.655l4.5-2.5a.75.75 0 0 0 0-1.311l-4.5-2.5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.25 1.218a.75.75 0 1 0-1.5 0v8.5a.75.75 0 1 0 1.5 0v-8.5Zm5.88 7.905a.75.75 0 0 0-1.28.53v.815H6.664a.75.75 0 0 0 0 1.5h4.186v.814a.75.75 0 0 0 1.28.53l1.56-1.56a.743.743 0 0 0 .224-.534.747.747 0 0 0-.22-.53L12.13 9.122ZM.086 11.218a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Union_3" fill="#37d7ff" fill-rule="evenodd" d="M5.5 9.218a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-Progress-Bar-2--Streamline-Core">
+  <desc>
+    Business Progress Bar 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="business-progress-bar-2--business-production-arrow-workflow-money-flag-timeline">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5.864 0.562a0.75 0.75 0 0 0 -1.114 0.656v5a0.75 0.75 0 0 0 1.114 0.655l4.5 -2.5a0.75 0.75 0 0 0 0 -1.311l-4.5 -2.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M6.25 1.218a0.75 0.75 0 1 0 -1.5 0v8.5a0.75 0.75 0 1 0 1.5 0v-8.5Zm5.88 7.905a0.75 0.75 0 0 0 -1.28 0.53v0.815H6.664a0.75 0.75 0 0 0 0 1.5h4.186v0.814a0.75 0.75 0 0 0 1.28 0.53l1.56 -1.56a0.743 0.743 0 0 0 0.224 -0.534 0.747 0.747 0 0 0 -0.22 -0.53L12.13 9.122ZM0.086 11.218a0.75 0.75 0 0 1 0.75 -0.75h3.5a0.75 0.75 0 0 1 0 1.5h-3.5a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#8fbffa" fill-rule="evenodd" d="M5.5 9.218a2 2 0 1 0 0 4 2 2 0 0 0 0 -4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

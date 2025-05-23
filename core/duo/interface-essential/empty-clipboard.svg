@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="empty-clipboard--work-plain-clipboard-task-list-company-office"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M4.5 1.5H2.75a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h8.5a1 1 0 0 0 1-1v-10a1 1 0 0 0-1-1H9.5V2a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-.5Z" clip-rule="evenodd"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.75 1.5h1.5a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-8.5a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1h1.5"></path><path id="Vector_2" fill="#ffffff" d="M8.5.5h-3a1 1 0 0 0-1 1V2a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-.5a1 1 0 0 0-1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5.5h-3a1 1 0 0 0-1 1V2a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-.5a1 1 0 0 0-1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Empty-Clipboard--Streamline-Core">
+  <desc>
+    Empty Clipboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="empty-clipboard--work-plain-clipboard-task-list-company-office">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M4.5 1.5H2.75c-0.26522 0 -0.51957 0.10536 -0.70711 0.29289C1.85536 1.98043 1.75 2.23478 1.75 2.5v10c0 0.2652 0.10536 0.5196 0.29289 0.7071 0.18754 0.1875 0.44189 0.2929 0.70711 0.2929h8.5c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071v-10c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C11.7696 1.60536 11.5152 1.5 11.25 1.5H9.5V2c0 0.55228 -0.44772 1 -1 1h-3c-0.55228 0 -1 -0.44772 -1 -1v-0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.75 1.5h1.5c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v10c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-8.5c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929 -0.18753 -0.1875 -0.29289 -0.4419 -0.29289 -0.7071v-10c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C2.23043 1.60536 2.48478 1.5 2.75 1.5h1.5" stroke-width="1"></path>
+    <path id="Vector_2" fill="#ffffff" d="M8.5 0.5h-3c-0.55228 0 -1 0.447715 -1 1V2c0 0.55228 0.44772 1 1 1h3c0.55228 0 1 -0.44772 1 -1v-0.5c0 -0.552285 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.5 0.5h-3c-0.55228 0 -1 0.447715 -1 1V2c0 0.55228 0.44772 1 1 1h3c0.55228 0 1 -0.44772 1 -1v-0.5c0 -0.552285 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="play-list-8--player-television-movies-slider-media-tv-players-video-stack-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 .5H1.5a1 1 0 0 0-1 1V10a1 1 0 0 0 1 1H10a1 1 0 0 0 1-1V1.5a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 3.5v9a1 1 0 0 1-1 1h-9"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.75 7.64V3.86a.36.36 0 0 1 .55-.31l3.27 1.89a.36.36 0 0 1 0 .62L4.3 8a.36.36 0 0 1-.55-.36v0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Play-List-8--Streamline-Core">
+  <desc>
+    Play List 8 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="play-list-8--player-television-movies-slider-media-tv-players-video-stack-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 0.5H1.5c-0.552285 0 -1 0.447715 -1 1V10c0 0.5523 0.447715 1 1 1H10c0.5523 0 1 -0.4477 1 -1V1.5c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 3.5v9c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-9" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75004 7.64009v-3.78c-0.00076 -0.06454 0.01585 -0.1281 0.04808 -0.18402 0.03223 -0.05592 0.0789 -0.10214 0.13513 -0.13384 0.05623 -0.03169 0.11994 -0.04768 0.18447 -0.0463 0.06453 0.00138 0.1275 0.02009 0.18232 0.05416l3.27 1.89c0.05391 0.03182 0.09858 0.07716 0.12961 0.13152 0.03104 0.05436 0.04736 0.11588 0.04736 0.17848s-0.01632 0.12411 -0.04736 0.17848c-0.03103 0.05436 -0.0757 0.09969 -0.12961 0.13152l-3.27 1.94c-0.05848 0.03756 -0.1266 0.0574 -0.19611 0.0571 -0.06951 -0.0003 -0.13744 -0.02072 -0.1956 -0.05879 -0.05816 -0.03807 -0.10406 -0.09216 -0.13215 -0.15574 -0.02809 -0.06359 -0.03716 -0.13394 -0.02614 -0.20257v0Z" stroke-width="1"></path>
+  </g>
+</svg>

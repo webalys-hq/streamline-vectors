@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="screen-curve--screen-curved-device-electronics-monitor-diplay-computer"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M14 2.495C14 1.32 12.904.542 11.853.73 10.62.952 8.737 1.145 7 1.145c-1.737 0-3.619-.193-4.853-.415C1.097.542 0 1.32 0 2.495v7.01c0 1.175 1.096 1.954 2.147 1.765 1.058-.19 2.592-.36 4.103-.404v1.433H4.639a.75.75 0 0 0 0 1.5H9.36a.75.75 0 0 0 0-1.5H7.75v-1.433c1.51.045 3.045.214 4.103.404 1.05.189 2.147-.59 2.147-1.765v-7.01Zm-7 .65c1.766 0 3.66-.184 5-.41v6.53a32.188 32.188 0 0 0-5-.41c-1.766 0-3.66.184-5 .41v-6.53c1.34.226 3.234.41 5 .41Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-Curve--Streamline-Core">
+  <desc>
+    Screen Curve Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screen-curve--screen-curved-device-electronics-monitor-diplay-computer">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M14 2.495C14 1.32 12.904 0.542 11.853 0.73 10.62 0.952 8.737 1.145 7 1.145c-1.737 0 -3.619 -0.193 -4.853 -0.415C1.097 0.542 0 1.32 0 2.495v7.01c0 1.175 1.096 1.954 2.147 1.765 1.058 -0.19 2.592 -0.36 4.103 -0.404v1.433H4.639a0.75 0.75 0 0 0 0 1.5H9.36a0.75 0.75 0 0 0 0 -1.5H7.75v-1.433c1.51 0.045 3.045 0.214 4.103 0.404 1.05 0.189 2.147 -0.59 2.147 -1.765v-7.01Zm-7 0.65c1.766 0 3.66 -0.184 5 -0.41v6.53a32.188 32.188 0 0 0 -5 -0.41c-1.766 0 -3.66 0.184 -5 0.41v-6.53c1.34 0.226 3.234 0.41 5 0.41Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

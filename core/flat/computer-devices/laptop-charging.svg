@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="laptop-charging--device-laptop-electronics-computer-notebook-charging"><path id="Vector 2538" fill="#3e3e3e" d="M.296 12.057 2 9.5h10l1.704 2.557A1.25 1.25 0 0 1 12.664 14H1.336a1.25 1.25 0 0 1-1.04-1.943Z"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M11.874.126a.75.75 0 0 1 .208 1.04L11.026 2.75h1.349a.75.75 0 0 1 .624 1.166l-1.834 2.75a.75.75 0 0 1-1.248-.832l1.056-1.584H9.625A.75.75 0 0 1 9 3.084l1.833-2.75a.75.75 0 0 1 1.04-.208Z" clip-rule="evenodd"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M7.688 3H3.5A1.5 1.5 0 0 0 2 4.5v5h10V7.619A2 2 0 0 1 8.776 5.31 2 2 0 0 1 7.688 3Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Laptop-Charging--Streamline-Core">
+  <desc>
+    Laptop Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="laptop-charging--device-laptop-electronics-computer-notebook-charging">
+    <path id="Vector 2538" fill="#2859c5" d="M0.295584 12.0566 2 9.5h10l1.7044 2.5566c0.5538 0.8307 -0.0417 1.9434 -1.04 1.9434H1.33565C0.337277 14 -0.258212 12.8873 0.295584 12.0566Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M11.8741 0.12595c0.3447 0.229765 0.4378 0.695417 0.208 1.04006l-1.056 1.58398h1.3487c0.2766 0 0.5307 0.15224 0.6612 0.3961 0.1305 0.24387 0.1162 0.53978 -0.0372 0.76992l-1.8333 2.75c-0.2298 0.34465 -0.6955 0.43778 -1.0401 0.20802 -0.34465 -0.22977 -0.43778 -0.69542 -0.20801 -1.04007l1.05601 -1.58397H9.62476c-0.2766 0 -0.53074 -0.15224 -0.66126 -0.39611 -0.13051 -0.24387 -0.11621 -0.53977 0.03722 -0.76992L10.8341 0.333963c0.2297 -0.3446465 0.6954 -0.437777 1.04 -0.208013Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M7.68822 3H3.5C2.67157 3 2 3.67157 2 4.5v5h10V7.61884c-0.6565 0.7012 -1.7424 0.8456 -2.56798 0.29523 -0.86344 -0.57563 -1.13489 -1.70648 -0.6565 -2.60335 -0.38348 -0.1799 -0.70711 -0.48025 -0.91411 -0.86704 -0.24057 -0.4495 -0.29663 -0.96531 -0.17319 -1.44368Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

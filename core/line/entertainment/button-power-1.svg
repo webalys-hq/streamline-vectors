@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-power-1--power-button-on-off"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5V6"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 1.876a6.5 6.5 0 1 1-8 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Power-1--Streamline-Core">
+  <desc>
+    Button Power 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-power-1--power-button-on-off">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5V6" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 1.87646c1.0669 0.83292 1.8471 1.97809 2.2318 3.27574 0.3848 1.29764 0.3549 2.68303 -0.0856 3.96285 -0.4404 1.27985 -1.2693 2.39025 -2.3712 3.17635 -1.10179 0.786 -2.42152 1.2085 -3.775 1.2085 -1.35348 0 -2.67321 -0.4225 -3.77503 -1.2085 -1.10183 -0.7861 -1.93079 -1.8965 -2.371212 -3.17635C0.413331 7.83523 0.383406 6.44984 0.768159 5.1522 1.15291 3.85455 1.93315 2.70938 3 1.87646" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="volume-down--speaker-down-volume-control-audio-music-decrease-entertainment"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9 3.005A1.454 1.454 0 0 0 6.716 1.78l-.003.002L2.842 4.5H1.5C.68 4.5 0 5.18 0 6v2c0 .82.68 1.5 1.5 1.5h1.339l3.78 2.716.007.005c.97.672 2.348-.024 2.374-1.21V3.005Zm1.813 3.245a.75.75 0 0 0 0 1.5h2.376a.75.75 0 0 0 0-1.5h-2.377Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volume-Down--Streamline-Core">
+  <desc>
+    Volume Down Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="volume-down--speaker-down-volume-control-audio-music-decrease-entertainment">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M9 3.0054c0.02347 -1.19074 -1.30244 -1.90604 -2.28449 -1.22655l-0.00001 -0.00001 -0.00292 0.00205 -3.87065 2.71915H1.5c-0.820809 0 -1.5 0.67919 -1.5 1.5v2c0 0.82081 0.679191 1.5 1.5 1.5h1.33897L6.6182 12.216l-0.00004 0.0001 0.00735 0.0051c0.97138 0.6721 2.34803 -0.0239 2.37437 -1.2101l0.00012 0V3.0054ZM10.8125 6.25c-0.4142 0 -0.75 0.33579 -0.75 0.75s0.3358 0.75 0.75 0.75h2.3762c0.4142 0 0.75 -0.33579 0.75 -0.75s-0.3358 -0.75 -0.75 -0.75h-2.3762Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

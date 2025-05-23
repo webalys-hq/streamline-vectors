@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pi-symbol-circle--interface-math-pi-sign-mathematics-22-7"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25A6.25 6.25 0 1 0 7 .75a6.25 6.25 0 0 0 0 12.5Z"></path><path id="Vector 297" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 5.75c.088-.333.43-.872 1.053-1C5.832 4.59 10 4 10 4"></path><path id="Vector 298" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 4.594C6 5.844 5.98 8.737 5 10"></path><path id="Vector 299" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 4.219v5.255c0 .175.12.526.6.526s.8-.351.9-.526"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pi-Symbol-Circle--Streamline-Core">
+  <desc>
+    Pi Symbol Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pi-symbol-circle--interface-math-pi-sign-mathematics-22-7">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.25c3.4518 0 6.25 -2.7982 6.25 -6.25C13.25 3.54822 10.4518 0.75 7 0.75 3.54822 0.75 0.75 3.54822 0.75 7c0 3.4518 2.79822 6.25 6.25 6.25Z" stroke-width="1"></path>
+    <path id="Vector 297" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 5.74997c0.08772 -0.33333 0.42992 -0.87182 1.05262 -0.99999C5.83186 4.5896 9.99991 4 9.99991 4" stroke-width="1"></path>
+    <path id="Vector 298" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.00011 4.59375c0 1.24998 -0.01916 4.14303 -0.99999 5.40617" stroke-width="1"></path>
+    <path id="Vector 299" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.5 4.21875V9.4736c0 0.17544 0.12 0.52631 0.59999 0.52631s0.79999 -0.35087 0.89999 -0.52631" stroke-width="1"></path>
+  </g>
+</svg>

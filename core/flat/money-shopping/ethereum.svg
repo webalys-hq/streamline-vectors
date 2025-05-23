@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ethereum--crypto-circle-payment-blokchain-finance-ethereum-eth-currency"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7.403.26a.5.5 0 0 0-.805 0L1.86 6.694a.5.5 0 0 0 0 .593l4.738 6.433a.5.5 0 0 0 .805 0l4.737-6.433a.5.5 0 0 0 0-.593L7.403.261Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M12.236 6.95 7.089 8.64a.5.5 0 0 1-.315-.001l-5.01-1.684a.5.5 0 0 0 .096.332l4.738 6.433a.5.5 0 0 0 .805 0l4.737-6.433a.5.5 0 0 0 .096-.336Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ethereum--Streamline-Core">
+  <desc>
+    Ethereum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ethereum--crypto-circle-payment-blokchain-finance-ethereum-eth-currency">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.403 0.26a0.5 0.5 0 0 0 -0.805 0L1.86 6.694a0.5 0.5 0 0 0 0 0.593l4.738 6.433a0.5 0.5 0 0 0 0.805 0l4.737 -6.433a0.5 0.5 0 0 0 0 -0.593L7.403 0.261Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M12.236 6.95 7.089 8.64a0.5 0.5 0 0 1 -0.315 -0.001l-5.01 -1.684a0.5 0.5 0 0 0 0.096 0.332l4.738 6.433a0.5 0.5 0 0 0 0.805 0l4.737 -6.433a0.5 0.5 0 0 0 0.096 -0.336Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

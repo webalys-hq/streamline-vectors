@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-prompt-spark--app-code-apps-window-website-web-artificial-intelligence-ai"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.02 3.485h-3.5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-4"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.52 5.985h6.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.02 10.985 1.5-1.5-1.5-1.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.02 10.985h1.5"></path><path id="Vector 2136" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.396 3.949c-.35-.061-.35-.565 0-.626A3.176 3.176 0 0 0 9.955.873l.02-.097c.077-.347.57-.35.65-.003l.025.113a3.192 3.192 0 0 0 2.566 2.435c.352.061.352.568 0 .63a3.192 3.192 0 0 0-2.566 2.435l-.026.112c-.079.346-.572.344-.648-.003L9.955 6.4a3.176 3.176 0 0 0-2.559-2.45Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Prompt-Spark--Streamline-Core">
+  <desc>
+    Ai Prompt Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-prompt-spark--app-code-apps-window-website-web-artificial-intelligence-ai">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.02002 3.48535h-3.5c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289 -0.187537 0.18754 -0.292893 0.4419 -0.292893 0.70711v8.00005c0 0.2652 0.105356 0.5195 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929H10.52c0.5523 0 1 -0.4478 1 -1V8.48535" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.52002 5.98535h6.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.02002 10.9854 1.5 -1.50005 -1.5 -1.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.02002 10.9854h1.5" stroke-width="1"></path>
+    <path id="Vector 2136" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.39601 3.9486c-0.35093 -0.06105 -0.35093 -0.56483 0 -0.62588 1.27136 -0.22118 2.28254 -1.18955 2.5585 -2.45015l0.02115 -0.09663c0.07594 -0.346833 0.56974 -0.348991 0.64874 -0.002835l0.0257 0.11261c0.2861 1.254655 1.2976 2.214845 2.5654 2.435405 0.3527 0.06137 0.3527 0.56771 0 0.62907 -1.2678 0.22057 -2.2793 1.18076 -2.5654 2.43541l-0.0257 0.11261c-0.079 0.34616 -0.5728 0.344 -0.64874 -0.00283l-0.02115 -0.09663c-0.27596 -1.26061 -1.28714 -2.22897 -2.5585 -2.45015Z" stroke-width="1"></path>
+  </g>
+</svg>

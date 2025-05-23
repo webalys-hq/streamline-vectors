@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wifi-horizontal--wireless-wifi-internet-server-network-horizontal-connection"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.43 10.57A4.54 4.54 0 0 1 3.5 7a4.56 4.56 0 0 1 1.93-3.58"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.2 12A6.35 6.35 0 0 1 .5 7a6.37 6.37 0 0 1 2.69-5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.57 10.57A4.54 4.54 0 0 0 10.5 7a4.56 4.56 0 0 0-1.93-3.58"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.8 12a6.35 6.35 0 0 0 2.7-5 6.37 6.37 0 0 0-2.69-5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wifi-Horizontal--Streamline-Core">
+  <desc>
+    Wifi Horizontal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wifi-horizontal--wireless-wifi-internet-server-network-horizontal-connection">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.43 10.57c-0.57659 -0.4046 -1.05113 -0.93775 -1.3861 -1.55736 -0.33497 -0.61961 -0.52118 -1.30866 -0.5439 -2.01266 0.02272 -0.70538 0.20886 -1.39586 0.54377 -2.01709 0.3349 -0.62122 0.80943 -1.15623 1.38623 -1.56291" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.2 12c-0.80745 -0.5665 -1.47184 -1.3132 -1.9405 -2.18113C0.790845 8.95098 0.530806 7.98586 0.5 7c0.031199 -0.98468 0.290365 -1.9487 0.75712 -2.81628C1.72388 3.31614 2.38551 2.56865 3.19 2" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.57001 10.57c0.57658 -0.4046 1.05113 -0.93775 1.3861 -1.55736 0.33499 -0.61961 0.52119 -1.30866 0.54389 -2.01266 -0.0227 -0.70538 -0.2089 -1.39586 -0.54376 -2.01709 -0.33491 -0.62122 -0.80944 -1.15623 -1.38623 -1.56291" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.8 12c0.8074 -0.5665 1.4718 -1.3132 1.9405 -2.18113 0.4686 -0.86789 0.7287 -1.83301 0.7595 -2.81887 -0.0312 -0.98468 -0.2904 -1.9487 -0.7571 -2.81628C12.2761 3.31614 11.6145 2.56865 10.81 2" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 7.5c0.27614 0 0.5 -0.22386 0.5 -0.5s-0.22386 -0.5 -0.5 -0.5 -0.5 0.22386 -0.5 0.5 0.22386 0.5 0.5 0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

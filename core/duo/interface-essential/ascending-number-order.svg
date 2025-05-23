@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ascending-number-order"><path id="Vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.167.5v5"></path><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1.75h.417c.69 0 1.25-.56 1.25-1.25v0"></path><path id="Vector 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.833 5.5H9.5"></path><path id="Vector 2_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.422 11.093h.656a1.422 1.422 0 1 0 0-2.843h-.656a1.422 1.422 0 1 0 0 2.843Z"></path><path id="Vector 3_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 9.562v2.625c0 .725-.587 1.313-1.312 1.313h-.875a1.313 1.313 0 0 1-1.238-.876"></path><path id="Vector 348" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 11-2.5 2.5L1 11"></path><path id="Vector 349" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5.5v13"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ascending-Number-Order--Streamline-Core">
+  <desc>
+    Ascending Number Order Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ascending-number-order">
+    <path id="Vector 2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m11.1668 0.499634 0 4.999996" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m9.50014 1.74963 0.41667 0c0.69039 0 1.24999 -0.55964 1.24999 -1.249996v0" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m12.8334 5.49963 -3.3333 0" stroke-width="1"></path>
+    <path id="Vector 2_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m10.4221 11.0933 0.6562 0c0.7853 0 1.4219 -0.6366 1.4219 -1.4219 0 -0.78529 -0.6366 -1.42188 -1.4219 -1.42188l-0.6562 0.00001c-0.78531 0 -1.4219 0.63659 -1.4219 1.42187 0 0.7853 0.6366 1.4219 1.4219 1.4219Z" stroke-width="1"></path>
+    <path id="Vector 3_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m12.5002 9.56201 0 2.62499c0 0.7249 -0.5876 1.3125 -1.3125 1.3125h-0.875c-0.57147 0 -1.05763 -0.3652 -1.23781 -0.875" stroke-width="1"></path>
+    <path id="Vector 348" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m6 11 -2.5 2.5L1 11" stroke-width="1"></path>
+    <path id="Vector 349" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 0.5v13" stroke-width="1"></path>
+  </g>
+</svg>

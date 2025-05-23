@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="medical-files-report-history"><path id="vector" fill="#37d7ff" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1H9L12.5 4v8.5Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1H9L12.5 4v8.5Z"></path><path id="union" fill="#ffffff" d="M6.303 4.771a.43.43 0 0 0-.43.43v1.208H4.666a.43.43 0 0 0-.43.429v1.395c0 .238.193.43.43.43h1.207V9.87c0 .238.193.43.43.43h1.395a.43.43 0 0 0 .43-.43V8.663h1.207a.43.43 0 0 0 .43-.43V6.838a.43.43 0 0 0-.43-.43H8.128V5.202a.43.43 0 0 0-.43-.43H6.303Z"></path><path id="union_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.303 4.771a.43.43 0 0 0-.43.43v1.208H4.666a.43.43 0 0 0-.43.429v1.395c0 .238.193.43.43.43h1.207V9.87c0 .238.193.43.43.43h1.395a.43.43 0 0 0 .43-.43V8.663h1.207a.43.43 0 0 0 .43-.43V6.838a.43.43 0 0 0-.43-.43H8.128V5.202a.43.43 0 0 0-.43-.43H6.303Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Files-Report-History--Streamline-Core">
+  <desc>
+    Medical Files Report History Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-files-report-history">
+    <path id="vector" fill="#d7e0ff" d="M12.5 12.5a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-11a1 1 0 0 1 1 -1H9L12.5 4v8.5Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-11a1 1 0 0 1 1 -1H9L12.5 4v8.5Z" stroke-width="1"></path>
+    <path id="union" fill="#ffffff" d="M6.303 4.771a0.43 0.43 0 0 0 -0.43 0.43v1.208l-1.207 0a0.43 0.43 0 0 0 -0.43 0.429v1.395c0 0.238 0.193 0.43 0.43 0.43h1.207V9.87c0 0.238 0.193 0.43 0.43 0.43h1.395a0.43 0.43 0 0 0 0.43 -0.43V8.663h1.207a0.43 0.43 0 0 0 0.43 -0.43V6.838a0.43 0.43 0 0 0 -0.43 -0.43l-1.207 0V5.202a0.43 0.43 0 0 0 -0.43 -0.43H6.303Z" stroke-width="1"></path>
+    <path id="union_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.303 4.771a0.43 0.43 0 0 0 -0.43 0.43v1.208l-1.207 0a0.43 0.43 0 0 0 -0.43 0.429v1.395c0 0.238 0.193 0.43 0.43 0.43h1.207V9.87c0 0.238 0.193 0.43 0.43 0.43h1.395a0.43 0.43 0 0 0 0.43 -0.43V8.663h1.207a0.43 0.43 0 0 0 0.43 -0.43V6.838a0.43 0.43 0 0 0 -0.43 -0.43l-1.207 0V5.202a0.43 0.43 0 0 0 -0.43 -0.43H6.303Z" stroke-width="1"></path>
+  </g>
+</svg>

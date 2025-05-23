@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="delete-keyboard"><path id="rectangle 628" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.813 10.176a2 2 0 0 0 1.523.703h5.556a2 2 0 0 0 2-2V5.12a2 2 0 0 0-2-2H5.336a2 2 0 0 0-1.523.704l-1.6 1.88a2 2 0 0 0 0 2.593l1.6 1.88Z"></path><path id="vector 581" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.397 5.187 3.584 3.584"></path><path id="vector 582" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.98 5.187 6.398 8.771"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Delete-Keyboard--Streamline-Core">
+  <desc>
+    Delete Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="delete-keyboard">
+    <path id="rectangle 628" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.81306 10.1762c0.38 0.4462 0.93655 0.7032 1.52259 0.7032h5.55655c1.1046 0 2 -0.89544 2 -2.00001V5.12046c0 -1.10457 -0.8954 -2 -2 -2l-5.55655 0c-0.58604 0 -1.14259 0.25704 -1.52259 0.70319L2.2123 5.70312c-0.63655 0.74737 -0.63655 1.84625 0 2.59362l1.60076 1.87946Z" stroke-width="1"></path>
+    <path id="vector 581" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.39734 5.18726 3.58339 3.58339" stroke-width="1"></path>
+    <path id="vector 582" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.98071 5.18726 6.39732 8.77065" stroke-width="1"></path>
+  </g>
+</svg>

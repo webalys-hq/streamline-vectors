@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="logout-1--arrow-exit-frame-leave-logout-rectangle-right"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h7A1.5 1.5 0 0 1 10 1.5v1.939a2 2 0 0 0-.734 1.311H5.75a2.25 2.25 0 1 0 0 4.5h3.516A2 2 0 0 0 10 10.561V12.5A1.5 1.5 0 0 1 8.5 14h-7A1.5 1.5 0 0 1 0 12.5v-11Zm10.963 2.807A.75.75 0 0 0 10.5 5v1H5.75a1 1 0 0 0 0 2h4.75v1a.75.75 0 0 0 1.28.53l2-2a.75.75 0 0 0 0-1.06l-2-2a.75.75 0 0 0-.817-.163Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Logout-1--Streamline-Core">
+  <desc>
+    Logout 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="logout-1--arrow-exit-frame-leave-logout-rectangle-right">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M0 1.5C0 0.671573 0.671573 0 1.5 0h7c0.82843 0 1.5 0.671573 1.5 1.5v1.93863c-0.40264 0.32239 -0.66907 0.7919 -0.73437 1.31135H5.75c-1.24264 0 -2.25 1.00735 -2.25 2.25 0 1.24264 1.00736 2.25 2.25 2.25h3.51563c0.06528 0.51946 0.33172 0.98902 0.73437 1.31142V12.5c0 0.8284 -0.67157 1.5 -1.5 1.5h-7C0.671573 14 0 13.3284 0 12.5v-11Zm10.963 2.80711c-0.2803 0.11609 -0.463 0.38957 -0.463 0.69291v1H5.75c-0.55228 0 -1 0.44772 -1 1 0 0.55229 0.44772 1 1 1h4.75v1c0 0.30335 0.1827 0.57683 0.463 0.69291 0.2802 0.11609 0.6028 0.05192 0.8173 -0.16258l2 -2c0.2929 -0.29289 0.2929 -0.76777 0 -1.06066l-2 -2c-0.2145 -0.2145 -0.5371 -0.27866 -0.8173 -0.16258Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

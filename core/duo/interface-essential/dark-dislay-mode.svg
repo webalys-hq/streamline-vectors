@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dark-dislay-mode"><path id="Vector" fill="#37d7ff" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Subtract" fill="#ffffff" d="M9.46 4.522a2.46 2.46 0 1 0 0 4.919c.25 0 .441.3.258.47a3.996 3.996 0 1 1 0-5.86c.183.17-.008.471-.258.471Z"></path><path id="Subtract_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.46 4.522a2.46 2.46 0 1 0 0 4.919c.25 0 .441.3.258.47a3.996 3.996 0 1 1 0-5.86c.183.17-.008.471-.258.471Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dark-Dislay-Mode--Streamline-Core">
+  <desc>
+    Dark Dislay Mode Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dark-dislay-mode">
+    <path id="Vector" fill="#d7e0ff" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#ffffff" d="M9.45992 4.5222c-1.35816 0 -2.45916 1.101 -2.45916 2.45915 0 1.35816 1.101 2.45916 2.45916 2.45916 0.25029 0 0.44144 0.3009 0.25794 0.47112 -0.71301 0.66147 -1.66783 1.06587 -2.7171 1.06587 -2.207 0 -3.99612 -1.78915 -3.99612 -3.99615 0 -2.20699 1.78912 -3.99612 3.99612 -3.99612 1.04927 0 2.00409 0.4044 2.7171 1.06584 0.1835 0.17023 -0.00765 0.47113 -0.25794 0.47113Z" stroke-width="1"></path>
+    <path id="Subtract_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.45992 4.5222c-1.35816 0 -2.45916 1.101 -2.45916 2.45915 0 1.35816 1.101 2.45916 2.45916 2.45916 0.25029 0 0.44144 0.3009 0.25794 0.47112 -0.71301 0.66147 -1.66783 1.06587 -2.7171 1.06587 -2.207 0 -3.99612 -1.78915 -3.99612 -3.99615 0 -2.20699 1.78912 -3.99612 3.99612 -3.99612 1.04927 0 2.00409 0.4044 2.7171 1.06584 0.1835 0.17023 -0.00765 0.47113 -0.25794 0.47113Z" stroke-width="1"></path>
+  </g>
+</svg>

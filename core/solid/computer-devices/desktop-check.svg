@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="desktop-check--success-approve-device-display-desktop-computer"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M13.498.436a.75.75 0 0 1 .063 1.059l-4 4.5a.75.75 0 0 1-1.01.101l-2-1.5a.75.75 0 1 1 .9-1.2l1.447 1.086L12.44.498a.75.75 0 0 1 1.058-.062ZM8.515 11H12.5A1.5 1.5 0 0 0 14 9.5v-2a1 1 0 1 0-2 0V9H2V3h2.5a1 1 0 1 0 0-2h-3A1.5 1.5 0 0 0 0 2.5v7A1.5 1.5 0 0 0 1.5 11h3.985l-.537 1.5H4A.75.75 0 0 0 4 14h6a.75.75 0 0 0 0-1.5h-.948L8.515 11Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Check--Streamline-Core">
+  <desc>
+    Desktop Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="desktop-check--success-approve-device-display-desktop-computer">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M13.498 0.436a0.75 0.75 0 0 1 0.063 1.059l-4 4.5a0.75 0.75 0 0 1 -1.01 0.101l-2 -1.5a0.75 0.75 0 1 1 0.9 -1.2l1.447 1.086L12.44 0.498a0.75 0.75 0 0 1 1.058 -0.062ZM8.515 11H12.5A1.5 1.5 0 0 0 14 9.5v-2a1 1 0 1 0 -2 0V9H2V3h2.5a1 1 0 1 0 0 -2h-3A1.5 1.5 0 0 0 0 2.5v7A1.5 1.5 0 0 0 1.5 11h3.985l-0.537 1.5H4A0.75 0.75 0 0 0 4 14h6a0.75 0.75 0 0 0 0 -1.5h-0.948L8.515 11Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

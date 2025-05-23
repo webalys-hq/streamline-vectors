@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="electric-cord-3--electricity-electronic-appliances-device-cord-cable-plug-connection"><path id="Vector 2445" fill="#37d7ff" d="M4.123 5.698h5.755v1.55a2.878 2.878 0 0 1-5.755 0v-1.55Z"></path><path id="Vector 2440" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.122 5.698h5.756v1.55a2.878 2.878 0 0 1-5.756 0v-1.55Z"></path><path id="Vector 2441" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.438 5.698V3.354"></path><path id="Vector 2442" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.563 5.698V3.354"></path><path id="Vector 2444" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.125v2.125c0 .552.45 1.008.996.921A6.252 6.252 0 0 0 7 .75a6.25 6.25 0 0 0-3.125 11.664"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Electric-Cord-3--Streamline-Core">
+  <desc>
+    Electric Cord 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="electric-cord-3--electricity-electronic-appliances-device-cord-cable-plug-connection">
+    <path id="Vector 2445" fill="#d7e0ff" d="M4.12256 5.69794h5.75521v1.54948c0 1.58925 -1.28835 2.87758 -2.87761 2.87758 -1.58925 0 -2.8776 -1.28833 -2.8776 -2.87758V5.69794Z" stroke-width="1"></path>
+    <path id="Vector 2440" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.12244 5.69794h5.7552v1.54948c0 1.58925 -1.28834 2.87758 -2.8776 2.87758 -1.58926 0 -2.8776 -1.28833 -2.8776 -2.87758V5.69794Z" stroke-width="1"></path>
+    <path id="Vector 2441" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.4375 5.69794V3.35419" stroke-width="1"></path>
+    <path id="Vector 2442" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.5625 5.69794V3.35419" stroke-width="1"></path>
+    <path id="Vector 2444" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 10.125v2.125c0 0.5523 0.45075 1.0084 0.99609 0.9211C10.9744 12.6941 13.25 10.1128 13.25 7 13.25 3.54822 10.4518 0.75 7 0.75 3.54822 0.75 0.75 3.54822 0.75 7c0 2.31338 1.25687 4.3332 3.125 5.4139" stroke-width="1"></path>
+  </g>
+</svg>

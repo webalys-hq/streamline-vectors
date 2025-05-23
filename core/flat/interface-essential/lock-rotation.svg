@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="lock-rotation"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.5 7a5.5 5.5 0 0 1 9.82-3.405l-.966.965a.5.5 0 0 0 .353.854H13.5a.5.5 0 0 0 .5-.5V2.12a.5.5 0 0 0-.854-.354l-.76.761a7 7 0 1 0 1.427 6.086.75.75 0 0 0-1.46-.344A5.5 5.5 0 0 1 1.5 7Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.125 5.813a.875.875 0 1 1 1.75 0v.5h-1.75v-.5Zm-1.25.719v-.72a2.125 2.125 0 1 1 4.25 0v.72a.998.998 0 0 1 .375.78v2a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-2c0-.315.146-.597.375-.78Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lock-Rotation--Streamline-Core">
+  <desc>
+    Lock Rotation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lock-rotation">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.5 7a5.5 5.5 0 0 1 9.82 -3.405l-0.966 0.965a0.5 0.5 0 0 0 0.353 0.854H13.5a0.5 0.5 0 0 0 0.5 -0.5V2.12a0.5 0.5 0 0 0 -0.854 -0.354l-0.76 0.761a7 7 0 1 0 1.427 6.086 0.75 0.75 0 0 0 -1.46 -0.344A5.5 5.5 0 0 1 1.5 7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M6.125 5.813a0.875 0.875 0 1 1 1.75 0v0.5h-1.75v-0.5Zm-1.25 0.719v-0.72a2.125 2.125 0 1 1 4.25 0v0.72a0.998 0.998 0 0 1 0.375 0.78v2a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-2c0 -0.315 0.146 -0.597 0.375 -0.78Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

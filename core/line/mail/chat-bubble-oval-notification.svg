@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chat-bubble-oval-notification--messages-message-bubble-chat-oval-notify-ping"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.114.585a6.474 6.474 0 0 0-4.503 9.96L.526 13.474l3.635-.658a6.464 6.464 0 0 0 9.274-5.14"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.984 5.505a2.49 2.49 0 1 0 0-4.98 2.49 2.49 0 0 0 0 4.98Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Oval-Notification--Streamline-Core">
+  <desc>
+    Chat Bubble Oval Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-oval-notification--messages-message-bubble-chat-oval-notify-ping">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.11355 0.584961C5.03424 0.738474 4.01116 1.16205 3.1392 1.8164c-0.87195 0.65435 -1.56456 1.51829 -2.01358 2.5117C0.676598 5.32151 0.4857 6.41222 0.570628 7.49909c0.084929 1.08686 0.442932 2.13468 1.040812 3.04631L0.525757 13.4737l3.635553 -0.6573c0.93484 0.4578 1.96642 0.6831 3.00701 0.6567 1.0406 -0.0264 2.05944 -0.3036 2.96988 -0.8082 0.9105 -0.5046 1.6856 -1.2217 2.2595 -2.0901 0.5739 -0.86844 0.9295 -1.86263 1.0368 -2.89802" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.9841 5.50511c1.3753 0 2.4901 -1.11486 2.4901 -2.4901 0 -1.37525 -1.1148 -2.490108 -2.4901 -2.490108 -1.37522 0 -2.49008 1.114858 -2.49008 2.490108 0 1.37524 1.11486 2.4901 2.49008 2.4901Z" stroke-width="1"></path>
+  </g>
+</svg>

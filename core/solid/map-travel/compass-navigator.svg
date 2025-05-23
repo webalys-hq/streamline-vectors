@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="compass-navigator"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M11.295 1.065a1.209 1.209 0 0 1 1.49 1.49l-2.092 7.45a1.209 1.209 0 0 1-.837.837l-7.45 2.093a1.209 1.209 0 0 1-1.49-1.49l2.092-7.45c.114-.406.431-.723.837-.837l7.45-2.093ZM8.488 5.512a2.104 2.104 0 1 0-2.976 2.976 2.104 2.104 0 0 0 2.976-2.976Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Compass-Navigator--Streamline-Core">
+  <desc>
+    Compass Navigator Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="compass-navigator">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M11.2948 1.0653c0.9083 -0.255063 1.7455 0.58223 1.4905 1.49045L10.693 10.0056c-0.1139 0.4058 -0.431 0.7229 -0.8368 0.8369l-7.44986 2.0922c-0.90822 0.2551 -1.745517 -0.5822 -1.49045 -1.4905l2.09224 -7.44981c0.11396 -0.40578 0.43107 -0.72288 0.83685 -0.83684L11.2948 1.0653ZM8.48792 5.5121c-0.82176 -0.82175 -2.15408 -0.82175 -2.97584 0 -0.82175 0.82176 -0.82175 2.15408 0 2.97584 0.82176 0.82175 2.15408 0.82175 2.97584 0 0.82175 -0.82176 0.82175 -2.15408 0 -2.97584Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

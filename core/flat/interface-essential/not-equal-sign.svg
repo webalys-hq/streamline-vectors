@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="not-equal-sign--interface-math-not-equal-sign-mathematics"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1 3.5a1 1 0 0 0 0 2h12a1 1 0 1 0 0-2H1Zm0 5a1 1 0 0 0 0 2h12a1 1 0 1 0 0-2H1Z" clip-rule="evenodd"></path><path id="Vector 2378 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M10.705.12a1 1 0 0 1 .406 1.354l-6.461 12a1 1 0 1 1-1.761-.948l6.461-12A1 1 0 0 1 10.705.12Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Not-Equal-Sign--Streamline-Core">
+  <desc>
+    Not Equal Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="not-equal-sign--interface-math-not-equal-sign-mathematics">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1 3.5c-0.552285 0 -1 0.44772 -1 1s0.447715 1 1 1h12c0.5523 0 1 -0.44772 1 -1s-0.4477 -1 -1 -1H1Zm0 5c-0.552285 0 -1 0.44772 -1 1 0 0.5523 0.447715 1 1 1h12c0.5523 0 1 -0.4477 1 -1 0 -0.55228 -0.4477 -1 -1 -1H1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2378 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M10.7049 0.11954c0.4862 0.261838 0.6682 0.8683 0.4063 1.35457L4.6497 13.4741c-0.26184 0.4863 -0.8683 0.6682 -1.35457 0.4064 -0.48628 -0.2619 -0.66821 -0.8683 -0.40638 -1.3546L9.35029 0.525911c0.26184 -0.4862708 0.86831 -0.668209 1.35461 -0.406371Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

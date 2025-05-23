@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="justice-scale-2--office-work-scale-justice-unequal-company-arbitration-unbalance-court"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M12.864.567a.75.75 0 0 1-.373.993l-.743.338 2.064 4.806a.75.75 0 0 1 .061.296 3.105 3.105 0 1 1-6.21 0 .75.75 0 0 1 .06-.296l1.59-3.7-1.988.904a.753.753 0 0 1-.03.014L4.196 5.33l2.086 5.157a.75.75 0 0 1 .055.281 3.105 3.105 0 1 1-6.21 0 .75.75 0 0 1 .054-.28l1.68-4.152a.75.75 0 0 1-.353-1.432L6.25 2.75V.877a.75.75 0 0 1 1.5 0v1.19l2.664-1.21a.75.75 0 0 1 .09-.041L11.87.194a.75.75 0 0 1 .993.373Zm-.69 6.123-1.406-3.272L9.362 6.69h2.812Zm-8.942.256-1.405 3.472h2.81L3.231 6.946Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Justice-Scale-2--Streamline-Core">
+  <desc>
+    Justice Scale 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="justice-scale-2--office-work-scale-justice-unequal-company-arbitration-unbalance-court">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M12.864 0.567a0.75 0.75 0 0 1 -0.373 0.993l-0.743 0.338 2.064 4.806a0.75 0.75 0 0 1 0.061 0.296 3.105 3.105 0 1 1 -6.21 0 0.75 0.75 0 0 1 0.06 -0.296l1.59 -3.7 -1.988 0.904a0.753 0.753 0 0 1 -0.03 0.014L4.196 5.33l2.086 5.157a0.75 0.75 0 0 1 0.055 0.281 3.105 3.105 0 1 1 -6.21 0 0.75 0.75 0 0 1 0.054 -0.28l1.68 -4.152a0.75 0.75 0 0 1 -0.353 -1.432L6.25 2.75V0.877a0.75 0.75 0 0 1 1.5 0v1.19l2.664 -1.21a0.75 0.75 0 0 1 0.09 -0.041L11.87 0.194a0.75 0.75 0 0 1 0.993 0.373Zm-0.69 6.123 -1.406 -3.272L9.362 6.69h2.812Zm-8.942 0.256 -1.405 3.472h2.81L3.231 6.946Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

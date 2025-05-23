@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="traffic-cone--street-sign-traffic-cone-road"><path id="Vector 1993" fill="#37d7ff" d="M5.3 1.24 2 13.5h10L8.7 1.24A1 1 0 0 0 7.733.5H6.266a1 1 0 0 0-.965.74Z"></path><path id="Intersect" fill="#ffffff" d="M9.577 4.5H4.423l-1.346 5h7.846l-1.346-5Z"></path><path id="Vector 1994" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.3 1.24 2 13.5h10L8.7 1.24A1 1 0 0 0 7.733.5H6.266a1 1 0 0 0-.965.74Z"></path><path id="Vector 1992" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 13.5h13"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.423 4.5h5.154"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.077 9.5h7.846"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Traffic-Cone--Streamline-Core">
+  <desc>
+    Traffic Cone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="traffic-cone--street-sign-traffic-cone-road">
+    <path id="Vector 1993" fill="#d7e0ff" d="M5.30076 1.24003 2 13.5h10L8.69924 1.24003C8.58169 0.803412 8.18578 0.5 7.73362 0.5H6.26638c-0.45216 0 -0.84807 0.303412 -0.96562 0.74003Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#ffffff" d="M9.57692 4.5H4.42307l-1.34615 5h7.84618l-1.34618 -5Z" stroke-width="1"></path>
+    <path id="Vector 1994" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.30076 1.24003 2 13.5h10L8.69924 1.24003C8.58169 0.803412 8.18578 0.5 7.73362 0.5H6.26638c-0.45216 0 -0.84807 0.303412 -0.96562 0.74003Z" stroke-width="1"></path>
+    <path id="Vector 1992" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 13.5h13" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.42308 4.5h5.15385" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.07692 9.5h7.84618" stroke-width="1"></path>
+  </g>
+</svg>

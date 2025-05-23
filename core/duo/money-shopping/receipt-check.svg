@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="receipt-check--shop-shopping-pay-payment-store-cash-bill-receipt-check-confirm"><path id="Vector" fill="#ffffff" d="M10.5 2v3.5h3V2a1.5 1.5 0 1 0-3 0Z"></path><path id="Vector_2" fill="#37d7ff" d="M2.5.5H12A1.5 1.5 0 0 0 10.5 2v11.5L8 12l-2.5 1.5L3 12 .5 13.5v-11a2 2 0 0 1 2-2Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 .5H2.5a2 2 0 0 0-2 2v11L3 12l2.5 1.5L8 12l2.5 1.5V2A1.5 1.5 0 0 1 12 .5Zm0 0A1.5 1.5 0 0 1 13.5 2v3.5h-3"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.75 7 2 1.5 3.5-4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Receipt-Check--Streamline-Core">
+  <desc>
+    Receipt Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="receipt-check--shop-shopping-pay-payment-store-cash-bill-receipt-check-confirm">
+    <path id="Vector" fill="#ffffff" d="M10.5 2v3.5h3V2c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C12.7794 0.658035 12.3978 0.5 12 0.5c-0.3978 0 -0.7794 0.158035 -1.0607 0.43934C10.658 1.22064 10.5 1.60218 10.5 2Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M2.5 0.5H12c-0.3978 0 -0.7794 0.158035 -1.0607 0.43934C10.658 1.22064 10.5 1.60218 10.5 2v11.5L8 12l-2.5 1.5L3 12 0.5 13.5v-11c0 -0.53043 0.210714 -1.03914 0.58579 -1.41421C1.46086 0.710714 1.96957 0.5 2.5 0.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12 0.5H2.5c-0.53043 0 -1.03914 0.210714 -1.41421 0.58579C0.710714 1.46086 0.5 1.96957 0.5 2.5v11L3 12l2.5 1.5L8 12l2.5 1.5V2c0 -0.39782 0.158 -0.77936 0.4393 -1.06066C11.2206 0.658035 11.6022 0.5 12 0.5Zm0 0c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v3.5h-3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m2.75 7 2 1.5 3.5 -4" stroke-width="1"></path>
+  </g>
+</svg>

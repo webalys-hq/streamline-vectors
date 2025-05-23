@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-pause-2--button-television-buttons-movies-tv-pause-video-controls"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M0 1.5A1.5 1.5 0 0 1 1.5 0H4a1.5 1.5 0 0 1 1.5 1.5v11A1.5 1.5 0 0 1 4 14H1.5A1.5 1.5 0 0 1 0 12.5v-11ZM10 0a1.5 1.5 0 0 0-1.5 1.5v11A1.5 1.5 0 0 0 10 14h2.5a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 12.5 0H10Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Pause-2--Streamline-Core">
+  <desc>
+    Button Pause 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-pause-2--button-television-buttons-movies-tv-pause-video-controls">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M0 1.5C0 0.671573 0.671573 0 1.5 0H4c0.82843 0 1.5 0.671573 1.5 1.5v11c0 0.8284 -0.67157 1.5 -1.5 1.5H1.5C0.671573 14 0 13.3284 0 12.5v-11ZM10 0c-0.82843 0 -1.5 0.671573 -1.5 1.5v11c0 0.8284 0.67157 1.5 1.5 1.5h2.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-11c0 -0.828427 -0.6716 -1.5 -1.5 -1.5H10Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

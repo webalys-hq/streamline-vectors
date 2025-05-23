@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="inbox-favorite-heart--mail-envelope-email-message-heart-favorite-like-love-important-bookmark"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M1.58 0h9.311c.857 0 1.552.695 1.552 1.552v5.263a2.652 2.652 0 0 0-1.665.317 3.012 3.012 0 0 0-.42.281 3.035 3.035 0 0 0-.433-.302 2.64 2.64 0 0 0-2.158-.229c-1.073.35-1.84 1.311-2.088 2.43h-4.1a1.552 1.552 0 0 1-1.55-1.554V1.552A1.55 1.55 0 0 1 1.58 0Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M12.443 1.63 6.235 4.732.028 1.629v1.398L5.956 5.99a.625.625 0 0 0 .559 0l5.928-2.964V1.629Z" clip-rule="evenodd"></path><path id="Vector" fill="#3e3e3e" d="M10.344 9.491c1.17-2.595 3.5-1.293 3.5.651 0 2.555-3.5 3.858-3.5 3.858s-3.5-1.303-3.5-3.908c0-1.944 2.33-3.246 3.5-.601Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Inbox-Favorite-Heart--Streamline-Core">
+  <desc>
+    Inbox Favorite Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="inbox-favorite-heart--mail-envelope-email-message-heart-favorite-like-love-important-bookmark">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M1.58 0h9.311c0.857 0 1.552 0.695 1.552 1.552v5.263a2.652 2.652 0 0 0 -1.665 0.317 3.012 3.012 0 0 0 -0.42 0.281 3.035 3.035 0 0 0 -0.433 -0.302 2.64 2.64 0 0 0 -2.158 -0.229c-1.073 0.35 -1.84 1.311 -2.088 2.43h-4.1a1.552 1.552 0 0 1 -1.55 -1.554V1.552A1.55 1.55 0 0 1 1.58 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M12.443 1.63 6.235 4.732 0.028 1.629v1.398L5.956 5.99a0.625 0.625 0 0 0 0.559 0l5.928 -2.964V1.629Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M10.344 9.491c1.17 -2.595 3.5 -1.293 3.5 0.651 0 2.555 -3.5 3.858 -3.5 3.858s-3.5 -1.303 -3.5 -3.908c0 -1.944 2.33 -3.246 3.5 -0.601Z" stroke-width="1"></path>
+  </g>
+</svg>

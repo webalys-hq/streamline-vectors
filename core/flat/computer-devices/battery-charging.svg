@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="battery-charging--phone-mobile-charge-device-electricity-power-battery-charging"><path id="Vector" fill="#37d7ff" d="M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M7.361 4.28a.625.625 0 0 1 .13.875l-.919 1.243H7.5a.625.625 0 0 1 .546.928l-1.182 2.13A.625.625 0 1 1 5.77 8.85l.667-1.202H5.332a.625.625 0 0 1-.503-.997l1.658-2.24a.625.625 0 0 1 .874-.13Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Charging--Streamline-Core">
+  <desc>
+    Battery Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="battery-charging--phone-mobile-charge-device-electricity-power-battery-charging">
+    <path id="Vector" fill="#8fbffa" d="M13.5 5.5A0.5 0.5 0 0 0 13 5h-0.5V3.5a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1 -1V9h0.5a0.5 0.5 0 0 0 0.5 -0.5v-3Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M7.361 4.28a0.625 0.625 0 0 1 0.13 0.875l-0.919 1.243H7.5a0.625 0.625 0 0 1 0.546 0.928l-1.182 2.13A0.625 0.625 0 1 1 5.77 8.85l0.667 -1.202H5.332a0.625 0.625 0 0 1 -0.503 -0.997l1.658 -2.24a0.625 0.625 0 0 1 0.874 -0.13Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="affordable-and-clean-energy"><path id="Vector 436" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.862.858v.644"></path><path id="Vector 444" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.862 4.696v1.535"></path><path id="Vector 437" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.862 12.222v.644"></path><path id="Vector 438" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.859 6.862h.643"></path><path id="Vector 439" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.223 6.862h.643"></path><path id="Vector 440" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.15 2.574-.428.428"></path><path id="Vector 441" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.002 10.721-.428.428"></path><path id="Vector 442" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.574 2.574.428.428"></path><path id="Vector 443" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.722 10.721.428.428"></path><path id="Ellipse 227" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 6.862a3.861 3.861 0 1 0 7.722 0 3.861 3.861 0 1 0-7.722 0"></path><path id="Ellipse 228" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.45 5.779a1.764 1.764 0 1 0 2.823 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Affordable-And-Clean-Energy--Streamline-Core">
+  <desc>
+    Affordable And Clean Energy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="affordable-and-clean-energy">
+    <path id="Vector 436" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.86243 0.858398v0.643252" stroke-width="1"></path>
+    <path id="Vector 444" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.86224 4.69629 0 1.53509" stroke-width="1"></path>
+    <path id="Vector 437" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.86243 12.2224v0.6433" stroke-width="1"></path>
+    <path id="Vector 438" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.858704 6.86206h0.643256" stroke-width="1"></path>
+    <path id="Vector 439" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.2228 6.86206h0.6433" stroke-width="1"></path>
+    <path id="Vector 440" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.1498 2.57373 -0.4279 0.42791" stroke-width="1"></path>
+    <path id="Vector 441" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.00195 10.7214 -0.42791 0.4279" stroke-width="1"></path>
+    <path id="Vector 442" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m2.57404 2.57373 0.42791 0.42791" stroke-width="1"></path>
+    <path id="Vector 443" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.7219 10.7214 0.4279 0.4279" stroke-width="1"></path>
+    <path id="Ellipse 227" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 6.862a3.861 3.861 0 1 0 7.722 0 3.861 3.861 0 1 0 -7.722 0" stroke-width="1"></path>
+    <path id="Ellipse 228" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.44971 5.77856c-0.22137 0.29479 -0.35254 0.66118 -0.35254 1.0582 0 0.97419 0.78973 1.76392 1.76391 1.76392 0.97419 0 1.76392 -0.78973 1.76392 -1.76392 0 -0.39702 -0.13117 -0.76341 -0.35254 -1.0582" stroke-width="1"></path>
+  </g>
+</svg>

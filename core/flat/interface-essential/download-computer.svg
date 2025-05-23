@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="download-computer--action-actions-computer-desktop-device-display-download-monitor-screen"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.635 10.577a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.332l.687 1.918H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.918Z" clip-rule="evenodd"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M9.293 2.957H9.25V1c0-.172-.02-.339-.056-.5h3.35C13.347.5 14 1.152 14 1.957v7.586c0 .805-.652 1.457-1.457 1.457H1.457A1.457 1.457 0 0 1 0 9.543V1.957C0 1.152.652.5 1.457.5h3.349a2.257 2.257 0 0 0-.056.5v1.957h-.043c-1.559 0-2.34 1.885-1.237 2.988l2.293 2.293a1.75 1.75 0 0 0 2.474 0l2.293-2.293c1.103-1.103.322-2.988-1.237-2.988Z" clip-rule="evenodd"></path><g id="Vector 1267"><path fill="#3e3e3e" d="M7.354 7.354 9.646 5.06a.5.5 0 0 0-.353-.854H8V1a1 1 0 1 0-2 0v3.207H4.707a.5.5 0 0 0-.353.854l2.292 2.293a.5.5 0 0 0 .708 0Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Download-Computer--Streamline-Core">
+  <desc>
+    Download Computer Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="download-computer--action-actions-computer-desktop-device-display-download-monitor-screen">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.635 10.577a0.5 0.5 0 0 1 0.47 -0.332h1.79a0.5 0.5 0 0 1 0.47 0.332l0.687 1.918H10a0.75 0.75 0 1 1 0 1.5H4a0.75 0.75 0 0 1 0 -1.5h0.948l0.686 -1.918Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M9.293 2.957H9.25L9.25 1c0 -0.172 -0.02 -0.339 -0.056 -0.5h3.35C13.347 0.5 14 1.152 14 1.957v7.586c0 0.805 -0.652 1.457 -1.457 1.457H1.457A1.457 1.457 0 0 1 0 9.543V1.957C0 1.152 0.652 0.5 1.457 0.5h3.349a2.257 2.257 0 0 0 -0.056 0.5l0 1.957h-0.043c-1.559 0 -2.34 1.885 -1.237 2.988l2.293 2.293a1.75 1.75 0 0 0 2.474 0l2.293 -2.293c1.103 -1.103 0.322 -2.988 -1.237 -2.988Z" clip-rule="evenodd" stroke-width="1"></path>
+    <g id="Vector 1267">
+      <path fill="#2859c5" d="M7.354 7.354 9.646 5.06a0.5 0.5 0 0 0 -0.353 -0.854H8L8 1a1 1 0 1 0 -2 0l0 3.207H4.707a0.5 0.5 0 0 0 -0.353 0.854l2.292 2.293a0.5 0.5 0 0 0 0.708 0Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

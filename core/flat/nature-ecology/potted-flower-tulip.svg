@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="potted-flower-tulip--nature-flower-plant-tree-pot"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M3.347.068a.5.5 0 0 1 .5-.002l3.38 1.932 3.38-1.932a.5.5 0 0 1 .748.434v3.629a4.13 4.13 0 0 1-3.378 4.06v4.686a.75.75 0 0 1-1.5 0V8.189a4.13 4.13 0 0 1-3.379-4.06V.5a.5.5 0 0 1 .25-.432Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M1.578 10.719v-.647a.5.5 0 0 1 .5-.5H4.28a3.001 3.001 0 0 1 2.947 2.433 3 3 0 0 1 2.947-2.433h2.202a.5.5 0 0 1 .5.5v.647a3 3 0 0 1-3 3H4.578a3 3 0 0 1-3-3Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Potted-Flower-Tulip--Streamline-Core">
+  <desc>
+    Potted Flower Tulip Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="potted-flower-tulip--nature-flower-plant-tree-pot">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M3.34718 0.067545c0.15416 -0.089461 0.34428 -0.090096 0.49903 -0.0016666L7.22682 1.99765 10.6074 0.0658784c0.1548 -0.0884294 0.3449 -0.0877944 0.4991 0.0016666 0.1541 0.089461 0.249 0.25422 0.249 0.432455v3.62868c0 2.02409 -1.45656 3.70799 -3.37869 4.06072v4.6856c0 0.4142 -0.33579 0.75 -0.75 0.75 -0.41422 0 -0.75 -0.3358 -0.75 -0.75l0 -4.6856c-1.92213 -0.35275 -3.37867 -2.03664 -3.37867 -4.06072V0.5c0 -0.178235 0.09488 -0.342994 0.24904 -0.432455Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1.57812 10.7188v-0.6471c0 -0.27613 0.22386 -0.49998 0.5 -0.49998h2.20221c1.46326 0 2.68183 1.04758 2.94663 2.43368 0.26479 -1.3861 1.48337 -2.43368 2.94664 -2.43368h2.2022c0.2761 0 0.5 0.22385 0.5 0.49998v0.6471c0 1.6568 -1.3432 3 -3.00001 3H4.57812c-1.65685 0 -3 -1.3432 -3 -3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

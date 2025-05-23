@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="watch-1--device-timepiece-cirle-electronics-face-blank-watch-smart"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M4.44.44A1.5 1.5 0 0 1 5.5 0h3A1.5 1.5 0 0 1 10 1.5v1.191A5.244 5.244 0 0 1 12.25 7c0 1.784-.89 3.36-2.25 4.309V12.5A1.5 1.5 0 0 1 8.5 14h-3A1.5 1.5 0 0 1 4 12.5v-1.191A5.244 5.244 0 0 1 1.75 7c0-1.784.89-3.36 2.25-4.309V1.5c0-.398.158-.78.44-1.06ZM7 3.25a3.75 3.75 0 1 0 0 7.5 3.75 3.75 0 0 0 0-7.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Watch-1--Streamline-Core">
+  <desc>
+    Watch 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="watch-1--device-timepiece-cirle-electronics-face-blank-watch-smart">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M4.43934 0.43934C4.72064 0.158035 5.10218 0 5.5 0h3c0.39782 0 0.77936 0.158035 1.06066 0.43934C9.84196 0.720644 10 1.10217 10 1.5v1.19102C11.3601 3.63973 12.25 5.21594 12.25 7c0 1.78406 -0.8899 3.3603 -2.25 4.309V12.5c0 0.3978 -0.15804 0.7794 -0.43934 1.0607S8.89783 14 8.5 14h-3c-0.39783 0 -0.77936 -0.158 -1.06066 -0.4393C4.15804 13.2794 4 12.8978 4 12.5v-1.191C2.63989 10.3603 1.75 8.78406 1.75 7c0 -1.78406 0.88989 -3.36027 2.25 -4.30898V1.5c0 -0.39783 0.15804 -0.779356 0.43934 -1.06066ZM7 3.25C4.92893 3.25 3.25 4.92893 3.25 7c0 2.07107 1.67893 3.75 3.75 3.75 2.07107 0 3.75 -1.67893 3.75 -3.75 0 -2.07107 -1.67893 -3.75 -3.75 -3.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

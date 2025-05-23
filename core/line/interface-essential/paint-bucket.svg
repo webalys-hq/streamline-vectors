@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="paint-bucket--bucket-color-colors-design-paint-painting"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 6.9 6.1.5.7 7.7A1 1 0 0 0 .79 9L4 12.21a1 1 0 0 0 1.29.09l7.21-5.4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.304 13.067c-.387-.448-.262-1.118-.037-1.666.162-.395.366-.76.608-1.176A.416.416 0 0 1 12.25 10a.4.4 0 0 1 .367.225c.247.417.454.783.617 1.18.225.545.35 1.212-.035 1.66a1.25 1.25 0 0 1-1.895.002Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Paint-Bucket--Streamline-Core">
+  <desc>
+    Paint Bucket Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="paint-bucket--bucket-color-colors-design-paint-painting">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 6.9 6.10004 0.5 0.700043 7.7c-0.142863 0.19167 -0.212333 0.42819 -0.195823 0.66667 0.016511 0.23849 0.117911 0.46317 0.285823 0.63333l3.209997 3.21c0.16956 0.1653 0.39227 0.2651 0.6285 0.2816 0.23623 0.0164 0.47064 -0.0514 0.6615 -0.1916L12.5 6.9Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.3042 13.0671c-0.3871 -0.448 -0.262 -1.1185 -0.0371 -1.6662 0.162 -0.3946 0.3655 -0.7593 0.6082 -1.1758 0.0355 -0.0686 0.0894 -0.126 0.1556 -0.1657 0.0662 -0.0398 0.1422 -0.06033 0.2195 -0.0594 0.0762 -0.00132 0.1512 0.0192 0.2162 0.059 0.065 0.0399 0.1172 0.0975 0.1505 0.1661 0.247 0.4169 0.4536 0.7825 0.6172 1.1791 0.225 0.5453 0.3489 1.213 -0.0356 1.6604 -0.0204 0.0238 -0.0419 0.0469 -0.0642 0.0692 -0.2345 0.2345 -0.5525 0.3663 -0.8841 0.3663 -0.3317 0 -0.6497 -0.1318 -0.8842 -0.3663 -0.0215 -0.0215 -0.0422 -0.0438 -0.062 -0.0667Z" stroke-width="1"></path>
+  </g>
+</svg>

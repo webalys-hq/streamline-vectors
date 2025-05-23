@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cherries--cook-plant-cherry-plants-cooking-nutrition-vegetarian-fruit-food-cherries"><path id="Vector" fill="#37d7ff" d="M3.36 13.5a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"></path><path id="Vector_2" fill="#37d7ff" d="M10.64 12.46a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.36 13.5a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.64 12.46a2.6 2.6 0 1 0 0-5.2 2.6 2.6 0 0 0 0 5.2Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.41 7.57A10.36 10.36 0 0 1 6 .5a13.78 13.78 0 0 0-2.6 7.8"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.36.5h5.2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cherries--Streamline-Core">
+  <desc>
+    Cherries Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cherries--cook-plant-cherry-plants-cooking-nutrition-vegetarian-fruit-food-cherries">
+    <path id="Vector" fill="#d7e0ff" d="M3.36 13.5c1.43594 0 2.6 -1.1641 2.6 -2.6 0 -1.43595 -1.16406 -2.60001 -2.6 -2.60001S0.76 9.46405 0.76 10.9c0 1.4359 1.16406 2.6 2.6 2.6Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M10.64 12.46c1.4359 0 2.6 -1.1641 2.6 -2.59999 0 -1.43594 -1.1641 -2.6 -2.6 -2.6 -1.43594 0 -2.6 1.16406 -2.6 2.6 0 1.43589 1.16406 2.59999 2.6 2.59999Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.36 13.5c1.43594 0 2.6 -1.1641 2.6 -2.6 0 -1.43595 -1.16406 -2.60001 -2.6 -2.60001S0.760002 9.46405 0.760002 10.9c0 1.4359 1.164058 2.6 2.599998 2.6Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.64 12.46c1.4359 0 2.6 -1.1641 2.6 -2.59999 0 -1.43594 -1.1641 -2.6 -2.6 -2.6 -1.43594 0 -2.6 1.16406 -2.6 2.6 0 1.43589 1.16406 2.59999 2.6 2.59999Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.41 7.57C7.38999 5.75183 6.16533 3.21271 6 0.5 4.3598 2.77485 3.45275 5.496 3.4 8.3" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.36 0.5h5.2" stroke-width="1"></path>
+  </g>
+</svg>

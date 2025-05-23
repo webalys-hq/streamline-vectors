@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dressing-table--makeup-dressing-table-mirror-cabinet-product-decoration-furniture"><path id="Rectangle 66" fill="#3e3e3e" d="M1.25 5.75a5.75 5.75 0 1 1 11.5 0V7H1.25V5.75Z"></path><path id="Rectangle 65" fill="#37d7ff" d="M1.25 8.5h11.5v3.75A1.75 1.75 0 0 1 11 14H3a1.75 1.75 0 0 1-1.75-1.75V8.5Z"></path><path id="Vector 1299 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M4.25 10.25A.75.75 0 0 1 5 11v.5a.75.75 0 0 1-1.5 0V11a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Vector 1300 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M9.75 10.25a.75.75 0 0 1 .75.75v.5a.75.75 0 0 1-1.5 0V11a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path><path id="Vector 1301 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M7.75 8.5V14h-1.5V8.5h1.5Z" clip-rule="evenodd"></path><path id="Vector 1298 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M0 8.75A.75.75 0 0 1 .75 8h12.5a.75.75 0 0 1 0 1.5H.75A.75.75 0 0 1 0 8.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dressing-Table--Streamline-Core">
+  <desc>
+    Dressing Table Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dressing-table--makeup-dressing-table-mirror-cabinet-product-decoration-furniture">
+    <path id="Rectangle 66" fill="#2859c5" d="M1.25 5.75a5.75 5.75 0 1 1 11.5 0V7H1.25l0 -1.25Z" stroke-width="1"></path>
+    <path id="Rectangle 65" fill="#8fbffa" d="M1.25 8.5h11.5v3.75A1.75 1.75 0 0 1 11 14H3a1.75 1.75 0 0 1 -1.75 -1.75V8.5Z" stroke-width="1"></path>
+    <path id="Vector 1299 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M4.25 10.25A0.75 0.75 0 0 1 5 11v0.5a0.75 0.75 0 0 1 -1.5 0V11a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1300 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M9.75 10.25a0.75 0.75 0 0 1 0.75 0.75v0.5a0.75 0.75 0 0 1 -1.5 0V11a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1301 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M7.75 8.5V14h-1.5V8.5h1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1298 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M0 8.75A0.75 0.75 0 0 1 0.75 8h12.5a0.75 0.75 0 0 1 0 1.5H0.75A0.75 0.75 0 0 1 0 8.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

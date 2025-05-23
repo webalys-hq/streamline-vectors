@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="align-front-1--design-front-layer-layers-pile-stack-arrange-square"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M2.25 0A2.25 2.25 0 0 0 0 2.25v7.5a.75.75 0 0 0 1.5 0v-7.5a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 0 0-1.5h-7.5ZM4.5 3A1.5 1.5 0 0 0 3 4.5v8A1.5 1.5 0 0 0 4.5 14h8a1.5 1.5 0 0 0 1.5-1.5v-8A1.5 1.5 0 0 0 12.5 3h-8Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Align-Front-1--Streamline-Core">
+  <desc>
+    Align Front 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="align-front-1--design-front-layer-layers-pile-stack-arrange-square">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M2.25 0C1.00736 0 0 1.00736 0 2.25v7.5c0 0.4142 0.335786 0.75 0.75 0.75 0.41421 0 0.75 -0.3358 0.75 -0.75v-7.5c0 -0.41421 0.33579 -0.75 0.75 -0.75h7.5c0.4142 0 0.75 -0.33579 0.75 -0.75 0 -0.414214 -0.3358 -0.75 -0.75 -0.75h-7.5ZM4.5 3C3.67157 3 3 3.67157 3 4.5v8c0 0.8284 0.67157 1.5 1.5 1.5h8c0.8284 0 1.5 -0.6716 1.5 -1.5v-8c0 -0.82843 -0.6716 -1.5 -1.5 -1.5h-8Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

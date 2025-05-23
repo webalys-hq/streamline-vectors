@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sun-cloud--cloud-meteorology-cloudy-partly-sunny-weather"><path id="Ellipse 636" fill="#3e3e3e" d="M8.004 2.998a2.998 2.998 0 1 0 5.996 0 2.998 2.998 0 1 0-5.996 0"></path><path id="Vector" fill="#37d7ff" d="M4.5 5a4.5 4.5 0 0 0 0 9h6a2.5 2.5 0 0 0 0-5 2.45 2.45 0 0 0-1.17.3.24.24 0 0 1-.23 0 .25.25 0 0 1-.14-.19A4.45 4.45 0 0 0 4.5 5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sun-Cloud--Streamline-Core">
+  <desc>
+    Sun Cloud Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sun-cloud--cloud-meteorology-cloudy-partly-sunny-weather">
+    <path id="Ellipse 636" fill="#2859c5" d="M8.004 2.998a2.998 2.998 0 1 0 5.996 0 2.998 2.998 0 1 0 -5.996 0" stroke-width="1"></path>
+    <path id="Vector" fill="#8fbffa" d="M4.5 5a4.5 4.5 0 0 0 0 9h6a2.5 2.5 0 0 0 0 -5 2.45 2.45 0 0 0 -1.17 0.3 0.24 0.24 0 0 1 -0.23 0 0.25 0.25 0 0 1 -0.14 -0.19A4.45 4.45 0 0 0 4.5 5Z" stroke-width="1"></path>
+  </g>
+</svg>

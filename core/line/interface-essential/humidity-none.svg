@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="humidity-none--humidity-drop-weather"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5.5.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.14 12.948a4.479 4.479 0 0 1-6.619-3.98 5.454 5.454 0 0 1 .498-1.932"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.02 11.02A4.5 4.5 0 0 0 11.5 9C11.5 6.51 7 .5 7 .5S5.626 2.335 4.397 4.397"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Humidity-None--Streamline-Core">
+  <desc>
+    Humidity None Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="humidity-none--humidity-drop-weather">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5 0.5 0.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.13997 12.9484c-0.68567 0.373 -1.4569 0.5603 -2.23726 0.5434 -0.78036 -0.0169 -1.54276 -0.2375 -2.21162 -0.6398 -0.66887 -0.4023 -1.22099 -0.9725 -1.60163 -1.6539 -0.38065 -0.6814 -0.57661 -1.45052 -0.56846 -2.23102 0.04582 -0.66876 0.21453 -1.32335 0.49766 -1.93095" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.0207 11.0208C11.3329 10.3995 11.5 9.70836 11.5 9 11.5 6.51 6.99996 0.5 6.99996 0.5S5.62619 2.33475 4.39673 4.39677" stroke-width="1"></path>
+  </g>
+</svg>

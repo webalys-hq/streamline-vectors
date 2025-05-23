@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery"><path id="Vector" fill="#37d7ff" d="M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 2.5h9a1 1 0 0 1 1 1V5h.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-.5v1.5a1 1 0 0 1-1 1"></path><path id="Vector 2426" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5.5 13 13"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 3.5v7a1 1 0 0 0 1 1h7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Battery-Empty-2--Streamline-Core">
+  <desc>
+    Battery Empty 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery">
+    <path id="Vector" fill="#d7e0ff" d="M13.5 5.5c0 -0.13261 -0.0527 -0.25979 -0.1464 -0.35355C13.2598 5.05268 13.1326 5 13 5h-0.5V3.5c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C12.0196 2.60536 11.7652 2.5 11.5 2.5h-10c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 2.98043 0.5 3.23478 0.5 3.5v7c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h10c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071V9h0.5c0.1326 0 0.2598 -0.05268 0.3536 -0.14645 0.0937 -0.09376 0.1464 -0.22094 0.1464 -0.35355v-3Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 2.5h9c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711V5h0.5c0.1326 0 0.2598 0.05268 0.3536 0.14645 0.0937 0.09376 0.1464 0.22094 0.1464 0.35355v3c0 0.13261 -0.0527 0.25979 -0.1464 0.35355C13.2598 8.94732 13.1326 9 13 9h-0.5v1.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929" stroke-width="1"></path>
+    <path id="Vector 2426" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m0.5 0.5 13 13" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 3.5v7c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h7" stroke-width="1"></path>
+  </g>
+</svg>

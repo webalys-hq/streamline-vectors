@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="folder-check--remove-check-folder"><path id="Union" fill="#37d7ff" d="M6.127.805A1.5 1.5 0 0 0 5.183.5H1.5A1.5 1.5 0 0 0 0 2v10a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 14 12V4a1.5 1.5 0 0 0-1.5-1.5H6.89l-.215-.86a1.502 1.502 0 0 0-.548-.835Z"></path><path id="Vector 1454 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M9.45 5.4a.75.75 0 0 1 .15 1.05l-3 4a.75.75 0 0 1-1.016.174l-1.5-1a.75.75 0 0 1 .832-1.248l.91.606L8.4 5.55a.75.75 0 0 1 1.05-.15Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Folder-Check--Streamline-Core">
+  <desc>
+    Folder Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="folder-check--remove-check-folder">
+    <path id="Union" fill="#8fbffa" d="M6.127 0.805A1.5 1.5 0 0 0 5.183 0.5H1.5A1.5 1.5 0 0 0 0 2v10a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 14 12V4a1.5 1.5 0 0 0 -1.5 -1.5H6.89l-0.215 -0.86a1.502 1.502 0 0 0 -0.548 -0.835Z" stroke-width="1"></path>
+    <path id="Vector 1454 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M9.45 5.4a0.75 0.75 0 0 1 0.15 1.05l-3 4a0.75 0.75 0 0 1 -1.016 0.174l-1.5 -1a0.75 0.75 0 0 1 0.832 -1.248l0.91 0.606L8.4 5.55a0.75 0.75 0 0 1 1.05 -0.15Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

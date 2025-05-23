@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chat-bubble-typing-oval--messages-message-bubble-typing-chat"><g id="Group 4482"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.002 7.25a.25.25 0 0 1 0-.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.002 7.25a.25.25 0 0 0 0-.5"></path></g><g id="Group 4493"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.252 7.25a.25.25 0 0 1 0-.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.252 7.25a.25.25 0 0 0 0-.5"></path></g><g id="Group 4494"><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.752 7.25a.25.25 0 0 1 0-.5"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.752 7.25a.25.25 0 1 0 0-.5"></path></g><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.998.56a6.44 6.44 0 0 0-5.36 10.007L.558 13.44l3.617-.654A6.44 6.44 0 1 0 6.998.56v0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Typing-Oval--Streamline-Core">
+  <desc>
+    Chat Bubble Typing Oval Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-typing-oval--messages-message-bubble-typing-chat">
+    <g id="Group 4482">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00195 7.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00195 7.25c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 4493">
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.25195 7.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.25195 7.25c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 4494">
+      <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75195 7.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75195 7.25c0.13807 0 0.25005 -0.11193 0.25005 -0.25s-0.11198 -0.25 -0.25005 -0.25" stroke-width="1"></path>
+    </g>
+    <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.99815 0.560548c-1.16482 0.000363 -2.30774 0.316667 -3.30702 0.915222 -0.99927 0.59856 -1.81748 1.45695 -2.36748 2.48375C0.773648 4.98632 0.512458 6.14308 0.567896 7.30658 0.623333 8.47009 0.993323 9.59677 1.63846 10.5666L0.558594 13.4397l3.616056 -0.6539c0.87074 0.4255 1.82628 0.649 2.79541 0.6538 0.96913 0.0048 1.92684 -0.2092 2.80175 -0.6261 0.87489 -0.4168 1.64449 -1.0258 2.25119 -1.7815 0.6068 -0.7556 1.0353 -1.6385 1.2533 -2.58279 0.2181 -0.94428 0.2203 -1.92561 0.0063 -2.87083 -0.214 -0.94523 -0.6385 -1.82997 -1.242 -2.58827 -0.6035 -0.75831 -1.3704 -1.37061 -2.24346 -1.79128C8.92406 0.778157 7.96729 0.559976 6.99815 0.560548v0Z" stroke-width="1"></path>
+  </g>
+</svg>

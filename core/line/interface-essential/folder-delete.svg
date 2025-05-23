@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="folder-delete--remove-minus-folder-subtract-delete"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 12.25V1.75a1 1 0 0 1 1-1h3.69a1 1 0 0 1 1 .76l.31 1.24h6a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8h5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Folder-Delete--Streamline-Core">
+  <desc>
+    Folder Delete Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="folder-delete--remove-minus-folder-subtract-delete">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.2499V1.74994c0 -0.26522 0.105357 -0.51957 0.292893 -0.70711C0.98043 0.855293 1.23478 0.749936 1.5 0.749936h3.69c0.22843 -0.006655 0.45226 0.065133 0.63421 0.203414 0.18194 0.13828 0.31104 0.33471 0.36579 0.55659l0.31 1.24h6c0.2652 0 0.5196 0.10535 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v8.49996c0 0.2653 -0.1054 0.5196 -0.2929 0.7071 -0.1875 0.1876 -0.4419 0.2929 -0.7071 0.2929h-11c-0.26522 0 -0.51957 -0.1053 -0.707107 -0.2929C0.605357 12.7695 0.5 12.5152 0.5 12.2499Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 8h5" stroke-width="1"></path>
+  </g>
+</svg>

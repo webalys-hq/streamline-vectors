@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tablet-capsule--health-medical-hospital-medicine-capsule-tablet"><path id="Vector" fill="#37d7ff" d="M9.45.505A4.045 4.045 0 0 0 6.59 1.69L4.392 3.888l5.72 5.72L12.31 7.41A4.045 4.045 0 0 0 9.45.505Z"></path><path id="Subtract" fill="#ffffff" fill-rule="evenodd" d="M4.392 3.888 1.69 6.59a4.045 4.045 0 1 0 5.72 5.72l2.702-2.702-5.72-5.72Z" clip-rule="evenodd"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.59 1.69a4.045 4.045 0 0 1 5.72 5.72l-4.9 4.9a4.045 4.045 0 1 1-5.72-5.72l4.9-4.9Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.39 3.89 5.72 5.72"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tablet-Capsule--Streamline-Core">
+  <desc>
+    Tablet Capsule Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tablet-capsule--health-medical-hospital-medicine-capsule-tablet">
+    <path id="Vector" fill="#d7e0ff" d="M9.45002 0.505371c-1.07271 0 -2.10148 0.426132 -2.86 1.184649L4.39209 3.88795l5.72001 5.72L12.31 7.41002c0.7585 -0.75852 1.1847 -1.78729 1.1847 -2.86 0 -1.07271 -0.4262 -2.10148 -1.1847 -2.86C11.5515 0.931503 10.5227 0.505371 9.45002 0.505371Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#ffffff" fill-rule="evenodd" d="M4.39207 3.88794 1.68999 6.59001C0.931472 7.34853 0.505341 8.3773 0.505341 9.45001c0 1.07269 0.426131 2.10149 1.184649 2.85999 0.75852 0.7585 1.78729 1.1847 2.86 1.1847 1.07271 0 2.10148 -0.4262 2.86 -1.1847l2.70211 -2.70206 -5.72003 -5.72Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.58999 1.69002C7.34851 0.931503 8.37728 0.505371 9.44999 0.505371c1.07271 0 2.10151 0.426132 2.86001 1.184649 0.7585 0.75852 1.1846 1.78729 1.1846 2.86 0 1.07271 -0.4261 2.10148 -1.1846 2.86L7.40999 12.31c-0.75852 0.7585 -1.78729 1.1847 -2.86 1.1847 -1.07271 0 -2.10148 -0.4262 -2.86 -1.1847C0.931472 11.5515 0.505341 10.5227 0.505341 9.45002c0 -1.07271 0.426131 -2.10148 1.184649 -2.86l4.9 -4.9Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m4.39001 3.89001 5.71999 5.72" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hearts-symbol--entertainment-gaming-card-hearts-symbol"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.788 1.314c.988.02 2.085.49 3.214 1.56 1.127-1.067 2.223-1.536 3.21-1.555 1.04-.02 1.918.46 2.536 1.18 1.218 1.42 1.47 3.85-.058 5.377l-.001.001-4.247 4.208c-.81.802-2.07.802-2.88 0L1.316 7.877C-.217 6.343.032 3.913 1.25 2.491c.617-.72 1.495-1.2 2.537-1.178Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hearts-Symbol--Streamline-Core">
+  <desc>
+    Hearts Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hearts-symbol--entertainment-gaming-card-hearts-symbol">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M3.788 1.314c0.988 0.02 2.085 0.49 3.214 1.56 1.127 -1.067 2.223 -1.536 3.21 -1.555 1.04 -0.02 1.918 0.46 2.536 1.18 1.218 1.42 1.47 3.85 -0.058 5.377l-0.001 0.001 -4.247 4.208c-0.81 0.802 -2.07 0.802 -2.88 0L1.316 7.877C-0.217 6.343 0.032 3.913 1.25 2.491c0.617 -0.72 1.495 -1.2 2.537 -1.178Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

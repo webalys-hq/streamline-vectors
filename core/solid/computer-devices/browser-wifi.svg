@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-wifi--wireless-wifi-internet-server-network-browser-connection"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.546 3.361v8.934c0 .113.092.205.205.205h10.453a.25.25 0 0 0 .25-.25V3.36H1.546ZM1.751.092C.809.092.046.855.046 1.797v10.498C.046 13.238.81 14 1.751 14h10.453a1.75 1.75 0 0 0 1.75-1.75V1.797c0-.942-.763-1.705-1.705-1.705H1.751Zm2.688 7.02a3.63 3.63 0 0 1 5.122 0 .75.75 0 0 0 1.06-1.062 5.13 5.13 0 0 0-7.243 0A.75.75 0 0 0 4.44 7.111ZM5.906 8.73c.582-.581 1.606-.581 2.188 0a.75.75 0 1 0 1.06-1.06c-1.167-1.168-3.141-1.168-4.309 0a.75.75 0 0 0 1.061 1.06Zm1.844 1.342a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Wifi--Streamline-Core">
+  <desc>
+    Browser Wifi Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-wifi--wireless-wifi-internet-server-network-browser-connection">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.546 3.361v8.934c0 0.113 0.092 0.205 0.205 0.205h10.453a0.25 0.25 0 0 0 0.25 -0.25V3.36H1.546ZM1.751 0.092C0.809 0.092 0.046 0.855 0.046 1.797v10.498C0.046 13.238 0.81 14 1.751 14h10.453a1.75 1.75 0 0 0 1.75 -1.75V1.797c0 -0.942 -0.763 -1.705 -1.705 -1.705H1.751Zm2.688 7.02a3.63 3.63 0 0 1 5.122 0 0.75 0.75 0 0 0 1.06 -1.062 5.13 5.13 0 0 0 -7.243 0A0.75 0.75 0 0 0 4.44 7.111ZM5.906 8.73c0.582 -0.581 1.606 -0.581 2.188 0a0.75 0.75 0 1 0 1.06 -1.06c-1.167 -1.168 -3.141 -1.168 -4.309 0a0.75 0.75 0 0 0 1.061 1.06Zm1.844 1.342a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

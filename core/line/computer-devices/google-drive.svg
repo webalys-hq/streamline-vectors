@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="google-drive"><path id="Vector 600" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.997 12.536.742 8.93 4.8 1.715h4.51l4.057 7.214-2.254 3.607H2.997Z"></path><path id="Vector 601" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.798 1.715 4.51 7.214"></path><path id="Vector 602" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.368 8.932H5.023"></path><path id="Vector 603" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.997 12.536 4.058-7.214"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Google-Drive--Streamline-Core">
+  <desc>
+    Google Drive Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="google-drive">
+    <path id="Vector 600" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.99665 12.5363 0.742188 8.92913 4.80022 1.71484h4.50893l4.05805 7.21429 -2.2545 3.60717H2.99665Z" stroke-width="1"></path>
+    <path id="Vector 601" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.79813 1.71484 4.50892 7.21429" stroke-width="1"></path>
+    <path id="Vector 602" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.3678 8.93188h-8.345" stroke-width="1"></path>
+    <path id="Vector 603" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m2.9968 12.5358 4.05803 -7.21427" stroke-width="1"></path>
+  </g>
+</svg>

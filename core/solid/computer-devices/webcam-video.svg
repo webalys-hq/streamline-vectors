@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="webcam-video--work-video-meeting-camera-company-conference-office"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12H9a1.5 1.5 0 0 0 1.5-1.5v-.742l2.106.903A1 1 0 0 0 14 9.74V4.259a1 1 0 0 0-1.394-.919l-2.106.903V3.5A1.5 1.5 0 0 0 9 2H1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Webcam-Video--Streamline-Core">
+  <desc>
+    Webcam Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="webcam-video--work-video-meeting-camera-company-conference-office">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.5 2C0.671573 2 0 2.67157 0 3.5v7c0 0.8284 0.671573 1.5 1.5 1.5H9c0.82843 0 1.5 -0.6716 1.5 -1.5v-0.74173l2.1061 0.90263c0.6598 0.2828 1.3939 -0.2013 1.3939 -0.91917V4.25827c0 -0.71792 -0.7341 -1.20195 -1.3939 -0.91915L10.5 4.24173V3.5C10.5 2.67157 9.82843 2 9 2H1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

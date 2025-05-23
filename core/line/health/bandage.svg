@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bandage--health-medical-hospital-medicine-capsule-bandage-vaccine"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3.13 7.87 4.74-4.74"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.13 10.87 4.74-4.74"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.79 12.52a3.345 3.345 0 0 0 4.73-4.73L6.21 1.48a3.345 3.345 0 0 0-4.73 4.73l6.31 6.31Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bandage--Streamline-Core">
+  <desc>
+    Bandage Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bandage--health-medical-hospital-medicine-capsule-bandage-vaccine">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.13 7.86988 4.74 -4.74" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.13 10.8699 4.74 -4.74002" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.78998 12.5201c0.62724 0.6272 1.47795 0.9796 2.36502 0.9796 0.887 0 1.7377 -0.3524 2.365 -0.9796 0.6272 -0.6272 0.9796 -1.478 0.9796 -2.365 0 -0.88704 -0.3524 -1.73776 -0.9796 -2.365l-6.31002 -6.31C5.58274 0.852866 4.73203 0.500488 3.84498 0.500488c-0.88705 0 -1.73776 0.352378 -2.365 0.979612 -0.627236 0.62724 -0.979614 1.47796 -0.979614 2.365 0 0.88705 0.352378 1.73777 0.979614 2.365l6.31 6.31Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="front-camera"><path id="Union" fill="#37d7ff" d="M5 1a.5.5 0 0 0-.4.2L3.25 3H1.5A1.5 1.5 0 0 0 0 4.5v7A1.5 1.5 0 0 0 1.5 13h11a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 12.5 3h-1.75L9.4 1.2A.5.5 0 0 0 9 1H5Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.5 6.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM4.117 8.412a.625.625 0 0 1 .884.007c.358.365 1.039.742 1.997.742.96 0 1.64-.377 1.998-.742a.625.625 0 1 1 .891.877c-.594.604-1.596 1.115-2.889 1.115-1.292 0-2.294-.51-2.888-1.115a.625.625 0 0 1 .007-.884ZM9.25 7a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Front-Camera--Streamline-Core">
+  <desc>
+    Front Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="front-camera">
+    <path id="Union" fill="#8fbffa" d="M5 1a0.5 0.5 0 0 0 -0.4 0.2L3.25 3H1.5A1.5 1.5 0 0 0 0 4.5v7A1.5 1.5 0 0 0 1.5 13h11a1.5 1.5 0 0 0 1.5 -1.5v-7A1.5 1.5 0 0 0 12.5 3h-1.75L9.4 1.2A0.5 0.5 0 0 0 9 1H5Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.5 6.25a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0ZM4.117 8.412a0.625 0.625 0 0 1 0.884 0.007c0.358 0.365 1.039 0.742 1.997 0.742 0.96 0 1.64 -0.377 1.998 -0.742a0.625 0.625 0 1 1 0.891 0.877c-0.594 0.604 -1.596 1.115 -2.889 1.115 -1.292 0 -2.294 -0.51 -2.888 -1.115a0.625 0.625 0 0 1 0.007 -0.884ZM9.25 7a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

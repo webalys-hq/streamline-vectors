@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ear-hearing--health-medical-hearing-ear"><path id="Vector 1115" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.54 3.19C.854 2.292 2.09.5 4.517.5c3.035 0 4.777 2.58 4.245 4.995-.46 2.094-1.767 2.824-2.343 3.323-.842.73-.842 1.325-1.147 2.288-.177.557-.79 1.351-1.646 1.45-.62.07-1.365-.225-2.164-1.24"></path><path id="Ellipse 343" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 9.786A3.714 3.714 0 0 1 9.786 13.5"></path><path id="Ellipse 345" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.783 9.716a1.997 1.997 0 0 1-1.997 1.997"></path><path id="Ellipse 344" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.122 9.16a.929.929 0 0 1-.928.928"></path><path id="Vector 1116" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.346 4.496c.182-.45.83-1.326 1.97-1.24 1.14.085 2.118 1.24 1.715 2.31-.404 1.072-.937.74-1.422 1.46-.485.721-.304 2.167-1.383 2.383-.672.134-1.026-.252-1.026-.252"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ear-Hearing--Streamline-Core">
+  <desc>
+    Ear Hearing Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ear-hearing--health-medical-hearing-ear">
+    <path id="Vector 1115" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.540222 3.18944C0.853992 2.29296 2.08858 0.5 4.51675 0.5c3.03523 0 4.77722 2.57969 4.24548 4.99468 -0.46105 2.09392 -1.76735 2.82391 -2.34366 3.32338 -0.84188 0.72963 -0.84164 1.32494 -1.147 2.28794 -0.17661 0.5571 -0.79032 1.3514 -1.6452 1.4493 -0.61955 0.0709 -1.36576 -0.2239 -2.16406 -1.2399" stroke-width="1"></path>
+    <path id="Ellipse 343" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 9.78564c0 2.05136 -1.663 3.71426 -3.71429 3.71426" stroke-width="1"></path>
+    <path id="Ellipse 345" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.7832 9.71558c0 1.10312 -0.8943 1.99742 -1.99749 1.99742" stroke-width="1"></path>
+    <path id="Ellipse 344" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.1222 9.15991c0 0.51284 -0.41573 0.92859 -0.92857 0.92859" stroke-width="1"></path>
+    <path id="Vector 1116" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.34618 4.49565c0.18179 -0.44891 0.83025 -1.32536 1.96982 -1.23982 1.13958 0.08554 2.11805 1.23982 1.71463 2.31083 -0.40341 1.071 -0.93658 0.73945 -1.42156 1.45998 -0.48498 0.72053 -0.30383 2.16621 -1.38315 2.38208 -0.67236 0.13447 -1.02548 -0.25137 -1.02548 -0.25137" stroke-width="1"></path>
+  </g>
+</svg>

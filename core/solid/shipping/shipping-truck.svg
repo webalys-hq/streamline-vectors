@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shipping-truck--truck-shipping-delivery-transfer"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M10.247 5.226H11.5a2.5 2.5 0 0 1 2.5 2.5v4a.5.5 0 0 1-.5.5h-1.444a1.81 1.81 0 0 1-3.62 0H5a1.81 1.81 0 0 1-3.62 0H.5a.5.5 0 0 1-.5-.5v-7a1.5 1.5 0 0 1 1.5-1.5h6a1.5 1.5 0 0 1 1.497 1.406v3.783a.625.625 0 0 0 1.25 0v-3.19Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shipping-Truck--Streamline-Core">
+  <desc>
+    Shipping Truck Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shipping-truck--truck-shipping-delivery-transfer">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M10.2471 5.2258H11.5c0.663 0 1.2989 0.26339 1.7678 0.73223 0.4688 0.46884 0.7322 1.10473 0.7322 1.76777v4c0 0.2761 -0.2239 0.5 -0.5 0.5h-1.4437C12.0372 13.2089 11.2342 14 10.2466 14c-0.98774 0 -1.79066 -0.7911 -1.80978 -1.7742H4.99965C4.98053 13.2089 4.17761 14 3.18991 14c-0.98769 0 -1.79061 -0.7911 -1.80973 -1.7742H0.499999c-0.276142 0 -0.4999999537 -0.2239 -0.4999999537 -0.5v-7c0 -0.39783 0.1580359537 -0.77936 0.4393409537 -1.06066 0.281304 -0.28131 0.66283 -0.43934 1.06066 -0.43934h6c0.39782 0 0.77936 0.15803 1.06066 0.43934 0.25913 0.25913 0.41366 0.6033 0.43641 0.96691v3.78256c0 0.34517 0.27982 0.625 0.625 0.625s0.62503 -0.27983 0.62503 -0.625l0 -3.18881Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

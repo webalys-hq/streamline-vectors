@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.679 3h8.642M7 8.5 1.659 1.702a.743.743 0 0 1-.159-.459v0c0-.41.333-.743.743-.743h9.514c.41 0 .743.333.743.743v0a.743.743 0 0 1-.159.46L7 8.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5v5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cocktail--Streamline-Core">
+  <desc>
+    Cocktail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.67857 3h8.64283M7 8.5 1.65877 1.70207C1.55591 1.57116 1.5 1.4095 1.5 1.24302v0C1.5 0.832661 1.83266 0.5 2.24302 0.5H11.757c0.4103 0 0.743 0.33266 0.743 0.74302v0c0 0.16648 -0.0559 0.32814 -0.1588 0.45905L7 8.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 8.5 0 5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 13.5h6" stroke-width="1"></path>
+  </g>
+</svg>

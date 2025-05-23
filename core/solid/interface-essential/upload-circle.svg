@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="upload-circle--arrow-circle-download-internet-network-server-up-upload"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Zm3.146-8.31L7.353 2.895a.5.5 0 0 0-.707 0L3.854 5.69a.5.5 0 0 0 .353.854H6v3.707a1 1 0 0 0 2 0V6.543h1.793a.5.5 0 0 0 .353-.854Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Upload-Circle--Streamline-Core">
+  <desc>
+    Upload Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="upload-circle--arrow-circle-download-internet-network-server-up-upload">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Zm3.146 -8.31L7.353 2.895a0.5 0.5 0 0 0 -0.707 0L3.854 5.69a0.5 0.5 0 0 0 0.353 0.854H6l0 3.707a1 1 0 0 0 2 0l0 -3.707h1.793a0.5 0.5 0 0 0 0.353 -0.854Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

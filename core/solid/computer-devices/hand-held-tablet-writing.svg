@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hand-held-tablet-writing--tablet-kindle-device-electronics-ipad-writing-digital-paper-notepad"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.718 1.594a.197.197 0 0 0-.198.197v8.521h8.919V7.947a.75.75 0 1 1 1.5 0v4.262c0 .937-.76 1.697-1.697 1.697H1.716c-.937 0-1.697-.76-1.697-1.697V1.791A1.699 1.699 0 0 1 1.718.094h6.156a.75.75 0 0 1 0 1.5H1.718Zm1.894 1.413a.625.625 0 1 0 0 1.25h1.894a.625.625 0 1 0 0-1.25H3.612ZM2.987 6.5c0-.345.28-.625.625-.625h.947a.625.625 0 1 1 0 1.25h-.947a.625.625 0 0 1-.625-.625Zm6.332 1.034a.5.5 0 0 0 .266-.14l4.099-4.118a1 1 0 0 0 0-1.42l-1.06-1.06a1 1 0 0 0-1.42 0L7.088 4.892a.5.5 0 0 0-.14.273l-.36 2.182a.5.5 0 0 0 .583.573l2.148-.386Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Held-Tablet-Writing--Streamline-Core">
+  <desc>
+    Hand Held Tablet Writing Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hand-held-tablet-writing--tablet-kindle-device-electronics-ipad-writing-digital-paper-notepad">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.718 1.594a0.197 0.197 0 0 0 -0.198 0.197v8.521h8.919V7.947a0.75 0.75 0 1 1 1.5 0v4.262c0 0.937 -0.76 1.697 -1.697 1.697H1.716c-0.937 0 -1.697 -0.76 -1.697 -1.697V1.791A1.699 1.699 0 0 1 1.718 0.094h6.156a0.75 0.75 0 0 1 0 1.5H1.718Zm1.894 1.413a0.625 0.625 0 1 0 0 1.25h1.894a0.625 0.625 0 1 0 0 -1.25H3.612ZM2.987 6.5c0 -0.345 0.28 -0.625 0.625 -0.625h0.947a0.625 0.625 0 1 1 0 1.25h-0.947a0.625 0.625 0 0 1 -0.625 -0.625Zm6.332 1.034a0.5 0.5 0 0 0 0.266 -0.14l4.099 -4.118a1 1 0 0 0 0 -1.42l-1.06 -1.06a1 1 0 0 0 -1.42 0L7.088 4.892a0.5 0.5 0 0 0 -0.14 0.273l-0.36 2.182a0.5 0.5 0 0 0 0.583 0.573l2.148 -0.386Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

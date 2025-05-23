@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="orientation-portrait--photos-photo-orientation-portrait-picture-photography-camera-pictures-image"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 12.5v-11a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.547 5.488a1.228 1.228 0 1 0 0-2.457 1.228 1.228 0 0 0 0 2.457Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 7.807c.347-.059.7-.088 1.053-.087 1.224-.025 2.419.338 3.37 1.025 1.542 1.111 2.124 3.038 2.124 4.755"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 9.37a7.304 7.304 0 0 0-2.102-.306 7.351 7.351 0 0 0-2.632.479"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Orientation-Portrait--Streamline-Core">
+  <desc>
+    Orientation Portrait Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="orientation-portrait--photos-photo-orientation-portrait-picture-photography-camera-pictures-image">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 12.5 0 -11c0 -0.552285 -0.4477 -1 -1 -1l-8 0c-0.55229 0 -1 0.447715 -1 1l0 11c0 0.5523 0.44771 1 1 1l8 0c0.5523 0 1 -0.4477 1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.54685 5.48798c0.6784 0 1.22836 -0.54996 1.22836 -1.22836 0 -0.67841 -0.54996 -1.22837 -1.22836 -1.22837 -0.67841 0 -1.22837 0.54996 -1.22837 1.22837 0 0.6784 0.54996 1.22836 1.22837 1.22836Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 7.80733c0.34702 -0.05898 0.69959 -0.08824 1.05288 -0.0874 1.22453 -0.02463 2.41905 0.3385 3.37045 1.02461C7.96455 9.85599 8.54688 11.7825 8.54688 13.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 9.37088c-0.6773 -0.20343 -1.3874 -0.30702 -2.1023 -0.30666 -0.90488 -0.00175 -1.8006 0.16115 -2.63208 0.47868" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="flash-3--flash-power-connect-charge-electricity-lightning"><path id="Vector 2133" fill="#3e3e3e" d="M3.08 5.28 4.286.875a1 1 0 0 1 .965-.736h1.94A1 1 0 0 1 8.156 1.4L7.49 3.847h1.826a1 1 0 0 1 .943 1.332L8.77 9.41h1.359a.5.5 0 0 1 .322.883l-3.845 3.233a.5.5 0 0 1-.717-.077L3.39 10.217a.5.5 0 0 1 .395-.806h1.511l.843-2.866H4.045A1 1 0 0 1 3.08 5.28Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flash-3--Streamline-Core">
+  <desc>
+    Flash 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flash-3--flash-power-connect-charge-electricity-lightning">
+    <path id="Vector 2133" fill="#000000" d="M3.08031 5.2808 4.2864 0.873933c0.11895 -0.434637 0.5139 -0.736024 0.96452 -0.736024h1.94039c0.65937 0 1.13825 0.626978 0.96476 1.263121l-0.66712 2.44612H9.3146c0.6894 0 1.172 0.68122 0.9434 1.33162L8.77032 9.41101h1.35838c0.4665 0 0.6788 0.58238 0.3218 0.88269l-3.8441 3.233c-0.21755 0.1829 -0.54366 0.148 -0.71747 -0.077l-2.49823 -3.233c-0.25396 -0.32863 -0.0197 -0.80569 0.39564 -0.80569h1.51078l0.84301 -2.86623h-2.0953c-0.65974 0 -1.13868 -0.62764 -0.96452 -1.26398Z" stroke-width="1"></path>
+  </g>
+</svg>

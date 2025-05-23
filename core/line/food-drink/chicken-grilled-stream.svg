@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chicken-grilled-stream"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.243 2.246v1.562"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.806 2.246v1.562"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.525 1.083v1.562"></path><path id="ellipse 1455" stroke="#3e3e3e" stroke-linecap="round" d="M11.509 4.602a.955.955 0 1 0 1.91 0 .955.955 0 1 0-1.91 0"></path><path id="ellipse 1456" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.841 8.677.212.093c1.48.7 1.889 1.606 1.889 2.85v.298a1 1 0 0 1-1 1H1.64c-.327 0-.634-.161-.76-.463-.277-.669-.599-2.013.238-3.685 1.21-2.416 4.187-2.947 6.094-1.947l.09.046"></path><path id="ellipse 1453" stroke="#3e3e3e" stroke-linecap="round" d="M10.158 10.006c.928-1.018.976-2.485.108-3.275s-2.323-.605-3.25.413c-.843.925-.96 2.219-.325 3.04.064.084.137.163.217.235"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.806 5.296 10.32 6.781"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chicken-Grilled-Stream--Streamline-Core">
+  <desc>
+    Chicken Grilled Stream Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chicken-grilled-stream">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.24341 2.24561v1.5625" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.80591 2.24561v1.5625" stroke-width="1"></path>
+    <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.52466 1.08252v1.5625" stroke-width="1"></path>
+    <path id="ellipse 1455" stroke="#000000" stroke-linecap="round" d="M11.509 4.602a0.955 0.955 0 1 0 1.91 0 0.955 0.955 0 1 0 -1.91 0" stroke-width="1"></path>
+    <path id="ellipse 1456" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.8414 8.67687 0.212 0.09281c1.479 0.70108 1.8885 1.60592 1.8885 2.85102v0.2968c0 0.5523 -0.4477 1 -1 1H1.63988c-0.32661 0 -0.63437 -0.1605 -0.759459 -0.4622 -0.27753 -0.6693 -0.599197 -2.0136 0.237949 -3.68555 1.2097 -2.41605 4.18705 -2.94667 6.0933 -1.94626l0.09081 0.04578" stroke-width="1"></path>
+    <path id="ellipse 1453" stroke="#000000" stroke-linecap="round" d="M10.1584 10.0061c0.9274 -1.01846 0.9755 -2.48479 0.1075 -3.27509 -0.86794 -0.7903 -2.32334 -0.6053 -3.2507 0.4132 -0.84189 0.92463 -0.95916 2.21832 -0.32423 3.04029 0.06447 0.0834 0.13669 0.162 0.21669 0.2348" stroke-width="1"></path>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.8059 5.29639 -1.4847 1.48474" stroke-width="1"></path>
+  </g>
+</svg>

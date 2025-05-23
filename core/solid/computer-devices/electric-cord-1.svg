@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="electric-cord-1--electricity-electronic-appliances-device-cord-cable-plug-connection"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.25.813a.75.75 0 0 0-1.5 0V3.53H3a1 1 0 0 0-1 1v3a3 3 0 0 0 3 3h1.25v2.688a.75.75 0 0 0 1.5 0V10.53H9a3 3 0 0 0 3-3v-3a1 1 0 0 0-1-1h-.75V.812a.75.75 0 0 0-1.5 0v2.72h-3.5V.811Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Electric-Cord-1--Streamline-Core">
+  <desc>
+    Electric Cord 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="electric-cord-1--electricity-electronic-appliances-device-cord-cable-plug-connection">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5.25 0.8125c0 -0.414214 -0.33579 -0.75 -0.75 -0.75s-0.75 0.335786 -0.75 0.75v2.71875H3c-0.55228 0 -1 0.44772 -1 1v3C2 9.1881 3.34315 10.5312 5 10.5312h1.25v2.6876c0 0.4142 0.33579 0.75 0.75 0.75s0.75 -0.3358 0.75 -0.75v-2.6876H9c1.6569 0 3 -1.3431 3 -2.99995v-3c0 -0.55228 -0.4477 -1 -1 -1h-0.75V0.8125c0 -0.414214 -0.33579 -0.75 -0.75 -0.75s-0.75 0.335786 -0.75 0.75v2.71875h-3.5V0.8125Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

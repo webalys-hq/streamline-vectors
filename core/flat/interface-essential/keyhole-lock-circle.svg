@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="keyhole-lock-circle--circle-frame-key-keyhole-lock-locked-secure-security"><path id="Ellipse 368" fill="#37d7ff" d="M0 7a7 7 0 1 0 14 0A7 7 0 1 0 0 7"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M8 7.732a2 2 0 1 0-2 0V9.5a1 1 0 1 0 2 0V7.732Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Keyhole-Lock-Circle--Streamline-Core">
+  <desc>
+    Keyhole Lock Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="keyhole-lock-circle--circle-frame-key-keyhole-lock-locked-secure-security">
+    <path id="Ellipse 368" fill="#8fbffa" d="M0 7a7 7 0 1 0 14 0A7 7 0 1 0 0 7" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M8 7.732a2 2 0 1 0 -2 0V9.5a1 1 0 1 0 2 0V7.732Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

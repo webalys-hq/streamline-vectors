@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="call-center-support-service"><path id="vector" fill="#37d7ff" d="M7.506 13.065a2.7 2.7 0 0 0 3.37-.36l.38-.38a.91.91 0 0 0 0-1.28l-1.6-1.59a.9.9 0 0 0-1.27 0 .91.91 0 0 1-1.28 0l-2.55-2.55a.91.91 0 0 1 0-1.28.9.9 0 0 0 0-1.27l-1.54-1.6a.91.91 0 0 0-1.28 0l-.38.38a2.7 2.7 0 0 0-.41 3.37 24.23 24.23 0 0 0 6.56 6.56Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.506 13.065a2.7 2.7 0 0 0 3.37-.36l.38-.38a.91.91 0 0 0 0-1.28l-1.6-1.59a.9.9 0 0 0-1.27 0v0a.91.91 0 0 1-1.28 0l-2.55-2.55a.91.91 0 0 1 0-1.28v0a.9.9 0 0 0 0-1.27l-1.54-1.6a.91.91 0 0 0-1.28 0l-.38.38a2.7 2.7 0 0 0-.41 3.37 24.23 24.23 0 0 0 6.56 6.56v0Z"></path><g id="group 15"><path id="vector 7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.465 3.172h-2.748a.215.215 0 0 1-.215-.216v0a.22.22 0 0 1 .053-.142l1.96-2.24a.204.204 0 0 1 .154-.07v0c.112 0 .203.092.203.204v3.353"></path></g><path id="vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.85 4.06H6.48v-.505a.89.89 0 0 1 .533-.814l1.32-.577a.866.866 0 0 0-.348-1.66h-.616a.89.89 0 0 0-.838.593"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Call-Center-Support-Service--Streamline-Core">
+  <desc>
+    Call Center Support Service Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="call-center-support-service">
+    <path id="vector" fill="#d7e0ff" d="M7.506 13.065a2.7 2.7 0 0 0 3.37 -0.36l0.38 -0.38a0.91 0.91 0 0 0 0 -1.28l-1.6 -1.59a0.9 0.9 0 0 0 -1.27 0 0.91 0.91 0 0 1 -1.28 0l-2.55 -2.55a0.91 0.91 0 0 1 0 -1.28 0.9 0.9 0 0 0 0 -1.27l-1.54 -1.6a0.91 0.91 0 0 0 -1.28 0l-0.38 0.38a2.7 2.7 0 0 0 -0.41 3.37 24.23 24.23 0 0 0 6.56 6.56Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.506 13.065a2.7 2.7 0 0 0 3.37 -0.36l0.38 -0.38a0.91 0.91 0 0 0 0 -1.28l-1.6 -1.59a0.9 0.9 0 0 0 -1.27 0v0a0.91 0.91 0 0 1 -1.28 0l-2.55 -2.55a0.91 0.91 0 0 1 0 -1.28v0a0.9 0.9 0 0 0 0 -1.27l-1.54 -1.6a0.91 0.91 0 0 0 -1.28 0l-0.38 0.38a2.7 2.7 0 0 0 -0.41 3.37 24.23 24.23 0 0 0 6.56 6.56v0Z" stroke-width="1"></path>
+    <g id="group 15">
+      <path id="vector 7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.465 3.172h-2.748a0.215 0.215 0 0 1 -0.215 -0.216v0a0.22 0.22 0 0 1 0.053 -0.142l1.96 -2.24a0.204 0.204 0 0 1 0.154 -0.07v0c0.112 0 0.203 0.092 0.203 0.204v3.353" stroke-width="1"></path>
+    </g>
+    <path id="vector 3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.85 4.06H6.48v-0.505a0.89 0.89 0 0 1 0.533 -0.814l1.32 -0.577a0.866 0.866 0 0 0 -0.348 -1.66h-0.616a0.89 0.89 0 0 0 -0.838 0.593" stroke-width="1"></path>
+  </g>
+</svg>

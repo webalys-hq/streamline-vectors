@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cloud-wifi--cloud-wifi-internet-server-network"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.239a9 9 0 0 0-7 0"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.2 3.338a6.78 6.78 0 0 0-4.36 0"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.87 8.707a.217.217 0 0 1-.153-.177 3.415 3.415 0 0 0-6.63-.804.2.2 0 0 1-.184.113 2.819 2.819 0 0 0 .377 5.624h6.05a2.41 2.41 0 0 0 .54-4.756Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cloud-Wifi--Streamline-Core">
+  <desc>
+    Cloud Wifi Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cloud-wifi--cloud-wifi-internet-server-network">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.23871C9.39236 0.77116 8.20227 0.530273 7 0.530273S4.60764 0.77116 3.5 1.23871" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.19997 3.3383c-1.4137 -0.48004 -2.94631 -0.48004 -4.36 0" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.8693 8.70652c-0.0397 -0.01184 -0.0751 -0.03477 -0.1022 -0.06609 -0.027 -0.03132 -0.0445 -0.06973 -0.0505 -0.11069 -0.071 -0.7779 -0.4065 -1.50795 -0.95057 -2.06842 -0.5441 -0.56046 -1.26389 -0.91746 -2.03935 -1.01145 -0.77545 -0.094 -1.55969 0.08069 -2.22194 0.49493 -0.66224 0.41424 -1.16246 1.043 -1.41724 1.78141 -0.01686 0.03443 -0.04322 0.06332 -0.07596 0.08325 -0.03275 0.01994 -0.07052 0.03008 -0.10885 0.02924 -0.36932 0.0248 -0.73015 0.1221 -1.06187 0.28634 -0.33172 0.16425 -0.62784 0.39222 -0.87146 0.67091 -0.492 0.56283 -0.74028 1.29805 -0.6902 2.04395 0.05009 0.7459 0.39442 1.4413 0.95725 1.9333s1.29806 0.7403 2.04394 0.6902h6.05055c0.5899 -0.0035 1.158 -0.2232 1.5968 -0.6175 0.4388 -0.3943 0.7178 -0.9358 0.7841 -1.5219 0.0663 -0.5862 -0.0846 -1.1763 -0.4241 -1.65871 -0.3396 -0.48238 -0.8442 -0.8235 -1.4184 -0.95877Z" stroke-width="1"></path>
+  </g>
+</svg>

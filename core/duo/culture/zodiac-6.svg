@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zodiac-6--sign-astrology-stars-space-capricorn"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 13.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 9.5H.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5V.5S5 1.5 5 5.5C5 1.5.5.5.5.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zodiac-6--Streamline-Core">
+  <desc>
+    Zodiac 6 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zodiac-6--sign-astrology-stars-space-capricorn">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.5 13.5c1.1046 0 2 -0.8954 2 -2s-0.8954 -2 -2 -2 -2 0.8954 -2 2 0.8954 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.5 9.5H0.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5V0.5S5 1.5 5 5.5C5 1.5 0.5 0.5 0.5 0.5" stroke-width="1"></path>
+  </g>
+</svg>

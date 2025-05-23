@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="warning-triangle--frame-alert-warning-triangle-exclamation-caution"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 .006a1.5 1.5 0 0 0-1.335.816l-.002.004-5.5 10.999A1.5 1.5 0 0 0 1.5 14h11.003a1.5 1.5 0 0 0 1.335-2.174v-.001L8.336.826 8.335.822A1.5 1.5 0 0 0 7 .006Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7.75 4.875a.75.75 0 0 0-1.5 0v3.25a.75.75 0 0 0 1.5 0v-3.25Zm-.75 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warning-Triangle--Streamline-Core">
+  <desc>
+    Warning Triangle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warning-triangle--frame-alert-warning-triangle-exclamation-caution">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.006a1.5 1.5 0 0 0 -1.335 0.816l-0.002 0.004 -5.5 10.999A1.5 1.5 0 0 0 1.5 14l0.001 0h11l0.002 0a1.5 1.5 0 0 0 1.335 -2.174l0 -0.001L8.336 0.826 8.335 0.822A1.5 1.5 0 0 0 7 0.006Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7.75 4.875a0.75 0.75 0 0 0 -1.5 0v3.25a0.75 0.75 0 0 0 1.5 0v-3.25Zm-0.75 7a1 1 0 1 0 0 -2 1 1 0 0 0 0 2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

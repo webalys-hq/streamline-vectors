@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wine--drink-cook-glass-cooking-wine-nutrition-food"><path id="Vector" fill="#37d7ff" d="M3.67.5a1 1 0 0 0-1 .89C2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5-1.38 4.5-4c0-.45-.06-2-.17-3.11a1 1 0 0 0-1-.89H3.67Z"></path><path id="Intersect" fill="#ffffff" d="M11.47 3.5H2.53c.028-.657.076-1.48.141-2.11a1 1 0 0 1 1-.89h6.66a1 1 0 0 1 1 .89c.065.656.113 1.465.14 2.11Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.67.5a1 1 0 0 0-1 .89C2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5-1.38 4.5-4c0-.45-.06-2-.17-3.11a1 1 0 0 0-1-.89H3.67Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.529 3.5h8.941"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5v5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 13.5h4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wine--Streamline-Core">
+  <desc>
+    Wine Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wine--drink-cook-glass-cooking-wine-nutrition-food">
+    <path id="Vector" fill="#d7e0ff" d="M3.67 0.5a1 1 0 0 0 -1 0.89C2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5 -1.38 4.5 -4c0 -0.45 -0.06 -2 -0.17 -3.11a1 1 0 0 0 -1 -0.89H3.67Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#ffffff" d="M11.47 3.5H2.53c0.028 -0.657 0.076 -1.48 0.141 -2.11a1 1 0 0 1 1 -0.89h6.66a1 1 0 0 1 1 0.89c0.065 0.656 0.113 1.465 0.14 2.11Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.67 0.5a1 1 0 0 0 -1 0.89C2.56 2.45 2.5 4.05 2.5 4.5c0 2.62 2 4 4.5 4s4.5 -1.38 4.5 -4c0 -0.45 -0.06 -2 -0.17 -3.11a1 1 0 0 0 -1 -0.89H3.67Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.529 3.5h8.941" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5v5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 13.5h4" stroke-width="1"></path>
+  </g>
+</svg>

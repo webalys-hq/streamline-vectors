@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cellular-network-5g"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.59 4.846c-.773-.547-1.633-.853-2.512-.892-.877.042-1.734.348-2.504.895"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.16 2.828A7.912 7.912 0 0 1 7.066.953a7.9 7.9 0 0 1 4.899 1.875"></path><path id="Vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.144 11.277h1.306v.87c0 .722-.585 1.307-1.306 1.307h-.87a1.306 1.306 0 0 1-1.306-1.306V9.536c0-.72.584-1.306 1.306-1.306h.87c.569 0 1.052.364 1.232.871"></path><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.976 8.234H3.148l-.435 2.61.32-.16A2.61 2.61 0 0 1 4.2 10.41h.688c.721 0 1.305.584 1.305 1.305v.435c0 .72-.584 1.305-1.305 1.305h-.87a1.305 1.305 0 0 1-1.23-.87"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cellular-Network-5g--Streamline-Core">
+  <desc>
+    Cellular Network 5g Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cellular-network-5g">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.58927 4.84554c-0.77261 -0.54684 -1.63237 -0.85213 -2.51125 -0.8917 -0.87674 0.04207 -1.734 0.34855 -2.50429 0.89528" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.16016 2.82837c0.42123 -0.35736 0.88015 -0.67082 1.3699 -0.93431C4.61887 1.30828 5.82981 0.98581 7.06575 0.952512c1.23723 0.033739 2.44922 0.357708 3.53825 0.945798 0.4864 0.26263 0.9421 0.57465 1.3606 0.93006" stroke-width="1"></path>
+    <path id="Vector 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.1441 11.2773h1.3058v0.8705c0 0.7212 -0.5846 1.3058 -1.3058 1.3058h-0.87054c-0.72117 0 -1.30579 -0.5846 -1.30579 -1.3058V9.53626c0 -0.72117 0.58462 -1.30579 1.30579 -1.30579h0.87054c0.5685 0 1.0522 0.36336 1.2315 0.87053" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.97588 8.23364 -2.8275 0 -0.435 2.60996 0.31891 -0.1594c0.36241 -0.1812 0.76204 -0.2756 1.16723 -0.2756h0.68886c0.72073 0 1.305 0.5843 1.305 1.305l0 0.435c0 0.7208 -0.58427 1.305 -1.305 1.305h-0.87c-0.56821 0 -1.0516 -0.3631 -1.23074 -0.87" stroke-width="1"></path>
+  </g>
+</svg>

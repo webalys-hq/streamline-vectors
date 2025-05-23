@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sprout"><path id="Vector" fill="#37d7ff" d="M11.889 5.393c-.844.734-2.17.61-2.862-.27a2.003 2.003 0 0 1 .411-2.845C10.292 1.603 13 2 13 2s-.248 2.718-1.111 3.393Z"></path><path id="Vector_2" fill="#37d7ff" d="M2.973 7.073a1.755 1.755 0 0 0 2.507-.236c.605-.77.43-1.932-.36-2.492C4.371 3.754 2 4.102 2 4.102s.217 2.38.973 2.971Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.889 5.393c-.844.734-2.17.61-2.862-.27a2.003 2.003 0 0 1 .411-2.845C10.292 1.603 13 2 13 2s-.248 2.718-1.111 3.393Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.973 7.073a1.755 1.755 0 0 0 2.507-.236c.605-.77.43-1.932-.36-2.492C4.371 3.754 2 4.102 2 4.102s.217 2.38.973 2.971Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9.119 5.236-.133.124c-1 1-1.89 3.304-1.986 4.64 0-1.583-.305-2.286-1.42-3.18l-.049-.047"></path><path id="Vector_6" fill="#ffffff" d="M7 10c-4.5 0-6.5 2-6.5 2h13s-2-2-6.5-2Z"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 12s2-2 6.5-2 6.5 2 6.5 2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sprout--Streamline-Core">
+  <desc>
+    Sprout Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sprout">
+    <path id="Vector" fill="#d7e0ff" d="M11.8888 5.39296c-0.8436 0.73434 -2.17067 0.60921 -2.86219 -0.26989 -0.69152 -0.87909 -0.50061 -2.1983 0.41176 -2.84528C10.2916 1.60316 13 2 13 2s-0.248 2.71833 -1.1112 3.39296Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M2.97311 7.07301c0.73885 0.64312 1.90106 0.53354 2.50667 -0.23635 0.60514 -0.76928 0.42934 -1.93166 -0.36061 -2.49184C4.37196 3.75401 2 4.10155 2 4.10155s0.21721 2.38065 0.97311 2.97146Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.8889 5.39296c-0.8437 0.73434 -2.17076 0.60921 -2.86228 -0.26989 -0.69151 -0.87909 -0.5006 -2.1983 0.41177 -2.84528C10.2916 1.60316 13 2 13 2s-0.248 2.71833 -1.1111 3.39296Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.97311 7.07301c0.73885 0.64312 1.90106 0.53354 2.50667 -0.23635 0.60514 -0.76928 0.42934 -1.93166 -0.36061 -2.49184C4.37196 3.75401 2 4.10155 2 4.10155s0.21721 2.38065 0.97311 2.97146Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m9.11886 5.23608 -0.13307 0.12425C7.98579 6.36033 7.09603 8.6639 7 10c0 -1.58296 -0.30536 -2.28552 -1.41983 -3.18009l-0.04889 -0.04647" stroke-width="1"></path>
+    <path id="Vector_6" fill="#ffffff" d="M7 10c-4.5 0 -6.5 2 -6.5 2h13s-2 -2 -6.5 -2Z" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 12s2 -2 6.5 -2 6.5 2 6.5 2" stroke-width="1"></path>
+  </g>
+</svg>

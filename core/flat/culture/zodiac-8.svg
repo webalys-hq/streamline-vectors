@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zodiac-8--sign-astrology-stars-space-libra"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 .886a4.692 4.692 0 0 0-4.618 5.538H1a1 1 0 1 0 0 2h2.806a1 1 0 0 0 .861-1.508 2.59 2.59 0 0 1-.36-1.332v-.006a2.692 2.692 0 1 1 5.385 0v.023a2.59 2.59 0 0 1-.332 1.333 1 1 0 0 0 .87 1.49H13a1 1 0 1 0 0-2h-1.37c.047-.282.068-.569.062-.857A4.692 4.692 0 0 0 7 .886Zm-6 9.72a1 1 0 1 0 0 2h12a1 1 0 0 0 0-2H1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zodiac-8--Streamline-Core">
+  <desc>
+    Zodiac 8 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zodiac-8--sign-astrology-stars-space-libra">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.886a4.692 4.692 0 0 0 -4.618 5.538H1a1 1 0 1 0 0 2h2.806a1 1 0 0 0 0.861 -1.508 2.59 2.59 0 0 1 -0.36 -1.332v-0.006a2.692 2.692 0 1 1 5.385 0l0 0.023a2.59 2.59 0 0 1 -0.332 1.333 1 1 0 0 0 0.87 1.49H13a1 1 0 1 0 0 -2h-1.37c0.047 -0.282 0.068 -0.569 0.062 -0.857A4.692 4.692 0 0 0 7 0.886Zm-6 9.72a1 1 0 1 0 0 2h12a1 1 0 0 0 0 -2H1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

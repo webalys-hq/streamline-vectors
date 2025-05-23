@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="health-care-2--health-medical-hospital-heart-care-symbol"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.28 9.34a1.91 1.91 0 0 0 0-2.77 2.07 2.07 0 0 0-2.85 0L7 8 5.57 6.57a2.07 2.07 0 0 0-2.85 0 1.91 1.91 0 0 0 0 2.77L7 13.5l4.28-4.16Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 4.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Health-Care-2--Streamline-Core">
+  <desc>
+    Health Care 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="health-care-2--health-medical-hospital-heart-care-symbol">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.28 9.34004c0.1879 -0.17844 0.3375 -0.39325 0.4398 -0.63135 0.1022 -0.2381 0.155 -0.49452 0.155 -0.75365s-0.0528 -0.51555 -0.155 -0.75365c-0.1023 -0.2381 -0.2519 -0.45291 -0.4398 -0.63135 -0.3846 -0.36506 -0.8947 -0.56858 -1.425 -0.56858s-1.04037 0.20352 -1.425 0.56858L7 8.00004l-1.43 -1.43c-0.38464 -0.36506 -0.89471 -0.56858 -1.425 -0.56858 -0.5303 0 -1.04037 0.20352 -1.425 0.56858 -0.18791 0.17844 -0.33753 0.39325 -0.43978 0.63135 -0.10225 0.2381 -0.15498 0.49452 -0.15498 0.75365s0.05273 0.51555 0.15498 0.75365c0.10225 0.2381 0.25187 0.45291 0.43978 0.63135L7 13.5l4.28 -4.15996Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 4.5c1.10457 0 2 -0.89543 2 -2s-0.89543 -2 -2 -2 -2 0.89543 -2 2 0.89543 2 2 2Z" stroke-width="1"></path>
+  </g>
+</svg>

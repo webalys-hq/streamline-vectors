@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="database--raid-storage-code-disk-programming-database-array-hard-disc"><path id="Vector" fill="#37d7ff" d="M.488 2.5v8.709C.488 12.749 3.403 14 7 14c3.597 0 6.512-1.25 6.512-2.791V2.5"></path><path id="Vector_2" fill="#3e3e3e" d="M7 5c3.59 0 6.5-1.12 6.5-2.5S10.59 0 7 0 .5 1.12.5 2.5 3.41 5 7 5Z"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M.488 8.493V6.845c.056.085.135.178.246.279.29.263.745.53 1.36.766 1.224.471 2.959.776 4.906.776 1.947 0 3.682-.305 4.907-.776.614-.237 1.069-.503 1.359-.766.11-.101.19-.194.246-.28v1.649c-.341.213-.732.4-1.156.564-1.402.539-3.295.859-5.356.859-2.06 0-3.954-.32-5.356-.86a6.82 6.82 0 0 1-1.156-.563Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Database--Streamline-Core">
+  <desc>
+    Database Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="database--raid-storage-code-disk-programming-database-array-hard-disc">
+    <path id="Vector" fill="#8fbffa" d="M0.488 2.5v8.709C0.488 12.749 3.403 14 7 14c3.597 0 6.512 -1.25 6.512 -2.791V2.5" stroke-width="1"></path>
+    <path id="Vector_2" fill="#2859c5" d="M7 5c3.59 0 6.5 -1.12 6.5 -2.5S10.59 0 7 0 0.5 1.12 0.5 2.5 3.41 5 7 5Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M0.488 8.493V6.845c0.056 0.085 0.135 0.178 0.246 0.279 0.29 0.263 0.745 0.53 1.36 0.766 1.224 0.471 2.959 0.776 4.906 0.776 1.947 0 3.682 -0.305 4.907 -0.776 0.614 -0.237 1.069 -0.503 1.359 -0.766 0.11 -0.101 0.19 -0.194 0.246 -0.28v1.649c-0.341 0.213 -0.732 0.4 -1.156 0.564 -1.402 0.539 -3.295 0.859 -5.356 0.859 -2.06 0 -3.954 -0.32 -5.356 -0.86a6.82 6.82 0 0 1 -1.156 -0.563Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

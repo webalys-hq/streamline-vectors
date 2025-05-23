@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="music-folder-song"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.645 11a.88.88 0 1 0 0-1.759.88.88 0 0 0 0 1.76Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.602 9.901a.88.88 0 1 0 0-1.76.88.88 0 0 0 0 1.76Z"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.525 10.12V6.339l3.957-.932v3.616"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 12.25V1.75a1 1 0 0 1 1-1h3.69a1 1 0 0 1 1 .76l.31 1.24h6a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Music-Folder-Song--Streamline-Core">
+  <desc>
+    Music Folder Song Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="music-folder-song">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.6453 11.0008c0.48584 0 0.87968 -0.3938 0.87968 -0.8797 0 -0.4858 -0.39384 -0.87964 -0.87968 -0.87964 -0.48583 0 -0.87968 0.39384 -0.87968 0.87964 0 0.4859 0.39385 0.8797 0.87968 0.8797Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.60234 9.9012c0.48583 0 0.87967 -0.39384 0.87967 -0.87968 0 -0.48583 -0.39384 -0.87967 -0.87967 -0.87967 -0.48584 0 -0.87968 0.39384 -0.87968 0.87967 0 0.48584 0.39384 0.87968 0.87968 0.87968Z" stroke-width="1"></path>
+    <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.52539 10.1206V6.33795l3.95669 -0.93146v3.6154" stroke-width="1"></path>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.2502V1.75018c0 -0.26522 0.105357 -0.51957 0.292893 -0.70711C0.98043 0.855537 1.23478 0.75018 1.5 0.75018h3.69c0.22843 -0.006655 0.45226 0.065133 0.63421 0.203414 0.18194 0.138276 0.31104 0.334706 0.36579 0.556586l0.31 1.24h6c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v8.50002c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-11c-0.26522 0 -0.51957 -0.1054 -0.707107 -0.2929C0.605357 12.7698 0.5 12.5154 0.5 12.2502Z" stroke-width="1"></path>
+  </g>
+</svg>

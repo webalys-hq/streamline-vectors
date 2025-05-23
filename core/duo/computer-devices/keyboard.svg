@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="keyboard--keyboard-device-electronics-dvorak-qwerty"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 5.5v-1a2 2 0 0 1 2-2h4a2 2 0 0 0 2-2"></path><path id="Vector_2" fill="#37d7ff" d="M12.5 5.5h-11a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 5.5h-11a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 10.75h3"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 10.75h1m7 0h1"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 8.25h1"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.167 8.25h1"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.833 8.25h1"></path><path id="Vector_9" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 8.25h1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Keyboard--Streamline-Core">
+  <desc>
+    Keyboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="keyboard--keyboard-device-electronics-dvorak-qwerty">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 5.5v-1c0 -0.53043 0.21071 -1.03914 0.58579 -1.41421C4.46086 2.71071 4.96957 2.5 5.5 2.5h4c0.5304 0 1.0391 -0.21071 1.4142 -0.58579C11.2893 1.53914 11.5 1.03043 11.5 0.5" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M12.5 5.5h-11c-0.552285 0 -1 0.44772 -1 1v6c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-6c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 5.5h-11c-0.552285 0 -1 0.44772 -1 1v6c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-6c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.5 10.75h3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 10.75h1m7 0h1" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 8.25h1" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.16669 8.25h1" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.83331 8.25h1" stroke-width="1"></path>
+    <path id="Vector_9" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.5 8.25h1" stroke-width="1"></path>
+  </g>
+</svg>

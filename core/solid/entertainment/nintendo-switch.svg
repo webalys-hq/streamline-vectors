@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="nintendo-switch--nintendo-switch-entertainment-gaming"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M10.415 14a3.5 3.5 0 0 0 3.5-3.5v-7a3.5 3.5 0 0 0-3.5-3.5H8.242a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h2.173Zm.272-3.912a1.523 1.523 0 1 0 0-3.047 1.523 1.523 0 0 0 0 3.047Z" clip-rule="evenodd"></path><path id="Subtract_2" fill="#3e3e3e" fill-rule="evenodd" d="M3.528 0a3.5 3.5 0 0 0-3.5 3.5v7a3.5 3.5 0 0 0 3.5 3.5h2.173a.5.5 0 0 0 .5-.5V.5a.5.5 0 0 0-.5-.5H3.528Zm-.272 3.147a1.523 1.523 0 1 0 0 3.047 1.523 1.523 0 0 0 0-3.047Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nintendo-Switch--Streamline-Core">
+  <desc>
+    Nintendo Switch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="nintendo-switch--nintendo-switch-entertainment-gaming">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M10.4146 14c1.933 0 3.5 -1.567 3.5 -3.5V3.50049c0 -1.933 -1.567 -3.500001719 -3.5 -3.500001719H8.24213c-0.27615 0 -0.5 0.223857719 -0.5 0.499999719V13.5c0 0.2762 0.22385 0.5 0.5 0.5h2.17247Zm0.2723 -3.9118c0.8414 0 1.5235 -0.68206 1.5235 -1.52343 0 -0.84136 -0.6821 -1.52342 -1.5235 -1.52342 -0.84133 0 -1.52339 0.68206 -1.52339 1.52342 0 0.84137 0.68206 1.52343 1.52339 1.52343Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#000000" fill-rule="evenodd" d="M3.52802 0.000488281C1.59502 0.000488281 0.0280151 1.56749 0.0280151 3.50049V10.5c0 1.933 1.5670049 3.5 3.5000049 3.5h2.17252c0.27614 0 0.5 -0.2238 0.5 -0.5l0 -12.999511c0 -0.276143 -0.22386 -0.500000719 -0.5 -0.500000719H3.52802ZM3.25572 3.14685c-0.84136 0 -1.52342 0.68206 -1.52342 1.52342 0 0.84137 0.68206 1.52343 1.52342 1.52343s1.52342 -0.68206 1.52342 -1.52343c0 -0.84136 -0.68206 -1.52342 -1.52342 -1.52342Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

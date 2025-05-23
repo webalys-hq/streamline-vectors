@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="investment-selection"><path id="Vector 2494" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.338 3.7a1 1 0 0 0-.943-.668H4.62a.893.893 0 0 0-.19 1.765l1.178.258a1 1 0 0 1-.214 1.977h-.667a1 1 0 0 1-.943-.666"></path><path id="Vector 2495" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.062 3.032v-1"></path><path id="Vector 2496" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.062 8.032v-1"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.969 13.499v-5.25a1.25 1.25 0 0 1 1.25-1.25v0a1.25 1.25 0 0 1 1.25 1.25v2.75h2a2 2 0 0 1 2 2v.5"></path><path id="Ellipse 344" stroke="#3e3e3e" stroke-linecap="round" d="M5.063 9.564a4.531 4.531 0 1 1 4.489-3.911"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Investment-Selection--Streamline-Core">
+  <desc>
+    Investment Selection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="investment-selection">
+    <path id="Vector 2494" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.33805 3.69914c-0.0439 -0.12421 -0.11164 -0.23715 -0.19773 -0.33333 -0.18311 -0.20459 -0.44921 -0.33334 -0.74537 -0.33334h-0.77404c-0.49299 0 -0.89264 0.39965 -0.89264 0.89264 0 0.41948 0.29209 0.78237 0.70188 0.87202l1.17849 0.25779c0.45909 0.10043 0.78631 0.50726 0.78631 0.9772 0 0.55229 -0.44772 1.00037 -1 1.00037h-0.66667c-0.43541 0 -0.80583 -0.27827 -0.94311 -0.66667" stroke-width="1"></path>
+    <path id="Vector 2495" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.06165 3.03248V2.03247" stroke-width="1"></path>
+    <path id="Vector 2496" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.06165 8.03248V7.03247" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.96875 13.4988V8.24878c0 -0.33152 0.1317 -0.64946 0.36612 -0.88388 0.23442 -0.23442 0.55236 -0.36612 0.88388 -0.36612v0c0.33152 0 0.64946 0.1317 0.88388 0.36612 0.23442 0.23442 0.36612 0.55236 0.36612 0.88388v2.75002h2.00005c0.5304 0 1.0391 0.2107 1.4142 0.5858 0.375 0.375 0.5858 0.8837 0.5858 1.4142v0.5" stroke-width="1"></path>
+    <path id="Ellipse 344" stroke="#000000" stroke-linecap="round" d="M5.0625 9.56372c-2.50254 0 -4.53125 -2.02871 -4.53125 -4.53125S2.55996 0.501221 5.0625 0.501221 9.59375 2.52993 9.59375 5.03247c0 0.21038 -0.01434 0.4174 -0.04209 0.62016" stroke-width="1"></path>
+  </g>
+</svg>

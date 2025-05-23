@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="synchronize-warning--arrow-fail-notification-sync-warning-failure-synchronize-error"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11 9 2-.5.5 2"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 8.5A6.6 6.6 0 0 1 7 13a6 6 0 0 1-5.64-3.95"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m3 5-2 .5-.5-2"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1 5.5A6.79 6.79 0 0 1 7 1a6 6 0 0 1 5.64 4"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3.5v4"></path><g id="Group 2626"><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25a.25.25 0 1 1 0-.5"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25a.25.25 0 1 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Synchronize-Warning--Streamline-Core">
+  <desc>
+    Synchronize Warning Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="synchronize-warning--arrow-fail-notification-sync-warning-failure-synchronize-error">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11 9 2 -0.5 0.5 2" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 8.5c-0.4252 1.27038 -1.227 2.3813 -2.2987 3.1851 -1.07174 0.8038 -2.36269 1.2624 -3.70131 1.3149 -1.23189 0.0002 -2.43399 -0.3787 -3.44302 -1.0854 -1.00903 -0.7067 -1.77609 -1.7068 -2.19698 -2.8646" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3 5 -2 0.5 -0.5 -2" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1 5.5c0.44757 -1.25647 1.25528 -2.35329 2.32232 -3.15358C4.38936 1.54614 5.66847 1.07785 7 1c1.23789 0.00348 2.4444 0.38976 3.4541 1.10588C11.4639 2.822 12.2274 3.8329 12.64 5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 3.5v4" stroke-width="1"></path>
+    <g id="Group 2626">
+      <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25c-0.13807 0 -0.25 -0.1119 -0.25 -0.25 0 -0.13807 0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 10.25c0.13807 0 0.25 -0.1119 0.25 -0.25 0 -0.13807 -0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

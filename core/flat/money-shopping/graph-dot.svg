@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="graph-dot--product-data-bars-analysis-analytics-graph-business-chart-dot"><path id="Vector 2182 (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M5.581 6.004a.75.75 0 0 1 1.06-.037l1.625 1.516A.75.75 0 1 1 7.243 8.58L5.618 7.064a.75.75 0 0 1-.037-1.06Z" clip-rule="evenodd"></path><path id="Vector 2183 (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M11.324 3.655a.75.75 0 0 1 .448.961L10.6 7.835a.75.75 0 1 1-1.41-.513l1.173-3.22a.75.75 0 0 1 .961-.447Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.5.75a.75.75 0 0 0-1.5 0v12.5c0 .414.336.75.75.75h12.5a.75.75 0 0 0 0-1.5H1.5V9.613l2.332-2.49a.75.75 0 0 0-1.095-1.025L1.5 7.418V.75Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M2.584 5.63a1.998 1.998 0 1 0 3.995 0 1.998 1.998 0 0 0-3.995 0Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M9.583 2.662a1.998 1.998 0 1 0 3.997 0 1.998 1.998 0 0 0-3.997 0Z" clip-rule="evenodd"></path><path id="Union_4" fill="#3e3e3e" fill-rule="evenodd" d="M7.112 9.182a2 2 0 1 0 4 0 2 2 0 0 0-4 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Graph-Dot--Streamline-Core">
+  <desc>
+    Graph Dot Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="graph-dot--product-data-bars-analysis-analytics-graph-business-chart-dot">
+    <path id="Vector 2182 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M5.581 6.004a0.75 0.75 0 0 1 1.06 -0.037l1.625 1.516A0.75 0.75 0 1 1 7.243 8.58L5.618 7.064a0.75 0.75 0 0 1 -0.037 -1.06Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2183 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M11.324 3.655a0.75 0.75 0 0 1 0.448 0.961L10.6 7.835a0.75 0.75 0 1 1 -1.41 -0.513l1.173 -3.22a0.75 0.75 0 0 1 0.961 -0.447Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.5 0.75a0.75 0.75 0 0 0 -1.5 0v12.5c0 0.414 0.336 0.75 0.75 0.75h12.5a0.75 0.75 0 0 0 0 -1.5H1.5V9.613l2.332 -2.49a0.75 0.75 0 0 0 -1.095 -1.025L1.5 7.418V0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M2.584 5.63a1.998 1.998 0 1 0 3.995 0 1.998 1.998 0 0 0 -3.995 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M9.583 2.662a1.998 1.998 0 1 0 3.997 0 1.998 1.998 0 0 0 -3.997 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_4" fill="#2859c5" fill-rule="evenodd" d="M7.112 9.182a2 2 0 1 0 4 0 2 2 0 0 0 -4 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

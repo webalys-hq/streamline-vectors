@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="customer-support-1--customer-headset-help-microphone-phone-support"><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M7 1.5a3.25 3.25 0 0 0-3.25 3.25v2.5a.75.75 0 0 1-1.5 0v-2.5A4.75 4.75 0 0 1 7 0h.25A4.75 4.75 0 0 1 12 4.75v5.382c0 .892-.448 1.667-.993 2.198-.534.521-1.274.92-2.007.92a.75.75 0 0 1 0-1.5c.221 0 .606-.148.96-.493.341-.334.54-.743.54-1.125V4.75A3.25 3.25 0 0 0 7.25 1.5H7Z" clip-rule="evenodd"></path><g id="Rectangle 450"><path fill="#3e3e3e" d="M5 12.5A1.5 1.5 0 0 1 6.5 11H8a1.5 1.5 0 0 1 0 3H6.5A1.5 1.5 0 0 1 5 12.5Z"></path></g><g id="Rectangle 452"><path fill="#3e3e3e" d="M0 6.5A1.5 1.5 0 0 1 1.5 5h2.25v4a1 1 0 0 1-1 1H1.5A1.5 1.5 0 0 1 0 8.5v-2Z"></path></g><g id="Rectangle 451"><path fill="#3e3e3e" d="M10.5 5h2A1.5 1.5 0 0 1 14 6.5v2a1.5 1.5 0 0 1-1.5 1.5h-2V5Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Customer-Support-1--Streamline-Core">
+  <desc>
+    Customer Support 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="customer-support-1--customer-headset-help-microphone-phone-support">
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M7 1.5a3.25 3.25 0 0 0 -3.25 3.25v2.5a0.75 0.75 0 0 1 -1.5 0v-2.5A4.75 4.75 0 0 1 7 0h0.25A4.75 4.75 0 0 1 12 4.75v5.382c0 0.892 -0.448 1.667 -0.993 2.198 -0.534 0.521 -1.274 0.92 -2.007 0.92a0.75 0.75 0 0 1 0 -1.5c0.221 0 0.606 -0.148 0.96 -0.493 0.341 -0.334 0.54 -0.743 0.54 -1.125V4.75A3.25 3.25 0 0 0 7.25 1.5H7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <g id="Rectangle 450">
+      <path fill="#2859c5" d="M5 12.5A1.5 1.5 0 0 1 6.5 11H8a1.5 1.5 0 0 1 0 3H6.5A1.5 1.5 0 0 1 5 12.5Z" stroke-width="1"></path>
+    </g>
+    <g id="Rectangle 452">
+      <path fill="#2859c5" d="M0 6.5A1.5 1.5 0 0 1 1.5 5h2.25v4a1 1 0 0 1 -1 1H1.5A1.5 1.5 0 0 1 0 8.5v-2Z" stroke-width="1"></path>
+    </g>
+    <g id="Rectangle 451">
+      <path fill="#2859c5" d="M10.5 5h2A1.5 1.5 0 0 1 14 6.5v2a1.5 1.5 0 0 1 -1.5 1.5h-2V5Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="square-root-x-circle--interface-math-square-root-sign-mathematics"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M6.75 0a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 0 0 0-13.5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.39 3.471a.625.625 0 0 0-.616.518l-.667 3.836-.286-.4a.625.625 0 1 0-1.017.727l1.154 1.615a.625.625 0 0 0 1.124-.256l.833-4.79h3.397a.625.625 0 1 0 0-1.25H5.39Zm4.259 2.776a.625.625 0 0 0-.882.057l-.642.73-.642-.73a.625.625 0 1 0-.939.825l.75.852-.889 1.01a.625.625 0 1 0 .94.825l.78-.888.78.888a.625.625 0 1 0 .94-.825l-.888-1.01.749-.852a.625.625 0 0 0-.057-.882Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Root-X-Circle--Streamline-Core">
+  <desc>
+    Square Root X Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="square-root-x-circle--interface-math-square-root-sign-mathematics">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M6.75 0a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 0 0 0 -13.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.39 3.471a0.625 0.625 0 0 0 -0.616 0.518l-0.667 3.836 -0.286 -0.4a0.625 0.625 0 1 0 -1.017 0.727l1.154 1.615a0.625 0.625 0 0 0 1.124 -0.256l0.833 -4.79h3.397a0.625 0.625 0 1 0 0 -1.25H5.39Zm4.259 2.776a0.625 0.625 0 0 0 -0.882 0.057l-0.642 0.73 -0.642 -0.73a0.625 0.625 0 1 0 -0.939 0.825l0.75 0.852 -0.889 1.01a0.625 0.625 0 1 0 0.94 0.825l0.78 -0.888 0.78 0.888a0.625 0.625 0 1 0 0.94 -0.825l-0.888 -1.01 0.749 -0.852a0.625 0.625 0 0 0 -0.057 -0.882Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

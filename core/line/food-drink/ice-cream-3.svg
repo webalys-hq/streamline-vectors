@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ice-cream-3--cook-frozen-cone-cream-ice-cooking-nutrition-freezer-cold-food"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.354 6.467-2.87 6.697a.54.54 0 0 1-.999 0L3.637 6.467"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.876 6.867a2.129 2.129 0 1 0 0-4.258 2.129 2.129 0 0 0 0 4.258Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.876 2.619a2.119 2.119 0 1 1 4.238 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.124 6.867a2.129 2.129 0 1 0 0-4.258 2.129 2.129 0 0 0 0 4.258Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ice-Cream-3--Streamline-Core">
+  <desc>
+    Ice Cream 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ice-cream-3--cook-frozen-cone-cream-ice-cooking-nutrition-freezer-cold-food">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.3535 6.46729 7.48481 13.1642c-0.04051 0.0993 -0.10968 0.1843 -0.19869 0.2441 -0.08902 0.0598 -0.19383 0.0918 -0.30108 0.0918 -0.10725 0 -0.21206 -0.032 -0.30107 -0.0918 -0.08902 -0.0598 -0.15819 -0.1448 -0.1987 -0.2441L3.6366 6.46729" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.87596 6.86691c1.17582 0 2.12901 -0.95319 2.12901 -2.12901s-0.95319 -2.12901 -2.12901 -2.12901 -2.12901 0.95319 -2.12901 2.12901 0.95319 2.12901 2.12901 2.12901Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.87598 2.61902c0 -0.562 0.22325 -1.10098 0.62064 -1.49837C5.89401 0.723253 6.43299 0.5 6.99499 0.5c0.562 0 1.10098 0.223253 1.49837 0.62065 0.39739 0.39739 0.62065 0.93637 0.62065 1.49837" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.12401 6.86691c1.17579 0 2.12899 -0.95319 2.12899 -2.12901s-0.9532 -2.12901 -2.12899 -2.12901c-1.17582 0 -2.12901 0.95319 -2.12901 2.12901s0.95319 2.12901 2.12901 2.12901Z" stroke-width="1"></path>
+  </g>
+</svg>

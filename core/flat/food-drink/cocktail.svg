@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.536.026a1.447 1.447 0 0 0-1.138 2.342L6.25 8.543v3.946H4a.75.75 0 0 0 0 1.5h6a.75.75 0 0 0 0-1.5H7.75V8.543l4.852-6.175A1.447 1.447 0 0 0 11.464.026H2.536Z" clip-rule="evenodd"></path><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M10.197 3H3.803l2.214 2.82a1.25 1.25 0 0 0 1.966 0L10.197 3Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cocktail--Streamline-Core">
+  <desc>
+    Cocktail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cocktail--cook-alcohol-food-cocktail-drink-cooking-nutrition-alcoholic-beverage-glass">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.536 0.026a1.447 1.447 0 0 0 -1.138 2.342L6.25 8.543v3.946H4a0.75 0.75 0 0 0 0 1.5h6a0.75 0.75 0 0 0 0 -1.5H7.75V8.543l4.852 -6.175A1.447 1.447 0 0 0 11.464 0.026H2.536Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M10.197 3H3.803l2.214 2.82a1.25 1.25 0 0 0 1.966 0L10.197 3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-circle-single--circle-geometric-human-person-single-user"><path id="Vector" fill="#ffffff" d="M7 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="Intersect" fill="#ffffff" d="M11.271 11.9A6.475 6.475 0 0 1 7 13.5a6.475 6.475 0 0 1-4.271-1.6A4.997 4.997 0 0 1 7 9.5c1.809 0 3.393.96 4.271 2.4Z"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M2.729 11.9A4.997 4.997 0 0 1 7 9.5c1.809 0 3.393.96 4.271 2.4a6.5 6.5 0 1 0-8.543 0ZM7 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z" clip-rule="evenodd"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.73 11.9a5 5 0 0 1 8.54 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Circle-Single--Streamline-Core">
+  <desc>
+    User Circle Single Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-circle-single--circle-geometric-human-person-single-user">
+    <path id="Vector" fill="#ffffff" d="M7 8c1.38071 0 2.5 -1.11929 2.5 -2.5S8.38071 3 7 3 4.5 4.11929 4.5 5.5 5.61929 8 7 8Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#ffffff" d="M11.2714 11.8996C10.1291 12.8963 8.63507 13.5 7.00001 13.5c-1.63507 0 -3.12913 -0.6037 -4.27143 -1.6004C3.60648 10.4606 5.19105 9.5 7.00001 9.5c1.80895 0 3.39349 0.9606 4.27139 2.3996Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M2.72857 11.8996C3.60647 10.4606 5.19105 9.5 7 9.5c1.80895 0 3.3935 0.9606 4.2714 2.3996C12.6371 10.708 13.5 8.95479 13.5 7 13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 1.95479 0.8629 3.708 2.22857 4.8996ZM7 8c1.38071 0 2.5 -1.11929 2.5 -2.5S8.38071 3 7 3 4.5 4.11929 4.5 5.5 5.61929 8 7 8Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 8c1.38071 0 2.5 -1.11929 2.5 -2.5S8.38071 3 7 3 4.5 4.11929 4.5 5.5 5.61929 8 7 8Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.72998 11.9c0.44624 -0.7325 1.07341 -1.3379 1.82121 -1.7579 0.7478 -0.4201 1.59108 -0.64074 2.44879 -0.64074 0.85771 0 1.70099 0.22064 2.44879 0.64074 0.74783 0.42 1.37493 1.0254 1.82123 1.7579" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+  </g>
+</svg>

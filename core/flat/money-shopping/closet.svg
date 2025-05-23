@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="closet--closet-dressing-dresser-product-decoration-cloth-clothing-cabinet-furniture"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" d="M7.625 14h-1.25V0h1.25v14Z"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M9.5 5.837c.345 0 .625.28.625.625v1.076a.625.625 0 1 1-1.25 0V6.462c0-.346.28-.625.625-.625Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_2" fill="#3e3e3e" fill-rule="evenodd" d="M4.5 5.837c.345 0 .625.28.625.625v1.076a.625.625 0 1 1-1.25 0V6.462c0-.346.28-.625.625-.625Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Closet--Streamline-Core">
+  <desc>
+    Closet Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="closet--closet-dressing-dresser-product-decoration-cloth-clothing-cabinet-furniture">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5 -1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" d="M7.625 14h-1.25V0h1.25v14Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M9.5 5.837c0.345 0 0.625 0.28 0.625 0.625v1.076a0.625 0.625 0 1 1 -1.25 0V6.462c0 -0.346 0.28 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M4.5 5.837c0.345 0 0.625 0.28 0.625 0.625v1.076a0.625 0.625 0 1 1 -1.25 0V6.462c0 -0.346 0.28 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

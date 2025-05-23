@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="flower--nature-plant-tree-flower-petals-bloom"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 .21a3.08 3.08 0 0 0-3.078 2.973A3.061 3.061 0 0 0 2.022 9a3.04 3.04 0 0 0 .756 4.166 3.09 3.09 0 0 0 4.227-.581 3.09 3.09 0 0 0 5.043-.291 3.042 3.042 0 0 0-.062-3.296 3.05 3.05 0 0 0 1.86-3.813l-.476.155.475-.156a3.07 3.07 0 0 0-3.767-1.991A3.08 3.08 0 0 0 7 .21Z" clip-rule="evenodd"></path><path id="Vector" fill="#3e3e3e" d="M7 9.45c1.218 0 2.205-.98 2.205-2.19S8.218 5.07 7 5.07s-2.205.98-2.205 2.19S5.782 9.45 7 9.45Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flower--Streamline-Core">
+  <desc>
+    Flower Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flower--nature-plant-tree-flower-petals-bloom">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.21a3.08 3.08 0 0 0 -3.078 2.973A3.061 3.061 0 0 0 2.022 9a3.04 3.04 0 0 0 0.756 4.166 3.09 3.09 0 0 0 4.227 -0.581 3.09 3.09 0 0 0 5.043 -0.291 3.042 3.042 0 0 0 -0.062 -3.296 3.05 3.05 0 0 0 1.86 -3.813l-0.476 0.155 0.475 -0.156a3.07 3.07 0 0 0 -3.767 -1.991A3.08 3.08 0 0 0 7 0.21Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M7 9.45c1.218 0 2.205 -0.98 2.205 -2.19S8.218 5.07 7 5.07s-2.205 0.98 -2.205 2.19S5.782 9.45 7 9.45Z" stroke-width="1"></path>
+  </g>
+</svg>

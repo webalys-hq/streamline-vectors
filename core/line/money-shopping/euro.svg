@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="euro--exchange-payment-euro-forex-finance-foreign-currency"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 12.59a5.002 5.002 0 0 1-2 .41 5.77 5.77 0 0 1-5.5-6A5.77 5.77 0 0 1 10 1a4.89 4.89 0 0 1 1.63.27"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 5.5h6"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2 8.5h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Euro--Streamline-Core">
+  <desc>
+    Euro Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="euro--exchange-payment-euro-forex-finance-foreign-currency">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 12.5901c-0.6314 0.2727 -1.3123 0.4123 -2.00005 0.41 -1.52364 -0.0701 -2.95755 -0.7406 -3.98821 -1.865 -1.03065 -1.1243 -1.5742 -2.61104 -1.51179 -4.13502 -0.06241 -1.52398 0.48114 -3.01068 1.51179 -4.13503C7.0424 1.7407 8.47631 1.07017 9.99995 1.00008c0.55475 -0.003109 1.10595 0.08819 1.63005 0.27" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 5.5h6" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 8.5h6" stroke-width="1"></path>
+  </g>
+</svg>

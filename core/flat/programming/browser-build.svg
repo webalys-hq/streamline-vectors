@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="browser-build--build-website-development-window-code-web-backend-browser-dev"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M10.75.79a.75.75 0 0 0-1.5 0v1.207H.802a.75.75 0 0 0 0 1.5H9.25V7.5a.75.75 0 0 0 1.5 0V3.497h2.46a.75.75 0 0 0 0-1.5h-2.46V.79Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.745.04A1.705 1.705 0 0 0 .04 1.745v10.51a1.705 1.705 0 0 0 1.705 1.705h10.51a1.705 1.705 0 0 0 1.705-1.706V7.479a.75.75 0 0 0-.75-.75H6.317V.79a.75.75 0 0 0-.75-.75H1.745Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" d="M1.745.04A1.705 1.705 0 0 0 .04 1.745V3.5h6.277V.79a.75.75 0 0 0-.75-.75H1.745Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Browser-Build--Streamline-Core">
+  <desc>
+    Browser Build Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="browser-build--build-website-development-window-code-web-backend-browser-dev">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M10.75 0.790039c0 -0.414214 -0.3358 -0.7499999 -0.75 -0.7499999 -0.41421 0 -0.75 0.3357869 -0.75 0.7499999V1.99677l-8.447693 0c-0.414213 0 -0.7499999 0.33579 -0.7499999 0.75s0.3357869 0.75 0.7499999 0.75l8.447693 0V7.5c0 0.41421 0.33579 0.75 0.75 0.75 0.4142 0 0.75 -0.33579 0.75 -0.75V3.49677l2.46 0c0.4142 0 0.75 -0.33579 0.75 -0.75s-0.3358 -0.75 -0.75 -0.75l-2.46 0V0.790039Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.74541 0.0400391c-0.45229 0 -0.886058 0.1796729 -1.205878 0.4994929S0.0400391 1.29312 0.0400391 1.74541V12.2545c0 0.4523 0.1796729 0.8861 0.4994929 1.2059 0.31982 0.3199 0.753588 0.4995 1.205878 0.4995H12.2545c0.4523 0 0.8861 -0.1796 1.2059 -0.4995 0.3199 -0.3198 0.4995 -0.7536 0.4995 -1.2059V7.47767c0 -0.41421 -0.3358 -0.75 -0.75 -0.75H6.31692V0.790039c0 -0.414214 -0.33579 -0.7499999 -0.75 -0.7499999H1.74541Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" d="M1.74541 0.0400391c-0.45229 0 -0.886058 0.1796729 -1.205878 0.4994929S0.0400391 1.29312 0.0400391 1.74541V3.5H6.31692V0.790039c0 -0.414214 -0.33579 -0.7499999 -0.75 -0.7499999H1.74541Z" stroke-width="1"></path>
+  </g>
+</svg>

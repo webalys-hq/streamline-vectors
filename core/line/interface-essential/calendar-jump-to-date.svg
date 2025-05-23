@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="calendar-jump-to-date"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 2a1 1 0 0 0-1 1v9.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-2"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5.5v3"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5.5v3"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 2h5"></path><path id="vector 1240" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.419 8.224H9.58"></path><path id="vector 1262" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.642 10.164 1.94-1.94-1.94-1.94"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Calendar-Jump-To-Date--Streamline-Core">
+  <desc>
+    Calendar Jump To Date Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="calendar-jump-to-date">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 2c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 2.48043 0.5 2.73478 0.5 3v9.5c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h11c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071V3c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C13.0196 2.10536 12.7652 2 12.5 2h-2" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 0.5v3" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.5v3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 2h5" stroke-width="1"></path>
+    <path id="vector 1240" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.41895 8.22449h5.16197" stroke-width="1"></path>
+    <path id="vector 1262" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.6416 10.1642 1.93972 -1.93969L7.6416 6.28479" stroke-width="1"></path>
+  </g>
+</svg>

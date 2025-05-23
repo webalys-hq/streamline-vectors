@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hang-up-2--android-phone-mobile-device-smartphone-iphone-telephone-hang-up"><path id="Vector" fill="#37d7ff" d="M2.58 3.486A2.548 2.548 0 0 0 .57 5.994l-.006.502a.862.862 0 0 0 .853.853l2.146-.011a.855.855 0 0 0 .847-.847.862.862 0 0 1 .852-.853h3.389a.847.847 0 0 1 .852.853.855.855 0 0 0 .847.847h2.146a.863.863 0 0 0 .853-.853l-.006-.503a2.548 2.548 0 0 0-2.01-2.507 23.112 23.112 0 0 0-8.753.011Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.58 3.486A2.548 2.548 0 0 0 .57 5.994l-.006.502a.862.862 0 0 0 .853.853l2.146-.011a.855.855 0 0 0 .847-.847.862.862 0 0 1 .852-.853h3.389a.847.847 0 0 1 .852.853.855.855 0 0 0 .847.847h2.146a.863.863 0 0 0 .853-.853l-.006-.503a2.548 2.548 0 0 0-2.01-2.507 23.112 23.112 0 0 0-8.753.011Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7.939v4.717"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.128 10.784 7 12.656l1.872-1.872"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hang-Up-2--Streamline-Core">
+  <desc>
+    Hang Up 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hang-up-2--android-phone-mobile-device-smartphone-iphone-telephone-hang-up">
+    <path id="Vector" fill="#d7e0ff" d="M2.58 3.486A2.548 2.548 0 0 0 0.57 5.994l-0.006 0.502a0.862 0.862 0 0 0 0.853 0.853l2.146 -0.011a0.855 0.855 0 0 0 0.847 -0.847 0.862 0.862 0 0 1 0.852 -0.853h3.389a0.847 0.847 0 0 1 0.852 0.853 0.855 0.855 0 0 0 0.847 0.847h2.146a0.863 0.863 0 0 0 0.853 -0.853l-0.006 -0.503a2.548 2.548 0 0 0 -2.01 -2.507 23.112 23.112 0 0 0 -8.753 0.011Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.58 3.486A2.548 2.548 0 0 0 0.57 5.994l-0.006 0.502a0.862 0.862 0 0 0 0.853 0.853l2.146 -0.011a0.855 0.855 0 0 0 0.847 -0.847 0.862 0.862 0 0 1 0.852 -0.853h3.389a0.847 0.847 0 0 1 0.852 0.853 0.855 0.855 0 0 0 0.847 0.847h2.146a0.863 0.863 0 0 0 0.853 -0.853l-0.006 -0.503a2.548 2.548 0 0 0 -2.01 -2.507 23.112 23.112 0 0 0 -8.753 0.011Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7 7.939 0 4.717" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.128 10.784 7 12.656l1.872 -1.872" stroke-width="1"></path>
+  </g>
+</svg>

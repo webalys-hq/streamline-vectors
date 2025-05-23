@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="rock-slide--hill-cliff-sign-danger-stone"><path id="Vector" fill="#37d7ff" d="m.5.5 2 2L3 6l5.5 5 .5 2.5H.5"></path><path id="Vector_2" fill="#37d7ff" d="M10 6.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.5.5 2 2L3 6l5.5 5 .5 2.5H.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 6.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 11.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 1.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rock-Slide--Streamline-Core">
+  <desc>
+    Rock Slide Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rock-slide--hill-cliff-sign-danger-stone">
+    <path id="Vector" fill="#d7e0ff" d="m0.5 0.5 2 2L3 6l5.5 5 0.5 2.5H0.5" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M10 6.5c0.8284 0 1.5 -0.67157 1.5 -1.5s-0.6716 -1.5 -1.5 -1.5c-0.82843 0 -1.5 0.67157 -1.5 1.5s0.67157 1.5 1.5 1.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m0.5 0.5 2 2L3 6l5.5 5 0.5 2.5H0.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10 6.5c0.8284 0 1.5 -0.67157 1.5 -1.5s-0.6716 -1.5 -1.5 -1.5c-0.82843 0 -1.5 0.67157 -1.5 1.5s0.67157 1.5 1.5 1.5Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13 11.5c0.2761 0 0.5 -0.2239 0.5 -0.5s-0.2239 -0.5 -0.5 -0.5 -0.5 0.2239 -0.5 0.5 0.2239 0.5 0.5 0.5Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6 1.5c0.27614 0 0.5 -0.22386 0.5 -0.5 0 -0.276142 -0.22386 -0.5 -0.5 -0.5s-0.5 0.223858 -0.5 0.5c0 0.27614 0.22386 0.5 0.5 0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

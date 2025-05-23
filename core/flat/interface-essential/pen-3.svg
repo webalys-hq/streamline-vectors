@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pen-3--content-creation-edit-pen-pens-write"><path id="Subtract" fill="#37d7ff" d="M5.5 4.438h-5V11.1a.5.5 0 0 0 .116.32l2 2.4a.5.5 0 0 0 .768 0l2-2.4a.5.5 0 0 0 .116-.32V4.438Z"></path><path id="Subtract_2" fill="#3e3e3e" d="M5.5 2.5a2.5 2.5 0 1 0-5 0v1.938h5V2.5Z"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7.5 4.438h4V11a1 1 0 0 1-1 1h-.25v1.25a.75.75 0 0 1-1.5 0V12H8.5a1 1 0 0 1-1-1V4.437Z" clip-rule="evenodd"></path><g id="Union_2"><path fill="#3e3e3e" d="M7.5 2a2 2 0 1 1 4 0v.938h.75A1.747 1.747 0 0 1 14 4.682v3.98a.75.75 0 0 1-1.5 0v-3.98a.242.242 0 0 0-.072-.171.253.253 0 0 0-.178-.074H7.5V2Z"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pen-3--Streamline-Core">
+  <desc>
+    Pen 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pen-3--content-creation-edit-pen-pens-write">
+    <path id="Subtract" fill="#8fbffa" d="M5.5 4.438h-5V11.1a0.5 0.5 0 0 0 0.116 0.32l2 2.4a0.5 0.5 0 0 0 0.768 0l2 -2.4a0.5 0.5 0 0 0 0.116 -0.32V4.438Z" stroke-width="1"></path>
+    <path id="Subtract_2" fill="#2859c5" d="M5.5 2.5a2.5 2.5 0 1 0 -5 0v1.938h5V2.5Z" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.5 4.438h4V11a1 1 0 0 1 -1 1h-0.25v1.25a0.75 0.75 0 0 1 -1.5 0V12H8.5a1 1 0 0 1 -1 -1V4.437Z" clip-rule="evenodd" stroke-width="1"></path>
+    <g id="Union_2">
+      <path fill="#2859c5" d="M7.5 2a2 2 0 1 1 4 0v0.938h0.75A1.747 1.747 0 0 1 14 4.682v3.98a0.75 0.75 0 0 1 -1.5 0v-3.98a0.242 0.242 0 0 0 -0.072 -0.171 0.253 0.253 0 0 0 -0.178 -0.074H7.5V2Z" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

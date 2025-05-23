@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shield-1--shield-protection-security-defend-crime-war-cover"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M14 4.927a9.399 9.399 0 0 1-6.635 8.984 1.242 1.242 0 0 1-.73 0A9.399 9.399 0 0 1 0 4.927V1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v3.427Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-1--Streamline-Core">
+  <desc>
+    Shield 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shield-1--shield-protection-security-defend-crime-war-cover">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M14 4.92744c0 4.1262 -2.6911 7.76986 -6.63487 8.98336 -0.23792 0.0732 -0.49234 0.0732 -0.73026 0C2.69114 12.6973 0 9.05364 0 4.92744V1.5C0 0.671573 0.671573 0 1.5 0h11c0.8284 0 1.5 0.671572 1.5 1.5v3.42744Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

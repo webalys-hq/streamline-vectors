@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hand-grab--hand-select-cursor-finger-grab"><path id="Vector 2348" fill="#37d7ff" d="M4.364 12.004V13.5h6.98v-1.496l.444-.886a9.972 9.972 0 0 0 1.052-4.46V3.65c0-.943-.66-1.757-1.583-1.952L5.772.544a1.994 1.994 0 0 0-2.406 1.951v1.531l-.952.381A1.994 1.994 0 0 0 1.199 6.65l.53 2.647c.091.46.342.873.709 1.166l1.926 1.541Z"></path><path id="Vector 2346" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.364 13.5v-1.496l-1.926-1.54a1.995 1.995 0 0 1-.71-1.167l-.53-2.647a1.994 1.994 0 0 1 1.216-2.243l.952-.38V2.494A1.994 1.994 0 0 1 5.772.544l5.485 1.154A1.995 1.995 0 0 1 12.84 3.65v3.008c0 1.548-.36 3.075-1.053 4.46l-.443.886V13.5"></path><path id="Vector 2347" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.366 4.026V6.52"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Grab--Streamline-Core">
+  <desc>
+    Hand Grab Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hand-grab--hand-select-cursor-finger-grab">
+    <path id="Vector 2348" fill="#d7e0ff" d="M4.36374 12.0041V13.5h6.98076v-1.4959l0.443 -0.8861c0.6924 -1.38471 1.0529 -2.91163 1.0529 -4.45981V3.64995c0 -0.94317 -0.6607 -1.75741 -1.5836 -1.95172L5.77187 0.543522C4.5322 0.282537 3.36649 1.22839 3.36649 2.49524v1.53088l-0.95273 0.3811c-0.8927 0.35708 -1.40359 1.3002 -1.21503 2.243l0.5294 2.64698c0.09203 0.46016 0.34337 0.8731 0.70981 1.1663l1.9258 1.5406Z" stroke-width="1"></path>
+    <path id="Vector 2346" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.36374 13.5v-1.4959l-1.9258 -1.5406c-0.36644 -0.2932 -0.61778 -0.70614 -0.70981 -1.1663l-0.5294 -2.64698c-0.18856 -0.9428 0.32233 -1.88592 1.21503 -2.243l0.95273 -0.3811V2.49524c0 -1.26685 1.16571 -2.212703 2.40538 -1.951718L11.2568 1.69823c0.9229 0.19431 1.5836 1.00855 1.5836 1.95172v3.00824c0 1.54818 -0.3605 3.0751 -1.0529 4.45981l-0.443 0.8861V13.5" stroke-width="1"></path>
+    <path id="Vector 2347" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.36646 4.02612v2.49313" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="rss-symbol--wireless-feed-rss-transmit-broadcast"><path id="Vector" fill="#37d7ff" d="M2.13 13.38a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.13 13.38a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.38 12.12A11.5 11.5 0 0 0 1.88.62"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.12 5.38a6.5 6.5 0 0 1 6.5 6.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Rss-Symbol--Streamline-Core">
+  <desc>
+    Rss Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="rss-symbol--wireless-feed-rss-transmit-broadcast">
+    <path id="Vector" fill="#d7e0ff" d="M2.13001 13.38c0.82842 0 1.49999 -0.6716 1.49999 -1.5s-0.67157 -1.5 -1.49999 -1.5c-0.82843 0 -1.500005 0.6716 -1.500005 1.5s0.671575 1.5 1.500005 1.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.13001 13.38c0.82842 0 1.49999 -0.6716 1.49999 -1.5s-0.67157 -1.5 -1.49999 -1.5c-0.82843 0 -1.500005 0.6716 -1.500005 1.5s0.671575 1.5 1.500005 1.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.38 12.12c0 -1.5102 -0.2975 -3.00562 -0.8754 -4.40086 -0.5779 -1.39525 -1.425 -2.663 -2.4929 -3.73087 -1.06784 -1.06788 -2.33559 -1.91496 -3.73084 -2.49289C4.88562 0.917451 3.39021 0.619995 1.88 0.619995" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.12 5.38c0.85359 0 1.69882 0.16813 2.48744 0.49479 0.78861 0.32665 1.50517 0.80544 2.10875 1.40902 0.60358 0.60358 1.08237 1.32014 1.40902 2.10875 0.32666 0.78864 0.49479 1.63384 0.49479 2.48744" stroke-width="1"></path>
+  </g>
+</svg>

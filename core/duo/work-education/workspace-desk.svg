@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="workspace-desk--workspace-desk-work"><path id="Vector" fill="#37d7ff" d="M2.202 8.025c-.612 0-1.108.497-1.108 1.109v1.075h11.812V9.134c0-.612-.496-1.109-1.109-1.109H2.202Z"></path><path id="Vector_2" fill="#ffffff" d="M10.036.5H3.963a.784.784 0 0 0-.784.784v3.599c0 .433.351.784.784.784h6.073a.784.784 0 0 0 .784-.784V1.284A.784.784 0 0 0 10.036.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.906 13.5V9.134c0-.612-.496-1.109-1.109-1.109H2.202c-.612 0-1.108.497-1.108 1.109V13.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.036.5H3.963a.784.784 0 0 0-.784.784v3.599c0 .433.351.784.784.784h6.073a.784.784 0 0 0 .784-.784V1.284A.784.784 0 0 0 10.036.5Z"></path><path id="Vector 1285" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 5.667v2.358"></path><path id="Vector 1286" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.094 10.212h11.813"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Workspace-Desk--Streamline-Core">
+  <desc>
+    Workspace Desk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="workspace-desk--workspace-desk-work">
+    <path id="Vector" fill="#d7e0ff" d="M2.2023 8.02527c-0.61223 0 -1.10855 0.49632 -1.10855 1.10855v1.07558H12.9061V9.13382c0 -0.61223 -0.4963 -1.10855 -1.1086 -1.10855H2.2023Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#ffffff" d="M10.0363 0.500031H3.96343c-0.43298 0 -0.78399 0.351002 -0.78399 0.783989v3.59877c0 0.43298 0.35101 0.78398 0.78399 0.78398h6.07287c0.433 0 0.784 -0.351 0.784 -0.78398V1.28402c0 -0.432987 -0.351 -0.783989 -0.784 -0.783989Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.9061 13.5V9.13382c0 -0.61223 -0.4963 -1.10855 -1.1086 -1.10855H2.2023c-0.61223 0 -1.10855 0.49632 -1.10855 1.10855V13.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.0362 0.500031H3.96337c-0.43299 0 -0.78399 0.351002 -0.78399 0.783989v3.59877c0 0.43298 0.351 0.78398 0.78399 0.78398h6.07283c0.433 0 0.784 -0.351 0.784 -0.78398V1.28402c0 -0.432987 -0.351 -0.783989 -0.784 -0.783989Z" stroke-width="1"></path>
+    <path id="Vector 1285" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.00067 5.66687 -0.00198 2.35834" stroke-width="1"></path>
+    <path id="Vector 1286" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.09375 10.2122H12.9068" stroke-width="1"></path>
+  </g>
+</svg>

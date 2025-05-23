@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="script-2--language-programming-code"><path id="Union" fill="#37d7ff" d="M10.5 1.75A1.75 1.75 0 0 1 12.25 0h-8A1.75 1.75 0 0 0 2.5 1.75V11c0 .818-.393 1.544-1 2h-1a.5.5 0 0 0 0 1H8a2.5 2.5 0 0 0 2.5-2.5V1.75Z"></path><path id="Vector" fill="#3e3e3e" d="M12.25 0A1.75 1.75 0 0 1 14 1.75V3.5a.5.5 0 0 1-.5.5h-3V1.75A1.75 1.75 0 0 1 12.25 0Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.177 3.5c0-.345.28-.625.625-.625H7.74a.625.625 0 1 1 0 1.25H5.802a.625.625 0 0 1-.625-.625Zm-1.291 3c0-.345.28-.625.625-.625H7.74a.625.625 0 1 1 0 1.25H4.51a.625.625 0 0 1-.624-.625Zm.625 2.375a.625.625 0 1 0 0 1.25H7.74a.625.625 0 1 0 0-1.25H4.51Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Script-2--Streamline-Core">
+  <desc>
+    Script 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="script-2--language-programming-code">
+    <path id="Union" fill="#8fbffa" d="M10.5 1.75A1.75 1.75 0 0 1 12.25 0h-8A1.75 1.75 0 0 0 2.5 1.75V11c0 0.818 -0.393 1.544 -1 2h-1a0.5 0.5 0 0 0 0 1H8a2.5 2.5 0 0 0 2.5 -2.5V1.75Z" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M12.25 0A1.75 1.75 0 0 1 14 1.75V3.5a0.5 0.5 0 0 1 -0.5 0.5h-3V1.75A1.75 1.75 0 0 1 12.25 0Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.177 3.5c0 -0.345 0.28 -0.625 0.625 -0.625H7.74a0.625 0.625 0 1 1 0 1.25H5.802a0.625 0.625 0 0 1 -0.625 -0.625Zm-1.291 3c0 -0.345 0.28 -0.625 0.625 -0.625H7.74a0.625 0.625 0 1 1 0 1.25H4.51a0.625 0.625 0 0 1 -0.624 -0.625Zm0.625 2.375a0.625 0.625 0 1 0 0 1.25H7.74a0.625 0.625 0 1 0 0 -1.25H4.51Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

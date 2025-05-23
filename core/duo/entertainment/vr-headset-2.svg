@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="vr-headset-2--entertainment-gaming-vr-headset"><path id="Vector 790" fill="#ffffff" d="m5.143 1.429-.464 3.714H9.32l-.464-3.714H5.143Z"></path><path id="Rectangle 338" fill="#37d7ff" d="M.5 6.992c0-1.021.831-1.85 1.857-1.85h9.286c1.025 0 1.857.829 1.857 1.85v3.664c0 1.203-1.138 2.096-2.327 1.884-1.257-.223-2.824-.44-4.173-.44-1.349 0-2.916.217-4.173.44C1.637 12.752.5 11.86.5 10.656V6.992Z"></path><path id="Rectangle 339" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 6.992c0-1.021.831-1.85 1.857-1.85h9.286c1.025 0 1.857.829 1.857 1.85v3.664c0 1.203-1.138 2.096-2.327 1.884-1.257-.223-2.824-.44-4.173-.44-1.349 0-2.916.217-4.173.44C1.637 12.752.5 11.86.5 10.656V6.992Z"></path><path id="Vector 788" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.679 5.143.464-3.715h3.714l.464 3.715"></path><path id="Vector 789" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.214 7.928h5.572"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vr-Headset-2--Streamline-Core">
+  <desc>
+    Vr Headset 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="vr-headset-2--entertainment-gaming-vr-headset">
+    <path id="Vector 790" fill="#ffffff" d="M5.14287 1.42871 4.67859 5.143h4.64286l-0.46429 -3.71429H5.14287Z" stroke-width="1"></path>
+    <path id="Rectangle 338" fill="#d7e0ff" d="M0.5 6.99218c0 -1.02137 0.83147 -1.84936 1.85714 -1.84936h9.28576c1.0256 0 1.8571 0.82799 1.8571 1.84936v3.66362c0 1.2032 -1.1377 2.096 -2.327 1.8845 -1.25728 -0.2237 -2.82402 -0.4405 -4.173 -0.4405s-2.91572 0.2168 -4.17297 0.4405C1.63765 12.7518 0.5 11.859 0.5 10.6558V6.99218Z" stroke-width="1"></path>
+    <path id="Rectangle 339" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 6.99218c0 -1.02137 0.83147 -1.84936 1.85714 -1.84936h9.28576c1.0256 0 1.8571 0.82799 1.8571 1.84936v3.66362c0 1.2032 -1.1377 2.096 -2.327 1.8845 -1.25728 -0.2237 -2.82402 -0.4405 -4.173 -0.4405s-2.91572 0.2168 -4.17297 0.4405C1.63765 12.7518 0.5 11.859 0.5 10.6558V6.99218Z" stroke-width="1"></path>
+    <path id="Vector 788" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m4.67859 5.14275 0.46428 -3.71428h3.71429l0.46429 3.71428" stroke-width="1"></path>
+    <path id="Vector 789" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.21429 7.92847h5.57143" stroke-width="1"></path>
+  </g>
+</svg>

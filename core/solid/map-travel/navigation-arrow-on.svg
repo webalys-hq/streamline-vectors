@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="navigation-arrow-on--compass-arrow-map-bearing-navigation-maps-heading-gps-off-disable"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M13.96.695a.5.5 0 0 0-.655-.655l-13 5.5a.5.5 0 0 0-.029.907l4.851 2.426 2.426 4.85a.5.5 0 0 0 .907-.028l5.5-13Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Navigation-Arrow-On--Streamline-Core">
+  <desc>
+    Navigation Arrow On Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="navigation-arrow-on--compass-arrow-map-bearing-navigation-maps-heading-gps-off-disable">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M13.9605 0.69482c0.0793 -0.187513 0.037 -0.404403 -0.1069 -0.548373 -0.144 -0.14397052 -0.3609 -0.1862631 -0.5484 -0.1069306L0.30518 5.53952c-0.179689 0.07602 -0.29874413 0.24962 -0.304928737 0.44463 -0.006184603 0.19501 0.101630737 0.37581 0.276141737 0.46306L5.12732 8.87268l2.42547 4.85092c0.08725 0.1745 0.26805 0.2823 0.46306 0.2761 0.19501 -0.0061 0.36861 -0.1252 0.44463 -0.3049L13.9605 0.69482Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

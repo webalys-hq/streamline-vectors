@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="graph-bar-decrease--arrow-product-performance-down-decrease-graph-business-chart"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.315.606a.75.75 0 0 1 .99-.38l8.591 3.828.361-.795a.75.75 0 0 1 1.386.05l.8 2.16a.75.75 0 0 1-.438.963l-2.15.81a.75.75 0 0 1-.948-1.013l.368-.81-8.58-3.822a.75.75 0 0 1-.38-.99Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.25 5.5a1 1 0 0 0-1 1v7a.5.5 0 0 0 .5.5h2.5a.5.5 0 0 0 .5-.5v-7a1 1 0 0 0-1-1h-1.5Zm5 1.5a1 1 0 0 0-1 1v5.5a.5.5 0 0 0 .5.5h2.5a.5.5 0 0 0 .5-.5V8a1 1 0 0 0-1-1h-1.5Zm4.293 1.793a1 1 0 0 1 .707-.293h1.5a1 1 0 0 1 1 1v4a.5.5 0 0 1-.5.5h-2.5a.5.5 0 0 1-.5-.5v-4a1 1 0 0 1 .293-.707Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Graph-Bar-Decrease--Streamline-Core">
+  <desc>
+    Graph Bar Decrease Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="graph-bar-decrease--arrow-product-performance-down-decrease-graph-business-chart">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1.315 0.606a0.75 0.75 0 0 1 0.99 -0.38l8.591 3.828 0.361 -0.795a0.75 0.75 0 0 1 1.386 0.05l0.8 2.16a0.75 0.75 0 0 1 -0.438 0.963l-2.15 0.81a0.75 0.75 0 0 1 -0.948 -1.013l0.368 -0.81 -8.58 -3.822a0.75 0.75 0 0 1 -0.38 -0.99Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.25 5.5a1 1 0 0 0 -1 1v7a0.5 0.5 0 0 0 0.5 0.5h2.5a0.5 0.5 0 0 0 0.5 -0.5v-7a1 1 0 0 0 -1 -1h-1.5Zm5 1.5a1 1 0 0 0 -1 1v5.5a0.5 0.5 0 0 0 0.5 0.5h2.5a0.5 0.5 0 0 0 0.5 -0.5V8a1 1 0 0 0 -1 -1h-1.5Zm4.293 1.793a1 1 0 0 1 0.707 -0.293h1.5a1 1 0 0 1 1 1v4a0.5 0.5 0 0 1 -0.5 0.5h-2.5a0.5 0.5 0 0 1 -0.5 -0.5v-4a1 1 0 0 1 0.293 -0.707Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

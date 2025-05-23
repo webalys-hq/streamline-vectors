@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="circle-clock--clock-loading-measure-time-circle"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Zm.625-9.5a.625.625 0 1 0-1.25 0V7c0 .146.051.288.145.4l2.5 3a.625.625 0 1 0 .96-.8L7.625 6.774V4.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Circle-Clock--Streamline-Core">
+  <desc>
+    Circle Clock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="circle-clock--clock-loading-measure-time-circle">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M7 14c3.866 0 7 -3.134 7 -7 0 -3.86599 -3.134 -7 -7 -7 -3.86599 0 -7 3.13401 -7 7 0 3.866 3.13401 7 7 7Zm0.625 -9.5c0 -0.34518 -0.27982 -0.625 -0.625 -0.625s-0.625 0.27982 -0.625 0.625V7c0 0.14621 0.05126 0.28779 0.14486 0.40012l2.5 2.99998c0.22098 0.2652 0.61508 0.301 0.88026 0.08 0.26518 -0.2209 0.30098 -0.61504 0.08002 -0.88022L7.625 6.77372V4.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

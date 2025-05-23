@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="inbox-lock--mail-envelope-email-message-secure-password-lock-encryption"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M10.891 0H1.58C.723 0 .028.695.028 1.552v.077l6.207 3.104 6.208-3.104v-.077C12.443.695 11.748 0 10.891 0Zm1.552 3.027L6.515 5.99a.625.625 0 0 1-.56 0L.029 3.027v4.732c0 .858.695 1.552 1.552 1.552h4.51a2.26 2.26 0 0 1 .414-.491 4 4 0 0 1 5.939-3.317V3.027Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9.25 9a1.25 1.25 0 1 1 2.5 0v.5h-2.5V9Zm-1.5.531V9a2.75 2.75 0 0 1 5.5 0v.531a1 1 0 0 1 .75.969V13a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1v-2.5a1 1 0 0 1 .75-.969Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Inbox-Lock--Streamline-Core">
+  <desc>
+    Inbox Lock Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="inbox-lock--mail-envelope-email-message-secure-password-lock-encryption">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M10.8911 0H1.57967C0.722579 0 0.027771 0.694808 0.027771 1.5519v0.07718L6.23535 4.73287l6.20765 -3.1038V1.5519C12.443 0.694808 11.7481 0 10.8911 0Zm1.5519 3.02661L6.51486 5.99066c-0.17595 0.08798 -0.38306 0.08798 -0.55901 0L0.027771 3.02662v4.73287c0 0.85709 0.694808 1.5519 1.551899 1.5519H6.0892c0.1143 -0.18327 0.25425 -0.34884 0.41479 -0.49176C6.59832 6.6942 8.35131 5 10.5 5c0.7051 0 1.3677 0.18246 1.943 0.50275V3.02661Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M9.25 9c0 -0.69036 0.55964 -1.25 1.25 -1.25 0.6904 0 1.25 0.55964 1.25 1.25v0.5h-2.5V9Zm-1.5 0.5315V9c0 -1.51878 1.23122 -2.75 2.75 -2.75 1.5188 0 2.75 1.23122 2.75 2.75v0.5315c0.4313 0.11102 0.75 0.5025 0.75 0.9685V13c0 0.5523 -0.4477 1 -1 1H8c-0.55228 0 -1 -0.4477 -1 -1v-2.5c0 -0.466 0.31869 -0.85748 0.75 -0.9685Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

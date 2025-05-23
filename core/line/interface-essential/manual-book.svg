@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="manual-book"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4.054a1.5 1.5 0 1 1 1.5 1.5v.5"></path><g id="Group 14"><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.116a.25.25 0 0 1 0-.5"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.116a.25.25 0 0 0 0-.5"></path></g><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 13.5H3a1.5 1.5 0 1 1 0-3h8.5a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1H3a1.5 1.5 0 0 0-1.5 1.46v10"></path><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 10.5v3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Manual-Book--Streamline-Core">
+  <desc>
+    Manual Book Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="manual-book">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4.05371c0 -0.29667 0.08797 -0.58668 0.2528 -0.83335 0.16482 -0.24668 0.39909 -0.43894 0.67317 -0.55247 0.27409 -0.11353 0.57569 -0.14323 0.86667 -0.08536 0.29097 0.05788 0.55824 0.20074 0.76802 0.41052 0.20978 0.20978 0.35264 0.47705 0.41052 0.76803 0.05788 0.29097 0.02817 0.59257 -0.08536 0.86666 -0.11353 0.27409 -0.30579 0.50835 -0.55246 0.67318 -0.24668 0.16482 -0.53669 0.25279 -0.83336 0.25279v0.5" stroke-width="1"></path>
+    <g id="Group 14">
+      <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 8.11621c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 8.11621c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 13.5H3c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393C1.65804 12.7794 1.5 12.3978 1.5 12c0 -0.3978 0.15804 -0.7794 0.43934 -1.0607S2.60218 10.5 3 10.5h8.5c0.2652 0 0.5196 -0.1054 0.7071 -0.2929S12.5 9.76522 12.5 9.5v-8c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.707107C12.0196 0.605357 11.7652 0.5 11.5 0.5H3c-0.39099 -0.000139 -0.76658 0.152394 -1.04676 0.425105C1.67305 1.19782 1.51043 1.56915 1.5 1.96v10" stroke-width="1"></path>
+    <path id="vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5 10.5v3" stroke-width="1"></path>
+  </g>
+</svg>

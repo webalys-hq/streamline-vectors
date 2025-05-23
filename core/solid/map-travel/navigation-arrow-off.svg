@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="navigation-arrow-off--compass-arrow-map-bearing-navigation-maps-heading-gps-off-disable"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M.22 1.28A.75.75 0 0 1 1.28.22l3.91 3.908 6.981-2.954a.5.5 0 0 1 .656.656L9.872 8.81l3.908 3.909a.75.75 0 1 1-1.06 1.06L.22 1.28Zm.085 4.914 2.355-.996 6.142 6.142-.996 2.355a.5.5 0 0 1-.908.029L4.765 9.458a.5.5 0 0 0-.223-.223L.276 7.102a.5.5 0 0 1 .03-.908Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Navigation-Arrow-Off--Streamline-Core">
+  <desc>
+    Navigation Arrow Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="navigation-arrow-off--compass-arrow-map-bearing-navigation-maps-heading-gps-off-disable">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M0.21967 1.28033c-0.2928931 -0.292893 -0.2928931 -0.767767 0 -1.06066 0.292893 -0.2928933 0.767767 -0.2928933 1.06066 0l3.90838 3.90838 6.98169 -2.95379c0.4136 -0.174989 0.8303 0.2417 0.6553 0.6553L9.87191 8.81125l3.90839 3.90845c0.2929 0.2929 0.2929 0.7677 0 1.0606 -0.2929 0.2929 -0.7677 0.2929 -1.0606 0L0.21967 1.28033Zm0.085524 4.91382 2.354886 -0.99629 6.14203 6.14204 -0.9963 2.3549c-0.16629 0.393 -0.71684 0.4105 -0.9077 0.0288l-2.1327 -4.26544c-0.04838 -0.09677 -0.12684 -0.17523 -0.2236 -0.22361L0.276408 7.10185c-0.381717 -0.19086 -0.3642574 -0.74141 0.028786 -0.9077Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

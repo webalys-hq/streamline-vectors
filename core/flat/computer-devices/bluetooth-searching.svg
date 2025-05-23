@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection"><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M4 .132a.75.75 0 0 1 .803.118L8.61 3.58a.75.75 0 0 1-.05 1.17L5.49 7l3.07 2.25a.75.75 0 0 1 .05 1.17l-3.806 3.33a.75.75 0 0 1-1.243-.565V8.417L1.422 9.984a.75.75 0 1 1-.887-1.21L2.955 7 .535 5.226a.75.75 0 1 1 .887-1.21L3.56 5.583V.815A.75.75 0 0 1 4 .132Zm1.06 8.412 1.858 1.362-1.858 1.627v-2.99Zm0-3.087v-2.99l1.858 1.627L5.06 5.457Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M11.135 4.2a3.902 3.902 0 0 1 0 5.505.75.75 0 0 0 1.06 1.06 5.402 5.402 0 0 0 0-7.626.75.75 0 1 0-1.06 1.06ZM9.489 5.918c.524.524.524 1.45 0 1.974a.75.75 0 1 0 1.06 1.06c1.11-1.11 1.11-2.985 0-4.095a.75.75 0 1 0-1.06 1.06Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bluetooth-Searching--Streamline-Core">
+  <desc>
+    Bluetooth Searching Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection">
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M4 0.132a0.75 0.75 0 0 1 0.803 0.118L8.61 3.58a0.75 0.75 0 0 1 -0.05 1.17L5.49 7l3.07 2.25a0.75 0.75 0 0 1 0.05 1.17l-3.806 3.33a0.75 0.75 0 0 1 -1.243 -0.565V8.417L1.422 9.984a0.75 0.75 0 1 1 -0.887 -1.21L2.955 7 0.535 5.226a0.75 0.75 0 1 1 0.887 -1.21L3.56 5.583V0.815A0.75 0.75 0 0 1 4 0.132Zm1.06 8.412 1.858 1.362 -1.858 1.627v-2.99Zm0 -3.087v-2.99l1.858 1.627L5.06 5.457Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M11.135 4.2a3.902 3.902 0 0 1 0 5.505 0.75 0.75 0 0 0 1.06 1.06 5.402 5.402 0 0 0 0 -7.626 0.75 0.75 0 1 0 -1.06 1.06ZM9.489 5.918c0.524 0.524 0.524 1.45 0 1.974a0.75 0.75 0 1 0 1.06 1.06c1.11 -1.11 1.11 -2.985 0 -4.095a0.75 0.75 0 1 0 -1.06 1.06Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

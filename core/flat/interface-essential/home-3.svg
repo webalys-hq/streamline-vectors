@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="home-3--home-house-roof-shelter"><path id="Vector 308" fill="#37d7ff" d="M0 6.776a1 1 0 0 1 .318-.731L6.675.12a.5.5 0 0 1 .65 0l6.357 5.925a1 1 0 0 1 .318.731V12.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5V6.776Z"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M8 14H6v-3a1 1 0 1 1 2 0v3Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Home-3--Streamline-Core">
+  <desc>
+    Home 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="home-3--home-house-roof-shelter">
+    <path id="Vector 308" fill="#8fbffa" d="M0 6.776a1 1 0 0 1 0.318 -0.731L6.675 0.12a0.5 0.5 0 0 1 0.65 0l6.357 5.925a1 1 0 0 1 0.318 0.731V12.5a1.5 1.5 0 0 1 -1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5V6.776Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M8 14H6v-3a1 1 0 1 1 2 0v3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="discord"><path id="Ellipse 1140" stroke="#3e3e3e" d="M4.112 6.5a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path><path id="Ellipse 1141" stroke="#3e3e3e" d="M8.612 6.5a.5.5 0 1 0 1 0 .5.5 0 1 0-1 0"></path><path id="Vector 597" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.858 9.864c0-2.401.858-5.574 1.715-6.861 0 0 .858-.429 4.289-.429 3.43 0 4.288.43 4.288.43.858 1.286 1.716 4.459 1.716 6.86-.286.43-1.287 1.373-3.002 1.716l-1.51-1.886a6.586 6.586 0 0 1-2.985 0L3.86 11.58c-1.715-.343-2.716-1.287-3.002-1.716Z"></path><path id="Vector 598" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.86 9.007c.261.261.81.523 1.509.687a6.586 6.586 0 0 0 2.986 0c.699-.164 1.247-.426 1.509-.687"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discord--Streamline-Core">
+  <desc>
+    Discord Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="discord">
+    <path id="Ellipse 1140" stroke="#000000" d="M4.112 6.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Ellipse 1141" stroke="#000000" d="M8.612 6.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" stroke-width="1"></path>
+    <path id="Vector 597" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.858124 9.86442c0 -2.40148 0.857666 -5.57486 1.715346 -6.86137 0 0 0.85767 -0.42883 4.28835 -0.42883s4.28838 0.42883 4.28838 0.42883c0.8576 1.28651 1.7153 4.45989 1.7153 6.86137 -0.2859 0.42888 -1.2865 1.37228 -3.00183 1.71538L8.35493 9.69385c-0.44774 0.10521 -0.95735 0.17057 -1.49311 0.17057 -0.53576 0 -1.04537 -0.06536 -1.49311 -0.17057L3.85997 11.5798c-1.71534 -0.3431 -2.71596 -1.2865 -3.001846 -1.71538Z" stroke-width="1"></path>
+    <path id="Vector 598" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.85999 9.00684c0.26141 0.26141 0.80965 0.52282 1.50873 0.68709 0.44774 0.10521 0.95735 0.17058 1.49311 0.17058 0.53576 0 1.04538 -0.06537 1.49312 -0.17058 0.69908 -0.16427 1.24732 -0.42568 1.50873 -0.68709" stroke-width="1"></path>
+  </g>
+</svg>

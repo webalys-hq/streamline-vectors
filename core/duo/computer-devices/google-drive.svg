@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="google-drive"><path id="Vector" fill="#37d7ff" d="M11.113 12.536H2.997L5.026 8.93h8.341l-2.254 3.607Z"></path><path id="Vector_2" fill="#37d7ff" d="M2.997 12.536.742 8.93 4.8 1.717 7.055 5.32l-4.058 7.215Z"></path><path id="Vector_3" fill="#37d7ff" d="m9.31 1.715 4.057 7.214h-4.06L4.8 1.715h4.51Z"></path><path id="Vector 600" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.997 12.536.742 8.93 4.8 1.715h4.51l4.057 7.214-2.254 3.607H2.997Z"></path><path id="Vector 601" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.798 1.715 4.509 7.214"></path><path id="Vector 602" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.368 8.932H5.023"></path><path id="Vector 603" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.997 12.536 7.055 5.32"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Google-Drive--Streamline-Core">
+  <desc>
+    Google Drive Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="google-drive">
+    <path id="Vector" fill="#d7e0ff" d="M11.1127 12.5363H2.99664l2.02893 -3.60716h8.34163l-2.2545 3.60716Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M2.99665 12.5363 0.742188 8.92913 4.79922 1.71662l2.25561 3.6048 -4.05818 7.21488Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#d7e0ff" d="m9.30916 1.71484 4.05804 7.21429H9.30705L4.80023 1.71484h4.50893Z" stroke-width="1"></path>
+    <path id="Vector 600" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.99665 12.5363 0.742188 8.92913 4.80022 1.71484h4.50893l4.05805 7.21429 -2.2545 3.60717H2.99665Z" stroke-width="1"></path>
+    <path id="Vector 601" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m4.7981 1.71484 4.50892 7.21429" stroke-width="1"></path>
+    <path id="Vector 602" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.3678 8.93195H5.02277" stroke-width="1"></path>
+    <path id="Vector 603" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.99677 12.5357 7.0548 5.32141" stroke-width="1"></path>
+  </g>
+</svg>

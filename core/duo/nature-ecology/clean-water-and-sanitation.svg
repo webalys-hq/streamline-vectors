@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="clean-water-and-sanitation"><path id="Vector" fill="#ffffff" d="M9.773.67H3.95c-.61 0-1.083.536-1.008 1.142l.365 2.902c3.628.518 3.628-1.555 7.255-1.036l.218-1.866A1.015 1.015 0 0 0 9.773.671Z"></path><path id="Vector 817" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.748 8.789v4.39"></path><path id="Vector 818" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.285 11.715 1.463 1.463 1.463-1.463"></path><g id="Vector_2"><path fill="#37d7ff" d="M4.712 8.794h4.3c.511 0 .943-.381 1.007-.89l.543-4.226c-3.627-.519-3.627 1.554-7.255 1.036l.397 3.19c.063.509.495.89 1.008.89Z"></path></g><path id="Rectangle 342" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.942 1.812A1.015 1.015 0 0 1 3.95.671h5.823c.61 0 1.083.535 1.007 1.141l-.761 6.092c-.064.509-.496.89-1.008.89h-4.3c-.512 0-.944-.381-1.007-.89l-.762-6.092Z"></path><path id="Vector 819" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.307 4.714c3.628.518 3.628-1.555 7.255-1.036"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Clean-Water-And-Sanitation--Streamline-Core">
+  <desc>
+    Clean Water And Sanitation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="clean-water-and-sanitation">
+    <path id="Vector" fill="#ffffff" d="M9.77272 0.670776H3.94999c-0.61075 0 -1.08331 0.535294 -1.00755 1.141344l0.36481 2.90199c3.62763 0.51822 3.62763 -1.55469 7.25525 -1.03646l0.2178 -1.86553c0.0757 -0.60605 -0.3968 -1.141344 -1.00758 -1.141344Z" stroke-width="1"></path>
+    <path id="Vector 817" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.7478 8.78882v4.38938" stroke-width="1"></path>
+    <path id="Vector 818" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.28467 11.7151 1.46314 1.4631 1.46314 -1.4631" stroke-width="1"></path>
+    <g id="Vector_2">
+      <path fill="#d7e0ff" d="M4.71154 8.79394h4.29963c0.51209 0 0.94404 -0.38131 1.00753 -0.88945l0.5438 -4.22684c-3.62762 -0.51822 -3.62762 1.55468 -7.25525 1.03646l0.39674 3.19038c0.06351 0.50814 0.49546 0.88945 1.00755 0.88945Z" stroke-width="1"></path>
+    </g>
+    <path id="Rectangle 342" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.94244 1.81212c-0.07576 -0.60605 0.3968 -1.141344 1.00755 -1.141344h5.82273c0.61078 0 1.08328 0.535294 1.00758 1.141344l-0.7616 6.09237c-0.06349 0.50814 -0.49544 0.88945 -1.00753 0.88945H4.71154c-0.51209 0 -0.94404 -0.38131 -1.00755 -0.88945l-0.76155 -6.09237Z" stroke-width="1"></path>
+    <path id="Vector 819" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.30725 4.71411c3.62763 0.51822 3.62763 -1.55469 7.25525 -1.03646" stroke-width="1"></path>
+  </g>
+</svg>

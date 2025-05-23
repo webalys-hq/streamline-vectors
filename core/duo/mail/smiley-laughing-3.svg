@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="smiley-laughing-3"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M13.5 7a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Zm-3.219-1.317a3.5 3.5 0 0 1-6.062 3.5l6.062-3.5Z" clip-rule="evenodd"></path><path id="Ellipse 650" fill="#ffffff" d="M9 10.464a3.5 3.5 0 0 0 1.281-4.781l-6.062 3.5A3.5 3.5 0 0 0 9 10.464Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Ellipse 651" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 10.464a3.5 3.5 0 0 0 1.281-4.781l-6.062 3.5A3.5 3.5 0 0 0 9 10.464Z"></path><path id="Vector 873" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.098 2.902 7.55 4.951l1.732-1"></path><path id="Vector 874" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.902 5.902 2.049.549-1.732 1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Smiley-Laughing-3--Streamline-Core">
+  <desc>
+    Smiley Laughing 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="smiley-laughing-3">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M13.5 7c0 3.5899 -2.9101 6.5 -6.5 6.5C3.41015 13.5 0.5 10.5899 0.5 7 0.5 3.41015 3.41015 0.5 7 0.5c3.5899 0 6.5 2.91015 6.5 6.5Zm-3.2189 -1.31699c0.9665 1.67403 0.3929 3.81459 -1.28108 4.78109 -1.67402 0.9665 -3.81459 0.3929 -4.78109 -1.28109l6.06217 -3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Ellipse 650" fill="#ffffff" d="M9.00002 10.4641c1.67398 -0.96653 2.24758 -3.10709 1.28108 -4.78112l-6.06217 3.5C5.18543 10.857 7.326 11.4306 9.00002 10.4641Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Ellipse 651" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.00002 10.4641c1.67398 -0.96653 2.24758 -3.10709 1.28108 -4.78112l-6.06217 3.5C5.18543 10.857 7.326 11.4306 9.00002 10.4641Z" stroke-width="1"></path>
+    <path id="Vector 873" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m8.09808 2.90198 -0.54904 2.04904 1.73205 -1" stroke-width="1"></path>
+    <path id="Vector 874" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m2.90192 5.90198 2.04903 0.54904 -1.73205 1" stroke-width="1"></path>
+  </g>
+</svg>

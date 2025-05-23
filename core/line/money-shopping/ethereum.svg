@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ethereum--crypto-circle-payment-blokchain-finance-ethereum-eth-currency"><path id="Subtract" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.17.573 4.738 6.432-4.737 6.432-4.738-6.432L7.17.573Z"></path><path id="Subtract_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.908 7.005 7.17 8.578 2.433 7.005"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ethereum--Streamline-Core">
+  <desc>
+    Ethereum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ethereum--crypto-circle-payment-blokchain-finance-ethereum-eth-currency">
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.17063 0.57251 4.73747 6.43247 -4.73747 6.43242 -4.73789 -6.43241L7.17063 0.57251Z" stroke-width="1"></path>
+    <path id="Subtract_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.9079 7.00513 7.17051 8.57848 2.43262 7.00514" stroke-width="1"></path>
+  </g>
+</svg>

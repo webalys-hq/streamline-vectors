@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-incoming--inbox-envelope-email-message-down-arrow-inbox"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M3.394 4.171H2.086c-.905 0-1.638.734-1.638 1.638v6.553c0 .905.733 1.638 1.638 1.638h9.828c.905 0 1.639-.733 1.639-1.638V5.809c0-.904-.734-1.638-1.639-1.638h-1.308c-.08.284-.23.55-.448.767l-1.92 1.92a1.75 1.75 0 0 1-2.475 0l-1.921-1.92a1.748 1.748 0 0 1-.448-.767Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7.75.792a.75.75 0 0 0-1.5 0V3.2H5.08a.5.5 0 0 0-.354.854l1.92 1.92a.5.5 0 0 0 .708 0l1.92-1.92a.5.5 0 0 0-.353-.854H7.75V.792Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M13.553 5.955 7 9.773.448 5.955v1.447l6.237 3.635a.625.625 0 0 0 .63 0l6.237-3.635V5.955Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Incoming--Streamline-Core">
+  <desc>
+    Mail Incoming Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-incoming--inbox-envelope-email-message-down-arrow-inbox">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M3.394 4.171H2.086c-0.905 0 -1.638 0.734 -1.638 1.638v6.553c0 0.905 0.733 1.638 1.638 1.638h9.828c0.905 0 1.639 -0.733 1.639 -1.638V5.809c0 -0.904 -0.734 -1.638 -1.639 -1.638h-1.308c-0.08 0.284 -0.23 0.55 -0.448 0.767l-1.92 1.92a1.75 1.75 0 0 1 -2.475 0l-1.921 -1.92a1.748 1.748 0 0 1 -0.448 -0.767Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7.75 0.792a0.75 0.75 0 0 0 -1.5 0V3.2H5.08a0.5 0.5 0 0 0 -0.354 0.854l1.92 1.92a0.5 0.5 0 0 0 0.708 0l1.92 -1.92a0.5 0.5 0 0 0 -0.353 -0.854H7.75V0.792Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M13.553 5.955 7 9.773 0.448 5.955v1.447l6.237 3.635a0.625 0.625 0 0 0 0.63 0l6.237 -3.635V5.955Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

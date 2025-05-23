@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="store-1--store-shop-shops-stores"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 8.5V13a.5.5 0 0 0 .5.5h10a.5.5 0 0 0 .5-.5V8.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 8.5v5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 10H8"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 4 2 .5h10L13.5 4H.5Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.78 4v1a2 2 0 0 1-2 2H2.5a2 2 0 0 1-2-2V4"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.25 4v1a2 2 0 0 1-2 2h-.5a2 2 0 0 1-2-2V4"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4v1a2 2 0 0 1-2 2h-.25a2 2 0 0 1-2-2V4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Store-1--Streamline-Core">
+  <desc>
+    Store 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="store-1--store-shop-shops-stores">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 8.5V13c0 0.1326 0.05268 0.2598 0.14645 0.3536 0.09376 0.0937 0.22094 0.1464 0.35355 0.1464h10c0.1326 0 0.2598 -0.0527 0.3536 -0.1464 0.0937 -0.0938 0.1464 -0.221 0.1464 -0.3536V8.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 8.5v5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 10H8" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 4 2 0.5h10L13.5 4H0.5Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.78 4v1c0 0.53043 -0.21071 1.03914 -0.58579 1.41421C3.81914 6.78929 3.31043 7 2.78 7H2.5c-0.53043 0 -1.03914 -0.21071 -1.41421 -0.58579C0.710714 6.03914 0.5 5.53043 0.5 5V4" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 4v1c0 0.53043 -0.21071 1.03914 -0.58579 1.41421C8.28914 6.78929 7.78043 7 7.25 7h-0.5c-0.53043 0 -1.03914 -0.21071 -1.41421 -0.58579C4.96071 6.03914 4.75 5.53043 4.75 5V4" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 4v1c0 0.53043 -0.2107 1.03914 -0.5858 1.41421C12.5391 6.78929 12.0304 7 11.5 7h-0.25c-0.5304 0 -1.0391 -0.21071 -1.41421 -0.58579C9.46071 6.03914 9.25 5.53043 9.25 5V4" stroke-width="1"></path>
+  </g>
+</svg>

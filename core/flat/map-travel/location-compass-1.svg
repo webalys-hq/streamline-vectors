@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="location-compass-1--arrow-compass-location-gps-map-maps-point"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M9.74 4.892a.5.5 0 0 0-.632-.632L3.576 6.104a.5.5 0 0 0-.1.903l2.199 1.318 1.318 2.198a.5.5 0 0 0 .903-.099L9.74 4.892Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Compass-1--Streamline-Core">
+  <desc>
+    Location Compass 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-compass-1--arrow-compass-location-gps-map-maps-point">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0a7 7 0 1 0 0 14A7 7 0 0 0 7 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M9.74 4.892a0.5 0.5 0 0 0 -0.632 -0.632L3.576 6.104a0.5 0.5 0 0 0 -0.1 0.903l2.199 1.318 1.318 2.198a0.5 0.5 0 0 0 0.903 -0.099L9.74 4.892Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

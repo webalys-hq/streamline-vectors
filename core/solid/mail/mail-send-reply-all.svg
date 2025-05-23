@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-send-reply-all--email-message-reply-all-actions-action-arrow"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M8.014 2.553a.75.75 0 0 0-1.28-.53L4.006 4.75a.75.75 0 0 0 0 1.06l2.728 2.728a.75.75 0 0 0 1.28-.53V6.03h1.58a2.886 2.886 0 0 1 2.887 2.886v1.818a.75.75 0 0 0 1.5 0V8.917A4.386 4.386 0 0 0 9.595 4.53H8.014V2.553Zm-3.987.53a.75.75 0 0 0-1.061-1.06L.239 4.75a.75.75 0 0 0 0 1.06l2.727 2.728a.75.75 0 1 0 1.06-1.06L1.83 5.28l2.197-2.197Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Reply-All--Streamline-Core">
+  <desc>
+    Mail Send Reply All Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-send-reply-all--email-message-reply-all-actions-action-arrow">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M8.014 2.553a0.75 0.75 0 0 0 -1.28 -0.53L4.006 4.75a0.75 0.75 0 0 0 0 1.06l2.728 2.728a0.75 0.75 0 0 0 1.28 -0.53V6.03h1.58a2.886 2.886 0 0 1 2.887 2.886v1.818a0.75 0.75 0 0 0 1.5 0V8.917A4.386 4.386 0 0 0 9.595 4.53H8.014V2.553Zm-3.987 0.53a0.75 0.75 0 0 0 -1.061 -1.06L0.239 4.75a0.75 0.75 0 0 0 0 1.06l2.727 2.728a0.75 0.75 0 1 0 1.06 -1.06L1.83 5.28l2.197 -2.197Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pathfinder-trim"><path id="Rectangle 752" fill="#ffffff" d="M.5 1.5a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-7Z"></path><path id="Rectangle 761" fill="#37d7ff" d="M4.5 5.5a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-7Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 4.5v-3c0-.545-.455-1-1-1h-7c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 13.5a1 1 0 0 0 1-1v-7c0-.545-.455-1-1-1h-7c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h7Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pathfinder-Trim--Streamline-Core">
+  <desc>
+    Pathfinder Trim Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pathfinder-trim">
+    <path id="Rectangle 752" fill="#ffffff" d="M0.5 1.5c0 -0.552285 0.447715 -1 1 -1h7c0.55228 0 1 0.447715 1 1v7c0 0.55228 -0.44772 1 -1 1h-7c-0.552285 0 -1 -0.44772 -1 -1v-7Z" stroke-width="1"></path>
+    <path id="Rectangle 761" fill="#d7e0ff" d="M4.5 5.5c0 -0.55228 0.44772 -1 1 -1h7c0.5523 0 1 0.44772 1 1v7c0 0.5523 -0.4477 1 -1 1h-7c-0.55228 0 -1 -0.4477 -1 -1v-7Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.5 4.5v-3c0 -0.544667 -0.45533 -1 -1 -1h-7c-0.544667 0 -1 0.455333 -1 1v7c0 0.54467 0.455333 1 1 1h3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 13.5c0.5523 0 1 -0.4477 1 -1v-7c0 -0.54467 -0.4553 -1 -1 -1h-7c-0.54467 0 -1 0.45533 -1 1v7c0 0.5447 0.45533 1 1 1h7Z" stroke-width="1"></path>
+  </g>
+</svg>

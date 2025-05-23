@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="office-worker--office-worker-human-resources"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.03 4.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.716 10.524 5.344 13.5H2.727l-.5-4H.529V8a3.5 3.5 0 0 1 6.942-.634"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.295 9.97c0-.487.395-.882.882-.882h4.412c.487 0 .882.395.882.883v2.647a.882.882 0 0 1-.882.882H8.177a.882.882 0 0 1-.882-.882V9.97Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.176 9.088v-.65a1 1 0 0 1 1-1h.412a1 1 0 0 1 1 1v.65"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Office-Worker--Streamline-Core">
+  <desc>
+    Office Worker Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="office-worker--office-worker-human-resources">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.0293 4.5c1.10457 0 2 -0.89543 2 -2s-0.89543 -2 -2 -2 -2 0.89543 -2 2 0.89543 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.71568 10.5245 5.34375 13.5H2.72656l-0.5 -4H0.529297V8c0 -0.92826 0.368749 -1.8185 1.025123 -2.47487C2.2108 4.86875 3.10104 4.5 4.0293 4.5c0.92825 0 1.81849 0.36875 2.47487 1.02513 0.50486 0.50485 0.83955 1.14806 0.96717 1.84051" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.29492 9.9705c0 -0.48731 0.39505 -0.88237 0.88236 -0.88237h4.41182c0.4873 0 0.8823 0.39506 0.8823 0.88237v2.6471c0 0.4873 -0.395 0.8823 -0.8823 0.8823H8.17728c-0.48731 0 -0.88236 -0.395 -0.88236 -0.8823V9.9705Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.17578 9.08818v-0.65092c0 -0.55229 0.44772 -1 1.00002 -1h0.4126c0.5522 0 1 0.44771 1 1v0.65092" stroke-width="1"></path>
+  </g>
+</svg>

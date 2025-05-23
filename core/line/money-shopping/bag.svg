@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag--bag-payment-cash-money-finance"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5 0 6-1.24 6-4 0-3-1.5-4.52-4.5-6.02l1.298-2.028a.65.65 0 0 0-.56-.95h-4.24a.65.65 0 0 0-.56 1L5.5 3.48C2.5 5 1 6.52 1 9.52c0 2.74 2.5 3.98 6 3.98Z"></path><path id="Vector 19" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 3.5v0a1.803 1.803 0 0 0 3 0v0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag--Streamline-Core">
+  <desc>
+    Bag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag--bag-payment-cash-money-finance">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5001c3.5 0 6 -1.24 6 -3.99996 0 -3 -1.5 -4.52011 -4.5 -6.02011l1.29762 -2.02772c0.05094 -0.09783 0.07615 -0.20702 0.07326 -0.31728 -0.0029 -0.11027 -0.03381 -0.217981 -0.08983 -0.313003 -0.05601 -0.095023 -0.13528 -0.174228 -0.23035 -0.23016 -0.09507 -0.055931 -0.20281 -0.086749 -0.31308 -0.089552h-4.24C4.88 0.500079 4.76398 0.529806 4.66193 0.588325c-0.10206 0.05852 -0.18631 0.143638 -0.24379 0.24628 -0.05748 0.102642 -0.08603 0.218955 -0.0826 0.336545 0.00343 0.11759 0.03871 0.23205 0.10208 0.33116L5.5 3.48003c-3 1.52 -4.5 3.04011 -4.5 6.04011 0 2.73996 2.5 3.97996 6 3.97996Z" stroke-width="1"></path>
+    <path id="Vector 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 3.5v0c0.71358 1.07037 2.28642 1.07037 3 0v0" stroke-width="1"></path>
+  </g>
+</svg>

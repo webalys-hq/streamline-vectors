@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chess-knight"><path id="Rectangle 56" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.42 11.256a.969.969 0 0 1 .919-.662h7.322c.417 0 .787.267.92.662l.747 2.244H1.672l.748-2.244Z"></path><path id="Vector 1178" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.572 10.594c.158-.83 1.306-1.783 2.117-2.418 1.945-1.522 1.765-2.824 1.447-3.177L5.193 6.11a1.233 1.233 0 0 1-1.437-.154v0a1.233 1.233 0 0 1-.237-1.543L4.983 1.93 4.42.658c.93-.33 3.501-.155 4.518.635 1.27.989 2.894 2.489 1.553 9.3"></path><path id="Vector 1179" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.773 3.971a1.89 1.89 0 0 1-.631 1.03"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chess-Knight--Streamline-Core">
+  <desc>
+    Chess Knight Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-knight">
+    <path id="Rectangle 56" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.42004 11.2561c0.13186 -0.3955 0.50204 -0.6623 0.91901 -0.6623l7.32205 0c0.4169 0 0.7871 0.2668 0.919 0.6623l0.7479 2.2438H1.67212l0.74792 -2.2438Z" stroke-width="1"></path>
+    <path id="Vector 1178" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.57157 10.5938c0.15884 -0.82948 1.30596 -1.78247 2.11781 -2.41781 1.94493 -1.52207 1.76472 -2.82374 1.44704 -3.1767l-1.9438 1.11073c-0.46196 0.26398 -1.04114 0.20186 -1.43661 -0.15408v0c-0.43589 -0.39232 -0.53514 -1.03738 -0.23734 -1.5426l1.46469 -2.48481L4.41862 0.657869c0.92946 -0.32943 3.50147 -0.155232 4.51799 0.635401 1.27069 0.98829 2.89429 2.48843 1.55299 9.30053" stroke-width="1"></path>
+    <path id="Vector 1179" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.7732 3.97144c-0.1126 0.48791 -0.38733 0.82617 -0.63148 1.02927" stroke-width="1"></path>
+  </g>
+</svg>

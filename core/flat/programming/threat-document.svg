@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="threat-document--bug-document-file-threat-danger"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M10.65 7.012a1 1 0 0 0-1.736 0l-3.139 5.492A1 1 0 0 0 6.643 14h6.277a1 1 0 0 0 .869-1.496L10.65 7.012Z" clip-rule="evenodd"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M.44.44A1.5 1.5 0 0 1 1.5 0h6a.5.5 0 0 1 .354.146l3 3A.5.5 0 0 1 11 3.5v2.432c-.912-.719-2.34-.524-2.973.584L4.893 12H1.5A1.5 1.5 0 0 1 0 10.5v-9C0 1.102.158.72.44.44Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M10.407 9.5a.625.625 0 0 0-1.25 0v1a.625.625 0 1 0 1.25 0v-1Zm-.625 3.625a.625.625 0 1 0 0-1.25.625.625 0 0 0 0 1.25Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Threat-Document--Streamline-Core">
+  <desc>
+    Threat Document Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="threat-document--bug-document-file-threat-danger">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M10.65 7.012a1 1 0 0 0 -1.736 0l-3.139 5.492A1 1 0 0 0 6.643 14h6.277a1 1 0 0 0 0.869 -1.496L10.65 7.012Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.44 0.44A1.5 1.5 0 0 1 1.5 0h6a0.5 0.5 0 0 1 0.354 0.146l3 3A0.5 0.5 0 0 1 11 3.5v2.432c-0.912 -0.719 -2.34 -0.524 -2.973 0.584L4.893 12H1.5A1.5 1.5 0 0 1 0 10.5v-9C0 1.102 0.158 0.72 0.44 0.44Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M10.407 9.5a0.625 0.625 0 0 0 -1.25 0v1a0.625 0.625 0 1 0 1.25 0v-1Zm-0.625 3.625a0.625 0.625 0 1 0 0 -1.25 0.625 0.625 0 0 0 0 1.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

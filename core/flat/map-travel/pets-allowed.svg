@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pets-allowed--travel-wayfinder-pets-allowed"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.111 1.909c-.821 0-1.573.464-1.94 1.199l-1.32 2.639H4.036a3.588 3.588 0 0 1-2.242-.787L.446 3.882a.25.25 0 0 0-.406.196v8.155a1.69 1.69 0 1 0 3.378 0v-.48a.71.71 0 0 1 .71-.709h1.919a.71.71 0 0 1 .71.71v.48a1.69 1.69 0 1 0 3.378 0v-3.59h1.668a2.169 2.169 0 0 0 2.17-2.169v-.96a.25.25 0 0 0-.171-.236l-2.708-.903V2.16a.25.25 0 0 0-.25-.25h-.733Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M10.135 8.647C9.11 8.43 8.35 7.853 7.799 7.173a5.662 5.662 0 0 1-.884-1.554l-.063.128H5.637a6.913 6.913 0 0 0 1.19 2.213c.737.909 1.818 1.72 3.308 1.958v-1.27Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pets-Allowed--Streamline-Core">
+  <desc>
+    Pets Allowed Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pets-allowed--travel-wayfinder-pets-allowed">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.111 1.909c-0.821 0 -1.573 0.464 -1.94 1.199l-1.32 2.639H4.036a3.588 3.588 0 0 1 -2.242 -0.787L0.446 3.882a0.25 0.25 0 0 0 -0.406 0.196v8.155a1.69 1.69 0 1 0 3.378 0v-0.48a0.71 0.71 0 0 1 0.71 -0.709h1.919a0.71 0.71 0 0 1 0.71 0.71v0.48a1.69 1.69 0 1 0 3.378 0v-3.59h1.668a2.169 2.169 0 0 0 2.17 -2.169v-0.96a0.25 0.25 0 0 0 -0.171 -0.236l-2.708 -0.903V2.16a0.25 0.25 0 0 0 -0.25 -0.25h-0.733Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M10.135 8.647C9.11 8.43 8.35 7.853 7.799 7.173a5.662 5.662 0 0 1 -0.884 -1.554l-0.063 0.128H5.637a6.913 6.913 0 0 0 1.19 2.213c0.737 0.909 1.818 1.72 3.308 1.958v-1.27Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

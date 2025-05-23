@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-circle-single--circle-geometric-human-person-single-user"><path id="Ellipse 4" fill="#37d7ff" d="M0 7a7 7 0 1 0 14 0A7 7 0 1 0 0 7"></path><path id="Ellipse 5" fill="#3e3e3e" d="M4.5 5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0-5 0"></path><path id="Subtract" fill="#3e3e3e" d="M11.243 10.5A5.489 5.489 0 0 0 7 8.5a5.489 5.489 0 0 0-4.243 2A5.489 5.489 0 0 0 7 12.5a5.489 5.489 0 0 0 4.243-2Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Circle-Single--Streamline-Core">
+  <desc>
+    User Circle Single Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-circle-single--circle-geometric-human-person-single-user">
+    <path id="Ellipse 4" fill="#8fbffa" d="M0 7a7 7 0 1 0 14 0A7 7 0 1 0 0 7" stroke-width="1"></path>
+    <path id="Ellipse 5" fill="#2859c5" d="M4.5 5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" d="M11.243 10.5A5.489 5.489 0 0 0 7 8.5a5.489 5.489 0 0 0 -4.243 2A5.489 5.489 0 0 0 7 12.5a5.489 5.489 0 0 0 4.243 -2Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="screen-2--screen-device-electronics-monitor-diplay-computer"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 1.5H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5V2a.5.5 0 0 0-.5-.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.53 13.5a3.51 3.51 0 0 1 6.94 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-2--Streamline-Core">
+  <desc>
+    Screen 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screen-2--screen-device-electronics-monitor-diplay-computer">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 1.5H1c-0.276142 0 -0.5 0.22386 -0.5 0.5v8c0 0.2761 0.223858 0.5 0.5 0.5h12c0.2761 0 0.5 -0.2239 0.5 -0.5V2c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.53003 13.4999c0.12635 -0.8298 0.54587 -1.5868 1.18249 -2.1338 0.63661 -0.547 1.44817 -0.8478 2.28751 -0.8478 0.83934 0 1.6509 0.3008 2.28751 0.8478 0.63662 0.547 1.05616 1.304 1.18246 2.1338" stroke-width="1"></path>
+  </g>
+</svg>

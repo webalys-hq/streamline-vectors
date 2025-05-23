@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shipping-truck--truck-shipping-delivery-transfer"><path id="Vector" fill="#37d7ff" d="M8.5 5.5h3a2 2 0 0 1 2 2v4h-5"></path><path id="Vector_2" fill="#37d7ff" d="M.5 11.5h8v-7a1 1 0 0 0-1-1h-6a1 1 0 0 0-1 1v7Z"></path><path id="Vector_3" fill="#ffffff" d="M3.5 13.5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 5.5h3a2 2 0 0 1 2 2v4H12"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 11.5h-1v-7a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v7"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 11.5H5.5"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 13.5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5Z"></path><path id="Vector_8" fill="#ffffff" d="M10.25 13.5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5Z"></path><path id="Vector_9" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.25 13.5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shipping-Truck--Streamline-Core">
+  <desc>
+    Shipping Truck Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shipping-truck--truck-shipping-delivery-transfer">
+    <path id="Vector" fill="#d7e0ff" d="M8.5 5.5h3c0.5304 0 1.0391 0.21071 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v4h-5" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M0.499996 11.5H8.5l0 -7c0 -0.26522 -0.10536 -0.51957 -0.2929 -0.70711C8.01957 3.60536 7.76521 3.5 7.5 3.5h-6c-0.26522 0 -0.519574 0.10536 -0.70711 0.29289 -0.187537 0.18754 -0.292894 0.44189 -0.292894 0.70711v7Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#ffffff" d="M3.5 13.5c-0.9665 0 -1.75 -0.7835 -1.75 -1.75S2.5335 10 3.5 10s1.75 0.7835 1.75 1.75 -0.7835 1.75 -1.75 1.75Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.5 5.5h3c0.5304 0 1.0391 0.21071 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v4H12" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 11.5h-1v-7c0 -0.26522 0.105357 -0.51957 0.292893 -0.70711C0.98043 3.60536 1.23478 3.5 1.5 3.5h6c0.26522 0 0.51957 0.10536 0.70711 0.29289 0.18753 0.18754 0.29289 0.44189 0.29289 0.70711v7" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8 11.5H5.5" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 13.5c-0.9665 0 -1.75 -0.7835 -1.75 -1.75S2.5335 10 3.5 10s1.75 0.7835 1.75 1.75 -0.7835 1.75 -1.75 1.75Z" stroke-width="1"></path>
+    <path id="Vector_8" fill="#ffffff" d="M10.25 13.5c-0.9665 0 -1.75 -0.7835 -1.75 -1.75S9.2835 10 10.25 10s1.75 0.7835 1.75 1.75 -0.7835 1.75 -1.75 1.75Z" stroke-width="1"></path>
+    <path id="Vector_9" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.25 13.5c-0.9665 0 -1.75 -0.7835 -1.75 -1.75S9.2835 10 10.25 10s1.75 0.7835 1.75 1.75 -0.7835 1.75 -1.75 1.75Z" stroke-width="1"></path>
+  </g>
+</svg>

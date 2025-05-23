@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="receipt-check--shop-shopping-pay-payment-store-cash-bill-receipt-check-confirm"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M.732.732A2.5 2.5 0 0 1 2.5 0H12a.5.5 0 0 1 .181.034A1.5 1.5 0 0 0 11 1.5v12a.5.5 0 0 1-.757.429L8 12.583 5.757 13.93a.5.5 0 0 1-.514 0L3 12.583.757 13.93A.5.5 0 0 1 0 13.5v-11A2.5 2.5 0 0 1 .732.732Z" clip-rule="evenodd"></path><path id="Vector 1296" fill="#3e3e3e" d="M11 1.5V6h2a1 1 0 0 0 1-1V1.5a1.5 1.5 0 0 0-3 0Z"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M8.744 3.936a.75.75 0 0 1 .07 1.058l-3.5 4A.75.75 0 0 1 4.3 9.1l-2-1.5a.75.75 0 1 1 .9-1.2l1.444 1.083 3.042-3.477a.75.75 0 0 1 1.058-.07Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Receipt-Check--Streamline-Core">
+  <desc>
+    Receipt Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="receipt-check--shop-shopping-pay-payment-store-cash-bill-receipt-check-confirm">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.732 0.732A2.5 2.5 0 0 1 2.5 0H12a0.5 0.5 0 0 1 0.181 0.034A1.5 1.5 0 0 0 11 1.5v12a0.5 0.5 0 0 1 -0.757 0.429L8 12.583 5.757 13.93a0.5 0.5 0 0 1 -0.514 0L3 12.583 0.757 13.93A0.5 0.5 0 0 1 0 13.5v-11A2.5 2.5 0 0 1 0.732 0.732Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1296" fill="#2859c5" d="M11 1.5V6h2a1 1 0 0 0 1 -1V1.5a1.5 1.5 0 0 0 -3 0Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M8.744 3.936a0.75 0.75 0 0 1 0.07 1.058l-3.5 4A0.75 0.75 0 0 1 4.3 9.1l-2 -1.5a0.75 0.75 0 1 1 0.9 -1.2l1.444 1.083 3.042 -3.477a0.75 0.75 0 0 1 1.058 -0.07Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

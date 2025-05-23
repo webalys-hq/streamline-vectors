@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="speaker-2--speakers-music-audio-entertainment"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M3 0a1.5 1.5 0 0 0-1.5 1.5v11A1.5 1.5 0 0 0 3 14h8a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 11 0H3Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.831 3.056a1.169 1.169 0 1 1 2.338 0 1.169 1.169 0 0 1-2.338 0ZM10.291 9a3.29 3.29 0 1 1-6.582 0 3.29 3.29 0 0 1 6.582 0Z" clip-rule="evenodd"></path><path id="Union_3" fill="#37d7ff" fill-rule="evenodd" d="M7 7.842a1.158 1.158 0 1 0 0 2.316 1.158 1.158 0 0 0 0-2.316Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Speaker-2--Streamline-Core">
+  <desc>
+    Speaker 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="speaker-2--speakers-music-audio-entertainment">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M3 0c-0.82843 0 -1.5 0.671573 -1.5 1.5v11c0 0.8284 0.67157 1.5 1.5 1.5h8c0.8284 0 1.5 -0.6716 1.5 -1.5v-11C12.5 0.671573 11.8284 0 11 0H3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.83142 3.05562c0 -0.64536 0.52317 -1.16854 1.16854 -1.16854 0.64536 0 1.16853 0.52318 1.16853 1.16854 0 0.64536 -0.52317 1.16854 -1.16853 1.16854 -0.64537 0 -1.16854 -0.52318 -1.16854 -1.16854Zm4.45928 5.94439c0 1.81739 -1.47329 3.29079 -3.29072 3.29079 -1.81743 0 -3.29075 -1.4734 -3.29075 -3.29079 0 -1.81743 1.47332 -3.29075 3.29075 -3.29075s3.29072 1.47332 3.29072 3.29075Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#8fbffa" fill-rule="evenodd" d="M7.00001 7.8418c-0.63963 0 -1.15815 0.51852 -1.15815 1.15815 0 0.63962 0.51852 1.15815 1.15815 1.15815s1.15815 -0.51853 1.15815 -1.15815c0 -0.63963 -0.51852 -1.15815 -1.15815 -1.15815Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-redo-spark--arrow-refresh-sync-synchronize-artificial-intelligence-ai"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.04 13.448v-2.48h2.48"></path><path id="Ellipse 1132" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.339 5.815a6.449 6.449 0 0 1-11.3 5.308"></path><path id="Ellipse 1133" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.661 8.185a6.449 6.449 0 0 1 11.3-5.308"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.96.552v2.48H9.48"></path><path id="Vector 2136" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.09 7.334c-.351-.061-.351-.565 0-.626a3.176 3.176 0 0 0 2.558-2.45l.021-.097c.076-.347.57-.349.649-.003l.026.113a3.193 3.193 0 0 0 2.565 2.435c.353.061.353.568 0 .63A3.193 3.193 0 0 0 7.344 9.77l-.026.112c-.079.346-.573.344-.649-.003l-.02-.096a3.176 3.176 0 0 0-2.56-2.45Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Redo-Spark--Streamline-Core">
+  <desc>
+    Ai Redo Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-redo-spark--arrow-refresh-sync-synchronize-artificial-intelligence-ai">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.03955 13.4484v-2.4801H4.5197" stroke-width="1"></path>
+    <path id="Ellipse 1132" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.3389 5.81494c0.6171 3.28168 -1.3911 6.53506 -4.66992 7.41366 -2.50947 0.6724 -5.06997 -0.2321 -6.62943 -2.1061" stroke-width="1"></path>
+    <path id="Ellipse 1133" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.661145 8.18502C0.0440415 4.90334 2.05229 1.64992 5.33108 0.771373c2.5093 -0.6723653 5.06962 0.231967 6.62912 2.105707" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.9601 0.551758V3.03191H9.47998" stroke-width="1"></path>
+    <path id="Vector 2136" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.08961 7.33361c-0.35093 -0.06105 -0.35093 -0.56483 0 -0.62588 1.27136 -0.22118 2.28255 -1.18955 2.5585 -2.45015l0.02115 -0.09663c0.07593 -0.34683 0.56977 -0.34899 0.64872 -0.00284l0.02569 0.11261c0.28616 1.25466 1.29762 2.21484 2.56545 2.43541 0.35268 0.06137 0.35268 0.56771 0 0.62907 -1.26783 0.22057 -2.27929 1.18076 -2.56545 2.43541l-0.02569 0.11261c-0.07895 0.34618 -0.57279 0.34398 -0.64872 -0.00283l-0.02115 -0.09663c-0.27595 -1.26061 -1.28714 -2.22897 -2.5585 -2.45015Z" stroke-width="1"></path>
+  </g>
+</svg>

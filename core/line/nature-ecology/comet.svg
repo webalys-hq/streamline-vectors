@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="comet--nature-meteor-fall-space-object-danger"><path id="Ellipse 209" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5.5 2.025 7.025a3.5 3.5 0 0 0 4.95 4.95L13.5 5.5"></path><path id="Ellipse 210" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 9.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0-3 0"></path><path id="Vector 9" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 7.5 11.5 4m-5 2L12 .5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Comet--Streamline-Core">
+  <desc>
+    Comet Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="comet--nature-meteor-fall-space-object-danger">
+    <path id="Ellipse 209" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.5 0.5 2.02513 7.02512c-1.366839 1.36684 -1.366839 3.58288 0 4.94978 1.36683 1.3668 3.58291 1.3668 4.94974 0L13.5 5.5" stroke-width="1"></path>
+    <path id="Ellipse 210" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 9.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" stroke-width="1"></path>
+    <path id="Vector 9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 7.5 11.5 4m-5 2L12 0.5" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="projector-board--projector-screen-work-meeting-presentation"><path id="Vector" fill="#ffffff" d="M12.5.5h-11a1 1 0 0 0-1 1v2h13v-2a1 1 0 0 0-1-1Z"></path><path id="Vector_2" fill="#37d7ff" d="M13.5 9.5v-6H.5v6a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 3.5h13"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.5v3"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.5 10.5-3 3"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.5 10.5 3 3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Projector-Board--Streamline-Core">
+  <desc>
+    Projector Board Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="projector-board--projector-screen-work-meeting-presentation">
+    <path id="Vector" fill="#ffffff" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v2h13v-2c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M13.5 9.5v-6H0.5v6c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v8c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-8c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 3.5h13" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 10.5v3" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.5 10.5 -3 3" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m8.5 10.5 3 3" stroke-width="1"></path>
+  </g>
+</svg>

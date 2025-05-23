@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="desktop-check--success-approve-device-display-desktop-computer"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.635 10.577a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.332l.687 1.918H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.918Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M13.748.19a.75.75 0 0 1 .063 1.058l-4 4.5A.75.75 0 0 1 8.8 5.85l-2-1.5a.75.75 0 0 1 .9-1.2l1.448 1.086L12.69.252a.75.75 0 0 1 1.058-.063Z" clip-rule="evenodd"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M10.796.5h-9.34C.653.5 0 1.152 0 1.957v7.586C0 10.348.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V2.917l-3.255 3.662a2 2 0 0 1-2.695.271l-2-1.5a2 2 0 1 1 2.4-3.2l.528.396L10.796.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Check--Streamline-Core">
+  <desc>
+    Desktop Check Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="desktop-check--success-approve-device-display-desktop-computer">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.635 10.577a0.5 0.5 0 0 1 0.47 -0.332h1.79a0.5 0.5 0 0 1 0.47 0.332l0.687 1.918H10a0.75 0.75 0 1 1 0 1.5H4a0.75 0.75 0 0 1 0 -1.5h0.948l0.686 -1.918Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M13.748 0.19a0.75 0.75 0 0 1 0.063 1.058l-4 4.5A0.75 0.75 0 0 1 8.8 5.85l-2 -1.5a0.75 0.75 0 0 1 0.9 -1.2l1.448 1.086L12.69 0.252a0.75 0.75 0 0 1 1.058 -0.063Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M10.796 0.5h-9.34C0.653 0.5 0 1.152 0 1.957v7.586C0 10.348 0.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V2.917l-3.255 3.662a2 2 0 0 1 -2.695 0.271l-2 -1.5a2 2 0 1 1 2.4 -3.2l0.528 0.396L10.796 0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

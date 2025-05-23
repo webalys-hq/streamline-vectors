@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="download-circle--arrow-circle-down-download-internet-network-server-upload"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Zm3.146-5.69-2.793 2.793a.5.5 0 0 1-.707 0L3.854 8.31a.5.5 0 0 1 .353-.853H6V3.75a1 1 0 0 1 2 0v3.707h1.793a.5.5 0 0 1 .353.853Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Download-Circle--Streamline-Core">
+  <desc>
+    Download Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="download-circle--arrow-circle-down-download-internet-network-server-upload">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M7 14c3.866 0 7 -3.134 7 -7 0 -3.86599 -3.134 -7 -7 -7 -3.86599 0 -7 3.13401 -7 7 0 3.866 3.13401 7 7 7Zm3.1464 -5.68958L7.3535 11.1033c-0.19526 0.1953 -0.51184 0.1953 -0.7071 0L3.8535 8.31042c-0.31498 -0.31499 -0.09189 -0.85356 0.35356 -0.85356h1.79289l0 -3.70686c0 -0.55228 0.44772 -1 1 -1 0.55229 0 1 0.44772 1 1l0 3.70686h1.79289c0.44546 0 0.66856 0.53857 0.35356 0.85356Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

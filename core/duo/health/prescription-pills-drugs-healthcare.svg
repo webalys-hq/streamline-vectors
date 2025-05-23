@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="prescription-pills-drugs-healthcare"><path id="vector 2133" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5.5v12"></path><path id="vector 2134" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5.5h5.75A2.75 2.75 0 0 1 10 3.25v0A2.75 2.75 0 0 1 7.25 6H1.5"></path><path id="vector 2135" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.5 6 8 7.5"></path><path id="vector 2136" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 13.5 12.5 7"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Prescription-Pills-Drugs-Healthcare--Streamline-Core">
+  <desc>
+    Prescription Pills Drugs Healthcare Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="prescription-pills-drugs-healthcare">
+    <path id="vector 2133" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 0.5v12" stroke-width="1"></path>
+    <path id="vector 2134" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 0.5h5.75C8.76878 0.5 10 1.73122 10 3.25v0C10 4.76878 8.76878 6 7.25 6H1.5" stroke-width="1"></path>
+    <path id="vector 2135" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m4.5 6 8 7.5" stroke-width="1"></path>
+    <path id="vector 2136" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6 13.5 12.5 7" stroke-width="1"></path>
+  </g>
+</svg>

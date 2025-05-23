@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dashboard-circle--app-application-dashboard-home-layout-circle"><path id="Vector" fill="#37d7ff" d="M3.25 6a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_2" fill="#37d7ff" d="M10.75 6a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_3" fill="#37d7ff" d="M3.25 13.5a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_4" fill="#37d7ff" d="M10.75 13.5a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.25 6a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.75 6a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.25 13.5a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.75 13.5a2.75 2.75 0 1 0 0-5.5 2.75 2.75 0 0 0 0 5.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dashboard-Circle--Streamline-Core">
+  <desc>
+    Dashboard Circle Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dashboard-circle--app-application-dashboard-home-layout-circle">
+    <path id="Vector" fill="#d7e0ff" d="M3.25 6C4.76878 6 6 4.76878 6 3.25S4.76878 0.5 3.25 0.5 0.5 1.73122 0.5 3.25 1.73122 6 3.25 6Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M10.75 6c1.5188 0 2.75 -1.23122 2.75 -2.75S12.2688 0.5 10.75 0.5C9.23122 0.5 8 1.73122 8 3.25S9.23122 6 10.75 6Z" stroke-width="1"></path>
+    <path id="Vector_3" fill="#d7e0ff" d="M3.25 13.5C4.76878 13.5 6 12.2688 6 10.75 6 9.23122 4.76878 8 3.25 8S0.5 9.23122 0.5 10.75c0 1.5188 1.23122 2.75 2.75 2.75Z" stroke-width="1"></path>
+    <path id="Vector_4" fill="#d7e0ff" d="M10.75 13.5c1.5188 0 2.75 -1.2312 2.75 -2.75C13.5 9.23122 12.2688 8 10.75 8 9.23122 8 8 9.23122 8 10.75c0 1.5188 1.23122 2.75 2.75 2.75Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.25 6C4.76878 6 6 4.76878 6 3.25S4.76878 0.5 3.25 0.5 0.5 1.73122 0.5 3.25 1.73122 6 3.25 6Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.75 6c1.5188 0 2.75 -1.23122 2.75 -2.75S12.2688 0.5 10.75 0.5C9.23122 0.5 8 1.73122 8 3.25S9.23122 6 10.75 6Z" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.25 13.5C4.76878 13.5 6 12.2688 6 10.75 6 9.23122 4.76878 8 3.25 8S0.5 9.23122 0.5 10.75c0 1.5188 1.23122 2.75 2.75 2.75Z" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.75 13.5c1.5188 0 2.75 -1.2312 2.75 -2.75C13.5 9.23122 12.2688 8 10.75 8 9.23122 8 8 9.23122 8 10.75c0 1.5188 1.23122 2.75 2.75 2.75Z" stroke-width="1"></path>
+  </g>
+</svg>

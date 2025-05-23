@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cone-shape"><path id="rectangle 631" fill="#37d7ff" d="M6.489.872 1.793 9.99a.5.5 0 0 0 .444.729l10.049.003-5.07-9.85c-.173-.336-.554-.336-.727 0Z"></path><path id="rectangle 632" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.489.872 1.793 9.99a.5.5 0 0 0 .444.729l10.049.003-5.07-9.85c-.173-.336-.554-.336-.727 0Z"></path><path id="vector" fill="#ffffff" d="M6.852 13.38c3.041 0 5.507-1.01 5.507-2.256 0-1.246-2.466-2.256-5.507-2.256-3.042 0-5.508 1.01-5.508 2.256 0 1.246 2.466 2.256 5.508 2.256Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.852 13.38c3.041 0 5.507-1.01 5.507-2.256 0-1.246-2.466-2.256-5.507-2.256-3.042 0-5.508 1.01-5.508 2.256 0 1.246 2.466 2.256 5.508 2.256Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cone-Shape--Streamline-Core">
+  <desc>
+    Cone Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cone-shape">
+    <path id="rectangle 631" fill="#d7e0ff" d="M6.4887 0.871711 1.79284 9.98957c-0.17134 0.33273 0.07012 0.72883 0.44435 0.72893l10.04841 0.0033L7.21574 0.871841C7.04268 0.535614 6.66183 0.535546 6.4887 0.871711Z" stroke-width="1"></path>
+    <path id="rectangle 632" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.4887 0.871711 1.79284 9.98957c-0.17134 0.33273 0.07012 0.72883 0.44435 0.72893l10.04841 0.0033L7.21574 0.871841C7.04268 0.535614 6.66183 0.535546 6.4887 0.871711Z" stroke-width="1"></path>
+    <path id="vector" fill="#ffffff" d="M6.85156 13.3804c3.04188 0 5.50784 -1.0102 5.50784 -2.2563 0 -1.24612 -2.46596 -2.2563 -5.50784 -2.2563s-5.50781 1.01018 -5.50781 2.2563c0 1.2461 2.46593 2.2563 5.50781 2.2563Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.85156 13.3804c3.04188 0 5.50784 -1.0102 5.50784 -2.2563 0 -1.24612 -2.46596 -2.2563 -5.50784 -2.2563s-5.50781 1.01018 -5.50781 2.2563c0 1.2461 2.46593 2.2563 5.50781 2.2563Z" stroke-width="1"></path>
+  </g>
+</svg>

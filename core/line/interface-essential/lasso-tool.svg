@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="lasso-tool"><path id="Vector 1053" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.123 12.709c1.518 0 1.897-1.073 1.897-1.61 0-.535-.38-1.608-1.897-1.608-1.518 0-1.897 1.073-1.897 1.609s.38 1.609 1.897 1.609Z"></path><path id="Vector 1039" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9.806C1.8 9.806.5 6.744.5 5.213.5 3.683 1.8.621 7 .621s6.5 3.062 6.5 4.592c0 1.531-1.3 4.593-6.5 4.593Z"></path><path id="Vector 1054" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.586 10.032c1.01 1.147 1.683 1.912 1.68 3.345"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lasso-Tool--Streamline-Core">
+  <desc>
+    Lasso Tool Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lasso-tool">
+    <path id="Vector 1053" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.12299 12.7087c1.51793 0 1.89741 -1.0725 1.89741 -1.6088 0 -0.5362 -0.37948 -1.60869 -1.89741 -1.60869 -1.51792 0 -1.8974 1.07249 -1.8974 1.60869 0 0.5363 0.37948 1.6088 1.8974 1.6088Z" stroke-width="1"></path>
+    <path id="Vector 1039" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9.80597c-5.2 0 -6.5 -3.06171 -6.5 -4.59256C0.5 3.68256 1.8 0.62085 7 0.62085s6.5 3.06171 6.5 4.59256c0 1.53085 -1.3 4.59256 -6.5 4.59256Z" stroke-width="1"></path>
+    <path id="Vector 1054" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.58589 10.0322c1.0096 1.1471 1.68267 1.9118 1.67927 3.3453" stroke-width="1"></path>
+  </g>
+</svg>

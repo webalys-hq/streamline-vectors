@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="electric-cord-3--electricity-electronic-appliances-device-cord-cable-plug-connection"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M7 1.533a5.5 5.5 0 0 0-2.75 10.265.75.75 0 0 1-.75 1.299 7 7 0 1 1 4.615.849c-1.083.172-1.865-.735-1.865-1.663v-1.452a3.642 3.642 0 0 0 1.5 0v1.452c0 .073.03.128.06.158.015.013.027.02.035.022a.066.066 0 0 0 .032 0A5.502 5.502 0 0 0 7 1.534Zm2.313 3.448V3.815a.75.75 0 1 0-1.5 0V4.98h1.5Zm-3.126 0V3.815a.75.75 0 1 0-1.5 0V4.98h1.5Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M4.123 4.981a.75.75 0 0 0-.75.75v1.55a3.628 3.628 0 1 0 7.255 0V5.73a.75.75 0 0 0-.75-.75H4.123Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Electric-Cord-3--Streamline-Core">
+  <desc>
+    Electric Cord 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="electric-cord-3--electricity-electronic-appliances-device-cord-cable-plug-connection">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M7 1.533a5.5 5.5 0 0 0 -2.75 10.265 0.75 0.75 0 0 1 -0.75 1.299 7 7 0 1 1 4.615 0.849c-1.083 0.172 -1.865 -0.735 -1.865 -1.663v-1.452a3.642 3.642 0 0 0 1.5 0v1.452c0 0.073 0.03 0.128 0.06 0.158 0.015 0.013 0.027 0.02 0.035 0.022a0.066 0.066 0 0 0 0.032 0A5.502 5.502 0 0 0 7 1.534Zm2.313 3.448V3.815a0.75 0.75 0 1 0 -1.5 0V4.98h1.5Zm-3.126 0V3.815a0.75 0.75 0 1 0 -1.5 0V4.98h1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M4.123 4.981a0.75 0.75 0 0 0 -0.75 0.75v1.55a3.628 3.628 0 1 0 7.255 0V5.73a0.75 0.75 0 0 0 -0.75 -0.75H4.123Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

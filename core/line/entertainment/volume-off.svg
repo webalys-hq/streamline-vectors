@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="volume-off--speaker-music-mute-volume-control-audio-off-mute-entertainment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5.5.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.518 11.982a.969.969 0 0 1-.608-.172L5 9H3.5c-.545 0-1-.455-1-1V6c0-.256.1-.492.264-.67"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5 5 4-2.81a.954.954 0 0 1 1.5.81v7.492"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volume-Off--Streamline-Core">
+  <desc>
+    Volume Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="volume-off--speaker-music-mute-volume-control-audio-off-mute-entertainment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5 0.5 0.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.51799 11.982c-0.20691 0.011 -0.41948 -0.0412 -0.60799 -0.1716L5 9.00038H3.5c-0.54467 0 -1 -0.45534 -1 -1v-2c0 -0.25612 0.10068 -0.49248 0.26398 -0.67103" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5 5.00026 4 -2.81002c0.6471 -0.44773 1.5187 0.02316 1.5 0.81v7.49186" stroke-width="1"></path>
+  </g>
+</svg>

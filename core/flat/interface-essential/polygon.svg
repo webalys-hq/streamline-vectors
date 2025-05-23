@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="polygon--polygon-octangle-design-geometric-shape-shapes-shape"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M4.914 0a1.5 1.5 0 0 0-1.06.44L.439 3.853A1.5 1.5 0 0 0 0 4.914v4.172c0 .398.158.78.44 1.06l3.414 3.415a1.5 1.5 0 0 0 1.06.439h4.172a1.5 1.5 0 0 0 1.06-.44l3.415-3.414A1.5 1.5 0 0 0 14 9.086V4.914a1.5 1.5 0 0 0-.44-1.06L10.147.439A1.5 1.5 0 0 0 9.086 0H4.914Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Polygon--Streamline-Core">
+  <desc>
+    Polygon Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="polygon--polygon-octangle-design-geometric-shape-shapes-shape">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M4.914 0a1.5 1.5 0 0 0 -1.06 0.44L0.439 3.853A1.5 1.5 0 0 0 0 4.914v4.172c0 0.398 0.158 0.78 0.44 1.06l3.414 3.415a1.5 1.5 0 0 0 1.06 0.439h4.172a1.5 1.5 0 0 0 1.06 -0.44l3.415 -3.414A1.5 1.5 0 0 0 14 9.086V4.914a1.5 1.5 0 0 0 -0.44 -1.06L10.147 0.439A1.5 1.5 0 0 0 9.086 0H4.914Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

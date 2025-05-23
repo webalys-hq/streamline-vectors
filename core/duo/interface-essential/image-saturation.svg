@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="image-saturation"><path id="Vector" fill="#37d7ff" d="M12 8.996C12 5.498 7 .5 7 .5S2 5.498 2 8.996a4.767 4.767 0 0 0 1.572 3.28C4.509 13.12 6 13.494 7 13.494s2.491-.375 3.428-1.218A4.767 4.767 0 0 0 12 8.996Z"></path><path id="Vector_2" fill="#ffffff" d="M6.835 11.473V4C5.84 4.902 3.85 6.615 3.85 9.081c0 1.825 1.99 2.417 2.985 2.392Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.835 11.473V4C5.84 4.902 3.85 6.615 3.85 9.081c0 1.825 1.99 2.417 2.985 2.392Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12 8.996C12 5.498 7 .5 7 .5S2 5.498 2 8.996a4.767 4.767 0 0 0 1.572 3.28C4.509 13.12 6 13.494 7 13.494s2.491-.375 3.428-1.218A4.767 4.767 0 0 0 12 8.996Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Image-Saturation--Streamline-Core">
+  <desc>
+    Image Saturation Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="image-saturation">
+    <path id="Vector" fill="#d7e0ff" d="M12 8.99614C12 5.49773 7 0.5 7 0.5S2 5.49773 2 8.99614c0.06978 1.25796 0.63485 2.43716 1.57172 3.27996C4.5086 13.1189 6 13.4941 7 13.4941s2.4914 -0.3752 3.4283 -1.218c0.9369 -0.8428 1.5019 -2.022 1.5717 -3.27996Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#ffffff" d="M6.83494 11.4731V4c-0.99499 0.90245 -2.98496 2.61467 -2.98496 5.08099 0 1.82471 1.98997 2.41681 2.98496 2.39211Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.83494 11.4731V4c-0.99499 0.90245 -2.98496 2.61467 -2.98496 5.08099 0 1.82471 1.98997 2.41681 2.98496 2.39211Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12 8.99614C12 5.49773 7 0.5 7 0.5S2 5.49773 2 8.99614c0.06978 1.25796 0.63485 2.43716 1.57172 3.27996C4.5086 13.1189 6 13.4941 7 13.4941s2.4914 -0.3752 3.4283 -1.218c0.9369 -0.8428 1.5019 -2.022 1.5717 -3.27996Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wave-signal-square--heart-line-stats-beat-square-graph"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 0A3.5 3.5 0 0 0 0 3.5v2.895h4.145l1.319-2.206a.625.625 0 0 1 1.139.156l1.14 4.178 1.237-1.85a.625.625 0 0 1 .52-.278H14V3.5A3.5 3.5 0 0 0 10.5 0h-7ZM14 7.645H9.834L8.02 10.357a.625.625 0 0 1-1.123-.183L5.783 6.091l-.747 1.25a.625.625 0 0 1-.536.304H0V10.5A3.5 3.5 0 0 0 3.5 14h7a3.5 3.5 0 0 0 3.5-3.5V7.645Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wave-Signal-Square--Streamline-Core">
+  <desc>
+    Wave Signal Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wave-signal-square--heart-line-stats-beat-square-graph">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M3.5 0C1.567 0 0 1.567 0 3.5v2.89477h4.1454l1.3181 -2.20562c0.12854 -0.21509 0.37311 -0.33262 0.62136 -0.2986 0.24825 0.03403 0.45219 0.21303 0.51812 0.45477l1.13943 4.17791L8.9805 6.67228c0.116 -0.17341 0.31087 -0.27751 0.5195 -0.27751H14V3.5C14 1.567 12.433 0 10.5 0h-7ZM14 7.64477H9.83387L8.0195 10.3573c-0.13611 0.2034 -0.37848 0.3087 -0.62009 0.2693 -0.24161 -0.0394 -0.43798 -0.2162 -0.50239 -0.4524L5.78333 6.09068l-0.74683 1.2497c-0.11282 0.18879 -0.31657 0.30439 -0.5365 0.30439H0V10.5C0 12.433 1.567 14 3.5 14h7c1.933 0 3.5 -1.567 3.5 -3.5V7.64477Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

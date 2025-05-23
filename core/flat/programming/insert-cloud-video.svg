@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="insert-cloud-video"><path id="vector" fill="#3e3e3e" d="M5.171 7.525a.5.5 0 0 1 .765-.424l3.52 2.2a.5.5 0 0 1 0 .848l-3.52 2.2a.5.5 0 0 1-.765-.424v-4.4Z"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M4.685 2.05a3.93 3.93 0 0 1 6.21 1.835l.11.006a3.17 3.17 0 0 1-.032 6.329h-.103a1.747 1.747 0 0 0-.752-1.979l-3.52-2.2c-1.165-.728-2.677.11-2.677 1.484v2.695h-.553a3.17 3.17 0 1 1-.017-6.33l.07-.005A3.93 3.93 0 0 1 4.686 2.05Zm4.657 8.17.114-.071-.114.071Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Insert-Cloud-Video--Streamline-Core">
+  <desc>
+    Insert Cloud Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="insert-cloud-video">
+    <path id="vector" fill="#2859c5" d="M5.171 7.525a0.5 0.5 0 0 1 0.765 -0.424l3.52 2.2a0.5 0.5 0 0 1 0 0.848l-3.52 2.2a0.5 0.5 0 0 1 -0.765 -0.424v-4.4Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M4.685 2.05a3.93 3.93 0 0 1 6.21 1.835l0.11 0.006a3.17 3.17 0 0 1 -0.032 6.329h-0.103a1.747 1.747 0 0 0 -0.752 -1.979l-3.52 -2.2c-1.165 -0.728 -2.677 0.11 -2.677 1.484v2.695h-0.553a3.17 3.17 0 1 1 -0.017 -6.33l0.07 -0.005A3.93 3.93 0 0 1 4.686 2.05Zm4.657 8.17 0.114 -0.071 -0.114 0.071Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

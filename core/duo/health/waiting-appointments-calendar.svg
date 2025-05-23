@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="waiting-appointments-calendar"><g id="vector"><path fill="#37d7ff" d="M1.5 2a1 1 0 0 0-1 1v9.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-11Z"></path></g><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 2a1 1 0 0 0-1 1v9.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-2"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5.5v3"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5.5v3"></path><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 2h5"></path><path id="union" fill="#ffffff" d="M6.188 4.531a.5.5 0 0 0-.5.5v1.407H4.28a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.407v1.406a.5.5 0 0 0 .5.5h1.625a.5.5 0 0 0 .5-.5V9.063h1.406a.5.5 0 0 0 .5-.5V6.938a.5.5 0 0 0-.5-.5H8.313V5.03a.5.5 0 0 0-.5-.5H6.188Z"></path><path id="union_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.188 4.531a.5.5 0 0 0-.5.5v1.407H4.28a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.407v1.406a.5.5 0 0 0 .5.5h1.625a.5.5 0 0 0 .5-.5V9.063h1.406a.5.5 0 0 0 .5-.5V6.938a.5.5 0 0 0-.5-.5H8.313V5.03a.5.5 0 0 0-.5-.5H6.188Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Waiting-Appointments-Calendar--Streamline-Core">
+  <desc>
+    Waiting Appointments Calendar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="waiting-appointments-calendar">
+    <g id="vector">
+      <path fill="#d7e0ff" d="M1.5 2a1 1 0 0 0 -1 1v9.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1 -1V3a1 1 0 0 0 -1 -1h-11Z" stroke-width="1"></path>
+    </g>
+    <path id="vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 2a1 1 0 0 0 -1 1v9.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1 -1V3a1 1 0 0 0 -1 -1h-2" stroke-width="1"></path>
+    <path id="vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 0.5v3" stroke-width="1"></path>
+    <path id="vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.5v3" stroke-width="1"></path>
+    <path id="vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 2h5" stroke-width="1"></path>
+    <path id="union" fill="#ffffff" d="M6.188 4.531a0.5 0.5 0 0 0 -0.5 0.5v1.407l-1.407 0a0.5 0.5 0 0 0 -0.5 0.5v1.625a0.5 0.5 0 0 0 0.5 0.5h1.407v1.406a0.5 0.5 0 0 0 0.5 0.5h1.625a0.5 0.5 0 0 0 0.5 -0.5V9.063h1.406a0.5 0.5 0 0 0 0.5 -0.5V6.938a0.5 0.5 0 0 0 -0.5 -0.5l-1.406 0V5.03a0.5 0.5 0 0 0 -0.5 -0.5H6.188Z" stroke-width="1"></path>
+    <path id="union_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.188 4.531a0.5 0.5 0 0 0 -0.5 0.5v1.407l-1.407 0a0.5 0.5 0 0 0 -0.5 0.5v1.625a0.5 0.5 0 0 0 0.5 0.5h1.407v1.406a0.5 0.5 0 0 0 0.5 0.5h1.625a0.5 0.5 0 0 0 0.5 -0.5V9.063h1.406a0.5 0.5 0 0 0 0.5 -0.5V6.938a0.5 0.5 0 0 0 -0.5 -0.5l-1.406 0V5.03a0.5 0.5 0 0 0 -0.5 -0.5H6.188Z" stroke-width="1"></path>
+  </g>
+</svg>

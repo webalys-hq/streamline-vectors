@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="payment-10--deposit-payment-finance-atm-transfer-dollar"><path id="Vector 2494" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5v2"></path><path id="Vector 2495" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 10.5v2"></path><path id="Vector 2496" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5v2"></path><g id="Group 4527"><path id="Ellipse 1090" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.75 4.75a.25.25 0 0 1 0-.5"></path><path id="Ellipse 1091" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.75 4.75a.25.25 0 0 0 0-.5"></path></g><g id="Group 4528"><path id="Ellipse 1090_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.25 4.75a.25.25 0 1 1 0-.5"></path><path id="Ellipse 1091_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.25 4.75a.25.25 0 1 0 0-.5"></path></g><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.064 3.389a.833.833 0 0 0-.786-.556h-.645a.744.744 0 0 0-.16 1.47l.983.216a.834.834 0 0 1-.178 1.648h-.556a.834.834 0 0 1-.786-.556"></path><path id="Vector 2489" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 2.833V2"></path><path id="Vector 2490" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 7v-.833"></path><path id="Vector 2493" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5h-11a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Payment-10--Streamline-Core">
+  <desc>
+    Payment 10 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="payment-10--deposit-payment-finance-atm-transfer-dollar">
+    <path id="Vector 2494" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 11.5v2" stroke-width="1"></path>
+    <path id="Vector 2495" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 10.5v2" stroke-width="1"></path>
+    <path id="Vector 2496" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5v2" stroke-width="1"></path>
+    <g id="Group 4527">
+      <path id="Ellipse 1090" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.75 4.75c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1091" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.75 4.75c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 4528">
+      <path id="Ellipse 1090_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 4.75c-0.1381 0 -0.25 -0.11193 -0.25 -0.25s0.1119 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1091_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 4.75c0.1381 0 0.25 -0.11193 0.25 -0.25s-0.1119 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <path id="Vector 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.06373 3.38881c-0.03658 -0.10351 -0.09304 -0.19763 -0.16477 -0.27778 -0.15259 -0.17049 -0.37434 -0.27778 -0.62115 -0.27778h-0.64503c-0.41082 0 -0.74386 0.33304 -0.74386 0.74387 0 0.34957 0.2434 0.65198 0.5849 0.72668l0.98207 0.21483c0.38257 0.08368 0.65526 0.42271 0.65526 0.81433 0 0.46024 -0.3731 0.83364 -0.83334 0.83364h-0.55556c-0.36284 0 -0.67152 -0.23189 -0.78592 -0.55556" stroke-width="1"></path>
+    <path id="Vector 2489" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 2.83334V2" stroke-width="1"></path>
+    <path id="Vector 2490" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 7.00009v-0.83334" stroke-width="1"></path>
+    <path id="Vector 2493" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v6c0 0.55228 0.447715 1 1 1h11c0.5523 0 1 -0.44772 1 -1v-6c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

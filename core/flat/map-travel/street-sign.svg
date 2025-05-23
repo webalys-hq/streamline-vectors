@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="street-sign--crossroad-street-sign-metaphor-directions-travel-places"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.538.057a.25.25 0 0 0-.176.073L.379 2.113a.25.25 0 0 0 0 .353L2.362 4.45a.25.25 0 0 0 .176.074H6.75V6.5H2.538a.25.25 0 0 0-.176.074L.379 8.558a.25.25 0 0 0 0 .353l1.983 1.983a.25.25 0 0 0 .176.073H7a.25.25 0 0 0 .25-.25v-2.91h4.212a.25.25 0 0 0 .177-.074L13.62 5.75a.25.25 0 0 0 0-.353l-1.98-1.983a.25.25 0 0 0-.177-.073H7.25V.307A.25.25 0 0 0 7 .057H2.538Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M7 .045a.75.75 0 0 1 .75.75v12.41a.75.75 0 1 1-1.5 0V.795A.75.75 0 0 1 7 .045Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Street-Sign--Streamline-Core">
+  <desc>
+    Street Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="street-sign--crossroad-street-sign-metaphor-directions-travel-places">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.538 0.057a0.25 0.25 0 0 0 -0.176 0.073L0.379 2.113a0.25 0.25 0 0 0 0 0.353L2.362 4.45a0.25 0.25 0 0 0 0.176 0.074H6.75V6.5H2.538a0.25 0.25 0 0 0 -0.176 0.074L0.379 8.558a0.25 0.25 0 0 0 0 0.353l1.983 1.983a0.25 0.25 0 0 0 0.176 0.073H7a0.25 0.25 0 0 0 0.25 -0.25v-2.91h4.212a0.25 0.25 0 0 0 0.177 -0.074L13.62 5.75a0.25 0.25 0 0 0 0 -0.353l-1.98 -1.983a0.25 0.25 0 0 0 -0.177 -0.073H7.25V0.307A0.25 0.25 0 0 0 7 0.057H2.538Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M7 0.045a0.75 0.75 0 0 1 0.75 0.75l0 12.41a0.75 0.75 0 1 1 -1.5 0l0 -12.41A0.75 0.75 0 0 1 7 0.045Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

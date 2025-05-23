@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="beer-mug--beer-cook-brewery-drink-mug-cooking-nutrition-brew-brewing-food"><path id="Vector" fill="#37d7ff" d="M1.5.5h8a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2h-6a2 2 0 0 1-2-2v-10a1 1 0 0 1 1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5.5h8a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2h-6a2 2 0 0 1-2-2v-10a1 1 0 0 1 1-1v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 3h2a1 1 0 0 1 1 1v4.5a1 1 0 0 1-1 1h-2"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.75 4v5.5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.25 4v5.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Beer-Mug--Streamline-Core">
+  <desc>
+    Beer Mug Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="beer-mug--beer-cook-brewery-drink-mug-cooking-nutrition-brew-brewing-food">
+    <path id="Vector" fill="#d7e0ff" d="M1.5 0.5h8c0.26522 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107v10c0 0.5304 -0.2107 1.0391 -0.58579 1.4142 -0.37507 0.3751 -0.88378 0.5858 -1.41421 0.5858h-6c-0.53043 0 -1.03914 -0.2107 -1.41421 -0.5858C0.710714 12.5391 0.5 12.0304 0.5 11.5v-10c0 -0.26522 0.105357 -0.51957 0.292893 -0.707107C0.98043 0.605357 1.23478 0.5 1.5 0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 0.5h8c0.26522 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107v10c0 0.5304 -0.2107 1.0391 -0.58579 1.4142 -0.37507 0.3751 -0.88378 0.5858 -1.41421 0.5858h-6c-0.53043 0 -1.03914 -0.2107 -1.41421 -0.5858C0.710714 12.5391 0.5 12.0304 0.5 11.5v-10c0 -0.26522 0.105357 -0.51957 0.292893 -0.707107C0.98043 0.605357 1.23478 0.5 1.5 0.5v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.5 3h2c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v4.5c0 0.26522 -0.1054 0.51957 -0.2929 0.70711 -0.1875 0.18753 -0.4419 0.29289 -0.7071 0.29289h-2" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.75 4v5.5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.25 4v5.5" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="gif-format"><path id="rectangle 629" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" transform="rotate(90 13.438 2.656)" d="M15.438 2.656h4.289s2 0 2 2v8.875s0 2-2 2h-4.289s-2 0-2-2V4.656s0-2 2-2"></path><path id="vector 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6 5.045h1.756m0 3.51H6"></path><path id="vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.878 5.045v3.51"></path><path id="vector 2_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.758 7.093h.878v.585a.878.878 0 0 1-.878.878h-.585a.878.878 0 0 1-.878-.878V5.923c0-.485.393-.878.878-.878h.585a.88.88 0 0 1 .828.585"></path><path id="vector 2_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.385 8.556v-3.51h2.34"></path><path id="vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.385 6.654h2.047"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gif-Format--Streamline-Core">
+  <desc>
+    Gif Format Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gif-format">
+    <path id="rectangle 629" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" transform="rotate(90 13.438 2.656)" d="M15.438 2.656h4.289s2 0 2 2v8.875s0 2-2 2h-4.289s-2 0-2-2V4.656s0-2 2-2"></path>
+    <path id="vector 1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.00046 5.04529 1.75528 0m0 3.51054-1.75528 0"></path>
+    <path id="vector 2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.87805 5.04529 0 3.51054"></path>
+    <path id="vector 2_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75789 7.09311h.87764v.58509c0 .4847-.39293.87763-.87764.87763H3.1728c-.4847 0-.87763-.39293-.87763-.87763V5.92292c0-.4847.39293-.87763.87763-.87763h.58509c.38213 0 .70722.24422.8277.58509"></path>
+    <path id="vector 2_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.38464 8.55583V5.04529H11.725"></path>
+    <path id="vector 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.38464 6.6543 2.04786 0"></path>
+  </g>
+</svg>

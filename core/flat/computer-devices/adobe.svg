@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="adobe"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M.816.316a.5.5 0 0 0-.5.5v12.368a.5.5 0 0 0 .5.5h12.368a.5.5 0 0 0 .5-.5V.816a.5.5 0 0 0-.5-.5H.816Z" clip-rule="evenodd"></path><path id="Vector 566" fill="#3e3e3e" d="M5.391 1.37 1.37 12.63h6.314l-.805-2.413H5.322L7 5.147l2.71 7.483h2.92L8.608 1.37H5.391Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Adobe--Streamline-Core">
+  <desc>
+    Adobe Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="adobe">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M0.816406 0.316406c-0.276142 0 -0.5 0.223858 -0.5 0.5V13.1836c0 0.2761 0.223858 0.5 0.5 0.5H13.1836c0.2761 0 0.5 -0.2239 0.5 -0.5V0.816406c0 -0.276142 -0.2239 -0.5 -0.5 -0.5H0.816406Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 566" fill="#2859c5" d="M5.39106 1.36926 1.36926 12.6303h6.31347l-0.80436 -2.4131H5.32219l1.67759 -5.07012 2.7096 7.48322h2.92092L8.6085 1.36926H5.39106Z" stroke-width="1"></path>
+  </g>
+</svg>

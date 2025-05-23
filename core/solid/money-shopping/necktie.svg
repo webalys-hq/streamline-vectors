@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="necktie--necktie-businessman-business-cloth-clothing-gentleman-accessories"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.5 3.104h3l.561-1.684A1 1 0 0 0 8.113.104H5.887A1 1 0 0 0 4.94 1.42l.56 1.684Zm3.967 8.255L8.5 4.104h-3l-.967 7.255a.5.5 0 0 0 .142.42l1.971 1.971a.5.5 0 0 0 .708 0l1.971-1.972a.5.5 0 0 0 .142-.42Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Necktie--Streamline-Core">
+  <desc>
+    Necktie Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="necktie--necktie-businessman-business-cloth-clothing-gentleman-accessories">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5.49999 3.10352h3l0.56126 -1.68378C9.27709 0.772212 8.79513 0.103516 8.11257 0.103516H5.88742c-0.68256 0 -1.16453 0.668696 -0.94868 1.316224l0.56125 1.68378Zm3.96735 8.25508 -0.96735 -7.25508h-3l-0.96734 7.25508c-0.02058 0.1544 0.03194 0.3095 0.14206 0.4196L6.64644 13.75c0.19526 0.1952 0.51184 0.1952 0.70711 0l1.97173 -1.9718c0.11012 -0.1101 0.16264 -0.2652 0.14206 -0.4196Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

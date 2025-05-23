@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sail-ship--travel-boat-transportation-transport-ocean-ship-sea-water"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7.246.5a.5.5 0 0 0-.884-.32l-5 6a.5.5 0 0 0 .384.82H5.75v2.5a.75.75 0 0 0 1.5 0V1.752a.758.758 0 0 0-.004-.079V.5ZM9.38 2.196a.5.5 0 0 0-.896.304v4a.5.5 0 0 0 .5.5h3.07a.5.5 0 0 0 .397-.804l-3.07-4Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M.5 9a.5.5 0 0 0-.468.676l1.013 2.702A2.5 2.5 0 0 0 3.386 14h7.228a2.5 2.5 0 0 0 2.34-1.622l1.014-2.702A.5.5 0 0 0 13.5 9H.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sail-Ship--Streamline-Core">
+  <desc>
+    Sail Ship Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sail-ship--travel-boat-transportation-transport-ocean-ship-sea-water">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7.24592 0.499995c0 -0.21051 -0.13185 -0.398473 -0.32979 -0.4701356 -0.19794 -0.071663 -0.41956 -0.0116748 -0.55432 0.1500436l-5 5.999997c-0.12421 0.14904 -0.15098 0.35648 -0.06869 0.53217 0.08229 0.1757 0.25879 0.28793 0.4528 0.28793H5.75v2.5c0 0.41421 0.33579 0.75 0.75 0.75s0.75 -0.33579 0.75 -0.75l0 -7.74826c0 -0.02659 -0.00138 -0.05286 -0.00408 -0.07873V0.499995ZM9.3814 2.19557c-0.13042 -0.16992 -0.35457 -0.23789 -0.55739 -0.16902 -0.20282 0.06886 -0.33925 0.25926 -0.33925 0.47345v4c0 0.27614 0.22386 0.5 0.5 0.5h3.07014c0.1904 0 0.3643 -0.10812 0.4485 -0.27888 0.0842 -0.17077 0.0641 -0.37452 -0.0518 -0.52555l-3.0702 -4Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M0.500003 9c-0.16399 0 -0.317555 0.08042 -0.410963 0.2152 -0.09340765 0.13479 -0.1147824 0.30681 -0.0572017 0.46036L1.04518 12.3778C1.41109 13.3536 2.34389 14 3.386 14h7.228c1.0421 0 1.9749 -0.6464 2.3408 -1.6222l1.0134 -2.70224c0.0575 -0.15355 0.0362 -0.32557 -0.0572 -0.46036C13.8176 9.08042 13.664 9 13.5 9H0.500003Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

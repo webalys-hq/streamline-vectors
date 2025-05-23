@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bow-tie--bow-tie-dress-gentleman-cloth-clothing-accessories"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 9a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.5 8.94-4.75 1.23a.999.999 0 0 1-1.25-1V4.79a1 1 0 0 1 1.25-1L6.5 5.06"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.5 8.94 4.75 1.23a.999.999 0 0 0 1.25-1V4.79a.999.999 0 0 0-1.25-1L7.5 5.06"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bow-Tie--Streamline-Core">
+  <desc>
+    Bow Tie Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bow-tie--bow-tie-dress-gentleman-cloth-clothing-accessories">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 9c1.10457 0 2 -0.89543 2 -2s-0.89543 -2 -2 -2 -2 0.89543 -2 2 0.89543 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.50002 8.93994 -4.75 1.22996c-0.1504 0.039 -0.3078 0.0423 -0.45972 0.0098s-0.294171 -0.1 -0.415483 -0.197c-0.121312 -0.09705 -0.218344 -0.22103 -0.283401 -0.36211 -0.065057 -0.14108 -0.096349 -0.29537 -0.091396 -0.45065v-4.38c-0.004953 -0.15527 0.026339 -0.30957 0.091396 -0.45065 0.065057 -0.14107 0.162089 -0.26505 0.283401 -0.3621 0.121312 -0.09705 0.263563 -0.1645 0.415483 -0.197 0.15192 -0.03251 0.30932 -0.02917 0.45972 0.00975l4.75 1.27" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.5 8.93994 4.75 1.22996c0.1504 0.039 0.3078 0.0423 0.4597 0.0098 0.1519 -0.0325 0.2942 -0.1 0.4155 -0.197 0.1213 -0.09705 0.2183 -0.22103 0.2834 -0.36211 0.0651 -0.14108 0.0964 -0.29537 0.0914 -0.45065v-4.38c0.005 -0.15527 -0.0263 -0.30957 -0.0914 -0.45065 -0.0651 -0.14107 -0.1621 -0.26505 -0.2834 -0.3621 -0.1213 -0.09705 -0.2636 -0.1645 -0.4155 -0.197 -0.1519 -0.03251 -0.3093 -0.02917 -0.4597 0.00975l-4.75 1.27" stroke-width="1"></path>
+  </g>
+</svg>

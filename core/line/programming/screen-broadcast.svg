@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="screen-broadcast--wireless-feed-rss-transmit-broadcast-monitor-screen"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 8a4 4 0 0 1 4 4"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10.5A1.5 1.5 0 0 1 2 12"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 12h5.5a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-Broadcast--Streamline-Core">
+  <desc>
+    Screen Broadcast Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screen-broadcast--wireless-feed-rss-transmit-broadcast-monitor-screen">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 8c1.06087 0 2.07828 0.42143 2.82843 1.17157C4.07857 9.92172 4.5 10.9391 4.5 12" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10.5c0.397825 0 0.77936 0.158 1.06066 0.4393C1.84196 11.2206 2 11.6022 2 12" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 12h5.5c0.2652 0 0.5196 -0.1054 0.7071 -0.2929S13.5 11.2652 13.5 11V3c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C13.0196 2.10536 12.7652 2 12.5 2h-11c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 2.48043 0.5 2.73478 0.5 3v2.5" stroke-width="1"></path>
+  </g>
+</svg>

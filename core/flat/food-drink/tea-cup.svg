@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tea-cup--herbal-cook-tea-tisane-cup-drink-cooking-nutrition-mug-food"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.723 4.73v2.5h.5a1.25 1.25 0 0 0 0-2.5h-.5Zm0 4a2.5 2.5 0 0 1-2.5 2.5h-5a2.5 2.5 0 0 1-2.5-2.5v-4.5a1 1 0 0 1 1-1h9.5a2.75 2.75 0 1 1 0 5.5h-.5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M3.262.77a.75.75 0 1 0-1.5 0v.73a.75.75 0 1 0 1.5 0V.77ZM.777 12.48a.75.75 0 0 0 0 1.5h12.446a.75.75 0 0 0 0-1.5H.777ZM8.487.02a.75.75 0 0 1 .75.75v.73a.75.75 0 1 1-1.5 0V.77a.75.75 0 0 1 .75-.75ZM6.25.77a.75.75 0 0 0-1.5 0v.73a.75.75 0 1 0 1.5 0V.77Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tea-Cup--Streamline-Core">
+  <desc>
+    Tea Cup Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tea-cup--herbal-cook-tea-tisane-cup-drink-cooking-nutrition-mug-food">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.723 4.73v2.5h0.5a1.25 1.25 0 0 0 0 -2.5h-0.5Zm0 4a2.5 2.5 0 0 1 -2.5 2.5h-5a2.5 2.5 0 0 1 -2.5 -2.5v-4.5a1 1 0 0 1 1 -1H9.22l0.004 0h2a2.75 2.75 0 1 1 0 5.5h-0.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M3.262 0.77a0.75 0.75 0 1 0 -1.5 0v0.73a0.75 0.75 0 1 0 1.5 0V0.77ZM0.777 12.48a0.75 0.75 0 0 0 0 1.5h12.446a0.75 0.75 0 0 0 0 -1.5H0.777ZM8.487 0.02a0.75 0.75 0 0 1 0.75 0.75v0.73a0.75 0.75 0 1 1 -1.5 0V0.77a0.75 0.75 0 0 1 0.75 -0.75ZM6.25 0.77a0.75 0.75 0 0 0 -1.5 0v0.73a0.75 0.75 0 1 0 1.5 0V0.77Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

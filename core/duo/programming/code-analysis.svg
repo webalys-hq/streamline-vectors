@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="code-analysis"><path id="Vector" fill="#37d7ff" d="M6.625 12.5a5.875 5.875 0 1 0 0-11.75 5.875 5.875 0 0 0 0 11.75Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.625 12.5a5.875 5.875 0 1 0 0-11.75 5.875 5.875 0 0 0 0 11.75Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.25 13.25-2.467-2.467"></path><path id="Vector 2345" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.5 4.5-2 2 2 2"></path><path id="Vector 2346" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.5 4.5 2 2-2 2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Code-Analysis--Streamline-Core">
+  <desc>
+    Code Analysis Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="code-analysis">
+    <path id="Vector" fill="#d7e0ff" d="M6.625 12.5a5.875 5.875 0 1 0 0 -11.75 5.875 5.875 0 0 0 0 11.75Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.625 12.5a5.875 5.875 0 1 0 0 -11.75 5.875 5.875 0 0 0 0 11.75Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m13.25 13.25 -2.467 -2.467" stroke-width="1"></path>
+    <path id="Vector 2345" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.5 4.5 -2 2 2 2" stroke-width="1"></path>
+    <path id="Vector 2346" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.5 4.5 2 2 -2 2" stroke-width="1"></path>
+  </g>
+</svg>

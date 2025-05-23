@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="spray-paint--can-color-colors-design-paint-painting-spray"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M2.5 1.75a.75.75 0 1 0 0 1.5h.25V5a.75.75 0 0 0 1.5 0V3.25h.25a.75.75 0 0 0 0-1.5h-2Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M13.397 1.485a.75.75 0 1 0-.294-1.47l-5 1a.75.75 0 0 0 .294 1.47l5-1Zm-5 1.53a.75.75 0 1 0-.294 1.47l5 1a.75.75 0 1 0 .294-1.47l-5-1Z" clip-rule="evenodd"></path><path id="Rectangle 611" fill="#37d7ff" d="M0 6a1.5 1.5 0 0 1 1.5-1.5h4A1.5 1.5 0 0 1 7 6v6.5A1.5 1.5 0 0 1 5.5 14h-4A1.5 1.5 0 0 1 0 12.5V6Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Spray-Paint--Streamline-Core">
+  <desc>
+    Spray Paint Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="spray-paint--can-color-colors-design-paint-painting-spray">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M2.5 1.75049c-0.41421 0 -0.75 0.33578 -0.75 0.75 0 0.41421 0.33579 0.75 0.75 0.75h0.25v1.75c0 0.41421 0.33579 0.75 0.75 0.75s0.75 -0.33579 0.75 -0.75v-1.75h0.25c0.41421 0 0.75 -0.33579 0.75 -0.75 0 -0.41422 -0.33579 -0.75 -0.75 -0.75h-2Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M13.3971 1.48546c0.4062 -0.08124 0.6696 -0.47635 0.5883 -0.882525 -0.0812 -0.406169 -0.4763 -0.6695819 -0.8825 -0.588348L8.10292 1.01459c-0.40617 0.08123 -0.66958 0.47635 -0.58835 0.88252 0.08124 0.40617 0.47635 0.66958 0.88252 0.58835l5.00001 -1ZM8.39709 3.01459c-0.40617 -0.08124 -0.80128 0.18218 -0.88252 0.58835 -0.08123 0.40617 0.18218 0.80128 0.58835 0.88252l4.99998 1c0.4062 0.08123 0.8013 -0.18218 0.8825 -0.58835 0.0813 -0.40617 -0.1821 -0.80129 -0.5883 -0.88252l-5.00001 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Rectangle 611" fill="#8fbffa" d="M0 6c0 -0.82843 0.671573 -1.5 1.5 -1.5h4C6.32843 4.5 7 5.17157 7 6v6.5c0 0.8284 -0.67157 1.5 -1.5 1.5h-4C0.671573 14 0 13.3284 0 12.5V6Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag-rupee--bag-payment-cash-money-finance"><path id="Vector" fill="#37d7ff" d="M7 13.5c3.5 0 6-1.238 6-3.994 0-2.995-1.5-4.992-4.5-6.49l1.18-1.518A.658.658 0 0 0 9.12.5H4.88a.66.66 0 0 0-.56.998L5.5 3.026C2.5 4.534 1 6.531 1 9.526 1 12.262 3.5 13.5 7 13.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5 0 6-1.238 6-3.994 0-2.995-1.5-4.992-4.5-6.49l1.18-1.518A.658.658 0 0 0 9.12.5H4.88a.66.66 0 0 0-.56.998L5.5 3.026C2.5 4.534 1 6.531 1 9.526 1 12.262 3.5 13.5 7 13.5Z"></path><path id="Vector 1002" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.958 6h4.084"></path><path id="Vector 1003" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.958 7.604h4.084"></path><path id="Vector 1004" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.708 6c.389.097 1.167.438 1.167 1.458 0 1.75-2.334 1.75-2.334 1.75s1.167 1.021 2.917 1.459"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Rupee--Streamline-Core">
+  <desc>
+    Bag Rupee Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-rupee--bag-payment-cash-money-finance">
+    <path id="Vector" fill="#d7e0ff" d="M7 13.5c3.5 0 6 -1.238 6 -3.994 0 -2.995 -1.5 -4.992 -4.5 -6.49l1.18 -1.518A0.658 0.658 0 0 0 9.12 0.5H4.88a0.66 0.66 0 0 0 -0.56 0.998L5.5 3.026C2.5 4.534 1 6.531 1 9.526 1 12.262 3.5 13.5 7 13.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5 0 6 -1.238 6 -3.994 0 -2.995 -1.5 -4.992 -4.5 -6.49l1.18 -1.518A0.658 0.658 0 0 0 9.12 0.5H4.88a0.66 0.66 0 0 0 -0.56 0.998L5.5 3.026C2.5 4.534 1 6.531 1 9.526 1 12.262 3.5 13.5 7 13.5Z" stroke-width="1"></path>
+    <path id="Vector 1002" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.958 6h4.084" stroke-width="1"></path>
+    <path id="Vector 1003" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.958 7.604h4.084" stroke-width="1"></path>
+    <path id="Vector 1004" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.708 6c0.389 0.097 1.167 0.438 1.167 1.458 0 1.75 -2.334 1.75 -2.334 1.75s1.167 1.021 2.917 1.459" stroke-width="1"></path>
+  </g>
+</svg>

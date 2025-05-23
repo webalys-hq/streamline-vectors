@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ticket-1--hobby-ticket-event-entertainment-stub-theater-entertainment-culture"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.556 12.449a1.5 1.5 0 0 1-1.5-1.5V8.95a.5.5 0 0 1 .373-.484 1.517 1.517 0 0 0 0-2.933.5.5 0 0 1-.373-.484V3.051a1.5 1.5 0 0 1 1.5-1.5h10.888a1.5 1.5 0 0 1 1.5 1.5v2.003a.5.5 0 0 1-.369.483 1.517 1.517 0 0 0 0 2.926.5.5 0 0 1 .37.483v2.003a1.5 1.5 0 0 1-1.5 1.5H1.554Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M9.855 12.449h-1.25v-1.715a.625.625 0 1 1 1.25 0v1.715Zm0-10.898v1.723a.625.625 0 1 1-1.25 0V1.551h1.25Zm0 4.44a.625.625 0 1 0-1.25 0v2.016a.625.625 0 0 0 1.25 0V5.991Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ticket-1--Streamline-Core">
+  <desc>
+    Ticket 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ticket-1--hobby-ticket-event-entertainment-stub-theater-entertainment-culture">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.556 12.449a1.5 1.5 0 0 1 -1.5 -1.5V8.95a0.5 0.5 0 0 1 0.373 -0.484 1.517 1.517 0 0 0 0 -2.933 0.5 0.5 0 0 1 -0.373 -0.484V3.051a1.5 1.5 0 0 1 1.5 -1.5h10.888a1.5 1.5 0 0 1 1.5 1.5v2.003a0.5 0.5 0 0 1 -0.369 0.483 1.517 1.517 0 0 0 0 2.926 0.5 0.5 0 0 1 0.37 0.483v2.003a1.5 1.5 0 0 1 -1.5 1.5H1.554Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M9.855 12.449h-1.25v-1.715a0.625 0.625 0 1 1 1.25 0l0 1.715Zm0 -10.898 0 1.723a0.625 0.625 0 1 1 -1.25 0V1.551h1.25Zm0 4.44a0.625 0.625 0 1 0 -1.25 0v2.016a0.625 0.625 0 0 0 1.25 0l0 -2.016Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

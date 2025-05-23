@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hearts-symbol--entertainment-gaming-card-hearts-symbol"><path id="Vector" fill="#37d7ff" d="M8.266 11.908a1.773 1.773 0 0 1-2.527 0L1.49 7.7c-2.84-2.842.87-9.12 5.511-4.478 4.634-4.633 8.344 1.644 5.511 4.478l-4.247 4.208Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.266 11.908a1.773 1.773 0 0 1-2.527 0L1.49 7.7c-2.84-2.842.87-9.12 5.511-4.478 4.634-4.633 8.344 1.644 5.511 4.478l-4.247 4.208Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hearts-Symbol--Streamline-Core">
+  <desc>
+    Hearts Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hearts-symbol--entertainment-gaming-card-hearts-symbol">
+    <path id="Vector" fill="#d7e0ff" d="M8.266 11.908a1.773 1.773 0 0 1 -2.527 0L1.49 7.7c-2.84 -2.842 0.87 -9.12 5.511 -4.478 4.634 -4.633 8.344 1.644 5.511 4.478l-4.247 4.208Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.266 11.908a1.773 1.773 0 0 1 -2.527 0L1.49 7.7c-2.84 -2.842 0.87 -9.12 5.511 -4.478 4.634 -4.633 8.344 1.644 5.511 4.478l-4.247 4.208Z" stroke-width="1"></path>
+  </g>
+</svg>

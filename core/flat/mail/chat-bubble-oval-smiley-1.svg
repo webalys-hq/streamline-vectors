@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chat-bubble-oval-smiley-1--messages-message-bubble-chat-oval-smiley-smile"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.014.748a6.94 6.94 0 0 0-8.932 9.876l-.991 2.64a.5.5 0 0 0 .557.668l3.458-.626A6.94 6.94 0 0 0 10.014.748Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.438 4.969a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0ZM3.533 7.398a.625.625 0 0 1 .77.435c.402 1.451 2.037 2.365 3.506 1.971.922-.343 1.65-1.094 1.888-1.968a.625.625 0 0 1 1.206.328c-.36 1.32-1.422 2.363-2.69 2.823a.625.625 0 0 1-.046.015c-2.124.59-4.475-.694-5.07-2.835a.625.625 0 0 1 .436-.77Zm5.78-1.68a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chat-Bubble-Oval-Smiley-1--Streamline-Core">
+  <desc>
+    Chat Bubble Oval Smiley 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chat-bubble-oval-smiley-1--messages-message-bubble-chat-oval-smiley-smile">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.014 0.748a6.94 6.94 0 0 0 -8.932 9.876l-0.991 2.64a0.5 0.5 0 0 0 0.557 0.668l3.458 -0.626A6.94 6.94 0 0 0 10.014 0.748Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.438 4.969a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0ZM3.533 7.398a0.625 0.625 0 0 1 0.77 0.435c0.402 1.451 2.037 2.365 3.506 1.971 0.922 -0.343 1.65 -1.094 1.888 -1.968a0.625 0.625 0 0 1 1.206 0.328c-0.36 1.32 -1.422 2.363 -2.69 2.823a0.625 0.625 0 0 1 -0.046 0.015c-2.124 0.59 -4.475 -0.694 -5.07 -2.835a0.625 0.625 0 0 1 0.436 -0.77Zm5.78 -1.68a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

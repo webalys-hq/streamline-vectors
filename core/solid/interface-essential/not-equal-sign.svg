@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="not-equal-sign--interface-math-not-equal-sign-mathematics"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M10.705.12a1 1 0 0 1 .406 1.354L10.021 3.5H13a1 1 0 1 1 0 2H8.943l-1.615 3H13a1 1 0 1 1 0 2H6.251L4.65 13.474a1 1 0 1 1-1.761-.948l1.09-2.026H1a1 1 0 1 1 0-2h4.057l1.615-3H1a1 1 0 0 1 0-2h6.749L9.35.526A1 1 0 0 1 10.705.12Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Not-Equal-Sign--Streamline-Core">
+  <desc>
+    Not Equal Sign Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="not-equal-sign--interface-math-not-equal-sign-mathematics">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M10.7049 0.119529c0.4862 0.261838 0.6682 0.8683 0.4063 1.354571L10.0204 3.5H13c0.5523 0 1 0.44772 1 1s-0.4477 1 -1 1H8.94344l-1.61538 3H13c0.5523 0 1 0.44771 1 1 0 0.5523 -0.4477 1 -1 1H6.25114L4.6497 13.4741c-0.26184 0.4863 -0.8683 0.6682 -1.35457 0.4064 -0.48627 -0.2619 -0.66821 -0.8683 -0.40638 -1.3546L3.97962 10.5H1c-0.552285 0 -1 -0.4477 -1 -1 0 -0.55229 0.447715 -1 1 -1h4.05655l1.61538 -3H1c-0.552285 0 -1 -0.44772 -1 -1s0.447715 -1 1 -1h6.74886L9.35029 0.5259c0.26184 -0.4862706 0.86831 -0.668209 1.35461 -0.406371Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

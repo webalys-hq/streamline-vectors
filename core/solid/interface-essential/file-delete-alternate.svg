@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="file-delete-alternate--file-common-delete-cross"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 0A1.5 1.5 0 0 0 2 1.5v5.949c.057.045.112.094.164.147l.706.706.706-.706a2 2 0 0 1 2.828 2.828l-.706.706.706.706A2 2 0 0 1 6.844 14H12.5a1.5 1.5 0 0 0 1.5-1.5v-8a.5.5 0 0 0-.146-.354l-4-4A.5.5 0 0 0 9.5 0h-6Zm2.02 8.48a.75.75 0 0 1 0 1.06l-1.59 1.59 1.59 1.59a.75.75 0 1 1-1.06 1.06l-1.59-1.59-1.59 1.59a.75.75 0 0 1-1.06-1.06l1.59-1.59L.22 9.54a.75.75 0 1 1 1.06-1.06l1.59 1.59 1.59-1.59a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="File-Delete-Alternate--Streamline-Core">
+  <desc>
+    File Delete Alternate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="file-delete-alternate--file-common-delete-cross">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M3.5 0A1.5 1.5 0 0 0 2 1.5v5.949c0.057 0.045 0.112 0.094 0.164 0.147l0.706 0.706 0.706 -0.706a2 2 0 0 1 2.828 2.828l-0.706 0.706 0.706 0.706A2 2 0 0 1 6.844 14H12.5a1.5 1.5 0 0 0 1.5 -1.5v-8a0.5 0.5 0 0 0 -0.146 -0.354l-4 -4A0.5 0.5 0 0 0 9.5 0h-6Zm2.02 8.48a0.75 0.75 0 0 1 0 1.06l-1.59 1.59 1.59 1.59a0.75 0.75 0 1 1 -1.06 1.06l-1.59 -1.59 -1.59 1.59a0.75 0.75 0 0 1 -1.06 -1.06l1.59 -1.59L0.22 9.54a0.75 0.75 0 1 1 1.06 -1.06l1.59 1.59 1.59 -1.59a0.75 0.75 0 0 1 1.06 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

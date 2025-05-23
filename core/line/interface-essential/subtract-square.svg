@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="subtract-square--subtract-buttons-remove-add-button-square-delete-mathematics-math-minus"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 7h6"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5.5h-7a3 3 0 0 0-3 3v7a3 3 0 0 0 3 3h7a3 3 0 0 0 3-3v-7a3 3 0 0 0-3-3Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Subtract-Square--Streamline-Core">
+  <desc>
+    Subtract Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="subtract-square--subtract-buttons-remove-add-button-square-delete-mathematics-math-minus">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 7h6" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.5h-7c-1.65685 0 -3 1.34315 -3 3v7c0 1.6569 1.34315 3 3 3h7c1.6569 0 3 -1.3431 3 -3v-7c0 -1.65685 -1.3431 -3 -3 -3Z" stroke-width="1"></path>
+  </g>
+</svg>

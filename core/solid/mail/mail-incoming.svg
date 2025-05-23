@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-incoming--inbox-envelope-email-message-down-arrow-inbox"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7 .042a.75.75 0 0 1 .75.75V3.2h1.17a.5.5 0 0 1 .354.854l-1.92 1.92a.5.5 0 0 1-.708 0l-1.92-1.92a.5.5 0 0 1 .353-.854H6.25V.792A.75.75 0 0 1 7 .042Zm-4.914 4.13h1.308c.08.283.23.548.448.766l1.92 1.92a1.75 1.75 0 0 0 2.475 0l1.921-1.92c.218-.218.369-.483.448-.767h1.308c.905 0 1.639.734 1.639 1.638v.146L7 9.773.448 5.955v-.146c0-.904.733-1.638 1.638-1.638ZM.448 7.401v4.96c0 .905.733 1.638 1.638 1.638h9.828c.905 0 1.639-.733 1.639-1.638v-4.96l-6.238 3.635a.625.625 0 0 1-.63 0L.448 7.402Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Incoming--Streamline-Core">
+  <desc>
+    Mail Incoming Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-incoming--inbox-envelope-email-message-down-arrow-inbox">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M7 0.042a0.75 0.75 0 0 1 0.75 0.75V3.2h1.17a0.5 0.5 0 0 1 0.354 0.854l-1.92 1.92a0.5 0.5 0 0 1 -0.708 0l-1.92 -1.92a0.5 0.5 0 0 1 0.353 -0.854H6.25V0.792A0.75 0.75 0 0 1 7 0.042Zm-4.914 4.13h1.308c0.08 0.283 0.23 0.548 0.448 0.766l1.92 1.92a1.75 1.75 0 0 0 2.475 0l1.921 -1.92c0.218 -0.218 0.369 -0.483 0.448 -0.767h1.308c0.905 0 1.639 0.734 1.639 1.638v0.146L7 9.773 0.448 5.955v-0.146c0 -0.904 0.733 -1.638 1.638 -1.638ZM0.448 7.401v4.96c0 0.905 0.733 1.638 1.638 1.638h9.828c0.905 0 1.639 -0.733 1.639 -1.638v-4.96l-6.238 3.635a0.625 0.625 0 0 1 -0.63 0L0.448 7.402Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

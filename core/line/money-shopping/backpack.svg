@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="backpack--bag-backpack-school-baggage-cloth-clothing-accessories"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 3h4a2 2 0 0 1 2 2v8.5H3V5a2 2 0 0 1 2-2v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 13.5H.5v-4a1 1 0 0 1 1-1H3"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 8.5h1.5a1 1 0 0 1 1 1v4H11"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 7.5h8"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 6.5v2"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 3v-.5a2 2 0 1 1 4 0V3"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Backpack--Streamline-Core">
+  <desc>
+    Backpack Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="backpack--bag-backpack-school-baggage-cloth-clothing-accessories">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 3h4c0.53043 0 1.0391 0.21071 1.4142 0.58579C10.7893 3.96086 11 4.46957 11 5v8.5H3V5c0 -0.53043 0.21071 -1.03914 0.58579 -1.41421C3.96086 3.21071 4.46957 3 5 3v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 13.5H0.5v-4c0 -0.26522 0.105357 -0.51957 0.292893 -0.70711C0.98043 8.60536 1.23478 8.5 1.5 8.5H3" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 8.5h1.5c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v4H11" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 7.5h8" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 6.5v2" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 3v-0.5c0 -0.53043 0.21071 -1.03914 0.58579 -1.41421C5.96086 0.710714 6.46957 0.5 7 0.5s1.03914 0.210714 1.41421 0.58579C8.78929 1.46086 9 1.96957 9 2.5V3" stroke-width="1"></path>
+  </g>
+</svg>

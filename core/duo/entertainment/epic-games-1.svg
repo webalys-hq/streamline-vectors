@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="epic-games-1--epic-games-entertainment-gaming"><path id="Rectangle 335" fill="#37d7ff" d="M1.223 1.429c0-.513.37-.929.825-.929h9.903c.456 0 .826.416.826.929v8.247c0 .352-.177.673-.456.83L7 13.5l-5.32-2.993c-.28-.158-.457-.48-.457-.83V1.428Z"></path><path id="Rectangle 336" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.223 1.429c0-.513.37-.929.825-.929h9.903c.456 0 .826.416.826.929v8.247c0 .352-.177.673-.456.83L7 13.5l-5.32-2.993c-.28-.158-.457-.48-.457-.83V1.428Z"></path><path id="Vector 709" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.394 7.202H5.61V2.56h2.785"></path><path id="Vector 741" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.609 4.88h2.785"></path><path id="Vector 740" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.143 9.457 1.858.929 1.857-.929"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Epic-Games-1--Streamline-Core">
+  <desc>
+    Epic Games 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="epic-games-1--epic-games-entertainment-gaming">
+    <path id="Rectangle 335" fill="#d7e0ff" d="M1.22318 1.42857C1.22318 0.915736 1.59266 0.5 2.04843 0.5h9.90307c0.4558 0 0.8253 0.415736 0.8253 0.92857v8.24754c0 0.35169 -0.1766 0.67329 -0.4562 0.83059L6.99999 13.5l-5.32062 -2.9933c-0.27959 -0.1573 -0.45619 -0.4789 -0.45619 -0.83059V1.42857Z" stroke-width="1"></path>
+    <path id="Rectangle 336" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.22318 1.42857C1.22318 0.915736 1.59266 0.5 2.04843 0.5h9.90307c0.4558 0 0.8253 0.415736 0.8253 0.92857v8.24754c0 0.35169 -0.1766 0.67329 -0.4562 0.83059L6.99999 13.5l-5.32062 -2.9933c-0.27959 -0.1573 -0.45619 -0.4789 -0.45619 -0.83059V1.42857Z" stroke-width="1"></path>
+    <path id="Vector 709" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.39433 7.20218H5.60861V2.55933h2.78572" stroke-width="1"></path>
+    <path id="Vector 741" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.60861 4.88086h2.78572" stroke-width="1"></path>
+    <path id="Vector 740" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m5.1434 9.45728 1.85714 0.92852 1.85715 -0.92852" stroke-width="1"></path>
+  </g>
+</svg>

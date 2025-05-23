@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="laptop-charging--device-laptop-electronics-computer-notebook-charging"><path id="Vector" fill="#37d7ff" d="M2.475 9.4.675 12c-.2.3-.2.7 0 1 .2.3.5.5.8.5h10.8c.6 0 1-.4 1-1 0-.2 0-.3-.1-.5l-1.8-2.6h-8.9Z"></path><path id="Vector_2" fill="#ffffff" d="M3.475 3.4h6.9a1 1 0 0 1 1 1v5h-8.9v-5c0-.6.4-1 1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.5.5-2 3h3l-2 3"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.475 9.4.675 12c-.2.3-.2.7 0 1 .2.3.5.5.8.5h10.8c.6 0 1-.4 1-1 0-.2 0-.3-.1-.5l-1.8-2.6h-8.9Z"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.375 9.4v-.9"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.975 3.4h-3.5c-.6 0-1 .4-1 1v5"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.475 9.4.675 12c-.2.3-.2.7 0 1 .2.3.5.5.8.5h10.8c.6 0 1-.4 1-1 0-.2 0-.3-.1-.5l-1.8-2.6h-8.9Z"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.375 9.4v-.9"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Laptop-Charging--Streamline-Core">
+  <desc>
+    Laptop Charging Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="laptop-charging--device-laptop-electronics-computer-notebook-charging">
+    <path id="Vector" fill="#d7e0ff" d="M2.4749 9.40002 0.674902 12c-0.2 0.3 -0.2 0.7 0 1 0.2 0.3 0.499998 0.5 0.799998 0.5h10.8c0.6 0 1 -0.4 1 -1 0 -0.2 0 -0.3 -0.1 -0.5l-1.8 -2.59998h-8.9Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#ffffff" d="M3.4751 3.40002h6.8998c0.5522 0 1 0.44772 1 1v5H2.4751v-5c0 -0.6 0.4 -1 1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m11.5 0.5 -2 3h3l-2 3" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.4749 9.40002 0.674902 12c-0.2 0.3 -0.2 0.7 0 1 0.2 0.3 0.499998 0.5 0.799998 0.5h10.8c0.6 0 1 -0.4 1 -1 0 -0.2 0 -0.3 -0.1 -0.5l-1.8 -2.59998h-8.9Z" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.375 9.40002V8.5" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.9751 3.40002h-3.5c-0.6 0 -1 0.4 -1 1v5" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.4749 9.40002 0.674902 12c-0.2 0.3 -0.2 0.7 0 1 0.2 0.3 0.499998 0.5 0.799998 0.5h10.8c0.6 0 1 -0.4 1 -1 0 -0.2 0 -0.3 -0.1 -0.5l-1.8 -2.59998h-8.9Z" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.375 9.40002V8.5" stroke-width="1"></path>
+  </g>
+</svg>

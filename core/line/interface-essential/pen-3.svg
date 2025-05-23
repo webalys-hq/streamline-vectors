@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pen-3--content-creation-edit-pen-pens-write"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 3a2.5 2.5 0 1 0-5 0v7.5l2.5 3 2.5-3V3Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 4.5h5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.5 2.5a2 2 0 1 1 4 0v8a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-8Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5v2"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.5 4.5h5a1 1 0 0 1 1 1v4"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pen-3--Streamline-Core">
+  <desc>
+    Pen 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pen-3--content-creation-edit-pen-pens-write">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 3c0 -0.66304 -0.26339 -1.29893 -0.73223 -1.76777C4.29893 0.763392 3.66304 0.5 3 0.5c-0.66304 0 -1.29893 0.263392 -1.76777 0.73223C0.763392 1.70107 0.5 2.33696 0.5 3v7.5l2.5 3 2.5 -3V3Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 4.5h5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 2.5c0 -0.53043 0.21071 -1.03914 0.58579 -1.41421C8.46086 0.710714 8.96957 0.5 9.5 0.5c0.5304 0 1.0391 0.210714 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v8c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-2c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C7.60536 11.0196 7.5 10.7652 7.5 10.5v-8Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 11.5v2" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 4.5h5c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v4" stroke-width="1"></path>
+  </g>
+</svg>

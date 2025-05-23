@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tablet-capsule--health-medical-hospital-medicine-capsule-tablet"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.016 5.219 2.9 7.336A2.662 2.662 0 0 0 6.664 11.1l2.117-2.116-3.765-3.765Zm4.202-5.1a4.662 4.662 0 0 0-3.296 1.366L1.485 5.922a4.662 4.662 0 1 0 6.593 6.593l4.437-4.437A4.662 4.662 0 0 0 9.218.12Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tablet-Capsule--Streamline-Core">
+  <desc>
+    Tablet Capsule Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tablet-capsule--health-medical-hospital-medicine-capsule-tablet">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M5.01637 5.21894 2.89943 7.33587c-0.49922 0.49922 -0.77968 1.17632 -0.77968 1.88232 0 0.70601 0.28046 1.38311 0.77968 1.88231 0.49923 0.4992 1.17632 0.7797 1.88233 0.7797s1.3831 -0.2805 1.88232 -0.7797l2.11693 -2.11692 -3.76464 -3.76464ZM9.21819 0.119751c-1.23644 0 -2.42224 0.491174 -3.29653 1.365469L1.48522 5.92166C0.610925 6.79595 0.119751 7.98175 0.119751 9.21819c0 1.23641 0.491174 2.42221 1.365469 3.29651 0.8743 0.8743 2.0601 1.3655 3.29654 1.3655s2.42224 -0.4912 3.29653 -1.3655l4.43641 -4.43641c0.8743 -0.87429 1.3655 -2.06009 1.3655 -3.29653s-0.4912 -2.42224 -1.3655 -3.29654C11.6404 0.610925 10.4546 0.119751 9.21819 0.119751Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

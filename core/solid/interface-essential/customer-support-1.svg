@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="customer-support-1--customer-headset-help-microphone-phone-support"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M6.987 1.5A3.18 3.18 0 0 0 3.75 4.628V9a1 1 0 0 1-1 1H1.5A1.5 1.5 0 0 1 0 8.5v-2A1.5 1.5 0 0 1 1.5 5h.75v-.39A4.68 4.68 0 0 1 7 0a4.68 4.68 0 0 1 4.75 4.61V5h.75A1.5 1.5 0 0 1 14 6.5v2a1.5 1.5 0 0 1-1.5 1.5h-.75v.5a2.75 2.75 0 0 1-2.44 2.733A1.5 1.5 0 0 1 8 14H6.5a1.5 1.5 0 0 1 0-3H8c.542 0 1.017.287 1.28.718a1.25 1.25 0 0 0 .97-1.218V4.627A3.18 3.18 0 0 0 6.987 1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Customer-Support-1--Streamline-Core">
+  <desc>
+    Customer Support 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="customer-support-1--customer-headset-help-microphone-phone-support">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M6.987 1.5A3.18 3.18 0 0 0 3.75 4.628V9a1 1 0 0 1 -1 1H1.5A1.5 1.5 0 0 1 0 8.5v-2A1.5 1.5 0 0 1 1.5 5h0.75v-0.39A4.68 4.68 0 0 1 7 0a4.68 4.68 0 0 1 4.75 4.61l0 0.01V5h0.75A1.5 1.5 0 0 1 14 6.5v2a1.5 1.5 0 0 1 -1.5 1.5h-0.75v0.5a2.75 2.75 0 0 1 -2.44 2.733A1.5 1.5 0 0 1 8 14H6.5a1.5 1.5 0 0 1 0 -3H8c0.542 0 1.017 0.287 1.28 0.718a1.25 1.25 0 0 0 0.97 -1.218V4.627A3.18 3.18 0 0 0 6.987 1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

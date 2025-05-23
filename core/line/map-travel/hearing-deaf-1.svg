@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hearing-deaf-1--disability-hearing-deaf"><path id="Vector 887" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5.5.5"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.322 9.322c.18-.227.345-.406.464-.504.807-1.01 2.085-1.85 1.917-4.17-.168-2.322-2.22-3.802-5.112-3.398-1.418.198-2.269 1.214-2.74 2.25"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.171 11.34c-.269.915-.794 1.788-2.152 1.917-.84.08-1.245-.235-1.547-.538"></path><path id="Vector 1241" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.296 4.106c.37-.589.743-.793 1.11-.891 1.532-.408 2.704 1.515 1.38 2.943"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hearing-Deaf-1--Streamline-Core">
+  <desc>
+    Hearing Deaf 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hearing-deaf-1--disability-hearing-deaf">
+    <path id="Vector 887" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 13.5001 0.5 0.500122" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.32231 9.32239c0.18044 -0.22698 0.34515 -0.4061 0.46354 -0.50476 0.80725 -1.00901 2.08525 -1.84986 1.91715 -4.17058 -0.1682 -2.32073 -2.21985 -3.800608 -5.11235 -3.397C5.17273 1.4479 4.32225 2.46408 3.8504 3.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.1715 11.3401c-0.26906 0.9148 -0.79465 1.7878 -2.15255 1.9171 -0.83963 0.08 -1.24445 -0.2354 -1.54715 -0.5381" stroke-width="1"></path>
+    <path id="Vector 1241" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.2962 4.10603c0.36997 -0.58857 0.74231 -0.79343 1.10991 -0.89128 1.53195 -0.40776 2.70429 1.51557 1.37898 2.9429" stroke-width="1"></path>
+  </g>
+</svg>

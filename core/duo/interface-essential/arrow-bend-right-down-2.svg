@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-bend-right-down-2--arrow-bend-curve-change-direction-right-to-down"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.5 10.5-3 3-3-3"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5.5h2a4 4 0 0 1 4 4v9"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Bend-Right-Down-2--Streamline-Core">
+  <desc>
+    Arrow Bend Right Down 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-bend-right-down-2--arrow-bend-curve-change-direction-right-to-down">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m11.5 10.5 -3 3 -3 -3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 0.5h2c1.06087 0 2.07828 0.421427 2.82843 1.17157C8.07857 2.42172 8.5 3.43913 8.5 4.5v9" stroke-width="1"></path>
+  </g>
+</svg>

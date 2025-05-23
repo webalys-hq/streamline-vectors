@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shield-cross--shield-secure-security-cross-add-plus"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M14 4.927a9.399 9.399 0 0 1-6.635 8.984 1.242 1.242 0 0 1-.73 0A9.399 9.399 0 0 1 0 4.927V1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v3.427Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.1 2.408a.5.5 0 0 0-.5.5v1.7H3.901a.5.5 0 0 0-.5.5v1.798a.5.5 0 0 0 .5.5h1.7v1.699a.5.5 0 0 0 .5.5h1.798a.5.5 0 0 0 .5-.5V7.406h1.7a.5.5 0 0 0 .5-.5V5.107a.5.5 0 0 0-.5-.5h-1.7V2.908a.5.5 0 0 0-.5-.5H6.1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-Cross--Streamline-Core">
+  <desc>
+    Shield Cross Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shield-cross--shield-secure-security-cross-add-plus">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M14 4.927a9.399 9.399 0 0 1 -6.635 8.984 1.242 1.242 0 0 1 -0.73 0A9.399 9.399 0 0 1 0 4.927V1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v3.427Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M6.1 2.408a0.5 0.5 0 0 0 -0.5 0.5v1.7H3.901a0.5 0.5 0 0 0 -0.5 0.5v1.798a0.5 0.5 0 0 0 0.5 0.5h1.7v1.699a0.5 0.5 0 0 0 0.5 0.5h1.798a0.5 0.5 0 0 0 0.5 -0.5V7.406h1.7a0.5 0.5 0 0 0 0.5 -0.5V5.107a0.5 0.5 0 0 0 -0.5 -0.5h-1.7V2.908a0.5 0.5 0 0 0 -0.5 -0.5H6.1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

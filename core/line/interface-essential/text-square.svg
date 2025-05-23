@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="text-square--text-options-formatting-format-square-color-border-fill"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5.5h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z"></path><path id="Vector 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.846 10.78 6.17 3.808A.875.875 0 0 1 7 3.21v0c.377 0 .711.241.83.598l2.324 6.972M4.687 8.257h4.626"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Text-Square--Streamline-Core">
+  <desc>
+    Text Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-square--text-options-formatting-format-square-color-border-fill">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.5 0.5h-11c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.84583 10.78 2.32384 -6.97158c0.11914 -0.35739 0.4536 -0.59846 0.83032 -0.59846v0c0.37673 0 0.71119 0.24107 0.83032 0.59846L10.1542 10.78M4.68694 8.25663h4.62611" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="threat-document--bug-document-file-threat-danger"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 11.5H1.5a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1h6l3 3v1"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.42 12.61a.619.619 0 0 1-.203.81.549.549 0 0 1-.287.08H7.06a.549.549 0 0 1-.49-.3.62.62 0 0 1 0-.59l2.95-5.32a.54.54 0 0 1 1 0l2.9 5.32Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 10.5v-1"></path><g id="Group 4488"><path id="Ellipse 81" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.995 12.125a.125.125 0 0 1 0-.25"></path><path id="Ellipse 82" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.995 12.125a.125.125 0 1 0 0-.25"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Threat-Document--Streamline-Core">
+  <desc>
+    Threat Document Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="threat-document--bug-document-file-threat-danger">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 11.5H1.5c-0.26522 0 -0.51957 -0.1054 -0.707107 -0.2929C0.605357 11.0196 0.5 10.7652 0.5 10.5v-9c0 -0.26522 0.105357 -0.51957 0.292893 -0.707107C0.98043 0.605357 1.23478 0.5 1.5 0.5h6l3 3v1" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.42 12.6101c0.0491 0.0906 0.0747 0.192 0.0747 0.295 0 0.1031 -0.0256 0.2044 -0.0747 0.295 -0.046 0.0904 -0.1162 0.1662 -0.2027 0.2191 -0.0864 0.053 -0.1859 0.081 -0.2873 0.0809H7.06004c-0.10139 0.0001 -0.20081 -0.0279 -0.28729 -0.0809 -0.08647 -0.0529 -0.15662 -0.1287 -0.20271 -0.2191 -0.04901 -0.0906 -0.07468 -0.1919 -0.07468 -0.295 0 -0.103 0.02567 -0.2044 0.07468 -0.295l2.95 -5.31996c0.04053 -0.09935 0.10973 -0.18437 0.19879 -0.24422 0.08905 -0.05985 0.19391 -0.09182 0.30117 -0.09182 0.1073 0 0.2122 0.03197 0.3013 0.09182 0.089 0.05985 0.1582 0.14487 0.1987 0.24422l2.9 5.31996Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 10.5v-1" stroke-width="1"></path>
+    <g id="Group 4488">
+      <path id="Ellipse 81" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.99508 12.1252c-0.06908 0 -0.12508 -0.056 -0.12508 -0.1251s0.056 -0.1251 0.12508 -0.1251" stroke-width="1"></path>
+      <path id="Ellipse 82" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.99487 12.1252c0.06913 0 0.12513 -0.056 0.12513 -0.1251s-0.056 -0.1251 -0.12513 -0.1251" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="necklace--diamond-money-payment-finance-wealth-accessory-necklace-jewelry"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 10 7 8.5 5 10v2l2 1.5L9 12v-2Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 10.083a5 5 0 1 0-4 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Necklace--Streamline-Core">
+  <desc>
+    Necklace Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="necklace--diamond-money-payment-finance-wealth-accessory-necklace-jewelry">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 10 7 8.5 5 10v2l2 1.5L9 12v-2Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.00001 10.0826c1.05279 -0.4595 1.91529 -1.26748 2.44239 -2.28808 0.5272 -1.02061 0.6868 -2.1916 0.4521 -3.31607 -0.2347 -1.12447 -0.8494 -2.13384 -1.7407 -2.85838C9.26238 0.895525 8.14871 0.5 7.00001 0.5c-1.1487 0 -2.26238 0.395525 -3.15375 1.12007 -0.89138 0.72454 -1.50609 1.73391 -1.74078 2.85838 -0.2347 1.12447 -0.07505 2.29546 0.4521 3.31607 0.52714 1.0206 1.38962 1.82858 2.44243 2.28808" stroke-width="1"></path>
+  </g>
+</svg>

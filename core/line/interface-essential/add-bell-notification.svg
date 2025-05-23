@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="add-bell-notification--notification-alarm-alert-bell-add"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 13.5h2"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.09 2.1A4 4 0 0 0 2 6v3.5A1.5 1.5 0 0 1 .5 11h11A1.5 1.5 0 0 1 10 9.5V9"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5.5v6"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.5 3.5h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Add-Bell-Notification--Streamline-Core">
+  <desc>
+    Add Bell Notification Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="add-bell-notification--notification-alarm-alert-bell-add">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5 13.5h2" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.09 2.1001c-0.87981 0.20554 -1.66412 0.7029 -2.22521 1.41106C2.30371 4.21933 1.9989 5.09659 2 6.0001v3.5c0 0.39782 -0.15804 0.7794 -0.43934 1.0607S0.897825 11.0001 0.5 11.0001h11c-0.3978 0 -0.7794 -0.158 -1.0607 -0.4393S10 9.89792 10 9.5001v-0.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 0.5v6" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 3.5h6" stroke-width="1"></path>
+  </g>
+</svg>

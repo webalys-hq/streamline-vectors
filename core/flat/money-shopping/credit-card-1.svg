@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="credit-card-1--credit-pay-payment-debit-card-finance-plastic-money-atm"><path id="Union" fill="#37d7ff" d="M0 5v5.75a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5-1.5V5H0Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 1.75A1.5 1.5 0 0 0 0 3.25V5h14V3.25a1.5 1.5 0 0 0-1.5-1.5h-11Zm8 6.875a.625.625 0 1 0 0 1.25H11a.625.625 0 1 0 0-1.25H9.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Credit-Card-1--Streamline-Core">
+  <desc>
+    Credit Card 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="credit-card-1--credit-pay-payment-debit-card-finance-plastic-money-atm">
+    <path id="Union" fill="#8fbffa" d="M0 5v5.75a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5 -1.5V5H0Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1.5 1.75A1.5 1.5 0 0 0 0 3.25V5h14V3.25a1.5 1.5 0 0 0 -1.5 -1.5h-11Zm8 6.875a0.625 0.625 0 1 0 0 1.25H11a0.625 0.625 0 1 0 0 -1.25H9.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

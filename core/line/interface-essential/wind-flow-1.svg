@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wind-flow-1--wind-high-overcast-gust-weather-meteorology-gale"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.5.5a1.75 1.75 0 0 1 0 3.5h-7"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.75 10.5a1.75 1.75 0 0 0 0-3.5H2"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.25 13.5a1.75 1.75 0 0 0 0-3.5H1.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wind-Flow-1--Streamline-Core">
+  <desc>
+    Wind Flow 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wind-flow-1--wind-high-overcast-gust-weather-meteorology-gale">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 0.5c0.46413 0 0.90925 0.184374 1.23744 0.51256 0.32819 0.32819 0.51256 0.77331 0.51256 1.23744 0 0.46413 -0.18437 0.90925 -0.51256 1.23744C8.40925 3.81563 7.96413 4 7.5 4h-7" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.75 10.5c0.4641 0 0.9092 -0.1844 1.2374 -0.51256 0.3282 -0.32819 0.5126 -0.77331 0.5126 -1.23744 0 -0.46413 -0.1844 -0.90925 -0.5126 -1.23744C12.6592 7.18437 12.2141 7 11.75 7H2" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.25 13.5c0.46413 0 0.90925 -0.1844 1.23744 -0.5126C8.81563 12.6592 9 12.2141 9 11.75c0 -0.4641 -0.18437 -0.9092 -0.51256 -1.2374C8.15925 10.1844 7.71413 10 7.25 10H1.5" stroke-width="1"></path>
+  </g>
+</svg>

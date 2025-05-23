@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mail-send-envelope--envelope-email-message-unopened-sealed-close"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.5 1.25A1.5 1.5 0 0 0 0 2.75v8.5a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5-1.5v-8.5a1.5 1.5 0 0 0-1.5-1.5h-11Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M14 3.092 7.383 7.504A.72.72 0 0 1 7 7.607a.72.72 0 0 1-.383-.103L0 3.092v1.502l5.927 3.952.005.004c.315.205.693.307 1.068.307.375 0 .753-.102 1.068-.307L14 4.594V3.092Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mail-Send-Envelope--Streamline-Core">
+  <desc>
+    Mail Send Envelope Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mail-send-envelope--envelope-email-message-unopened-sealed-close">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.5 1.25A1.5 1.5 0 0 0 0 2.75v8.5a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5 -1.5v-8.5a1.5 1.5 0 0 0 -1.5 -1.5h-11Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M14 3.092 7.383 7.504A0.72 0.72 0 0 1 7 7.607a0.72 0.72 0 0 1 -0.383 -0.103L0 3.092v1.502l5.927 3.952 0.005 0.004c0.315 0.205 0.693 0.307 1.068 0.307 0.375 0 0.753 -0.102 1.068 -0.307L14 4.594V3.092Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

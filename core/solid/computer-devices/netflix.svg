@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="netflix"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.625 13.212V2.793l3.4 7.488v1.967a.5.5 0 0 1-.314.464l-2.4.964a.5.5 0 0 1-.686-.464Zm10.75-12.7v10.825l-3.4-7.055V.512a.5.5 0 0 1 .5-.5h2.4a.5.5 0 0 1 .5.5ZM2.125.265h3.25l6.5 13.489-4.063-.964L2.125.266Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Netflix--Streamline-Core">
+  <desc>
+    Netflix Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="netflix">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.62451 13.2118V2.79302l3.4 7.48758v1.9677c0 0.2042 -0.1242 0.3879 -0.31372 0.464l-2.4 0.9635c-0.15407 0.0618 -0.3288 0.0432 -0.46633 -0.0498 -0.13754 -0.093 -0.21995 -0.2482 -0.21995 -0.4142ZM12.3746 0.511292V11.3372L8.97461 4.28163V0.511292c0 -0.276143 0.22386 -0.5000005 0.5 -0.5000005h2.39999c0.1326 0 0.2598 0.0526784 0.3536 0.1464465 0.0937 0.093768 0.1464 0.220945 0.1464 0.353554ZM2.12451 0.266174h3.25003L11.8746 13.7549l-4.06254 -0.9635L2.12451 0.266174Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

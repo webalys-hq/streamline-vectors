@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="convert-PDF-2--essential-files-folder-convert-to-PDF"><path id="Vector" fill="#37d7ff" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1H9L12.5 4v8.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1H9L12.5 4v8.5Z"></path><path id="Vector 1238" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.3 3.517C4.006 3.9 9.4 10.4 9.975 8.913c.576-1.488-7.085.43-5.823 1.487C5.413 11.458 6.593 3.133 5.3 3.517Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Convert-Pdf-2--Streamline-Core">
+  <desc>
+    Convert PDF 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="convert-PDF-2--essential-files-folder-convert-to-PDF">
+    <path id="Vector" fill="#d7e0ff" d="M12.5 12.5a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-11a1 1 0 0 1 1 -1H9L12.5 4v8.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 12.5a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-11a1 1 0 0 1 1 -1H9L12.5 4v8.5Z" stroke-width="1"></path>
+    <path id="Vector 1238" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.3 3.517C4.006 3.9 9.4 10.4 9.975 8.913c0.576 -1.488 -7.085 0.43 -5.823 1.487C5.413 11.458 6.593 3.133 5.3 3.517Z" stroke-width="1"></path>
+  </g>
+</svg>

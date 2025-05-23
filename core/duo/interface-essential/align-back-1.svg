@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="align-back-1--back-design-layer-layers-pile-stack-arrange-square"><path id="Vector" fill="#37d7ff" d="M10 .5H1.5a1 1 0 0 0-1 1V10a1 1 0 0 0 1 1H10a1 1 0 0 0 1-1V1.5a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 .5H1.5a1 1 0 0 0-1 1V10a1 1 0 0 0 1 1H10a1 1 0 0 0 1-1V1.5a1 1 0 0 0-1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 3.5v9a1 1 0 0 1-1 1h-9"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Align-Back-1--Streamline-Core">
+  <desc>
+    Align Back 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="align-back-1--back-design-layer-layers-pile-stack-arrange-square">
+    <path id="Vector" fill="#d7e0ff" d="M10 0.5H1.5c-0.552285 0 -1 0.447715 -1 1V10c0 0.5523 0.447715 1 1 1H10c0.5523 0 1 -0.4477 1 -1V1.5c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10 0.5H1.5c-0.552285 0 -1 0.447715 -1 1V10c0 0.5523 0.447715 1 1 1H10c0.5523 0 1 -0.4477 1 -1V1.5c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 3.5v9c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-9" stroke-width="1"></path>
+  </g>
+</svg>

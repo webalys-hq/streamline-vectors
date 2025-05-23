@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="phone-mobile-phone--android-phone-mobile-device-smartphone-iphone"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M3.75 0A1.75 1.75 0 0 0 2 1.75v10.5c0 .592.361 1.032.65 1.278.156.133.328.243.498.322.154.073.37.15.602.15h6.5A1.75 1.75 0 0 0 12 12.25V1.75A1.75 1.75 0 0 0 10.25 0h-6.5Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M5.75 10.5a.75.75 0 0 1 .75-.75h1a.75.75 0 0 1 0 1.5h-1a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Phone-Mobile-Phone--Streamline-Core">
+  <desc>
+    Phone Mobile Phone Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="phone-mobile-phone--android-phone-mobile-device-smartphone-iphone">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M3.75 0A1.75 1.75 0 0 0 2 1.75v10.5c0 0.592 0.361 1.032 0.65 1.278 0.156 0.133 0.328 0.243 0.498 0.322 0.154 0.073 0.37 0.15 0.602 0.15h6.5A1.75 1.75 0 0 0 12 12.25V1.75A1.75 1.75 0 0 0 10.25 0h-6.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M5.75 10.5a0.75 0.75 0 0 1 0.75 -0.75h1a0.75 0.75 0 0 1 0 1.5h-1a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

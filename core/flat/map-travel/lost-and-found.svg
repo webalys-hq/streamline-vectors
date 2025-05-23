@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="lost-and-found"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 1.75A1.75 1.75 0 0 0 5.25 3.5h3.5A1.75 1.75 0 0 0 7 1.75Zm-2.298-.548A3.25 3.25 0 0 0 3.75 3.5H2.5A2.5 2.5 0 0 0 0 6v5.5A2.5 2.5 0 0 0 2.5 14h9a2.5 2.5 0 0 0 2.5-2.5V6a2.5 2.5 0 0 0-2.5-2.5h-1.25a3.25 3.25 0 0 0-5.548-2.298Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7.17 6.517a.875.875 0 0 0-1.045.858.625.625 0 1 1-1.25 0 2.125 2.125 0 1 1 2.75 2.031v.469a.625.625 0 1 1-1.25 0v-1c0-.345.28-.625.625-.625a.875.875 0 0 0 .17-1.733Zm-.918 5.608a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Lost-And-Found--Streamline-Core">
+  <desc>
+    Lost And Found Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="lost-and-found">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 1.75A1.75 1.75 0 0 0 5.25 3.5h3.5A1.75 1.75 0 0 0 7 1.75Zm-2.298 -0.548A3.25 3.25 0 0 0 3.75 3.5H2.5A2.5 2.5 0 0 0 0 6v5.5A2.5 2.5 0 0 0 2.5 14h9a2.5 2.5 0 0 0 2.5 -2.5V6a2.5 2.5 0 0 0 -2.5 -2.5h-1.25a3.25 3.25 0 0 0 -5.548 -2.298Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7.17 6.517a0.875 0.875 0 0 0 -1.045 0.858 0.625 0.625 0 1 1 -1.25 0 2.125 2.125 0 1 1 2.75 2.031v0.469a0.625 0.625 0 1 1 -1.25 0v-1c0 -0.345 0.28 -0.625 0.625 -0.625a0.875 0.875 0 0 0 0.17 -1.733Zm-0.918 5.608a0.75 0.75 0 1 0 1.5 0 0.75 0.75 0 0 0 -1.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

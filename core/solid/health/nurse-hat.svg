@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="nurse-hat--health-medical-hospital-nurse-doctor-cap"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9.21 1.367H4.75a1.5 1.5 0 0 0-1.48 1.03l-.733 1.815a27.898 27.898 0 0 1 8.911-.003l-.759-1.816a1.5 1.5 0 0 0-1.48-1.026Zm4.283 4.54a.493.493 0 0 1 .344.633l-1.766 5.405a1 1 0 0 1-.95.689H2.879a1 1 0 0 1-.95-.69L.163 6.54a.492.492 0 0 1 .344-.632 26.575 26.575 0 0 1 12.986 0ZM5.5 8.243a.625.625 0 0 0 0 1.25h.875v.875a.625.625 0 0 0 1.25 0v-.875H8.5a.625.625 0 1 0 0-1.25h-.875v-.875a.625.625 0 0 0-1.25 0v.875H5.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Nurse-Hat--Streamline-Core">
+  <desc>
+    Nurse Hat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="nurse-hat--health-medical-hospital-nurse-doctor-cap">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M9.21 1.367H4.75a1.5 1.5 0 0 0 -1.48 1.03l-0.733 1.815a27.898 27.898 0 0 1 8.911 -0.003l-0.759 -1.816a1.5 1.5 0 0 0 -1.48 -1.026Zm4.283 4.54a0.493 0.493 0 0 1 0.344 0.633l-1.766 5.405a1 1 0 0 1 -0.95 0.689H2.879a1 1 0 0 1 -0.95 -0.69L0.163 6.54a0.492 0.492 0 0 1 0.344 -0.632 26.575 26.575 0 0 1 12.986 0ZM5.5 8.243a0.625 0.625 0 0 0 0 1.25h0.875v0.875a0.625 0.625 0 0 0 1.25 0v-0.875H8.5a0.625 0.625 0 1 0 0 -1.25h-0.875v-0.875a0.625 0.625 0 0 0 -1.25 0v0.875H5.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

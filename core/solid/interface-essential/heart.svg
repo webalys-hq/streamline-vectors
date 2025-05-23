@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="heart--reward-social-rating-media-heart-it-like-favorite-love"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M4.024 1.085c.98.071 2.002.55 2.98 1.517.978-.968 1.999-1.445 2.978-1.514 1.106-.079 2.083.368 2.79 1.073 1.39 1.386 1.827 3.895.102 5.62a.48.48 0 0 1-.018.017L7.34 12.795a.5.5 0 0 1-.672 0L1.152 7.798a.495.495 0 0 1-.018-.017c-1.734-1.734-1.3-4.243.095-5.628.709-.704 1.688-1.148 2.795-1.068Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heart--Streamline-Core">
+  <desc>
+    Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart--reward-social-rating-media-heart-it-like-favorite-love">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M4.0238 1.08512c0.98053 0.07105 2.00224 0.54903 2.98028 1.5164 0.97779 -0.9671 1.9986 -1.44417 2.97822 -1.51364 1.1056 -0.07841 2.083 0.36844 2.7902 1.07345 1.3903 1.38614 1.8269 3.89436 0.1017 5.6196 -0.0058 0.00582 -0.0118 0.0115 -0.0179 0.01702L7.33974 12.7949c-0.19051 0.1725 -0.48082 0.1725 -0.67133 0L1.15183 7.79795c-0.0061 -0.00552 -0.01206 -0.0112 -0.01788 -0.01702 -1.73423 -1.73423 -1.299958 -4.24274 0.09494 -5.6278 0.70889 -0.7039 1.68828 -1.14819 2.79491 -1.06801Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

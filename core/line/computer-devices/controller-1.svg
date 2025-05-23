@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="controller-1--remote-quadcopter-drones-flying-drone-control-controller-technology-fly"><path id="Vector 693" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.4 5.02v2.31"></path><path id="Vector 694" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.556 6.175H3.245"></path><path id="Vector 2430" stroke="#3e3e3e" stroke-linejoin="round" d="m1.256 5.212-.412 3.71a2.283 2.283 0 0 0 4.311 1.273l.36-.72h2.97l.36.72a2.283 2.283 0 0 0 4.31-1.273l-.411-3.71a3 3 0 0 0-2.982-2.669H4.238a3 3 0 0 0-2.982 2.669Z"></path><g id="Group 628"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.466 5.514a.248.248 0 0 1 0-.495"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.466 5.514a.248.248 0 1 0 0-.495"></path></g><g id="Group 630"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.733 6.752a.248.248 0 0 1 .495 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.733 6.752a.248.248 0 1 0 .495 0"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Controller-1--Streamline-Core">
+  <desc>
+    Controller 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="controller-1--remote-quadcopter-drones-flying-drone-control-controller-technology-fly">
+    <path id="Vector 693" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.40024 5.01929v2.31089" stroke-width="1"></path>
+    <path id="Vector 694" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.55576 6.1748 -2.3109 0" stroke-width="1"></path>
+    <path id="Vector 2430" stroke="#000000" stroke-linejoin="round" d="M1.25636 5.21192 0.844169 8.92165C0.693911 10.274 1.75248 11.4567 3.11312 11.4567c0.8647 0 1.65519 -0.4886 2.0419 -1.262l0.3594 -0.71879h2.97116l0.3594 0.71879c0.38671 0.7734 1.17722 1.262 2.04192 1.262 1.3606 0 2.4192 -1.1827 2.2689 -2.53505l-0.4122 -3.70973c-0.1688 -1.5193 -1.453 -2.66871 -2.98161 -2.66871H4.23801c-1.52864 0 -2.81284 1.14941 -2.98165 2.66871Z" stroke-width="1"></path>
+    <g id="Group 628">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4663 5.51448c-0.1367 0 -0.2475 -0.11085 -0.2475 -0.2476 0 -0.13674 0.1108 -0.24759 0.2475 -0.24759" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4663 5.51448c0.1368 0 0.2476 -0.11085 0.2476 -0.2476 0 -0.13674 -0.1108 -0.24759 -0.2476 -0.24759" stroke-width="1"></path>
+    </g>
+    <g id="Group 630">
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.73317 6.75248c0 -0.13674 0.11085 -0.2476 0.2476 -0.2476 0.13674 0 0.24759 0.11086 0.24759 0.2476" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.73326 6.7524c0 0.13675 0.11085 0.2476 0.2476 0.2476 0.13674 0 0.24759 -0.11085 0.24759 -0.2476" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

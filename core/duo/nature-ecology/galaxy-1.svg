@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="galaxy-1--science-space-universe-astronomy"><path id="Ellipse 962" fill="#37d7ff" d="M5 7a2 2 0 1 0 4 0 2 2 0 1 0-4 0"></path><path id="Ellipse 963" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 7a2 2 0 1 0 4 0 2 2 0 1 0-4 0"></path><path id="Vector 2292" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.013 9c3 0 5.713-2 5.713-5.083"></path><path id="Vector 2293" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.013 5c-3 0-5.739 2-5.739 5.083"></path><path id="Vector 2294" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.739 7.989C10.239 5.39 9.863 2.042 7.193.5"></path><path id="Vector 2295" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.274 5.989c-1.5 2.598-1.137 5.97 1.533 7.511"></path><path id="Vector 2296" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.725 5.989C7.225 3.39 4.137 2.04 1.467 3.583"></path><path id="Vector 2297" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.261 7.989c1.5 2.598 4.602 3.97 7.272 2.428"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Galaxy-1--Streamline-Core">
+  <desc>
+    Galaxy 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="galaxy-1--science-space-universe-astronomy">
+    <path id="Ellipse 962" fill="#d7e0ff" d="M5 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
+    <path id="Ellipse 963" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
+    <path id="Vector 2292" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.01318 9c3.00002 0 5.71242 -2 5.71242 -5.08301" stroke-width="1"></path>
+    <path id="Vector 2293" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.01318 5c-3 0 -5.73877 2 -5.73877 5.083" stroke-width="1"></path>
+    <path id="Vector 2294" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.73869 7.98859C10.2387 5.39051 9.86283 2.0415 7.19287 0.5" stroke-width="1"></path>
+    <path id="Vector 2295" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.27447 5.98859C3.77447 8.58666 4.13713 11.9585 6.8071 13.5" stroke-width="1"></path>
+    <path id="Vector 2296" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.72548 5.98854c-1.5 -2.59808 -4.58826 -3.94708 -7.25822 -2.40558" stroke-width="1"></path>
+    <path id="Vector 2297" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.26135 7.98865c1.5 2.59805 4.60144 3.96995 7.27145 2.42845" stroke-width="1"></path>
+  </g>
+</svg>

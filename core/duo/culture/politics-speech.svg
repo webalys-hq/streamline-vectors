@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="politics-speech"><path id="Subtract" fill="#ffffff" fill-rule="evenodd" d="m2.875 6.979.459 6.416h7.332l.459-6.416h-8.25ZM7.59 9.785 7 8.591l-.59 1.194-1.318.192.954.93-.225 1.313L7 11.6l1.18.62-.226-1.313.954-.93-1.318-.192Z" clip-rule="evenodd"></path><path id="Vector 1240" fill="#37d7ff" d="M4 7h6a3 3 0 0 0-6 0Z"></path><path id="Vector 1069" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.959 6.979H12.04"></path><path id="Vector 1070" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m2.875 6.979.459 6.416"></path><path id="Vector 1071" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.125 6.979-.459 6.416"></path><path id="Star 5" fill="#37d7ff" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7 8.59.59 1.195 1.318.192-.954.93.225 1.313L7 11.6l-1.18.62.226-1.313-.954-.93 1.318-.192L7 8.591Z"></path><path id="Vector" fill="#37d7ff" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3.77A1.604 1.604 0 1 0 7 .562 1.604 1.604 0 0 0 7 3.77Z"></path><path id="Vector 1239" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 7a3 3 0 0 0-6 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Politics-Speech--Streamline-Core">
+  <desc>
+    Politics Speech Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="politics-speech">
+    <path id="Subtract" fill="#ffffff" fill-rule="evenodd" d="m2.87537 6.97852 0.45829 6.41608h7.33264l0.4583 -6.41608H2.87537Zm4.71428 2.80697 -0.58961 -1.19467 -0.5896 1.19467 -1.3184 0.19157 0.954 0.92994 -0.22521 1.3131 1.17921 -0.62 1.17921 0.62 -0.22521 -1.3131 0.954 -0.92994 -1.31839 -0.19157Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1240" fill="#d7e0ff" d="M4 7h6c0 -1.65685 -1.34315 -3 -3 -3S4 5.34315 4 7Z" stroke-width="1"></path>
+    <path id="Vector 1069" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.9588 6.97852h10.0824" stroke-width="1"></path>
+    <path id="Vector 1070" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m2.87537 6.97852 0.45829 6.41608" stroke-width="1"></path>
+    <path id="Vector 1071" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m11.1246 6.97852 -0.4583 6.41608" stroke-width="1"></path>
+    <path id="Star 5" fill="#d7e0ff" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.00004 8.59082 0.58961 1.19467 1.31839 0.19157 -0.954 0.92994 0.22521 1.3131 -1.17921 -0.62 -1.17921 0.62 0.22521 -1.3131 -0.954 -0.92994 1.3184 -0.19157 0.5896 -1.19467Z" stroke-width="1"></path>
+    <path id="Vector" fill="#d7e0ff" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.00002 3.77042c0.88587 0 1.60401 -0.71815 1.60401 -1.60402 0 -0.88588 -0.71814 -1.604022 -1.60401 -1.604022 -0.88588 0 -1.60402 0.718142 -1.60402 1.604022 0 0.88587 0.71814 1.60402 1.60402 1.60402Z" stroke-width="1"></path>
+    <path id="Vector 1239" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10 7c0 -1.65685 -1.34315 -3 -3 -3S4 5.34315 4 7" stroke-width="1"></path>
+  </g>
+</svg>

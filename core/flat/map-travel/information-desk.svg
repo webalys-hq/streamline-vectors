@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="information-desk"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M6.09 2.735a4.055 4.055 0 0 1 7.844 1.442 4.054 4.054 0 0 1-6.528 3.211A3.686 3.686 0 0 0 6.09 2.735Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9.813 2.93c-.275-.03-.665-.238-.665-.71 0-.512.46-.712.733-.712.024 0 .048.002.07.004.275.03.666.237.666.709 0 .512-.461.712-.734.712a.633.633 0 0 1-.07-.004Zm.068.87c.345 0 .625.28.625.626V6.22a.625.625 0 0 1-1.25 0V4.426c0-.345.28-.625.625-.625Z" clip-rule="evenodd"></path><g id="Union_2"><path fill="#37d7ff" d="M4.065 8.259a2.44 2.44 0 1 0 0-4.879 2.44 2.44 0 0 0 0 4.879Z"></path><path fill="#37d7ff" d="M0 13.137a4.065 4.065 0 1 1 8.13 0 .407.407 0 0 1-.406.407H.407A.407.407 0 0 1 0 13.137Z"></path></g><path id="Vector 637 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M.02 13.214a.75.75 0 0 1 .75-.75h12.462a.75.75 0 0 1 0 1.5H.77a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Information-Desk--Streamline-Core">
+  <desc>
+    Information Desk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="information-desk">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M6.09 2.735a4.055 4.055 0 0 1 7.844 1.442 4.054 4.054 0 0 1 -6.528 3.211A3.686 3.686 0 0 0 6.09 2.735Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M9.813 2.93c-0.275 -0.03 -0.665 -0.238 -0.665 -0.71 0 -0.512 0.46 -0.712 0.733 -0.712 0.024 0 0.048 0.002 0.07 0.004 0.275 0.03 0.666 0.237 0.666 0.709 0 0.512 -0.461 0.712 -0.734 0.712a0.633 0.633 0 0 1 -0.07 -0.004Zm0.068 0.87c0.345 0 0.625 0.28 0.625 0.626l0 1.795a0.625 0.625 0 0 1 -1.25 0l0 -1.795c0 -0.345 0.28 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+    <g id="Union_2">
+      <path fill="#8fbffa" d="M4.065 8.259a2.44 2.44 0 1 0 0 -4.879 2.44 2.44 0 0 0 0 4.879Z" stroke-width="1"></path>
+      <path fill="#8fbffa" d="M0 13.137a4.065 4.065 0 1 1 8.13 0 0.407 0.407 0 0 1 -0.406 0.407H0.407A0.407 0.407 0 0 1 0 13.137Z" stroke-width="1"></path>
+    </g>
+    <path id="Vector 637 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M0.02 13.214a0.75 0.75 0 0 1 0.75 -0.75h12.462a0.75 0.75 0 0 1 0 1.5H0.77a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

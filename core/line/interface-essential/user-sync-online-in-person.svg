@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="user-sync-online-in-person"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.04 13.448v-2.48h2.48"></path><path id="Ellipse 1132" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.339 5.815a6.449 6.449 0 0 1-11.3 5.308"></path><path id="Ellipse 1133" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.661 8.185a6.449 6.449 0 0 1 11.3-5.308"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.96.552v2.48H9.48"></path><path id="Ellipse 1134" stroke="#3e3e3e" d="M5.75 5.25a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 1 0-2.5 0"></path><path id="Ellipse 1136" stroke="#3e3e3e" stroke-linecap="round" d="M4.708 9.5a2.5 2.5 0 0 1 4.584 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="User-Sync-Online-In-Person--Streamline-Core">
+  <desc>
+    User Sync Online In Person Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="user-sync-online-in-person">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.03955 13.4484v-2.4801H4.5197" stroke-width="1"></path>
+    <path id="Ellipse 1132" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.3389 5.81506c0.6171 3.28169 -1.3911 6.53514 -4.66992 7.41364 -2.50947 0.6724 -5.06997 -0.2321 -6.62943 -2.1061" stroke-width="1"></path>
+    <path id="Ellipse 1133" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.661145 8.18502C0.0440415 4.90334 2.05229 1.64992 5.33108 0.771373c2.5093 -0.6723653 5.06962 0.231967 6.62912 2.105707" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.9603 0.551636V3.03179H9.4801" stroke-width="1"></path>
+    <path id="Ellipse 1134" stroke="#000000" d="M5.75 5.25a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 1 0 -2.5 0" stroke-width="1"></path>
+    <path id="Ellipse 1136" stroke="#000000" stroke-linecap="round" d="M4.70801 9.5C5.09379 8.61705 5.97483 8 6.99999 8s1.9062 0.61705 2.29197 1.5" stroke-width="1"></path>
+  </g>
+</svg>

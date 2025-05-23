@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="module-three--code-three-module-programming-plugin"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M4.88 0a1 1 0 0 0-1 1v4.25a1 1 0 0 0 1 1h4.25a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1H4.88ZM1 7.75a1 1 0 0 0-1 1V13a1 1 0 0 0 1 1h4.25a1 1 0 0 0 1-1V8.75a1 1 0 0 0-1-1H1Zm6.75 1a1 1 0 0 1 1-1H13a1 1 0 0 1 1 1V13a1 1 0 0 1-1 1H8.75a1 1 0 0 1-1-1V8.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Module-Three--Streamline-Core">
+  <desc>
+    Module Three Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="module-three--code-three-module-programming-plugin">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M4.88 0a1 1 0 0 0 -1 1v4.25a1 1 0 0 0 1 1h4.25a1 1 0 0 0 1 -1V1a1 1 0 0 0 -1 -1H4.88ZM1 7.75a1 1 0 0 0 -1 1V13a1 1 0 0 0 1 1h4.25a1 1 0 0 0 1 -1V8.75a1 1 0 0 0 -1 -1H1Zm6.75 1a1 1 0 0 1 1 -1H13a1 1 0 0 1 1 1V13a1 1 0 0 1 -1 1H8.75a1 1 0 0 1 -1 -1V8.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

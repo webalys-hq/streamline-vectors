@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="discount-percent-fire--shop-shops-stores-discount-coupon-hot-trending"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M5.867.11a.5.5 0 0 0-.59.67c.372.933.534 1.707.5 2.44-.035.72-.26 1.44-.723 2.267L3.788 4.05a.5.5 0 0 0-.739-.012C1.246 5.954.845 8.479 1.645 10.507c.807 2.047 2.815 3.533 5.675 3.39h.006c2.146-.133 3.53-.924 4.363-2.014.821-1.071 1.058-2.364 1.058-3.42 0-2.67-1.184-4.627-2.631-5.976C8.68 1.15 6.976.4 5.866.11Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.065 7.118a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm3.24.169a.5.5 0 0 1 0 .707L6.02 11.277a.5.5 0 1 1-.707-.707l3.283-3.283a.5.5 0 0 1 .707 0Zm-.58 2.66a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Discount-Percent-Fire--Streamline-Core">
+  <desc>
+    Discount Percent Fire Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="discount-percent-fire--shop-shops-stores-discount-coupon-hot-trending">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5.867 0.11a0.5 0.5 0 0 0 -0.59 0.67c0.372 0.933 0.534 1.707 0.5 2.44 -0.035 0.72 -0.26 1.44 -0.723 2.267L3.788 4.05a0.5 0.5 0 0 0 -0.739 -0.012C1.246 5.954 0.845 8.479 1.645 10.507c0.807 2.047 2.815 3.533 5.675 3.39l0.006 0c2.146 -0.133 3.53 -0.924 4.363 -2.014 0.821 -1.071 1.058 -2.364 1.058 -3.42 0 -2.67 -1.184 -4.627 -2.631 -5.976C8.68 1.15 6.976 0.4 5.866 0.11Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M6.065 7.118a0.75 0.75 0 1 0 0 1.5 0.75 0.75 0 0 0 0 -1.5Zm3.24 0.169a0.5 0.5 0 0 1 0 0.707L6.02 11.277a0.5 0.5 0 1 1 -0.707 -0.707l3.283 -3.283a0.5 0.5 0 0 1 0.707 0Zm-0.58 2.66a0.75 0.75 0 1 0 0 1.5 0.75 0.75 0 0 0 0 -1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

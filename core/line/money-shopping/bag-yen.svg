@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bag-yen--bag-payment-cash-money-finance"><path id="Vector 994" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.25 6 7 8.333 8.75 6"></path><path id="Vector 995" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.333v2.625"></path><path id="Vector 996" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.333h3.5"></path><path id="Vector 997" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.25 9.791h3.5"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5 0 6-1.238 6-3.994 0-2.995-1.5-4.992-4.5-6.49l1.18-1.518A.658.658 0 0 0 9.12.5H4.88a.66.66 0 0 0-.56.998L5.5 3.026C2.5 4.534 1 6.531 1 9.526 1 12.262 3.5 13.5 7 13.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bag-Yen--Streamline-Core">
+  <desc>
+    Bag Yen Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bag-yen--bag-payment-cash-money-finance">
+    <path id="Vector 994" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 6 7 8.33333 8.75 6" stroke-width="1"></path>
+    <path id="Vector 995" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 8.33325v2.62505" stroke-width="1"></path>
+    <path id="Vector 996" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.33325h3.5" stroke-width="1"></path>
+    <path id="Vector 997" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 9.7915h3.5" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5 0 6 -1.2381 6 -3.99386 0 -2.99539 -1.5 -4.99232 -4.5 -6.49001l1.18 -1.51767c0.05995 -0.09957 0.09246 -0.2132 0.09425 -0.32937S9.74704 0.938348 9.69018 0.836979C9.63333 0.73561 9.55065 0.651051 9.45051 0.591872 9.35038 0.532693 9.23636 0.500998 9.12 0.5H4.88c-0.11636 0.000998 -0.23038 0.032693 -0.33051 0.091872 -0.10014 0.059179 -0.18282 0.143738 -0.23967 0.245107 -0.05686 0.101369 -0.08586 0.215941 -0.08407 0.332111s0.0343 0.2298 0.09425 0.32937L5.5 3.02611c-3 1.50768 -4.5 3.50461 -4.5 6.5C1 12.2619 3.5 13.5 7 13.5Z" stroke-width="1"></path>
+  </g>
+</svg>

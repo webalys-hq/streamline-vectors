@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="business-profession-home-office--workspace-home-office-work-business-remote-working"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7.678.445a1 1 0 0 0-1.356 0L.481 5.832l-.001.001C.178 6.113 0 6.486 0 6.94v5.56A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5V6.94c0-.415-.172-.821-.48-1.107L7.678.445Z" clip-rule="evenodd"></path><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.066 5.743a.5.5 0 0 1 .5-.5h.87a.5.5 0 0 1 .5.5v.405h-1.87v-.405Zm-1 .405v-.405a1.5 1.5 0 0 1 1.5-1.5h.87a1.5 1.5 0 0 1 1.5 1.5v.405h.183a1 1 0 0 1 1 1v3.095a1 1 0 0 1-1 1H4.88a1 1 0 0 1-1-1V7.148a1 1 0 0 1 1-1h.185Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-Profession-Home-Office--Streamline-Core">
+  <desc>
+    Business Profession Home Office Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="business-profession-home-office--workspace-home-office-work-business-remote-working">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7.678 0.445a1 1 0 0 0 -1.356 0L0.481 5.832l-0.001 0.001C0.178 6.113 0 6.486 0 6.94v5.56A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5 -1.5V6.94c0 -0.415 -0.172 -0.821 -0.48 -1.107L7.678 0.445Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M6.066 5.743a0.5 0.5 0 0 1 0.5 -0.5h0.87a0.5 0.5 0 0 1 0.5 0.5v0.405h-1.87v-0.405Zm-1 0.405v-0.405a1.5 1.5 0 0 1 1.5 -1.5h0.87a1.5 1.5 0 0 1 1.5 1.5v0.405h0.183a1 1 0 0 1 1 1v3.095a1 1 0 0 1 -1 1H4.88a1 1 0 0 1 -1 -1V7.148a1 1 0 0 1 1 -1h0.185Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

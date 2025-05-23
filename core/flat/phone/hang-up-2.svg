@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hang-up-2--android-phone-mobile-device-smartphone-iphone-telephone-hang-up"><path id="Vector (Stroke)" fill="#37d7ff" d="M11.438 2.982a3.048 3.048 0 0 1 2.405 2.995l.006.51a1.363 1.363 0 0 1-1.347 1.347h-2.156A1.354 1.354 0 0 1 9.003 6.49a.346.346 0 0 0-.35-.357H5.267a.363.363 0 0 0-.356.358 1.351 1.351 0 0 1-1.343 1.342l-2.156.011A1.363 1.363 0 0 1 .064 6.498l.006-.51a3.048 3.048 0 0 1 2.405-2.994c2.946-.604 6.013-.577 8.963-.012Z"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M7 7.314c.345 0 .625.28.625.625v2.22h1.247a.625.625 0 0 1 .442 1.067l-1.872 1.872a.623.623 0 0 1-.89-.006l-1.866-1.866a.625.625 0 0 1 .442-1.067h1.247V7.94c0-.346.28-.625.625-.625Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hang-Up-2--Streamline-Core">
+  <desc>
+    Hang Up 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hang-up-2--android-phone-mobile-device-smartphone-iphone-telephone-hang-up">
+    <path id="Vector (Stroke)" fill="#8fbffa" d="M11.438 2.982a3.048 3.048 0 0 1 2.405 2.995l0.006 0.51a1.363 1.363 0 0 1 -1.347 1.347l-2.156 0A1.354 1.354 0 0 1 9.003 6.49a0.346 0.346 0 0 0 -0.35 -0.357l-3.387 0a0.363 0.363 0 0 0 -0.356 0.358 1.351 1.351 0 0 1 -1.343 1.342l-2.156 0.011A1.363 1.363 0 0 1 0.064 6.498l0.006 -0.51a3.048 3.048 0 0 1 2.405 -2.994c2.946 -0.604 6.013 -0.577 8.963 -0.012Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M7 7.314c0.345 0 0.625 0.28 0.625 0.625l0 2.22 1.247 0a0.625 0.625 0 0 1 0.442 1.067l-1.872 1.872a0.623 0.623 0 0 1 -0.89 -0.006l-1.866 -1.866a0.625 0.625 0 0 1 0.442 -1.067l1.247 0 0 -2.22c0 -0.346 0.28 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

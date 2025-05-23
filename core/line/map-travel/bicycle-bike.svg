@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bicycle-bike"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 11.25a2.25 2.25 0 1 0 4.5 0 2.25 2.25 0 0 0-4.5 0v0Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 11.25a2.25 2.25 0 1 0 4.5 0 2.25 2.25 0 0 0-4.5 0v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7 10.5-3-5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.953 7.088 2.75 11.25 7 10.5l2.85-3.326"></path><path id="Vector 830" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.25 11.25 8.977 4.628h2.64"></path><path id="Vector 1960" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 5.5h2.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bicycle-Bike--Streamline-Core">
+  <desc>
+    Bicycle Bike Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bicycle-bike">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 11.25c0 0.5967 0.237053 1.169 0.65901 1.591 0.42196 0.4219 0.99425 0.659 1.59099 0.659 0.59673 0 1.16903 -0.2371 1.59099 -0.659C4.76294 12.419 5 11.8467 5 11.25s-0.23706 -1.169 -0.65901 -1.59099C3.91903 9.23705 3.34673 9 2.75 9c-0.59674 0 -1.16903 0.23705 -1.59099 0.65901C0.737053 10.081 0.5 10.6533 0.5 11.25v0Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 11.25c0 0.5967 0.23705 1.169 0.65901 1.591 0.42199 0.4219 0.99429 0.659 1.59099 0.659 0.5967 0 1.169 -0.2371 1.591 -0.659 0.4219 -0.422 0.659 -0.9943 0.659 -1.591s-0.2371 -1.169 -0.659 -1.59099C12.419 9.23705 11.8467 9 11.25 9s-1.169 0.23705 -1.59099 0.65901C9.23705 10.081 9 10.6533 9 11.25v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 10.5 -3 -5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.95312 7.0885 2.75 11.25 7 10.5l2.85091 -3.3261" stroke-width="1"></path>
+    <path id="Vector 830" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 11.25 8.97705 4.62805h2.64055" stroke-width="1"></path>
+    <path id="Vector 1960" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 5.5h2.5" stroke-width="1"></path>
+  </g>
+</svg>

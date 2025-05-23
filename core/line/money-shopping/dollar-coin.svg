@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dollar-coin--accounting-billing-payment-cash-coin-currency-money-finance"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.702 5.222a1.332 1.332 0 0 0-1.258-.889H6.412a1.19 1.19 0 0 0-.254 2.353l1.571.344a1.334 1.334 0 0 1-.285 2.637h-.888a1.334 1.334 0 0 1-1.258-.89"></path><path id="Vector 2489" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 4.333V3"></path><path id="Vector 2490" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 11V9.666"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dollar-Coin--Streamline-Core">
+  <desc>
+    Dollar Coin Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dollar-coin--accounting-billing-payment-cash-coin-currency-money-finance">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.70185 5.22238c-0.05853 -0.1656 -0.14885 -0.3162 -0.26363 -0.44444 -0.24415 -0.27278 -0.59894 -0.44444 -0.99383 -0.44444H6.41235c-0.65732 0 -1.19018 0.53286 -1.19018 1.19017 0 0.55931 0.38945 1.04316 0.93584 1.16269l1.57131 0.34372c0.61211 0.1339 1.0484 0.67634 1.0484 1.30293 0 0.73638 -0.59695 1.33382 -1.33333 1.33382H6.5555c-0.58054 0 -1.07442 -0.37103 -1.25746 -0.88889" stroke-width="1"></path>
+    <path id="Vector 2489" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 4.33333V3" stroke-width="1"></path>
+    <path id="Vector 2490" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 10.9998V9.6665" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="wheelchair-1--person-access-wheelchair-accomodation-human-disability-disabled-user"><path id="Vector" fill="#37d7ff" d="M8 4.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 4.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8 4.5v4h3a1 1 0 0 1 1 1v4"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 6.5a3.5 3.5 0 1 0 3.22 4.88"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Wheelchair-1--Streamline-Core">
+  <desc>
+    Wheelchair 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="wheelchair-1--person-access-wheelchair-accomodation-human-disability-disabled-user">
+    <path id="Vector" fill="#d7e0ff" d="M8 4.5c1.10457 0 2 -0.89543 2 -2s-0.89543 -2 -2 -2 -2 0.89543 -2 2 0.89543 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8 4.5c1.10457 0 2 -0.89543 2 -2s-0.89543 -2 -2 -2 -2 0.89543 -2 2 0.89543 2 2 2Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8 4.5v4h3c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v4" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.5 6.5c-0.63179 0.00064 -1.25162 0.17228 -1.79375 0.49671s-0.98633 0.78956 -1.28548 1.34603c-0.29916 0.55648 -0.4421 1.18355 -0.41368 1.81466 0.02842 0.6312 0.22714 1.2429 0.5751 1.7702 0.34796 0.5273 0.83216 0.9507 1.40125 1.2251 0.56909 0.2744 1.20185 0.3896 1.83114 0.3335 0.62928 -0.0562 1.23164 -0.2816 1.74317 -0.6524 0.51153 -0.3708 0.91314 -0.8732 1.16225 -1.4538" stroke-width="1"></path>
+  </g>
+</svg>

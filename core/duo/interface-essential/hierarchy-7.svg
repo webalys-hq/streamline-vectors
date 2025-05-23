@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hierarchy-7--node-organization-links-structure-link-nodes-network-hierarchy"><path id="Vector 2519" fill="#37d7ff" d="M3.5.5h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"></path><path id="Vector 2520" fill="#37d7ff" d="M3.5 9.5h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"></path><path id="Vector 2521" fill="#37d7ff" d="M12.5 9.5h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"></path><path id="Vector 2522" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5.5h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"></path><path id="Vector 2523" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9.5h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"></path><path id="Vector 2524" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.5 9.5h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 9.5v-5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 9.5v-5a2 2 0 0 0-2-2H7"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9 .5-2 2 2 2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hierarchy-7--Streamline-Core">
+  <desc>
+    Hierarchy 7 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hierarchy-7--node-organization-links-structure-link-nodes-network-hierarchy">
+    <path id="Vector 2519" fill="#d7e0ff" d="M3.5 0.5h-2c-0.552285 0 -1 0.447715 -1 1v2c0 0.55228 0.447715 1 1 1h2c0.55228 0 1 -0.44772 1 -1v-2c0 -0.552285 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector 2520" fill="#d7e0ff" d="M3.5 9.5h-2c-0.552285 0 -1 0.44772 -1 1v2c0 0.5523 0.447715 1 1 1h2c0.55228 0 1 -0.4477 1 -1v-2c0 -0.55228 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector 2521" fill="#d7e0ff" d="M12.5 9.5h-2c-0.55228 0 -1 0.44772 -1 1v2c0 0.5523 0.44772 1 1 1h2c0.5523 0 1 -0.4477 1 -1v-2c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector 2522" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 0.5h-2c-0.552285 0 -1 0.447715 -1 1v2c0 0.55228 0.447715 1 1 1h2c0.55228 0 1 -0.44772 1 -1v-2c0 -0.552285 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector 2523" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.5 9.5h-2c-0.552285 0 -1 0.44772 -1 1v2c0 0.5523 0.447715 1 1 1h2c0.55228 0 1 -0.4477 1 -1v-2c0 -0.55228 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector 2524" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.5 9.5h-2c-0.55228 0 -1 0.44772 -1 1v2c0 0.5523 0.44772 1 1 1h2c0.5523 0 1 -0.4477 1 -1v-2c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 9.5v-5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.5 9.5v-5c0 -0.53043 -0.2107 -1.03914 -0.5858 -1.41421C10.5391 2.71071 10.0304 2.5 9.5 2.5H7" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m9 0.5 -2 2 2 2" stroke-width="1"></path>
+  </g>
+</svg>

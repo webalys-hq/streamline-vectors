@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-upscale-spark--magnifier-zoom-view-find-search-ai"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.74 2.76 2.76"></path><path id="Vector 2136" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.45 6.828c-.368-.064-.368-.592 0-.656a3.33 3.33 0 0 0 2.68-2.568l.022-.101c.08-.364.597-.366.68-.003l.027.118A3.346 3.346 0 0 0 9.55 6.17c.37.065.37.595 0 .66a3.346 3.346 0 0 0-2.69 2.552l-.027.118c-.083.363-.6.36-.68-.003l-.022-.1a3.33 3.33 0 0 0-2.681-2.57Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Upscale-Spark--Streamline-Core">
+  <desc>
+    Ai Upscale Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-upscale-spark--magnifier-zoom-view-find-search-ai">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.5 12.5c3.31371 0 6 -2.68629 6 -6s-2.68629 -6 -6 -6 -6 2.68629 -6 6 2.68629 6 6 6Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.74 10.7402 2.76 2.76" stroke-width="1"></path>
+    <path id="Vector 2136" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.44956 6.82811c-0.36781 -0.06399 -0.36781 -0.59199 0 -0.65598 1.33251 -0.23182 2.39233 -1.24676 2.68155 -2.56799l0.02217 -0.10128c0.07958 -0.36351 0.59717 -0.36577 0.67992 -0.00297l0.02692 0.11803c0.29993 1.31499 1.36004 2.32136 2.68885 2.55254 0.36968 0.06431 0.36968 0.59501 0 0.65933 -1.32881 0.23117 -2.38892 1.23754 -2.68885 2.55254l-0.02692 0.11802c-0.08275 0.36281 -0.60034 0.36055 -0.67992 -0.00297l-0.02217 -0.10127c-0.28922 -1.32124 -1.34904 -2.33618 -2.68155 -2.568Z" stroke-width="1"></path>
+  </g>
+</svg>

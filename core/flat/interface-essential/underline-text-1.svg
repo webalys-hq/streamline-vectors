@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="underline-text-1--text-underline-formatting-format"><path id="Vector 2 (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M4 0a.75.75 0 0 1 .75.75V7.5a2.25 2.25 0 0 0 4.5 0V.75a.75.75 0 0 1 1.5 0V7.5a3.75 3.75 0 1 1-7.5 0V.75A.75.75 0 0 1 4 0Z" clip-rule="evenodd"></path><path id="Vector 1640 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M0 13.25a.75.75 0 0 1 .75-.75h12.5a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Underline-Text-1--Streamline-Core">
+  <desc>
+    Underline Text 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="underline-text-1--text-underline-formatting-format">
+    <path id="Vector 2 (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M4 0a0.75 0.75 0 0 1 0.75 0.75V7.5a2.25 2.25 0 0 0 4.5 0V0.75a0.75 0.75 0 0 1 1.5 0V7.5a3.75 3.75 0 1 1 -7.5 0V0.75A0.75 0.75 0 0 1 4 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 1640 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M0 13.25a0.75 0.75 0 0 1 0.75 -0.75h12.5a0.75 0.75 0 0 1 0 1.5H0.75a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

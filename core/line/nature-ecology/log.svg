@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="log--nature-tree-plant-circle-round-log"><path id="Ellipse 936" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 8a2 3.5 0 1 0 4 0 2 3.5 0 1 0-4 0"></path><path id="Ellipse 937" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 4.5h9c1.105 0 2 1.567 2 3.5s-.895 3.5-2 3.5h-9"></path><path id="Vector 2246" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 7h4.801"></path><path id="Vector 2247" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.5H7"></path><path id="Vector 2249" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.5 4.5-2-2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Log--Streamline-Core">
+  <desc>
+    Log Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="log--nature-tree-plant-circle-round-log">
+    <path id="Ellipse 936" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 8a2 3.5 0 1 0 4 0 2 3.5 0 1 0 -4 0" stroke-width="1"></path>
+    <path id="Ellipse 937" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 4.5h9c1.1046 0 2 1.567 2 3.5s-0.8954 3.5 -2 3.5h-9" stroke-width="1"></path>
+    <path id="Vector 2246" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.5 7 4.8012 0" stroke-width="1"></path>
+    <path id="Vector 2247" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.5H7" stroke-width="1"></path>
+    <path id="Vector 2249" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.5 4.5 -2 -2" stroke-width="1"></path>
+  </g>
+</svg>

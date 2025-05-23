@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="new-sticky-note--empty-common-file"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M8.375 14H1.5A1.5 1.5 0 0 1 0 12.5v-11A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v6.875H9A.625.625 0 0 0 8.375 9v5Zm1.25-.625 3.75-3.75h-3.75v3.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="New-Sticky-Note--Streamline-Core">
+  <desc>
+    New Sticky Note Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="new-sticky-note--empty-common-file">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M8.37497 14H1.5C0.671573 14 0 13.3284 0 12.5v-11C0 0.671573 0.671573 0 1.5 0h11c0.8284 0 1.5 0.671573 1.5 1.5v6.87451H8.99997c-0.34518 0 -0.625 0.27982 -0.625 0.625v4.99999l0 0.0005Zm1.25 -0.625 3.75053 -3.75049H9.62497V13.375Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

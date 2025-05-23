@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tall-hat--tall-hat-cloth-clothing-wearable-magician-gentleman-accessories"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M2.127.167A.5.5 0 0 1 2.5 0h9a.5.5 0 0 1 .497.557l-.96 8.317H2.963L2.003.557a.5.5 0 0 1 .124-.39Zm.98 9.957.275 2.376H.774a.75.75 0 0 0 0 1.5h12.452a.75.75 0 0 0 0-1.5h-2.608l.274-2.376H3.107Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tall-Hat--Streamline-Core">
+  <desc>
+    Tall Hat Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tall-hat--tall-hat-cloth-clothing-wearable-magician-gentleman-accessories">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M2.12673 0.167331C2.2216 0.0608804 2.35741 0 2.5 0h9c0.1426 0 0.2784 0.0608804 0.3733 0.167331 0.0948 0.106451 0.1398 0.248343 0.1234 0.389994l-0.9599 8.317125H2.96319L2.0033 0.557325c-0.01635 -0.141651 0.02856 -0.283543 0.12343 -0.389994Zm0.98073 9.957169 0.27419 2.3757H0.773804c-0.414214 0 -0.7500003 0.3358 -0.7500003 0.75s0.3357863 0.75 0.7500003 0.75H13.2262c0.4142 0 0.75 -0.3358 0.75 -0.75s-0.3358 -0.75 -0.75 -0.75h-2.6078l0.2741 -2.3757H3.10746Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="skull-1--crash-death-delete-die-error-garbage-remove-skull-trash"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M11.25 10.235a6 6 0 1 0-8.5 0V13a1 1 0 1 0 2 0v-.916H6V13a1 1 0 1 0 2 0v-.916h1.25V13a1 1 0 1 0 2 0v-2.765Z" clip-rule="evenodd"></path><path id="Ellipse 18" fill="#3e3e3e" d="M10.5 7.334a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0Z"></path><path id="Ellipse 17" fill="#3e3e3e" d="M6 7.334a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Skull-1--Streamline-Core">
+  <desc>
+    Skull 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="skull-1--crash-death-delete-die-error-garbage-remove-skull-trash">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M11.25 10.235a6 6 0 1 0 -8.5 0V13a1 1 0 1 0 2 0v-0.916H6V13a1 1 0 1 0 2 0v-0.916h1.25V13a1 1 0 1 0 2 0v-2.765Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Ellipse 18" fill="#2859c5" d="M10.5 7.334a1.25 1.25 0 1 1 -2.5 0 1.25 1.25 0 0 1 2.5 0Z" stroke-width="1"></path>
+    <path id="Ellipse 17" fill="#2859c5" d="M6 7.334a1.25 1.25 0 1 1 -2.5 0 1.25 1.25 0 0 1 2.5 0Z" stroke-width="1"></path>
+  </g>
+</svg>

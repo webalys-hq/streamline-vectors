@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="one-vesus-one--entertainment-gaming-one-vesus-one"><path id="Vector 778" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.852 12.095.103.307a1.306 1.306 0 0 0 2.537-.557l-.202-1.817a2.4 2.4 0 0 0-2.386-2.136H7.991c-1.223 0-2.25.92-2.386 2.136l-.202 1.816a1.306 1.306 0 0 0 2.538.558l.102-.307c.12-.359.455-.6.833-.6h1.143c.378 0 .714.241.833.6Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.094 5.298a2.297 2.297 0 1 0 0-4.593 2.297 2.297 0 0 0 0 4.593Z"></path><path id="Ellipse 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.337 12.759H.5V11.38a4.134 4.134 0 0 1 4.594-4.11"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="One-Vesus-One--Streamline-Core">
+  <desc>
+    One Vesus One Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="one-vesus-one--entertainment-gaming-one-vesus-one">
+    <path id="Vector 778" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.8521 12.0945 0.1025 0.3074c0.1777 0.5335 0.6769 0.8934 1.2391 0.8934 0.7785 0 1.3841 -0.6769 1.2982 -1.4508l-0.2018 -1.8162c-0.1351 -1.21615 -1.1627 -2.13621 -2.386 -2.13621H7.99121c-1.2233 0 -2.25097 0.92006 -2.38606 2.13621l-0.20174 1.8162c-0.08597 0.7739 0.51968 1.4508 1.29817 1.4508 0.56221 0 1.06134 -0.3599 1.23913 -0.8934l0.10242 -0.3074c0.11947 -0.3585 0.4549 -0.6003 0.83271 -0.6003h1.14356c0.3778 0 0.7133 0.2418 0.8327 0.6003Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.09356 5.2982c1.26849 0 2.2968 -1.02832 2.2968 -2.29681S6.36205 0.70459 5.09356 0.70459c-1.26849 0 -2.29681 1.02831 -2.29681 2.2968 0 1.26849 1.02832 2.29681 2.29681 2.29681Z" stroke-width="1"></path>
+    <path id="Ellipse 3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.33744 12.7589H0.5v-1.3781c0 -2.28325 1.85097 -4.13422 4.13425 -4.13422 0.15527 0 0.30854 0.00856 0.45936 0.02523" stroke-width="1"></path>
+  </g>
+</svg>

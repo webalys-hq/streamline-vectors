@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="chess-bishop"><path id="Union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.761 7.377c.433-.317.692-.807.692-1.505 0-1.97-2.454-3.095-2.454-3.095S4.546 3.902 4.546 5.872c0 .698.259 1.188.691 1.505-.45 1.287-1.104 3.19-1.125 3.46h5.774c-.02-.27-.674-2.173-1.125-3.46Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.861 1.639a1.139 1.139 0 1 0 2.277 0 1.139 1.139 0 0 0-2.277 0Z"></path><path id="Vector 966" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.389 5.47 8.732 4.1"></path><path id="Rectangle 56" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.803 11.444a.888.888 0 0 1 .842-.607h6.71c.382 0 .721.244.842.607l.685 2.056H2.118l.685-2.056Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Chess-Bishop--Streamline-Core">
+  <desc>
+    Chess Bishop Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="chess-bishop">
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.761 7.37704c0.43253 -0.31673 0.69168 -0.80704 0.69168 -1.50535 0 -1.96929 -2.45351 -3.09459 -2.45351 -3.09459S4.54566 3.9024 4.54566 5.87169c0 0.69823 0.25909 1.18851 0.69153 1.50524 -0.45083 1.28739 -1.10461 3.19077 -1.12513 3.45997H9.8861c-0.02052 -0.2692 -0.67427 -2.17248 -1.1251 -3.45986Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.86145 1.63853c0 0.62879 0.50974 1.13852 1.13853 1.13852 0.62879 0 1.13846 -0.50973 1.13846 -1.13852S7.62877 0.5 6.99998 0.5c-0.62879 0 -1.13853 0.50974 -1.13853 1.13853Z" stroke-width="1"></path>
+    <path id="Vector 966" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.38879 5.46991 1.34337 -1.37052" stroke-width="1"></path>
+    <path id="Rectangle 56" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.80315 11.4439c0.12083 -0.3625 0.46004 -0.607 0.84213 -0.607l6.70942 0c0.3821 0 0.7213 0.2445 0.8422 0.607l0.6853 2.056H2.1178l0.68535 -2.056Z" stroke-width="1"></path>
+  </g>
+</svg>

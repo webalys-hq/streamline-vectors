@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="triangle-flag--navigation-map-maps-flag-gps-location-destination-goal"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.89.112a.5.5 0 0 0-.448.894l.224.112v7.8l-.224.112a.5.5 0 1 0 .447.895l8.919-4.46a.5.5 0 0 0 0-.894L2.889.11Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M2.666.044a.75.75 0 0 1 .75.75v12.412a.75.75 0 0 1-1.5 0V.793a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Triangle-Flag--Streamline-Core">
+  <desc>
+    Triangle Flag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="triangle-flag--navigation-map-maps-flag-gps-location-destination-goal">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.89 0.112a0.5 0.5 0 0 0 -0.448 0.894l0.224 0.112v7.8l-0.224 0.112a0.5 0.5 0 1 0 0.447 0.895l8.919 -4.46a0.5 0.5 0 0 0 0 -0.894L2.889 0.11Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M2.666 0.044a0.75 0.75 0 0 1 0.75 0.75l0 12.412a0.75 0.75 0 0 1 -1.5 0l0 -12.412a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

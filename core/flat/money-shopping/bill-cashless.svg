@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bill-cashless--currency-billing-payment-finance-no-cash-bill-money-accounting-cashless"><path id="Union" fill="#37d7ff" d="M1.5 2.225c-.804 0-1.5.626-1.5 1.45v6.65c0 .824.696 1.45 1.5 1.45h11c.804 0 1.5-.626 1.5-1.45v-6.65c0-.824-.696-1.45-1.5-1.45h-11Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M.219 1.28A.75.75 0 0 1 1.279.219l4.563 4.562a2.5 2.5 0 0 1 3.372 3.372l4.567 4.567a.75.75 0 1 1-1.06 1.061L.218 1.28Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bill-Cashless--Streamline-Core">
+  <desc>
+    Bill Cashless Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bill-cashless--currency-billing-payment-finance-no-cash-bill-money-accounting-cashless">
+    <path id="Union" fill="#8fbffa" d="M1.5 2.225c-0.804 0 -1.5 0.626 -1.5 1.45v6.65c0 0.824 0.696 1.45 1.5 1.45h11c0.804 0 1.5 -0.626 1.5 -1.45v-6.65c0 -0.824 -0.696 -1.45 -1.5 -1.45h-11Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M0.219 1.28A0.75 0.75 0 0 1 1.279 0.219l4.563 4.562a2.5 2.5 0 0 1 3.372 3.372l4.567 4.567a0.75 0.75 0 1 1 -1.06 1.061L0.218 1.28Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

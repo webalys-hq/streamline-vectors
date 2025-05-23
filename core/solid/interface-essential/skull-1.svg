@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="skull-1--crash-death-delete-die-error-garbage-remove-skull-trash"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M11.25 10.235a6 6 0 1 0-8.5 0V13a1 1 0 1 0 2 0v-.916H6V13a1 1 0 1 0 2 0v-.916h1.25V13a1 1 0 1 0 2 0v-2.765Zm-6.5-1.651a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Zm5.75-1.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Skull-1--Streamline-Core">
+  <desc>
+    Skull 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="skull-1--crash-death-delete-die-error-garbage-remove-skull-trash">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M11.2501 10.2351C12.3315 9.14996 13 7.65305 13 6c0 -3.31371 -2.6863 -6 -6 -6 -3.31371 0 -6 2.68629 -6 6 0 1.65305 0.66849 3.14996 1.74988 4.2351v2.765c0 0.5523 0.44771 1 1 1 0.55228 0 1 -0.4477 1 -1v-0.9161H6v0.9161c0 0.5523 0.44772 1 1 1s1 -0.4477 1 -1v-0.9161h1.25012v0.9161c0 0.5523 0.44772 1 0.99998 1 0.5523 0 1 -0.4477 1 -1v-2.765ZM4.74988 8.58398c0.69035 0 1.25 -0.55964 1.25 -1.25 0 -0.69035 -0.55965 -1.25 -1.25 -1.25 -0.69036 0 -1.25 0.55965 -1.25 1.25 0 0.69036 0.55964 1.25 1.25 1.25Zm5.75022 -1.25c0 0.69036 -0.55962 1.25 -1.24998 1.25 -0.69035 0 -1.25 -0.55964 -1.25 -1.25 0 -0.69035 0.55965 -1.25 1.25 -1.25 0.69036 0 1.24998 0.55965 1.24998 1.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="toilet-women--travel-wayfinder-toilet-women"><path id="Vector" fill="#37d7ff" d="M7.02 4.652a1.886 1.886 0 1 0 0-3.773 1.886 1.886 0 0 0 0 3.773Z"></path><path id="Ellipse 7" fill="#37d7ff" d="m8.743 10.75-.43 2.14H5.726l-.431-2.14H3.906a.442.442 0 0 1-.428-.412.298.298 0 0 1 .007-.09c.485-2.278.626-5.596 3.534-5.596s3.05 3.318 3.534 5.595a.3.3 0 0 1 .008.09.442.442 0 0 1-.429.412H8.743Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.02 4.652a1.886 1.886 0 1 0 0-3.773 1.886 1.886 0 0 0 0 3.773Z"></path><path id="Ellipse 8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.743 10.75-.43 2.14H5.726l-.431-2.14H3.906a.442.442 0 0 1-.428-.412.298.298 0 0 1 .007-.09c.485-2.278.626-5.596 3.534-5.596s3.05 3.318 3.534 5.595a.3.3 0 0 1 .008.09.442.442 0 0 1-.429.412H8.743Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Toilet-Women--Streamline-Core">
+  <desc>
+    Toilet Women Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="toilet-women--travel-wayfinder-toilet-women">
+    <path id="Vector" fill="#d7e0ff" d="M7.02 4.652a1.886 1.886 0 1 0 0 -3.773 1.886 1.886 0 0 0 0 3.773Z" stroke-width="1"></path>
+    <path id="Ellipse 7" fill="#d7e0ff" d="m8.743 10.75 -0.43 2.14H5.726l-0.431 -2.14H3.906a0.442 0.442 0 0 1 -0.428 -0.412 0.298 0.298 0 0 1 0.007 -0.09c0.485 -2.278 0.626 -5.596 3.534 -5.596s3.05 3.318 3.534 5.595a0.3 0.3 0 0 1 0.008 0.09 0.442 0.442 0 0 1 -0.429 0.412H8.743Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.02 4.652a1.886 1.886 0 1 0 0 -3.773 1.886 1.886 0 0 0 0 3.773Z" stroke-width="1"></path>
+    <path id="Ellipse 8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m8.743 10.75 -0.43 2.14H5.726l-0.431 -2.14H3.906a0.442 0.442 0 0 1 -0.428 -0.412 0.298 0.298 0 0 1 0.007 -0.09c0.485 -2.278 0.626 -5.596 3.534 -5.596s3.05 3.318 3.534 5.595a0.3 0.3 0 0 1 0.008 0.09 0.442 0.442 0 0 1 -0.429 0.412H8.743Z" stroke-width="1"></path>
+  </g>
+</svg>

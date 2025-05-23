@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="notification-application-2--android-phone-mobile-device-smartphone-iphone-alert-box"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M8.648 2.5v.899c0 .448.147.861.396 1.195a2.068 2.068 0 0 0 2.456 3.19V12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4.5a2 2 0 0 1 2-2h6.648Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M11.523.899a.875.875 0 1 0-1.75 0v2.5a.875.875 0 0 0 1.75 0v-2.5Zm-.875 4a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Notification-Application-2--Streamline-Core">
+  <desc>
+    Notification Application 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="notification-application-2--android-phone-mobile-device-smartphone-iphone-alert-box">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M8.648 2.5v0.899c0 0.448 0.147 0.861 0.396 1.195a2.068 2.068 0 0 0 2.456 3.19V12a2 2 0 0 1 -2 2H2a2 2 0 0 1 -2 -2V4.5a2 2 0 0 1 2 -2h6.648Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M11.523 0.899a0.875 0.875 0 1 0 -1.75 0v2.5a0.875 0.875 0 0 0 1.75 0v-2.5Zm-0.875 4a1 1 0 1 0 0 2 1 1 0 0 0 0 -2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

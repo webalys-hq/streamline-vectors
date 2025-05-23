@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="investment-selection"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M.031 5.032a5.031 5.031 0 1 1 9.951 1.06A2.5 2.5 0 0 0 6.22 8.248V9.93A5.031 5.031 0 0 1 .03 5.032Zm9.517 2.282a5.054 5.054 0 0 1-2.08 2.138V8.25a1.25 1.25 0 0 1 2.08-.935Z" clip-rule="evenodd"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.061 1.794c.346 0 .625.28.625.625v.284a1.497 1.497 0 0 1 1.077.96.625.625 0 0 1-1.179.416.246.246 0 0 0-.232-.164h-.675a.153.153 0 0 0-.032.302l1.027.225a1.497 1.497 0 0 1 .014 2.92v.284a.625.625 0 1 1-1.25 0v-.283a1.5 1.5 0 0 1-1.076-.96.625.625 0 0 1 1.179-.417.247.247 0 0 0 .232.164h.581a.247.247 0 0 0 .053-.487l-1.027-.225a1.403 1.403 0 0 1 .058-2.752v-.267c0-.345.28-.625.625-.625Z" clip-rule="evenodd"></path><path id="Vector" fill="#3e3e3e" d="M7.469 13.999v-5.75a1.25 1.25 0 0 1 2.5 0v2.75h2a2 2 0 0 1 2 2v1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Investment-Selection--Streamline-Core">
+  <desc>
+    Investment Selection Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="investment-selection">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M0.031 5.032a5.031 5.031 0 1 1 9.951 1.06A2.5 2.5 0 0 0 6.22 8.248V9.93A5.031 5.031 0 0 1 0.03 5.032Zm9.517 2.282a5.054 5.054 0 0 1 -2.08 2.138V8.25a1.25 1.25 0 0 1 2.08 -0.935Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.061 1.794c0.346 0 0.625 0.28 0.625 0.625v0.284a1.497 1.497 0 0 1 1.077 0.96 0.625 0.625 0 0 1 -1.179 0.416 0.246 0.246 0 0 0 -0.232 -0.164h-0.288l-0.003 0 -0.002 0h-0.382a0.153 0.153 0 0 0 -0.032 0.302l1.027 0.225a1.497 1.497 0 0 1 0.014 2.92v0.284a0.625 0.625 0 1 1 -1.25 0v-0.283a1.5 1.5 0 0 1 -1.076 -0.96 0.625 0.625 0 0 1 1.179 -0.417 0.247 0.247 0 0 0 0.232 0.164h0.286l0.004 0 0.005 0h0.286a0.247 0.247 0 0 0 0.053 -0.487l-1.027 -0.225a1.403 1.403 0 0 1 0.058 -2.752v-0.267c0 -0.345 0.28 -0.625 0.625 -0.625Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M7.469 13.999v-5.75a1.25 1.25 0 0 1 2.5 0v2.75h2a2 2 0 0 1 2 2v1" stroke-width="1"></path>
+  </g>
+</svg>

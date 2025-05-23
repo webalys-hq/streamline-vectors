@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="test-tube--science-experiment-lab-chemistry-test-tube-solution"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.017.749a.75.75 0 0 1 .75-.75h8.466a.75.75 0 1 1 0 1.5H10.5V10.5a3.5 3.5 0 1 1-7 0V1.499h-.733a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M3.5 3.923v-1.25H6a.625.625 0 1 1 0 1.25H3.5Zm0 3.202v-1.25H6a.625.625 0 1 1 0 1.25H3.5Zm0 3.202v-1.25H6a.625.625 0 1 1 0 1.25H3.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Test-Tube--Streamline-Core">
+  <desc>
+    Test Tube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.017 0.749a0.75 0.75 0 0 1 0.75 -0.75h8.466a0.75 0.75 0 1 1 0 1.5H10.5V10.5a3.5 3.5 0 1 1 -7 0V1.499h-0.733a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M3.5 3.923v-1.25H6a0.625 0.625 0 1 1 0 1.25H3.5Zm0 3.202v-1.25H6a0.625 0.625 0 1 1 0 1.25H3.5Zm0 3.202v-1.25H6a0.625 0.625 0 1 1 0 1.25H3.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

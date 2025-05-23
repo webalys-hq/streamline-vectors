@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hotel-laundry--laundry-machine-hotel"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" d="M2.5 0A1.5 1.5 0 0 0 1 1.5V3h12V1.5A1.5 1.5 0 0 0 11.5 0h-9Z"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M7 4.892a3.607 3.607 0 1 0 0 7.215 3.607 3.607 0 0 0 0-7.215Z" clip-rule="evenodd"></path><path id="Union_4" fill="#37d7ff" fill-rule="evenodd" d="M4.995 7.783a.5.5 0 0 0-.493.417 2.547 2.547 0 0 0 5.024.848.5.5 0 0 0-.493-.582h-.497c-.753 0-1.134-.147-1.51-.304l-.06-.025c-.404-.167-.852-.354-1.617-.354h-.354Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Laundry--Streamline-Core">
+  <desc>
+    Hotel Laundry Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hotel-laundry--laundry-machine-hotel">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M2.5 0A1.5 1.5 0 0 0 1 1.5v11A1.5 1.5 0 0 0 2.5 14h9a1.5 1.5 0 0 0 1.5 -1.5v-11A1.5 1.5 0 0 0 11.5 0h-9Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" d="M2.5 0A1.5 1.5 0 0 0 1 1.5V3h12V1.5A1.5 1.5 0 0 0 11.5 0h-9Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M7 4.892a3.607 3.607 0 1 0 0 7.215 3.607 3.607 0 0 0 0 -7.215Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_4" fill="#8fbffa" fill-rule="evenodd" d="M4.995 7.783a0.5 0.5 0 0 0 -0.493 0.417 2.547 2.547 0 0 0 5.024 0.848 0.5 0.5 0 0 0 -0.493 -0.582h-0.497c-0.753 0 -1.134 -0.147 -1.51 -0.304l-0.06 -0.025c-0.404 -0.167 -0.852 -0.354 -1.617 -0.354h-0.354Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

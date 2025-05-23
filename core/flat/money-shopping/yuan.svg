@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="yuan--exchange-payment-forex-finance-yuan-foreign-currency"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M3.8.4a1 1 0 1 0-1.6 1.2l3.917 5.222v.021H3.915a1 1 0 1 0 0 2h2.202v1.245H3.915a1 1 0 1 0 0 2h2.202v.805a1 1 0 1 0 2 0v-.805h2.202a1 1 0 1 0 0-2H8.117V8.843h2.202a1 1 0 1 0 0-2H8.117v-.02L12.033 1.6a1 1 0 1 0-1.6-1.2L7.117 4.822 3.8.4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Yuan--Streamline-Core">
+  <desc>
+    Yuan Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="yuan--exchange-payment-forex-finance-yuan-foreign-currency">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M3.8 0.4a1 1 0 1 0 -1.6 1.2l3.917 5.222v0.021H3.915a1 1 0 1 0 0 2h2.202v1.245H3.915a1 1 0 1 0 0 2h2.202v0.805a1 1 0 1 0 2 0v-0.805h2.202a1 1 0 1 0 0 -2H8.117V8.843h2.202a1 1 0 1 0 0 -2H8.117v-0.02L12.033 1.6a1 1 0 1 0 -1.6 -1.2L7.117 4.822 3.8 0.4Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

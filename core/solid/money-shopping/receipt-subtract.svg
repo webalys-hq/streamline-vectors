@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="receipt-subtract--shop-shopping-pay-payment-store-cash-bill-receipt-subtract-minus-remove"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M2.5 0A2.5 2.5 0 0 0 0 2.5v11a.5.5 0 0 0 .757.429L3 12.583l2.243 1.346a.5.5 0 0 0 .514 0L8 12.583l2.243 1.346A.5.5 0 0 0 11 13.5V6h.005V2.5a.625.625 0 1 1 1.25 0V6H13.5a.5.5 0 0 0 .5-.5V2a2 2 0 0 0-2-2H2.5ZM3 5.75a.75.75 0 0 0 0 1.5h5a.75.75 0 0 0 0-1.5H3Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Receipt-Subtract--Streamline-Core">
+  <desc>
+    Receipt Subtract Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="receipt-subtract--shop-shopping-pay-payment-store-cash-bill-receipt-subtract-minus-remove">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M2.5 0C1.83696 0 1.20107 0.263392 0.732233 0.732233 0.263392 1.20107 0 1.83696 0 2.5v11c0 0.1801 0.0968963 0.3463 0.253651 0.4351 0.156754 0.0888 0.349132 0.0863 0.503597 -0.0064L3 12.5831l2.24275 1.3456c0.15834 0.0951 0.35616 0.0951 0.5145 0L8 12.5831l2.2428 1.3456c0.1544 0.0927 0.3468 0.0952 0.5035 0.0064 0.1568 -0.0888 0.2537 -0.255 0.2537 -0.4351V6h0.0049V2.5c0 -0.34518 0.2798 -0.625 0.625 -0.625s0.625 0.27982 0.625 0.625V6H13.5c0.2761 0 0.5 -0.22386 0.5 -0.5V2c0 -0.53043 -0.2107 -1.039141 -0.5858 -1.414214C13.0391 0.210714 12.5304 0 12 0H2.5ZM3 5.75c-0.41421 0 -0.75 0.33579 -0.75 0.75s0.33579 0.75 0.75 0.75h5c0.41421 0 0.75 -0.33579 0.75 -0.75s-0.33579 -0.75 -0.75 -0.75H3Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

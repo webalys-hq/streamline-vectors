@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="dice-2"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M2.5 0A2.5 2.5 0 0 0 0 2.5v9A2.5 2.5 0 0 0 2.5 14h9a2.5 2.5 0 0 0 2.5-2.5v-9A2.5 2.5 0 0 0 11.5 0h-9Zm2.912 9.788a1.2 1.2 0 1 1-2.4 0 1.2 1.2 0 0 1 2.4 0Zm4.376-4.376a1.2 1.2 0 1 0 0-2.4 1.2 1.2 0 0 0 0 2.4Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Dice-2--Streamline-Core">
+  <desc>
+    Dice 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="dice-2">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M2.5 0C1.11929 0 0 1.11929 0 2.5v9C0 12.8807 1.11929 14 2.5 14h9c1.3807 0 2.5 -1.1193 2.5 -2.5v-9C14 1.11929 12.8807 0 11.5 0h-9Zm2.91196 9.78813c0 0.66277 -0.53726 1.19997 -1.2 1.19997s-1.2 -0.5372 -1.2 -1.19997c0 -0.66274 0.53726 -1.2 1.2 -1.2s1.2 0.53726 1.2 1.2Zm4.37608 -4.37617c0.66276 0 1.19996 -0.53726 1.19996 -1.2s-0.5372 -1.2 -1.19996 -1.2c-0.66274 0 -1.2 0.53726 -1.2 1.2s0.53726 1.2 1.2 1.2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

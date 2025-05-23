@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bookmark--bookmarks-tags-favorite"><path id="Union" fill="#3e3e3e" d="M4 0a1.5 1.5 0 0 0-1.5 1.5v12a.5.5 0 0 0 .854.354L7 10.207l3.646 3.647a.5.5 0 0 0 .854-.354v-12A1.5 1.5 0 0 0 10 0H4Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bookmark--Streamline-Core">
+  <desc>
+    Bookmark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bookmark--bookmarks-tags-favorite">
+    <path id="Union" fill="#000000" d="M4 0c-0.39782 0 -0.77936 0.158035 -1.06066 0.43934C2.65804 0.720644 2.5 1.10218 2.5 1.5v12c0 0.2022 0.12182 0.3845 0.30866 0.4619 0.18684 0.0774 0.40189 0.0347 0.54489 -0.1083L7 10.2071l3.6464 3.6465c0.143 0.143 0.3581 0.1857 0.5449 0.1083 0.1869 -0.0774 0.3087 -0.2597 0.3087 -0.4619v-12c0 -0.39783 -0.158 -0.779356 -0.4393 -1.06066C10.7794 0.158035 10.3978 0 10 0H4Z" stroke-width="1"></path>
+  </g>
+</svg>

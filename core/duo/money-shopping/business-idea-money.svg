@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="business-idea-money"><path id="Vector" fill="#37d7ff" d="M11.5 5.031a4.5 4.5 0 1 0-6.5 4v1.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-1.5a4.48 4.48 0 0 0 2.5-4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5 5.031a4.5 4.5 0 1 0-6.5 4v1.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-1.5a4.48 4.48 0 0 0 2.5-4v0Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 13.5h4"></path><path id="Vector 2494" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.276 3.979a1 1 0 0 0-.943-.667H6.56a.893.893 0 0 0-.19 1.765l1.178.257a1 1 0 0 1-.214 1.978h-.666a1 1 0 0 1-.943-.667"></path><path id="Vector 2495" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3.312v-1"></path><path id="Vector 2496" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.312v-1"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-Idea-Money--Streamline-Core">
+  <desc>
+    Business Idea Money Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="business-idea-money">
+    <path id="Vector" fill="#d7e0ff" d="M11.5 5.031a4.5 4.5 0 1 0 -6.5 4v1.5a0.5 0.5 0 0 0 0.5 0.5h3a0.5 0.5 0 0 0 0.5 -0.5v-1.5a4.48 4.48 0 0 0 2.5 -4Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.5 5.031a4.5 4.5 0 1 0 -6.5 4v1.5a0.5 0.5 0 0 0 0.5 0.5h3a0.5 0.5 0 0 0 0.5 -0.5v-1.5a4.48 4.48 0 0 0 2.5 -4v0Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 13.5h4" stroke-width="1"></path>
+    <path id="Vector 2494" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.276 3.979a1 1 0 0 0 -0.943 -0.667H6.56a0.893 0.893 0 0 0 -0.19 1.765l1.178 0.257a1 1 0 0 1 -0.214 1.978h-0.666a1 1 0 0 1 -0.943 -0.667" stroke-width="1"></path>
+    <path id="Vector 2495" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 3.312v-1" stroke-width="1"></path>
+    <path id="Vector 2496" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 8.312v-1" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="checkup-medical-report-clipboard"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1.5H11a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1h1.5"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5.5h-3a1 1 0 0 0-1 1V2a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-.5a1 1 0 0 0-1-1Z"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.303 5.21a.43.43 0 0 0-.43.43v1.207H4.666a.43.43 0 0 0-.43.43v1.395c0 .237.193.43.43.43h1.207v1.207c0 .237.193.43.43.43h1.395a.43.43 0 0 0 .43-.43V9.1h1.207a.43.43 0 0 0 .43-.43V7.277a.43.43 0 0 0-.43-.429H8.128V5.639a.43.43 0 0 0-.43-.429H6.303Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Checkup-Medical-Report-Clipboard--Streamline-Core">
+  <desc>
+    Checkup Medical Report Clipboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="checkup-medical-report-clipboard">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 1.5H11c0.2652 0 0.5196 0.10536 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v10c0 0.2652 -0.1054 0.5196 -0.2929 0.7071S11.2652 13.5 11 13.5H3c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C2.10536 13.0196 2 12.7652 2 12.5v-10c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C2.48043 1.60536 2.73478 1.5 3 1.5h1.5" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.5 0.5h-3c-0.55228 0 -1 0.447715 -1 1V2c0 0.55228 0.44772 1 1 1h3c0.55228 0 1 -0.44772 1 -1v-0.5c0 -0.552285 -0.44772 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.30274 5.20996c-0.23714 0 -0.42938 0.19224 -0.42938 0.42939v1.20766l-1.20765 0c-0.23714 0 -0.42938 0.19224 -0.42938 0.42938v1.3955c0 0.23714 0.19224 0.42939 0.42938 0.42939h1.20765v1.20762c0 0.2371 0.19224 0.4294 0.42938 0.4294h1.3955c0.23714 0 0.42938 -0.1923 0.42938 -0.4294V9.10128h1.20764c0.23715 0 0.42939 -0.19224 0.42939 -0.42939v-1.3955c0 -0.23714 -0.19224 -0.42938 -0.42939 -0.42938l-1.20764 0V5.63935c0 -0.23715 -0.19224 -0.42939 -0.42938 -0.42939h-1.3955Z" stroke-width="1"></path>
+  </g>
+</svg>

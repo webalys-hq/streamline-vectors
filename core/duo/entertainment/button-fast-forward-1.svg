@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-fast-forward-1--button-controls-fast-forward-movies-television-video-tv"><path id="Vector" fill="#37d7ff" d="M.5 10.28a.7.7 0 0 0 .37.62.71.71 0 0 0 .73 0l5.08-3.3a.7.7 0 0 0 0-1.18L1.6 3.1a.71.71 0 0 0-.73 0 .7.7 0 0 0-.37.62v6.56Z"></path><path id="Vector_2" fill="#37d7ff" d="M6.997 10.28a.7.7 0 0 0 .37.62.71.71 0 0 0 .73 0l5.08-3.3a.7.7 0 0 0 0-1.18L8.097 3.1a.71.71 0 0 0-.73 0 .7.7 0 0 0-.37.6v6.58Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10.28a.7.7 0 0 0 .37.62.71.71 0 0 0 .73 0l5.08-3.3a.7.7 0 0 0 0-1.18L1.6 3.1a.71.71 0 0 0-.73 0 .7.7 0 0 0-.37.62v6.56Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.997 10.28a.7.7 0 0 0 .37.62.71.71 0 0 0 .73 0l5.08-3.3a.7.7 0 0 0 0-1.18L8.097 3.1a.71.71 0 0 0-.73 0 .7.7 0 0 0-.37.6v6.58Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Fast-Forward-1--Streamline-Core">
+  <desc>
+    Button Fast Forward 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-fast-forward-1--button-controls-fast-forward-movies-television-video-tv">
+    <path id="Vector" fill="#d7e0ff" d="M0.5 10.28a0.7 0.7 0 0 0 0.37 0.62 0.71 0.71 0 0 0 0.73 0l5.08 -3.3a0.7 0.7 0 0 0 0 -1.18L1.6 3.1a0.71 0.71 0 0 0 -0.73 0 0.7 0.7 0 0 0 -0.37 0.62v6.56Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#d7e0ff" d="M6.997 10.28a0.7 0.7 0 0 0 0.37 0.62 0.71 0.71 0 0 0 0.73 0l5.08 -3.3a0.7 0.7 0 0 0 0 -1.18L8.097 3.1a0.71 0.71 0 0 0 -0.73 0 0.7 0.7 0 0 0 -0.37 0.6v6.58Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10.28a0.7 0.7 0 0 0 0.37 0.62 0.71 0.71 0 0 0 0.73 0l5.08 -3.3a0.7 0.7 0 0 0 0 -1.18L1.6 3.1a0.71 0.71 0 0 0 -0.73 0 0.7 0.7 0 0 0 -0.37 0.62v6.56Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M6.997 10.28a0.7 0.7 0 0 0 0.37 0.62 0.71 0.71 0 0 0 0.73 0l5.08 -3.3a0.7 0.7 0 0 0 0 -1.18L8.097 3.1a0.71 0.71 0 0 0 -0.73 0 0.7 0.7 0 0 0 -0.37 0.6v6.58Z" stroke-width="1"></path>
+  </g>
+</svg>

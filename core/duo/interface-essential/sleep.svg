@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sleep"><path id="vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.588 4.403h2.651L2.422 8.38h2.983"></path><path id="vector 2053" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.825.94h2.483L7.67 4.664h2.793"></path><path id="vector 2054" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.402 7.712h3.612l-3.838 5.419h4.064"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sleep--Streamline-Core">
+  <desc>
+    Sleep Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sleep">
+    <path id="vector 3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.58759 4.40259h2.65188L2.42185 8.3804h2.98336" stroke-width="1"></path>
+    <path id="vector 2053" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.82522 0.939575H10.308L7.67005 4.66369h2.79305" stroke-width="1"></path>
+    <path id="vector 2054" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.4022 7.7124h3.6122l-3.83796 5.4182h4.06366" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="layout-window-11"><path id="Intersect" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.625.507v12.99"></path><path id="Vector 883" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.625 7H.5"></path><path id="Vector 1945" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 12.5v-11a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Layout-Window-11--Streamline-Core">
+  <desc>
+    Layout Window 11 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="layout-window-11">
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.625 0.506592V13.4962" stroke-width="1"></path>
+    <path id="Vector 883" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.625 6.99999 0.5 7" stroke-width="1"></path>
+    <path id="Vector 1945" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5v-11c0 -0.552285 0.447715 -1 1 -1h11c0.5523 0 1 0.447715 1 1v11c0 0.5523 -0.4477 1 -1 1h-11c-0.552285 0 -1 -0.4477 -1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

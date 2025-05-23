@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="open-book--content-books-book-open"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.375 1.653C5.386 1.099 3.536.42 1.496.179.674.082 0 .76 0 1.588v8c0 .829.677 1.489 1.492 1.637 1.84.334 3.371 1.216 4.348 1.914.164.117.345.205.535.266V1.653Zm1.25 11.752c.19-.06.37-.149.534-.265.977-.698 2.508-1.581 4.349-1.915.815-.148 1.492-.808 1.492-1.637v-8C14 .76 13.326.082 12.504.18c-2.04.242-3.89.92-4.879 1.474v11.752Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Open-Book--Streamline-Core">
+  <desc>
+    Open Book Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="open-book--content-books-book-open">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M6.375 1.653C5.386 1.099 3.536 0.42 1.496 0.179 0.674 0.082 0 0.76 0 1.588v8c0 0.829 0.677 1.489 1.492 1.637 1.84 0.334 3.371 1.216 4.348 1.914 0.164 0.117 0.345 0.205 0.535 0.266V1.653Zm1.25 11.752c0.19 -0.06 0.37 -0.149 0.534 -0.265 0.977 -0.698 2.508 -1.581 4.349 -1.915 0.815 -0.148 1.492 -0.808 1.492 -1.637v-8C14 0.76 13.326 0.082 12.504 0.18c-2.04 0.242 -3.89 0.92 -4.879 1.474v11.752Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="magic-wand-2--design-magic-star-supplies-tool-wand"><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M8.707 5.293a1 1 0 0 1 0 1.414l-7 7a1 1 0 0 1-1.414-1.414l7-7a1 1 0 0 1 1.414 0Z" clip-rule="evenodd"></path><path id="Vector" fill="#3e3e3e" d="m13.19 1.344-.84 2.48a.41.41 0 0 0 0 .37l1.57 2.1a.4.4 0 0 1-.33.64h-2.62a.43.43 0 0 0-.33.17l-1.46 2.1a.4.4 0 0 1-.71-.11l-.78-2.5a.38.38 0 0 0-.26-.26l-2.5-.78a.4.4 0 0 1-.11-.71l2.14-1.51a.43.43 0 0 0 .17-.33V.384a.4.4 0 0 1 .6-.33l2.1 1.57a.41.41 0 0 0 .37.05l2.48-.84a.4.4 0 0 1 .51.51Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Magic-Wand-2--Streamline-Core">
+  <desc>
+    Magic Wand 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="magic-wand-2--design-magic-star-supplies-tool-wand">
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M8.707 5.293a1 1 0 0 1 0 1.414l-7 7a1 1 0 0 1 -1.414 -1.414l7 -7a1 1 0 0 1 1.414 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="m13.19 1.344 -0.84 2.48a0.41 0.41 0 0 0 0 0.37l1.57 2.1a0.4 0.4 0 0 1 -0.33 0.64h-2.62a0.43 0.43 0 0 0 -0.33 0.17l-1.46 2.1a0.4 0.4 0 0 1 -0.71 -0.11l-0.78 -2.5a0.38 0.38 0 0 0 -0.26 -0.26l-2.5 -0.78a0.4 0.4 0 0 1 -0.11 -0.71l2.14 -1.51a0.43 0.43 0 0 0 0.17 -0.33V0.384a0.4 0.4 0 0 1 0.6 -0.33l2.1 1.57a0.41 0.41 0 0 0 0.37 0.05l2.48 -0.84a0.4 0.4 0 0 1 0.51 0.51Z" stroke-width="1"></path>
+  </g>
+</svg>

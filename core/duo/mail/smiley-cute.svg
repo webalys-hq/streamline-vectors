@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="smiley-cute"><path id="Vector" fill="#37d7ff" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector 558" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.367 5.69c.157-.255.5-.418.834-.418.334 0 .678.163.835.417"></path><path id="Vector 559" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.633 5.69c-.157-.255-.5-.418-.834-.418-.334 0-.678.163-.835.417"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.18 8.634a1.41 1.41 0 0 0 2.819 0 1.41 1.41 0 0 0 2.82 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Smiley-Cute--Streamline-Core">
+  <desc>
+    Smiley Cute Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="smiley-cute">
+    <path id="Vector" fill="#d7e0ff" d="M7 13.5a6.5 6.5 0 1 0 0 -13 6.5 6.5 0 0 0 0 13Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0 -13 6.5 6.5 0 0 0 0 13Z" stroke-width="1"></path>
+    <path id="Vector 558" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.367 5.69c0.157 -0.255 0.5 -0.418 0.834 -0.418 0.334 0 0.678 0.163 0.835 0.417" stroke-width="1"></path>
+    <path id="Vector 559" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5.633 5.69c-0.157 -0.255 -0.5 -0.418 -0.834 -0.418 -0.334 0 -0.678 0.163 -0.835 0.417" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.18 8.634a1.41 1.41 0 0 0 2.819 0 1.41 1.41 0 0 0 2.82 0" stroke-width="1"></path>
+  </g>
+</svg>

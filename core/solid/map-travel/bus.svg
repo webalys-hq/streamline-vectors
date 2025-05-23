@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bus--transportation-travel-bus-transit-transport-motorcoach-public"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M2.496 1.746c0-.113.092-.205.205-.205H11.3c.113 0 .205.092.205.205V6H2.496V1.746Zm10.508 9.075c0 .802-.553 1.474-1.299 1.657v.513a1 1 0 0 1-2 0v-.465h-5.41v.465a1 1 0 0 1-2 0v-.513A1.706 1.706 0 0 1 .996 10.82V1.746C.996.804 1.76.041 2.701.041H11.3c.942 0 1.705.763 1.705 1.705v9.075ZM4 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm6 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bus--Streamline-Core">
+  <desc>
+    Bus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bus--transportation-travel-bus-transit-transport-motorcoach-public">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M2.49603 1.74604c0 -0.11337 0.0919 -0.20527 0.20527 -0.20527h8.5974c0.1134 0 0.2053 0.0919 0.2053 0.20527v4.25397H2.49603V1.74604ZM13.004 10.8211c0 0.8018 -0.5534 1.4743 -1.299 1.6565v0.5136c0 0.5522 -0.4477 1 -1 1s-0.99998 -0.4478 -0.99998 -1v-0.4648H4.29498v0.4648c0 0.5522 -0.44771 1 -1 1 -0.55228 0 -1 -0.4478 -1 -1v-0.5136c-0.74562 -0.1822 -1.298947 -0.8547 -1.298947 -1.6565V1.74604c0 -0.941794 0.763477 -1.7052685 1.705267 -1.7052685h8.5974c0.9418 0 1.7053 0.7634745 1.7053 1.7052685v9.07506ZM4 10c0.55228 0 1 -0.44772 1 -1s-0.44772 -1 -1 -1 -1 0.44772 -1 1 0.44772 1 1 1Zm6 0c0.5523 0 1 -0.44772 1 -1s-0.4477 -1 -1 -1c-0.55228 0 -1 0.44772 -1 1s0.44772 1 1 1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

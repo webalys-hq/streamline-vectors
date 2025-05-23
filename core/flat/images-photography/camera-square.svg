@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="camera-square--photos-picture-camera-photography-photo-pictures-frame-square"><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v11a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-11Z" clip-rule="evenodd"></path><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M10.504 5.46c.205.204.32.482.32.772v2.731a1.092 1.092 0 0 1-1.092 1.093H4.268a1.093 1.093 0 0 1-1.092-1.093V6.232a1.093 1.093 0 0 1 1.092-1.093h.547L5.907 3.5h2.186l1.092 1.639h.547c.29 0 .567.115.772.32ZM5.81 7.47a1.191 1.191 0 1 1 2.382 0 1.191 1.191 0 0 1-2.382 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Square--Streamline-Core">
+  <desc>
+    Camera Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-square--photos-picture-camera-photography-photo-pictures-frame-square">
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5v11a1.5 1.5 0 0 1 -1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5v-11Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M10.504 5.46c0.205 0.204 0.32 0.482 0.32 0.772v2.731a1.092 1.092 0 0 1 -1.092 1.093H4.268a1.093 1.093 0 0 1 -1.092 -1.093V6.232a1.093 1.093 0 0 1 1.092 -1.093h0.547L5.907 3.5h2.186l1.092 1.639h0.547c0.29 0 0.567 0.115 0.772 0.32ZM5.81 7.47a1.191 1.191 0 1 1 2.382 0 1.191 1.191 0 0 1 -2.382 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

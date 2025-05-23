@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="clubs-symbol--entertainment-gaming-card-clubs-symbol"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 .25a3.036 3.036 0 0 0-3.036 3.036c0 .56.152 1.186.412 1.771a4.029 4.029 0 0 0-1.09-.164 3.036 3.036 0 0 0 0 6.071c.622 0 1.328-.187 1.967-.504l-.606 2.99a.25.25 0 0 0 .245.3h4.216a.25.25 0 0 0 .245-.3l-.606-2.99c.639.317 1.345.504 1.967.504a3.036 3.036 0 0 0 0-6.071c-.347 0-.72.058-1.09.164.26-.585.412-1.212.412-1.771A3.036 3.036 0 0 0 7 .25Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Clubs-Symbol--Streamline-Core">
+  <desc>
+    Clubs Symbol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="clubs-symbol--entertainment-gaming-card-clubs-symbol">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.25a3.036 3.036 0 0 0 -3.036 3.036c0 0.56 0.152 1.186 0.412 1.771a4.029 4.029 0 0 0 -1.09 -0.164 3.036 3.036 0 0 0 0 6.071c0.622 0 1.328 -0.187 1.967 -0.504l-0.606 2.99a0.25 0.25 0 0 0 0.245 0.3h4.216a0.25 0.25 0 0 0 0.245 -0.3l-0.606 -2.99c0.639 0.317 1.345 0.504 1.967 0.504a3.036 3.036 0 0 0 0 -6.071c-0.347 0 -0.72 0.058 -1.09 0.164 0.26 -0.585 0.412 -1.212 0.412 -1.771A3.036 3.036 0 0 0 7 0.25Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

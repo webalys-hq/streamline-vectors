@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="tag--tags-bookmark-favorite"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M8.77.003a.86.86 0 0 0-.688.258L.365 7.978a1.25 1.25 0 0 0 0 1.767l3.89 3.89a1.25 1.25 0 0 0 1.768 0l7.716-7.717a.86.86 0 0 0 .254-.723l-.587-3.81a.87.87 0 0 0-.79-.791L8.806.007A.5.5 0 0 0 8.77.003ZM10 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Tag--Streamline-Core">
+  <desc>
+    Tag Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="tag--tags-bookmark-favorite">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M8.77 0.003a0.86 0.86 0 0 0 -0.688 0.258L0.365 7.978a1.25 1.25 0 0 0 0 1.767l3.89 3.89a1.25 1.25 0 0 0 1.768 0l7.716 -7.717a0.86 0.86 0 0 0 0.254 -0.723l-0.587 -3.81a0.87 0.87 0 0 0 -0.79 -0.791L8.806 0.007A0.5 0.5 0 0 0 8.77 0.003ZM10 5a1 1 0 1 1 0 -2 1 1 0 0 1 0 2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

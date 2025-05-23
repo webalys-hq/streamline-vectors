@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="class-lesson--class-lesson-education-teacher"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M12.402 8.976H7.259a2.278 2.278 0 0 0-.193-4.547h-1.68A3.095 3.095 0 0 0 4.609 0h7.793a1.35 1.35 0 0 1 1.348 1.35v6.279c0 .744-.604 1.348-1.348 1.348ZM2.898 4.431a1.848 1.848 0 1 0 0-3.695 1.848 1.848 0 0 0 0 3.695Zm5.195 2.276c0-.568-.46-1.028-1.027-1.028H2.899a2.649 2.649 0 0 0-2.65 2.65v1.205c0 .532.432.963.964.963h.172l.282 2.61A1 1 0 0 0 2.66 14h.502a1 1 0 0 0 .99-.862l.753-5.404h2.16c.567 0 1.027-.46 1.027-1.027Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Class-Lesson--Streamline-Core">
+  <desc>
+    Class Lesson Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="class-lesson--class-lesson-education-teacher">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M12.402 8.976H7.259a2.278 2.278 0 0 0 -0.193 -4.547h-1.68A3.095 3.095 0 0 0 4.609 0h7.793a1.35 1.35 0 0 1 1.348 1.35v6.279c0 0.744 -0.604 1.348 -1.348 1.348ZM2.898 4.431a1.848 1.848 0 1 0 0 -3.695 1.848 1.848 0 0 0 0 3.695Zm5.195 2.276c0 -0.568 -0.46 -1.028 -1.027 -1.028H2.899a2.649 2.649 0 0 0 -2.65 2.65v1.205c0 0.532 0.432 0.963 0.964 0.963h0.172l0.282 2.61A1 1 0 0 0 2.66 14h0.502a1 1 0 0 0 0.99 -0.862l0.753 -5.404h2.16c0.567 0 1.027 -0.46 1.027 -1.027Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

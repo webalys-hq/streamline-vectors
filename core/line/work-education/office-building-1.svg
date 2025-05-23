@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="office-building-1--office-building-work"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.461 4.75V1.594c0-.56-.454-1.015-1.015-1.015h-4.79c-.562 0-1.016.454-1.016 1.015v11.827"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.519 13.421h4.968"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.64 3.187H4.1"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.64 5.75h3.847"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.48 10.032a1.75 1.75 0 1 0 0-3.5 1.75 1.75 0 0 0 0 3.5Z"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.479 13.421a3.037 3.037 0 0 1 .39-1.46 3.03 3.03 0 0 1 2.611-1.537 3.031 3.031 0 0 1 2.612 1.538c.25.445.385.947.39 1.459"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Office-Building-1--Streamline-Core">
+  <desc>
+    Office Building 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="office-building-1--office-building-work">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.46128 4.74988V1.59419c0 -0.56088 -0.45467 -1.015577 -1.01557 -1.015577H2.65523c-0.56089 0 -1.01558 0.454697 -1.01558 1.015577V13.421" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.518555 13.4214H5.4873" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.63965 3.18701 2.46012 0" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.63965 5.74951 3.84765 0" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4804 10.032c0.9667 0 1.7503 -0.78369 1.7503 -1.75039 0 -0.9667 -0.7836 -1.75036 -1.7503 -1.75036 -0.96673 0 -1.75039 0.78366 -1.75039 1.75036 0 0.9667 0.78366 1.75039 1.75039 1.75039Z" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.47864 13.421c0.00531 -0.5118 0.1394 -1.0139 0.38974 -1.4594 0.52756 -0.9388 1.54077 -1.5349 2.61202 -1.5373 1.0712 0.0024 2.0844 0.5985 2.612 1.5373 0.2503 0.4455 0.3844 0.9476 0.3897 1.4594" stroke-width="1"></path>
+  </g>
+</svg>

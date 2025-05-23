@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="gender-equality"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M8.335.764a.75.75 0 0 1 .75-.75h2.672a.75.75 0 0 1 .75.75v2.673a.75.75 0 1 1-1.5 0v-.863l-1.39 1.39a3.856 3.856 0 0 1-2.454 5.927v.813h1.031a.75.75 0 0 1 0 1.5H7.163v1.031a.75.75 0 1 1-1.5 0v-1.031H4.63a.75.75 0 1 1 0-1.5h1.032V9.89a3.856 3.856 0 1 1 2.892-6.987l1.39-1.39h-.86a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.073 4.337a.625.625 0 1 0 0 1.25h2.68a.625.625 0 1 0 0-1.25h-2.68Zm0 2.294a.625.625 0 1 0 0 1.25h2.68a.625.625 0 0 0 0-1.25h-2.68Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gender-Equality--Streamline-Core">
+  <desc>
+    Gender Equality Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gender-equality">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M8.335 0.764a0.75 0.75 0 0 1 0.75 -0.75h2.672a0.75 0.75 0 0 1 0.75 0.75v2.673a0.75 0.75 0 1 1 -1.5 0v-0.863l-1.39 1.39a3.856 3.856 0 0 1 -2.454 5.927v0.813h1.031a0.75 0.75 0 0 1 0 1.5H7.163v1.031a0.75 0.75 0 1 1 -1.5 0v-1.031H4.63a0.75 0.75 0 1 1 0 -1.5h1.032V9.89a3.856 3.856 0 1 1 2.892 -6.987l1.39 -1.39h-0.86a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.073 4.337a0.625 0.625 0 1 0 0 1.25h2.68a0.625 0.625 0 1 0 0 -1.25h-2.68Zm0 2.294a0.625 0.625 0 1 0 0 1.25h2.68a0.625 0.625 0 0 0 0 -1.25h-2.68Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

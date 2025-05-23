@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="business-card--name-card-business-information-money-payment"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h11a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 12.5 2h-11Zm2.774 2.875a2.125 2.125 0 1 0 0 4.25 2.125 2.125 0 0 0 0-4.25Zm3.827.625c0-.345.28-.625.625-.625h2.5a.625.625 0 1 1 0 1.25h-2.5A.625.625 0 0 1 8.1 5.5Zm.625 2.375a.625.625 0 1 0 0 1.25h2.5a.625.625 0 1 0 0-1.25h-2.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Business-Card--Streamline-Core">
+  <desc>
+    Business Card Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="business-card--name-card-business-information-money-payment">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M1.5 2C0.671573 2 0 2.67157 0 3.5v7c0 0.8284 0.671573 1.5 1.5 1.5h11c0.8284 0 1.5 -0.6716 1.5 -1.5v-7c0 -0.82843 -0.6716 -1.5 -1.5 -1.5h-11Zm2.77432 2.875c-1.1736 0 -2.125 0.95139 -2.125 2.125 0 1.1736 0.9514 2.125 2.125 2.125 1.17361 0 2.125 -0.9514 2.125 -2.125 0 -1.17361 -0.95139 -2.125 -2.125 -2.125Zm3.82636 0.625c0 -0.34518 0.27982 -0.625 0.625 -0.625h2.50002c0.3452 0 0.625 0.27982 0.625 0.625s-0.2798 0.625 -0.625 0.625H8.72568c-0.34518 0 -0.625 -0.27982 -0.625 -0.625Zm0.625 2.375c-0.34518 0 -0.625 0.27982 -0.625 0.625s0.27982 0.625 0.625 0.625h2.50002c0.3452 0 0.625 -0.27982 0.625 -0.625s-0.2798 -0.625 -0.625 -0.625H8.72568Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

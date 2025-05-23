@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="electric-cord-1--electricity-electronic-appliances-device-cord-cable-plug-connection"><path id="Vector 2440" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.94 10.952H5.06a3 3 0 0 1-3-3V5.036a1 1 0 0 1 1-1h7.88a1 1 0 0 1 1 1v2.916a3 3 0 0 1-3 3Z"></path><path id="Vector 2441" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.53 4.036V.578"></path><path id="Vector 2442" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.47 4.036V.578"></path><path id="Vector 2443" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 10.952v2.47"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Electric-Cord-1--Streamline-Core">
+  <desc>
+    Electric Cord 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="electric-cord-1--electricity-electronic-appliances-device-cord-cable-plug-connection">
+    <path id="Vector 2440" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.93993 10.952H5.06012c-1.65685 0 -3 -1.34315 -3 -3V5.03613c0 -0.55228 0.44771 -1 1 -1h7.87978c0.5523 0 1 0.44772 1 1V7.952c0 1.65685 -1.3431 3 -2.99997 3Z" stroke-width="1"></path>
+    <path id="Vector 2441" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.53003 4.03606V0.578125" stroke-width="1"></path>
+    <path id="Vector 2442" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.46997 4.03606V0.578125" stroke-width="1"></path>
+    <path id="Vector 2443" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 10.9519v2.47" stroke-width="1"></path>
+  </g>
+</svg>

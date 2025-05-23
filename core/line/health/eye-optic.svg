@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="eye-optic--health-medical-eye-optic"><path id="Vector 2095" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 3.625c-4.187 0-5.945 3.766-5.945 3.844 0 .078 1.758 3.843 5.945 3.843s5.945-3.765 5.945-3.843c0-.078-1.758-3.844-5.945-3.844Z"></path><path id="Vector 2096" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.169 5.813.61 4.252"></path><path id="Vector 2097" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.135 3.898 4.5 1.843"></path><path id="Vector 2099" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11.831 5.813 1.559-1.56"></path><path id="Vector 2100" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.865 3.898 9.5 1.843"></path><path id="Ellipse 902" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" transform="rotate(12.898 7 7.469)" d="M5.262 7.469a1.738 1.738 0 1 0 3.476 0 1.738 1.738 0 1 0-3.476 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Eye-Optic--Streamline-Core">
+  <desc>
+    Eye Optic Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="eye-optic--health-medical-eye-optic">
+    <path id="Vector 2095" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 3.625c-4.18729 0-5.94531 3.76562-5.94531 3.84375 0 .07813 1.75802 3.84375 5.94531 3.84375 4.1873 0 5.9453-3.76562 5.9453-3.84375 0-.07813-1.758-3.84375-5.9453-3.84375Z"></path>
+    <path id="Vector 2096" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.16895 5.8125.610352 4.25391"></path>
+    <path id="Vector 2097" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.13483 3.89834-.63532-2.05532"></path>
+    <path id="Vector 2099" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.8311 5.8125 1.5585-1.55859"></path>
+    <path id="Vector 2100" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.86517 3.89834.63532-2.05532"></path>
+    <path id="Ellipse 902" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" transform="rotate(12.898 7 7.469)" d="M5.262 7.469a1.738 1.738 0 1 0 3.476 0 1.738 1.738 0 1 0-3.476 0"></path>
+  </g>
+</svg>

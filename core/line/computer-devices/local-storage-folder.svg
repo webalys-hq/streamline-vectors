@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="local-storage-folder"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.82 1.953H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5V7.234"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6 10.953-1 2.5"></path><path id="vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8 10.953 1 2.5"></path><path id="vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 13.453h6"></path><path id="vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.43 5.112c0 .24-.195.435-.435.435h-4.77a.435.435 0 0 1-.434-.435V.982a.435.435 0 0 1 .435-.435H9.83a.435.435 0 0 1 .435.33l.122.54h2.608a.435.435 0 0 1 .435.434v3.261Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Local-Storage-Folder--Streamline-Core">
+  <desc>
+    Local Storage Folder Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="local-storage-folder">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.8209 1.95312H1c-0.276142 0 -0.5 0.22386 -0.5 0.5v7.99998c0 0.2762 0.223858 0.5 0.5 0.5h12c0.2761 0 0.5 -0.2238 0.5 -0.5V7.23438" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6 10.9531 -1 2.5" stroke-width="1"></path>
+    <path id="vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8 10.9531 1 2.5" stroke-width="1"></path>
+    <path id="vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 13.4531h6" stroke-width="1"></path>
+    <path id="vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.4299 5.11211c0 0.24011 -0.1946 0.43476 -0.4347 0.43476H8.22578c-0.11531 0 -0.22589 -0.0458 -0.30742 -0.12734 -0.08154 -0.08153 -0.12734 -0.19211 -0.12734 -0.30742V0.981826c0 -0.115307 0.0458 -0.225892 0.12734 -0.307426 0.08153 -0.081535 0.19211 -0.12734 0.30742 -0.12734h1.60429c0.09932 -0.002894 0.19663 0.028317 0.27573 0.088437 0.0791 0.06012 0.1352 0.145521 0.159 0.241985l0.1218 0.539108h2.6086c0.1153 0 0.2259 0.04581 0.3074 0.12734 0.0815 0.08154 0.1273 0.19212 0.1273 0.30743v3.26075Z" stroke-width="1"></path>
+  </g>
+</svg>

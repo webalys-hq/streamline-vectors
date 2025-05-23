@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="stream--stream-entertainment-gaming"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M13.75 3.832A3.326 3.326 0 0 1 11.043 7.1l-2.6 2.732a2.833 2.833 0 1 1-2.775-2.004L7.183 4.57a3.325 3.325 0 1 1 6.568-.739Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M10.54 5.037a1.32 1.32 0 1 0-.151-2.635 1.32 1.32 0 0 0 .151 2.635ZM0 7.422l.01 2.274 5.176 1.722a.6.6 0 0 0 .463-1.104L0 7.422Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Stream--Streamline-Core">
+  <desc>
+    Stream Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="stream--stream-entertainment-gaming">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M13.75 3.83179c0 1.62535 -1.1662 2.97832 -2.7075 3.26775L8.44387 9.8323c0.07992 0.2619 0.12291 0.5399 0.12291 0.828 0 1.5645 -1.26833 2.8329 -2.83289 2.8329S2.901 12.2248 2.901 10.6603c0 -1.54283 1.23331 -2.79759 2.76782 -2.83218l1.51366 -3.25763c-0.0539 -0.23758 -0.08235 -0.48481 -0.08235 -0.7387 0 -1.83632 1.48863 -3.324954 3.32497 -3.324954 1.8363 0 3.3249 1.488634 3.3249 3.324954Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M10.5403 5.03656c0.7275 -0.04187 1.2833 -0.66556 1.2414 -1.39303 -0.0419 -0.72748 -0.6656 -1.28328 -1.393 -1.24141 -0.72752 0.04187 -1.28332 0.66555 -1.24145 1.39303 0.04187 0.72748 0.66556 1.28328 1.39305 1.24141ZM0.0000280796 7.42178 0.0107706 9.69643 5.18581 11.4182c0.30368 0.101 0.63322 -0.0539 0.74915 -0.3522 0.11148 -0.2869 -0.01203 -0.6116 -0.28599 -0.7519L0.0000280796 7.42178Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

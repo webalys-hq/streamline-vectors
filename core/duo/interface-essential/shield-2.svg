@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="shield-2--shield-protection-security-defend-crime-war-cover"><path id="Vector" fill="#37d7ff" d="m7.92 13.21-.59.23a.94.94 0 0 1-.66 0l-.59-.23A8 8 0 0 1 1 5.78V3A6.36 6.36 0 0 0 7 .5c1.25 1.82 3.32 2.68 6 2.5v2.78a8 8 0 0 1-5.08 7.43Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m7.92 13.21-.59.23a.94.94 0 0 1-.66 0l-.59-.23A8 8 0 0 1 1 5.78V3A6.36 6.36 0 0 0 7 .5c1.25 1.82 3.32 2.68 6 2.5v2.78a8 8 0 0 1-5.08 7.43v0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Shield-2--Streamline-Core">
+  <desc>
+    Shield 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="shield-2--shield-protection-security-defend-crime-war-cover">
+    <path id="Vector" fill="#d7e0ff" d="m7.92 13.21 -0.59 0.23c-0.21277 0.0798 -0.44723 0.0798 -0.66 0l-0.59 -0.23c-1.49442 -0.5859 -2.77804 -1.6078 -3.684 -2.9328C1.49003 8.95211 1.00363 7.38516 1 5.78V3c1.13249 0.1614 2.28755 0.01437 3.3435 -0.42561C5.39944 2.13442 6.31717 1.41779 7 0.5c1.25 1.82 3.32 2.68 6 2.5v2.78c-0.0036 1.60516 -0.49 3.17211 -1.396 4.4972 -0.906 1.325 -2.18958 2.3469 -3.684 2.9328Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.92 13.21 -0.59 0.23c-0.21277 0.0798 -0.44723 0.0798 -0.66 0l-0.59 -0.23c-1.49442 -0.5859 -2.77804 -1.6078 -3.684 -2.9328C1.49003 8.95211 1.00363 7.38516 1 5.78V3c1.13249 0.1614 2.28755 0.01437 3.3435 -0.42561C5.39944 2.13442 6.31717 1.41779 7 0.5c1.25 1.82 3.32 2.68 6 2.5v2.78c-0.0036 1.60516 -0.49 3.17211 -1.396 4.4972 -0.906 1.325 -2.18958 2.3469 -3.684 2.9328v0Z" stroke-width="1"></path>
+  </g>
+</svg>

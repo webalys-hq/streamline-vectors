@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="warehouse-1--delivery-warehouse-shipping-fulfillment"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.94a.999.999 0 0 0-.32-.74L7 .5.82 6.2a1 1 0 0 0-.32.74v5.56a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V6.94Z"></path><path id="Rectangle 756" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.25 10.001h2.999s.25 0 .25.25v2.999s0 .25-.25.25H7.25s-.25 0-.25-.25v-2.999s0-.25.25-.25"></path><path id="Rectangle 758" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 6.501h2.999s.25 0 .25.25V9.75s0 .25-.25.25H5.5s-.25 0-.25-.25V6.751s0-.25.25-.25"></path><path id="Rectangle 757" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.751 10.001H6.75s.25 0 .25.25v2.999s0 .25-.25.25H3.751s-.25 0-.25-.25v-2.999s0-.25.25-.25"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Warehouse-1--Streamline-Core">
+  <desc>
+    Warehouse 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="warehouse-1--delivery-warehouse-shipping-fulfillment">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.94c0.001 -0.1388 -0.027 -0.27628 -0.0821 -0.40368 -0.0551 -0.1274 -0.1361 -0.24194 -0.2379 -0.33632L7.00002 0.5 0.820023 6.2c-0.101775 0.09438 -0.182787 0.20892 -0.23788 0.33632S0.499084 6.8012 0.500023 6.94v5.56c0 0.2652 0.105357 0.5196 0.292893 0.7071s0.441894 0.2929 0.707104 0.2929H12.5c0.2652 0 0.5196 -0.1054 0.7071 -0.2929 0.1876 -0.1875 0.2929 -0.4419 0.2929 -0.7071V6.94Z" stroke-width="1"></path>
+    <path id="Rectangle 756" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.25 10.001h2.999s0.25 0 0.25 0.25v2.999s0 0.25 -0.25 0.25H7.25s-0.25 0 -0.25 -0.25v-2.999s0 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Rectangle 758" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 6.501h2.999s0.25 0 0.25 0.25V9.75s0 0.25 -0.25 0.25H5.5s-0.25 0 -0.25 -0.25V6.751s0 -0.25 0.25 -0.25" stroke-width="1"></path>
+    <path id="Rectangle 757" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.751 10.001H6.75s0.25 0 0.25 0.25v2.999s0 0.25 -0.25 0.25H3.751s-0.25 0 -0.25 -0.25v-2.999s0 -0.25 0.25 -0.25" stroke-width="1"></path>
+  </g>
+</svg>

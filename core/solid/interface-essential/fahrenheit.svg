@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="fahrenheit--degrees-temperature-fahrenheit-degree-weather"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M2.25 1.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM0 2.25a2.25 2.25 0 1 1 4.5 0 2.25 2.25 0 0 1-4.5 0ZM6 1a1 1 0 0 1 1-1h6a1 1 0 1 1 0 2H8v3.5h4a1 1 0 1 1 0 2H8V13a1 1 0 1 1-2 0V1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Fahrenheit--Streamline-Core">
+  <desc>
+    Fahrenheit Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="fahrenheit--degrees-temperature-fahrenheit-degree-weather">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M2.24997 1.5c-0.41421 0 -0.75 0.33579 -0.75 0.75s0.33579 0.75 0.75 0.75 0.75 -0.33579 0.75 -0.75 -0.33579 -0.75 -0.75 -0.75Zm-2.2500005176 0.75C-0.0000305176 1.00736 1.00733 0 2.24997 0c1.24264 0 2.25 1.00736 2.25 2.25s-1.00736 2.25 -2.25 2.25S-0.0000305176 3.49264 -0.0000305176 2.25ZM6 1c0 -0.552285 0.44772 -1 1 -1h6c0.5523 0 1 0.447715 1 1 0 0.55228 -0.4477 1 -1 1H8v3.5h4c0.5523 0 1 0.44772 1 1s-0.4477 1 -1 1H8V13c0 0.5523 -0.44772 1 -1 1s-1 -0.4477 -1 -1V1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cyborg-2--artificial-robotics-intelligence-machine-technology-android"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.25 3.187a1.66 1.66 0 0 0 1.5 0v1.782h-1.5V3.187Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M7 .031a1.667 1.667 0 1 0 0 3.334A1.667 1.667 0 0 0 7 .03Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M3.5 4.969a2.5 2.5 0 0 0-2.5 2.5v4a2.5 2.5 0 0 0 2.5 2.5h7a2.5 2.5 0 0 0 2.5-2.5v-4a2.5 2.5 0 0 0-2.5-2.5h-7Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M5.042 9.198a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm4.137 1.253a.625.625 0 0 1 .026.884c-.552.586-1.432.815-2.205.815-.773 0-1.653-.23-2.205-.815a.625.625 0 1 1 .91-.858c.225.24.707.423 1.295.423s1.07-.183 1.295-.423a.625.625 0 0 1 .884-.026Zm.53-2.003a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cyborg-2--Streamline-Core">
+  <desc>
+    Cyborg 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cyborg-2--artificial-robotics-intelligence-machine-technology-android">
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M6.25 3.187a1.66 1.66 0 0 0 1.5 0v1.782h-1.5V3.187Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M7 0.031a1.667 1.667 0 1 0 0 3.334A1.667 1.667 0 0 0 7 0.03Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M3.5 4.969a2.5 2.5 0 0 0 -2.5 2.5v4a2.5 2.5 0 0 0 2.5 2.5h7a2.5 2.5 0 0 0 2.5 -2.5v-4a2.5 2.5 0 0 0 -2.5 -2.5h-7Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M5.042 9.198a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Zm4.137 1.253a0.625 0.625 0 0 1 0.026 0.884c-0.552 0.586 -1.432 0.815 -2.205 0.815 -0.773 0 -1.653 -0.23 -2.205 -0.815a0.625 0.625 0 1 1 0.91 -0.858c0.225 0.24 0.707 0.423 1.295 0.423s1.07 -0.183 1.295 -0.423a0.625 0.625 0 0 1 0.884 -0.026Zm0.53 -2.003a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

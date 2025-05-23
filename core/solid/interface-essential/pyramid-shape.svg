@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="pyramid-shape"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M6.36.525a1.006 1.006 0 0 0-.207.226L.353 9.43a1 1 0 0 0 .42 1.466l5.586 2.528V.524Zm1.25 12.9 5.585-2.526a1 1 0 0 0 .42-1.466L7.816.75A1.006 1.006 0 0 0 7.61.524v12.901Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Pyramid-Shape--Streamline-Core">
+  <desc>
+    Pyramid Shape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="pyramid-shape">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M6.35938 0.524812c-0.07721 0.062075 -0.14698 0.137378 -0.20614 0.225909L0.353423 9.42964c-0.3431196 0.51344 -0.143449 1.21206 0.419169 1.46666l5.586788 2.5281 0 -12.899588Zm1.25 12.900188 5.58572 -2.5255c0.5627 -0.2544 0.7626 -0.95302 0.4196 -1.46657L7.81627 0.750951C7.75692 0.662088 7.68689 0.586545 7.60938 0.524323l0 12.900677Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

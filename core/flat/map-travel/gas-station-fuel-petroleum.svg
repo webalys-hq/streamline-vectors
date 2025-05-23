@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="gas-station-fuel-petroleum"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M13.723.859a.625.625 0 0 1 0 .883l-.793.793v2.17a.625.625 0 0 1-.473.606l-1.479.37v.987a.35.35 0 0 0 .351.351 2.577 2.577 0 0 1 0 5.154H8.401a.625.625 0 1 1 0-1.25h2.928a1.327 1.327 0 0 0 0-2.654 1.601 1.601 0 0 1-1.6-1.6V4.227c0-.165.065-.324.182-.442L12.84.86a.625.625 0 0 1 .884 0Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" d="M2.594 1.288a2.5 2.5 0 0 0-2.5 2.5V12.5a1.5 1.5 0 0 0 1.5 1.5H7.4a1.5 1.5 0 0 0 1.5-1.5V3.788a2.5 2.5 0 0 0-2.5-2.5H2.594Z"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M1.094 4.88v2.264H7.9V4.881H1.094Zm5.493 5.204a.625.625 0 1 0-1.25 0v.976a.625.625 0 1 0 1.25 0v-.976Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gas-Station-Fuel-Petroleum--Streamline-Core">
+  <desc>
+    Gas Station Fuel Petroleum Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gas-station-fuel-petroleum">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M13.723 0.859a0.625 0.625 0 0 1 0 0.883l-0.793 0.793v2.17a0.625 0.625 0 0 1 -0.473 0.606l-1.479 0.37v0.987a0.35 0.35 0 0 0 0.351 0.351 2.577 2.577 0 0 1 0 5.154H8.401a0.625 0.625 0 1 1 0 -1.25h2.928a1.327 1.327 0 0 0 0 -2.654 1.601 1.601 0 0 1 -1.6 -1.6v-1.47l0 -0.015v-0.956c0 -0.165 0.065 -0.324 0.182 -0.442L12.84 0.86a0.625 0.625 0 0 1 0.884 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" d="M2.594 1.288a2.5 2.5 0 0 0 -2.5 2.5V12.5a1.5 1.5 0 0 0 1.5 1.5H7.4a1.5 1.5 0 0 0 1.5 -1.5V3.788a2.5 2.5 0 0 0 -2.5 -2.5H2.594Z" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M1.094 4.88v2.264H7.9V4.881H1.094Zm5.493 5.204a0.625 0.625 0 1 0 -1.25 0v0.976a0.625 0.625 0 1 0 1.25 0v-0.976Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

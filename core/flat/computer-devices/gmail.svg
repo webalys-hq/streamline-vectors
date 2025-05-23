@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="gmail"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M1.008 12.054h2.765V7.686l3.27 2.117 3.27-2.117v4.368h2.765a.92.92 0 0 0 .922-.918V3.754c0-1.453-1.614-2.33-2.84-1.545l-.847.543-3.27 2.1-3.27-2.1-.847-.543C1.7 1.423.086 2.301.086 3.754v7.382a.92.92 0 0 0 .922.918Z" clip-rule="evenodd"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="M3.773 7.686.086 5.3V3.754c0-1.453 1.614-2.33 2.84-1.545l.847.544v4.933ZM14 5.3V3.754c0-1.453-1.614-2.33-2.84-1.545l-.847.544v4.933L14 5.3Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Gmail--Streamline-Core">
+  <desc>
+    Gmail Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="gmail">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M1.00772 12.0542h2.76535V7.68637l3.26988 2.11682 3.26995 -2.11683v4.36784h2.7653c0.5091 0 0.9218 -0.4112 0.9218 -0.9185V3.75445c0 -1.45329 -1.6136 -2.33103 -2.8405 -1.54516l-0.8466 0.54231v0.00119L7.04295 4.85187 3.77307 2.75279V2.7516l-0.84665 -0.54231C1.69951 1.42342 0.0859375 2.30116 0.0859375 3.75445v7.38125c0 0.5073 0.4126965 0.9185 0.9217825 0.9185Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="M3.77307 7.68637 0.0859375 5.29944V3.75445c0 -1.45329 1.6135725 -2.33103 2.8404825 -1.54516l0.84665 0.5435v4.93358ZM14 5.29944V3.75445c0 -1.45329 -1.6136 -2.33103 -2.8405 -1.54516l-0.8466 0.5435v4.93357L14 5.29944Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

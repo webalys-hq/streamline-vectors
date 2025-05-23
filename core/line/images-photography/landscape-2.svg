@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="landscape-2--photos-photo-landscape-picture-photography-camera-pictures-image"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 13.5h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m1.75 13.5 7.3-6.88a.5.5 0 0 1 .64 0l3.81 2.73"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Landscape-2--Streamline-Core">
+  <desc>
+    Landscape 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="landscape-2--photos-photo-landscape-picture-photography-camera-pictures-image">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.5 13.5 11 0c0.5523 0 1 -0.4477 1 -1l0 -11c0 -0.552285 -0.4477 -1 -1 -1l-11 0c-0.552285 0 -1 0.447715 -1 1l0 11c0 0.5523 0.447715 1 1 1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.75 13.5 7.3 -6.88004c0.08984 -0.07483 0.20307 -0.11581 0.32 -0.11581 0.11692 0 0.23015 0.04098 0.31999 0.11581l3.81001 2.73" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 6C5.32843 6 6 5.32843 6 4.5S5.32843 3 4.5 3 3 3.67157 3 4.5 3.67157 6 4.5 6Z" stroke-width="1"></path>
+  </g>
+</svg>

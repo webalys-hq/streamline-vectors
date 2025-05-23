@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="volume-mute--speaker-remove-volume-control-audio-music-mute-off-cross-entertainment"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9 3.005A1.454 1.454 0 0 0 6.716 1.78l-.003.002L2.842 4.5H1.5C.68 4.5 0 5.18 0 6v2c0 .82.68 1.5 1.5 1.5h1.339l3.78 2.716.007.005c.97.672 2.348-.024 2.374-1.21V3.005Zm4.78 2.09a.75.75 0 0 1 0 1.06L12.936 7l.844.845a.75.75 0 0 1-1.06 1.06l-.845-.844-.845.844a.75.75 0 1 1-1.06-1.06L10.814 7l-.844-.845a.75.75 0 0 1 1.06-1.06l.845.844.845-.844a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Volume-Mute--Streamline-Core">
+  <desc>
+    Volume Mute Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="volume-mute--speaker-remove-volume-control-audio-music-mute-off-cross-entertainment">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M9 3.005A1.454 1.454 0 0 0 6.716 1.78l-0.003 0.002L2.842 4.5H1.5C0.68 4.5 0 5.18 0 6v2c0 0.82 0.68 1.5 1.5 1.5h1.339l3.78 2.716 0.007 0.005c0.97 0.672 2.348 -0.024 2.374 -1.21V3.005Zm4.78 2.09a0.75 0.75 0 0 1 0 1.06L12.936 7l0.844 0.845a0.75 0.75 0 0 1 -1.06 1.06l-0.845 -0.844 -0.845 0.844a0.75 0.75 0 1 1 -1.06 -1.06L10.814 7l-0.844 -0.845a0.75 0.75 0 0 1 1.06 -1.06l0.845 0.844 0.845 -0.844a0.75 0.75 0 0 1 1.06 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

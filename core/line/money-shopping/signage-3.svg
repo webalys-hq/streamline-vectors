@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="signage-3--street-sandwich-shops-shop-stores-board-sign-store"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 2.5h-7l-3 11h7l3-11Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.5-3-11"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.32 10.5h4.36"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Signage-3--Streamline-Core">
+  <desc>
+    Signage 3 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="signage-3--street-sandwich-shops-shop-stores-board-sign-store">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 2.5h-7l-3 11h7l3 -11Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.5 13.5 -3 -11" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.32001 10.5H12.68" stroke-width="1"></path>
+  </g>
+</svg>

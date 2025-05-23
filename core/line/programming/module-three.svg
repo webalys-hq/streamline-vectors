@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="module-three--code-three-module-programming-plugin"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.25H1a.5.5 0 0 0-.5.5V13a.5.5 0 0 0 .5.5h4.25a.5.5 0 0 0 .5-.5V8.75a.5.5 0 0 0-.5-.5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13 8.25H8.75a.5.5 0 0 0-.5.5V13a.5.5 0 0 0 .5.5H13a.5.5 0 0 0 .5-.5V8.75a.5.5 0 0 0-.5-.5Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.13.5H4.88a.5.5 0 0 0-.5.5v4.25a.5.5 0 0 0 .5.5h4.25a.5.5 0 0 0 .5-.5V1a.5.5 0 0 0-.5-.5Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Module-Three--Streamline-Core">
+  <desc>
+    Module Three Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="module-three--code-three-module-programming-plugin">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.25H1c-0.276142 0 -0.5 0.22386 -0.5 0.5V13c0 0.2761 0.223858 0.5 0.5 0.5h4.25c0.27614 0 0.5 -0.2239 0.5 -0.5V8.75c0 -0.27614 -0.22386 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 8.25H8.75c-0.27614 0 -0.5 0.22386 -0.5 0.5V13c0 0.2761 0.22386 0.5 0.5 0.5H13c0.2761 0 0.5 -0.2239 0.5 -0.5V8.75c0 -0.27614 -0.2239 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.13 0.5H4.88c-0.27614 0 -0.5 0.223858 -0.5 0.5v4.25c0 0.27614 0.22386 0.5 0.5 0.5h4.25c0.27615 0 0.5 -0.22386 0.5 -0.5V1c0 -0.276142 -0.22385 -0.5 -0.5 -0.5Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="arrow-down-2--down-move-arrow-arrows"><path id="Vector 1735 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M3 13a1 1 0 0 1 1-1h6a1 1 0 1 1 0 2H4a1 1 0 0 1-1-1Z" clip-rule="evenodd"></path><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M8 1a1 1 0 0 0-2 0v5H4a.5.5 0 0 0-.354.854l3 3a.5.5 0 0 0 .708 0l3-3A.5.5 0 0 0 10 6H8V1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Arrow-Down-2--Streamline-Core">
+  <desc>
+    Arrow Down 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="arrow-down-2--down-move-arrow-arrows">
+    <path id="Vector 1735 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M3 13a1 1 0 0 1 1 -1h6a1 1 0 1 1 0 2H4a1 1 0 0 1 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M8 1a1 1 0 0 0 -2 0v5H4a0.5 0.5 0 0 0 -0.354 0.854l3 3a0.5 0.5 0 0 0 0.708 0l3 -3A0.5 0.5 0 0 0 10 6H8V1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

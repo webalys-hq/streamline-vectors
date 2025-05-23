@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="test-tube--science-experiment-lab-chemistry-test-tube-solution"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M2.767-.001a.75.75 0 1 0 0 1.5H3.5v1.174H6a.625.625 0 1 1 0 1.25H3.5v1.952H6a.625.625 0 0 1 0 1.25H3.5v1.952H6a.625.625 0 1 1 0 1.25H3.5v.173a3.5 3.5 0 1 0 7 0V1.499h.732a.75.75 0 1 0 0-1.5H2.768Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Test-Tube--Streamline-Core">
+  <desc>
+    Test Tube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M2.76746 -0.00106812c-0.41422 0 -0.75 0.33578612 -0.75 0.75000012 0 0.414218 0.33578 0.749998 0.75 0.749998H3.5v1.17383h2.50001c0.34518 0 0.625 0.27982 0.625 0.625s-0.27982 0.625 -0.625 0.625H3.5v1.95223h2.50001c0.34518 0 0.625 0.27983 0.625 0.625 0 0.34518 -0.27982 0.625 -0.625 0.625H3.5v1.95224h2.50001c0.34518 0 0.625 0.27982 0.625 0.625 0 0.34517 -0.27982 0.62497 -0.625 0.62497H3.5V10.5c0 0.9283 0.36875 1.8185 1.02513 2.4749C5.1815 13.6313 6.07174 14 7 14c0.92826 0 1.8185 -0.3687 2.47487 -1.0251C10.1313 12.3185 10.5 11.4283 10.5 10.5V1.49893h0.7325c0.4143 0 0.75 -0.33578 0.75 -0.749998 0 -0.414214 -0.3357 -0.75000012 -0.75 -0.75000012H2.76746Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

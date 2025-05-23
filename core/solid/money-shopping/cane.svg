@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cane--walking-stick-cane-accessories-gentleman-accessories"><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M6.469 2.5a1 1 0 0 0-1 1v.25a1.25 1.25 0 1 1-2.5 0V3.5a3.5 3.5 0 1 1 7 0v9.25a1.25 1.25 0 1 1-2.5 0V3.5a1 1 0 0 0-1-1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cane--Streamline-Core">
+  <desc>
+    Cane Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cane--walking-stick-cane-accessories-gentleman-accessories">
+    <path id="Vector (Stroke)" fill="#000000" fill-rule="evenodd" d="M6.46875 2.5c-0.55228 0 -1 0.44772 -1 1v0.25c0 0.69036 -0.55964 1.25 -1.25 1.25s-1.25 -0.55964 -1.25 -1.25l0 -0.25c0 -1.933 1.567 -3.5 3.5 -3.5s3.5 1.567 3.5 3.5v9.25c0 0.6904 -0.55964 1.25 -1.25 1.25s-1.25 -0.5596 -1.25 -1.25V3.5c0 -0.55228 -0.44772 -1 -1 -1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

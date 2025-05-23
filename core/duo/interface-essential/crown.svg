@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="crown--reward-social-rating-media-queen-vip-king-crown"><path id="Vector" fill="#37d7ff" d="m13.5 4-3 3L7 2 3.5 7l-3-3v6.5A1.5 1.5 0 0 0 2 12h10a1.5 1.5 0 0 0 1.5-1.5V4Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.5 4-3 3L7 2 3.5 7l-3-3v6.5A1.5 1.5 0 0 0 2 12h10a1.5 1.5 0 0 0 1.5-1.5V4Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crown--Streamline-Core">
+  <desc>
+    Crown Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="crown--reward-social-rating-media-queen-vip-king-crown">
+    <path id="Vector" fill="#d7e0ff" d="m13.5 4 -3 3L7 2 3.5 7l-3 -3v6.5c0 0.3978 0.158035 0.7794 0.43934 1.0607C1.22064 11.842 1.60218 12 2 12h10c0.3978 0 0.7794 -0.158 1.0607 -0.4393S13.5 10.8978 13.5 10.5V4Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m13.5 4 -3 3L7 2 3.5 7l-3 -3v6.5c0 0.3978 0.158035 0.7794 0.43934 1.0607C1.22064 11.842 1.60218 12 2 12h10c0.3978 0 0.7794 -0.158 1.0607 -0.4393S13.5 10.8978 13.5 10.5V4Z" stroke-width="1"></path>
+  </g>
+</svg>

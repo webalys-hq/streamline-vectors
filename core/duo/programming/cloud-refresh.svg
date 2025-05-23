@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cloud-refresh--cloud-network-internet-server-refresh"><path id="Vector" fill="#37d7ff" d="M11.267 6.086c.03.035.07.061.116.075a2.73 2.73 0 0 1-.61 5.388H3.92c-.92 0-1.678-.225-2.315-.782a3.193 3.193 0 0 1 1.887-5.59.228.228 0 0 0 .21-.126 3.868 3.868 0 0 1 7.508.91c.006.046.026.09.057.125Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 11.32a3.194 3.194 0 0 1-.21-5.818 3.193 3.193 0 0 1 1.202-.324.228.228 0 0 0 .21-.127 3.868 3.868 0 0 1 7.508.91.246.246 0 0 0 .173.2A2.73 2.73 0 0 1 12 11.249"></path><path id="Ellipse 972" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.45 10.5a2.5 2.5 0 1 0-.832 2.406"></path><path id="Ellipse 973" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10 9-.55 1.5L8 10.25"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cloud-Refresh--Streamline-Core">
+  <desc>
+    Cloud Refresh Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cloud-refresh--cloud-network-internet-server-refresh">
+    <path id="Vector" fill="#d7e0ff" d="M11.267 6.086c0.03 0.035 0.07 0.061 0.116 0.075a2.73 2.73 0 0 1 -0.61 5.388H3.92c-0.92 0 -1.678 -0.225 -2.315 -0.782a3.193 3.193 0 0 1 1.887 -5.59 0.228 0.228 0 0 0 0.21 -0.126 3.868 3.868 0 0 1 7.508 0.91c0.006 0.046 0.026 0.09 0.057 0.125Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.5 11.32a3.194 3.194 0 0 1 -0.21 -5.818 3.193 3.193 0 0 1 1.202 -0.324 0.228 0.228 0 0 0 0.21 -0.127 3.868 3.868 0 0 1 7.508 0.91 0.246 0.246 0 0 0 0.173 0.2A2.73 2.73 0 0 1 12 11.249" stroke-width="1"></path>
+    <path id="Ellipse 972" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.45 10.5a2.5 2.5 0 1 0 -0.832 2.406" stroke-width="1"></path>
+    <path id="Ellipse 973" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m10 9 -0.55 1.5L8 10.25" stroke-width="1"></path>
+  </g>
+</svg>

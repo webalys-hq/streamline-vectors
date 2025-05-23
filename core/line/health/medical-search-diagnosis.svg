@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="medical-search-diagnosis"><path id="vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.478 12.207a5.729 5.729 0 1 0 0-11.457 5.729 5.729 0 0 0 0 11.457Z"></path><path id="vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m13.25 13.25-2.722-2.723"></path><path id="union" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.666 3.26a.5.5 0 0 0-.5.5v1.406H3.759a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.407v1.407a.5.5 0 0 0 .5.5H7.29a.5.5 0 0 0 .5-.5V7.79h1.406a.5.5 0 0 0 .5-.5V5.666a.5.5 0 0 0-.5-.5H7.791V3.76a.5.5 0 0 0-.5-.5H5.666Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Medical-Search-Diagnosis--Streamline-Core">
+  <desc>
+    Medical Search Diagnosis Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="medical-search-diagnosis">
+    <path id="vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.47827 12.2074c3.16381 0 5.72863 -2.56477 5.72863 -5.72858 0 -3.1638 -2.56482 -5.728576 -5.72863 -5.728576 -3.1638 0 -5.728575 2.564776 -5.728575 5.728576 0 3.16381 2.564775 5.72858 5.728575 5.72858Z" stroke-width="1"></path>
+    <path id="vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.2503 13.2497 -2.7223 -2.7224" stroke-width="1"></path>
+    <path id="union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.66571 3.26001c-0.27614 0 -0.5 0.22386 -0.5 0.5v1.40628l-1.40625 0c-0.27614 0 -0.5 0.22385 -0.5 0.5v1.625c0 0.27614 0.22386 0.5 0.5 0.5h1.40625v1.40622c0 0.27614 0.22386 0.5 0.5 0.5h1.625c0.27614 0 0.5 -0.22386 0.5 -0.5V7.79129h1.40625c0.27614 0 0.5 -0.22386 0.5 -0.5v-1.625c0 -0.27615 -0.22386 -0.5 -0.5 -0.5l-1.40625 0V3.76001c0 -0.27614 -0.22386 -0.5 -0.5 -0.5h-1.625Z" stroke-width="1"></path>
+  </g>
+</svg>

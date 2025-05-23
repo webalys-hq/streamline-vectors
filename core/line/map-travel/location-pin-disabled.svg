@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m.503.502 12.995 12.996"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.45 7.45a2 2 0 1 0-2.4-2.4"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.678 2.678A5.394 5.394 0 0 1 7 .5c3.003 0 5.438 2.482 5.438 5.543 0 1.752-.838 3.302-1.857 4.538"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.776 4.5a5.646 5.646 0 0 0-.214 1.543c0 3.64 3.615 6.405 4.95 7.303.298.2.678.2.976 0a15.889 15.889 0 0 0 1.758-1.376"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Location-Pin-Disabled--Streamline-Core">
+  <desc>
+    Location Pin Disabled Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.502521 0.502441 13.4976 13.4975" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.44936 7.44931C8.33754 7.24539 8.99997 6.45005 8.99997 5.5c0 -1.10457 -0.89543 -2 -2 -2 -0.95005 0 -1.74539 0.66243 -1.94931 1.55061" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.67847 2.67835C3.67211 1.35414 5.23822 0.5 7.00003 0.5c3.00307 0 5.43747 2.48161 5.43747 5.54283 0 1.75226 -0.838 3.30212 -1.8561 4.53847" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.77592 4.5c-0.13895 0.48976 -0.21342 1.00743 -0.21342 1.54283 0 3.63925 3.61497 6.40547 4.94986 7.30287 0.29737 0.1999 0.67791 0.1999 0.97528 0 0.421 -0.2831 1.0688 -0.752 1.75845 -1.3755" stroke-width="1"></path>
+  </g>
+</svg>

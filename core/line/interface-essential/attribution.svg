@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="attribution"><path id="Ellipse 50" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0-13 0"></path><path id="Ellipse 235" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.467 4.073a1.524 1.524 0 1 0 3.048 0 1.524 1.524 0 1 0-3.048 0"></path><path id="Ellipse 236" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m8.301 8.85-.325 2.602H6.024L5.699 8.85h-.65a.325.325 0 0 1-.326-.326v-.65a2.277 2.277 0 1 1 4.554 0v.65c0 .18-.146.326-.326.326h-.65Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Attribution--Streamline-Core">
+  <desc>
+    Attribution Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="attribution">
+    <path id="Ellipse 50" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 7a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="Ellipse 235" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.467 4.073a1.524 1.524 0 1 0 3.048 0 1.524 1.524 0 1 0 -3.048 0" stroke-width="1"></path>
+    <path id="Ellipse 236" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.30109 8.8497 -0.32525 2.602H6.024l-0.32525 -2.602H5.0484c-0.17963 0 -0.32526 -0.14562 -0.32526 -0.32525v-0.65052c0 -1.25743 1.01927 -2.27676 2.2767 -2.27676 1.25742 0 2.27685 1.01933 2.27685 2.27676v0.65052c0 0.17963 -0.14562 0.32525 -0.32525 0.32525h-0.65035Z" stroke-width="1"></path>
+  </g>
+</svg>

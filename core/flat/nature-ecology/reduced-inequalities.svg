@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="reduced-inequalities"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.63 4.766a.75.75 0 0 0 0 1.5h2.684a.75.75 0 1 0 0-1.5H5.63Zm0 2.79a.75.75 0 0 0 0 1.5h2.684a.75.75 0 1 0 0-1.5H5.63Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M4.885 3.258a.5.5 0 0 1-.353-.853L6.618.318a.5.5 0 0 1 .707 0l2.087 2.087a.5.5 0 0 1-.354.853H4.885Zm4.635 7.614a.5.5 0 0 0-.462-.309H4.885a.5.5 0 0 0-.353.854l2.086 2.086a.5.5 0 0 0 .707 0l2.087-2.086a.5.5 0 0 0 .108-.545Zm1.413-6.51a.5.5 0 0 0-.309.462v4.173a.5.5 0 0 0 .854.354l2.087-2.087a.5.5 0 0 0 0-.707L11.478 4.47a.5.5 0 0 0-.545-.108ZM3.011 9.46a.5.5 0 0 0 .308-.462V4.824a.5.5 0 0 0-.853-.354L.379 6.557a.5.5 0 0 0 0 .707l2.087 2.087a.5.5 0 0 0 .545.108Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Reduced-Inequalities--Streamline-Core">
+  <desc>
+    Reduced Inequalities Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="reduced-inequalities">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.63 4.766a0.75 0.75 0 0 0 0 1.5h2.684a0.75 0.75 0 1 0 0 -1.5H5.63Zm0 2.79a0.75 0.75 0 0 0 0 1.5h2.684a0.75 0.75 0 1 0 0 -1.5H5.63Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M4.885 3.258a0.5 0.5 0 0 1 -0.353 -0.853L6.618 0.318a0.5 0.5 0 0 1 0.707 0l2.087 2.087a0.5 0.5 0 0 1 -0.354 0.853l-4.173 0Zm4.635 7.614a0.5 0.5 0 0 0 -0.462 -0.309H4.885a0.5 0.5 0 0 0 -0.353 0.854l2.086 2.086a0.5 0.5 0 0 0 0.707 0l2.087 -2.086a0.5 0.5 0 0 0 0.108 -0.545Zm1.413 -6.51a0.5 0.5 0 0 0 -0.309 0.462l0 4.173a0.5 0.5 0 0 0 0.854 0.354l2.087 -2.087a0.5 0.5 0 0 0 0 -0.707L11.478 4.47a0.5 0.5 0 0 0 -0.545 -0.108ZM3.011 9.46a0.5 0.5 0 0 0 0.308 -0.462l0 -4.173a0.5 0.5 0 0 0 -0.853 -0.354L0.379 6.557a0.5 0.5 0 0 0 0 0.707l2.087 2.087a0.5 0.5 0 0 0 0.545 0.108Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

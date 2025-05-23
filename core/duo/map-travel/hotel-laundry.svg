@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hotel-laundry--laundry-machine-hotel"><path id="Vector" fill="#ffffff" d="M7 11.5a3 3 0 1 0 0-6c-1.64 0-3 1.387-3 3a3 3 0 0 0 3 3Z"></path><path id="Vector_2" fill="#ffffff" d="M11.5.5h-9a1 1 0 0 0-1 1v2h11v-2a1 1 0 0 0-1-1Z"></path><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M12.5 12.5a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-9h11v9Zm-2.5-4a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" clip-rule="evenodd"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 3.5h11"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.959 9v-.006A3 3 0 0 0 4.042 8M9.96 9a3 3 0 0 1-5.92-1m5.92 1h-.841A4.736 4.736 0 0 1 7 8.5 4.736 4.736 0 0 0 4.882 8h-.84"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5.5h-9a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Laundry--Streamline-Core">
+  <desc>
+    Hotel Laundry Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hotel-laundry--laundry-machine-hotel">
+    <path id="Vector" fill="#ffffff" d="M7 11.5c1.65685 0 3 -1.3431 3 -3 0 -1.65685 -1.34315 -3 -3 -3 -1.63905 0 -3 1.38655 -3 3 0 1.6569 1.34315 3 3 3Z" stroke-width="1"></path>
+    <path id="Vector_2" fill="#ffffff" d="M11.5 0.5h-9c-0.55228 0 -1 0.447715 -1 1v2h11v-2c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M12.5 12.5c0 0.5523 -0.4477 1 -1 1h-9c-0.55228 0 -1 -0.4477 -1 -1v-9h11v9Zm-2.5 -4c0 1.6569 -1.34315 3 -3 3s-3 -1.3431 -3 -3c0 -1.65685 1.34315 -3 3 -3s3 1.34315 3 3Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.5 3.5h11" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.95852 9c0.00033 -0.00199 0.00067 -0.00397 0.001 -0.00596C9.98615 8.83331 10 8.66827 10 8.5c0 -1.65685 -1.34315 -3 -3 -3 -1.30622 0 -2.41746 0.83481 -2.82929 2 -0.05684 0.16082 -0.10036 0.32792 -0.12923 0.5m5.91704 1C9.72048 10.4189 8.4865 11.5 7 11.5c-1.65685 0 -3 -1.3431 -3 -3 0 -0.1534 0.01151 -0.30412 0.03372 -0.45132 0.00186 -0.01227 0.00378 -0.02452 0.00578 -0.03674 0.00065 -0.00398 0.00131 -0.00796 0.00198 -0.01194m5.91704 1h-0.84049C8.38278 9 7.65763 8.82881 7 8.5 6.34237 8.17119 5.61722 8 4.88197 8h-0.84049" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.5 0.5h-9c-0.55228 0 -1 0.447715 -1 1v11c0 0.5523 0.44772 1 1 1h9c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+  </g>
+</svg>

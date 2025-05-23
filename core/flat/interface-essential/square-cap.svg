@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="square-cap"><g id="Rectangle 619"><path fill="#37d7ff" d="M0 3a1 1 0 0 1 1-1h13v10H1a1 1 0 0 1-1-1V3Z"></path></g><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M14 6.25H6.855a2 2 0 1 0 0 1.5H14v-1.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Cap--Streamline-Core">
+  <desc>
+    Square Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="square-cap">
+    <g id="Rectangle 619">
+      <path fill="#8fbffa" d="M0 3c0 -0.55228 0.447715 -1 1 -1h13v10H1c-0.552284 0 -1 -0.4477 -1 -1V3Z" stroke-width="1"></path>
+    </g>
+    <path id="Subtract" fill="#2859c5" fill-rule="evenodd" d="M14 6.25H6.85462C6.55793 5.51704 5.83934 5 5 5c-1.10457 0 -2 0.89543 -2 2s0.89543 2 2 2c0.83934 0 1.55793 -0.51704 1.85462 -1.25H14v-1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

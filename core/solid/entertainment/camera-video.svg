@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="camera-video--film-television-tv-camera-movies-video-recorder"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M0 3.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0ZM10.5 2a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5ZM1.912 9.609c0-.89.721-1.612 1.612-1.612h6.114c.89 0 1.612.722 1.612 1.612v2.78c0 .89-.722 1.611-1.612 1.611H3.524c-.89 0-1.612-.722-1.612-1.612v-2.78Zm11.966.14a.75.75 0 1 0-1.5 0v2.5a.75.75 0 0 0 1.5 0v-2.5Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Video--Streamline-Core">
+  <desc>
+    Camera Video Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-video--film-television-tv-camera-movies-video-recorder">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M0 3.5C0 1.567 1.567 0 3.5 0S7 1.567 7 3.5 5.433 7 3.5 7 0 5.433 0 3.5ZM10.5 2C9.11929 2 8 3.11929 8 4.5S9.11929 7 10.5 7C11.8807 7 13 5.88071 13 4.5S11.8807 2 10.5 2ZM1.91187 9.60888c0 -0.89014 0.7216 -1.61175 1.61174 -1.61175h6.11463c0.89016 0 1.61176 0.72161 1.61176 1.61175v2.77942c0 0.8901 -0.7216 1.6117 -1.61176 1.6117H3.52361c-0.89014 0 -1.61174 -0.7216 -1.61174 -1.6117V9.60888Zm11.96623 0.13966c0 -0.41422 -0.3357 -0.75 -0.75 -0.75 -0.4142 0 -0.75 0.33578 -0.75 0.75v2.49996c0 0.4142 0.3358 0.75 0.75 0.75 0.4143 0 0.75 -0.3358 0.75 -0.75V9.74854Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

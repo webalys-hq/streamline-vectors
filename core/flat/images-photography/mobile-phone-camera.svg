@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mobile-phone-camera--photos-photo-picture-photography-camera-pictures-phone"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="m7.942 0-.273.41a2.25 2.25 0 0 0-2.077 2.243v2.5a2.25 2.25 0 0 0 2.25 2.25H10v4.847A1.75 1.75 0 0 1 8.25 14h-6.5a1.44 1.44 0 0 1-.602-.15c-.17-.08-.342-.19-.498-.322-.289-.246-.65-.686-.65-1.278V1.75C0 .784.784 0 1.75 0h6.192Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M3.75 11a.75.75 0 0 1 .75-.75h1a.75.75 0 0 1 0 1.5h-1a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Vector" fill="#3e3e3e" d="M14 2.5a1 1 0 0 0-1-1h-.5l-1-1.5h-2l-1 1.5H8a1 1 0 0 0-1 1V5a1 1 0 0 0 1 1h5a1 1 0 0 0 1-1V2.5Z"></path><path id="Vector (Stroke)_2" fill="#37d7ff" fill-rule="evenodd" d="M9.5 3.5a1 1 0 1 1 2 0 1 1 0 0 1-2 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mobile-Phone-Camera--Streamline-Core">
+  <desc>
+    Mobile Phone Camera Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mobile-phone-camera--photos-photo-picture-photography-camera-pictures-phone">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="m7.942 0 -0.273 0.41a2.25 2.25 0 0 0 -2.077 2.243v2.5a2.25 2.25 0 0 0 2.25 2.25H10v4.847A1.75 1.75 0 0 1 8.25 14h-6.5a1.44 1.44 0 0 1 -0.602 -0.15c-0.17 -0.08 -0.342 -0.19 -0.498 -0.322 -0.289 -0.246 -0.65 -0.686 -0.65 -1.278V1.75C0 0.784 0.784 0 1.75 0h6.192Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M3.75 11a0.75 0.75 0 0 1 0.75 -0.75h1a0.75 0.75 0 0 1 0 1.5h-1a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector" fill="#2859c5" d="M14 2.5a1 1 0 0 0 -1 -1h-0.5l-1 -1.5h-2l-1 1.5H8a1 1 0 0 0 -1 1V5a1 1 0 0 0 1 1h5a1 1 0 0 0 1 -1V2.5Z" stroke-width="1"></path>
+    <path id="Vector (Stroke)_2" fill="#8fbffa" fill-rule="evenodd" d="M9.5 3.5a1 1 0 1 1 2 0 1 1 0 0 1 -2 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

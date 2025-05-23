@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="telegram"><path id="Ellipse 43" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.75 7a6.25 6.25 0 1 0 12.5 0A6.25 6.25 0 1 0 .75 7"></path><path id="Vector 585" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m9.742 3.811-.525 6.822-2.882-2.958L2.92 6.96l6.822-3.15Z"></path><path id="Vector 586" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m5.063 7.406.513 2.962 1.877-1.556"></path><path id="Vector 1161" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m6.332 7.66 1.094-.875"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Telegram--Streamline-Core">
+  <desc>
+    Telegram Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="telegram">
+    <path id="Ellipse 43" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 7a6.25 6.25 0 1 0 12.5 0A6.25 6.25 0 1 0 0.75 7" stroke-width="1"></path>
+    <path id="Vector 585" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.7422 3.81128 -0.52472 6.82142 -2.88264 -2.95814 -3.41406 -0.71493L9.7422 3.81128Z" stroke-width="1"></path>
+    <path id="Vector 586" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.0625 7.40625 0.513 2.96175 1.87762 -1.5555" stroke-width="1"></path>
+    <path id="Vector 1161" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.33203 7.66016 1.09375 -0.875" stroke-width="1"></path>
+  </g>
+</svg>

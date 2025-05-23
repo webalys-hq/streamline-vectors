@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sad-face--smiley-chat-message-emoji-sad-face-unsatisfied"><path id="Vector" fill="#37d7ff" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><g id="Group 623"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5a.25.25 0 0 1 0-.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5a.25.25 0 0 0 0-.5"></path></g><g id="Group 624"><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5a.25.25 0 0 1 0-.5"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5a.25.25 0 0 0 0-.5"></path></g><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 10c.448-1.428 2.15-2.3 3.85-1.904A3.07 3.07 0 0 1 10 10"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sad-Face--Streamline-Core">
+  <desc>
+    Sad Face Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sad-face--smiley-chat-message-emoji-sad-face-unsatisfied">
+    <path id="Vector" fill="#d7e0ff" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <g id="Group 623">
+      <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S4.61193 5 4.75 5" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.75 5.5c0.13807 0 0.25 -0.11193 0.25 -0.25S4.88807 5 4.75 5" stroke-width="1"></path>
+    </g>
+    <g id="Group 624">
+      <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5c-0.13807 0 -0.25 -0.11193 -0.25 -0.25S9.11193 5 9.25 5" stroke-width="1"></path>
+      <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.25 5.5c0.13807 0 0.25 -0.11193 0.25 -0.25S9.38807 5 9.25 5" stroke-width="1"></path>
+    </g>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 10c0.44776 -1.42808 2.14925 -2.30079 3.85075 -1.90411C8.83582 8.33391 9.64179 9.04795 10 10" stroke-width="1"></path>
+  </g>
+</svg>

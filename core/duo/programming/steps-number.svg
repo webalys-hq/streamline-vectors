@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="steps-number--interface-number-internet-menu-progress"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10.967h13"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m11 13.467 2.5-2.5-2.5-2.5"></path><path id="Vector 2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.2 5.777V1.511c0 .589-.478 1.066-1.067 1.066H.778"></path><path id="Vector 1" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.622 5.777H.778"></path><path id="Vector 3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.422 5.777H5.578v-.606c0-.423.25-.807.639-.977L7.8 3.502a1.04 1.04 0 0 0-.417-1.991h-.739c-.464 0-.86.296-1.006.71"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.183 3.466c.59 0 1.067.478 1.067 1.067v.178c0 .589-.478 1.066-1.067 1.066h-.71c-.465 0-.86-.296-1.007-.71"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.62 2.222a.978.978 0 0 1 .941-.712h.533a.978.978 0 0 1 0 1.956h-.088"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Steps-Number--Streamline-Core">
+  <desc>
+    Steps Number Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="steps-number--interface-number-internet-menu-progress">
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10.9668h13" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m11 13.4668 2.5 -2.5 -2.5 -2.5" stroke-width="1"></path>
+    <path id="Vector 2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m2.20001 5.77748 0 -4.26697c0 0.58914 -0.4776 1.06673 -1.06674 1.06673l-0.355584 0" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3.62231 5.77747H0.777662" stroke-width="1"></path>
+    <path id="Vector 3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.42235 5.77747H5.5777v-0.60613c0 -0.42382 0.25089 -0.80743 0.63917 -0.97731l1.58289 -0.69251c0.3782 -0.16547 0.62259 -0.53913 0.62259 -0.95195 0 -0.57386 -0.46521 -1.03907 -1.03907 -1.03907h-0.73884c-0.46447 0 -0.8596 0.29684 -1.00604 0.71116" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M12.1833 3.46619c0.5891 0 1.0667 0.4776 1.0667 1.06674l0 0.1778c0 0.58914 -0.4776 1.06674 -1.0667 1.06674l-0.7112 0c-0.4645 0.00001 -0.8596 -0.29684 -1.006 -0.71117" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.62 2.22166c0.1161 -0.41042 0.4934 -0.71115 0.941 -0.71116l0.5334 0c0.54 -0.00001 0.9778 0.43779 0.9778 0.97785 0 0.54005 -0.4378 0.97785 -0.9778 0.97785l-0.0889 -0.00001" stroke-width="1"></path>
+  </g>
+</svg>

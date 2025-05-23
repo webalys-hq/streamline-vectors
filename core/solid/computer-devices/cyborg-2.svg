@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cyborg-2--artificial-robotics-intelligence-machine-technology-android"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M5.333 1.854A1.667 1.667 0 1 1 7.75 3.343v1.47h2.75a2.5 2.5 0 0 1 2.5 2.5v4a2.5 2.5 0 0 1-2.5 2.5h-7a2.5 2.5 0 0 1-2.5-2.5v-4a2.5 2.5 0 0 1 2.5-2.5h2.75v-1.47a1.667 1.667 0 0 1-.917-1.489Zm3.872 9.325a.625.625 0 0 0-.91-.858c-.225.24-.707.423-1.295.423s-1.07-.184-1.295-.423a.625.625 0 0 0-.91.858c.552.585 1.432.815 2.205.815.773 0 1.653-.23 2.205-.815ZM5.042 9.042a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm4.666-.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cyborg-2--Streamline-Core">
+  <desc>
+    Cyborg 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cyborg-2--artificial-robotics-intelligence-machine-technology-android">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M5.333 1.854A1.667 1.667 0 1 1 7.75 3.343v1.47h2.75a2.5 2.5 0 0 1 2.5 2.5v4a2.5 2.5 0 0 1 -2.5 2.5h-7a2.5 2.5 0 0 1 -2.5 -2.5v-4a2.5 2.5 0 0 1 2.5 -2.5h2.75v-1.47a1.667 1.667 0 0 1 -0.917 -1.489Zm3.872 9.325a0.625 0.625 0 0 0 -0.91 -0.858c-0.225 0.24 -0.707 0.423 -1.295 0.423s-1.07 -0.184 -1.295 -0.423a0.625 0.625 0 0 0 -0.91 0.858c0.552 0.585 1.432 0.815 2.205 0.815 0.773 0 1.653 -0.23 2.205 -0.815ZM5.042 9.042a0.75 0.75 0 1 0 0 -1.5 0.75 0.75 0 0 0 0 1.5Zm4.666 -0.75a0.75 0.75 0 1 1 -1.5 0 0.75 0.75 0 0 1 1.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

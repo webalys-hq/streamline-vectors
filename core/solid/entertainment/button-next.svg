@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="button-next--button-television-buttons-movies-skip-next-video-controls"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M9.512 6.056 1.693.656C1.297.407.815.474.467.737A1.142 1.142 0 0 0 0 1.632v10.705c0 .884.979 1.456 1.693 1.004l7.82-5.367c.65-.439.65-1.48 0-1.919Zm4.238-4.314a1 1 0 1 0-2 0v10.516a1 1 0 0 0 2 0V1.742Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Button-Next--Streamline-Core">
+  <desc>
+    Button Next Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="button-next--button-television-buttons-movies-skip-next-video-controls">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M9.51212 6.056 1.6931 0.656892C1.29745 0.406346 0.815218 0.473133 0.466699 0.735097 0.198102 0.936989 0.00892463 1.25481 0.0000077775 1.63264V12.3333C0.000002589 12.3347 0 12.3362 0 12.3376c9.627e-7 0.884 0.978943 1.4562 1.6931 1.0039l7.81902 -5.36654c0.65048 -0.43882 0.65048 -1.48014 0 -1.91896Zm4.23778 -4.31384c0 -0.55229 -0.4477 -1.000003 -1 -1.000003 -0.5522 0 -1 0.447713 -1 1.000003V12.2578c0 0.5523 0.4478 1 1 1 0.5523 0 1 -0.4477 1 -1V1.74216Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

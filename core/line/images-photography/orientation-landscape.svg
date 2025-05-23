@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="orientation-landscape--photos-photo-orientation-landscape-picture-photography-camera-pictures-image"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 12h11a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.502 6.212a1.245 1.245 0 1 0 0-2.49 1.245 1.245 0 0 0 0 2.49Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.083 12a7.098 7.098 0 0 0-7.136-5.786A7.6 7.6 0 0 0 .5 6.349"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.94a7.716 7.716 0 0 0-5.506.225"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Orientation-Landscape--Streamline-Core">
+  <desc>
+    Orientation Landscape Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="orientation-landscape--photos-photo-orientation-landscape-picture-photography-camera-pictures-image">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.5 12 11 0c0.5523 0 1 -0.4477 1 -1l0 -8c0 -0.55229 -0.4477 -1 -1 -1l-11 0c-0.552285 0 -1 0.44771 -1 1l0 8c0 0.5523 0.447715 1 1 1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.50191 6.21206c0.68769 0 1.24519 -0.55749 1.24519 -1.24519s-0.5575 -1.24519 -1.24519 -1.24519c-0.6877 0 -1.2452 0.55749 -1.2452 1.24519s0.5575 1.24519 1.2452 1.24519Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.08269 12.0001c-0.31051 -1.6539 -1.19854 -3.14364 -2.50563 -4.20344 -1.30709 -1.05981 -2.94821 -1.62073 -4.63054 -1.58269C1.46114 6.21268 0.976755 6.25789 0.5 6.34898" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 8.94077c-0.7877 -0.26599 -1.6135 -0.40143 -2.4449 -0.40096 -1.0523 -0.00228 -2.09399 0.21071 -3.06096 0.62589" stroke-width="1"></path>
+  </g>
+</svg>

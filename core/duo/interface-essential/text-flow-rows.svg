@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="text-flow-rows"><path id="Rectangle 53" fill="#37d7ff" d="M.948.5H4.14v3.192H.948z"></path><path id="Rectangle 55" fill="#37d7ff" d="M.948 9.844H4.14v3.192H.948z"></path><path id="Rectangle 54" fill="#37d7ff" d="M9.857.5h3.192v3.192H9.857z"></path><path id="Rectangle 56" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.948.5H4.14v3.192H.948z"></path><path id="Rectangle 57" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.948 9.844H4.14v3.192H.948z"></path><path id="Rectangle 58" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.857.5h3.192v3.192H9.857z"></path><path id="Vector 377" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m10.993 9.38 2.06 2.06-2.06 2.06"></path><path id="Vector 378" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.052 11.437H4.14"></path><path id="Vector 380" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.857 2.094h-5.72"></path><path id="Vector 379" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.27 3.71 4.138 9.84"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Text-Flow-Rows--Streamline-Core">
+  <desc>
+    Text Flow Rows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="text-flow-rows">
+    <path id="Rectangle 53" fill="#d7e0ff" d="M0.948 0.5H4.14v3.192H0.948z" stroke-width="1"></path>
+    <path id="Rectangle 55" fill="#d7e0ff" d="M0.948 9.844H4.14v3.192H0.948z" stroke-width="1"></path>
+    <path id="Rectangle 54" fill="#d7e0ff" d="M9.857 0.5h3.192v3.192H9.857z" stroke-width="1"></path>
+    <path id="Rectangle 56" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.948 0.5H4.14v3.192H0.948z" stroke-width="1"></path>
+    <path id="Rectangle 57" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M0.948 9.844H4.14v3.192H0.948z" stroke-width="1"></path>
+    <path id="Rectangle 58" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.857 0.5h3.192v3.192H9.857z" stroke-width="1"></path>
+    <path id="Vector 377" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m10.9928 9.38092 2.0595 2.05958L10.9928 13.5" stroke-width="1"></path>
+    <path id="Vector 378" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.0523 11.4374H4.13991" stroke-width="1"></path>
+    <path id="Vector 380" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m9.85748 2.09406 -5.72053 0" stroke-width="1"></path>
+    <path id="Vector 379" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.2696 3.70941 4.1381 9.8409" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="cellular-network-lte"><path id="Vector 14" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.03 8.027v5.223M4.287 8.027H7.77"></path><path id="Vector 15" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.758 8.027H9.276v5.223h3.482m-3.482-2.83h3.047"></path><path id="Vector 13" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.242 8.027v5.223h3.047"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.527 4.846c-.773-.547-1.632-.852-2.511-.892-.877.042-1.734.349-2.505.895"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.098 2.828A7.912 7.912 0 0 1 7.003.953a7.9 7.9 0 0 1 4.9 1.875"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Cellular-Network-Lte--Streamline-Core">
+  <desc>
+    Cellular Network Lte Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="cellular-network-lte">
+    <path id="Vector 14" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m6.03 8.027 0 5.223M4.287 8.027H7.77" stroke-width="1"></path>
+    <path id="Vector 15" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m12.758 8.027 -3.482 0v5.223h3.482m-3.482 -2.83h3.047" stroke-width="1"></path>
+    <path id="Vector 13" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M1.242 8.027v5.223h3.047" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.527 4.846c-0.773 -0.547 -1.632 -0.852 -2.511 -0.892 -0.877 0.042 -1.734 0.349 -2.505 0.895" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M2.098 2.828A7.912 7.912 0 0 1 7.003 0.953a7.9 7.9 0 0 1 4.9 1.875" stroke-width="1"></path>
+  </g>
+</svg>

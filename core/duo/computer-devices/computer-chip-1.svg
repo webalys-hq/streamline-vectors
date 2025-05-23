@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="computer-chip-1--computer-device-chip-electronics-cpu-microprocessor"><path id="Vector" fill="#37d7ff" d="M10 3H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 3H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 3V.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 3V.5"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 9H.5"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3 5H.5"></path><path id="Vector_7" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 11v2.5"></path><path id="Vector_8" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5 11v2.5"></path><path id="Vector_9" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 5h2.5"></path><path id="Vector_10" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11 9h2.5"></path><path id="Vector_11" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.5 7.5h-2"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Computer-Chip-1--Streamline-Core">
+  <desc>
+    Computer Chip 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="computer-chip-1--computer-device-chip-electronics-cpu-microprocessor">
+    <path id="Vector" fill="#d7e0ff" d="M10 3H4c-0.55228 0 -1 0.44772 -1 1v6c0 0.5523 0.44772 1 1 1h6c0.5523 0 1 -0.4477 1 -1V4c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10 3H4c-0.55228 0 -1 0.44772 -1 1v6c0 0.5523 0.44772 1 1 1h6c0.5523 0 1 -0.4477 1 -1V4c0 -0.55228 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 3V0.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9 3V0.5" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3 9H0.5" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M3 5H0.5" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9 11v2.5" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M5 11v2.5" stroke-width="1"></path>
+    <path id="Vector_9" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11 5h2.5" stroke-width="1"></path>
+    <path id="Vector_10" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11 9h2.5" stroke-width="1"></path>
+    <path id="Vector_11" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M8.5 7.5h-2" stroke-width="1"></path>
+  </g>
+</svg>

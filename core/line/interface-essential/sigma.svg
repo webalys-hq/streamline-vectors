@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="sigma--formula-text-format-sigma-formatting-sum"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.45 13.448H1.048a.496.496 0 0 1-.456-.307.466.466 0 0 1 .109-.536l5.248-5.259a.496.496 0 0 0 0-.694L.701 1.393A.466.466 0 0 1 .59.858.496.496 0 0 1 1.049.55H13.45"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Sigma--Streamline-Core">
+  <desc>
+    Sigma Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="sigma--formula-text-format-sigma-formatting-sum">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.45 13.4482H1.04802c-0.097937 -0.0005 -0.19354 -0.03 -0.274759 -0.0847 -0.081218 -0.0548 -0.144418 -0.1323 -0.181634 -0.2229 -0.040524 -0.0894 -0.051791 -0.1894 -0.032194 -0.2856 0.019597 -0.0962 0.069057 -0.1837 0.141332 -0.2502L5.9493 7.34636c0.0909 -0.09273 0.14181 -0.21741 0.14181 -0.34726 0 -0.12985 -0.05091 -0.25452 -0.14181 -0.34725L0.700765 1.39339C0.62849 1.32694 0.57903 1.23938 0.559433 1.14318 0.539836 1.04698 0.551103 0.947043 0.591627 0.857619 0.628843 0.767025 0.692043 0.689475 0.773261 0.63474 0.85448 0.580006 0.950083 0.550538 1.04802 0.550049H13.45" stroke-width="1"></path>
+  </g>
+</svg>

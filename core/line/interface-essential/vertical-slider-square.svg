@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="vertical-slider-square--adjustment-adjust-controls-fader-vertical-settings-slider-square"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 1.5v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 11V6"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 3v3"></path><path id="Vector_5" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 9v2"></path><path id="Vector_6" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Vertical-Slider-Square--Streamline-Core">
+  <desc>
+    Vertical Slider Square Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="vertical-slider-square--adjustment-adjust-controls-fader-vertical-settings-slider-square">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 1.5 0 11c0 0.5523 0.447715 1 1 1h11c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1h-11c-0.552285 0 -1 0.447715 -1 1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 11V6" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 6C5.32843 6 6 5.32843 6 4.5S5.32843 3 4.5 3 3 3.67157 3 4.5 3.67157 6 4.5 6Z" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 3v3" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 9v2" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 9c0.8284 0 1.5 -0.67157 1.5 -1.5S10.3284 6 9.5 6C8.67157 6 8 6.67157 8 7.5S8.67157 9 9.5 9Z" stroke-width="1"></path>
+  </g>
+</svg>

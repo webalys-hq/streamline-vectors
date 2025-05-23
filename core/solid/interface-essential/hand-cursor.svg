@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hand-cursor--hand-select-cursor-finger"><path id="Vector" fill="#3e3e3e" d="M10.784 6.063a2.154 2.154 0 0 1 1.712 2.412l-.657 4.599a1.077 1.077 0 0 1-1.077.926H3.784a1.076 1.076 0 0 1-1.002-.678L1.63 10.457a2.154 2.154 0 0 1 1.077-2.725L4.16 7V1.615a1.615 1.615 0 1 1 3.23 0v3.77l3.393.678Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hand-Cursor--Streamline-Core">
+  <desc>
+    Hand Cursor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hand-cursor--hand-select-cursor-finger">
+    <path id="Vector" fill="#000000" d="M10.784 6.063a2.154 2.154 0 0 1 1.712 2.412l-0.657 4.599a1.077 1.077 0 0 1 -1.077 0.926H3.784a1.076 1.076 0 0 1 -1.002 -0.678L1.63 10.457a2.154 2.154 0 0 1 1.077 -2.725L4.16 7V1.615a1.615 1.615 0 1 1 3.23 0v3.77l3.393 0.678Z" stroke-width="1"></path>
+  </g>
+</svg>

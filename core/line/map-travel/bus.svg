@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="bus--transportation-travel-bus-transit-transport-motorcoach-public"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5.5h-9a1 1 0 0 0-1 1V11a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1V1.5a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 12v1.5"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 12v1.5"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.5 7h11"></path><g id="Group 2666"><path id="Ellipse 1208" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 9.75a.25.25 0 0 1 0-.5"></path><path id="Ellipse 1209" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 9.75a.25.25 0 0 0 0-.5"></path></g><g id="Group 2667"><path id="Ellipse 1208_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 9.75a.25.25 0 0 1 0-.5"></path><path id="Ellipse 1209_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 9.75a.25.25 0 1 0 0-.5"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Bus--Streamline-Core">
+  <desc>
+    Bus Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="bus--transportation-travel-bus-transit-transport-motorcoach-public">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.5 0.5h-9c-0.55228 0 -1 0.447715 -1 1V11c0 0.5523 0.44772 1 1 1h9c0.5523 0 1 -0.4477 1 -1V1.5c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 12v1.5" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 12v1.5" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 7h11" stroke-width="1"></path>
+    <g id="Group 2666">
+      <path id="Ellipse 1208" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 9.75c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1209" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4 9.75c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+    <g id="Group 2667">
+      <path id="Ellipse 1208_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 9.75c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path>
+      <path id="Ellipse 1209_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 9.75c0.1381 0 0.25 -0.11193 0.25 -0.25s-0.1119 -0.25 -0.25 -0.25" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

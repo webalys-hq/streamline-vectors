@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="erlenmeyer-flask--science-experiment-lab-flask-chemistry-solution"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.02.75A.75.75 0 0 1 3.77 0h6.46a.75.75 0 0 1 0 1.5H9.5v4.827l3.486 4.437c1.031 1.313.097 3.236-1.572 3.236H2.586c-1.669 0-2.604-1.923-1.572-3.236L4.5 6.327V1.5h-.73a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Erlenmeyer-Flask--Streamline-Core">
+  <desc>
+    Erlenmeyer Flask Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="erlenmeyer-flask--science-experiment-lab-flask-chemistry-solution">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M3.02037 0.749329c0 -0.414214 0.33579 -0.750000387 0.75 -0.750000387h6.45923c0.4142 0 0.75 0.335786387 0.75 0.750000387 0 0.414211 -0.3358 0.750001 -0.75 0.750001h-0.72961v4.82775l3.48641 4.43732C14.0175 12.0766 13.0827 14 11.4138 14H2.58618c-1.66886 0 -2.6036966 -1.9234 -1.57264 -3.2356l3.48645 -4.43732V1.49933h-0.72962c-0.41421 0 -0.75 -0.33579 -0.75 -0.750001Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

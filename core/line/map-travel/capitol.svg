@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="capitol--capitol-travel-places"><path id="Vector 612" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.262 8.831H.857l6.202-3.544 6.203 3.544Z"></path><path id="Vector 613" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.857 13.261h12.405"></path><path id="Vector 614" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M1.743 8.831v4.43"></path><path id="Vector 616" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.4 8.831v4.43"></path><path id="Vector 1054" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.06 8.831v4.43"></path><path id="Vector 617" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.717 8.831v4.43"></path><path id="Vector 615" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M12.376 8.831v4.43"></path><path id="Vector 1313" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.515 7.296V5.73a3.544 3.544 0 1 1 7.088 0v1.566"></path><path id="Vector 1053" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.06 2.185V.856"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Capitol--Streamline-Core">
+  <desc>
+    Capitol Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="capitol--capitol-travel-places">
+    <path id="Vector 612" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.2617 8.83107H0.856567L7.05915 5.28674l6.20255 3.54433Z" stroke-width="1"></path>
+    <path id="Vector 613" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.856567 13.2615H13.2617" stroke-width="1"></path>
+    <path id="Vector 614" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.74268 8.83105v4.43045" stroke-width="1"></path>
+    <path id="Vector 616" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.40088 8.83105v4.43045" stroke-width="1"></path>
+    <path id="Vector 1054" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.05908 8.83105v4.43045" stroke-width="1"></path>
+    <path id="Vector 617" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.71729 8.83105v4.43045" stroke-width="1"></path>
+    <path id="Vector 615" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.3756 8.83105v4.43045" stroke-width="1"></path>
+    <path id="Vector 1313" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.51477 7.29645V5.72976c0 -1.95748 1.58685 -3.54434 3.54433 -3.54434 1.95748 0 3.5443 1.58686 3.5443 3.54434v1.56669" stroke-width="1"></path>
+    <path id="Vector 1053" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.0592 2.18545V0.856323" stroke-width="1"></path>
+  </g>
+</svg>

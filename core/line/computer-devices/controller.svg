@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="controller--remote-quadcopter-drones-flying-drone-control-controller-technology-fly"><path id="Vector 693" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.4 7v2.31"></path><path id="Vector 694" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.556 8.156H3.245"></path><path id="Vector 2430" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m1.256 7.193-.412 3.71a2.283 2.283 0 0 0 4.311 1.272l.36-.718h2.97l.36.718a2.283 2.283 0 0 0 4.31-1.273l-.411-3.71a3 3 0 0 0-2.982-2.668H4.238a3 3 0 0 0-2.982 2.669Z"></path><path id="Vector 2431" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 4.524v-.98a1 1 0 0 1 1-1h1.466a1 1 0 0 0 1-1V.561"></path><g id="Group 628"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.466 7.495a.248.248 0 0 1 0-.495"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.466 7.495a.248.248 0 1 0 0-.495"></path></g><g id="Group 630"><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.733 8.733a.248.248 0 0 1 .495 0"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M8.733 8.733a.248.248 0 0 0 .495 0"></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Controller--Streamline-Core">
+  <desc>
+    Controller Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="controller--remote-quadcopter-drones-flying-drone-control-controller-technology-fly">
+    <path id="Vector 693" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.40024 7v2.3109" stroke-width="1"></path>
+    <path id="Vector 694" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.55576 8.15552 -2.3109 0" stroke-width="1"></path>
+    <path id="Vector 2430" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.25636 7.19263 0.844169 10.9024c-0.150258 1.3523 0.908311 2.535 2.268951 2.535 0.8647 0 1.65519 -0.4886 2.0419 -1.262l0.3594 -0.7188h2.97116l0.3594 0.7188c0.38671 0.7734 1.17722 1.262 2.04192 1.262 1.3606 0 2.4192 -1.1827 2.2689 -2.535l-0.4122 -3.70977c-0.1688 -1.5193 -1.453 -2.6687 -2.98161 -2.6687H4.23801c-1.52864 0 -2.81284 1.1494 -2.98165 2.6687Z" stroke-width="1"></path>
+    <path id="Vector 2431" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 4.52404v-0.98077c0 -0.55229 0.44772 -1 1 -1h1.46635c0.55225 0 0.99995 -0.44772 0.99995 -1V0.5625" stroke-width="1"></path>
+    <g id="Group 628">
+      <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4663 7.49519c-0.1367 0 -0.2475 -0.11085 -0.2475 -0.24759 0 -0.13675 0.1108 -0.2476 0.2475 -0.2476" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.4663 7.49519c0.1368 0 0.2476 -0.11085 0.2476 -0.24759 0 -0.13675 -0.1108 -0.2476 -0.2476 -0.2476" stroke-width="1"></path>
+    </g>
+    <g id="Group 630">
+      <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.73317 8.73319c0 -0.13674 0.11085 -0.24759 0.2476 -0.24759 0.13674 0 0.24759 0.11085 0.24759 0.24759" stroke-width="1"></path>
+      <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.73326 8.73312c0 0.13674 0.11085 0.24759 0.2476 0.24759 0.13674 0 0.24759 -0.11085 0.24759 -0.24759" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

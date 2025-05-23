@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="camera-loading--photos-picture-camera-photography-photo-pictures-loading-option-setting"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M5 1.5a.5.5 0 0 0-.4.2L3.25 3.5H1.5A1.5 1.5 0 0 0 0 5v6a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 14 11V5a1.5 1.5 0 0 0-1.5-1.5h-1.75L9.4 1.7a.5.5 0 0 0-.4-.2H5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M5.05 7.75a.758.758 0 1 1-1.516 0 .758.758 0 0 1 1.516 0Zm2.596 0a.758.758 0 1 1-1.516 0 .758.758 0 0 1 1.516 0Zm2.104.758a.758.758 0 1 0 0-1.516.758.758 0 0 0 0 1.516Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Camera-Loading--Streamline-Core">
+  <desc>
+    Camera Loading Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="camera-loading--photos-picture-camera-photography-photo-pictures-loading-option-setting">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M5 1.5a0.5 0.5 0 0 0 -0.4 0.2L3.25 3.5H1.5A1.5 1.5 0 0 0 0 5v6a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 14 11V5a1.5 1.5 0 0 0 -1.5 -1.5h-1.75L9.4 1.7a0.5 0.5 0 0 0 -0.4 -0.2H5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M5.05 7.75a0.758 0.758 0 1 1 -1.516 0 0.758 0.758 0 0 1 1.516 0Zm2.596 0a0.758 0.758 0 1 1 -1.516 0 0.758 0.758 0 0 1 1.516 0Zm2.104 0.758a0.758 0.758 0 1 0 0 -1.516 0.758 0.758 0 0 0 0 1.516Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

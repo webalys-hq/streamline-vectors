@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="flash-off--flash-power-connect-charge-off-electricity-lightning"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M8.5.5a.5.5 0 0 0-.912-.283l-5.5 8A.5.5 0 0 0 2.5 9h3v4.5a.5.5 0 0 0 .912.283l5.5-8A.5.5 0 0 0 11.5 5h-3V.5Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M.22.22a.75.75 0 0 0 0 1.06l12.5 12.5a.75.75 0 1 0 1.06-1.06L1.28.22a.75.75 0 0 0-1.06 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Flash-Off--Streamline-Core">
+  <desc>
+    Flash Off Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="flash-off--flash-power-connect-charge-off-electricity-lightning">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M8.5 0.500007c0 -0.219014 -0.14253 -0.4125369 -0.35169 -0.4774992 -0.20916 -0.0649623 -0.43625 0.0137578 -0.56033 0.1942342l-5.5 7.999998c-0.10519 0.15301 -0.11693 0.35171 -0.03049 0.51604 0.08644 0.16433 0.25683 0.26723 0.44251 0.26723h3V13.5c0 0.219 0.14254 0.4125 0.35169 0.4775 0.20916 0.065 0.43625 -0.0138 0.56033 -0.1942L11.912 5.78327c0.1052 -0.15301 0.117 -0.35171 0.0305 -0.51604 -0.0864 -0.16433 -0.2568 -0.26722 -0.4425 -0.26722h-3V0.500007Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M0.21967 0.21967c-0.2928931 0.292893 -0.2928931 0.767767 0 1.06066L12.7197 13.7803c0.2929 0.2929 0.7677 0.2929 1.0606 0 0.2929 -0.2929 0.2929 -0.7677 0 -1.0606L1.28033 0.21967c-0.292893 -0.2928933 -0.767767 -0.2928933 -1.06066 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

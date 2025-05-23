@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="mouse-wireless-1--remote-wireless-device-electronics-mouse-computer"><path id="Vector 2426" fill="#37d7ff" d="M4 10.5v-2a3 3 0 0 1 6 0v2a3 3 0 1 1-6 0Z"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5v-1"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.239a9 9 0 0 0-7 0"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.2 3.338a6.78 6.78 0 0 0-4.36 0"></path><path id="Vector 2425" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4 10.5v-2a3 3 0 0 1 6 0v2a3 3 0 1 1-6 0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Mouse-Wireless-1--Streamline-Core">
+  <desc>
+    Mouse Wireless 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="mouse-wireless-1--remote-wireless-device-electronics-mouse-computer">
+    <path id="Vector 2426" fill="#d7e0ff" d="M4 10.5v-2c0 -1.65685 1.34315 -3 3 -3s3 1.34315 3 3v2c0 1.6569 -1.34315 3 -3 3s-3 -1.3431 -3 -3Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7 8.5v-1" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.23865C9.39236 0.771099 8.20227 0.530212 7 0.530212s-2.39236 0.240887 -3.5 0.708438" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M9.19997 3.33824c-1.4137 -0.48004 -2.94631 -0.48004 -4.36 0" stroke-width="1"></path>
+    <path id="Vector 2425" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4 10.5v-2c0 -1.65685 1.34315 -3 3 -3s3 1.34315 3 3v2c0 1.6569 -1.34315 3 -3 3s-3 -1.3431 -3 -3Z" stroke-width="1"></path>
+  </g>
+</svg>

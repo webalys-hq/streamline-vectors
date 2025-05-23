@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ball--sports-ball-sport-basketball-shopping-catergories"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7 .5v13"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.1 11.27a5 5 0 0 0 0-8.54"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.9 2.73a5 5 0 0 0 0 8.54"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ball--Streamline-Core">
+  <desc>
+    Ball Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ball--sports-ball-sport-basketball-shopping-catergories">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 0.5v13" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.09998 11.27c0.73273 -0.4461 1.33838 -1.0732 1.75869 -1.821 0.42032 -0.74781 0.64116 -1.59118 0.64131 -2.44902 -0.00015 -0.85784 -0.22099 -1.70121 -0.64131 -2.44902 -0.42031 -0.74781 -1.02596 -1.3749 -1.75869 -1.82098" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.9 2.72998c-0.7325 0.44624 -1.3379 1.07341 -1.7579 1.82121 -0.42012 0.7478 -0.64076 1.59108 -0.64076 2.44879 0 0.85771 0.22064 1.70099 0.64076 2.44879 0.42 0.74783 1.0254 1.37493 1.7579 1.82123" stroke-width="1"></path>
+  </g>
+</svg>

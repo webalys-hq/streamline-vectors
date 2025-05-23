@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="desktop-dollar--cash-desktop-display-device-notification-computer-money-currency"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 1A1.5 1.5 0 0 0 0 2.5v7A1.5 1.5 0 0 0 1.5 11h3.985l-.537 1.5H4A.75.75 0 0 0 4 14h6a.75.75 0 0 0 0-1.5h-.948L8.515 11H9a1 1 0 1 0 0-2H2V3h5a1 1 0 0 0 0-2H1.5Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M11.583 0a.75.75 0 0 1 .75.75v.528a1.999 1.999 0 0 1 1.553 1.305.75.75 0 0 1-1.414.5A.498.498 0 0 0 12 2.75h-.967a.366.366 0 0 0-.079.723l1.473.322a2 2 0 0 1-.094 3.927v.528a.75.75 0 0 1-1.5 0v-.528a2.003 2.003 0 0 1-1.552-1.305.75.75 0 0 1 1.414-.5.5.5 0 0 0 .472.333H12a.5.5 0 0 0 .107-.99l-1.473-.322a1.866 1.866 0 0 1 .2-3.677V.75a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Desktop-Dollar--Streamline-Core">
+  <desc>
+    Desktop Dollar Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="desktop-dollar--cash-desktop-display-device-notification-computer-money-currency">
+    <path id="Union" fill="#000000" fill-rule="evenodd" d="M1.5 1A1.5 1.5 0 0 0 0 2.5v7A1.5 1.5 0 0 0 1.5 11h3.985l-0.537 1.5H4A0.75 0.75 0 0 0 4 14h6a0.75 0.75 0 0 0 0 -1.5h-0.948L8.515 11H9a1 1 0 1 0 0 -2H2V3h5a1 1 0 0 0 0 -2H1.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#000000" fill-rule="evenodd" d="M11.583 0a0.75 0.75 0 0 1 0.75 0.75v0.528a1.999 1.999 0 0 1 1.553 1.305 0.75 0.75 0 0 1 -1.414 0.5A0.498 0.498 0 0 0 12 2.75h-0.967a0.366 0.366 0 0 0 -0.079 0.723l1.473 0.322a2 2 0 0 1 -0.094 3.927v0.528a0.75 0.75 0 0 1 -1.5 0v-0.528a2.003 2.003 0 0 1 -1.552 -1.305 0.75 0.75 0 0 1 1.414 -0.5 0.5 0.5 0 0 0 0.472 0.333H12a0.5 0.5 0 0 0 0.107 -0.99l-1.473 -0.322a1.866 1.866 0 0 1 0.2 -3.677V0.75a0.75 0.75 0 0 1 0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

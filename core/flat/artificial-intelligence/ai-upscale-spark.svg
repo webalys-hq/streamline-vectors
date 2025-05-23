@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="ai-upscale-spark--magnifier-zoom-view-find-search-ai"><path id="Union" fill="#37d7ff" d="M6.5 0a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 6.5a5 5 0 1 1 10 0 5 5 0 0 1-10 0Zm5-6.5a6.5 6.5 0 1 0 3.835 11.749l1.958 1.958a1 1 0 0 0 1.414-1.414l-1.958-1.958A6.5 6.5 0 0 0 6.5 0Z" clip-rule="evenodd"></path><path id="Union_3" fill="#3e3e3e" fill-rule="evenodd" d="M7.264 3.9c-.188-.821-1.36-.816-1.54.007l-.007.032-.013.062a2.261 2.261 0 0 1-1.82 1.734c-.857.15-.857 1.38 0 1.53a2.261 2.261 0 0 1 1.822 1.744l.018.084c.18.823 1.352.828 1.54.007l.022-.098a2.275 2.275 0 0 1 1.828-1.736c.86-.15.86-1.383 0-1.532A2.275 2.275 0 0 1 7.272 3.94l-.008-.04Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Ai-Upscale-Spark--Streamline-Core">
+  <desc>
+    Ai Upscale Spark Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="ai-upscale-spark--magnifier-zoom-view-find-search-ai">
+    <path id="Union" fill="#8fbffa" d="M6.5 0a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0 -13Z" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1.5 6.5a5 5 0 1 1 10 0 5 5 0 0 1 -10 0Zm5 -6.5a6.5 6.5 0 1 0 3.835 11.749l1.958 1.958a1 1 0 0 0 1.414 -1.414l-1.958 -1.958A6.5 6.5 0 0 0 6.5 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_3" fill="#2859c5" fill-rule="evenodd" d="M7.264 3.9c-0.188 -0.821 -1.36 -0.816 -1.54 0.007l-0.007 0.032 -0.013 0.062a2.261 2.261 0 0 1 -1.82 1.734c-0.857 0.15 -0.857 1.38 0 1.53a2.261 2.261 0 0 1 1.822 1.744l0.018 0.084c0.18 0.823 1.352 0.828 1.54 0.007l0.022 -0.098a2.275 2.275 0 0 1 1.828 -1.736c0.86 -0.15 0.86 -1.383 0 -1.532A2.275 2.275 0 0 1 7.272 3.94l-0.008 -0.04Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

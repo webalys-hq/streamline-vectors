@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hotel-bed-2--bed-double-bedroom-bedrooms-queen-king-full-hotel-hotel"><path id="Subtract" fill="#3e3e3e" fill-rule="evenodd" d="M.046 1.54C.046.714.715.045 1.54.045h10.922c.824 0 1.493.669 1.493 1.493v4.313H.046V1.539Zm0 5.562v5.359c0 .824.669 1.493 1.493 1.493h10.922c.824 0 1.493-.669 1.493-1.493V7.1H.046Zm6.268-3.554v-.979a1 1 0 0 0-1-1H2.63a1 1 0 0 0-1 1v.979a1 1 0 0 0 1 1h2.685a1 1 0 0 0 1-1Zm6.057-.979v.979a1 1 0 0 1-1 1H8.686a1 1 0 0 1-1-1v-.979a1 1 0 0 1 1-1h2.685a1 1 0 0 1 1 1Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hotel-Bed-2--Streamline-Core">
+  <desc>
+    Hotel Bed 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hotel-bed-2--bed-double-bedroom-bedrooms-queen-king-full-hotel-hotel">
+    <path id="Subtract" fill="#000000" fill-rule="evenodd" d="M0.046 1.54C0.046 0.714 0.715 0.045 1.54 0.045h10.922c0.824 0 1.493 0.669 1.493 1.493v4.313l-0.004 0H0.05l-0.004 0V1.539Zm0 5.562v5.359c0 0.824 0.669 1.493 1.493 1.493h10.922c0.824 0 1.493 -0.669 1.493 -1.493V7.1l-0.004 0H0.05l-0.004 0Zm6.268 -3.554v-0.979a1 1 0 0 0 -1 -1H2.63a1 1 0 0 0 -1 1v0.979a1 1 0 0 0 1 1h2.685a1 1 0 0 0 1 -1Zm6.057 -0.979v0.979a1 1 0 0 1 -1 1H8.686a1 1 0 0 1 -1 -1v-0.979a1 1 0 0 1 1 -1h2.685a1 1 0 0 1 1 1Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

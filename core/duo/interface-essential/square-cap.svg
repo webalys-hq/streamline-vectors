@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="square-cap"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M1.046 2.206H13.5v9.588H1.046a.547.547 0 0 1-.546-.547V2.753c0-.302.245-.547.546-.547Zm5.144 6.59a1.798 1.798 0 1 0 0-3.595 1.798 1.798 0 0 0 0 3.596Z" clip-rule="evenodd"></path><path id="Ellipse 400" fill="#ffffff" d="M7.988 7a1.798 1.798 0 1 1-3.596 0 1.798 1.798 0 0 1 3.596 0Z"></path><path id="Vector 807" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.988 7H13.5"></path><path id="Vector 809" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2.206H1.046a.546.546 0 0 0-.546.547v8.494c0 .302.245.547.546.547H13.5"></path><path id="Ellipse 399" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.988 7a1.798 1.798 0 1 1-3.596 0 1.798 1.798 0 0 1 3.596 0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Square-Cap--Streamline-Core">
+  <desc>
+    Square Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="square-cap">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M1.04649 2.2063H13.5v9.5876H1.04649C0.744671 11.7939 0.5 11.5492 0.5 11.2474V2.75279c0 -0.30182 0.244671 -0.54649 0.54649 -0.54649Zm5.14364 6.59045c0.99283 0 1.79767 -0.80484 1.79767 -1.79767 0 -0.99282 -0.80484 -1.79766 -1.79767 -1.79766 -0.99282 0 -1.79766 0.80484 -1.79766 1.79766 0 0.99283 0.80484 1.79767 1.79766 1.79767Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Ellipse 400" fill="#ffffff" d="M7.98779 6.99908c0 0.99283 -0.80484 1.79767 -1.79767 1.79767 -0.99282 0 -1.79766 -0.80484 -1.79766 -1.79767 0 -0.99282 0.80484 -1.79766 1.79766 -1.79766 0.99283 0 1.79767 0.80484 1.79767 1.79766Z" stroke-width="1"></path>
+    <path id="Vector 807" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m7.98834 6.99951 5.51166 0" stroke-width="1"></path>
+    <path id="Vector 809" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2.2063H1.04649C0.744671 2.2063 0.5 2.45097 0.5 2.75279v8.49461c0 0.3018 0.244671 0.5465 0.54649 0.5465H13.5" stroke-width="1"></path>
+    <path id="Ellipse 399" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.98779 6.99908c0 0.99283 -0.80484 1.79767 -1.79767 1.79767 -0.99282 0 -1.79766 -0.80484 -1.79766 -1.79767 0 -0.99282 0.80484 -1.79766 1.79766 -1.79766 0.99283 0 1.79767 0.80484 1.79767 1.79766Z" stroke-width="1"></path>
+  </g>
+</svg>

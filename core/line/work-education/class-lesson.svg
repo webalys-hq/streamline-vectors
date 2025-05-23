@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="class-lesson--class-lesson-education-teacher"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M6.35.5h6.302c.469 0 .849.38.849.849v6.778c0 .47-.38.85-.849.85H7.5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.149 4.001a1.75 1.75 0 1 0 0-3.501 1.75 1.75 0 0 0 0 3.501Z"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9 5.527C9 4.96 8.54 4.5 7.973 4.5H3.149v0A2.649 2.649 0 0 0 .5 7.149V9.5h1.135l.379 4h2.27l.872-6.945h2.817C8.54 6.555 9 6.095 9 5.527v0Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Class-Lesson--Streamline-Core">
+  <desc>
+    Class Lesson Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="class-lesson--class-lesson-education-teacher">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.34961 0.5H12.652c0.4688 0 0.8488 0.38003 0.8488 0.84882V8.1275c0 0.46879 -0.38 0.84882 -0.8488 0.84882H7.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.14854 4.00107c0.9668 0 1.75054 -0.78374 1.75054 -1.75054C4.89908 1.28374 4.11534 0.5 3.14854 0.5c-0.96679 0 -1.75053 0.78374 -1.75053 1.75053 0 0.9668 0.78374 1.75054 1.75053 1.75054Z" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 5.52747C9 4.96001 8.53999 4.5 7.97253 4.5h-4.8236v0C1.68597 4.5 0.500001 5.68596 0.5 7.14893L0.5 9.5h1.13525l0.37842 4h2.27051l0.87207 -6.94507h2.81628C8.53999 6.55493 9 6.09492 9 5.52747v0Z" stroke-width="1"></path>
+  </g>
+</svg>

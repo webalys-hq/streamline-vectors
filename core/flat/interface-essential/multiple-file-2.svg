@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="multiple-file-2--double-common-file"><path id="Rectangle 662" fill="#3e3e3e" d="M4 1.5A1.5 1.5 0 0 1 5.5 0H11a1.5 1.5 0 0 1 1.5 1.5V10a1.5 1.5 0 0 1-1.5 1.5H5.5A1.5 1.5 0 0 1 4 10V1.5Z"></path><path id="Rectangle 661" fill="#37d7ff" d="M1.5 4A1.5 1.5 0 0 1 3 2.5h5.5A1.5 1.5 0 0 1 10 4v8.5A1.5 1.5 0 0 1 8.5 14H3a1.5 1.5 0 0 1-1.5-1.5V4Z"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M3.125 5c0-.345.28-.625.625-.625h4a.625.625 0 1 1 0 1.25h-4A.625.625 0 0 1 3.125 5Zm0 2.5c0-.345.28-.625.625-.625h4a.625.625 0 1 1 0 1.25h-4a.625.625 0 0 1-.625-.625Zm.624 1.875a.625.625 0 1 0 0 1.25h2a.625.625 0 1 0 0-1.25h-2Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Multiple-File-2--Streamline-Core">
+  <desc>
+    Multiple File 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="multiple-file-2--double-common-file">
+    <path id="Rectangle 662" fill="#2859c5" d="M4 1.5C4 0.671573 4.67157 0 5.5 0H11c0.8284 0 1.5 0.671573 1.5 1.5V10c0 0.8284 -0.6716 1.5 -1.5 1.5H5.5c-0.82843 0 -1.5 -0.6716 -1.5 -1.5V1.5Z" stroke-width="1"></path>
+    <path id="Rectangle 661" fill="#8fbffa" d="M1.49991 4c0 -0.82843 0.67157 -1.5 1.5 -1.5h5.5c0.82843 0 1.5 0.67157 1.5 1.5v8.5c0 0.8284 -0.67157 1.5 -1.5 1.5h-5.5c-0.82843 0 -1.5 -0.6716 -1.5 -1.5V4Z" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M3.1246 5c0 -0.34518 0.27983 -0.625 0.625 -0.625h4c0.34518 0 0.625 0.27982 0.625 0.625s-0.27982 0.625 -0.625 0.625h-4c-0.34517 0 -0.625 -0.27982 -0.625 -0.625Zm0.00049 2.5c0 -0.34518 0.27982 -0.625 0.625 -0.625h4c0.34518 0 0.625 0.27982 0.625 0.625s-0.27982 0.625 -0.625 0.625h-4c-0.34518 0 -0.625 -0.27982 -0.625 -0.625Zm0.62424 1.875c-0.34518 0 -0.625 0.27982 -0.625 0.625 0 0.3452 0.27982 0.625 0.625 0.625h2c0.34518 0 0.625 -0.2798 0.625 -0.625 0 -0.34518 -0.27982 -0.625 -0.625 -0.625h-2Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="windows--os-system-microsoft"><path id="Vector (Stroke)" fill="#37d7ff" d="M12.877.124.883 1.504H.88A1 1 0 0 0 0 2.46v8.622a1.01 1.01 0 0 0 .832.99l12.01 1.842a1 1 0 0 0 1.158-.98V1.112a.99.99 0 0 0-1.123-.988Z"></path><path id="Intersect" fill="#3e3e3e" fill-rule="evenodd" d="m6.625.843-1.25.144v5.148H0v1.25h5.375v5.384l1.25.192V7.385H14v-1.25H6.625V.843Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Windows--Streamline-Core">
+  <desc>
+    Windows Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="windows--os-system-microsoft">
+    <path id="Vector (Stroke)" fill="#8fbffa" d="M12.877 0.124 0.883 1.504l-0.002 0A1 1 0 0 0 0 2.46v8.62l0 0.002a1.01 1.01 0 0 0 0.832 0.99l12.01 1.842a1 1 0 0 0 1.158 -0.98V1.112a0.99 0.99 0 0 0 -1.123 -0.988Z" stroke-width="1"></path>
+    <path id="Intersect" fill="#2859c5" fill-rule="evenodd" d="m6.625 0.843 -1.25 0.144v5.148H0v1.25h5.375v5.384l1.25 0.192V7.385H14v-1.25H6.625V0.843Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

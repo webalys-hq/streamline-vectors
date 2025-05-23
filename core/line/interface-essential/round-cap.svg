@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="round-cap"><path id="Vector 807" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.988 7H13.5"></path><path id="Vector 809" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 2.206H5.294a4.794 4.794 0 0 0 0 9.588H13.5"></path><path id="Ellipse 399" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.392 6.999a1.798 1.798 0 1 0 3.596 0 1.798 1.798 0 1 0-3.596 0"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Round-Cap--Streamline-Core">
+  <desc>
+    Round Cap Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="round-cap">
+    <path id="Vector 807" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.98828 6.99951 5.51162 0" stroke-width="1"></path>
+    <path id="Vector 809" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.5 2.2063 -8.20622 0C2.64625 2.2063 0.5 4.35255 0.5 7.00008c0 2.64753 2.14625 4.79382 4.79378 4.79382H13.5" stroke-width="1"></path>
+    <path id="Ellipse 399" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.392 6.999a1.798 1.798 0 1 0 3.596 0 1.798 1.798 0 1 0 -3.596 0" stroke-width="1"></path>
+  </g>
+</svg>

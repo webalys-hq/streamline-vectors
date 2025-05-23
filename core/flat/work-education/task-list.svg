@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="task-list--task-list-work"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M1.719 0a1.5 1.5 0 0 0-1.5 1.5v11a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5V4.914a1.5 1.5 0 0 0-.44-1.06L8.365.439A1.5 1.5 0 0 0 7.305 0H1.719Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M6.28 6.375a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_2" fill="#3e3e3e" fill-rule="evenodd" d="M6.28 10.344a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_3" fill="#3e3e3e" fill-rule="evenodd" d="M5.33 8.56a.75.75 0 0 1 .175 1.046L4.108 11.56a.75.75 0 0 1-1.14.094l-.838-.837a.75.75 0 0 1 1.06-1.061l.212.212.882-1.235A.75.75 0 0 1 5.33 8.56Z" clip-rule="evenodd"></path><path id="Vector (Stroke)_4" fill="#3e3e3e" fill-rule="evenodd" d="M5.33 4.528a.75.75 0 0 1 .175 1.047L4.108 7.53a.75.75 0 0 1-1.14.094l-.838-.838a.75.75 0 0 1 1.06-1.06l.212.211.882-1.234a.75.75 0 0 1 1.046-.175Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Task-List--Streamline-Core">
+  <desc>
+    Task List Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="task-list--task-list-work">
+    <path id="Subtract" fill="#8fbffa" fill-rule="evenodd" d="M1.719 0a1.5 1.5 0 0 0 -1.5 1.5v11a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5 -1.5V4.914a1.5 1.5 0 0 0 -0.44 -1.06L8.365 0.439A1.5 1.5 0 0 0 7.305 0H1.719Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M6.28 6.375a0.75 0.75 0 0 1 0.75 -0.75l2.5 0a0.75 0.75 0 0 1 0 1.5l-2.5 0a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_2" fill="#2859c5" fill-rule="evenodd" d="M6.28 10.344a0.75 0.75 0 0 1 0.75 -0.75l2.5 0a0.75 0.75 0 0 1 0 1.5l-2.5 0a0.75 0.75 0 0 1 -0.75 -0.75Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_3" fill="#2859c5" fill-rule="evenodd" d="M5.33 8.56a0.75 0.75 0 0 1 0.175 1.046L4.108 11.56a0.75 0.75 0 0 1 -1.14 0.094l-0.838 -0.837a0.75 0.75 0 0 1 1.06 -1.061l0.212 0.212 0.882 -1.235A0.75 0.75 0 0 1 5.33 8.56Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)_4" fill="#2859c5" fill-rule="evenodd" d="M5.33 4.528a0.75 0.75 0 0 1 0.175 1.047L4.108 7.53a0.75 0.75 0 0 1 -1.14 0.094l-0.838 -0.838a0.75 0.75 0 0 1 1.06 -1.06l0.212 0.211 0.882 -1.234a0.75 0.75 0 0 1 1.046 -0.175Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

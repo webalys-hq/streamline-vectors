@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="crutch--disability-crutch"><path id="Union" fill="#37d7ff" fill-rule="evenodd" d="M10.689 2.03a2.03 2.03 0 1 1-4.061 0 2.03 2.03 0 0 1 4.061 0Zm1.523 6.385a3.554 3.554 0 0 0-5.767-2.78 1.75 1.75 0 0 1 .198 3.142v1.288l.438 3.497a.5.5 0 0 0 .496.438H9.74a.5.5 0 0 0 .496-.438l.453-3.623h1.023a.5.5 0 0 0 .5-.5V8.415Z" clip-rule="evenodd"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M1.8 6.63a.625.625 0 0 0 0 1.25h.263v2.222c0 .732.454 1.358 1.096 1.613v1.029H3.13a.625.625 0 1 0 0 1.25h1.33a.625.625 0 0 0 0-1.25h-.05v-1.019a1.735 1.735 0 0 0 1.122-1.623V7.88h.261a.625.625 0 1 0 0-1.25H1.8Zm1.513 1.25v2.222a.484.484 0 0 0 .968 0V7.88h-.968Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Crutch--Streamline-Core">
+  <desc>
+    Crutch Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="crutch--disability-crutch">
+    <path id="Union" fill="#8fbffa" fill-rule="evenodd" d="M10.689 2.03a2.03 2.03 0 1 1 -4.061 0 2.03 2.03 0 0 1 4.061 0Zm1.523 6.385a3.554 3.554 0 0 0 -5.767 -2.78 1.75 1.75 0 0 1 0.198 3.142v1.288l0.438 3.497a0.5 0.5 0 0 0 0.496 0.438H9.74a0.5 0.5 0 0 0 0.496 -0.438l0.453 -3.623h1.023a0.5 0.5 0 0 0 0.5 -0.5V8.415Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M1.8 6.63a0.625 0.625 0 0 0 0 1.25h0.263v2.222c0 0.732 0.454 1.358 1.096 1.613v1.029H3.13a0.625 0.625 0 1 0 0 1.25h1.33a0.625 0.625 0 0 0 0 -1.25h-0.05v-1.019a1.735 1.735 0 0 0 1.122 -1.623V7.88h0.261a0.625 0.625 0 1 0 0 -1.25H1.8Zm1.513 1.25v2.222a0.484 0.484 0 0 0 0.968 0V7.88h-0.968Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

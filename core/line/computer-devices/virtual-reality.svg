@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="virtual-reality--gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.5H.5v5a1 1 0 0 0 1 1h3a1 1 0 0 0 .78-.38l1.31-1.63a.5.5 0 0 1 .78 0l1.33 1.63a1 1 0 0 0 .78.38h3a1 1 0 0 0 1-1l.02-5Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.5 10.79 2a1 1 0 0 0-.86-.49H4.07a1 1 0 0 0-.86.49L.5 6.5"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Virtual-Reality--Streamline-Core">
+  <desc>
+    Virtual Reality Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="virtual-reality--gaming-virtual-gear-controller-reality-games-headset-technology-vr-eyewear">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.5 6.5H0.5v5c0 0.2652 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h3c0.15021 -0.0007 0.29832 -0.0352 0.43336 -0.101 0.13503 -0.0658 0.25351 -0.1611 0.34664 -0.279l1.31 -1.63c0.04685 -0.0584 0.10622 -0.1055 0.17372 -0.1379 0.0675 -0.0324 0.14141 -0.0492 0.21628 -0.0492 0.07487 0 0.14878 0.0168 0.21628 0.0492s0.12687 0.0795 0.17372 0.1379l1.33 1.63c0.09313 0.1179 0.21161 0.2132 0.34664 0.279 0.13503 0.0658 0.28315 0.1003 0.43336 0.101h3c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071l0.02 -5Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.5 6.50001 -2.71 -4.5c-0.0885 -0.14928 -0.2143 -0.27295 -0.3651 -0.35886 -0.1508 -0.08592 -0.3214 -0.13111 -0.4949 -0.13114H4.07c-0.17354 0.00003 -0.34409 0.04522 -0.49488 0.13114 -0.15078 0.08591 -0.27661 0.20958 -0.36512 0.35886l-2.71 4.5" stroke-width="1"></path>
+  </g>
+</svg>

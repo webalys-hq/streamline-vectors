@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="brain-cognitive--health-medical-brain-cognitive-specialities"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M9.5 13.5V11h2a1 1 0 0 0 1-1V6a5.5 5.5 0 1 0-8 4.9v2.6"></path><path id="Ellipse 53" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M5.5 3.312a3.248 3.248 0 0 0-1.436 3.9c.12.335.48.503.824.412 1.737-.46 3.505-1.705 4.58-2.675.285-.257.343-.687.09-.975A3.248 3.248 0 0 0 5.5 3.312Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Brain-Cognitive--Streamline-Core">
+  <desc>
+    Brain Cognitive Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="brain-cognitive--health-medical-brain-cognitive-specialities">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.5 13.5V11h2c0.2652 0 0.5196 -0.1054 0.7071 -0.2929 0.1875 -0.1876 0.2929 -0.4419 0.2929 -0.70714v-4c-0.0002 -0.97748 -0.2609 -1.93724 -0.7552 -2.7805 -0.4943 -0.84326 -1.2045 -1.53954 -2.0573 -2.01717C8.83466 0.724665 7.86995 0.482948 6.89266 0.502024c-0.97728 0.019077 -1.93183 0.298258 -2.76538 0.808806 -0.83354 0.51054 -1.51596 1.23401 -1.97702 2.09591 -0.46105 0.86191 -0.68407 1.83112 -0.64611 2.80785 0.03797 0.97674 0.33555 1.92571 0.86211 2.74923C2.89282 9.78734 3.62934 10.4556 4.5 10.9v2.6" stroke-width="1"></path>
+    <path id="Ellipse 53" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.50003 3.31152c-1.37951 0.79646 -1.95345 2.45235 -1.43599 3.90087 0.11948 0.33445 0.48048 0.50263 0.82378 0.41169 1.73703 -0.46016 3.5056 -1.70493 4.58006 -2.67543 0.28467 -0.25713 0.3436 -0.68683 0.09002 -0.97465 -1.00111 -1.13628 -2.69593 -1.4488 -4.05787 -0.66248Z" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="screen-1--screen-device-electronics-monitor-diplay-computer"><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M5.635 10.577a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.332l.687 1.918H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.918Z" clip-rule="evenodd"></path><path id="Union_2" fill="#37d7ff" fill-rule="evenodd" d="M1.457.5C.652.5 0 1.152 0 1.957v7.586C0 10.348.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V1.957C14 1.152 13.348.5 12.543.5H1.457Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Screen-1--Streamline-Core">
+  <desc>
+    Screen 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="screen-1--screen-device-electronics-monitor-diplay-computer">
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M5.635 10.577a0.5 0.5 0 0 1 0.47 -0.332h1.79a0.5 0.5 0 0 1 0.47 0.332l0.687 1.918H10a0.75 0.75 0 1 1 0 1.5H4a0.75 0.75 0 0 1 0 -1.5h0.948l0.686 -1.918Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Union_2" fill="#8fbffa" fill-rule="evenodd" d="M1.457 0.5C0.652 0.5 0 1.152 0 1.957v7.586C0 10.348 0.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V1.957C14 1.152 13.348 0.5 12.543 0.5H1.457Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

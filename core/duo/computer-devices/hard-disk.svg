@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="hard-disk--device-disc-drive-disk-electronics-platter-turntable-raid-storage"><path id="Subtract" fill="#37d7ff" fill-rule="evenodd" d="M2.5.5h9a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1Zm4.381 8.509a2.99 2.99 0 1 0 0-5.98 2.99 2.99 0 0 0 0 5.98Z" clip-rule="evenodd"></path><path id="Ellipse 223" fill="#ffffff" d="M3.891 6.019a2.99 2.99 0 1 0 5.98 0 2.99 2.99 0 1 0-5.98 0"></path><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M11.5.5h-9a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h9a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="m4.5 10.5 1.75-2.75"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.09 7A2.93 2.93 0 0 1 4 5.16a3 3 0 1 1 4.67 3.27"></path><path id="Vector_4" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M7.5 11H10"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Hard-Disk--Streamline-Core">
+  <desc>
+    Hard Disk Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="hard-disk--device-disc-drive-disk-electronics-platter-turntable-raid-storage">
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M2.5 0.5h9c0.5523 0 1 0.447715 1 1v11c0 0.5523 -0.4477 1 -1 1h-9c-0.55228 0 -1 -0.4477 -1 -1v-11c0 -0.552285 0.44772 -1 1 -1Zm4.38139 8.50895c1.65133 0 2.99 -1.33867 2.99 -2.99 0 -1.65134 -1.33867 -2.99 -2.99 -2.99 -1.65133 0 -2.99 1.33866 -2.99 2.99 0 1.65133 1.33867 2.99 2.99 2.99Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Ellipse 223" fill="#ffffff" d="M3.891 6.019a2.99 2.99 0 1 0 5.98 0 2.99 2.99 0 1 0 -5.98 0" stroke-width="1"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M11.5 0.5h-9c-0.55228 0 -1 0.447715 -1 1v11c0 0.5523 0.44772 1 1 1h9c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="m4.5 10.5 1.75 -2.75" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M4.09 6.99998c-0.22705 -0.58771 -0.25861 -1.23294 -0.09 -1.84 0.13734 -0.45383 0.38029 -0.86864 0.70894 -1.21042 0.32864 -0.34178 0.73362 -0.60079 1.18172 -0.7558 0.4481 -0.155 0.92657 -0.20158 1.39615 -0.13593 0.46959 0.06566 0.91692 0.24169 1.30532 0.51365 0.38841 0.27197 0.70681 0.63212 0.92912 1.05093 0.2223 0.41882 0.34216 0.88436 0.34976 1.35845 0.0076 0.47409 -0.09729 0.94323 -0.30606 1.36895 -0.20876 0.42572 -0.51546 0.7959 -0.89495 1.08017" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#4147d5" stroke-linecap="round" stroke-linejoin="round" d="M7.5 11H10" stroke-width="1"></path>
+  </g>
+</svg>

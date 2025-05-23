@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="inbox-favorite-heart--mail-envelope-email-message-heart-favorite-like-love-important-bookmark"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.5h-3a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1V5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 1.76 6.5 6l6-4.24"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M10 8.991c1.17-2.595 3.5-1.293 3.5.651 0 2.555-3.5 3.858-3.5 3.858s-3.5-1.303-3.5-3.908c0-1.944 2.33-3.246 3.5-.601Z"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Inbox-Favorite-Heart--Streamline-Core">
+  <desc>
+    Inbox Favorite Heart Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="inbox-favorite-heart--mail-envelope-email-message-heart-favorite-like-love-important-bookmark">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.5h-3c-0.26522 0 -0.51957 -0.10536 -0.707107 -0.29289C0.605357 9.01957 0.5 8.76522 0.5 8.5v-7c0 -0.26522 0.105357 -0.51957 0.292893 -0.707107C0.98043 0.605357 1.23478 0.5 1.5 0.5h10c0.2652 0 0.5196 0.105357 0.7071 0.292893 0.1875 0.187537 0.2929 0.441887 0.2929 0.707107V5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.5 1.76001 6 4.24 6 -4.24" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10 8.99104c1.17 -2.59516 3.5 -1.29257 3.5 0.65129C13.5 12.1974 10 13.5 10 13.5s-3.5 -1.3026 -3.5 -3.90777c0 -1.94386 2.33 -3.24645 3.5 -0.60119Z" stroke-width="1"></path>
+  </g>
+</svg>

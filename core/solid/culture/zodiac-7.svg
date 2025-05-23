@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="zodiac-7--sign-astrology-stars-space-ares"><path id="Vector 1239 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M.106.553A1 1 0 0 1 1.447.106C3.065.914 5.605 3.164 7 7.019 8.395 3.164 10.935.914 12.553.106a1 1 0 1 1 .894 1.788C11.771 2.733 8 6.195 8 13a1 1 0 1 1-2 0C6 6.195 2.23 2.733.553 1.894A1 1 0 0 1 .106.553Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Zodiac-7--Streamline-Core">
+  <desc>
+    Zodiac 7 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="zodiac-7--sign-astrology-stars-space-ares">
+    <path id="Vector 1239 (Stroke)" fill="#000000" fill-rule="evenodd" d="M0.105578 0.552761C0.352567 0.0587828 0.953241 -0.141442 1.44722 0.105548 3.06455 0.914215 5.605 3.16432 7.00001 7.01866 8.39501 3.16432 10.9355 0.914215 12.5528 0.105548c0.494 -0.24699 1.0946 -0.0467652 1.3416 0.447213 0.247 0.493979 0.0468 1.094649 -0.4472 1.341639C11.7709 2.73257 8.00001 6.19536 8.00001 13c0 0.5523 -0.44772 1 -1 1 -0.55229 0 -1 -0.4477 -1 -1 0 -6.80464 -3.77088 -10.26743 -5.447218 -11.1056C0.0588133 1.64741 -0.141411 1.04674 0.105578 0.552761Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

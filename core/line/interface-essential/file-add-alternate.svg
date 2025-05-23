@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="file-add-alternate--file-common-add"><path id="Vector" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M2.5 5V1.5a1 1 0 0 1 1-1H10L13.5 4v8.5a1 1 0 0 1-1 1h-5"></path><path id="Vector_2" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7.5v6"></path><path id="Vector_3" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" d="M.5 10.5h6"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="File-Add-Alternate--Streamline-Core">
+  <desc>
+    File Add Alternate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="file-add-alternate--file-common-add">
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 5V1.5c0 -0.26522 0.10536 -0.51957 0.29289 -0.707107C2.98043 0.605357 3.23478 0.5 3.5 0.5H10L13.5 4v8.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7.5v6" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10.5h6" stroke-width="1"></path>
+  </g>
+</svg>

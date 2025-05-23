@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="heart-rate-search--health-medical-monitor-heart-rate-search"><path id="Ellipse 650" fill="#37d7ff" d="M.75 6.25a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0-11 0"></path><path id="Union" fill="#3e3e3e" fill-rule="evenodd" d="M1.5 6.25a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1-9.5 0ZM6.25 0a6.25 6.25 0 1 0 3.656 11.32l2.387 2.387a1 1 0 0 0 1.414-1.414L11.32 9.906A6.25 6.25 0 0 0 6.25 0Z" clip-rule="evenodd"></path><path id="Vector 2105 (Stroke)" fill="#3e3e3e" fill-rule="evenodd" d="M5.428 4.181c.228.01.432.142.534.346L6.998 6.61l.62-.663a.625.625 0 0 1 .457-.197h1.38a.625.625 0 1 1 0 1.25h-1.11L7.296 8.12a.625.625 0 0 1-1.015-.148l-.931-1.87-.36.595A.625.625 0 0 1 4.454 7H3.046a.625.625 0 1 1 0-1.25H4.1l.766-1.267a.625.625 0 0 1 .56-.302Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Heart-Rate-Search--Streamline-Core">
+  <desc>
+    Heart Rate Search Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="heart-rate-search--health-medical-monitor-heart-rate-search">
+    <path id="Ellipse 650" fill="#8fbffa" d="M0.75 6.25a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0 -11 0" stroke-width="1"></path>
+    <path id="Union" fill="#2859c5" fill-rule="evenodd" d="M1.5 6.25a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1 -9.5 0ZM6.25 0a6.25 6.25 0 1 0 3.656 11.32l2.387 2.387a1 1 0 0 0 1.414 -1.414L11.32 9.906A6.25 6.25 0 0 0 6.25 0Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector 2105 (Stroke)" fill="#2859c5" fill-rule="evenodd" d="M5.428 4.181c0.228 0.01 0.432 0.142 0.534 0.346L6.998 6.61l0.62 -0.663a0.625 0.625 0 0 1 0.457 -0.197h1.38a0.625 0.625 0 1 1 0 1.25h-1.11L7.296 8.12a0.625 0.625 0 0 1 -1.015 -0.148l-0.931 -1.87 -0.36 0.595A0.625 0.625 0 0 1 4.454 7H3.046a0.625 0.625 0 1 1 0 -1.25H4.1l0.766 -1.267a0.625 0.625 0 0 1 0.56 -0.302Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>

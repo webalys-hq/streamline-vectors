@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14"><g id="webcam--webcam-camera-future-tech-chat-skype-technology-video"><path id="Union" fill="#3e3e3e" d="M13.107 12.655a.75.75 0 1 1-1.114 1.005 6.648 6.648 0 0 0-1.864-1.441H3.871a6.65 6.65 0 0 0-1.864 1.441.75.75 0 0 1-1.114-1.005 8.152 8.152 0 0 1 1.653-1.4h8.908a8.15 8.15 0 0 1 1.653 1.4Z"></path><path id="Ellipse 702" fill="#37d7ff" d="M.5 6.5a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0-13 0"></path><path id="Union_2" fill="#3e3e3e" fill-rule="evenodd" d="M7 3.27a3.25 3.25 0 1 0 0 6.5 3.25 3.25 0 0 0 0-6.5Z" clip-rule="evenodd"></path><path id="Vector (Stroke)" fill="#37d7ff" fill-rule="evenodd" d="M6 6.52a1 1 0 1 1 2 0 1 1 0 0 1-2 0Z" clip-rule="evenodd"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14" id="Webcam--Streamline-Core">
+  <desc>
+    Webcam Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="webcam--webcam-camera-future-tech-chat-skype-technology-video">
+    <path id="Union" fill="#2859c5" d="M13.107 12.655a0.75 0.75 0 1 1 -1.114 1.005 6.648 6.648 0 0 0 -1.864 -1.441l-6.258 0a6.65 6.65 0 0 0 -1.864 1.441 0.75 0.75 0 0 1 -1.114 -1.005 8.152 8.152 0 0 1 1.653 -1.4l8.908 0a8.15 8.15 0 0 1 1.653 1.4Z" stroke-width="1"></path>
+    <path id="Ellipse 702" fill="#8fbffa" d="M0.5 6.5a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
+    <path id="Union_2" fill="#2859c5" fill-rule="evenodd" d="M7 3.27a3.25 3.25 0 1 0 0 6.5 3.25 3.25 0 0 0 0 -6.5Z" clip-rule="evenodd" stroke-width="1"></path>
+    <path id="Vector (Stroke)" fill="#8fbffa" fill-rule="evenodd" d="M6 6.52a1 1 0 1 1 2 0 1 1 0 0 1 -2 0Z" clip-rule="evenodd" stroke-width="1"></path>
+  </g>
+</svg>
