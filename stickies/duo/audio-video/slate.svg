@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40" id="Slate--Streamline-Stickies">
+  <desc>
+    Slate Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#00034a" stroke="#00034a" stroke-miterlimit="10" d="M19.2778 1.83901c5.204 0 13.727 0.28 16.46 2.271 0.612 0.446 1.784 1.563 2.125 2.168 1.493 1.377 1.637 8.49199 1.637 14.44399 0 5.951 -0.144 13.096 -1.637 14.445 -1.493 2.648 -11.363 2.994 -17.14 2.994 -4.894 0 -12.72204 -0.248 -15.91104 -1.933 -0.741 -0.391 -2.262 -1.773 -2.675 -2.506C0.643756 32.345 0.499756 25.2 0.499756 19.278c0 -5.922 0.144 -13.06799 1.637004 -14.44499 1.493 -2.648 11.36304 -2.995 17.14004 -2.995l0.001 0.001Z" stroke-width="1"></path>
+    <path fill="#9bff00" stroke="#00034a" stroke-miterlimit="10" d="M36.4188 4.83301c-1.493 -2.648 -11.363 -2.995 -17.141 -2.995 -5.778 0 -15.64804 0.347 -17.14104 2.995C0.643756 6.21001 0.499756 13.355 0.499756 19.278c0 5.922 0.144 13.067 1.637004 14.444 1.493 2.648 11.36304 2.995 17.14004 2.995 5.779 0 15.649 -0.347 17.142 -2.995 1.492 -1.348 1.637 -8.493 1.637 -14.444 0 -5.951 -0.145 -13.06799 -1.637 -14.44499Z" stroke-width="1"></path>
+    <path fill="#ffffff" stroke="#00034a" stroke-miterlimit="10" d="M31.5168 16.6c-1.06 -1.376 -8.127 -1.348 -12.24 -1.348 -4.111 0 -11.18005 0 -12.23805 1.349 -1.07 0.683 -1.175 4.343 -1.175 7.376 0 3.033 0.106 6.683 1.175 7.367 1.059 1.377 8.12705 1.348 12.23905 1.348s11.18 0 12.239 -1.348c1.069 -0.684 1.175 -4.343 1.175 -7.367s-0.106 -6.694 -1.175 -7.377Z" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M34.0298 11.468s-4.92 -0.24 -14.752 -0.24c-9.83204 0 -14.75304 0.24 -14.75304 0.24" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M28.6668 24.17s-3.13 -0.193 -9.39 -0.193c-6.259 0 -9.38804 0.193 -9.38804 0.193" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M14.1548 19.278v4.699" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M24.3998 23.977v-4.7" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M16.7158 23.977v4.69" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="m7.20176 11.227 2.688 -5.36299" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="m13.9138 11.227 2.677 -5.36299" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="m20.6158 11.227 2.687 -5.36299" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="m27.3278 11.227 2.677 -5.36299" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h40v40H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

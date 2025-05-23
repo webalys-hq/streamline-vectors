@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40" id="Cancel-2--Streamline-Stickies">
+  <desc>
+    Cancel 2 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#00034a" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.02 0.5C8.80002 0.5 0.515015 8.784 0.515015 19.003 0.515015 29.55 10.433 39.468 20.98 39.468c10.219 0 18.503 -8.285 18.503 -18.504C39.484 10.418 29.566 0.5 19.019 0.5h0.001Z" stroke-width="1"></path>
+    <path fill="#9bff00" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.003 37.506c10.219 0 18.503 -8.284 18.503 -18.503S29.222 0.5 19.003 0.5 0.5 8.784 0.5 19.003s8.284 18.503 18.503 18.503Z" stroke-width="1"></path>
+    <path fill="#ffffff" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M28.568 24.136c-0.152 -0.73 -2.192 -2.988 -4.251 -5.133 2.059 -2.144 4.099 -4.403 4.25 -5.133 0.437 -0.845 -0.597 -2.002 -1.508 -2.923 -0.91 -0.92 -2.078 -1.898 -2.923 -1.509 -0.73 0.152 -2.988 2.192 -5.133 4.251C16.859 11.63 14.6 9.59 13.87 9.44c-0.845 -0.437 -2.002 0.597 -2.913 1.508s-1.95501 2.078 -1.51901 2.923c0.152 0.73 2.19201 2.989 4.25101 5.133 -2.059 2.145 -4.09901 4.403 -4.25001 5.133 -0.437 0.845 0.59701 2.003 1.50801 2.923 0.911 0.92 2.078 1.945 2.923 1.509 0.73 -0.152 2.989 -2.192 5.133 -4.251 2.145 2.059 4.403 4.099 5.133 4.25 0.845 0.437 2.003 -0.597 2.923 -1.508 0.92 -0.91 1.945 -2.079 1.509 -2.924Z" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h40v40H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

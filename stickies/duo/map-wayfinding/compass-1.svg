@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40" id="Compass-1--Streamline-Stickies">
+  <desc>
+    Compass 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#00034a" stroke="#00034a" stroke-miterlimit="10" d="M19.4688 0.5C8.99276 0.5 0.499756 8.993 0.499756 19.469c0 10.571 9.340004 19.911 19.912044 19.911 10.476 0 18.968 -8.492 18.968 -18.969C39.3798 9.841 30.0388 0.5 19.4688 0.5Z" stroke-width="1"></path>
+    <path fill="#9bff00" stroke="#00034a" stroke-miterlimit="10" d="M19.4688 38.438c10.476 0 18.969 -8.493 18.969 -18.97C38.4378 8.994 29.9448 0.5 19.4678 0.5 8.99376 0.5 0.499756 8.993 0.499756 19.469S8.99276 38.438 19.4688 38.438Z" stroke-width="1"></path>
+    <path fill="#ffffff" stroke="#00034a" stroke-miterlimit="10" d="M24.6338 24.634c0.34 -0.33 1.625 -1.294 3.502 -6.81 0.7169 -2.0252 1.1935 -4.1276 1.42 -6.264 0.017 -0.2906 -0.0277 -0.5815 -0.1312 -0.8536 -0.1035 -0.2721 -0.2634 -0.5191 -0.4693 -0.72498 -0.2058 -0.20584 -0.4529 -0.36576 -0.725 -0.46924 -0.272 -0.10349 -0.5629 -0.1482 -0.8535 -0.13118 -2.1363 0.22719 -4.2386 0.7038 -6.264 1.42 -1.732 0.594 -5.418 2.092 -6.81 3.493 -1.39 1.4 -2.918 5.087 -3.492 6.809 -0.717 2.0255 -1.1936 4.1283 -1.42004 6.265 -0.01701 0.2906 0.02769 0.5815 0.13118 0.8536s0.26341 0.5191 0.46924 0.725c0.20582 0.2058 0.45292 0.3657 0.72502 0.4692 0.2721 0.1035 0.563 0.1482 0.8536 0.1312 2.1364 -0.2265 4.2388 -0.7031 6.264 -1.42 5.526 -1.849 6.499 -3.182 6.8 -3.493Z" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M16.7158 16.152s4.046 0 5.058 0.972c1.012 0.973 0.973 5.059 0.973 5.059" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M3.21376 19.469h2.704" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M33.0198 19.469h2.704" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M19.4688 3.214v2.704" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="M19.4688 33.02v2.704" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="m7.96976 7.97 1.917 1.917" stroke-width="1"></path>
+    <path stroke="#00034a" stroke-linecap="round" stroke-miterlimit="10" d="m29.0498 29.05 1.917 1.917" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h40v40H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

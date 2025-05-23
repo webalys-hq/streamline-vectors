@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40" id="Time--Streamline-Stickies">
+  <desc>
+    Time Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#00034a" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.1081 1.06628c-9.99859 0 -18.10459 8.106 -18.10459 18.10452 0 10.2882 9.61709 19.763 19.88849 19.763 9.9985 0 18.1045 -8.1061 18.1045 -18.1046 0 -10.2882 -9.6171 -19.76292 -19.8884 -19.76292Z" stroke-width="1"></path>
+    <path fill="#9bff00" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.1081 37.2754c9.9997 0 18.1045 -8.106 18.1045 -18.1046 0 -9.99852 -8.1048 -18.10452 -18.1045 -18.10452 -9.99859 0 -18.10459 8.106 -18.10459 18.10452 0 9.9986 8.106 18.1046 18.10459 18.1046Z" stroke-width="1"></path>
+    <path fill="#ffffff" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.1081 31.2405c6.6661 0 12.0697 -5.4036 12.0697 -12.0697 0 -6.6661 -5.4036 -12.06973 -12.0697 -12.06973 -6.6649 0 -12.0698 5.40363 -12.0698 12.06973s5.4049 12.0697 12.0698 12.0697Z" stroke-width="1"></path>
+    <path fill="#9bff00" stroke="#00034a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.4599 18.2173c0 -3.7657 -0.9294 -6.4211 -2.0881 -6.4211 -1.1587 0 -2.1001 1.6656 -2.1001 5.3107 0 4.5503 1.9311 5.2865 4.9968 5.2986 3.0657 0.0121 4.9848 -0.9294 4.9969 -2.0881 0.0121 -1.1587 -1.2191 -2.1001 -5.8055 -2.1001Z" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h40v40H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>
