@@ -1,15 +1,15 @@
-# Guidance
+# Flex free icons
 
 **Licensed under the Creative Commons - CC BY 4.0**
 
+Flex redefines icons with smooth, flowing curves, moving beyond rigid structures for a more natural, dynamic aesthetic. Designed on a 14px grid, it brings fluidity and elegance to any design. With adjustable size, stroke, and color, these icons adapt seamlessly to any project.
+
 Get instant access to these icons with our free app: [Streamline](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line). There you can copy or download the icons in SVG, PNG, and PDF formats, customize them, and export them to your favorite design tool.
 
-### About Streamline
+## Links
 
-- [Streamline homepage](https://streamlinehq.com/?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline web app](https://streamlinehq.com/icons?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Mac desktop app](https://streamlinehq.com/download?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Figma plugin](https://www.figma.com/community/plugin/852192486284901337/streamline-icons-illustrations-elements-emoji)
+- [Streamline homepage](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Flex icons in our app](https://www.streamlinehq.com/icons/flex?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
 
 ### Open-source license
 

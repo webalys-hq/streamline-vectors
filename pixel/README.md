@@ -1,15 +1,15 @@
-# Guidance
+# Pixel free icons
 
 **Licensed under the Creative Commons - CC BY 4.0**
 
+Pixel will bring you back to the 80s. This nostalgic collection infuses your designs with the retro charm and pixel art aesthetic inspired by the work of Susan Kare. All Pixel icons are designed on a 32px grid.
+
 Get instant access to these icons with our free app: [Streamline](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line). There you can copy or download the icons in SVG, PNG, and PDF formats, customize them, and export them to your favorite design tool.
 
-### About Streamline
+## Links
 
-- [Streamline homepage](https://streamlinehq.com/?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline web app](https://streamlinehq.com/icons?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Mac desktop app](https://streamlinehq.com/download?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Figma plugin](https://www.figma.com/community/plugin/852192486284901337/streamline-icons-illustrations-elements-emoji)
+- [Streamline homepage](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Pixel icons in our app](https://www.streamlinehq.com/icons/pixel-icons?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
 
 ### Open-source license
 

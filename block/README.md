@@ -1,15 +1,15 @@
-# Guidance
+# Block – Free icons
 
 **Licensed under the Creative Commons - CC BY 4.0**
 
+Block is minimalism at its best. This set is inspired by the Bauhaus principles of simplicity and geometric balance, combining clarity and modernity while focusing on the purity of forms. All Block icons are designed on a 16px grid using filled shapes. – Made by Streamline
+
 Get instant access to these icons with our free app: [Streamline](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line). There you can copy or download the icons in SVG, PNG, and PDF formats, customize them, and export them to your favorite design tool.
 
-### About Streamline
+## Links
 
-- [Streamline homepage](https://streamlinehq.com/?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline web app](https://streamlinehq.com/icons?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Mac desktop app](https://streamlinehq.com/download?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Figma plugin](https://www.figma.com/community/plugin/852192486284901337/streamline-icons-illustrations-elements-emoji)
+- [Streamline homepage](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Block – Free icons in our app](https://www.streamlinehq.com/icons/blocks-bauhaus?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
 
 ### Open-source license
 

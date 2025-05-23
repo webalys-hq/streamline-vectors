@@ -1,15 +1,15 @@
-# Guidance
+# Cyber free icons
 
 **Licensed under the Creative Commons - CC BY 4.0**
 
+Cyber are the icons of the future. This retrofuturistic family only uses straight lines and sharp angles, reflecting a fascinating personality with obvious cyberpunk vibes. All Cyber icons are designed on a 24px grid with a 1px default stroke.
+
 Get instant access to these icons with our free app: [Streamline](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line). There you can copy or download the icons in SVG, PNG, and PDF formats, customize them, and export them to your favorite design tool.
 
-### About Streamline
+## Links
 
-- [Streamline homepage](https://streamlinehq.com/?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline web app](https://streamlinehq.com/icons?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Mac desktop app](https://streamlinehq.com/download?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
-- [Streamline Figma plugin](https://www.figma.com/community/plugin/852192486284901337/streamline-icons-illustrations-elements-emoji)
+- [Streamline homepage](https://streamlinehq.com?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
+- [Cyber icons in our app](https://www.streamlinehq.com/icons/cyber?utm_source=github&utm_medium=free-file&utm_campaign=ui-line)
 
 ### Open-source license
 
