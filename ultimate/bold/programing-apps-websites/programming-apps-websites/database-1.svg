@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Database-1--Streamline-Ultimate">
+  <desc>
+    Database 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Database-1--Streamline-Ultimate.svg">
+    <path d="M11 19.77v2a0.25 0.25 0 0 1 -0.25 0.25H5.57a1 1 0 0 0 0 2h12.86a1 1 0 0 0 0 -2h-5.19a0.25 0.25 0 0 1 -0.25 -0.25v-2a1 1 0 0 0 -1 -1 1 1 0 0 0 -0.99 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M20.9 23a1 1 0 0 0 1 1h1a1 1 0 0 0 0 -2h-1a1 1 0 0 0 -1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M1.12 24h1a1 1 0 1 0 0 -2h-1a1 1 0 0 0 0 2Z" fill="#000000" stroke-width="1"></path>
+    <path d="M21.64 11.67a0.26 0.26 0 0 0 -0.14 -0.23 0.25 0.25 0 0 0 -0.27 0c-1.91 1.55 -5.52 2.37 -9 2.37s-7.07 -0.82 -9 -2.37a0.23 0.23 0 0 0 -0.26 0 0.24 0.24 0 0 0 -0.14 0.23v2.18c0 2.19 4.2 4 9.39 4s9.39 -1.77 9.39 -4Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12.25 8.91c-3.46 0 -7.07 -0.82 -9 -2.38a0.25 0.25 0 0 0 -0.4 0.2v2.18c0 2.19 4.2 4 9.39 4s9.39 -1.77 9.39 -4V6.73a0.25 0.25 0 0 0 -0.41 -0.2c-1.9 1.56 -5.51 2.38 -8.97 2.38Z" fill="#000000" stroke-width="1"></path>
+    <path d="M2.86 3.97a9.39 3.95 0 1 0 18.78 0 9.39 3.95 0 1 0 -18.78 0" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

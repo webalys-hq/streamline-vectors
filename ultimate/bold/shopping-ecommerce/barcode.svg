@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Barcode--Streamline-Ultimate">
+  <desc>
+    Barcode Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Barcode--Streamline-Ultimate.svg">
+    <path d="M5 7a1 1 0 0 0 -1 1v7.5a1 1 0 0 0 2 0V8a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M8.5 7a1 1 0 0 0 -1 1v4a1 1 0 0 0 2 0V8a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12 7a1 1 0 0 0 -1 1v4a1 1 0 0 0 2 0V8a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M15.5 7a1 1 0 0 0 -1 1v4a1 1 0 0 0 2 0V8a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M8.5 14a1 1 0 0 0 -1 1v0.5a1 1 0 0 0 2 0V15a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12 14a1 1 0 0 0 -1 1v0.5a1 1 0 0 0 2 0V15a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M15.5 14a1 1 0 0 0 -1 1v0.5a1 1 0 0 0 2 0V15a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M19 7a1 1 0 0 0 -1 1v7.5a1 1 0 0 0 2 0V8a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M21 3H3a3 3 0 0 0 -3 3v12a3 3 0 0 0 3 3h18a3 3 0 0 0 3 -3V6a3 3 0 0 0 -3 -3Zm1 15a1 1 0 0 1 -1 1H3a1 1 0 0 1 -1 -1V6a1 1 0 0 1 1 -1h18a1 1 0 0 1 1 1Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

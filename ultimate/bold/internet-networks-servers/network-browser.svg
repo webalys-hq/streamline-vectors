@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Network-Browser--Streamline-Ultimate">
+  <desc>
+    Network Browser Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Network-Browser--Streamline-Ultimate.svg">
+    <path d="M5.44 15.5H3a1 1 0 0 1 -1 -1V6a1 1 0 0 1 1 -1h15.5a1 1 0 0 1 1 1v0.5a1 1 0 0 0 2 0V3a3 3 0 0 0 -3 -3H3a3 3 0 0 0 -3 3v11.5a3 3 0 0 0 3 3h2.44a1 1 0 1 0 0 -2ZM6 2.5a1 1 0 1 1 1 1 1 1 0 0 1 -1 -1Zm4.5 1a1 1 0 1 1 1 -1 1 1 0 0 1 -1 1Zm-6 -1a1 1 0 1 1 -1 -1 1 1 0 0 1 1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M16 8a8 8 0 1 0 8 8 8 8 0 0 0 -8 -8Zm6.15 7.11h-2.76a11.19 11.19 0 0 0 -1.57 -5.06 6.23 6.23 0 0 1 4.33 5.06ZM16 21.49a9.11 9.11 0 0 1 -1.61 -4.6h3.22a9.11 9.11 0 0 1 -1.61 4.6Zm-1.61 -6.38a9.11 9.11 0 0 1 1.61 -4.6 9.11 9.11 0 0 1 1.61 4.6Zm-0.21 -5.06a11.19 11.19 0 0 0 -1.57 5.06H9.85a6.23 6.23 0 0 1 4.33 -5.06Zm-4.33 6.84h2.76A11.19 11.19 0 0 0 14.18 22a6.23 6.23 0 0 1 -4.33 -5.11Zm8 5.06a11.19 11.19 0 0 0 1.57 -5.06h2.76A6.23 6.23 0 0 1 17.82 22Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

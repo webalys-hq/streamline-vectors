@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Voice-Id-Approved--Streamline-Ultimate">
+  <desc>
+    Voice Id Approved Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Voice-Id-Approved--Streamline-Ultimate.svg">
+    <path d="M1 2.5a1 1 0 0 0 -1 1v14a1 1 0 0 0 2 0v-14a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M4.5 6.5a1 1 0 0 0 -1 1v6a1 1 0 0 0 2 0v-6a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M8 5a1 1 0 0 0 -1 1v9a1 1 0 0 0 2 0V6a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M22 10.5a1 1 0 0 0 1 -1v-6a1 1 0 0 0 -2 0v6a1 1 0 0 0 1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12.5 11V1a1 1 0 0 0 -2 0v10a1 1 0 0 0 2 0Z" fill="#000000" stroke-width="1"></path>
+    <path d="M18.5 9.5a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -2 0v1a1 1 0 0 0 1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M15 10a1 1 0 0 0 1 -1V6a1 1 0 0 0 -2 0v3a1 1 0 0 0 1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M17.5 11a6.5 6.5 0 1 0 6.5 6.5 6.51 6.51 0 0 0 -6.5 -6.5Zm3.5 5.35 -2.9 3.88a1.75 1.75 0 0 1 -2.64 0.18l-1.5 -1.5a1 1 0 1 1 1.41 -1.41l1.1 1.09a0.24 0.24 0 0 0 0.19 0.08 0.27 0.27 0 0 0 0.19 -0.1l2.55 -3.41a1 1 0 0 1 1.4 -0.2 1 1 0 0 1 0.2 1.39Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

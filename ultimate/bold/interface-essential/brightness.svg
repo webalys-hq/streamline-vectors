@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Brightness--Streamline-Ultimate">
+  <desc>
+    Brightness Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Brightness--Streamline-Ultimate.svg">
+    <path d="M7.5 12a4.5 4.5 0 1 0 9 0 4.5 4.5 0 1 0 -9 0" fill="#000000" stroke-width="1"></path>
+    <path d="M12 5.83a1 1 0 0 0 1 -1V1a1 1 0 0 0 -2 0v3.83a1 1 0 0 0 1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M12 18.17a1 1 0 0 0 -1 1V23a1 1 0 0 0 2 0v-3.83a1 1 0 0 0 -1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M6.22 7.64a1 1 0 0 0 1.41 0 1 1 0 0 0 0 -1.42l-2.7 -2.7a1 1 0 0 0 -1.42 1.41Z" fill="#000000" stroke-width="1"></path>
+    <path d="M17.78 16.37a1 1 0 0 0 -1.41 0 1 1 0 0 0 0 1.41l2.7 2.71a1 1 0 0 0 1.42 0 1 1 0 0 0 0 -1.42Z" fill="#000000" stroke-width="1"></path>
+    <path d="M5.83 12.5a1 1 0 0 0 -1 -1H1a1 1 0 0 0 0 2h3.83a1 1 0 0 0 1 -1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M23 11.5h-3.83a1 1 0 0 0 0 2H23a1 1 0 0 0 0 -2Z" fill="#000000" stroke-width="1"></path>
+    <path d="m6.22 16.37 -2.71 2.7a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l2.7 -2.71a1 1 0 0 0 -1.41 -1.41Z" fill="#000000" stroke-width="1"></path>
+    <path d="M17.07 7.92a1 1 0 0 0 0.71 -0.28l2.71 -2.71a1 1 0 1 0 -1.42 -1.41l-2.7 2.7a1 1 0 0 0 0 1.42 1 1 0 0 0 0.7 0.28Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

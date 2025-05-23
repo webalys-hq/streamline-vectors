@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Playlist-Songs--Streamline-Ultimate">
+  <desc>
+    Playlist Songs Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Playlist-Songs--Streamline-Ultimate.svg">
+    <path d="M7 3h10a1 1 0 0 0 0 -2H7a1 1 0 0 0 0 2Z" fill="#000000" stroke-width="1"></path>
+    <path d="M0 2a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" fill="#000000" stroke-width="1"></path>
+    <path d="M6 8a1 1 0 0 0 1 1h10a1 1 0 0 0 0 -2H7a1 1 0 0 0 -1 1Z" fill="#000000" stroke-width="1"></path>
+    <path d="M0 8a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" fill="#000000" stroke-width="1"></path>
+    <path d="M10 13H7a1 1 0 0 0 0 2h3a1 1 0 0 0 0 -2Z" fill="#000000" stroke-width="1"></path>
+    <path d="M0 14a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" fill="#000000" stroke-width="1"></path>
+    <path d="M24 19.55v-6.84a2 2 0 0 0 -2.37 -2l-6 1.12a2 2 0 0 0 -1.63 2v4.93a0.27 0.27 0 0 1 -0.08 0.19 0.26 0.26 0 0 1 -0.19 0.06h-0.23a2.56 2.56 0 0 0 -1 0.21 2.5 2.5 0 0 0 1 4.79 2.36 2.36 0 0 0 0.75 -0.12A2.49 2.49 0 0 0 16 21.55v-7.31a0.5 0.5 0 0 1 0.41 -0.49l5 -0.93a0.5 0.5 0 0 1 0.59 0.49v3.45a0.27 0.27 0 0 1 -0.08 0.19 0.26 0.26 0 0 1 -0.19 0.06h-0.23a2.56 2.56 0 0 0 -1 0.21 2.5 2.5 0 0 0 1 4.79 2.36 2.36 0 0 0 0.75 -0.12A2.49 2.49 0 0 0 24 19.55Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Network-Signal--Streamline-Ultimate">
+  <desc>
+    Network Signal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g id="Network-Signal--Streamline-Ultimate.svg">
+    <path d="M13.62 4.3a1 1 0 1 0 0 2 4.15 4.15 0 0 1 4.06 4.07 1 1 0 0 0 2 0 6.17 6.17 0 0 0 -6.06 -6.07Z" fill="#000000" stroke-width="1"></path>
+    <path d="M13.54 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1A8.63 8.63 0 0 1 22 10.45a1 1 0 0 0 1 1 1 1 0 0 0 1 -1A10.64 10.64 0 0 0 13.54 0Z" fill="#000000" stroke-width="1"></path>
+    <path d="M8 8a8 8 0 1 0 8 8 8 8 0 0 0 -8 -8Zm6.16 7.12h-2.72a11.36 11.36 0 0 0 -1.57 -5.06 6.23 6.23 0 0 1 4.33 5.05ZM8 21.48a9.17 9.17 0 0 1 -1.61 -4.6h3.27A9.08 9.08 0 0 1 8 21.48Zm-1.57 -6.37A9.24 9.24 0 0 1 8 10.5a9.15 9.15 0 0 1 1.62 4.61Zm-0.21 -5.06a11.36 11.36 0 0 0 -1.57 5.06H1.89a6.23 6.23 0 0 1 4.33 -5.06Zm-4.33 6.83h2.76a11.36 11.36 0 0 0 1.57 5.06 6.23 6.23 0 0 1 -4.33 -5.06Zm8 5.06a11.36 11.36 0 0 0 1.57 -5.06h2.74a6.23 6.23 0 0 1 -4.33 5.06Z" fill="#000000" stroke-width="1"></path>
+  </g>
+</svg>
