@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Underline--Streamline-Ultimate">
+  <desc>
+    Text Underline Streamline Icon: https://streamlinehq.com
+  </desc>
+  <mask id="a" width="22" height="22" x="1" y="1" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#ffffff" d="M1 1h22v22H1V1Z"></path>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#c2f3ff" d="M12.0002 21.1666c5.0625 0 9.1666-4.1041 9.1666-9.1666 0-5.06263-4.1041-9.16669-9.1666-9.16669-5.06265 0-9.1667 4.10406-9.1667 9.16669 0 5.0625 4.10405 9.1666 9.1667 9.1666Z"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.4585 22.5399h21.0833"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M5.125 1.45831V12c0 1.8233.72433 3.572 2.01364 4.8613S10.1767 18.875 12 18.875c1.8233 0 3.5721-.7244 4.8614-2.0137S18.875 13.8233 18.875 12V1.45831"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M2.375 1.45654h5.5"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.125 1.45654h5.5"></path>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Location-Off-Target--Streamline-Ultimate">
+  <desc>
+    Location Off Target Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#b2f0ff" d="M12 18c1.5913 0 3.1174 -0.6321 4.2426 -1.7574C17.3679 15.1174 18 13.5913 18 12c0 -1.5913 -0.6321 -3.11742 -1.7574 -4.24264C15.1174 6.63214 13.5913 6 12 6c-1.5913 0 -3.11742 0.63214 -4.24264 1.75736C6.63214 8.88258 6 10.4087 6 12s0.63214 3.1174 1.75736 4.2426C8.88258 17.3679 10.4087 18 12 18Z" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M15.9169 18.971c-1.5172 0.8557 -3.2723 1.1928 -4.9985 0.9602 -1.72631 -0.2326 -3.32949 -1.0223 -4.56604 -2.2492 -1.23655 -1.2268 -2.0389 -2.8237 -2.28517 -4.5481 -0.24628 -1.7243 0.07699 -3.48198 0.92069 -5.0059" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M8.04395 5.039c1.48463 -0.84291 3.19995 -1.18878 4.89525 -0.98704 1.6953 0.20175 3.2815 0.94054 4.5269 2.10834 1.2453 1.1678 2.0844 2.70337 2.3946 4.3822 0.3101 1.6788 0.0751 3.4128 -0.6708 4.9485" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.9897 1v3" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.9897 20v3" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m22.9903 12 -3.001 0.016" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3.99025 12.016h-2.98" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M2.48975 2.516 22.4577 22.484" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h24v24H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

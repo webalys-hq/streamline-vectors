@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Monitor-Graph-Line--Streamline-Ultimate">
+  <desc>
+    Monitor Graph Line Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#66e1ff" d="M1 15.8242V3.86764c0 -0.38052 0.15116 -0.74547 0.42024 -1.01454 0.26907 -0.26907 0.63402 -0.42024 1.01454 -0.42024H21.5652c0.3805 0 0.7455 0.15117 1.0146 0.42024 0.2691 0.26907 0.4202 0.63402 0.4202 1.01454V15.8242H1Z" stroke-width="1"></path>
+  <path fill="#c2f3ff" d="M18.6957 2.43286H2.43478c-0.38052 0 -0.74547 0.15117 -1.01454 0.42024C1.15116 3.12217 1 3.48712 1 3.86764V15.8242h4.30435L18.6957 2.43286Z" stroke-width="1"></path>
+  <path fill="#ffffff" d="M1 15.8242h22v2.3913c0 0.3805 -0.1511 0.7455 -0.4202 1.0146 -0.2691 0.2691 -0.6341 0.4202 -1.0146 0.4202H2.43478c-0.38052 0 -0.74547 -0.1511 -1.01454 -0.4202C1.15116 18.961 1 18.596 1 18.2155v-2.3913Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M5.3042 21.5671h13.3913" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.521 19.6541v1.9131" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1 15.828h22" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M21.5652 2.43677H2.43478C1.64237 2.43677 1 3.07914 1 3.87155V18.2193c0 0.7925 0.64237 1.4348 1.43478 1.4348H21.5652c0.7924 0 1.4348 -0.6423 1.4348 -1.4348V3.87155c0 -0.79241 -0.6424 -1.43478 -1.4348 -1.43478Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m1 12.9585 5.5 -5.5 3.8261 3.8261 3.5869 -3.58697" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M18.8149 5.78459v-0.95653" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M20.2498 5.78076h-1.9446c-0.298 0.00021 -0.5867 0.10411 -0.8165 0.29387 -0.2297 0.18978 -0.3864 0.45359 -0.4429 0.7462 -0.0566 0.29261 -0.0095 0.59577 0.133 0.8575 0.1425 0.26173 0.3716 0.46571 0.6482 0.57695l1.9742 0.78913c0.2771 0.11086 0.507 0.3148 0.65 0.57675 0.143 0.26195 0.1902 0.56554 0.1336 0.85864 -0.0566 0.293 -0.2136 0.5571 -0.4438 0.7469 -0.2304 0.1899 -0.5196 0.2936 -0.818 0.2932h-1.9427" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M18.8149 12.4802v-0.9565" stroke-width="1"></path>
+</svg>

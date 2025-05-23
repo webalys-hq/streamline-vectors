@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="House-Signal--Streamline-Ultimate">
+  <desc>
+    House Signal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#e3e3e3" d="M17.2609 10.5653h-2.3913v5.2608h2.3913v-5.2608Z" stroke-width="1"></path>
+  <path fill="#ffbc44" d="M19.1739 16.7827 12 10.5653l-7.17383 6.2174h2.39129c0.12684 0 0.24849 0.0504 0.33818 0.14 0.08969 0.0897 0.14008 0.2114 0.14008 0.3382v5.2608c0 0.1269 0.05039 0.2486 0.14008 0.3383 0.08968 0.0896 0.21133 0.14 0.33818 0.14h7.65212c0.1268 0 0.2485 -0.0504 0.3382 -0.14 0.0896 -0.0897 0.1401 -0.2114 0.1401 -0.3383v-5.2608c0 -0.1268 0.0504 -0.2485 0.14 -0.3382 0.0897 -0.0896 0.2114 -0.14 0.3382 -0.14h2.3913Z" stroke-width="1"></path>
+  <path fill="#ffdda1" d="M11.6873 12.75c0.0868 -0.0751 0.1979 -0.1165 0.3127 -0.1165 0.1149 0 0.226 0.0414 0.3128 0.1165l4.6535 4.0327h2.2076L12 10.5653l-7.17383 6.2174h2.20764L11.6873 12.75Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M7.6958 18.2174v4.3043c0 0.1269 0.05039 0.2485 0.14008 0.3382 0.08969 0.0897 0.21134 0.1401 0.33818 0.1401h7.65214c0.1268 0 0.2485 -0.0504 0.3382 -0.1401 0.0896 -0.0897 0.14 -0.2113 0.14 -0.3382v-4.3043" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M4.82617 16.7827 12 10.5653l7.1739 6.2174" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M15.3481 10.5653h1.4348c0.1269 0 0.2485 0.0504 0.3382 0.14 0.0897 0.0898 0.1401 0.2114 0.1401 0.3383v1.4347" stroke-width="1"></path>
+  <path fill="#c77f67" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M13.435 19.6522c0 -0.1268 -0.0504 -0.2485 -0.1401 -0.3382 -0.0897 -0.0896 -0.2113 -0.14 -0.3382 -0.14h-1.913c-0.1268 0 -0.2485 0.0504 -0.3382 0.14 -0.0897 0.0897 -0.1401 0.2114 -0.1401 0.3382V23h2.8696v-3.3478Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M15.2608 7.69577C14.3844 6.853 13.2158 6.38226 12 6.38226c-1.2158 0 -2.3844 0.47074 -3.26074 1.31351" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M17.2178 5.79325C15.8156 4.44452 13.9456 3.69116 12 3.69116c-1.9456 0 -3.81556 0.75336 -5.21777 2.10209" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M19.1739 3.88976C17.2459 2.03564 14.6749 1 12 1 9.32516 1 6.75417 2.03564 4.82617 3.88976" stroke-width="1"></path>
+</svg>

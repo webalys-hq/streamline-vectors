@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Maze-Strategy--Streamline-Ultimate">
+  <desc>
+    Maze Strategy Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#78eb7b" d="M21.087 1.95654H2.91306c-0.52826 0 -0.95652 0.42826 -0.95652 0.95652V21.087c0 0.5283 0.42826 0.9565 0.95652 0.9565H21.087c0.5283 0 0.9565 -0.4282 0.9565 -0.9565V2.91306c0 -0.52826 -0.4282 -0.95652 -0.9565 -0.95652Z" stroke-width="1"></path>
+  <path fill="#c9f7ca" d="M21.087 1.95654H2.91306c-0.25368 0 -0.49698 0.10078 -0.67636 0.28016 -0.17938 0.17938 -0.28016 0.42268 -0.28016 0.67636V21.087c0.00198 0.1558 0.04272 0.3086 0.11854 0.4447 0.07581 0.1361 0.18432 0.2511 0.31572 0.3348L21.8675 2.3908c-0.084 -0.13136 -0.1992 -0.23982 -0.3355 -0.31561 -0.1362 -0.07579 -0.2891 -0.11657 -0.445 -0.11865Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M18.2172 1.95654h2.8696c0.2536 0 0.497 0.10078 0.6763 0.28016 0.1794 0.17938 0.2802 0.42268 0.2802 0.67636V21.087c0 0.2536 -0.1008 0.497 -0.2802 0.6763 -0.1793 0.1794 -0.4227 0.2802 -0.6763 0.2802h-6.6957" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.5219 23v-4.7826H7.6958v-5.7391h2.8696V7.69565h2.8695V1" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M10.5654 3.86957 13.435 1l2.8399 2.86957" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M4.82617 1.95654v4.78261" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.95654 9.60874h5.73913V5.78265" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M9.60889 15.3478h4.78261v3.8261" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M4.82611 12.4783v7.6522h3.82608v1.913H2.91306c-0.25368 0 -0.49698 -0.1008 -0.67636 -0.2802 -0.17938 -0.1793 -0.28016 -0.4227 -0.28016 -0.6763V2.91306c0 -0.25368 0.10078 -0.49698 0.28016 -0.67636 0.17938 -0.17938 0.42268 -0.28016 0.67636 -0.28016h5.73913" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M17.2607 22.0435v-8.6087h1.9131" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M22.0434 19.174h-1.913" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M22.0434 16.3044h-1.913" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M22.0433 10.5652h-8.6087v1.9131" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.3042 10.5653V5.78265h2.8696V7.6957" stroke-width="1"></path>
+</svg>

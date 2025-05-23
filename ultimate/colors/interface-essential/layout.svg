@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Layout--Streamline-Ultimate">
+  <desc>
+    Layout Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#66e1ff" d="M2.62586 1.68872c-0.51773 0 -0.93738 0.41965 -0.93738 0.93738V21.374c0 0.5177 0.41965 0.9373 0.93738 0.9373h4.68701V1.68872H2.62586Z" stroke-width="1"></path>
+  <path fill="#c2f3ff" d="M7.31287 4.50087V1.68872H2.62586c-0.51773 0 -0.93738 0.41965 -0.93738 0.93738v1.87477h5.62439Z" stroke-width="1"></path>
+  <path fill="#ffffff" d="M21.3738 1.68872H7.31299V22.3113H21.3738c0.5178 0 0.9374 -0.4196 0.9374 -0.9373V2.6261c0 -0.51764 -0.4197 -0.93738 -0.9374 -0.93738Z" stroke-width="1"></path>
+  <path fill="#ffffff" d="M22.3112 4.50087V2.6261c0 -0.51764 -0.4197 -0.93738 -0.9374 -0.93738H7.31299v2.81215H22.3112Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M22.3112 11.9972H7.31299" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M2.62586 1.68872c-0.51773 0 -0.93738 0.41965 -0.93738 0.93738V21.374c0 0.5177 0.41965 0.9373 0.93738 0.9373h4.68701V1.68872H2.62586Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M21.3738 1.68872H7.31299V22.3113H21.3738c0.5178 0 0.9374 -0.4196 0.9374 -0.9373V2.6261c0 -0.51764 -0.4197 -0.93738 -0.9374 -0.93738Z" stroke-width="1"></path>
+</svg>

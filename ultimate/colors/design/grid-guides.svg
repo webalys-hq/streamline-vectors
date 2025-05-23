@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Grid-Guides--Streamline-Ultimate">
+  <desc>
+    Grid Guides Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#e3e3e3" d="M20.608 1.47821H2.43406c-0.52827 0 -0.95652 0.42825 -0.95652 0.95652V20.6086c0 0.5283 0.42825 0.9566 0.95652 0.9566H20.608c0.5283 0 0.9565 -0.4283 0.9565 -0.9566V2.43473c0 -0.52827 -0.4282 -0.95652 -0.9565 -0.95652Z" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M6.73926 1v22" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.521 1v22" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.3042 1v22" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M23 6.73914H1" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M23 11.5217H1" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M23 16.3043H1" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h24v24H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

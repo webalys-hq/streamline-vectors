@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pathfinder-Divide--Streamline-Ultimate">
+  <desc>
+    Pathfinder Divide Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#66e1ff" d="M6.73926 17.2609c0 -0.2537 0.10082 -0.497 0.28016 -0.6764 0.17943 -0.1794 0.42268 -0.2801 0.67632 -0.2801h7.65216c0.2536 0 0.497 -0.1009 0.6763 -0.2802 0.1794 -0.1792 0.2802 -0.4227 0.2802 -0.6764V7.69574c0 -0.25373 0.1008 -0.49698 0.2801 -0.67641 0.1795 -0.17934 0.4228 -0.28016 0.6765 -0.28016h4.7825c0.2537 0 0.4971 0.10082 0.6764 0.28016 0.1793 0.17943 0.2802 0.42268 0.2802 0.67641V22.0435c0 0.2536 -0.1009 0.497 -0.2802 0.6763 -0.1793 0.1793 -0.4227 0.2802 -0.6764 0.2802H7.69574c-0.25364 0 -0.49689 -0.1009 -0.67632 -0.2802 -0.17934 -0.1793 -0.28016 -0.4227 -0.28016 -0.6763v-4.7826Z" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M15.3477 1.00005c0.2536 0 0.4969 0.10082 0.6763 0.28016 0.1794 0.17943 0.2801 0.42268 0.2801 0.67641" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.95648 1.00005c-0.25364 0 -0.49688 0.10082 -0.67632 0.28016C1.10082 1.45964 1 1.70289 1 1.95662" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.3037 3.86961v0.95658" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12.4785 1.00005h0.9565" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M9.6084 1.00005h0.9565" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M6.73926 1.00005h0.95648" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3.86914 1.00005h0.95649" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3.86914 16.3044h0.95649" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.95648 16.3044c-0.25364 0 -0.49688 -0.1009 -0.67632 -0.2802C1.10082 15.8448 1 15.6014 1 15.3478" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1 13.4348v-0.9565" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1 10.5653v-0.9566" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1 7.69574v-0.95657" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1 4.82619v-0.95658" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M6.73926 17.2609c0 -0.2537 0.10082 -0.497 0.28016 -0.6764 0.17943 -0.1794 0.42268 -0.2801 0.67632 -0.2801h7.65216c0.2536 0 0.497 -0.1009 0.6763 -0.2802 0.1794 -0.1792 0.2802 -0.4227 0.2802 -0.6764V7.69574c0 -0.25373 0.1008 -0.49698 0.2801 -0.67641 0.1795 -0.17934 0.4228 -0.28016 0.6765 -0.28016h4.7825c0.2537 0 0.4971 0.10082 0.6764 0.28016 0.1793 0.17943 0.2802 0.42268 0.2802 0.67641V22.0435c0 0.2536 -0.1009 0.497 -0.2802 0.6763 -0.1793 0.1793 -0.4227 0.2802 -0.6764 0.2802H7.69574c-0.25364 0 -0.49689 -0.1009 -0.67632 -0.2802 -0.17934 -0.1793 -0.28016 -0.4227 -0.28016 -0.6763v-4.7826Z" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h24v24H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

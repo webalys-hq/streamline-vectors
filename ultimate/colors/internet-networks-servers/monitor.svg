@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Monitor--Streamline-Ultimate">
+  <desc>
+    Monitor Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#66e1ff" d="M2.43457 11.522V1.95655c0 -0.2537 0.10078 -0.497 0.28017 -0.67638C2.89412 1.10078 3.13743 1 3.39112 1H20.609c0.2537 0 0.497 0.10078 0.6763 0.28017 0.1794 0.17938 0.2802 0.42268 0.2802 0.67638V11.522H2.43457Z" stroke-width="1"></path>
+  <path fill="#c2f3ff" d="M17.261 1H3.39112c-0.25369 0 -0.497 0.10078 -0.67638 0.28017 -0.17939 0.17938 -0.28017 0.42268 -0.28017 0.67638V11.522h4.30446L17.261 1Z" stroke-width="1"></path>
+  <path fill="#ffffff" d="M2.43457 11.5215H21.5655v1.9131c0 0.2537 -0.1008 0.497 -0.2802 0.6764 -0.1793 0.1793 -0.4226 0.2801 -0.6763 0.2801H3.39112c-0.25369 0 -0.497 -0.1008 -0.67638 -0.2801 -0.17939 -0.1794 -0.28017 -0.4227 -0.28017 -0.6764v-1.9131Z" stroke-width="1"></path>
+  <path fill="#e3e3e3" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m9.26221 18.2173 0.22957 -0.3692c0.68152 -1.03 1.07482 -2.2236 1.13922 -3.457h2.7377c0.0644 1.2334 0.4577 2.427 1.1392 3.457l0.2296 0.3692H9.26221Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M7.69556 18.2178h8.60894" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M2.43457 11.5215H21.5655" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M20.609 1c0.2537 0 0.497 0.10078 0.6763 0.28017 0.1794 0.17938 0.2802 0.42268 0.2802 0.67638V13.4351c0 0.2537 -0.1008 0.497 -0.2802 0.6764 -0.1793 0.1794 -0.4226 0.2802 -0.6763 0.2802H3.39112c-0.25369 0 -0.497 -0.1008 -0.67638 -0.2802 -0.17939 -0.1794 -0.28017 -0.4227 -0.28017 -0.6764V1.95655c0 -0.2537 0.10078 -0.497 0.28017 -0.67638C2.89412 1.10078 3.13743 1 3.39112 1H20.609Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12 20.1304V23" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M4.34753 23H19.6523" stroke-width="1"></path>
+</svg>

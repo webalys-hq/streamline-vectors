@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pathfinder-Exclude--Streamline-Ultimate">
+  <desc>
+    Pathfinder Exclude Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#66e1ff" d="M16.3044 1.95658V7.6957H8.65219c-0.25365 0 -0.49699 0.10073 -0.67633 0.28007 -0.17944 0.17943 -0.28016 0.42268 -0.28016 0.67642v7.65211H1.95658c-0.25374 0 -0.49698 -0.1008 -0.67642 -0.2802C1.10082 15.8448 1 15.6014 1 15.3478V1.95658c0 -0.25374 0.10082 -0.49698 0.28016 -0.67642C1.4596 1.10082 1.70284 1 1.95658 1H15.3478c0.2536 0 0.497 0.10082 0.6764 0.28016 0.1794 0.17944 0.2802 0.42268 0.2802 0.67642Z" stroke-width="1"></path>
+    <path fill="#66e1ff" d="M23.0001 8.65221V22.0434c0 0.2538 -0.1008 0.4971 -0.2802 0.6764 -0.1793 0.1794 -0.4227 0.2802 -0.6763 0.2802H8.65229c-0.25365 0 -0.49699 -0.1008 -0.67633 -0.2802 -0.17943 -0.1793 -0.28016 -0.4226 -0.28016 -0.6764v-5.739h7.6521c0.2537 0 0.4971 -0.1008 0.6764 -0.2802 0.1794 -0.1793 0.2802 -0.4227 0.2802 -0.6764V7.69572h5.7391c0.2536 0 0.497 0.10073 0.6763 0.28017 0.1794 0.17934 0.2802 0.42268 0.2802 0.67632Z" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.95658 16.3044c-0.25374 0 -0.49698 -0.1008 -0.67642 -0.2802C1.10082 15.8448 1 15.6014 1 15.3478V1.95658c0 -0.25374 0.10082 -0.49698 0.28016 -0.67642C1.4596 1.10082 1.70284 1 1.95658 1H15.3478c0.2536 0 0.497 0.10082 0.6764 0.28016 0.1794 0.17944 0.2802 0.42268 0.2802 0.67642V7.6957h5.739c0.2537 0 0.4971 0.10072 0.6764 0.28007 0.1794 0.17943 0.2802 0.42268 0.2802 0.67642V22.0434c0 0.2537 -0.1008 0.4971 -0.2802 0.6764 -0.1793 0.1794 -0.4227 0.2802 -0.6764 0.2802H8.65219c-0.25365 0 -0.49699 -0.1008 -0.67633 -0.2802 -0.17944 -0.1793 -0.28016 -0.4227 -0.28016 -0.6764v-5.7391l-5.73912 0.0001Z" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M8.65229 7.69572c-0.25365 0 -0.49699 0.10073 -0.67633 0.28007 -0.17943 0.17944 -0.28016 0.42268 -0.28016 0.67642" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M7.6958 10.5653v0.9565" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.5214 7.69572h-0.9565" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M14.3915 7.69572h-0.9564" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M10.565 16.3044h-0.9566" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M13.4351 16.3044h-0.9566" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M7.6958 14.3913v-0.9565" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.3042 9.60869v0.95661" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M15.3477 16.3044c0.2536 0 0.4969 -0.1008 0.6764 -0.2802 0.1794 -0.1793 0.2801 -0.4227 0.2801 -0.6764" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.3042 13.4348v-0.9565" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h24v24H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

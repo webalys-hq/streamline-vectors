@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shape-Cube--Streamline-Ultimate">
+  <desc>
+    Shape Cube Streamline Icon: https://streamlinehq.com
+  </desc>
+  <g clip-path="url(#a)">
+    <path fill="#ff808c" d="M6.82234 1.77766C7.3413 1.31213 8.00376 1.03771 8.7 1h13.2c0.6076 0 1.1 0.49245 1.1 1.1v13.2c-0.0377 0.6962 -0.3121 1.3587 -0.7777 1.8777l-5.0446 5.0446c-0.519 0.4656 -1.1815 0.74 -1.8777 0.7777H2.1c-0.60755 0 -1.1 -0.4924 -1.1 -1.1V8.7c0.03771 -0.69624 0.31213 -1.3587 0.77766 -1.87766l5.04468 -5.04468Z" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.32422 22.6766 7.6008 16.4" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M22.7306 16.4H7.6001V1.26953" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.4004 22.7305V7.60001l6.2766 -6.27658" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.4006 7.60004H1.26904" stroke-width="1"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M6.82234 1.77766C7.3413 1.31213 8.00376 1.03771 8.7 1h13.2c0.6076 0 1.1 0.49245 1.1 1.1v13.2c-0.0377 0.6962 -0.3121 1.3587 -0.7777 1.8777l-5.0446 5.0446c-0.519 0.4656 -1.1815 0.74 -1.8777 0.7777H2.1c-0.60755 0 -1.1 -0.4924 -1.1 -1.1V8.7c0.03771 -0.69624 0.31213 -1.3587 0.77766 -1.87766l5.04468 -5.04468Z" stroke-width="1"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#ffffff" d="M0 0h24v24H0z" stroke-width="1"></path>
+    </clipPath>
+  </defs>
+</svg>

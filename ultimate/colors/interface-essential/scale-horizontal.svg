@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Scale-Horizontal--Streamline-Ultimate">
+  <desc>
+    Scale Horizontal Streamline Icon: https://streamlinehq.com
+  </desc>
+  <mask id="a" width="22" height="22" x="1" y="1" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#ffffff" d="M1 1h22v22H1V1Z"></path>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#c2f3ff" d="M12.0002 16.5833c4.3032 0 7.7916-3.4884 7.7916-7.79163C19.7918 4.48845 16.3034 1 12.0002 1 7.69694 1 4.2085 4.48845 4.2085 8.79167c0 4.30323 3.48844 7.79163 7.7917 7.79163Z"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M5.125 4.20831V2.37498c0-.24312.09658-.47627.26848-.64818.17191-.17191.40507-.26849.64819-.26849H17.0417c.2431 0 .4763.09658.6481.26849.1719.17191.2685.40506.2685.64818v1.83333"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.542 1.45654V16.1232"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M8.3335 16.1232h6.4167"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M1.4585 19.7899h20.1667"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M5.12516 22.5399 1.4585 19.7761l3.66666-2.7362"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m17.9585 22.5399 3.6667-2.7638-3.6667-2.7362"></path>
+  </g>
+</svg>

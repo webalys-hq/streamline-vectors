@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Weather-Sun--Streamline-Ultimate">
+  <desc>
+    Weather Sun Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#fff9bf" d="M19 12c0 -0.9193 -0.1811 -1.8295 -0.5328 -2.67878 -0.3518 -0.84928 -0.8674 -1.62096 -1.5175 -2.27097 -0.65 -0.65001 -1.4216 -1.16562 -2.2709 -1.51741C13.8295 5.18106 12.9193 5 12 5c-1.8565 0 -3.63699 0.7375 -4.94975 2.05025C5.7375 8.36301 5 10.1435 5 12s0.7375 3.637 2.05025 4.9497C8.36301 18.2625 10.1435 19 12 19s3.637 -0.7375 4.9497 -2.0503C18.2625 15.637 19 13.8565 19 12Z" stroke-width="1"></path>
+  <path fill="#ffef5e" d="M12 15.5c-1.5507 -0.0015 -3.05705 -0.5179 -4.28254 -1.4681 -1.2255 -0.9502 -2.10078 -2.2804 -2.48846 -3.7819 -0.27159 1.0356 -0.30204 2.1196 -0.08901 3.1688 0.21304 1.0491 0.66389 2.0355 1.31786 2.8831 0.65398 0.8476 1.49366 1.5339 2.45446 2.0061 0.9608 0.4723 2.01709 0.7178 3.08769 0.7178 1.0706 0 2.1269 -0.2455 3.0877 -0.7178 0.9608 -0.4722 1.8005 -1.1585 2.4544 -2.0061 0.654 -0.8476 1.1049 -1.834 1.3179 -2.8831 0.213 -1.0492 0.1826 -2.1332 -0.089 -3.1688 -0.3877 1.5015 -1.263 2.8317 -2.4885 3.7819C15.057 14.9821 13.5507 15.4985 12 15.5Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M19 12c0 -0.9193 -0.1811 -1.8295 -0.5328 -2.67878 -0.3518 -0.84928 -0.8674 -1.62096 -1.5175 -2.27097 -0.65 -0.65001 -1.4216 -1.16562 -2.2709 -1.51741C13.8295 5.18106 12.9193 5 12 5c-1.8565 0 -3.63699 0.7375 -4.94975 2.05025C5.7375 8.36301 5 10.1435 5 12s0.7375 3.637 2.05025 4.9497C8.36301 18.2625 10.1435 19 12 19s3.637 -0.7375 4.9497 -2.0503C18.2625 15.637 19 13.8565 19 12Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12 21v2" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M21 12h2" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12 3V1" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3 12H1" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m5.63668 18.364 -1.415 1.415" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m18.3643 18.364 1.414 1.414" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m18.3647 5.63699 1.414 -1.414" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m5.63568 5.63699 -1.414 -1.414" stroke-width="1"></path>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Strike-Through-1--Streamline-Ultimate">
+  <desc>
+    Text Strike Through 1 Streamline Icon: https://streamlinehq.com
+  </desc>
+  <mask id="a" width="22" height="22" x="1" y="1" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#ffffff" d="M1 1h22v22H1V1Z"></path>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#c2f3ff" d="M12.0002 21.1667c5.0625 0 9.1666-4.1041 9.1666-9.1667 0-5.06257-4.1041-9.16663-9.1666-9.16663-5.06265 0-9.1667 4.10406-9.1667 9.16663 0 5.0626 4.10405 9.1667 9.1667 9.1667Z"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3.75 4.20837V2.37504c0-.24312.09658-.47627.26848-.64818.17191-.17191.40507-.26849.64819-.26849H19.3333c.2431 0 .4763.09658.6482.26849s.2685.40506.2685.64818v1.83333"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12 14.2898v8.25"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12 1.45654v9.16666"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M8.79199 22.5398h6.41671"></path>
+    <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3.77783 12.4565H20.2494"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Light-Mode-Hdr--Streamline-Ultimate">
+  <desc>
+    Light Mode Hdr Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#66e1ff" d="M19 5H4.99996C2.79091 5 1 6.79091 1 9.00006V15c0 2.2093 1.79081 4.0001 3.99996 4H19c2.2091 -0.0001 4 -1.7909 4 -4V9.00006C23 6.79091 21.2091 5 19 5Z" stroke-width="1"></path>
+  <path fill="#c2f3ff" d="M4.99996 5C2.79091 5 1 6.79091 1 9.00006V15c0.00049 1.8927 1.32749 3.526 3.18 3.914L18.1 5H4.99996Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M19 5H4.99996C2.79091 5 1 6.79091 1 9.00006V15c0 2.2093 1.79081 4.0001 3.99996 4H19c2.2091 -0.0001 4 -1.7909 4 -4V9.00006C23 6.79091 21.2091 5 19 5Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M16.0005 12h2c1.1046 0 2 -0.8954 2 -2 0 -1.10458 -0.8954 -1.99994 -2 -1.99994h-2V12Zm0 0v4m0 -4 4 4M8.00055 8.00006V16m-4.00006 0V8.00006m0 3.99994h4.00006m1.99995 -3.99994c3.0792 0 5.0037 3.33334 3.4641 5.99994 -0.7144 1.2375 -2.0351 2 -3.4641 2V8.00006Z" stroke-width="1"></path>
+</svg>

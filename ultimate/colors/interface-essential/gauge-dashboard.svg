@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Gauge-Dashboard--Streamline-Ultimate">
+  <desc>
+    Gauge Dashboard Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#66e1ff" d="M11.9998 4.81335c-5.70554 0 -10.33085 4.62532 -10.33085 10.33085v3.1442c0 0.4961 0.40223 0.8983 0.89833 0.8983H21.4323c0.4961 0 0.8983 -0.4022 0.8983 -0.8983v-3.1442c0 -5.70553 -4.6253 -10.33085 -10.3308 -10.33085Z" stroke-width="1"></path>
+  <path fill="#c2f3ff" d="M17.9872 6.72414c-6.4809 -4.6091 -15.52094 -0.4741 -16.27205 7.44306 -0.0308 0.3247 -0.0462 0.6507 -0.0462 0.977v3.1441c0 0.4961 0.40223 0.8984 0.89833 0.8984h2.95735L17.9872 6.72414Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.9998 4.81335c-5.70554 0 -10.33085 4.62532 -10.33085 10.33085v3.1442c0 0.4961 0.40223 0.8983 0.89833 0.8983H21.4323c0.4961 0 0.8983 -0.4022 0.8983 -0.8983v-3.1442c0 -5.70553 -4.6253 -10.33085 -10.3308 -10.33085Z" stroke-width="1"></path>
+  <path fill="#ff808c" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M11.9999 16.4917c1.0373 0 1.6857 -1.1229 1.167 -2.0213 -0.2407 -0.4169 -0.6856 -0.6737 -1.167 -0.6737 -1.0373 0.0001 -1.6857 1.123 -1.1669 2.0213 0.2407 0.4168 0.6855 0.6737 1.1669 0.6737Z" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m12.9521 14.191 4.4477 -4.44582" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M3.46582 15.5933h1.79667" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M20.534 15.5933h-1.7967" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m19.8839 11.8787 -1.6593 0.6872" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m15.2654 7.25946 -0.6873 1.66018" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M12 6.60999v1.79666" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m8.73438 7.25946 0.68722 1.66018" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="M5.96582 9.10919 7.2343 10.3803" stroke-width="1"></path>
+  <path stroke="#191919" stroke-linecap="round" stroke-linejoin="round" d="m4.11621 11.8787 1.65834 0.6872" stroke-width="1"></path>
+</svg>
