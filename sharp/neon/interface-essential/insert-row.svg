@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Insert-Row--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Insert-Row--Streamline-Sharp-Neon">
   <desc>
     Insert Row Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="insert-row">
-    <path id="Rectangle 20" stroke="#c71dff" d="M8.070029166666666 8.560025h13.719979166666667V1.6999875000000002H8.070029166666666v6.8600375Z" stroke-width="1"></path>
-    <path id="Rectangle 21" stroke="#c71dff" d="M8.070029166666666 21.3000125h13.719979166666667v-6.8600375l-13.719979166666667 0v6.8600375Z" stroke-width="1"></path>
-    <path id="Vector 1537" stroke="#000cfe" d="M1.2099916666666666 7.580033333333334 5.1300541666666675 11.5l-3.9200625 3.919966666666667" stroke-width="1"></path>
+    <path id="Rectangle 20" stroke="#c71dff" d="M7.894593749999999 8.3739375h13.42171875V1.66303125H7.894593749999999v6.71090625Z" stroke-width="1.5"></path>
+    <path id="Rectangle 21" stroke="#c71dff" d="M7.894593749999999 20.83696875h13.42171875v-6.71090625l-13.42171875 0v6.71090625Z" stroke-width="1.5"></path>
+    <path id="Vector 1537" stroke="#000cfe" d="M1.1836875 7.41525 5.0185312500000006 11.25l-3.8348437499999997 3.8347499999999997" stroke-width="1.5"></path>
   </g>
 </svg>

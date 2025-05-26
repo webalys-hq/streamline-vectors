@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Eco-House--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Eco-House--Streamline-Sharp-Neon">
   <desc>
     Eco House Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="eco-house">
-    <path id="Vector 1" stroke="#c71dff" d="M21.083333333333336 21.08342916666667H1.9166666666666667v-11.164583333333335l9.583333333333334 -8.625 9.583333333333334 8.625v11.164583333333335Z" stroke-width="1"></path>
-    <path id="Vector 2877" stroke="#000cfe" d="m10.541666666666668 17.729933333333335 3.354070833333333 -4.791475H9.104166666666668L12.458333333333334 8.145833333333334" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#c71dff" d="M20.625 20.62509375H1.875v-10.921875l9.375 -8.4375 9.375 8.4375v10.921875Z" stroke-width="1.5"></path>
+    <path id="Vector 2877" stroke="#000cfe" d="m10.3125 17.3445 3.28115625 -4.6873125H8.90625L12.1875 7.96875" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Drone--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Drone--Streamline-Sharp-Neon">
   <desc>
     Drone Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="drone--artificial-robotics-intelligence-machine-technology-android-flying">
-    <path id="Vector 2938" stroke="#000cfe" d="M0.9583333333333334 1.9166666666666667h8.625" stroke-width="1"></path>
-    <path id="Vector 2939" stroke="#000cfe" d="M13.416666666666668 1.9166666666666667h8.625" stroke-width="1"></path>
-    <path id="Ellipse 808" stroke="#000cfe" d="M17.25 11.5c0 3.1756291666666665 -2.5743708333333335 5.75 -5.75 5.75 -3.17563875 0 -5.75 -2.5743708333333335 -5.75 -5.75" stroke-width="1"></path>
-    <path id="Vector 2940" stroke="#000cfe" d="M2.875 22.041666666666668v-4.3125l3.5432170833333334 -3.5375916666666667" stroke-width="1"></path>
-    <path id="Vector 2942" stroke="#000cfe" d="M5.270833333333334 1.9166666666666667v4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2943" stroke="#000cfe" d="M17.729166666666668 1.9166666666666667v4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2944" stroke="#000cfe" d="M20.125 22.041666666666668v-4.3125l-3.543245833333333 -3.5375916666666667" stroke-width="1"></path>
-    <path id="Rectangle 1057" stroke="#c71dff" d="M1.9166666666666667 6.708333333333334h19.166666666666668v4.791666666666667H1.9166666666666667V6.708333333333334Z" stroke-width="1"></path>
+    <path id="Vector 2938" stroke="#000cfe" d="M0.9375 1.875h8.4375" stroke-width="1.5"></path>
+    <path id="Vector 2939" stroke="#000cfe" d="M13.125 1.875h8.4375" stroke-width="1.5"></path>
+    <path id="Ellipse 808" stroke="#000cfe" d="M16.875 11.25c0 3.10659375 -2.51840625 5.625 -5.625 5.625 -3.106603125 0 -5.625 -2.51840625 -5.625 -5.625" stroke-width="1.5"></path>
+    <path id="Vector 2940" stroke="#000cfe" d="M2.8125 21.5625v-4.21875l3.466190625 -3.4606874999999997" stroke-width="1.5"></path>
+    <path id="Vector 2942" stroke="#000cfe" d="M5.15625 1.875v4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2943" stroke="#000cfe" d="M17.34375 1.875v4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2944" stroke="#000cfe" d="M19.6875 21.5625v-4.21875l-3.46621875 -3.4606874999999997" stroke-width="1.5"></path>
+    <path id="Rectangle 1057" stroke="#c71dff" d="M1.875 6.5625h18.75v4.6875H1.875V6.5625Z" stroke-width="1.5"></path>
   </g>
 </svg>

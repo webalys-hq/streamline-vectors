@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Tea-Cup--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Tea-Cup--Streamline-Sharp-Neon">
   <desc>
     Tea Cup Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="tea-cup--herbal-cook-tea-tisane-cup-drink-cooking-nutrition-mug-food">
-    <path id="Vector 2139" stroke="#000cfe" d="M16.291666666666668 8.625h1.4375c1.8524583333333335 0 3.354166666666667 1.5017083333333334 3.354166666666667 3.354166666666667S19.581625 15.333333333333334 17.729166666666668 15.333333333333334H16.291666666666668" stroke-width="1"></path>
-    <path id="Vector 3934" stroke="#000cfe" d="M0.9583333333333334 22.041666666666668h21.083333333333336" stroke-width="1"></path>
-    <path id="Ellipse 593" stroke="#000cfe" d="M8.625 4.791666666666667c-1.05854625 0 -1.9166666666666667 -0.8581204166666666 -1.9166666666666667 -1.9166666666666667s0.8581204166666666 -1.9166666666666667 1.9166666666666667 -1.9166666666666667" stroke-width="1"></path>
-    <path id="Ellipse 594" stroke="#000cfe" d="M14.375 4.791666666666667c-1.058575 0 -1.9166666666666667 -0.8581204166666666 -1.9166666666666667 -1.9166666666666667s0.8580916666666667 -1.9166666666666667 1.9166666666666667 -1.9166666666666667" stroke-width="1"></path>
-    <path id="Vector 2138" stroke="#c71dff" d="M16.291666666666668 18.208333333333336H3.8333333333333335V8.625h12.458333333333334v9.583333333333334Z" stroke-width="1"></path>
+    <path id="Vector 2139" stroke="#000cfe" d="M15.9375 8.4375h1.40625c1.8121875 0 3.28125 1.4690625 3.28125 3.28125S19.1559375 15 17.34375 15H15.9375" stroke-width="1.5"></path>
+    <path id="Vector 3934" stroke="#000cfe" d="M0.9375 21.5625h20.625" stroke-width="1.5"></path>
+    <path id="Ellipse 593" stroke="#000cfe" d="M8.4375 4.6875c-1.0355343750000001 0 -1.875 -0.839465625 -1.875 -1.875s0.839465625 -1.875 1.875 -1.875" stroke-width="1.5"></path>
+    <path id="Ellipse 594" stroke="#000cfe" d="M14.0625 4.6875c-1.0355625 0 -1.875 -0.839465625 -1.875 -1.875s0.8394375 -1.875 1.875 -1.875" stroke-width="1.5"></path>
+    <path id="Vector 2138" stroke="#c71dff" d="M15.9375 17.8125H3.75V8.4375h12.1875v9.375Z" stroke-width="1.5"></path>
   </g>
 </svg>

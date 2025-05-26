@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Scanner--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Scanner--Streamline-Sharp-Neon">
   <desc>
     Scanner Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="scanner">
-    <path id="Vector 1378" stroke="#c71dff" d="M1.9166666666666667 7.666666666666667V1.9166666666666667h5.75" stroke-width="1"></path>
-    <path id="Vector 1379" stroke="#c71dff" d="M21.083333333333336 7.666666666666667V1.9166666666666667h-5.75" stroke-width="1"></path>
-    <path id="Vector 1380" stroke="#c71dff" d="M21.083333333333336 15.333333333333334v5.75h-5.75" stroke-width="1"></path>
-    <path id="Vector 1381" stroke="#c71dff" d="M1.9166666666666667 15.333333333333334v5.75h5.75" stroke-width="1"></path>
-    <path id="Vector 1893" stroke="#000cfe" d="M0.9583333333333334 11.5h21.083333333333336" stroke-width="1"></path>
+    <path id="Vector 1378" stroke="#c71dff" d="M1.875 7.5V1.875h5.625" stroke-width="1.5"></path>
+    <path id="Vector 1379" stroke="#c71dff" d="M20.625 7.5V1.875h-5.625" stroke-width="1.5"></path>
+    <path id="Vector 1380" stroke="#c71dff" d="M20.625 15v5.625h-5.625" stroke-width="1.5"></path>
+    <path id="Vector 1381" stroke="#c71dff" d="M1.875 15v5.625h5.625" stroke-width="1.5"></path>
+    <path id="Vector 1893" stroke="#000cfe" d="M0.9375 11.25h20.625" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Safari--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Safari--Streamline-Sharp-Neon">
   <desc>
     Safari Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="safari-logo">
-    <path id="Ellipse 794" stroke="#c71dff" d="M0.9583333333333334 11.5a10.541666666666668 10.541666666666668 0 1 0 21.083333333333336 0 10.541666666666668 10.541666666666668 0 1 0 -21.083333333333336 0" stroke-width="1"></path>
-    <path id="Vector 2863" stroke="#c71dff" d="M11.5 0.9583333333333334v2.875" stroke-width="1"></path>
-    <path id="Vector 2864" stroke="#c71dff" d="M11.5 19.166666666666668v2.875" stroke-width="1"></path>
-    <path id="Vector 2867" stroke="#000cfe" d="m9.583333333333334 9.583333333333334 5.75 -1.9166666666666667 -1.9166666666666667 5.75 -5.75 1.9166666666666667 1.9166666666666667 -5.75Z" stroke-width="1"></path>
-    <path id="Vector 2868" stroke="#c71dff" d="m20.629466666666666 16.770833333333336 -2.7388208333333335 -1.58125" stroke-width="1"></path>
-    <path id="Vector 2869" stroke="#c71dff" d="m5.108922916666667 7.810320833333334 -2.738801666666667 -1.58125" stroke-width="1"></path>
+    <path id="Ellipse 794" stroke="#c71dff" d="M0.9375 11.25a10.3125 10.3125 0 1 0 20.625 0 10.3125 10.3125 0 1 0 -20.625 0" stroke-width="1.5"></path>
+    <path id="Vector 2863" stroke="#c71dff" d="M11.25 0.9375v2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2864" stroke="#c71dff" d="M11.25 18.75v2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2867" stroke="#000cfe" d="m9.375 9.375 5.625 -1.875 -1.875 5.625 -5.625 1.875 1.875 -5.625Z" stroke-width="1.5"></path>
+    <path id="Vector 2868" stroke="#c71dff" d="m20.180999999999997 16.40625 -2.67928125 -1.546875" stroke-width="1.5"></path>
+    <path id="Vector 2869" stroke="#c71dff" d="m4.997859375 7.64053125 -2.6792625 -1.546875" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Keyboard--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Keyboard--Streamline-Sharp-Neon">
   <desc>
     Keyboard Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="keyboard--keyboard-device-electronics-dvorak-qwerty">
-    <path id="Vector 2683" stroke="#000cfe" d="M11.5 8.625V6.229166666666667l4.791666666666667 -1.9166666666666667V1.9166666666666667" stroke-width="1"></path>
-    <path id="Rectangle 38" stroke="#c71dff" d="m22.041666666666668 8.625 0 11.5 -21.083333333333336 0L0.9583333333333334 8.625l21.083333333333336 0Z" stroke-width="1"></path>
-    <path id="Vector 2690" stroke="#000cfe" d="M3.8333333333333335 12.458333333333334h2.3958333333333335" stroke-width="1"></path>
-    <path id="Vector 2684" stroke="#000cfe" d="M3.8333333333333335 16.291666666666668h2.3958333333333335" stroke-width="1"></path>
-    <path id="Vector 2685" stroke="#000cfe" d="M8.145833333333334 12.458333333333334H10.541666666666668" stroke-width="1"></path>
-    <path id="Vector 2686" stroke="#000cfe" d="M16.770833333333336 12.458333333333334H19.166666666666668" stroke-width="1"></path>
-    <path id="Vector 2687" stroke="#000cfe" d="M12.458333333333334 12.458333333333334h2.3958333333333335" stroke-width="1"></path>
-    <path id="Vector 2688" stroke="#000cfe" d="M16.770833333333336 16.291666666666668H19.166666666666668" stroke-width="1"></path>
-    <path id="Vector 2689" stroke="#000cfe" d="M8.145833333333334 16.291666666666668h6.708333333333334" stroke-width="1"></path>
+    <path id="Vector 2683" stroke="#000cfe" d="M11.25 8.4375V6.09375l4.6875 -1.875V1.875" stroke-width="1.5"></path>
+    <path id="Rectangle 38" stroke="#c71dff" d="m21.5625 8.4375 0 11.25 -20.625 0L0.9375 8.4375l20.625 0Z" stroke-width="1.5"></path>
+    <path id="Vector 2690" stroke="#000cfe" d="M3.75 12.1875h2.34375" stroke-width="1.5"></path>
+    <path id="Vector 2684" stroke="#000cfe" d="M3.75 15.9375h2.34375" stroke-width="1.5"></path>
+    <path id="Vector 2685" stroke="#000cfe" d="M7.96875 12.1875H10.3125" stroke-width="1.5"></path>
+    <path id="Vector 2686" stroke="#000cfe" d="M16.40625 12.1875H18.75" stroke-width="1.5"></path>
+    <path id="Vector 2687" stroke="#000cfe" d="M12.1875 12.1875h2.34375" stroke-width="1.5"></path>
+    <path id="Vector 2688" stroke="#000cfe" d="M16.40625 15.9375H18.75" stroke-width="1.5"></path>
+    <path id="Vector 2689" stroke="#000cfe" d="M7.96875 15.9375h6.5625" stroke-width="1.5"></path>
   </g>
 </svg>

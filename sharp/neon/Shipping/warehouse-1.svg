@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Warehouse-1--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Warehouse-1--Streamline-Sharp-Neon">
   <desc>
     Warehouse 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="warehouse-1--delivery-warehouse-shipping-fulfillment">
-    <path id="Vector 77" stroke="#000cfe" d="M5.75 15.333333333333334v5.75h5.75v-5.75H5.75Z" stroke-width="1"></path>
-    <path id="Vector 79" stroke="#000cfe" d="M11.5 15.333333333333334v5.75h5.75v-5.75h-5.75Z" stroke-width="1"></path>
-    <path id="Vector 78" stroke="#000cfe" d="M8.625 9.583333333333334v5.75h5.75v-5.75H8.625Z" stroke-width="1"></path>
-    <path id="Vector 74" stroke="#c71dff" d="M1.9166666666666667 7.1875V21.083333333333336h19.166666666666668V7.1875L11.5 1.9166666666666667 1.9166666666666667 7.1875Z" stroke-width="1"></path>
+    <path id="Vector 77" stroke="#000cfe" d="M5.625 15v5.625h5.625v-5.625H5.625Z" stroke-width="1.5"></path>
+    <path id="Vector 79" stroke="#000cfe" d="M11.25 15v5.625h5.625v-5.625h-5.625Z" stroke-width="1.5"></path>
+    <path id="Vector 78" stroke="#000cfe" d="M8.4375 9.375v5.625h5.625v-5.625H8.4375Z" stroke-width="1.5"></path>
+    <path id="Vector 74" stroke="#c71dff" d="M1.875 7.03125V20.625h18.75V7.03125L11.25 1.875 1.875 7.03125Z" stroke-width="1.5"></path>
   </g>
 </svg>

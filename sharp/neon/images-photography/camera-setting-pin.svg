@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Camera-Setting-Pin--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Camera-Setting-Pin--Streamline-Sharp-Neon">
   <desc>
     Camera Setting Pin Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="camera-setting-pin--photos-camera-map-photography-pictures-maps-settings-pin-photo">
-    <path id="Vector 2904" stroke="#c71dff" d="M1.9166666666666667 16.291666666666668V5.75h3.354166666666667L7.666666666666667 1.9166666666666667h7.666666666666667l2.3958333333333335 3.8333333333333335H21.083333333333336v10.541666666666668h-6.229166666666667L11.5 20.604166666666668 8.145833333333334 16.291666666666668H1.9166666666666667Z" stroke-width="1"></path>
-    <path id="Ellipse 4" stroke="#000cfe" d="M8.145833333333334 10.0625a3.354166666666667 3.354166666666667 0 1 0 6.708333333333334 0 3.354166666666667 3.354166666666667 0 1 0 -6.708333333333334 0" stroke-width="1"></path>
+    <path id="Vector 2904" stroke="#c71dff" d="M1.875 15.9375V5.625h3.28125L7.5 1.875h7.5l2.34375 3.75H20.625v10.3125h-6.09375L11.25 20.15625 7.96875 15.9375H1.875Z" stroke-width="1.5"></path>
+    <path id="Ellipse 4" stroke="#000cfe" d="M7.96875 9.84375a3.28125 3.28125 0 1 0 6.5625 0 3.28125 3.28125 0 1 0 -6.5625 0" stroke-width="1.5"></path>
   </g>
 </svg>

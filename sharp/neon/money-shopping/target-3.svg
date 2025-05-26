@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Target-3--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Target-3--Streamline-Sharp-Neon">
   <desc>
     Target 3 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="target-3--shop-bullseye-shooting-target">
-    <path id="ellipse 169" stroke="#c71dff" d="M0.9583333333333334 11.5a10.541666666666668 10.541666666666668 0 1 0 21.083333333333336 0 10.541666666666668 10.541666666666668 0 1 0 -21.083333333333336 0" stroke-width="1"></path>
-    <path id="Vector 2983" stroke="#000cfe" d="M11.5 8.625v5.75" stroke-width="1"></path>
-    <path id="Vector 2985" stroke="#c71dff" d="M11.5 0.9583333333333334v4.3125" stroke-width="1"></path>
-    <path id="Vector 2987" stroke="#c71dff" d="m22.041666666666668 11.5 -4.3125 0" stroke-width="1"></path>
-    <path id="Vector 2986" stroke="#c71dff" d="M11.5 17.729166666666668V22.041666666666668" stroke-width="1"></path>
-    <path id="Vector 2988" stroke="#c71dff" d="M5.270833333333334 11.5 0.9583333333333334 11.5" stroke-width="1"></path>
-    <path id="Vector 2984" stroke="#000cfe" d="m14.375 11.5 -5.75 0" stroke-width="1"></path>
+    <path id="ellipse 169" stroke="#c71dff" d="M0.9375 11.25a10.3125 10.3125 0 1 0 20.625 0 10.3125 10.3125 0 1 0 -20.625 0" stroke-width="1.5"></path>
+    <path id="Vector 2983" stroke="#000cfe" d="M11.25 8.4375v5.625" stroke-width="1.5"></path>
+    <path id="Vector 2985" stroke="#c71dff" d="M11.25 0.9375v4.21875" stroke-width="1.5"></path>
+    <path id="Vector 2987" stroke="#c71dff" d="m21.5625 11.25 -4.21875 0" stroke-width="1.5"></path>
+    <path id="Vector 2986" stroke="#c71dff" d="M11.25 17.34375V21.5625" stroke-width="1.5"></path>
+    <path id="Vector 2988" stroke="#c71dff" d="M5.15625 11.25 0.9375 11.25" stroke-width="1.5"></path>
+    <path id="Vector 2984" stroke="#000cfe" d="m14.0625 11.25 -5.625 0" stroke-width="1.5"></path>
   </g>
 </svg>

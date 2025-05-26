@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Add-Pdf--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Add-Pdf--Streamline-Sharp-Neon">
   <desc>
     Add PDF Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="add-PDF--essential-files-folder-edit-PDF-add-plus">
-    <path id="Rectangle 19" stroke="#c71dff" d="M21.083333333333336 1.9166666666666667H2.3958333333333335v15.333333333333334l-0.9583333333333334 4.3125 4.408333333333333 -0.9583333333333334H21.083333333333336V1.9166666666666667Z" stroke-width="1"></path>
-    <path id="Vector 1141" stroke="#000cfe" d="m16.53125 11.260416666666668 -9.583333333333334 0" stroke-width="1"></path>
-    <path id="Vector 1142" stroke="#000cfe" d="M11.739583333333334 6.46875v9.583333333333334" stroke-width="1"></path>
+    <path id="Rectangle 19" stroke="#c71dff" d="M20.625 1.875H2.34375v15l-0.9375 4.21875 4.3125 -0.9375H20.625V1.875Z" stroke-width="1.5"></path>
+    <path id="Vector 1141" stroke="#000cfe" d="m16.171875 11.015625 -9.375 0" stroke-width="1.5"></path>
+    <path id="Vector 1142" stroke="#000cfe" d="M11.484375 6.328125v9.375" stroke-width="1.5"></path>
   </g>
 </svg>

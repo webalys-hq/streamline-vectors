@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Hydro-Energy--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Hydro-Energy--Streamline-Sharp-Neon">
   <desc>
     Hydro Energy Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hydro-energy--hydro-energy-water-power-electricity-renewable-clean">
-    <path id="Rectangle 2008" stroke="#c71dff" d="M2.875 13.416666666666668c0 -5.749990416666667 8.625 -12.21875 8.625 -12.21875S20.125 7.66667625 20.125 13.416666666666668c0 4.763491666666667 -3.8615083333333335 8.625 -8.625 8.625 -4.7634533333333335 0 -8.625 -3.8615083333333335 -8.625 -8.625Z" stroke-width="1"></path>
-    <path id="Vector 2877" stroke="#000cfe" d="m10.541666666666668 17.729933333333335 3.354070833333333 -4.791475H9.104166666666668L12.458333333333334 8.145833333333334" stroke-width="1"></path>
+    <path id="Rectangle 2008" stroke="#c71dff" d="M2.8125 13.125c0 -5.624990625000001 8.4375 -11.953125 8.4375 -11.953125S19.6875 7.500009374999999 19.6875 13.125c0 4.6599375 -3.7775624999999997 8.4375 -8.4375 8.4375 -4.6598999999999995 0 -8.4375 -3.7775624999999997 -8.4375 -8.4375Z" stroke-width="1.5"></path>
+    <path id="Vector 2877" stroke="#000cfe" d="m10.3125 17.3445 3.28115625 -4.6873125H8.90625L12.1875 7.96875" stroke-width="1.5"></path>
   </g>
 </svg>

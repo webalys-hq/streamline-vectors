@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Snow-Flake--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Snow-Flake--Streamline-Sharp-Neon">
   <desc>
     Snow Flake Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="snow-flake--winter-freeze-snow-freezing-ice-cold-weather-snowflake">
-    <path id="Vector 2237" stroke="#000cfe" d="M12.9375 10.0625 16.291666666666668 6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 2238" stroke="#000cfe" d="M16.291666666666668 3.8333333333333335v2.875h2.875" stroke-width="1"></path>
-    <path id="Vector 2239" stroke="#000cfe" d="M10.0625 12.9375 6.708333333333334 16.291666666666668" stroke-width="1"></path>
-    <path id="Vector 2240" stroke="#000cfe" d="M3.8333333333333335 16.291666666666668h2.875v2.875" stroke-width="1"></path>
-    <path id="Vector 2241" stroke="#000cfe" d="M10.0625 10.0625 6.708333333333334 6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 2242" stroke="#000cfe" d="M6.708333333333334 3.8333333333333335v2.875H3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 2243" stroke="#000cfe" d="M16.291666666666668 19.166666666666668v-2.875h2.875" stroke-width="1"></path>
-    <path id="Vector 2244" stroke="#000cfe" d="M12.9375 12.9375 16.291666666666668 16.291666666666668" stroke-width="1"></path>
-    <path id="Vector 2173" stroke="#c71dff" d="m8.625 0.9583333333333334 2.875 2.875 2.875 -2.875" stroke-width="1"></path>
-    <path id="Vector 2174" stroke="#c71dff" d="m8.625 22.041666666666668 2.875 -2.875 2.875 2.875" stroke-width="1"></path>
-    <path id="Vector 2245" stroke="#c71dff" d="M11.5 8.625V3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 2246" stroke="#c71dff" d="M14.375 11.5h4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2247" stroke="#c71dff" d="M11.5 14.375v4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2248" stroke="#c71dff" d="M8.625162916666667 11.5H3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 2175" stroke="#c71dff" d="m22.041666666666668 8.625 -2.875 2.875 2.875 2.875" stroke-width="1"></path>
-    <path id="Vector 2176" stroke="#c71dff" d="m0.9583333333333334 8.625 2.875 2.875 -2.875 2.875" stroke-width="1"></path>
-    <path id="Vector 2236" stroke="#c71dff" d="m8.625 11.5 2.875 -2.875 2.875 2.875 -2.875 2.875 -2.875 -2.875Z" stroke-width="1"></path>
+    <path id="Vector 2237" stroke="#000cfe" d="M12.65625 9.84375 15.9375 6.5625" stroke-width="1.5"></path>
+    <path id="Vector 2238" stroke="#000cfe" d="M15.9375 3.75v2.8125h2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2239" stroke="#000cfe" d="M9.84375 12.65625 6.5625 15.9375" stroke-width="1.5"></path>
+    <path id="Vector 2240" stroke="#000cfe" d="M3.75 15.9375h2.8125v2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2241" stroke="#000cfe" d="M9.84375 9.84375 6.5625 6.5625" stroke-width="1.5"></path>
+    <path id="Vector 2242" stroke="#000cfe" d="M6.5625 3.75v2.8125H3.75" stroke-width="1.5"></path>
+    <path id="Vector 2243" stroke="#000cfe" d="M15.9375 18.75v-2.8125h2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2244" stroke="#000cfe" d="M12.65625 12.65625 15.9375 15.9375" stroke-width="1.5"></path>
+    <path id="Vector 2173" stroke="#c71dff" d="m8.4375 0.9375 2.8125 2.8125 2.8125 -2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2174" stroke="#c71dff" d="m8.4375 21.5625 2.8125 -2.8125 2.8125 2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2245" stroke="#c71dff" d="M11.25 8.4375V3.75" stroke-width="1.5"></path>
+    <path id="Vector 2246" stroke="#c71dff" d="M14.0625 11.25h4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2247" stroke="#c71dff" d="M11.25 14.0625v4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2248" stroke="#c71dff" d="M8.437659375 11.25H3.75" stroke-width="1.5"></path>
+    <path id="Vector 2175" stroke="#c71dff" d="m21.5625 8.4375 -2.8125 2.8125 2.8125 2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2176" stroke="#c71dff" d="m0.9375 8.4375 2.8125 2.8125 -2.8125 2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2236" stroke="#c71dff" d="m8.4375 11.25 2.8125 -2.8125 2.8125 2.8125 -2.8125 2.8125 -2.8125 -2.8125Z" stroke-width="1.5"></path>
   </g>
 </svg>

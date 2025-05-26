@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Layout-Right-Sidebar--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Layout-Right-Sidebar--Streamline-Sharp-Neon">
   <desc>
     Layout Right Sidebar Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="layout-right-sidebar">
-    <path id="Vector 1371" stroke="#000cfe" d="M13.416666666666668 1.9166666666666667v19.166666666666668" stroke-width="1"></path>
-    <path id="Vector 1372" stroke="#000cfe" d="M16.291666666666668 5.75h1.9166666666666667" stroke-width="1"></path>
-    <path id="Vector 1373" stroke="#000cfe" d="M16.291666666666668 9.583333333333334h1.9166666666666667" stroke-width="1"></path>
-    <path id="Rectangle 594" stroke="#c71dff" d="M1.9166666666666667 1.9166666666666667h19.166666666666668v19.166666666666668H1.9166666666666667z" stroke-width="1"></path>
+    <path id="Vector 1371" stroke="#000cfe" d="M13.125 1.875v18.75" stroke-width="1.5"></path>
+    <path id="Vector 1372" stroke="#000cfe" d="M15.9375 5.625h1.875" stroke-width="1.5"></path>
+    <path id="Vector 1373" stroke="#000cfe" d="M15.9375 9.375h1.875" stroke-width="1.5"></path>
+    <path id="Rectangle 594" stroke="#c71dff" d="M1.875 1.875h18.75v18.75H1.875z" stroke-width="1.5"></path>
   </g>
 </svg>

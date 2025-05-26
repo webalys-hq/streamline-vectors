@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Pen-Tool--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Pen-Tool--Streamline-Sharp-Neon">
   <desc>
     Pen Tool Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pen-tool">
-    <path id="Vector 1844" stroke="#c71dff" d="M13.895833333333334 1.9166666666666667 11.5 6.708333333333334l4.791666666666667 4.791666666666667 4.791666666666667 -2.3958333333333335L13.895833333333334 1.9166666666666667Z" stroke-width="1"></path>
-    <path id="Vector 1843" stroke="#000cfe" d="m2.875354583333334 9.583333333333334 8.62502875 -2.875 4.791666666666667 4.791666666666667 -2.875 8.625L1.4375 21.5625 2.875354583333334 9.583333333333334Z" stroke-width="1"></path>
-    <path id="Vector 1846" stroke="#000cfe" d="m6.708333333333334 12.458333333333334 3.8333333333333335 3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 1847" stroke="#000cfe" d="M1.4375 21.5625 8.625 14.375" stroke-width="1"></path>
+    <path id="Vector 1844" stroke="#c71dff" d="M13.59375 1.875 11.25 6.5625l4.6875 4.6875 4.6875 -2.34375L13.59375 1.875Z" stroke-width="1.5"></path>
+    <path id="Vector 1843" stroke="#000cfe" d="m2.812846875 9.375 8.437528125 -2.8125 4.6875 4.6875 -2.8125 8.4375L1.40625 21.09375 2.812846875 9.375Z" stroke-width="1.5"></path>
+    <path id="Vector 1846" stroke="#000cfe" d="m6.5625 12.1875 3.75 3.75" stroke-width="1.5"></path>
+    <path id="Vector 1847" stroke="#000cfe" d="M1.40625 21.09375 8.4375 14.0625" stroke-width="1.5"></path>
   </g>
 </svg>

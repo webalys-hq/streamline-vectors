@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Lens--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Lens--Streamline-Sharp-Neon">
   <desc>
     Lens Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="lens--photos-camera-shutter-picture-photography-pictures-photo-lens">
-    <path id="Ellipse 2" stroke="#000cfe" d="M8.3375 11.5a3.1625 3.1625 0 1 0 6.325 0 3.1625 3.1625 0 1 0 -6.325 0" stroke-width="1"></path>
-    <path id="Vector 2847" stroke="#000cfe" d="M8.337691666666668 11.499808333333334V1.4412470833333335" stroke-width="1"></path>
-    <path id="Vector 2850" stroke="#000cfe" d="M14.6627875 11.5v10.055025" stroke-width="1"></path>
-    <path id="Vector 2848" stroke="#000cfe" d="m13.081154166666668 14.238341666666667 -8.704656666666667 5.025691666666667" stroke-width="1"></path>
-    <path id="Vector 2852" stroke="#000cfe" d="m9.918845833333334 8.760910833333332 8.705020833333334 -5.025845" stroke-width="1"></path>
-    <path id="Vector 2849" stroke="#000cfe" d="M9.919325 14.238341666666667 1.20833375 9.209075416666668" stroke-width="1"></path>
-    <path id="Vector 2851" stroke="#000cfe" d="m13.081345833333334 8.7607 8.706266666666666 5.026554166666667" stroke-width="1"></path>
-    <path id="Ellipse 1" stroke="#c71dff" d="M0.9583333333333334 11.5a10.541666666666668 10.541666666666668 0 1 0 21.083333333333336 0 10.541666666666668 10.541666666666668 0 1 0 -21.083333333333336 0" stroke-width="1"></path>
+    <path id="Ellipse 2" stroke="#000cfe" d="M8.15625 11.25a3.09375 3.09375 0 1 0 6.1875 0 3.09375 3.09375 0 1 0 -6.1875 0" stroke-width="1.5"></path>
+    <path id="Vector 2847" stroke="#000cfe" d="M8.156437500000001 11.2498125V1.409915625" stroke-width="1.5"></path>
+    <path id="Vector 2850" stroke="#000cfe" d="M14.34403125 11.25v9.8364375" stroke-width="1.5"></path>
+    <path id="Vector 2848" stroke="#000cfe" d="m12.79678125 13.9288125 -8.515424999999999 4.9164375" stroke-width="1.5"></path>
+    <path id="Vector 2852" stroke="#000cfe" d="m9.70321875 8.57045625 8.51578125 -4.9165875" stroke-width="1.5"></path>
+    <path id="Vector 2849" stroke="#000cfe" d="M9.703687500000001 13.9288125 1.182065625 9.008878125" stroke-width="1.5"></path>
+    <path id="Vector 2851" stroke="#000cfe" d="m12.79696875 8.57025 8.517 4.91728125" stroke-width="1.5"></path>
+    <path id="Ellipse 1" stroke="#c71dff" d="M0.9375 11.25a10.3125 10.3125 0 1 0 20.625 0 10.3125 10.3125 0 1 0 -20.625 0" stroke-width="1.5"></path>
   </g>
 </svg>

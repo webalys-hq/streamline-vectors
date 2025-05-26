@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Bell-Notification--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Bell-Notification--Streamline-Sharp-Neon">
   <desc>
     Bell Notification Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="bell-notification--alert-bell-ring-notification-alarm">
-    <path id="Vector 2344" stroke="#c71dff" d="M4.7914079166666665 8.625v4.791666666666667l-2.185 3.8333333333333335H20.393333333333334l-2.1852875000000003 -3.8333333333333335V8.625c0 -3.7049070833333335 -3.003416666666667 -6.708333333333334 -6.708333333333334 -6.708333333333334 -3.704887916666667 0 -6.708304583333334 3.00342625 -6.708304583333334 6.708333333333334Z" stroke-width="1"></path>
-    <path id="Vector 2345" stroke="#000cfe" d="M9.583333333333334 21.083333333333336h3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 2344" stroke="#c71dff" d="M4.687246875 8.4375v4.6875l-2.1374999999999997 3.75H19.950000000000003l-2.13778125 -3.75V8.4375c0 -3.6243656250000003 -2.938125 -6.5625 -6.5625 -6.5625 -3.624346875 0 -6.562471875 2.9381343749999997 -6.562471875 6.5625Z" stroke-width="1.5"></path>
+    <path id="Vector 2345" stroke="#000cfe" d="M9.375 20.625h3.75" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Board--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Board--Streamline-Sharp-Neon">
   <desc>
     Board Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="board">
-    <path id="Rectangle 433" stroke="#c71dff" d="M1.9166666666666667 1.9166666666666667h19.166666666666668v19.166666666666668H1.9166666666666667z" stroke-width="1"></path>
-    <path id="Rectangle 434" stroke="#000cfe" d="M5.75 5.75h5.75v11.5H5.75V5.75Z" stroke-width="1"></path>
-    <path id="Rectangle 435" stroke="#000cfe" d="M11.5 5.75h5.75v5.75h-5.75V5.75Z" stroke-width="1"></path>
+    <path id="Rectangle 433" stroke="#c71dff" d="M1.875 1.875h18.75v18.75H1.875z" stroke-width="1.5"></path>
+    <path id="Rectangle 434" stroke="#000cfe" d="M5.625 5.625h5.625v11.25H5.625V5.625Z" stroke-width="1.5"></path>
+    <path id="Rectangle 435" stroke="#000cfe" d="M11.25 5.625h5.625v5.625h-5.625V5.625Z" stroke-width="1.5"></path>
   </g>
 </svg>

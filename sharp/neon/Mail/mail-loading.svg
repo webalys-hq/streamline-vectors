@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Mail-Loading--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Mail-Loading--Streamline-Sharp-Neon">
   <desc>
     Mail Loading Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="mail-loading--inbox-envelope-email-message-refresh">
-    <path id="Vector 2539" stroke="#000cfe" d="m1.38 2.99 8.280000000000001 4.6 8.280000000000001 -4.6" stroke-width="1"></path>
-    <path id="Vector" stroke="#000cfe" d="M13.915958333333334 18.630000000000003c0.4084416666666667 1.5871916666666666 1.8492958333333334 2.76 3.5640416666666668 2.76 1.5443541666666667 0 2.866566666666667 -0.9513375000000001 3.4124333333333334 -2.3" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="M21.04404166666667 16.79c-0.4084416666666667 -1.5871916666666666 -1.8492958333333334 -2.76 -3.5640416666666668 -2.76 -1.5443541666666667 0 -2.866566666666667 0.9513375000000001 -3.4124333333333334 2.3" stroke-width="1"></path>
-    <path id="Vector 4044" stroke="#000cfe" d="M18.4 16.79h3.22v-3.22" stroke-width="1"></path>
-    <path id="Vector 4045" stroke="#000cfe" d="M16.560000000000002 18.630000000000003h-3.22v3.22" stroke-width="1"></path>
-    <path id="Rectangle 846" stroke="#c71dff" d="M12.420000000000002 14.030000000000001H1.38V1.15h16.560000000000002v10.120000000000001" stroke-width="1"></path>
+    <path id="Vector 2539" stroke="#000cfe" d="m1.3499999999999999 2.9250000000000003 8.100000000000001 4.5 8.100000000000001 -4.5" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000cfe" d="M13.6134375 18.225c0.39956250000000004 1.5526875 1.80909375 2.6999999999999997 3.4865625 2.6999999999999997 1.51078125 0 2.80425 -0.9306562500000001 3.33825 -2.25" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000cfe" d="M20.5865625 16.425c-0.39956250000000004 -1.5526875 -1.80909375 -2.6999999999999997 -3.4865625 -2.6999999999999997 -1.51078125 0 -2.80425 0.9306562500000001 -3.33825 2.25" stroke-width="1.5"></path>
+    <path id="Vector 4044" stroke="#000cfe" d="M18 16.425h3.15v-3.15" stroke-width="1.5"></path>
+    <path id="Vector 4045" stroke="#000cfe" d="M16.200000000000003 18.225h-3.15v3.15" stroke-width="1.5"></path>
+    <path id="Rectangle 846" stroke="#c71dff" d="M12.15 13.725000000000001H1.3499999999999999V1.125h16.200000000000003v9.9" stroke-width="1.5"></path>
   </g>
 </svg>

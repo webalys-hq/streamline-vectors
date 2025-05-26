@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Pen-1--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Pen-1--Streamline-Sharp-Neon">
   <desc>
     Pen 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pen-1--content-creation-edit-pen-write">
-    <path id="Vector 1568" stroke="#000cfe" d="m18.6875 10.0625 -8.625 -8.625 -5.75 5.75" stroke-width="1"></path>
-    <path id="Vector 1570" stroke="#000cfe" d="m2.875 20.125 -1.9166666666666667 1.9166666666666667" stroke-width="1"></path>
-    <path id="Vector 1567" stroke="#c71dff" d="M21.5625 7.1875 8.625 20.125H2.875v-5.75L15.8125 1.4375l5.75 5.75Z" stroke-width="1"></path>
+    <path id="Vector 1568" stroke="#000cfe" d="m18.28125 9.84375 -8.4375 -8.4375 -5.625 5.625" stroke-width="1.5"></path>
+    <path id="Vector 1570" stroke="#000cfe" d="m2.8125 19.6875 -1.875 1.875" stroke-width="1.5"></path>
+    <path id="Vector 1567" stroke="#c71dff" d="M21.09375 7.03125 8.4375 19.6875H2.8125v-5.625L15.46875 1.40625l5.625 5.625Z" stroke-width="1.5"></path>
   </g>
 </svg>

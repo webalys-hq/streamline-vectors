@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Trophy--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Trophy--Streamline-Sharp-Neon">
   <desc>
     Trophy Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="trophy--reward-rating-trophy-social-award-media">
-    <path id="Vector 88" stroke="#000cfe" d="M21.083333333333336 9.583333333333334V1.9166666666666667H1.9166666666666667v7.666666666666667" stroke-width="1"></path>
-    <path id="Vector 116" stroke="#000cfe" d="M4.791666666666667 21.083333333333336h13.416666666666668" stroke-width="1"></path>
-    <path id="Vector 117" stroke="#000cfe" d="m11.5 15.333333333333334 0 5.75" stroke-width="1"></path>
-    <path id="Ellipse 1" stroke="#c71dff" d="M5.75 1.9166666666666667v7.666666666666667c0 3.1756291666666665 2.5743612500000004 5.75 5.75 5.75 3.1756291666666665 0 5.75 -2.5743708333333335 5.75 -5.75V1.9166666666666667H5.75Z" stroke-width="1"></path>
+    <path id="Vector 88" stroke="#000cfe" d="M20.625 9.375V1.875H1.875v7.5" stroke-width="1.5"></path>
+    <path id="Vector 116" stroke="#000cfe" d="M4.6875 20.625h13.125" stroke-width="1.5"></path>
+    <path id="Vector 117" stroke="#000cfe" d="m11.25 15 0 5.625" stroke-width="1.5"></path>
+    <path id="Ellipse 1" stroke="#c71dff" d="M5.625 1.875v7.5c0 3.10659375 2.518396875 5.625 5.625 5.625 3.10659375 0 5.625 -2.51840625 5.625 -5.625V1.875H5.625Z" stroke-width="1.5"></path>
   </g>
 </svg>

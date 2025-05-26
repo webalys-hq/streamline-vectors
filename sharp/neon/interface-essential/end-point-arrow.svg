@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="End-Point-Arrow--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="End-Point-Arrow--Streamline-Sharp-Neon">
   <desc>
     End Point Arrow Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="end-point-arrow">
-    <path id="Vector 4" stroke="#c71dff" d="m0 11.5 13.416666666666668 0.00019166666666666667" stroke-width="1"></path>
-    <path id="Vector 6" stroke="#000cfe" d="m14.375 11.500095833333333 -1.9166666666666667 5.3831500000000005 8.720833333333333 -5.3831500000000005L12.458333333333334 6.1168595833333335l1.9166666666666667 5.3832362499999995Z" stroke-width="1"></path>
+    <path id="Vector 4" stroke="#c71dff" d="m0 11.25 13.125 0.0001875" stroke-width="1.5"></path>
+    <path id="Vector 6" stroke="#000cfe" d="m14.0625 11.25009375 -1.875 5.266125000000001 8.53125 -5.266125000000001L12.1875 5.983884375l1.875 5.266209375Z" stroke-width="1.5"></path>
   </g>
 </svg>

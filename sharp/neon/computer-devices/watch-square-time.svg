@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Watch-Square-Time--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Watch-Square-Time--Streamline-Sharp-Neon">
   <desc>
     Watch Square Time Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="watch-square-time--device-timepiece-watch-square-time-clock-analog">
-    <path id="Vector 2750" stroke="#000cfe" d="M11.5 7.666666666666667v3.8333333333333335h2.875" stroke-width="1"></path>
-    <path id="Rectangle 38" stroke="#000cfe" d="m6.708333333333334 4.791666666666667 0 -3.8333333333333335 9.583333333333334 0 0 3.8333333333333335" stroke-width="1"></path>
-    <path id="Rectangle 39" stroke="#000cfe" d="m6.708333333333334 18.208333333333336 0 3.8333333333333335 9.583333333333334 0 0 -3.8333333333333335" stroke-width="1"></path>
-    <path id="Rectangle 37" stroke="#c71dff" d="m18.6875 4.791666666666667 0 13.416666666666668 -14.375 0 0 -13.416666666666668 14.375 0Z" stroke-width="1"></path>
+    <path id="Vector 2750" stroke="#000cfe" d="M11.25 7.5v3.75h2.8125" stroke-width="1.5"></path>
+    <path id="Rectangle 38" stroke="#000cfe" d="m6.5625 4.6875 0 -3.75 9.375 0 0 3.75" stroke-width="1.5"></path>
+    <path id="Rectangle 39" stroke="#000cfe" d="m6.5625 17.8125 0 3.75 9.375 0 0 -3.75" stroke-width="1.5"></path>
+    <path id="Rectangle 37" stroke="#c71dff" d="m18.28125 4.6875 0 13.125 -14.0625 0 0 -13.125 14.0625 0Z" stroke-width="1.5"></path>
   </g>
 </svg>

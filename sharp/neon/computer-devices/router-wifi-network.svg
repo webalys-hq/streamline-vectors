@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Router-Wifi-Network--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Router-Wifi-Network--Streamline-Sharp-Neon">
   <desc>
     Router Wifi Network Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="router-wifi-network">
-    <path id="Vector 4234" stroke="#000cfe" d="m6.804166666666666 11.265208333333334 -3.756666666666667 -8.922083333333335" stroke-width="1"></path>
-    <path id="Vector 4235" stroke="#000cfe" d="m16.195833333333333 11.265208333333334 3.756666666666667 -8.922083333333335" stroke-width="1"></path>
-    <path id="Vector 2434" stroke="#000cfe" d="M5.720579166666666 18.778541666666666v2.8175" stroke-width="1"></path>
-    <path id="Vector 2436" stroke="#000cfe" d="M9.4038375 15.021875000000001h8.182729166666668" stroke-width="1"></path>
-    <path id="Vector 2440" stroke="#000cfe" d="M5.5798000000000005 15.021875000000001h2.0311875" stroke-width="1"></path>
-    <path id="Vector 2439" stroke="#000cfe" d="M17.279420833333333 18.778541666666666v2.8175" stroke-width="1"></path>
-    <path id="Vector 2433" stroke="#c71dff" d="M1.1691666666666667 18.778445833333333V11.265208333333334h20.661666666666665v7.513237500000001H1.1691666666666667Z" stroke-width="1"></path>
+    <path id="Vector 4234" stroke="#000cfe" d="m6.65625 11.020312500000001 -3.675 -8.728125" stroke-width="1.5"></path>
+    <path id="Vector 4235" stroke="#000cfe" d="m15.843749999999998 11.020312500000001 3.675 -8.728125" stroke-width="1.5"></path>
+    <path id="Vector 2434" stroke="#000cfe" d="M5.596218749999999 18.370312499999997v2.75625" stroke-width="1.5"></path>
+    <path id="Vector 2436" stroke="#000cfe" d="M9.19940625 14.6953125h8.004843750000001" stroke-width="1.5"></path>
+    <path id="Vector 2440" stroke="#000cfe" d="M5.4585 14.6953125h1.98703125" stroke-width="1.5"></path>
+    <path id="Vector 2439" stroke="#000cfe" d="M16.903781249999998 18.370312499999997v2.75625" stroke-width="1.5"></path>
+    <path id="Vector 2433" stroke="#c71dff" d="M1.14375 18.37021875V11.020312500000001h20.2125v7.34990625H1.14375Z" stroke-width="1.5"></path>
   </g>
 </svg>

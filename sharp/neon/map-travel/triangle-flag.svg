@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Triangle-Flag--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Triangle-Flag--Streamline-Sharp-Neon">
   <desc>
     Triangle Flag Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="triangle-flag--navigation-map-maps-flag-gps-location-destination-goal">
-    <path id="Vector" stroke="#c71dff" d="M1.9166666666666667 1.9166666666666667v20.125" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" d="M1.9166666666666667 17.25V1.9166666666666667l18.572499999999998 7.666666666666667L1.9166666666666667 17.25Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="M1.875 1.875v19.6875" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#c71dff" d="M1.875 16.875V1.875l18.16875 7.5L1.875 16.875Z" stroke-width="1.5"></path>
   </g>
 </svg>

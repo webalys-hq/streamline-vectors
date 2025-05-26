@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Archive-Box--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Archive-Box--Streamline-Sharp-Neon">
   <desc>
     Archive Box Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="archive-box--box-content-banker-archive-file">
-    <path id="Rectangle 38" stroke="#c71dff" d="m20.125 6.708333333333334 0 14.375 -17.25 0L2.875 6.708333333333334l17.25 0Z" stroke-width="1"></path>
-    <path id="Vector 196" stroke="#000cfe" d="m14.375 11.5 -5.75 0" stroke-width="1"></path>
-    <path id="Rectangle 37" stroke="#000cfe" d="m22.041666666666668 1.9166666666666667 0 4.791666666666667L0.9583333333333334 6.708333333333334l0 -4.791666666666667 21.083333333333336 0Z" stroke-width="1"></path>
+    <path id="Rectangle 38" stroke="#c71dff" d="m19.6875 6.5625 0 14.0625 -16.875 0L2.8125 6.5625l16.875 0Z" stroke-width="1.5"></path>
+    <path id="Vector 196" stroke="#000cfe" d="m14.0625 11.25 -5.625 0" stroke-width="1.5"></path>
+    <path id="Rectangle 37" stroke="#000cfe" d="m21.5625 1.875 0 4.6875L0.9375 6.5625l0 -4.6875 20.625 0Z" stroke-width="1.5"></path>
   </g>
 </svg>

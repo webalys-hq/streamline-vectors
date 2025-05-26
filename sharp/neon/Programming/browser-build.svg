@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Browser-Build--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Browser-Build--Streamline-Sharp-Neon">
   <desc>
     Browser Build Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="browser-build--build-website-development-window-code-web-backend-browser-dev">
-    <path id="Rectangle 594" stroke="#c71dff" d="M22.041666666666668 20.125v-8.625H9.583333333333334V2.875H0.9583333333333334v17.25h21.083333333333336Z" stroke-width="1"></path>
-    <path id="Rectangle 595" stroke="#000cfe" d="M0.9583333333333334 6.708333333333334h22.041666666666668" stroke-width="1"></path>
-    <path id="Vector 2045" stroke="#000cfe" d="M14.375 11.5V1.9166666666666667" stroke-width="1"></path>
-    <path id="Vector 2046" stroke="#000cfe" d="M19.166666666666668 11.5V3.8333333333333335" stroke-width="1"></path>
-    <path id="Rectangle 597" stroke="#000cfe" d="M0.9583333333333334 6.7084962500000005h8.625V2.875H0.9583333333333334v3.83349625Z" stroke-width="1"></path>
+    <path id="Rectangle 594" stroke="#c71dff" d="M21.5625 19.6875v-8.4375H9.375V2.8125H0.9375v16.875h20.625Z" stroke-width="1.5"></path>
+    <path id="Rectangle 595" stroke="#000cfe" d="M0.9375 6.5625h21.5625" stroke-width="1.5"></path>
+    <path id="Vector 2045" stroke="#000cfe" d="M14.0625 11.25V1.875" stroke-width="1.5"></path>
+    <path id="Vector 2046" stroke="#000cfe" d="M18.75 11.25V3.75" stroke-width="1.5"></path>
+    <path id="Rectangle 597" stroke="#000cfe" d="M0.9375 6.562659375h8.4375V2.8125H0.9375v3.750159375Z" stroke-width="1.5"></path>
   </g>
 </svg>

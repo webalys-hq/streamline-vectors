@@ -1,12 +1,12 @@
-<svg viewBox="-0.5 -0.5 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="Hot-Air-Balloon--Streamline-Sharp-Neon">
+<svg viewBox="-0.75 -0.75 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="Hot-Air-Balloon--Streamline-Sharp-Neon">
   <desc>
     Hot Air Balloon Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hot-air-balloon">
-    <path id="Vector" d="M14.375 1.4515395833333335V13.416570833333335" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Vector_2" d="M8.625 1.4515395833333335V13.416570833333335" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Ellipse 7" d="M8.625 18.208333333333336s-5.75 -4.791666666666667 -5.75 -8.625c0 -2.2874937500000003 0.90870125 -4.48129125 2.526205 -6.098795S9.21250625 0.9583333333333334 11.5 0.9583333333333334c2.2874458333333334 0 4.4812625 0.90870125 6.098833333333333 2.526205C19.216308333333334 5.102042083333334 20.125 7.295839583333334 20.125 9.583333333333334c0 3.8333333333333335 -5.75 8.625 -5.75 8.625" stroke="#c71dff" stroke-width="1"></path>
-    <path id="Vector 3307" d="M8.625 22.041666666666668v-3.8333333333333335h5.75v3.8333333333333335H8.625Z" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Vector 4041" d="M4.3125 13.416666666666668h14.375" stroke="#c71dff" stroke-width="1"></path>
+    <path id="Vector" d="M14.0625 1.419984375V13.12490625" stroke="#000cfe" stroke-width="1.5"></path>
+    <path id="Vector_2" d="M8.4375 1.419984375V13.12490625" stroke="#000cfe" stroke-width="1.5"></path>
+    <path id="Ellipse 7" d="M8.4375 17.8125s-5.625 -4.6875 -5.625 -8.4375c0 -2.237765625 0.888946875 -4.383871875 2.4712875 -5.966212499999999S9.012234375 0.9375 11.25 0.9375c2.23771875 0 4.38384375 0.888946875 5.96625 2.4712875C18.7985625 4.991128125 19.6875 7.137234375 19.6875 9.375c0 3.75 -5.625 8.4375 -5.625 8.4375" stroke="#c71dff" stroke-width="1.5"></path>
+    <path id="Vector 3307" d="M8.4375 21.5625v-3.75h5.625v3.75H8.4375Z" stroke="#000cfe" stroke-width="1.5"></path>
+    <path id="Vector 4041" d="M4.21875 13.125h14.0625" stroke="#c71dff" stroke-width="1.5"></path>
   </g>
 </svg>

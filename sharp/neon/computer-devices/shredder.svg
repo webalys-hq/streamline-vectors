@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Shredder--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Shredder--Streamline-Sharp-Neon">
   <desc>
     Shredder Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shredder--device-electronics-shred-paper-cut-destroy-remove-delete">
-    <path id="Rectangle 739" stroke="#c71dff" d="M4.791666666666667 16.291666666666668H1.9166666666666667V8.625h19.166666666666668v7.666666666666667h-2.875" stroke-width="1"></path>
-    <path id="Rectangle 740" stroke="#000cfe" d="M17.25 5.75V1.9166666666666667H5.75v3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 2604" stroke="#000cfe" d="M4.791666666666667 12.458333333333334h13.416666666666668" stroke-width="1"></path>
-    <path id="Vector 2605" stroke="#000cfe" d="M7.666666666666667 12.458333333333334v6.708333333333334c0 1.058575 -0.8581204166666666 1.9166666666666667 -1.9166666666666667 1.9166666666666667H4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2606" stroke="#000cfe" d="m15.333333333333334 12.458333333333334 0 6.708333333333334c0 1.058575 0.8580916666666667 1.9166666666666667 1.9166666666666667 1.9166666666666667h0.9583333333333334" stroke-width="1"></path>
-    <path id="Vector 2607" stroke="#000cfe" d="M11.5 12.458333333333334v9.583333333333334" stroke-width="1"></path>
+    <path id="Rectangle 739" stroke="#c71dff" d="M4.6875 15.9375H1.875V8.4375h18.75v7.5h-2.8125" stroke-width="1.5"></path>
+    <path id="Rectangle 740" stroke="#000cfe" d="M16.875 5.625V1.875H5.625v3.75" stroke-width="1.5"></path>
+    <path id="Vector 2604" stroke="#000cfe" d="M4.6875 12.1875h13.125" stroke-width="1.5"></path>
+    <path id="Vector 2605" stroke="#000cfe" d="M7.5 12.1875v6.5625c0 1.0355625 -0.839465625 1.875 -1.875 1.875H4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2606" stroke="#000cfe" d="m15 12.1875 0 6.5625c0 1.0355625 0.8394375 1.875 1.875 1.875h0.9375" stroke-width="1.5"></path>
+    <path id="Vector 2607" stroke="#000cfe" d="M11.25 12.1875v9.375" stroke-width="1.5"></path>
   </g>
 </svg>

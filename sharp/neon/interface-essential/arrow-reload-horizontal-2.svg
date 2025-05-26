@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Arrow-Reload-Horizontal-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Arrow-Reload-Horizontal-2--Streamline-Sharp-Neon">
   <desc>
     Arrow Reload Horizontal 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="line-arrow-reload-horizontal-2">
-    <path id="Vector" stroke="#c71dff" d="M8.145833333333334 17.25 22.041666666666668 17.25l0 -11.5 -3.8333333333333335 0" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" d="M11.9792625 21.08342916666667 8.145833333333334 17.25l3.8334291666666664 -3.8334291666666664" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" d="M11.020737500000001 9.583429166666667 14.854166666666668 5.75l-3.8334291666666664 -3.833390833333334" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" d="m14.854166666666668 5.750009583333333 -13.895836208333334 0L0.9583285416666667 17.25l3.833328541666667 0" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="M7.96875 16.875 21.5625 16.875l0 -11.25 -3.75 0" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#c71dff" d="M11.71884375 20.62509375 7.96875 16.875l3.7500937499999996 -3.7500937499999996" stroke-width="1.5"></path>
+    <path id="Vector_3" stroke="#000cfe" d="M10.78115625 9.37509375 14.53125 5.625l-3.7500937499999996 -3.7500562500000005" stroke-width="1.5"></path>
+    <path id="Vector_4" stroke="#000cfe" d="m14.53125 5.625009374999999 -13.5937528125 0L0.9374953125 16.875l3.7499953125000003 0" stroke-width="1.5"></path>
   </g>
 </svg>

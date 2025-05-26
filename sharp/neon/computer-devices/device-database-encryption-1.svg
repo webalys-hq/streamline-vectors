@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Device-Database-Encryption-1--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Device-Database-Encryption-1--Streamline-Sharp-Neon">
   <desc>
     Device Database Encryption 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="device-database-encryption-1">
-    <path id="Rectangle 435" stroke="#000cfe" d="M13.416666666666668 16.291666666666668h7.666666666666667v4.791666666666667h-7.666666666666667v-4.791666666666667Z" stroke-width="1"></path>
-    <path id="Ellipse 558" stroke="#000cfe" d="M14.854166666666668 16.291666666666668v-2.3958333333333335c0 -1.3231708333333334 1.0726625 -2.3958333333333335 2.3958333333333335 -2.3958333333333335s2.3958333333333335 1.0726625 2.3958333333333335 2.3958333333333335V16.291666666666668" stroke-width="1"></path>
-    <path id="Vector 2617" stroke="#c71dff" d="M1.9166666666666667 0.9583333333333334v5.75" stroke-width="1"></path>
-    <path id="Vector 2620" stroke="#c71dff" d="M1.9166666666666667 8.625v5.75" stroke-width="1"></path>
-    <path id="Vector 2622" stroke="#c71dff" d="M9.104166666666668 16.291666666666668v5.75" stroke-width="1"></path>
-    <path id="Vector 2618" stroke="#c71dff" d="M12.9375 0.9583333333333334v5.75" stroke-width="1"></path>
-    <path id="Vector 2623" stroke="#c71dff" d="M16.770833333333336 0.9583333333333334v5.75" stroke-width="1"></path>
-    <path id="Rectangle 875" stroke="#000cfe" d="M5.75 1.9166666666666667h3.354166666666667v3.8333333333333335H5.75V1.9166666666666667Z" stroke-width="1"></path>
-    <path id="Rectangle 876" stroke="#000cfe" d="M5.75 9.583333333333334h3.354166666666667v3.8333333333333335H5.75v-3.8333333333333335Z" stroke-width="1"></path>
-    <path id="Rectangle 877" stroke="#000cfe" d="M1.9166666666666667 17.25h3.354166666666667v3.8333333333333335H1.9166666666666667v-3.8333333333333335Z" stroke-width="1"></path>
+    <path id="Rectangle 435" stroke="#000cfe" d="M13.125 15.9375h7.5v4.6875h-7.5v-4.6875Z" stroke-width="1.5"></path>
+    <path id="Ellipse 558" stroke="#000cfe" d="M14.53125 15.9375v-2.34375c0 -1.29440625 1.04934375 -2.34375 2.34375 -2.34375s2.34375 1.04934375 2.34375 2.34375V15.9375" stroke-width="1.5"></path>
+    <path id="Vector 2617" stroke="#c71dff" d="M1.875 0.9375v5.625" stroke-width="1.5"></path>
+    <path id="Vector 2620" stroke="#c71dff" d="M1.875 8.4375v5.625" stroke-width="1.5"></path>
+    <path id="Vector 2622" stroke="#c71dff" d="M8.90625 15.9375v5.625" stroke-width="1.5"></path>
+    <path id="Vector 2618" stroke="#c71dff" d="M12.65625 0.9375v5.625" stroke-width="1.5"></path>
+    <path id="Vector 2623" stroke="#c71dff" d="M16.40625 0.9375v5.625" stroke-width="1.5"></path>
+    <path id="Rectangle 875" stroke="#000cfe" d="M5.625 1.875h3.28125v3.75H5.625V1.875Z" stroke-width="1.5"></path>
+    <path id="Rectangle 876" stroke="#000cfe" d="M5.625 9.375h3.28125v3.75H5.625v-3.75Z" stroke-width="1.5"></path>
+    <path id="Rectangle 877" stroke="#000cfe" d="M1.875 16.875h3.28125v3.75H1.875v-3.75Z" stroke-width="1.5"></path>
   </g>
 </svg>

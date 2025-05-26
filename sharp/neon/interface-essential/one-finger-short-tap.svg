@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="One-Finger-Short-Tap--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="One-Finger-Short-Tap--Streamline-Sharp-Neon">
   <desc>
     One Finger Short Tap Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="one-finger-short-tap">
-    <path id="Vector 2448" stroke="#000cfe" d="M6.708333333333334 7.666666666666667H4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2449" stroke="#000cfe" d="M18.208333333333336 7.666666666666667h-1.9166666666666667" stroke-width="1"></path>
-    <path id="Vector 2450" stroke="#000cfe" d="m11.5 2.875 0 -1.9166666666666667" stroke-width="1"></path>
-    <path id="Vector 2452" stroke="#000cfe" d="M8.1113525 4.278019166666667 6.756058333333334 2.922725" stroke-width="1"></path>
-    <path id="Vector 2455" stroke="#000cfe" d="m16.243175 2.9236641666666667 -1.355275 1.3552845833333333" stroke-width="1"></path>
-    <path id="Vector 58" stroke="#c71dff" d="M19.166570833333335 23.000095833333333V15.333333333333334L13.416666666666668 12.458333333333334V7.666666666666667c0 -1.05854625 -0.8580916666666667 -1.9166666666666667 -1.9166666666666667 -1.9166666666666667h-1.9166666666666667v10.541666666666668l-3.2272258333333332 -1.0757291666666668C5.114998750000001 14.802225 3.8333333333333335 15.725962500000001 3.8333333333333335 17.034279166666668v0.21581666666666668l4.791666666666667 4.791666666666667" stroke-width="1"></path>
+    <path id="Vector 2448" stroke="#000cfe" d="M6.5625 7.5H4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2449" stroke="#000cfe" d="M17.8125 7.5h-1.875" stroke-width="1.5"></path>
+    <path id="Vector 2450" stroke="#000cfe" d="m11.25 2.8125 0 -1.875" stroke-width="1.5"></path>
+    <path id="Vector 2452" stroke="#000cfe" d="M7.935018749999999 4.185018749999999 6.6091875 2.8591875" stroke-width="1.5"></path>
+    <path id="Vector 2455" stroke="#000cfe" d="m15.8900625 2.86010625 -1.3258124999999998 1.325821875" stroke-width="1.5"></path>
+    <path id="Vector 58" stroke="#c71dff" d="M18.74990625 22.50009375V15L13.125 12.1875V7.5c0 -1.0355343750000001 -0.8394375 -1.875 -1.875 -1.875h-1.875v10.3125l-3.15706875 -1.0523437500000001C5.003803125 14.4804375 3.75 15.384093750000002 3.75 16.66396875v0.211125l4.6875 4.6875" stroke-width="1.5"></path>
   </g>
 </svg>

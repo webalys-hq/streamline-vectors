@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Gameboy--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Gameboy--Streamline-Sharp-Neon">
   <desc>
     Gameboy Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="gameboy--entertainment-gaming-device-gameboy">
-    <path id="Rectangle 1689" stroke="#c71dff" d="M2.875 0.9583333333333334h17.25v21.083333333333336H2.875V0.9583333333333334Z" stroke-width="1"></path>
-    <path id="Rectangle 1690" stroke="#000cfe" d="M6.708333333333334 4.791666666666667h9.583333333333334v6.708333333333334H6.708333333333334z" stroke-width="1"></path>
-    <path id="Vector 2916" stroke="#000cfe" d="M8.145833333333334 14.375v4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2917" stroke="#000cfe" d="m10.541666666666668 16.770833333333336 -4.791666666666667 0" stroke-width="1"></path>
-    <path id="Vector 2918" stroke="#000cfe" d="m14.375 18.208333333333336 -1.9166666666666667 0" stroke-width="1"></path>
-    <path id="Vector 2919" stroke="#000cfe" d="m17.25 15.333333333333334 -1.9166666666666667 0" stroke-width="1"></path>
+    <path id="Rectangle 1689" stroke="#c71dff" d="M2.8125 0.9375h16.875v20.625H2.8125V0.9375Z" stroke-width="1.5"></path>
+    <path id="Rectangle 1690" stroke="#000cfe" d="M6.5625 4.6875h9.375v6.5625H6.5625z" stroke-width="1.5"></path>
+    <path id="Vector 2916" stroke="#000cfe" d="M7.96875 14.0625v4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2917" stroke="#000cfe" d="m10.3125 16.40625 -4.6875 0" stroke-width="1.5"></path>
+    <path id="Vector 2918" stroke="#000cfe" d="m14.0625 17.8125 -1.875 0" stroke-width="1.5"></path>
+    <path id="Vector 2919" stroke="#000cfe" d="m16.875 15 -1.875 0" stroke-width="1.5"></path>
   </g>
 </svg>

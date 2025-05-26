@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="3d-Move--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="3d-Move--Streamline-Sharp-Neon">
   <desc>
     3d Move Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="3d-move">
-    <path id="Vector 1433" stroke="#c71dff" d="M3.8333333333333335 9.104166666666668 1.4375 11.5 3.8333333333333335 13.895833333333334" stroke-width="1"></path>
-    <path id="Vector 2083" stroke="#c71dff" d="m1.4375 11.5 6.708333333333334 0" stroke-width="1"></path>
-    <path id="Vector 2077" stroke="#c71dff" d="M13.895833333333334 3.8333333333333335 11.5 1.4375 9.104166666666668 3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 2082" stroke="#c71dff" d="M11.5 1.4375 11.5 7.666666666666667" stroke-width="1"></path>
-    <path id="Vector 2078" stroke="#c71dff" d="m19.166666666666668 13.895833333333334 2.3958333333333335 -2.3958333333333335L19.166666666666668 9.104166666666668" stroke-width="1"></path>
-    <path id="Vector 2081" stroke="#c71dff" d="M21.5625 11.5 15.333333333333334 11.5" stroke-width="1"></path>
-    <path id="Vector 2079" stroke="#c71dff" d="m9.104166666666668 19.166666666666668 2.3958333333333335 2.3958333333333335 2.3958333333333335 -2.3958333333333335" stroke-width="1"></path>
-    <path id="Vector 2080" stroke="#c71dff" d="m11.5 21.5625 0 -6.229166666666667" stroke-width="1"></path>
-    <path id="Vector 2076" stroke="#000cfe" d="M7.666666666666667 15.333333333333334V7.666666666666667h7.666666666666667v7.666666666666667H7.666666666666667Z" stroke-width="1"></path>
+    <path id="Vector 1433" stroke="#c71dff" d="M3.75 8.90625 1.40625 11.25 3.75 13.59375" stroke-width="1.5"></path>
+    <path id="Vector 2083" stroke="#c71dff" d="m1.40625 11.25 6.5625 0" stroke-width="1.5"></path>
+    <path id="Vector 2077" stroke="#c71dff" d="M13.59375 3.75 11.25 1.40625 8.90625 3.75" stroke-width="1.5"></path>
+    <path id="Vector 2082" stroke="#c71dff" d="M11.25 1.40625 11.25 7.5" stroke-width="1.5"></path>
+    <path id="Vector 2078" stroke="#c71dff" d="m18.75 13.59375 2.34375 -2.34375L18.75 8.90625" stroke-width="1.5"></path>
+    <path id="Vector 2081" stroke="#c71dff" d="M21.09375 11.25 15 11.25" stroke-width="1.5"></path>
+    <path id="Vector 2079" stroke="#c71dff" d="m8.90625 18.75 2.34375 2.34375 2.34375 -2.34375" stroke-width="1.5"></path>
+    <path id="Vector 2080" stroke="#c71dff" d="m11.25 21.09375 0 -6.09375" stroke-width="1.5"></path>
+    <path id="Vector 2076" stroke="#000cfe" d="M7.5 15V7.5h7.5v7.5H7.5Z" stroke-width="1.5"></path>
   </g>
 </svg>

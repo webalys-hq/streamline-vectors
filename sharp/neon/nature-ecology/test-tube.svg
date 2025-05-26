@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Test-Tube--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Test-Tube--Streamline-Sharp-Neon">
   <desc>
     Test Tube Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
-    <path id="Vector 2547" stroke="#c71dff" d="M2.875 0.9583333333333334h17.25" stroke-width="1"></path>
-    <path id="Rectangle 827" stroke="#c71dff" d="M5.75 0.9583333333333334h11.5v15.333333333333334c0 3.1756291666666665 -2.5743708333333335 5.75 -5.75 5.75 -3.17563875 0 -5.75 -2.5743708333333335 -5.75 -5.75V0.9583333333333334Z" stroke-width="1"></path>
-    <path id="Rectangle 829" stroke="#000cfe" d="M5.75 6.7249316666666665h11.5v9.566543333333334c0 3.1756291666666665 -2.5743708333333335 5.75 -5.75 5.75 -3.17563875 0 -5.75 -2.5743708333333335 -5.75 -5.75l0 -9.566543333333334Z" stroke-width="1"></path>
+    <path id="Vector 2547" stroke="#c71dff" d="M2.8125 0.9375h16.875" stroke-width="1.5"></path>
+    <path id="Rectangle 827" stroke="#c71dff" d="M5.625 0.9375h11.25v15c0 3.10659375 -2.51840625 5.625 -5.625 5.625 -3.106603125 0 -5.625 -2.51840625 -5.625 -5.625V0.9375Z" stroke-width="1.5"></path>
+    <path id="Rectangle 829" stroke="#000cfe" d="M5.625 6.5787375h11.25v9.358575c0 3.10659375 -2.51840625 5.625 -5.625 5.625 -3.106603125 0 -5.625 -2.51840625 -5.625 -5.625l0 -9.358575Z" stroke-width="1.5"></path>
   </g>
 </svg>

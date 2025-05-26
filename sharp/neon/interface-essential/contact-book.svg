@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Contact-Book--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Contact-Book--Streamline-Sharp-Neon">
   <desc>
     Contact Book Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="contact-book--contact-notebook-note">
-    <path id="Rectangle 782" stroke="#c71dff" d="M3.8333333333333335 1.9166666666666667h17.25v19.166666666666668H3.8333333333333335z" stroke-width="1"></path>
-    <path id="Vector 2304" stroke="#000cfe" d="M0.9583333333333334 5.75h5.75" stroke-width="1"></path>
-    <path id="Vector 2305" stroke="#000cfe" d="M0.9583333333333334 11.5h5.75" stroke-width="1"></path>
-    <path id="Vector 2306" stroke="#000cfe" d="M0.9583333333333334 17.25h5.75" stroke-width="1"></path>
-    <path id="Rectangle 783" stroke="#000cfe" d="M9.583333333333334 5.75h7.666666666666667v3.8333333333333335h-7.666666666666667z" stroke-width="1"></path>
+    <path id="Rectangle 782" stroke="#c71dff" d="M3.75 1.875h16.875v18.75H3.75z" stroke-width="1.5"></path>
+    <path id="Vector 2304" stroke="#000cfe" d="M0.9375 5.625h5.625" stroke-width="1.5"></path>
+    <path id="Vector 2305" stroke="#000cfe" d="M0.9375 11.25h5.625" stroke-width="1.5"></path>
+    <path id="Vector 2306" stroke="#000cfe" d="M0.9375 16.875h5.625" stroke-width="1.5"></path>
+    <path id="Rectangle 783" stroke="#000cfe" d="M9.375 5.625h7.5v3.75h-7.5z" stroke-width="1.5"></path>
   </g>
 </svg>

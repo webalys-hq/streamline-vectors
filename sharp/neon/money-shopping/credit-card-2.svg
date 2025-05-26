@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Credit-Card-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Credit-Card-2--Streamline-Sharp-Neon">
   <desc>
     Credit Card 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="credit-card-2--deposit-payment-finance-atm-withdraw-atm">
-    <path id="Ellipse 175" stroke="#000cfe" d="M11.5 15.8125a2.3958333333333335 2.3958333333333335 0 1 0 0 -4.791666666666667 2.3958333333333335 2.3958333333333335 0 1 0 0 4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2333" stroke="#000cfe" d="m1.9166666666666667 6.708333333333334 0 -4.791666666666667 19.166666666666668 0 0 4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 2313" stroke="#c71dff" d="M17.25 21.083333333333336 5.75 21.083333333333336 5.75 5.75l11.5 0 0 15.333333333333334Z" stroke-width="1"></path>
+    <path id="Ellipse 175" stroke="#000cfe" d="M11.25 15.46875a2.34375 2.34375 0 1 0 0 -4.6875 2.34375 2.34375 0 1 0 0 4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2333" stroke="#000cfe" d="m1.875 6.5625 0 -4.6875 18.75 0 0 4.6875" stroke-width="1.5"></path>
+    <path id="Vector 2313" stroke="#c71dff" d="M16.875 20.625 5.625 20.625 5.625 5.625l11.25 0 0 15Z" stroke-width="1.5"></path>
   </g>
 </svg>

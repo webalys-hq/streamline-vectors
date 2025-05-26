@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Shipment-Check--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Shipment-Check--Streamline-Sharp-Neon">
   <desc>
     Shipment Check Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shipment-check--shipping-parcel-shipment-check-approved">
-    <path id="Vector 1143" stroke="#000cfe" d="m6.947916666666667 13.895833333333334 3.354166666666667 3.354166666666667 5.75 -7.1875" stroke-width="1"></path>
-    <path id="Vector 5" stroke="#c71dff" d="M11.5 1.9512912500000001v4.791666666666667" stroke-width="1"></path>
-    <path id="Vector 6" stroke="#c71dff" d="M11.5 21.11792916666667H1.9166666666666667V5.648617916666667l3.354166666666667 -3.697326666666667h12.458333333333334L21.083333333333336 5.648617916666667l0 15.46931125H11.5Z" stroke-width="1"></path>
-    <path id="Vector 3896" stroke="#c71dff" d="M1.9166666666666667 6.708333333333334h19.166666666666668" stroke-width="1"></path>
+    <path id="Vector 1143" stroke="#000cfe" d="m6.796875 13.59375 3.28125 3.28125 5.625 -7.03125" stroke-width="1.5"></path>
+    <path id="Vector 5" stroke="#c71dff" d="M11.25 1.908871875v4.6875" stroke-width="1.5"></path>
+    <path id="Vector 6" stroke="#c71dff" d="M11.25 20.658843750000003H1.875V5.525821875l3.28125 -3.61695h12.1875L20.625 5.525821875l0 15.133021875H11.25Z" stroke-width="1.5"></path>
+    <path id="Vector 3896" stroke="#c71dff" d="M1.875 6.5625h18.75" stroke-width="1.5"></path>
   </g>
 </svg>

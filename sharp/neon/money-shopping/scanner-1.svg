@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Scanner-1--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Scanner-1--Streamline-Sharp-Neon">
   <desc>
     Scanner 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="scanner-1--codes-tags-upc-barcode-qr">
-    <path id="Vector 2532" stroke="#c71dff" d="M1.9166666666666667 8.625V1.9166666666666667h6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 2534" stroke="#c71dff" d="M1.9166666666666667 14.375v6.708333333333334h6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 2533" stroke="#c71dff" d="m14.375 1.9166666666666667 6.708333333333334 0 0 6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 2535" stroke="#c71dff" d="m14.375 21.083333333333336 6.708333333333334 0 0 -6.708333333333334" stroke-width="1"></path>
+    <path id="Vector 2532" stroke="#c71dff" d="M1.875 8.4375V1.875h6.5625" stroke-width="1.5"></path>
+    <path id="Vector 2534" stroke="#c71dff" d="M1.875 14.0625v6.5625h6.5625" stroke-width="1.5"></path>
+    <path id="Vector 2533" stroke="#c71dff" d="m14.0625 1.875 6.5625 0 0 6.5625" stroke-width="1.5"></path>
+    <path id="Vector 2535" stroke="#c71dff" d="m14.0625 20.625 6.5625 0 0 -6.5625" stroke-width="1.5"></path>
   </g>
 </svg>

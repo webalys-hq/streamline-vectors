@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Eject-Square--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Eject-Square--Streamline-Sharp-Neon">
   <desc>
     Eject Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="eject-square--eject-unmount-dismount-remove-keyboard">
-    <path id="Rectangle 927" stroke="#c71dff" d="M1.9166666666666667 1.9166666666666667h19.166666666666668v19.166666666666668H1.9166666666666667z" stroke-width="1"></path>
-    <path id="Vector 2691" stroke="#000cfe" d="M5.75 15.8125h11.5" stroke-width="1"></path>
-    <path id="Vector 2692" stroke="#000cfe" d="M15.333333333333334 11.979166666666668H7.666666666666667l3.8333333333333335 -4.791666666666667 3.8333333333333335 4.791666666666667Z" stroke-width="1"></path>
+    <path id="Rectangle 927" stroke="#c71dff" d="M1.875 1.875h18.75v18.75H1.875z" stroke-width="1.5"></path>
+    <path id="Vector 2691" stroke="#000cfe" d="M5.625 15.46875h11.25" stroke-width="1.5"></path>
+    <path id="Vector 2692" stroke="#000cfe" d="M15 11.71875H7.5l3.75 -4.6875 3.75 4.6875Z" stroke-width="1.5"></path>
   </g>
 </svg>

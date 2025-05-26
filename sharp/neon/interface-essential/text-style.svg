@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Text-Style--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Text-Style--Streamline-Sharp-Neon">
   <desc>
     Text Style Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="text-style--text-style-formatting-format">
-    <path id="Vector 73" stroke="#c71dff" d="M2.8751725 7.666666666666667V0.9583333333333334H20.125191666666666v6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 74" stroke="#c71dff" d="M11.500191666666666 0.9583333333333334v21.083333333333336" stroke-width="1"></path>
-    <path id="Vector 75" stroke="#c71dff" d="M4.791666666666667 22.041666666666668h13.416666666666668" stroke-width="1"></path>
+    <path id="Vector 73" stroke="#c71dff" d="M2.81266875 7.5V0.9375H19.6876875v6.5625" stroke-width="1.5"></path>
+    <path id="Vector 74" stroke="#c71dff" d="M11.2501875 0.9375v20.625" stroke-width="1.5"></path>
+    <path id="Vector 75" stroke="#c71dff" d="M4.6875 21.5625h13.125" stroke-width="1.5"></path>
   </g>
 </svg>

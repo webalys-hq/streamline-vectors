@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Module--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Module--Streamline-Sharp-Neon">
   <desc>
     Module Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="module--cube-code-module-programming-plugin">
-    <path id="Rectangle 443" stroke="#c71dff" d="M21.088029166666665 5.2662525V17.724566666666668l-9.583333333333334 4.22625 -9.5833525 -4.22625 0 -12.458314166666668L11.504695833333333 1.04957625l9.583333333333334 4.21667625Z" stroke-width="1"></path>
-    <path id="Rectangle 445" stroke="#c71dff" d="m11.504695833333333 9.497236666666666 0 12.065455" stroke-width="1"></path>
-    <path id="Vector" stroke="#000cfe" d="M11.504695833333333 1.04957625 1.9213433333333334 5.2662525v0.020125L11.504695833333333 9.512617916666667l9.583333333333334 -4.226240416666666v-0.020125l-9.583333333333334 -4.21667625Z" stroke-width="1"></path>
+    <path id="Rectangle 443" stroke="#c71dff" d="M20.629593749999998 5.15176875V17.33925l-9.375 4.134375 -9.375018749999999 -4.134375 0 -12.187481250000001L11.25459375 1.026759375l9.375 4.125009375Z" stroke-width="1.5"></path>
+    <path id="Rectangle 445" stroke="#c71dff" d="m11.25459375 9.290775 0 11.803162500000001" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000cfe" d="M11.25459375 1.026759375 1.879575 5.15176875v0.0196875L11.25459375 9.305821875l9.375 -4.134365625v-0.0196875l-9.375 -4.125009375Z" stroke-width="1.5"></path>
   </g>
 </svg>

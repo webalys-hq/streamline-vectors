@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Arrow-Up-Large-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Arrow-Up-Large-2--Streamline-Sharp-Neon">
   <desc>
     Arrow Up Large 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="line-arrow-move-up-large-1--move-up-arrow-arrows-large-head">
-    <path id="Vector" stroke="#000cfe" d="m1.9166666666666667 0.9583333333333334 19.166666666666668 0" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" d="m20.125 14.854166666666668 -8.625 -8.625 -8.625 8.625" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" d="m11.495304166666667 23 0 -16.766156666666667" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="m1.875 0.9375 18.75 0" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#c71dff" d="m19.6875 14.53125 -8.4375 -8.4375 -8.4375 8.4375" stroke-width="1.5"></path>
+    <path id="Vector_3" stroke="#c71dff" d="m11.24540625 22.5 0 -16.401675" stroke-width="1.5"></path>
   </g>
 </svg>

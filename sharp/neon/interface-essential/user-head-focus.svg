@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="User-Head-Focus--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="User-Head-Focus--Streamline-Sharp-Neon">
   <desc>
     User Head Focus Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-head-focus--actions-head-focus-geometric-human-person-single-up-user-target">
-    <path id="Ellipse 419" stroke="#000cfe" d="M15.814416666666666 6.231035416666667c0 2.3827616666666667 -1.9316166666666668 4.31436875 -4.314416666666666 4.31436875 -2.3827616666666667 0 -4.31436875 -1.9316070833333334 -4.31436875 -4.31436875S9.117238333333335 1.9166666666666667 11.5 1.9166666666666667c2.3828 0 4.314416666666666 1.9316070833333334 4.314416666666666 4.31436875Z" stroke-width="1"></path>
-    <path id="Ellipse 420" stroke="#000cfe" d="m11.5 0 0 3.8333333333333335" stroke-width="1"></path>
-    <path id="Ellipse 424" stroke="#000cfe" d="m11.5 8.628747083333334 0 3.83332375" stroke-width="1"></path>
-    <path id="Ellipse 425" stroke="#000cfe" d="m17.731083333333334 6.231035416666667 -3.8333333333333335 0" stroke-width="1"></path>
-    <path id="Ellipse 426" stroke="#000cfe" d="m9.102297916666666 6.231035416666667 -3.8333333333333335 0" stroke-width="1"></path>
-    <path id="Ellipse 414" stroke="#c71dff" d="M11.5 14.375c-6.708333333333334 0 -10.0625 2.875 -10.0625 2.875v4.3125h20.125V17.25S18.208333333333336 14.375 11.5 14.375Z" stroke-width="1"></path>
+    <path id="Ellipse 419" stroke="#000cfe" d="M15.470624999999998 6.095578125c0 2.3309625 -1.889625 4.220578125 -4.220625 4.220578125 -2.3309625 0 -4.220578125 -1.889615625 -4.220578125 -4.220578125S8.9190375 1.875 11.25 1.875c2.331 0 4.220625 1.889615625 4.220625 4.220578125Z" stroke-width="1.5"></path>
+    <path id="Ellipse 420" stroke="#000cfe" d="m11.25 0 0 3.75" stroke-width="1.5"></path>
+    <path id="Ellipse 424" stroke="#000cfe" d="m11.25 8.441165625 0 3.749990625" stroke-width="1.5"></path>
+    <path id="Ellipse 425" stroke="#000cfe" d="m17.345625 6.095578125 -3.75 0" stroke-width="1.5"></path>
+    <path id="Ellipse 426" stroke="#000cfe" d="m8.904421874999999 6.095578125 -3.75 0" stroke-width="1.5"></path>
+    <path id="Ellipse 414" stroke="#c71dff" d="M11.25 14.0625c-6.5625 0 -9.84375 2.8125 -9.84375 2.8125v4.21875h19.6875V16.875S17.8125 14.0625 11.25 14.0625Z" stroke-width="1.5"></path>
   </g>
 </svg>

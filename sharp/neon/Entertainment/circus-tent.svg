@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Circus-Tent--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Circus-Tent--Streamline-Sharp-Neon">
   <desc>
     Circus Tent Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="circus-tent--circus-tent-leisure-entertainment-comedy-funny">
-    <path id="Vector 3914" stroke="#000cfe" d="m15.333333333333334 22.041666666666668 -1.7112958333333335 -7.666666666666667H9.377972083333333L7.666666666666667 22.041666666666668" stroke-width="1"></path>
-    <path id="Vector 3910" stroke="#c71dff" d="M21.5625 22.041666666666668h-20.125l1.58125 -10.631558333333334C5.127083333333333 10.901041666666668 8.864583333333334 8.864583333333334 11.5 4.791666666666667c2.635416666666667 4.072916666666667 6.372916666666668 6.109375 8.48125 6.6184416666666674L21.5625 22.041666666666668Z" stroke-width="1"></path>
-    <path id="Vector 3911" stroke="#000cfe" d="M11.5 4.4995666666666665V0.9583333333333334h3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 3914" stroke="#000cfe" d="m15 21.5625 -1.6740937500000002 -7.5H9.174103125L7.5 21.5625" stroke-width="1.5"></path>
+    <path id="Vector 3910" stroke="#c71dff" d="M21.09375 21.5625h-19.6875l1.546875 -10.4004375C5.015625 10.6640625 8.671875 8.671875 11.25 4.6875c2.578125 3.984375 6.234375 5.9765625 8.296875 6.4745625L21.09375 21.5625Z" stroke-width="1.5"></path>
+    <path id="Vector 3911" stroke="#000cfe" d="M11.25 4.40175V0.9375h3.75" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Hierarchy-16--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Hierarchy-16--Streamline-Sharp-Neon">
   <desc>
     Hierarchy 16 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hierarchy-16">
-    <path id="Vector 2264" stroke="#000cfe" d="M5.749856250000001 5.75v13.416954166666667H13.416666666666668" stroke-width="1"></path>
-    <path id="Vector 4004" stroke="#000cfe" d="M13.416666666666668 11.5H5.75" stroke-width="1"></path>
-    <path id="Vector 2255" stroke="#c71dff" d="M9.583333333333334 5.75 1.9166666666666667 5.75l0 -3.8333333333333335 7.666666666666667 0v3.8333333333333335Z" stroke-width="1"></path>
-    <path id="Vector 2267" stroke="#c71dff" d="m21.083333333333336 13.416666666666668 -7.666666666666667 0 0 -3.8333333333333335 7.666666666666667 0v3.8333333333333335Z" stroke-width="1"></path>
-    <path id="Vector 2268" stroke="#c71dff" d="m21.083333333333336 21.083333333333336 -7.666666666666667 0 0 -3.8333333333333335 7.666666666666667 0v3.8333333333333335Z" stroke-width="1"></path>
+    <path id="Vector 2264" stroke="#000cfe" d="M5.624859375000001 5.625v13.125281249999999H13.125" stroke-width="1.5"></path>
+    <path id="Vector 4004" stroke="#000cfe" d="M13.125 11.25H5.625" stroke-width="1.5"></path>
+    <path id="Vector 2255" stroke="#c71dff" d="M9.375 5.625 1.875 5.625l0 -3.75 7.5 0v3.75Z" stroke-width="1.5"></path>
+    <path id="Vector 2267" stroke="#c71dff" d="m20.625 13.125 -7.5 0 0 -3.75 7.5 0v3.75Z" stroke-width="1.5"></path>
+    <path id="Vector 2268" stroke="#c71dff" d="m20.625 20.625 -7.5 0 0 -3.75 7.5 0v3.75Z" stroke-width="1.5"></path>
   </g>
 </svg>

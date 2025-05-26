@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Fork-Plate--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Fork-Plate--Streamline-Sharp-Neon">
   <desc>
     Fork Plate Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="fork-plate--fork-plate-food-dine-cook-utensils-eat-restaurant-dining-kitchenware">
-    <path id="Vector 146" stroke="#000cfe" d="m4.791781666666667 9.583333333333334 0 13.416666666666668" stroke-width="1"></path>
-    <path id="Vector 145" stroke="#c71dff" d="M0.9585633333333334 0v5.75c0 2.1170925 1.7162504166666668 3.8333333333333335 3.8333333333333335 3.8333333333333335 2.1170925 0 3.8333333333333335 -1.7162408333333332 3.8333333333333335 -3.8333333333333335V0" stroke-width="1"></path>
-    <path id="Ellipse 662" stroke="#000cfe" d="M22.041666666666668 22.041666666666668c-5.821970833333333 0 -10.541666666666668 -4.719695833333334 -10.541666666666668 -10.541666666666668 0 -5.821999583333334 4.719695833333334 -10.541666666666668 10.541666666666668 -10.541666666666668" stroke-width="1"></path>
-    <path id="Ellipse 663" stroke="#c71dff" d="M22.041666666666668 18.208333333333336c-3.704916666666667 0 -6.708333333333334 -3.003416666666667 -6.708333333333334 -6.708333333333334 0 -3.7049070833333335 3.003416666666667 -6.708333333333334 6.708333333333334 -6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 143" stroke="#c71dff" d="m4.791781666666667 0 0 3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 146" stroke="#000cfe" d="m4.6876125 9.375 0 13.125" stroke-width="1.5"></path>
+    <path id="Vector 145" stroke="#c71dff" d="M0.937725 0v5.625c0 2.0710687500000002 1.678940625 3.75 3.75 3.75 2.0710687500000002 0 3.75 -1.67893125 3.75 -3.75V0" stroke-width="1.5"></path>
+    <path id="Ellipse 662" stroke="#000cfe" d="M21.5625 21.5625c-5.69540625 0 -10.3125 -4.61709375 -10.3125 -10.3125 0 -5.695434375 4.61709375 -10.3125 10.3125 -10.3125" stroke-width="1.5"></path>
+    <path id="Ellipse 663" stroke="#c71dff" d="M21.5625 17.8125c-3.624375 0 -6.5625 -2.938125 -6.5625 -6.5625 0 -3.6243656250000003 2.938125 -6.5625 6.5625 -6.5625" stroke-width="1.5"></path>
+    <path id="Vector 143" stroke="#c71dff" d="m4.6876125 0 0 3.75" stroke-width="1.5"></path>
   </g>
 </svg>

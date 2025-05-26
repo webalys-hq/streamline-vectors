@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Desktop-Chat--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Desktop-Chat--Streamline-Sharp-Neon">
   <desc>
     Desktop Chat Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="desktop-chat--bubble-chat-customer-service-conversation-display-device">
-    <path id="Rectangle 730" stroke="#000cfe" d="m11.5 0.9583333333333334 0 10.0625 3.354454166666667 -1.9166666666666667 7.187308333333333 0 0 -8.145833333333334L11.5 0.9583333333333334Z" stroke-width="1"></path>
-    <path id="Vector 2046" stroke="#000cfe" d="M10.541666666666668 18.208333333333336v3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 2047" stroke="#000cfe" d="M5.75 22.041666666666668h9.583333333333334" stroke-width="1"></path>
-    <path id="Rectangle 475" stroke="#c71dff" d="M20.125 11.979166666666668V18.208333333333336H0.9583333333333334V4.791666666666667h7.666666666666667" stroke-width="1"></path>
+    <path id="Rectangle 730" stroke="#000cfe" d="m11.25 0.9375 0 9.84375 3.28153125 -1.875 7.0310625 0 0 -7.96875L11.25 0.9375Z" stroke-width="1.5"></path>
+    <path id="Vector 2046" stroke="#000cfe" d="M10.3125 17.8125v3.75" stroke-width="1.5"></path>
+    <path id="Vector 2047" stroke="#000cfe" d="M5.625 21.5625h9.375" stroke-width="1.5"></path>
+    <path id="Rectangle 475" stroke="#c71dff" d="M19.6875 11.71875V17.8125H0.9375V4.6875h7.5" stroke-width="1.5"></path>
   </g>
 </svg>

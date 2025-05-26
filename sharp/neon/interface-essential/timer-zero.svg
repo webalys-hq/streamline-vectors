@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Timer-Zero--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Timer-Zero--Streamline-Sharp-Neon">
   <desc>
     Timer Zero Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="timer-zero--whole-midnight-hour-clock-time">
-    <path id="Vector 3982" stroke="#c71dff" d="M1.0969083333333334 11.5h3.467729166666667" stroke-width="1"></path>
-    <path id="Vector 3983" stroke="#c71dff" d="M18.4353625 11.5h3.467729166666667" stroke-width="1"></path>
-    <path id="Vector 3984" stroke="#c71dff" d="M11.5 1.0969083333333334v3.467729166666667" stroke-width="1"></path>
-    <path id="Vector 3985" stroke="#c71dff" d="M11.5 18.4353625v3.467729166666667" stroke-width="1"></path>
-    <path id="Vector 3986" stroke="#c71dff" d="m16.701545833333334 2.4904208333333333 -1.7338166666666666 3.003129166666667" stroke-width="1"></path>
-    <path id="Vector 3987" stroke="#c71dff" d="m8.032270833333335 17.505779166666667 -1.7338166666666666 3.003129166666667" stroke-width="1"></path>
-    <path id="Vector 3990" stroke="#c71dff" d="m20.509291666666666 6.298454166666668 -3.003033333333333 1.7338166666666666" stroke-width="1"></path>
-    <path id="Vector 3991" stroke="#c71dff" d="m5.493741666666667 14.967729166666667 -3.003129166666667 1.7338166666666666" stroke-width="1"></path>
-    <path id="Vector 3992" stroke="#c71dff" d="m20.509291666666666 16.701545833333334 -3.003033333333333 -1.7338166666666666" stroke-width="1"></path>
-    <path id="Vector 3993" stroke="#c71dff" d="M5.493741666666667 8.032270833333335 2.4906125 6.298454166666668" stroke-width="1"></path>
-    <path id="Vector 3988" stroke="#c71dff" d="m16.701641666666667 20.509579166666665 -1.7338166666666666 -3.003129166666667" stroke-width="1"></path>
-    <path id="Vector 3989" stroke="#c71dff" d="M8.032270833333335 5.494220833333334 6.298454166666668 2.4910916666666667" stroke-width="1"></path>
+    <path id="Vector 3982" stroke="#c71dff" d="M1.0730625 11.25h3.39234375" stroke-width="1.5"></path>
+    <path id="Vector 3983" stroke="#c71dff" d="M18.03459375 11.25h3.39234375" stroke-width="1.5"></path>
+    <path id="Vector 3984" stroke="#c71dff" d="M11.25 1.0730625v3.39234375" stroke-width="1.5"></path>
+    <path id="Vector 3985" stroke="#c71dff" d="M11.25 18.03459375v3.39234375" stroke-width="1.5"></path>
+    <path id="Vector 3986" stroke="#c71dff" d="m16.33846875 2.43628125 -1.6961249999999999 2.9378437500000003" stroke-width="1.5"></path>
+    <path id="Vector 3987" stroke="#c71dff" d="m7.857656250000001 17.12521875 -1.6961249999999999 2.9378437500000003" stroke-width="1.5"></path>
+    <path id="Vector 3990" stroke="#c71dff" d="m20.0634375 6.16153125 -2.93775 1.6961249999999999" stroke-width="1.5"></path>
+    <path id="Vector 3991" stroke="#c71dff" d="m5.374312499999999 14.642343749999998 -2.9378437500000003 1.6961249999999999" stroke-width="1.5"></path>
+    <path id="Vector 3992" stroke="#c71dff" d="m20.0634375 16.33846875 -2.93775 -1.6961249999999999" stroke-width="1.5"></path>
+    <path id="Vector 3993" stroke="#c71dff" d="M5.374312499999999 7.857656250000001 2.43646875 6.16153125" stroke-width="1.5"></path>
+    <path id="Vector 3988" stroke="#c71dff" d="m16.338562500000002 20.06371875 -1.6961249999999999 -2.9378437500000003" stroke-width="1.5"></path>
+    <path id="Vector 3989" stroke="#c71dff" d="M7.857656250000001 5.37478125 6.16153125 2.4369375" stroke-width="1.5"></path>
   </g>
 </svg>

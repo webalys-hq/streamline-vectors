@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="User-Add-Plus--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="User-Add-Plus--Streamline-Sharp-Neon">
   <desc>
     User Add Plus Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-add-plus--actions-add-close-geometric-human-person-plus-single-up-user">
-    <path id="Vector 1141" stroke="#000cfe" d="m23 18.208333333333336 -9.583333333333334 0m4.791666666666667 -4.791666666666667v9.583333333333334" stroke-width="1"></path>
-    <path id="Ellipse 1206" stroke="#c71dff" d="M11.5 18.20670416666667H0.9583333333333334l0 -4.037075000000001S3.5138920833333334 11.979166666666668 8.625 11.979166666666668c3.304045833333334 0 5.540125 0.9154000000000001 6.708333333333334 1.5626583333333335" stroke-width="1"></path>
-    <path id="Ellipse 1207" stroke="#c71dff" d="M4.792625 4.790708333333333a3.8323750000000003 3.8323750000000003 0 1 0 7.664750000000001 0 3.8323750000000003 3.8323750000000003 0 1 0 -7.664750000000001 0" stroke-width="1"></path>
+    <path id="Vector 1141" stroke="#000cfe" d="m22.5 17.8125 -9.375 0m4.6875 -4.6875v9.375" stroke-width="1.5"></path>
+    <path id="Ellipse 1206" stroke="#c71dff" d="M11.25 17.810906250000002H0.9375l0 -3.9493125S3.437503125 11.71875 8.4375 11.71875c3.2322187500000004 0 5.419687499999999 0.8955000000000001 6.5625 1.5286875" stroke-width="1.5"></path>
+    <path id="Ellipse 1207" stroke="#c71dff" d="M4.6884375 4.6865625a3.7490625 3.7490625 0 1 0 7.498125 0 3.7490625 3.7490625 0 1 0 -7.498125 0" stroke-width="1.5"></path>
   </g>
 </svg>

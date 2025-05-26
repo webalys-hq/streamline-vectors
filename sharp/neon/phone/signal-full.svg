@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Signal-Full--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Signal-Full--Streamline-Sharp-Neon">
   <desc>
     Signal Full Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="signal-full--phone-mobile-device-signal-wireless-smartphone-iphone-bar-bars-full-android">
-    <path id="Vector 2335" stroke="#c71dff" d="M2.3958333333333335 18.6875V15.333333333333334H8.625v3.354166666666667" stroke-width="1"></path>
-    <path id="Vector 2336" stroke="#c71dff" d="M8.625 18.6875V8.625h6.229166666666667v10.0625" stroke-width="1"></path>
-    <path id="Vector 2337" stroke="#c71dff" d="M14.854166666666668 18.6875V1.9166666666666667h5.75v16.770833333333336" stroke-width="1"></path>
-    <path id="Vector 2338" stroke="#000cfe" d="M0.9583333333333334 21.083333333333336h21.083333333333336" stroke-width="1"></path>
+    <path id="Vector 2335" stroke="#c71dff" d="M2.34375 18.28125V15H8.4375v3.28125" stroke-width="1.5"></path>
+    <path id="Vector 2336" stroke="#c71dff" d="M8.4375 18.28125V8.4375h6.09375v9.84375" stroke-width="1.5"></path>
+    <path id="Vector 2337" stroke="#c71dff" d="M14.53125 18.28125V1.875h5.625v16.40625" stroke-width="1.5"></path>
+    <path id="Vector 2338" stroke="#000cfe" d="M0.9375 20.625h20.625" stroke-width="1.5"></path>
   </g>
 </svg>

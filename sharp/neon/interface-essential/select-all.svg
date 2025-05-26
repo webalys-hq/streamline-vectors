@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Select-All--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Select-All--Streamline-Sharp-Neon">
   <desc>
     Select All Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="select-all">
-    <path id="Rectangle 846" stroke="#000cfe" d="M6.708333333333334 6.708333333333334h9.583333333333334v9.583333333333334H6.708333333333334z" stroke-width="1"></path>
-    <path id="Vector 1378" stroke="#c71dff" d="M1.9166666666666667 6.229166666666667V1.9166666666666667h4.3125" stroke-width="1"></path>
-    <path id="Vector 1379" stroke="#c71dff" d="M8.145833333333334 1.9166666666666667h6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 1380" stroke="#c71dff" d="M16.770833333333336 1.9166666666666667H21.083333333333336v4.3125" stroke-width="1"></path>
-    <path id="Vector 1381" stroke="#c71dff" d="M21.083333333333336 8.145833333333334v6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 1382" stroke="#c71dff" d="M21.083333333333336 16.770833333333336V21.083333333333336h-4.3125" stroke-width="1"></path>
-    <path id="Vector 1383" stroke="#c71dff" d="M14.854166666666668 21.083333333333336h-6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 1384" stroke="#c71dff" d="M1.9166666666666667 16.770833333333336V21.083333333333336h4.3125" stroke-width="1"></path>
-    <path id="Vector 1385" stroke="#c71dff" d="M1.9166666666666667 8.145833333333334v6.708333333333334" stroke-width="1"></path>
+    <path id="Rectangle 846" stroke="#000cfe" d="M6.5625 6.5625h9.375v9.375H6.5625z" stroke-width="1.5"></path>
+    <path id="Vector 1378" stroke="#c71dff" d="M1.875 6.09375V1.875h4.21875" stroke-width="1.5"></path>
+    <path id="Vector 1379" stroke="#c71dff" d="M7.96875 1.875h6.5625" stroke-width="1.5"></path>
+    <path id="Vector 1380" stroke="#c71dff" d="M16.40625 1.875H20.625v4.21875" stroke-width="1.5"></path>
+    <path id="Vector 1381" stroke="#c71dff" d="M20.625 7.96875v6.5625" stroke-width="1.5"></path>
+    <path id="Vector 1382" stroke="#c71dff" d="M20.625 16.40625V20.625h-4.21875" stroke-width="1.5"></path>
+    <path id="Vector 1383" stroke="#c71dff" d="M14.53125 20.625h-6.5625" stroke-width="1.5"></path>
+    <path id="Vector 1384" stroke="#c71dff" d="M1.875 16.40625V20.625h4.21875" stroke-width="1.5"></path>
+    <path id="Vector 1385" stroke="#c71dff" d="M1.875 7.96875v6.5625" stroke-width="1.5"></path>
   </g>
 </svg>

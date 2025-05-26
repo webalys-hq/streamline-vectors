@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Color-Swatches--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Color-Swatches--Streamline-Sharp-Neon">
   <desc>
     Color Swatches Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="color-swatches--color-colors-design-painting-palette-sample-swatch">
-    <path id="Rectangle 782" stroke="#000cfe" d="M8.460281666666667 19.960166666666666 19.302558333333334 9.117851666666667 13.881458333333333 3.6966941666666666 9.583045833333335 7.995087500000001" stroke-width="1"></path>
-    <path id="Rectangle 781" stroke="#000cfe" d="m5.75 21.083333333333336 15.333333333333334 0v-7.666666666666667h-6.229166666666667" stroke-width="1"></path>
-    <path id="Rectangle 780" stroke="#c71dff" d="M9.583333333333334 1.9166666666666667H1.9166666666666667v15.333333333333334c0 2.1170541666666667 1.7162408333333332 3.8333333333333335 3.8333333333333335 3.8333333333333335s3.8333333333333335 -1.7162791666666666 3.8333333333333335 -3.8333333333333335V1.9166666666666667Z" stroke-width="1"></path>
-    <path id="Vector 1716" stroke="#c71dff" d="M1.9166666666666667 6.708333333333334h7.666666666666667" stroke-width="1"></path>
-    <path id="Vector 1717" stroke="#c71dff" d="M1.9166666666666667 11.5h7.666666666666667" stroke-width="1"></path>
+    <path id="Rectangle 782" stroke="#000cfe" d="M8.2763625 19.52625 18.8829375 8.9196375 13.579687499999999 3.61633125 9.374718750000001 7.82128125" stroke-width="1.5"></path>
+    <path id="Rectangle 781" stroke="#000cfe" d="m5.625 20.625 15 0v-7.5h-6.09375" stroke-width="1.5"></path>
+    <path id="Rectangle 780" stroke="#c71dff" d="M9.375 1.875H1.875v15c0 2.07103125 1.67893125 3.75 3.75 3.75s3.75 -1.67896875 3.75 -3.75V1.875Z" stroke-width="1.5"></path>
+    <path id="Vector 1716" stroke="#c71dff" d="M1.875 6.5625h7.5" stroke-width="1.5"></path>
+    <path id="Vector 1717" stroke="#c71dff" d="M1.875 11.25h7.5" stroke-width="1.5"></path>
   </g>
 </svg>

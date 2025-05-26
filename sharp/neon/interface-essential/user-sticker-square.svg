@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="User-Sticker-Square--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="User-Sticker-Square--Streamline-Sharp-Neon">
   <desc>
     User Sticker Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-sticker-square">
-    <path id="Vector 1211" stroke="#c71dff" d="M21.083333333333336 15.333333333333334h-5.75v5.75m5.75 -4.791666666666667 -4.791666666666667 4.791666666666667H1.9166666666666667V1.9166666666666667h19.166666666666668v14.375Z" stroke-width="1"></path>
-    <path id="Vector 2812" stroke="#000cfe" d="M8.624980833333334 10.541666666666668 8.625 7.666666666666667" stroke-width="1"></path>
-    <path id="Vector 2813" stroke="#000cfe" d="m14.375 10.541666666666668 0 -2.875" stroke-width="1"></path>
-    <path id="Ellipse 372" stroke="#000cfe" d="M6.756470416666667 13.3684625C8.014532083333334 14.6265625 9.720854166666667 15.333333333333334 11.5 15.333333333333334" stroke-width="1"></path>
+    <path id="Vector 1211" stroke="#c71dff" d="M20.625 15h-5.625v5.625m5.625 -4.6875 -4.6875 4.6875H1.875V1.875h18.75v14.0625Z" stroke-width="1.5"></path>
+    <path id="Vector 2812" stroke="#000cfe" d="M8.437481250000001 10.3125 8.4375 7.5" stroke-width="1.5"></path>
+    <path id="Vector 2813" stroke="#000cfe" d="m14.0625 10.3125 0 -2.8125" stroke-width="1.5"></path>
+    <path id="Ellipse 372" stroke="#000cfe" d="M6.609590625 13.07784375C7.840303125 14.30859375 9.50953125 15 11.25 15" stroke-width="1.5"></path>
   </g>
 </svg>

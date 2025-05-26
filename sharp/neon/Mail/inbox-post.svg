@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Inbox-Post--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Inbox-Post--Streamline-Sharp-Neon">
   <desc>
     Inbox Post Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="inbox-post--mail-flag-new-open-inbox-mailbox-post">
-    <path id="Vector 2573" stroke="#000cfe" d="M9.583333333333334 16.291666666666668v6.708333333333334" stroke-width="1"></path>
-    <path id="Vector 2574" stroke="#000cfe" d="M13.416666666666668 16.291666666666668v6.708333333333334" stroke-width="1"></path>
-    <path id="Rectangle 852" stroke="#c71dff" d="M1.9166666666666667 10.541666666666668c0 -3.17563875 2.5743612500000004 -5.75 5.75 -5.75h13.416666666666668v11.5H1.9166666666666667v-5.75Z" stroke-width="1"></path>
-    <path id="Vector 2571" stroke="#000cfe" d="M16.291666666666668 8.625V0.9583333333333334h-2.875" stroke-width="1"></path>
+    <path id="Vector 2573" stroke="#000cfe" d="M9.375 15.9375v6.5625" stroke-width="1.5"></path>
+    <path id="Vector 2574" stroke="#000cfe" d="M13.125 15.9375v6.5625" stroke-width="1.5"></path>
+    <path id="Rectangle 852" stroke="#c71dff" d="M1.875 10.3125c0 -3.106603125 2.518396875 -5.625 5.625 -5.625h13.125v11.25H1.875v-5.625Z" stroke-width="1.5"></path>
+    <path id="Vector 2571" stroke="#000cfe" d="M15.9375 8.4375V0.9375h-2.8125" stroke-width="1.5"></path>
   </g>
 </svg>

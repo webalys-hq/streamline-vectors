@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Mirror-Horizontally--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Mirror-Horizontally--Streamline-Sharp-Neon">
   <desc>
     Mirror Horizontally Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="mirror-horizontally--mirror-horizontally-flip-copy-camera-photo-edit-arrow">
-    <path id="Rectangle 33" stroke="#000cfe" d="M2.1083333333333334 5.395416666666667h18.783333333333335" stroke-width="1"></path>
-    <path id="Vector 3938" stroke="#000cfe" d="M5.865 1.63875 2.1083333333333334 5.395416666666667l3.756666666666667 3.756666666666667" stroke-width="1"></path>
-    <path id="Vector 163" stroke="#000cfe" d="m17.134999999999998 1.63875 3.756666666666667 3.756666666666667 -3.756666666666667 3.756666666666667" stroke-width="1"></path>
-    <path id="Vector 3937" stroke="#c71dff" d="M13.378333333333334 21.36125v-8.4525h0.46958333333333335l7.982916666666667 7.982916666666667v0.46958333333333335h-8.4525Z" stroke-width="1"></path>
-    <path id="Vector 3944" stroke="#c71dff" d="M9.621666666666666 21.36125v-8.4525h-0.46958333333333335L1.1691666666666667 20.89166666666667v0.46958333333333335l8.4525 0Z" stroke-width="1"></path>
+    <path id="Rectangle 33" stroke="#000cfe" d="M2.0625 5.278125h18.375" stroke-width="1.5"></path>
+    <path id="Vector 3938" stroke="#000cfe" d="M5.7375 1.603125 2.0625 5.278125l3.675 3.675" stroke-width="1.5"></path>
+    <path id="Vector 163" stroke="#000cfe" d="m16.7625 1.603125 3.675 3.675 -3.675 3.675" stroke-width="1.5"></path>
+    <path id="Vector 3937" stroke="#c71dff" d="M13.0875 20.896874999999998v-8.26875h0.459375l7.809375 7.809375v0.459375h-8.26875Z" stroke-width="1.5"></path>
+    <path id="Vector 3944" stroke="#c71dff" d="M9.4125 20.896874999999998v-8.26875h-0.459375L1.14375 20.4375v0.459375l8.26875 0Z" stroke-width="1.5"></path>
   </g>
 </svg>

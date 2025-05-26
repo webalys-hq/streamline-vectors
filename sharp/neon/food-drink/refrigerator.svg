@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Refrigerator--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Refrigerator--Streamline-Sharp-Neon">
   <desc>
     Refrigerator Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="refrigerator--fridge-cook-appliances-cooking-nutrition-freezer-appliance-food-kitchenware">
-    <path id="Vector 2541" stroke="#000cfe" d="M2.875 9.583333333333334h17.25" stroke-width="1"></path>
-    <path id="Vector 2542" stroke="#000cfe" d="M6.708333333333334 3.8333333333333335v2.875" stroke-width="1"></path>
-    <path id="Vector 2546" stroke="#000cfe" d="M6.708333333333334 12.458333333333334v2.875" stroke-width="1"></path>
-    <path id="Vector 2544" stroke="#000cfe" d="M4.791666666666667 20.125v2.875" stroke-width="1"></path>
-    <path id="Vector 2545" stroke="#000cfe" d="M18.208333333333336 20.125v2.875" stroke-width="1"></path>
-    <path id="Rectangle 830" stroke="#c71dff" d="M2.875 0.9583333333333334h17.25v19.166666666666668H2.875V0.9583333333333334Z" stroke-width="1"></path>
+    <path id="Vector 2541" stroke="#000cfe" d="M2.8125 9.375h16.875" stroke-width="1.5"></path>
+    <path id="Vector 2542" stroke="#000cfe" d="M6.5625 3.75v2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2546" stroke="#000cfe" d="M6.5625 12.1875v2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2544" stroke="#000cfe" d="M4.6875 19.6875v2.8125" stroke-width="1.5"></path>
+    <path id="Vector 2545" stroke="#000cfe" d="M17.8125 19.6875v2.8125" stroke-width="1.5"></path>
+    <path id="Rectangle 830" stroke="#c71dff" d="M2.8125 0.9375h16.875v18.75H2.8125V0.9375Z" stroke-width="1.5"></path>
   </g>
 </svg>

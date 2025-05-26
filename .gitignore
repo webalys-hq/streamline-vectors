@@ -8,3 +8,8 @@
 # Mac files
 .DS_Store
 .metals
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault

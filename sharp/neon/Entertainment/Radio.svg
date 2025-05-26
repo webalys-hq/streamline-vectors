@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Radio--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Radio--Streamline-Sharp-Neon">
   <desc>
     Radio Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="radio--antenna-audio-music-radio-entertainment">
-    <path id="Vector 1240" stroke="#000cfe" d="M21.083333333333336 0.9583333333333334 0.9583333333333334 4.072916666666667V5.75" stroke-width="1"></path>
-    <path id="Vector 1239" stroke="#c71dff" d="M0.9583333333333334 22.041666666666668V5.75h21.083333333333336v16.291666666666668H0.9583333333333334Z" stroke-width="1"></path>
-    <path id="Ellipse 327" stroke="#000cfe" d="M4.791666666666667 15.8125a3.354166666666667 3.354166666666667 0 1 0 6.708333333333334 0 3.354166666666667 3.354166666666667 0 1 0 -6.708333333333334 0" stroke-width="1"></path>
-    <path id="Vector 1241" stroke="#000cfe" d="M14.375 13.895833333333334h3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 1242" stroke="#000cfe" d="M14.375 17.729166666666668h3.8333333333333335" stroke-width="1"></path>
-    <path id="Vector 1243" stroke="#000cfe" d="M22.041666666666668 9.583333333333334H0.9583333333333334V5.75h21.083333333333336v3.8333333333333335Z" stroke-width="1"></path>
+    <path id="Vector 1240" stroke="#000cfe" d="M20.625 0.9375 0.9375 3.984375V5.625" stroke-width="1.5"></path>
+    <path id="Vector 1239" stroke="#c71dff" d="M0.9375 21.5625V5.625h20.625v15.9375H0.9375Z" stroke-width="1.5"></path>
+    <path id="Ellipse 327" stroke="#000cfe" d="M4.6875 15.46875a3.28125 3.28125 0 1 0 6.5625 0 3.28125 3.28125 0 1 0 -6.5625 0" stroke-width="1.5"></path>
+    <path id="Vector 1241" stroke="#000cfe" d="M14.0625 13.59375h3.75" stroke-width="1.5"></path>
+    <path id="Vector 1242" stroke="#000cfe" d="M14.0625 17.34375h3.75" stroke-width="1.5"></path>
+    <path id="Vector 1243" stroke="#000cfe" d="M21.5625 9.375H0.9375V5.625h20.625v3.75Z" stroke-width="1.5"></path>
   </g>
 </svg>

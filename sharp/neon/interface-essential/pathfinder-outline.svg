@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Pathfinder-Outline--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Pathfinder-Outline--Streamline-Sharp-Neon">
   <desc>
     Pathfinder Outline Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pathfinder-outline">
-    <path id="Rectangle 716" stroke="#c71dff" d="M15.333333333333334 4.791666666666667V1.9166666666666667H1.9166666666666667v13.416666666666668h2.875" stroke-width="1"></path>
-    <path id="Rectangle 715" stroke="#c71dff" d="M18.208333333333336 7.666666666666667h2.875v13.416666666666668H7.666666666666667l0 -2.875" stroke-width="1"></path>
-    <path id="Vector 1562" stroke="#000cfe" d="M7.666666666666667 7.666666666666667h7.666666666666667v7.666666666666667H7.666666666666667V7.666666666666667Z" stroke-width="1"></path>
+    <path id="Rectangle 716" stroke="#c71dff" d="M15 4.6875V1.875H1.875v13.125h2.8125" stroke-width="1.5"></path>
+    <path id="Rectangle 715" stroke="#c71dff" d="M17.8125 7.5h2.8125v13.125H7.5l0 -2.8125" stroke-width="1.5"></path>
+    <path id="Vector 1562" stroke="#000cfe" d="M7.5 7.5h7.5v7.5H7.5V7.5Z" stroke-width="1.5"></path>
   </g>
 </svg>

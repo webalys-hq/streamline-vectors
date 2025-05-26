@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Copy-Link--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.75 -0.75 24 24" id="Copy-Link--Streamline-Sharp-Neon">
   <desc>
     Copy Link Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="copy-link">
-    <path id="Rectangle 19" stroke="#000cfe" d="M19.166666666666668 12.458333333333334v8.625H1.9166666666666667V3.8333333333333335h8.625" stroke-width="1"></path>
-    <path id="Vector 47" stroke="#c71dff" d="m17.410808333333335 5.58902875 -5.1097375000000005 5.10970875" stroke-width="1"></path>
-    <path id="Vector 48" stroke="#c71dff" d="m13.578625 4.950452916666666 3.5128666666666666 -3.512905L21.5625 5.908517916666667l-3.5128666666666666 3.5129145833333335" stroke-width="1"></path>
-    <path id="Vector 1348" stroke="#c71dff" d="m16.133445833333337 11.337466666666666 -3.5128666666666666 3.5128666666666666 -4.470998750000001 -4.470912500000001 3.512952916666667 -3.5129241666666666" stroke-width="1"></path>
+    <path id="Rectangle 19" stroke="#000cfe" d="M18.75 12.1875v8.4375H1.875V3.75h8.4375" stroke-width="1.5"></path>
+    <path id="Vector 47" stroke="#c71dff" d="m17.0323125 5.467528124999999 -4.99865625 4.998628125000001" stroke-width="1.5"></path>
+    <path id="Vector 48" stroke="#c71dff" d="m13.2834375 4.842834375 3.4365 -3.4365375L21.09375 5.780071875l-3.4365 3.436546875" stroke-width="1.5"></path>
+    <path id="Vector 1348" stroke="#c71dff" d="m15.78271875 11.091 -3.4365 3.4365 -4.373803125 -4.37371875 3.4365843750000002 -3.4365562499999998" stroke-width="1.5"></path>
   </g>
 </svg>
