@@ -2,8 +2,8 @@
   <desc>
     Book Close Bookmark 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 23.25H5.25c-0.59674 0 -1.16903 -0.2371 -1.59099 -0.659C3.23705 22.169 3 21.5967 3 21" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 2.25H6c-0.79565 0 -1.55871 0.31607 -2.12132 0.87868C3.31607 3.69129 3 4.45435 3 5.25V21c0 -0.5967 0.23705 -1.169 0.65901 -1.591 0.42196 -0.4219 0.99425 -0.659 1.59099 -0.659h15c0.1989 0 0.3897 -0.079 0.5303 -0.2197C20.921 18.3897 21 18.1989 21 18V3c0 -0.19891 -0.079 -0.38968 -0.2197 -0.53033 -0.1406 -0.14065 -0.3314 -0.21967 -0.5303 -0.21967H18" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M19.5 23.25v-4.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18 12.75 -3 -3 -3 3V2.25c0 -0.39782 0.158 -0.77936 0.4393 -1.06066C12.7206 0.908035 13.1022 0.75 13.5 0.75h3c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v10.5Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 23.25H5.25c-0.59674 0 -1.16903 -0.2371 -1.59099 -0.659C3.23705 22.169 3 21.5967 3 21" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 2.25H6c-0.79565 0 -1.55871 0.31607 -2.12132 0.87868C3.31607 3.69129 3 4.45435 3 5.25V21c0 -0.5967 0.23705 -1.169 0.65901 -1.591 0.42196 -0.4219 0.99425 -0.659 1.59099 -0.659h15c0.1989 0 0.3897 -0.079 0.5303 -0.2197C20.921 18.3897 21 18.1989 21 18V3c0 -0.19891 -0.079 -0.38968 -0.2197 -0.53033 -0.1406 -0.14065 -0.3314 -0.21967 -0.5303 -0.21967H18" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M19.5 23.25v-4.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18 12.75 -3 -3 -3 3V2.25c0 -0.39782 0.158 -0.77936 0.4393 -1.06066C12.7206 0.908035 13.1022 0.75 13.5 0.75h3c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v10.5Z" stroke-width="1.5"></path>
 </svg>

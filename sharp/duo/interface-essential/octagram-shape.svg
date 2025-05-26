@@ -3,7 +3,7 @@
     Octagram Shape Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="octagram-shape">
-    <path id="Vector 1984" fill="#d7e0ff" d="m9 5 3 -3 3 3h4v4l3 3 -3 3v4h-4l-3 3 -3 -3H5v-4l-3 -3 3 -3V5h4Z" stroke-width="1"></path>
-    <path id="Vector 1985" stroke="#4147d5" d="m9 5 3 -3 3 3h4v4l3 3 -3 3v4h-4l-3 3 -3 -3H5v-4l-3 -3 3 -3V5h4Z" stroke-width="1"></path>
+    <path id="Vector 1984" fill="#d7e0ff" d="m9 5 3 -3 3 3h4v4l3 3 -3 3v4h-4l-3 3 -3 -3H5v-4l-3 -3 3 -3V5h4Z" stroke-width="1.5"></path>
+    <path id="Vector 1985" stroke="#4147d5" d="m9 5 3 -3 3 3h4v4l3 3 -3 3v4h-4l-3 3 -3 -3H5v-4l-3 -3 3 -3V5h4Z" stroke-width="1.5"></path>
   </g>
 </svg>

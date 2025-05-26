@@ -3,11 +3,11 @@
     Phone Vibrate Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="phone-vibrate--android-phone-mobile-device-smartphone-iphone-vibrate-mute">
-    <path id="Rectangle 38" fill="#d7e0ff" d="m19 22 0 -20L5 2l0 20 14 0Z" stroke-width="1"></path>
-    <path id="Rectangle 37" stroke="#4147d5" d="M5 19.5 5 22l14 0 0 -2.5" stroke-width="1"></path>
-    <path id="Rectangle 39" stroke="#4147d5" d="M5 4.5 5 2l14 0 0 2.5" stroke-width="1"></path>
-    <path id="Vector 196" stroke="#4147d5" d="m14 18 -4 0" stroke-width="1"></path>
-    <path id="Vector 2331" stroke="#4147d5" d="m2 6 3 3 -3 3 3 3 -3 3" stroke-width="1"></path>
-    <path id="Vector 2332" stroke="#4147d5" d="m22 6 -3 3 3 3 -3 3 3 3" stroke-width="1"></path>
+    <path id="Rectangle 38" fill="#d7e0ff" d="m19 22 0 -20L5 2l0 20 14 0Z" stroke-width="1.5"></path>
+    <path id="Rectangle 37" stroke="#4147d5" d="M5 19.5 5 22l14 0 0 -2.5" stroke-width="1.5"></path>
+    <path id="Rectangle 39" stroke="#4147d5" d="M5 4.5 5 2l14 0 0 2.5" stroke-width="1.5"></path>
+    <path id="Vector 196" stroke="#4147d5" d="m14 18 -4 0" stroke-width="1.5"></path>
+    <path id="Vector 2331" stroke="#4147d5" d="m2 6 3 3 -3 3 3 3 -3 3" stroke-width="1.5"></path>
+    <path id="Vector 2332" stroke="#4147d5" d="m22 6 -3 3 3 3 -3 3 3 3" stroke-width="1.5"></path>
   </g>
 </svg>

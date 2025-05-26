@@ -3,13 +3,13 @@
     Share Link Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="share-link--share-transmit">
-    <path id="Ellipse 425" fill="#d7e0ff" d="M2 12.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 426" fill="#d7e0ff" d="M15 6.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 427" fill="#d7e0ff" d="M15 17.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 428" stroke="#4147d5" d="M2 12.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 429" stroke="#4147d5" d="M15 6.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 430" stroke="#4147d5" d="M15 17.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Vector 1321" stroke="#4147d5" d="m8.768 13.757 6.464 2.486" stroke-width="1"></path>
-    <path id="Vector 1320" stroke="#4147d5" d="m8.679 11.033 6.642 -3.066" stroke-width="1"></path>
+    <path id="Ellipse 425" fill="#d7e0ff" d="M2 12.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 426" fill="#d7e0ff" d="M15 6.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 427" fill="#d7e0ff" d="M15 17.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 428" stroke="#4147d5" d="M2 12.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 429" stroke="#4147d5" d="M15 6.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 430" stroke="#4147d5" d="M15 17.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Vector 1321" stroke="#4147d5" d="m8.768 13.757 6.464 2.486" stroke-width="1.5"></path>
+    <path id="Vector 1320" stroke="#4147d5" d="m8.679 11.033 6.642 -3.066" stroke-width="1.5"></path>
   </g>
 </svg>

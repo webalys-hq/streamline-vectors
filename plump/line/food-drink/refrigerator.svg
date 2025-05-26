@@ -3,9 +3,9 @@
     Refrigerator Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="refrigerator--fridge-cook-appliances-cooking-nutrition-freezer-appliance-food-kitchenware">
-    <path id="Rectangle 722" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M36.4397 3.49399c2.2051 0.21839 3.8265 1.86343 4.0228 4.07061C40.7244 10.5072 41 15.5997 41 24c0 8.4003 -0.2756 13.4928 -0.5375 16.4354 -0.1964 2.2072 -1.8177 3.8522 -4.0228 4.0706 -2.5039 0.248 -6.4877 0.494 -12.4396 0.494 -5.9521 0 -9.9359 -0.246 -12.4397 -0.494 -2.20508 -0.2184 -3.82643 -1.8634 -4.02285 -4.0704C7.27567 37.493 7 32.4004 7 24c0 -8.4004 0.27567 -13.493 0.53755 -16.43555 0.19642 -2.2071 1.81777 -3.85206 4.02285 -4.07045C14.0642 3.24601 18.048 3 24.0001 3c5.9519 0 9.9357 0.24601 12.4396 0.49399Z" stroke-width="1"></path>
-    <path id="Vector 1381" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M41 24H7" stroke-width="1"></path>
-    <path id="Vector 1382" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 12v4" stroke-width="1"></path>
-    <path id="Vector 1383" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 32v4" stroke-width="1"></path>
+    <path id="Rectangle 722" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M36.4397 3.49399c2.2051 0.21839 3.8265 1.86343 4.0228 4.07061C40.7244 10.5072 41 15.5997 41 24c0 8.4003 -0.2756 13.4928 -0.5375 16.4354 -0.1964 2.2072 -1.8177 3.8522 -4.0228 4.0706 -2.5039 0.248 -6.4877 0.494 -12.4396 0.494 -5.9521 0 -9.9359 -0.246 -12.4397 -0.494 -2.20508 -0.2184 -3.82643 -1.8634 -4.02285 -4.0704C7.27567 37.493 7 32.4004 7 24c0 -8.4004 0.27567 -13.493 0.53755 -16.43555 0.19642 -2.2071 1.81777 -3.85206 4.02285 -4.07045C14.0642 3.24601 18.048 3 24.0001 3c5.9519 0 9.9357 0.24601 12.4396 0.49399Z" stroke-width="3"></path>
+    <path id="Vector 1381" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M41 24H7" stroke-width="3"></path>
+    <path id="Vector 1382" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 12v4" stroke-width="3"></path>
+    <path id="Vector 1383" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 32v4" stroke-width="3"></path>
   </g>
 </svg>

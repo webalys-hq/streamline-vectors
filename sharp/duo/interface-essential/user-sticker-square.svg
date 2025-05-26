@@ -3,12 +3,12 @@
     User Sticker Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-sticker-square">
-    <path id="Vector 1215" fill="#d7e0ff" d="m16 22 6 -6V2H2v20h14Z" stroke-width="1"></path>
-    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="m22 16 -6 6h-1v-7h7v1Z" clip-rule="evenodd" stroke-width="1"></path>
-    <path id="Vector 1211" stroke="#4147d5" d="m16 22 6 -6V2H2v20h14Z" stroke-width="1"></path>
-    <path id="Vector 1212" stroke="#4147d5" d="M22 15h-7v7" stroke-width="1"></path>
-    <path id="Vector 1213" stroke="#4147d5" d="m5 7.5 2 2" stroke-width="1"></path>
-    <path id="Vector 1214" stroke="#4147d5" d="m7.5 5 2 2" stroke-width="1"></path>
-    <path id="Ellipse 440" stroke="#4147d5" d="M12.182 5.81792c1.7573 1.75736 1.7573 4.60658 0 6.36398 -1.7574 1.7573 -4.60665 1.7573 -6.36401 0" stroke-width="1"></path>
+    <path id="Vector 1215" fill="#d7e0ff" d="m16 22 6 -6V2H2v20h14Z" stroke-width="1.5"></path>
+    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="m22 16 -6 6h-1v-7h7v1Z" clip-rule="evenodd" stroke-width="1.5"></path>
+    <path id="Vector 1211" stroke="#4147d5" d="m16 22 6 -6V2H2v20h14Z" stroke-width="1.5"></path>
+    <path id="Vector 1212" stroke="#4147d5" d="M22 15h-7v7" stroke-width="1.5"></path>
+    <path id="Vector 1213" stroke="#4147d5" d="m5 7.5 2 2" stroke-width="1.5"></path>
+    <path id="Vector 1214" stroke="#4147d5" d="m7.5 5 2 2" stroke-width="1.5"></path>
+    <path id="Ellipse 440" stroke="#4147d5" d="M12.182 5.81792c1.7573 1.75736 1.7573 4.60658 0 6.36398 -1.7574 1.7573 -4.60665 1.7573 -6.36401 0" stroke-width="1.5"></path>
   </g>
 </svg>

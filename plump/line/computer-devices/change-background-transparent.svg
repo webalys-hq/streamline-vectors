@@ -3,16 +3,16 @@
     Change Background Transparent Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="change-background-transparent">
-    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m38 30 8 -8" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m42 36 4 -4" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m40 18 6 -6" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m46 2 -9 9" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m36 2 -4 4" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9 29 -7 7" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 21 -5 5" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m26 2 -3 3" stroke-width="1"></path>
-    <path id="Vector_9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 2 2 16" stroke-width="1"></path>
-    <path id="Vector_10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 2 2 6" stroke-width="1"></path>
-    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M28.7561 30.8274c3.5903 -1.811 6.0527 -5.5316 6.0527 -9.8274 0 -6.0751 -4.9249 -11 -11 -11s-11 4.9249 -11 11c0 4.2958 2.4624 8.0164 6.0528 9.8274 -5.0165 1.7358 -8.818 6.0376 -9.80264 11.3179 -0.31813 1.7061 0.67527 3.1012 2.39644 3.3239 2.0957 0.2712 5.8106 0.5308 12.3534 0.5308 6.5429 0 10.2578 -0.2596 12.3534 -0.5308 1.7212 -0.2227 2.7146 -1.6178 2.3965 -3.3239 -0.9846 -5.2803 -4.7861 -9.5821 -9.8026 -11.3179Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m38 30 8 -8" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m42 36 4 -4" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m40 18 6 -6" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m46 2 -9 9" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m36 2 -4 4" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9 29 -7 7" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 21 -5 5" stroke-width="3"></path>
+    <path id="Vector_8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m26 2 -3 3" stroke-width="3"></path>
+    <path id="Vector_9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 2 2 16" stroke-width="3"></path>
+    <path id="Vector_10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 2 2 6" stroke-width="3"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M28.7561 30.8274c3.5903 -1.811 6.0527 -5.5316 6.0527 -9.8274 0 -6.0751 -4.9249 -11 -11 -11s-11 4.9249 -11 11c0 4.2958 2.4624 8.0164 6.0528 9.8274 -5.0165 1.7358 -8.818 6.0376 -9.80264 11.3179 -0.31813 1.7061 0.67527 3.1012 2.39644 3.3239 2.0957 0.2712 5.8106 0.5308 12.3534 0.5308 6.5429 0 10.2578 -0.2596 12.3534 -0.5308 1.7212 -0.2227 2.7146 -1.6178 2.3965 -3.3239 -0.9846 -5.2803 -4.7861 -9.5821 -9.8026 -11.3179Z" stroke-width="3"></path>
   </g>
 </svg>

@@ -2,15 +2,15 @@
   <desc>
     Stove Induction Pot Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 20.25V21" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 21v-2.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 20.25V21" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 20.25V21" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 21v-2.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 23.25h15" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 4.75h12v10c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929H7c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C6.10536 15.2696 6 15.0152 6 14.75v-10Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 4.75h15" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 7.75h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 7.75h-3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 4.75v-1c0 -0.79565 0.31607 -1.55871 0.87868 -2.12132C10.4413 1.06607 11.2044 0.75 12 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868C14.6839 2.19129 15 2.95435 15 3.75v1" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 20.25V21" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 21v-2.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 20.25V21" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 20.25V21" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 21v-2.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 23.25h15" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 4.75h12v10c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929H7c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C6.10536 15.2696 6 15.0152 6 14.75v-10Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 4.75h15" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 7.75h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 7.75h-3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 4.75v-1c0 -0.79565 0.31607 -1.55871 0.87868 -2.12132C10.4413 1.06607 11.2044 0.75 12 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868C14.6839 2.19129 15 2.95435 15 3.75v1" stroke-width="1.5"></path>
 </svg>

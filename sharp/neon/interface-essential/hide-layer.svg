@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hide-Layer--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Hide-Layer--Streamline-Sharp-Neon">
   <desc>
     Hide Layer Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hide-layer--show-layer-work">
-    <path id="Rectangle 768" stroke="#c71dff" d="M9.1301 7.2168V1.4769h11.4797v15.3063h-3.8266" stroke-width="1"></path>
-    <path id="Rectangle 767" stroke="#c71dff" d="M3.3902 7.2168v15.3063h11.4797v-3.8266" stroke-width="1"></path>
-    <path id="Rectangle 769" stroke="#c71dff" d="M7.2168 7.2168h7.6531v7.6531" stroke-width="1"></path>
-    <path id="Vector 1349" stroke="#000cfe" d="m1.1966 1.1966 21.6068 21.6068" stroke-width="1"></path>
+    <path id="Rectangle 768" stroke="#c71dff" d="M8.749679166666667 6.9161V1.4153625h11.001379166666666v14.668537500000001h-3.6671583333333335" stroke-width="1"></path>
+    <path id="Rectangle 767" stroke="#c71dff" d="M3.248941666666667 6.9161v14.668537500000001h11.001379166666666v-3.6671583333333335" stroke-width="1"></path>
+    <path id="Rectangle 769" stroke="#c71dff" d="M6.9161 6.9161h7.334220833333334v7.334220833333334" stroke-width="1"></path>
+    <path id="Vector 1349" stroke="#000cfe" d="m1.1467416666666668 1.1467416666666668 20.706516666666666 20.706516666666666" stroke-width="1"></path>
   </g>
 </svg>

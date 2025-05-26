@@ -2,7 +2,7 @@
   <desc>
     Export File Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.1763 22.9203c0.8057 0 1.4561 -0.6505 1.4561 -1.4562V5.33131c0 -0.3882 -0.1554 -0.7668 -0.4369 -1.0386l-2.912 -2.7956c-0.2719 -0.2718 -0.6407 -0.4174 -1.0192 -0.4174H3.82361c-0.8056 0 -1.456 0.6504 -1.456 1.4561V21.4641c0 0.8057 0.6504 1.4562 1.456 1.4562H20.1763Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.68762 10.0753 3.31348 -3.3137 3.3137 3.3137" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.9984 6.76233V17.2372" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.1763 22.9203c0.8057 0 1.4561 -0.6505 1.4561 -1.4562V5.33131c0 -0.3882 -0.1554 -0.7668 -0.4369 -1.0386l-2.912 -2.7956c-0.2719 -0.2718 -0.6407 -0.4174 -1.0192 -0.4174H3.82361c-0.8056 0 -1.456 0.6504 -1.456 1.4561V21.4641c0 0.8057 0.6504 1.4562 1.456 1.4562H20.1763Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.68762 10.0753 3.31348 -3.3137 3.3137 3.3137" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.9984 6.76233V17.2372" stroke-width="1.5"></path>
 </svg>

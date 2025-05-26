@@ -3,16 +3,16 @@
     Announcement Megaphone Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="annoncement-megaphone">
-    <path id="Vector" fill="#8fbffa" d="M5.382 38.052c0.303 0.525 0.691 1.088 1.057 1.585 0.672 0.914 1.83 1.29 2.932 1.016 4.709 -1.177 18.047 -4.672 29.123 -8.46 0 0 -1.342 -3.606 -5.281 -10.211 -3.94 -6.605 -6.196 -9.67 -6.196 -9.67C18.2 20.011 8.498 29.808 5.125 33.299c-0.79 0.816 -1.042 2.008 -0.587 3.047 0.248 0.565 0.541 1.183 0.844 1.707Z" stroke-width="1"></path>
-    <path id="Subtract" fill="#ffffff" d="M31.555 34.448a258.342 258.342 0 0 0 6.938 -2.255s-1.342 -3.606 -5.28 -10.211c-3.94 -6.605 -6.197 -9.67 -6.197 -9.67a260.933 260.933 0 0 0 -5.497 4.95c0.302 0.218 0.578 0.47 0.816 0.762 0.896 1.1 2.593 3.384 4.913 7.401 2.892 5.01 3.934 7.833 4.22 8.704 0.035 0.105 0.063 0.212 0.087 0.32Z" stroke-width="1"></path>
-    <path id="Vector 2506" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m42.5 19 -3 0" stroke-width="1"></path>
-    <path id="Vector 2507" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m8.5 19 3 0" stroke-width="1"></path>
-    <path id="Vector 2507_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M25.5 2v3" stroke-width="1"></path>
-    <path id="Vector 2507_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m13.479 6.98 2.12 2.122" stroke-width="1"></path>
-    <path id="Vector 2507_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m37.52 6.98 -2.122 2.122" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M26.811 12.427c-8.819 7.698 -18.314 17.38 -21.687 20.87 -0.79 0.817 -1.042 2.008 -0.587 3.048 0.248 0.565 0.541 1.182 0.844 1.707 0.303 0.525 0.691 1.087 1.057 1.584 0.672 0.915 1.83 1.291 2.932 1.016 4.709 -1.177 17.842 -4.558 28.918 -8.346" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M26.046 11.099s2.397 2.621 7.166 10.882c4.77 8.26 5.841 11.647 5.841 11.647" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M21.612 17.193s2.091 2.092 5.636 8.232c3.546 6.14 4.311 8.997 4.311 8.997" stroke-width="1"></path>
-    <path id="Ellipse 21" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m22.696 37.357 0.594 2.218a4.59 4.59 0 1 1 -8.87 2.376l-0.494 -1.848" stroke-width="1"></path>
+    <path id="Vector" fill="#8fbffa" d="M5.382 38.052c0.303 0.525 0.691 1.088 1.057 1.585 0.672 0.914 1.83 1.29 2.932 1.016 4.709 -1.177 18.047 -4.672 29.123 -8.46 0 0 -1.342 -3.606 -5.281 -10.211 -3.94 -6.605 -6.196 -9.67 -6.196 -9.67C18.2 20.011 8.498 29.808 5.125 33.299c-0.79 0.816 -1.042 2.008 -0.587 3.047 0.248 0.565 0.541 1.183 0.844 1.707Z" stroke-width="3"></path>
+    <path id="Subtract" fill="#ffffff" d="M31.555 34.448a258.342 258.342 0 0 0 6.938 -2.255s-1.342 -3.606 -5.28 -10.211c-3.94 -6.605 -6.197 -9.67 -6.197 -9.67a260.933 260.933 0 0 0 -5.497 4.95c0.302 0.218 0.578 0.47 0.816 0.762 0.896 1.1 2.593 3.384 4.913 7.401 2.892 5.01 3.934 7.833 4.22 8.704 0.035 0.105 0.063 0.212 0.087 0.32Z" stroke-width="3"></path>
+    <path id="Vector 2506" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m42.5 19 -3 0" stroke-width="3"></path>
+    <path id="Vector 2507" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m8.5 19 3 0" stroke-width="3"></path>
+    <path id="Vector 2507_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M25.5 2v3" stroke-width="3"></path>
+    <path id="Vector 2507_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m13.479 6.98 2.12 2.122" stroke-width="3"></path>
+    <path id="Vector 2507_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m37.52 6.98 -2.122 2.122" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M26.811 12.427c-8.819 7.698 -18.314 17.38 -21.687 20.87 -0.79 0.817 -1.042 2.008 -0.587 3.048 0.248 0.565 0.541 1.182 0.844 1.707 0.303 0.525 0.691 1.087 1.057 1.584 0.672 0.915 1.83 1.291 2.932 1.016 4.709 -1.177 17.842 -4.558 28.918 -8.346" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M26.046 11.099s2.397 2.621 7.166 10.882c4.77 8.26 5.841 11.647 5.841 11.647" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M21.612 17.193s2.091 2.092 5.636 8.232c3.546 6.14 4.311 8.997 4.311 8.997" stroke-width="3"></path>
+    <path id="Ellipse 21" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m22.696 37.357 0.594 2.218a4.59 4.59 0 1 1 -8.87 2.376l-0.494 -1.848" stroke-width="3"></path>
   </g>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pen-Types--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Pen-Types--Streamline-Sharp-Neon">
   <desc>
     Pen Types Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pen-types">
-    <path id="Vector 3058" stroke="#000cfe" d="M13.9294 22.1296v-6.7531l1.9295 -3.8589h3.8589l1.9294 3.8589v6.7531" stroke-width="1"></path>
-    <path id="Vector 3059" stroke="#000cfe" d="M15.8589 8.1411v3.3765h3.8589V5.7293l-3.8589 2.4118Z" stroke-width="1"></path>
-    <path id="Vector 3056" stroke="#c71dff" d="M2.3527 22.1296v-8.2001L5.7293 1.8704h0.9647l3.3765 12.0591v8.2001M3.8384 8.6235h4.7465" stroke-width="1"></path>
+    <path id="Vector 3058" stroke="#000cfe" d="M13.349008333333334 21.207533333333334v-6.471720833333333l1.8491041666666668 -3.6981125h3.6981125l1.8490083333333334 3.6981125v6.471720833333333" stroke-width="1"></path>
+    <path id="Vector 3059" stroke="#000cfe" d="M15.1981125 7.8018875v3.2358125h3.6981125V5.4905791666666675l-3.6981125 2.3113083333333333Z" stroke-width="1"></path>
+    <path id="Vector 3056" stroke="#c71dff" d="M2.2546708333333334 21.207533333333334v-7.858429166666668L5.4905791666666675 1.7924666666666669h0.9245041666666667l3.2358125 11.5566375v7.858429166666668M3.678466666666667 8.2641875h4.548729166666667" stroke-width="1"></path>
   </g>
 </svg>

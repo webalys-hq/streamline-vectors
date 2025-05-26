@@ -3,10 +3,10 @@
     Roller Paintbrush Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="roller-paintbrush--brush-color-colors-design-paint-painting-roller-rolling">
-    <path id="Rectangle 668" fill="#d7e0ff" d="M17.5 16h-6v7h6v-7Z" stroke-width="1"></path>
-    <path id="Rectangle 666" fill="#ffffff" d="M7 2h15v6H7V2Z" stroke-width="1"></path>
-    <path id="Rectangle 669" stroke="#4147d5" d="M7 2h15v6H7V2Z" stroke-width="1"></path>
-    <path id="Vector 1485" stroke="#4147d5" d="M7 5H5C3.34315 5 2 6.34315 2 8s1.34315 3 3 3h9.5v5" stroke-width="1"></path>
-    <path id="Rectangle 667" stroke="#4147d5" d="M17.5 23v-7h-6v7" stroke-width="1"></path>
+    <path id="Rectangle 668" fill="#d7e0ff" d="M17.5 16h-6v7h6v-7Z" stroke-width="1.5"></path>
+    <path id="Rectangle 666" fill="#ffffff" d="M7 2h15v6H7V2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 669" stroke="#4147d5" d="M7 2h15v6H7V2Z" stroke-width="1.5"></path>
+    <path id="Vector 1485" stroke="#4147d5" d="M7 5H5C3.34315 5 2 6.34315 2 8s1.34315 3 3 3h9.5v5" stroke-width="1.5"></path>
+    <path id="Rectangle 667" stroke="#4147d5" d="M17.5 23v-7h-6v7" stroke-width="1.5"></path>
   </g>
 </svg>

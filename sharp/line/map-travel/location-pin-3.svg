@@ -3,8 +3,8 @@
     Location Pin 3 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="location-pin-3--navigation-map-maps-pin-gps-location">
-    <path id="Vector" stroke="#000000" d="M17.716 16.83h1.892l2.283 5.451H2.109l2.283 -5.452h1.892" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="M12.215 19.135s7.214 -5.411 7.214 -10.236C19.43 5.156 16.724 2 12.215 2 7.705 2 5 5.156 5 8.899c0 4.825 7.215 10.236 7.215 10.236Z" stroke-width="1"></path>
-    <path id="Rectangle 847" stroke="#000000" d="M10.465 6.5h3.5V10h-3.5z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="M17.716 16.83h1.892l2.283 5.451H2.109l2.283 -5.452h1.892" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="M12.215 19.135s7.214 -5.411 7.214 -10.236C19.43 5.156 16.724 2 12.215 2 7.705 2 5 5.156 5 8.899c0 4.825 7.215 10.236 7.215 10.236Z" stroke-width="1.5"></path>
+    <path id="Rectangle 847" stroke="#000000" d="M10.465 6.5h3.5V10h-3.5z" stroke-width="1.5"></path>
   </g>
 </svg>

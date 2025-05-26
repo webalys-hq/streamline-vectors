@@ -3,9 +3,9 @@
     Layout Window 25 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="layout-window-25--layout-layouts-window-columns-three">
-    <path id="Rectangle 595" fill="#d7e0ff" d="M2 2h20v20H2z" stroke-width="1"></path>
-    <path id="Rectangle 594" stroke="#4147d5" d="M2 2h20v20H2z" stroke-width="1"></path>
-    <path id="Vector 1373" stroke="#4147d5" d="M2 8.5h20" stroke-width="1"></path>
-    <path id="Vector 1374" stroke="#4147d5" d="M2 15.5h20" stroke-width="1"></path>
+    <path id="Rectangle 595" fill="#d7e0ff" d="M2 2h20v20H2z" stroke-width="1.5"></path>
+    <path id="Rectangle 594" stroke="#4147d5" d="M2 2h20v20H2z" stroke-width="1.5"></path>
+    <path id="Vector 1373" stroke="#4147d5" d="M2 8.5h20" stroke-width="1.5"></path>
+    <path id="Vector 1374" stroke="#4147d5" d="M2 15.5h20" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Horizontal-Menu-Square--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Horizontal-Menu-Square--Streamline-Sharp-Neon">
   <desc>
     Horizontal Menu Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="horizontal-menu-square--navigation-dots-three-square-button-horizontal-menu">
-    <path id="Rectangle 893" stroke="#c71dff" d="M2 2h20v20H2z" stroke-width="1"></path>
-    <path id="Vector 2976" stroke="#000cfe" d="M12.5001 11.5h-1.0003v1.0004h1.0003V11.5Z" stroke-width="1"></path>
-    <path id="Vector 2978" stroke="#000cfe" d="M17.5001 11.5h-1.0003v1.0004h1.0003V11.5Z" stroke-width="1"></path>
-    <path id="Vector 2977" stroke="#000cfe" d="M7.50012 11.5H6.49976v1.0004h1.00036V11.5Z" stroke-width="1"></path>
+    <path id="Rectangle 893" stroke="#c71dff" d="M1.9166666666666667 1.9166666666666667h19.166666666666668v19.166666666666668H1.9166666666666667z" stroke-width="1"></path>
+    <path id="Vector 2976" stroke="#000cfe" d="M11.9792625 11.020833333333334h-0.9586208333333334v0.9587166666666667h0.9586208333333334V11.020833333333334Z" stroke-width="1"></path>
+    <path id="Vector 2978" stroke="#000cfe" d="M16.77092916666667 11.020833333333334h-0.9586208333333334v0.9587166666666667h0.9586208333333334V11.020833333333334Z" stroke-width="1"></path>
+    <path id="Vector 2977" stroke="#000cfe" d="M7.187615 11.020833333333334H6.228936666666667v0.9587166666666667h0.9586783333333333V11.020833333333334Z" stroke-width="1"></path>
   </g>
 </svg>

@@ -3,10 +3,10 @@
     Google Drive Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="google-drive">
-    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M8 3h8l6.5 12 -3.5 6H5.5l-4 -6L8 3Zm0.72363 11.999H16.002l-3.7989 -6.51072L8.72363 14.999Z" clip-rule="evenodd" stroke-width="1"></path>
-    <path id="Subtract_2" fill-rule="evenodd" stroke="#4147d5" d="M8 3h8l6.5 12 -3.5 6H5.5l-4 -6L8 3Zm0.72363 11.999H16.002l-3.7989 -6.51072L8.72363 14.999Z" clip-rule="evenodd" stroke-width="1"></path>
-    <path id="Vector 2879" stroke="#4147d5" d="M22.5 15 8.6875 15" stroke-width="1"></path>
-    <path id="Vector 2881" stroke="#4147d5" d="m9 3 7 12" stroke-width="1"></path>
-    <path id="Vector 2959" stroke="#4147d5" d="m5.5 21 6.5625 -12.25" stroke-width="1"></path>
+    <path id="Subtract" fill="#d7e0ff" fill-rule="evenodd" d="M8 3h8l6.5 12 -3.5 6H5.5l-4 -6L8 3Zm0.72363 11.999H16.002l-3.7989 -6.51072L8.72363 14.999Z" clip-rule="evenodd" stroke-width="1.5"></path>
+    <path id="Subtract_2" fill-rule="evenodd" stroke="#4147d5" d="M8 3h8l6.5 12 -3.5 6H5.5l-4 -6L8 3Zm0.72363 11.999H16.002l-3.7989 -6.51072L8.72363 14.999Z" clip-rule="evenodd" stroke-width="1.5"></path>
+    <path id="Vector 2879" stroke="#4147d5" d="M22.5 15 8.6875 15" stroke-width="1.5"></path>
+    <path id="Vector 2881" stroke="#4147d5" d="m9 3 7 12" stroke-width="1.5"></path>
+    <path id="Vector 2959" stroke="#4147d5" d="m5.5 21 6.5625 -12.25" stroke-width="1.5"></path>
   </g>
 </svg>

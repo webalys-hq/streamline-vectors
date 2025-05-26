@@ -3,15 +3,15 @@
     Arrow Up Dashed Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="arrow-up-dashed-square--arrow-keyboard-button-up-square-dashes">
-    <path id="Vector" stroke="#000000" d="m12 16.9995 0 -9.99999" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="m9 9.99951 3 -3 3 3" stroke-width="1"></path>
-    <path id="Vector 2801" stroke="#000000" d="M2 5.75V2h3.7464" stroke-width="1"></path>
-    <path id="Vector 2802" stroke="#000000" d="M18.25 2 22 2l0 3.7464" stroke-width="1"></path>
-    <path id="Vector 2803" stroke="#000000" d="m14.5 2 -5 0" stroke-width="1"></path>
-    <path id="Vector 2804" stroke="#000000" d="M5.75 22 2 22l0 -3.7464" stroke-width="1"></path>
-    <path id="Vector 2805" stroke="#000000" d="m2 14.5 0 -5" stroke-width="1"></path>
-    <path id="Vector 2806" stroke="#000000" d="M22 18.25V22h-3.7464" stroke-width="1"></path>
-    <path id="Vector 2808" stroke="#000000" d="m9.5 22 5 0" stroke-width="1"></path>
-    <path id="Vector 2810" stroke="#000000" d="m22 9.5 0 5" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="m12 16.9995 0 -9.99999" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="m9 9.99951 3 -3 3 3" stroke-width="1.5"></path>
+    <path id="Vector 2801" stroke="#000000" d="M2 5.75V2h3.7464" stroke-width="1.5"></path>
+    <path id="Vector 2802" stroke="#000000" d="M18.25 2 22 2l0 3.7464" stroke-width="1.5"></path>
+    <path id="Vector 2803" stroke="#000000" d="m14.5 2 -5 0" stroke-width="1.5"></path>
+    <path id="Vector 2804" stroke="#000000" d="M5.75 22 2 22l0 -3.7464" stroke-width="1.5"></path>
+    <path id="Vector 2805" stroke="#000000" d="m2 14.5 0 -5" stroke-width="1.5"></path>
+    <path id="Vector 2806" stroke="#000000" d="M22 18.25V22h-3.7464" stroke-width="1.5"></path>
+    <path id="Vector 2808" stroke="#000000" d="m9.5 22 5 0" stroke-width="1.5"></path>
+    <path id="Vector 2810" stroke="#000000" d="m22 9.5 0 5" stroke-width="1.5"></path>
   </g>
 </svg>

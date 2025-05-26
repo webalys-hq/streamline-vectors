@@ -3,12 +3,12 @@
     Nose Smell Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="nose-smell--health-medical-nose-smell">
-    <path id="Vector" stroke="#000000" d="M16.3496 14.2275h-1.2964c-1.8511 2.0134 -4.2596 2.0134 -6.11068 0H7.65039" stroke-width="1"></path>
-    <path id="Ellipse 4" stroke="#000000" d="M7.26702 16.7126c-2.03139 0 -3.67815 -1.6468 -3.67815 -3.6781 0 -2.0314 1.64676 -3.6782 3.67815 -3.6782L8.98462 2" stroke-width="1"></path>
-    <path id="Ellipse 5" stroke="#000000" d="M16.733 16.7126c2.0314 0 3.6781 -1.6468 3.6781 -3.6781 0 -2.0314 -1.6467 -3.6782 -3.6781 -3.6782L15.0154 2" stroke-width="1"></path>
-    <path id="Ellipse 7" stroke="#000000" d="M13.5615 19.0522c0 1.6494 1.337 2.9864 2.9864 2.9864" stroke-width="1"></path>
-    <path id="Ellipse 10" stroke="#000000" d="M10.4385 19.0522c0 1.6494 -1.33701 2.9864 -2.98635 2.9864" stroke-width="1"></path>
-    <path id="Ellipse 9" stroke="#000000" d="M16.8228 18.481c0.3828 1.0082 1.5877 1.9537 2.7426 2.3192" stroke-width="1"></path>
-    <path id="Ellipse 11" stroke="#000000" d="M7.17718 18.481c-0.38279 1.0082 -1.58769 1.9537 -2.74261 2.3192" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="M16.3496 14.2275h-1.2964c-1.8511 2.0134 -4.2596 2.0134 -6.11068 0H7.65039" stroke-width="1.5"></path>
+    <path id="Ellipse 4" stroke="#000000" d="M7.26702 16.7126c-2.03139 0 -3.67815 -1.6468 -3.67815 -3.6781 0 -2.0314 1.64676 -3.6782 3.67815 -3.6782L8.98462 2" stroke-width="1.5"></path>
+    <path id="Ellipse 5" stroke="#000000" d="M16.733 16.7126c2.0314 0 3.6781 -1.6468 3.6781 -3.6781 0 -2.0314 -1.6467 -3.6782 -3.6781 -3.6782L15.0154 2" stroke-width="1.5"></path>
+    <path id="Ellipse 7" stroke="#000000" d="M13.5615 19.0522c0 1.6494 1.337 2.9864 2.9864 2.9864" stroke-width="1.5"></path>
+    <path id="Ellipse 10" stroke="#000000" d="M10.4385 19.0522c0 1.6494 -1.33701 2.9864 -2.98635 2.9864" stroke-width="1.5"></path>
+    <path id="Ellipse 9" stroke="#000000" d="M16.8228 18.481c0.3828 1.0082 1.5877 1.9537 2.7426 2.3192" stroke-width="1.5"></path>
+    <path id="Ellipse 11" stroke="#000000" d="M7.17718 18.481c-0.38279 1.0082 -1.58769 1.9537 -2.74261 2.3192" stroke-width="1.5"></path>
   </g>
 </svg>

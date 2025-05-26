@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Panoramic-Screen--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Panoramic-Screen--Streamline-Sharp-Neon">
   <desc>
     Panoramic Screen Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="panoramic-screen">
-    <path id="Rectangle 921" stroke="#000cfe" d="M8.6098 5.3739v13.2523" stroke-width="1"></path>
-    <path id="Rectangle 922" stroke="#000cfe" d="M15.3893 5.3739V18.626" stroke-width="1"></path>
-    <path id="Rectangle 923" stroke="#c71dff" d="M22.1698 3.6792v16.6416C18.9155 19.019 15.4895 18.4717 12 18.4717c-3.4895 0 -6.9155 0.5473 -10.1698 1.8491V3.6792C5.0845 4.981 8.5105 5.5283 12 5.5283c3.4895 0 6.9155 -0.5473 10.1698 -1.8491Z" stroke-width="1"></path>
+    <path id="Rectangle 921" stroke="#000cfe" d="M8.251058333333333 5.1499875v12.700120833333333" stroke-width="1"></path>
+    <path id="Rectangle 922" stroke="#000cfe" d="M14.748079166666667 5.1499875V17.84991666666667" stroke-width="1"></path>
+    <path id="Rectangle 923" stroke="#c71dff" d="M21.246058333333334 3.5259v15.948200000000002C18.12735416666667 18.226541666666666 14.844104166666666 17.702045833333333 11.5 17.702045833333333c-3.344104166666667 0 -6.627354166666667 0.5244958333333334 -9.746058333333334 1.7720541666666667V3.5259C4.872645833333333 4.773458333333333 8.155895833333334 5.297954166666667 11.5 5.297954166666667c3.344104166666667 0 6.627354166666667 -0.5244958333333334 9.746058333333334 -1.7720541666666667Z" stroke-width="1"></path>
   </g>
 </svg>

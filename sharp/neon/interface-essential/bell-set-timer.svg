@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Bell-Set-Timer--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Bell-Set-Timer--Streamline-Sharp-Neon">
   <desc>
     Bell Set Timer Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="bell-set-timer--notification-alarm-alert-bell-set-time">
-    <path id="Vector 2344" stroke="#c71dff" d="m17.7673 14.5569 2.3319 4.0905H1.1193l2.3316 -4.0905v-5.113c0 -3.6063 2.6668 -6.5897 6.1359 -7.0858" stroke-width="1"></path>
-    <path id="Vector 2345" stroke="#000cfe" d="M8.5642 22.7374h4.0904" stroke-width="1"></path>
-    <path id="Ellipse 549" stroke="#000cfe" d="M21.8581 6.3757c0 2.8238 -2.2892 5.113 -5.1131 5.113s-5.113 -2.2892 -5.113 -5.113 2.2892 -5.1131 5.113 -5.1131 5.1131 2.2892 5.1131 5.1131Z" stroke-width="1"></path>
-    <path id="Vector 2025" stroke="#000cfe" d="M16.745 3.8191v2.5566h2.5566" stroke-width="1"></path>
+    <path id="Vector 2344" stroke="#c71dff" d="m17.026995833333334 13.9503625 2.2347375 3.9200625H1.0726625l2.23445 -3.9200625v-4.899958333333334c0 -3.4560375000000003 2.555683333333333 -6.315129166666667 5.880237500000001 -6.790558333333333" stroke-width="1"></path>
+    <path id="Vector 2345" stroke="#000cfe" d="M8.207358333333334 21.790008333333336h3.919966666666667" stroke-width="1"></path>
+    <path id="Ellipse 549" stroke="#000cfe" d="M20.947345833333333 6.110045833333333c0 2.7061416666666664 -2.1938166666666667 4.899958333333334 -4.900054166666667 4.899958333333334s-4.899958333333334 -2.1938166666666667 -4.899958333333334 -4.899958333333334 2.1938166666666667 -4.900054166666667 4.899958333333334 -4.900054166666667 4.900054166666667 2.1938166666666667 4.900054166666667 4.900054166666667Z" stroke-width="1"></path>
+    <path id="Vector 2025" stroke="#000cfe" d="M16.04729166666667 3.659970833333334v2.450075h2.450075" stroke-width="1"></path>
   </g>
 </svg>

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cursor-Click--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Cursor-Click--Streamline-Sharp-Neon">
   <desc>
     Cursor Click Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="cursor-click">
-    <path id="Union" stroke="#c71dff" d="M8.62207 8.62207 11.3977 21.1123l3.1225 -3.1225L19.0305 22.5 22.5 19.0305l-4.5102 -4.5103 3.1225 -3.1225L8.62207 8.62207Z" stroke-width="1"></path>
-    <path id="vector 588" stroke="#000cfe" d="m0.5 6.87891 3.63439 0.97383" stroke-width="1"></path>
-    <path id="vector 589" stroke="#000cfe" d="m2.04358 15.623 2.66056 -2.6605" stroke-width="1"></path>
-    <path id="vector 591" stroke="#000cfe" d="m6.87866 0.5 0.97383 3.63439" stroke-width="1"></path>
-    <path id="vector 592" stroke="#000cfe" d="m15.623 2.04346 -2.6605 2.66055" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" d="M8.262817083333335 8.262817083333335 10.922795833333334 20.232620833333335l2.9923958333333336 -2.9923958333333336L18.2375625 21.5625 21.5625 18.2375625l-4.322275 -4.322370833333333 2.9923958333333336 -2.9923958333333336L8.262817083333335 8.262817083333335Z" stroke-width="1"></path>
+    <path id="vector 588" stroke="#000cfe" d="m0.4791666666666667 6.592288750000001 3.4829570833333334 0.93325375" stroke-width="1"></path>
+    <path id="vector 589" stroke="#000cfe" d="m1.9584308333333333 14.972041666666666 2.5497033333333334 -2.5496458333333334" stroke-width="1"></path>
+    <path id="vector 591" stroke="#000cfe" d="m6.5920491666666665 0.4791666666666667 0.93325375 3.4829570833333334" stroke-width="1"></path>
+    <path id="vector 592" stroke="#000cfe" d="m14.972041666666666 1.9583158333333335 -2.5496458333333334 2.5496937500000003" stroke-width="1"></path>
   </g>
 </svg>

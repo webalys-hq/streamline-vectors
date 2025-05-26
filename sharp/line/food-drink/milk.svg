@@ -3,8 +3,8 @@
     Milk Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="milk--drink-cook-milk-cooking-carton-nutrition-food">
-    <path id="Rectangle 16" stroke="#000000" d="M4 22h16V9.5l-3 -4H7l-3 4V22Z" stroke-width="1"></path>
-    <path id="Vector 2161" stroke="#000000" d="M7 5.5V2h10v3.5" stroke-width="1"></path>
-    <path id="Vector 2160" stroke="#000000" d="m4 9.5 16 0" stroke-width="1"></path>
+    <path id="Rectangle 16" stroke="#000000" d="M4 22h16V9.5l-3 -4H7l-3 4V22Z" stroke-width="1.5"></path>
+    <path id="Vector 2161" stroke="#000000" d="M7 5.5V2h10v3.5" stroke-width="1.5"></path>
+    <path id="Vector 2160" stroke="#000000" d="m4 9.5 16 0" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -2,7 +2,7 @@
   <desc>
     Share 2 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.75 5.25H13.5c-0.7956 0 -1.5587 0.31607 -2.1213 0.87868C10.8161 6.69129 10.5 7.45435 10.5 8.25V12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.25 9.75 4.5 -4.5 -4.5 -4.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 14.25v7.5c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393H3.75c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393 -0.2813 -0.2813 -0.43934 -0.6629 -0.43934 -1.0607v-12c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066 0.2813 -0.2813 0.66284 -0.43934 1.06066 -0.43934H6" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.75 5.25H13.5c-0.7956 0 -1.5587 0.31607 -2.1213 0.87868C10.8161 6.69129 10.5 7.45435 10.5 8.25V12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.25 9.75 4.5 -4.5 -4.5 -4.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 14.25v7.5c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393H3.75c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393 -0.2813 -0.2813 -0.43934 -0.6629 -0.43934 -1.0607v-12c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066 0.2813 -0.2813 0.66284 -0.43934 1.06066 -0.43934H6" stroke-width="1.5"></path>
 </svg>

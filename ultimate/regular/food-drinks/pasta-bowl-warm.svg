@@ -2,9 +2,9 @@
   <desc>
     Pasta Bowl Warm Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.031 0.75c1.437 2.873 -2.9 3.881 -0.75 6.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.531 0.75c1.437 2.873 -2.9 3.881 -0.75 6.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.031 0.75c1.437 2.873 -2.9 3.881 -0.75 6.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 12.75c0 0.7956 1.18526 1.5587 3.29505 2.1213 2.10978 0.5626 4.97126 0.8787 7.95495 0.8787 2.9837 0 5.8452 -0.3161 7.955 -0.8787 2.1097 -0.5626 3.295 -1.3257 3.295 -2.1213 0 -0.7956 -1.1853 -1.5587 -3.295 -2.1213C17.8452 10.0661 14.9837 9.75 12 9.75c-2.98369 0 -5.84517 0.3161 -7.95495 0.8787C1.93526 11.1913 0.75 11.9544 0.75 12.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 12.75c0 5.8 -5.037 10.5 -11.25 10.5S0.75 18.549 0.75 12.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.031 0.75c1.437 2.873 -2.9 3.881 -0.75 6.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.531 0.75c1.437 2.873 -2.9 3.881 -0.75 6.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.031 0.75c1.437 2.873 -2.9 3.881 -0.75 6.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 12.75c0 0.7956 1.18526 1.5587 3.29505 2.1213 2.10978 0.5626 4.97126 0.8787 7.95495 0.8787 2.9837 0 5.8452 -0.3161 7.955 -0.8787 2.1097 -0.5626 3.295 -1.3257 3.295 -2.1213 0 -0.7956 -1.1853 -1.5587 -3.295 -2.1213C17.8452 10.0661 14.9837 9.75 12 9.75c-2.98369 0 -5.84517 0.3161 -7.95495 0.8787C1.93526 11.1913 0.75 11.9544 0.75 12.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 12.75c0 5.8 -5.037 10.5 -11.25 10.5S0.75 18.549 0.75 12.75" stroke-width="1.5"></path>
 </svg>

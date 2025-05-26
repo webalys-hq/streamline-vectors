@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Wine--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Wine--Streamline-Sharp-Neon">
   <desc>
     Wine Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="wine--drink-cook-glass-cooking-wine-nutrition-food">
-    <path id="Ellipse 10" stroke="#000cfe" d="M3.63007 6H20.3699" stroke-width="1"></path>
-    <path id="Vector 50" stroke="#c71dff" d="M12 18v5" stroke-width="1"></path>
-    <path id="Vector 51" stroke="#c71dff" d="M6 23h12" stroke-width="1"></path>
-    <path id="Ellipse 7" stroke="#c71dff" d="M5.63604 15.364C3.94821 13.6761 3 11.3869 3 9c0 -3 3 -8 3 -8h12s3 5 3 8c0 2.3869 -0.9482 4.6761 -2.636 6.364C16.6761 17.0518 14.3869 18 12 18c-2.38695 0 -4.67613 -0.9482 -6.36396 -2.636Z" stroke-width="1"></path>
+    <path id="Ellipse 10" stroke="#000cfe" d="M3.4788170833333334 5.75H19.52115416666667" stroke-width="1"></path>
+    <path id="Vector 50" stroke="#c71dff" d="M11.5 17.25v4.791666666666667" stroke-width="1"></path>
+    <path id="Vector 51" stroke="#c71dff" d="M5.75 22.041666666666668h11.5" stroke-width="1"></path>
+    <path id="Ellipse 7" stroke="#c71dff" d="M5.401205000000001 14.723833333333335C3.78370125 13.1062625 2.875 10.912445833333335 2.875 8.625c0 -2.875 2.875 -7.666666666666667 2.875 -7.666666666666667h11.5s2.875 4.791666666666667 2.875 7.666666666666667c0 2.2874458333333334 -0.9086916666666668 4.4812625 -2.5261666666666667 6.098833333333333C15.981262500000001 16.341308333333334 13.787445833333335 17.25 11.5 17.25c-2.2874937500000003 0 -4.48129125 -0.9086916666666668 -6.098795 -2.5261666666666667Z" stroke-width="1"></path>
   </g>
 </svg>

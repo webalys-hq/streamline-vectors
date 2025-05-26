@@ -3,9 +3,9 @@
     Hourglass Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hourglass--hourglass-loading-measure-clock-time">
-    <path id="Vector 2052" stroke="#000000" d="M3 2h18" stroke-width="1"></path>
-    <path id="Vector 2053" stroke="#000000" d="M3 22h18" stroke-width="1"></path>
-    <path id="Vector 2054" stroke="#000000" d="M6 8V2h12v6l-4 4 4 4v6H6v-6l4 -4 -4 -4Z" stroke-width="1"></path>
-    <path id="Vector 2055" stroke="#000000" d="M10 12h4" stroke-width="1"></path>
+    <path id="Vector 2052" stroke="#000000" d="M3 2h18" stroke-width="1.5"></path>
+    <path id="Vector 2053" stroke="#000000" d="M3 22h18" stroke-width="1.5"></path>
+    <path id="Vector 2054" stroke="#000000" d="M6 8V2h12v6l-4 4 4 4v6H6v-6l4 -4 -4 -4Z" stroke-width="1.5"></path>
+    <path id="Vector 2055" stroke="#000000" d="M10 12h4" stroke-width="1.5"></path>
   </g>
 </svg>

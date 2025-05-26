@@ -3,13 +3,13 @@
     Timer Zero Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="timer-zero--whole-midnight-hour-clock-time">
-    <path id="Vector 2040" stroke="#000000" d="M4.5 4.5 7 7" stroke-width="1"></path>
-    <path id="Vector 2041" stroke="#000000" d="m17 7 2.5 -2.5" stroke-width="1"></path>
-    <path id="Vector 2042" stroke="#000000" d="M19.5 19.5 17 17" stroke-width="1"></path>
-    <path id="Vector 2043" stroke="#000000" d="m7 17 -2.5 2.5" stroke-width="1"></path>
-    <path id="Vector 2032" stroke="#000000" d="M12 1v4" stroke-width="1"></path>
-    <path id="Vector 2033" stroke="#000000" d="M12 19v4" stroke-width="1"></path>
-    <path id="Vector 2034" stroke="#000000" d="M1 12h4" stroke-width="1"></path>
-    <path id="Vector 2035" stroke="#000000" d="M19 12h4" stroke-width="1"></path>
+    <path id="Vector 2040" stroke="#000000" d="M4.5 4.5 7 7" stroke-width="1.5"></path>
+    <path id="Vector 2041" stroke="#000000" d="m17 7 2.5 -2.5" stroke-width="1.5"></path>
+    <path id="Vector 2042" stroke="#000000" d="M19.5 19.5 17 17" stroke-width="1.5"></path>
+    <path id="Vector 2043" stroke="#000000" d="m7 17 -2.5 2.5" stroke-width="1.5"></path>
+    <path id="Vector 2032" stroke="#000000" d="M12 1v4" stroke-width="1.5"></path>
+    <path id="Vector 2033" stroke="#000000" d="M12 19v4" stroke-width="1.5"></path>
+    <path id="Vector 2034" stroke="#000000" d="M1 12h4" stroke-width="1.5"></path>
+    <path id="Vector 2035" stroke="#000000" d="M19 12h4" stroke-width="1.5"></path>
   </g>
 </svg>

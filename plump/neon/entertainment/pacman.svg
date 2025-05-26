@@ -3,10 +3,10 @@
     Pacman Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pacman--entertainment-gaming-pacman-video">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M26 46C13.8497 46 4 36.1503 4 24S13.8497 2 26 2c6.7048 0 12.7091 2.99935 16.7443 7.72952 1.0761 1.26138 0.6552 3.13478 -0.7412 4.02848l-14.029 8.9786c-0.9219 0.59 -0.9219 1.9368 0 2.5268l14.029 8.9786c1.3964 0.8937 1.8173 2.7671 0.7412 4.0285C38.7091 43.0006 32.7048 46 26 46Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M26 46C13.8497 46 4 36.1503 4 24S13.8497 2 26 2c6.7048 0 12.7091 2.99935 16.7443 7.72952 1.0761 1.26138 0.6552 3.13478 -0.7412 4.02848l-14.029 8.9786c-0.9219 0.59 -0.9219 1.9368 0 2.5268l14.029 8.9786c1.3964 0.8937 1.8173 2.7671 0.7412 4.0285C38.7091 43.0006 32.7048 46 26 46Z" stroke-width="3"></path>
     <g id="Group 177056">
-      <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M22.5 14c-0.2761 0 -0.5 -0.2239 -0.5 -0.5s0.2239 -0.5 0.5 -0.5" stroke-width="1"></path>
-      <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M22.5 14c0.2761 0 0.5 -0.2239 0.5 -0.5s-0.2239 -0.5 -0.5 -0.5" stroke-width="1"></path>
+      <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M22.5 14c-0.2761 0 -0.5 -0.2239 -0.5 -0.5s0.2239 -0.5 0.5 -0.5" stroke-width="3"></path>
+      <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M22.5 14c0.2761 0 0.5 -0.2239 0.5 -0.5s-0.2239 -0.5 -0.5 -0.5" stroke-width="3"></path>
     </g>
   </g>
 </svg>

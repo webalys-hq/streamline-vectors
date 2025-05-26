@@ -2,12 +2,12 @@
   <desc>
     Office Building Double Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.25 23.25H0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M0.75 23.25V1.75c0 -0.6 0.4 -1 1 -1h14c0.6 0 1 0.4 1 1v21.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.75 10.25h5.5c0.6 0 1 0.4 1 1v12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7 3.75H4v4h3v-4Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 3.75h-3v4h3v-4Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7 11.25H4v4h3v-4Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 11.25h-3v4h3v-4Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.94995 23.2499v-3.3c0 -1 0.8 -1.8 1.8 -1.8s1.80005 0.8 1.80005 1.8v3.3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.25 23.25H0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M0.75 23.25V1.75c0 -0.6 0.4 -1 1 -1h14c0.6 0 1 0.4 1 1v21.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.75 10.25h5.5c0.6 0 1 0.4 1 1v12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7 3.75H4v4h3v-4Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 3.75h-3v4h3v-4Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7 11.25H4v4h3v-4Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 11.25h-3v4h3v-4Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.94995 23.2499v-3.3c0 -1 0.8 -1.8 1.8 -1.8s1.80005 0.8 1.80005 1.8v3.3" stroke-width="1.5"></path>
 </svg>

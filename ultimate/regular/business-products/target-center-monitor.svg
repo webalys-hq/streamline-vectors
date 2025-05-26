@@ -2,10 +2,10 @@
   <desc>
     Target Center Monitor Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 23.01h-7.5l0.75 -4.5h6l0.75 4.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 23.01h12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 7.51001V15.51c0 0.7957 -0.3161 1.5587 -0.8787 2.1213 -0.5626 0.5626 -1.3257 0.8787 -2.1213 0.8787H3.75c-0.79565 0 -1.55871 -0.3161 -2.12132 -0.8787C1.06607 17.0687 0.75 16.3057 0.75 15.51V6.51001c0 -0.79565 0.31607 -1.55871 0.87868 -2.12132 0.56261 -0.56261 1.32567 -0.87868 2.12132 -0.87868h6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.75 10.87 3.83 -3.83002" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m15.58 7.03999 0.41 -3.73 2.37 -2.32 0.36 2.91 2.91 0.36 -2.32 2.37 -3.73 0.41Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 11c0 0.8406 -0.2493 1.6623 -0.7163 2.3612 -0.4669 0.6989 -1.1307 1.2436 -1.9073 1.5653 -0.7766 0.3217 -1.6311 0.4058 -2.4555 0.2418 -0.8245 -0.1639 -1.58173 -0.5687 -2.1761 -1.1631 -0.59438 -0.5944 -0.99915 -1.3516 -1.16314 -2.1761 -0.16398 -0.8244 -0.07982 -1.6789 0.24185 -2.4555 0.32168 -0.77659 0.86641 -1.44035 1.56532 -1.90735C10.0877 6.99926 10.9094 6.75 11.75 6.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 23.01h-7.5l0.75 -4.5h6l0.75 4.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 23.01h12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 7.51001V15.51c0 0.7957 -0.3161 1.5587 -0.8787 2.1213 -0.5626 0.5626 -1.3257 0.8787 -2.1213 0.8787H3.75c-0.79565 0 -1.55871 -0.3161 -2.12132 -0.8787C1.06607 17.0687 0.75 16.3057 0.75 15.51V6.51001c0 -0.79565 0.31607 -1.55871 0.87868 -2.12132 0.56261 -0.56261 1.32567 -0.87868 2.12132 -0.87868h6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.75 10.87 3.83 -3.83002" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m15.58 7.03999 0.41 -3.73 2.37 -2.32 0.36 2.91 2.91 0.36 -2.32 2.37 -3.73 0.41Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 11c0 0.8406 -0.2493 1.6623 -0.7163 2.3612 -0.4669 0.6989 -1.1307 1.2436 -1.9073 1.5653 -0.7766 0.3217 -1.6311 0.4058 -2.4555 0.2418 -0.8245 -0.1639 -1.58173 -0.5687 -2.1761 -1.1631 -0.59438 -0.5944 -0.99915 -1.3516 -1.16314 -2.1761 -0.16398 -0.8244 -0.07982 -1.6789 0.24185 -2.4555 0.32168 -0.77659 0.86641 -1.44035 1.56532 -1.90735C10.0877 6.99926 10.9094 6.75 11.75 6.75" stroke-width="1.5"></path>
 </svg>

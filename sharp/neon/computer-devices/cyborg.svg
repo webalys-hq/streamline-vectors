@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Cyborg--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Cyborg--Streamline-Sharp-Neon">
   <desc>
     Cyborg Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="cyborg--artificial-robotics-intelligence-machine-technology-android">
-    <path id="Vector 2933" stroke="#000cfe" d="M2 16.5h3.5l2 2h9l2 -2H22" stroke-width="1"></path>
-    <path id="Vector 2937" stroke="#000cfe" d="M12 7V1" stroke-width="1"></path>
-    <path id="Vector 2475" stroke="#000cfe" d="M8 11v3" stroke-width="1"></path>
-    <path id="Vector 2476" stroke="#000cfe" d="M16 11v3" stroke-width="1"></path>
-    <path id="Rectangle 1051" stroke="#c71dff" d="M2 7h20v15H2V7Z" stroke-width="1"></path>
+    <path id="Vector 2933" stroke="#000cfe" d="M1.9166666666666667 15.8125h3.354166666666667l1.9166666666666667 1.9166666666666667h8.625l1.9166666666666667 -1.9166666666666667H21.083333333333336" stroke-width="1"></path>
+    <path id="Vector 2937" stroke="#000cfe" d="M11.5 6.708333333333334V0.9583333333333334" stroke-width="1"></path>
+    <path id="Vector 2475" stroke="#000cfe" d="M7.666666666666667 10.541666666666668v2.875" stroke-width="1"></path>
+    <path id="Vector 2476" stroke="#000cfe" d="M15.333333333333334 10.541666666666668v2.875" stroke-width="1"></path>
+    <path id="Rectangle 1051" stroke="#c71dff" d="M1.9166666666666667 6.708333333333334h19.166666666666668v14.375H1.9166666666666667V6.708333333333334Z" stroke-width="1"></path>
   </g>
 </svg>

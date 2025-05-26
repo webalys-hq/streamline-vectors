@@ -3,12 +3,12 @@
     Fingerprint 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="fingerprint-2--identification-password-touch-id-secure-fingerprint-finger-security">
-    <path id="Rectangle 749" stroke="#000000" d="M3 11c0 -4.97056 4.02944 -9 9 -9 2.3051 0 4.4077 0.86656 6 2.29168" stroke-width="1"></path>
-    <path id="Rectangle 752" stroke="#000000" d="M3.22302 15c0.68884 3.0357 2.91222 5.4886 5.81149 6.5" stroke-width="1"></path>
-    <path id="Rectangle 751" stroke="#000000" d="M12 22c4.9706 0 9 -4.0294 9 -9v-2c0 -1.24141 -0.2513 -2.42411 -0.7059 -3.5" stroke-width="1"></path>
-    <path id="Rectangle 750" stroke="#000000" d="M9.81794 17.5C8.14985 16.6896 7 14.9791 7 13v-2c0 -1.9791 1.14985 -3.68964 2.81794 -4.5" stroke-width="1"></path>
-    <path id="Rectangle 753" stroke="#000000" d="M17 13v-2c0 -2.76142 -2.2386 -5 -5 -5" stroke-width="1"></path>
-    <path id="Rectangle 754" stroke="#000000" d="M12 18c1.8507 0 3.4666 -1.0055 4.3311 -2.5" stroke-width="1"></path>
-    <path id="Vector 2264" stroke="#000000" d="M12 10v4" stroke-width="1"></path>
+    <path id="Rectangle 749" stroke="#000000" d="M3 11c0 -4.97056 4.02944 -9 9 -9 2.3051 0 4.4077 0.86656 6 2.29168" stroke-width="1.5"></path>
+    <path id="Rectangle 752" stroke="#000000" d="M3.22302 15c0.68884 3.0357 2.91222 5.4886 5.81149 6.5" stroke-width="1.5"></path>
+    <path id="Rectangle 751" stroke="#000000" d="M12 22c4.9706 0 9 -4.0294 9 -9v-2c0 -1.24141 -0.2513 -2.42411 -0.7059 -3.5" stroke-width="1.5"></path>
+    <path id="Rectangle 750" stroke="#000000" d="M9.81794 17.5C8.14985 16.6896 7 14.9791 7 13v-2c0 -1.9791 1.14985 -3.68964 2.81794 -4.5" stroke-width="1.5"></path>
+    <path id="Rectangle 753" stroke="#000000" d="M17 13v-2c0 -2.76142 -2.2386 -5 -5 -5" stroke-width="1.5"></path>
+    <path id="Rectangle 754" stroke="#000000" d="M12 18c1.8507 0 3.4666 -1.0055 4.3311 -2.5" stroke-width="1.5"></path>
+    <path id="Vector 2264" stroke="#000000" d="M12 10v4" stroke-width="1.5"></path>
   </g>
 </svg>

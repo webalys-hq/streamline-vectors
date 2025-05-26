@@ -2,9 +2,9 @@
   <desc>
     Usb Cable Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.5 6.75h-9v-4.5c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066C8.22064 0.908035 8.60218 0.75 9 0.75h6c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v4.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 6.75H6c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934C4.65804 7.47064 4.5 7.85218 4.5 8.25v2.507c-0.00005 0.3941 0.07756 0.7844 0.22838 1.1485 0.15082 0.3641 0.37191 0.6949 0.65062 0.9735L7.5 15v2.938c0 0.3978 0.15804 0.7794 0.43934 1.0607S8.60218 19.438 9 19.438h6c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607V15l2.121 -2.121c0.2787 -0.2786 0.4998 -0.6094 0.6506 -0.9735 0.1508 -0.3641 0.2284 -0.7544 0.2284 -1.1485V8.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C18.7794 6.90804 18.3978 6.75 18 6.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 3.75h1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.5 11.25 1.5 -1.5 1.5 1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 19.438v3.812" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.5 6.75h-9v-4.5c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066C8.22064 0.908035 8.60218 0.75 9 0.75h6c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v4.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 6.75H6c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934C4.65804 7.47064 4.5 7.85218 4.5 8.25v2.507c-0.00005 0.3941 0.07756 0.7844 0.22838 1.1485 0.15082 0.3641 0.37191 0.6949 0.65062 0.9735L7.5 15v2.938c0 0.3978 0.15804 0.7794 0.43934 1.0607S8.60218 19.438 9 19.438h6c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607V15l2.121 -2.121c0.2787 -0.2786 0.4998 -0.6094 0.6506 -0.9735 0.1508 -0.3641 0.2284 -0.7544 0.2284 -1.1485V8.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C18.7794 6.90804 18.3978 6.75 18 6.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 3.75h1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.5 11.25 1.5 -1.5 1.5 1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 19.438v3.812" stroke-width="1.5"></path>
 </svg>

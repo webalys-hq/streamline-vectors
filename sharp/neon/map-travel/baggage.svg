@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Baggage--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Baggage--Streamline-Sharp-Neon">
   <desc>
     Baggage Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="baggage--check-baggage-travel-adventure-luggage-bag-checked-airport">
-    <path id="Vector 156" stroke="#000cfe" d="m6 6 0 16" stroke-width="1"></path>
-    <path id="Vector 157" stroke="#000cfe" d="m18 6 0 16" stroke-width="1"></path>
-    <path id="Rectangle 20" stroke="#000cfe" d="M15.9999 6V4c0 -1.10457 -0.8955 -2 -2 -2H9.99988c-1.10457 0 -2 0.89543 -2 2v2" stroke-width="1"></path>
-    <path id="Rectangle 19" stroke="#c71dff" d="M1.99963 6H21.9996v16H1.99963V6Z" stroke-width="1"></path>
+    <path id="Vector 156" stroke="#000cfe" d="m5.75 5.75 0 15.333333333333334" stroke-width="1"></path>
+    <path id="Vector 157" stroke="#000cfe" d="m17.25 5.75 0 15.333333333333334" stroke-width="1"></path>
+    <path id="Rectangle 20" stroke="#000cfe" d="M15.333237500000001 5.75V3.8333333333333335c0 -1.05854625 -0.8581875 -1.9166666666666667 -1.9166666666666667 -1.9166666666666667H9.583218333333333c-1.05854625 0 -1.9166666666666667 0.8581204166666666 -1.9166666666666667 1.9166666666666667v1.9166666666666667" stroke-width="1"></path>
+    <path id="Rectangle 19" stroke="#c71dff" d="M1.9163120833333334 5.75H21.08295v15.333333333333334H1.9163120833333334V5.75Z" stroke-width="1"></path>
   </g>
 </svg>

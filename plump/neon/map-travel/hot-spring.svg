@@ -3,9 +3,9 @@
     Hot Spring Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hot-spring--hot-spring-relax-location-outdoor-recreation-spa">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6 32.5001c0 4.1422 8.0589 7.5 18 7.5s18 -3.3578 18 -7.5c0 -1.1659 -0.6385 -2.2697 -1.7778 -3.254C43.8103 31.0255 46 33.397 46 36.0011c0 5.5228 -9.8497 10 -22 10s-22 -4.4772 -22 -10c0 -2.604 2.18972 -4.9756 5.77784 -6.755C6.63853 30.2304 6 31.3342 6 32.5001Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M23 2s-6.75 8.4706 0 16c6.75 7.5294 0 16 0 16" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33 6s-4.5 7 0 13 0 13 0 13" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 6s-4.5 7 0 13 0 13 0 13" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6 32.5001c0 4.1422 8.0589 7.5 18 7.5s18 -3.3578 18 -7.5c0 -1.1659 -0.6385 -2.2697 -1.7778 -3.254C43.8103 31.0255 46 33.397 46 36.0011c0 5.5228 -9.8497 10 -22 10s-22 -4.4772 -22 -10c0 -2.604 2.18972 -4.9756 5.77784 -6.755C6.63853 30.2304 6 31.3342 6 32.5001Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M23 2s-6.75 8.4706 0 16c6.75 7.5294 0 16 0 16" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33 6s-4.5 7 0 13 0 13 0 13" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 6s-4.5 7 0 13 0 13 0 13" stroke-width="3"></path>
   </g>
 </svg>

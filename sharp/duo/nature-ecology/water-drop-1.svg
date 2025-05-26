@@ -3,11 +3,11 @@
     Water Drop 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="water-drop-1--nature-convserve-save-water-liquid-protect">
-    <path id="Ellipse 479" stroke="#4147d5" d="M22 12c0 -5.52285 -4.4772 -10 -10 -10C6.47715 2 2 6.47715 2 12" stroke-width="1"></path>
-    <path id="Ellipse 480" stroke="#4147d5" d="M2.45776 15c0.55253 1.7592 1.5781 3.3089 2.92764 4.5" stroke-width="1"></path>
-    <path id="Ellipse 481" stroke="#4147d5" d="M8.5 21.3701c1.08934 0.4071 2.2687 0.6296 3.5 0.6296s2.4107 -0.2225 3.5 -0.6296" stroke-width="1"></path>
-    <path id="Ellipse 482" stroke="#4147d5" d="M18.6145 19.5c1.3495 -1.1911 2.3751 -2.7408 2.9276 -4.5" stroke-width="1"></path>
-    <path id="Ellipse 671" fill="#d7e0ff" d="M16 13.5c0 2.2091 -1.7909 4 -4 4 -2.20914 0 -4 -1.7909 -4 -4 0 -2.5 4 -7 4 -7s4 4.5 4 7Z" stroke-width="1"></path>
-    <path id="Ellipse 672" stroke="#4147d5" d="M16 13.5c0 2.2091 -1.7909 4 -4 4 -2.20914 0 -4 -1.7909 -4 -4 0 -2.5 4 -7 4 -7s4 4.5 4 7Z" stroke-width="1"></path>
+    <path id="Ellipse 479" stroke="#4147d5" d="M22 12c0 -5.52285 -4.4772 -10 -10 -10C6.47715 2 2 6.47715 2 12" stroke-width="1.5"></path>
+    <path id="Ellipse 480" stroke="#4147d5" d="M2.45776 15c0.55253 1.7592 1.5781 3.3089 2.92764 4.5" stroke-width="1.5"></path>
+    <path id="Ellipse 481" stroke="#4147d5" d="M8.5 21.3701c1.08934 0.4071 2.2687 0.6296 3.5 0.6296s2.4107 -0.2225 3.5 -0.6296" stroke-width="1.5"></path>
+    <path id="Ellipse 482" stroke="#4147d5" d="M18.6145 19.5c1.3495 -1.1911 2.3751 -2.7408 2.9276 -4.5" stroke-width="1.5"></path>
+    <path id="Ellipse 671" fill="#d7e0ff" d="M16 13.5c0 2.2091 -1.7909 4 -4 4 -2.20914 0 -4 -1.7909 -4 -4 0 -2.5 4 -7 4 -7s4 4.5 4 7Z" stroke-width="1.5"></path>
+    <path id="Ellipse 672" stroke="#4147d5" d="M16 13.5c0 2.2091 -1.7909 4 -4 4 -2.20914 0 -4 -1.7909 -4 -4 0 -2.5 4 -7 4 -7s4 4.5 4 7Z" stroke-width="1.5"></path>
   </g>
 </svg>

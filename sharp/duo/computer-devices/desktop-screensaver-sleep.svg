@@ -3,11 +3,11 @@
     Desktop Screensaver Sleep Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="desktop-screensaver-sleep--desktop-screensaver-sleep-device-display-computer">
-    <path id="Rectangle 476" fill="#d7e0ff" d="M2 18h20V4H2v14Z" stroke-width="1"></path>
-    <path id="Rectangle 475" stroke="#4147d5" d="M11.938 4H2v14h20v-4.813" stroke-width="1"></path>
-    <path id="Vector 2046" stroke="#4147d5" d="M12 18v4" stroke-width="1"></path>
-    <path id="Vector 2047" stroke="#4147d5" d="M7 22h10" stroke-width="1"></path>
-    <path id="Subtract" fill="#ffffff" d="M18.277 2.423a4.052 4.052 0 0 0 3.932 6.81 4.5 4.5 0 1 1 -3.931 -6.81Z" stroke-width="1"></path>
-    <path id="Subtract_2" stroke="#4147d5" d="M18.277 2.423a4.052 4.052 0 0 0 3.932 6.81 4.5 4.5 0 1 1 -3.931 -6.81Z" stroke-width="1"></path>
+    <path id="Rectangle 476" fill="#d7e0ff" d="M2 18h20V4H2v14Z" stroke-width="1.5"></path>
+    <path id="Rectangle 475" stroke="#4147d5" d="M11.938 4H2v14h20v-4.813" stroke-width="1.5"></path>
+    <path id="Vector 2046" stroke="#4147d5" d="M12 18v4" stroke-width="1.5"></path>
+    <path id="Vector 2047" stroke="#4147d5" d="M7 22h10" stroke-width="1.5"></path>
+    <path id="Subtract" fill="#ffffff" d="M18.277 2.423a4.052 4.052 0 0 0 3.932 6.81 4.5 4.5 0 1 1 -3.931 -6.81Z" stroke-width="1.5"></path>
+    <path id="Subtract_2" stroke="#4147d5" d="M18.277 2.423a4.052 4.052 0 0 0 3.932 6.81 4.5 4.5 0 1 1 -3.931 -6.81Z" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,15 +3,15 @@
     Microscope Observation Sciene Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="microscope-observation-sciene">
-    <path id="Rectangle 79" fill="#d7e0ff" d="M6.99 5.559H12v7.007H6.99V5.56Z" stroke-width="1"></path>
-    <path id="Rectangle 80" stroke="#4147d5" stroke-linecap="square" d="M6.99 5.559H12v7.007H6.99V5.56Z" stroke-width="1"></path>
-    <path id="Vector 2625" fill="#ffffff" d="M10.926 2.695H8.063v2.863h2.863V2.695Z" stroke-width="1"></path>
-    <path id="Vector 2677" stroke="#4147d5" stroke-linecap="square" d="M10.926 2.695H8.063v2.863h2.863V2.695Z" stroke-width="1"></path>
-    <path id="Vector 2626" fill="#ffffff" d="M17.358 13.831a4.61 4.61 0 0 0 -4.61 -4.61l0 -3.655H13a8.305 8.305 0 0 1 8.306 8.306v3.853l-3.947 0v-3.894Z" stroke-width="1"></path>
-    <path id="Vector 2676" stroke="#4147d5" stroke-linecap="square" d="M12.749 9.22a4.61 4.61 0 0 1 4.61 4.611v3.895l3.946 0v-3.854A8.305 8.305 0 0 0 13 5.566l-2.43 0" stroke-width="1"></path>
-    <path id="Vector 2673" fill="#d7e0ff" d="M21.304 21.304H6.989l2.955 -3.578h11.36v3.578Z" stroke-width="1"></path>
-    <path id="Vector 2675" stroke="#4147d5" stroke-linecap="square" d="M6.99 21.304h14.314v-3.578H4.127" stroke-width="1"></path>
-    <path id="Vector 2678" stroke="#4147d5" d="m9.944 17.726 -2.955 3.578" stroke-width="1"></path>
-    <path id="Vector 2674" stroke="#4147d5" stroke-linecap="square" d="M7.392 21.305H2.695" stroke-width="1"></path>
+    <path id="Rectangle 79" fill="#d7e0ff" d="M6.99 5.559H12v7.007H6.99V5.56Z" stroke-width="1.5"></path>
+    <path id="Rectangle 80" stroke="#4147d5" stroke-linecap="square" d="M6.99 5.559H12v7.007H6.99V5.56Z" stroke-width="1.5"></path>
+    <path id="Vector 2625" fill="#ffffff" d="M10.926 2.695H8.063v2.863h2.863V2.695Z" stroke-width="1.5"></path>
+    <path id="Vector 2677" stroke="#4147d5" stroke-linecap="square" d="M10.926 2.695H8.063v2.863h2.863V2.695Z" stroke-width="1.5"></path>
+    <path id="Vector 2626" fill="#ffffff" d="M17.358 13.831a4.61 4.61 0 0 0 -4.61 -4.61l0 -3.655H13a8.305 8.305 0 0 1 8.306 8.306v3.853l-3.947 0v-3.894Z" stroke-width="1.5"></path>
+    <path id="Vector 2676" stroke="#4147d5" stroke-linecap="square" d="M12.749 9.22a4.61 4.61 0 0 1 4.61 4.611v3.895l3.946 0v-3.854A8.305 8.305 0 0 0 13 5.566l-2.43 0" stroke-width="1.5"></path>
+    <path id="Vector 2673" fill="#d7e0ff" d="M21.304 21.304H6.989l2.955 -3.578h11.36v3.578Z" stroke-width="1.5"></path>
+    <path id="Vector 2675" stroke="#4147d5" stroke-linecap="square" d="M6.99 21.304h14.314v-3.578H4.127" stroke-width="1.5"></path>
+    <path id="Vector 2678" stroke="#4147d5" d="m9.944 17.726 -2.955 3.578" stroke-width="1.5"></path>
+    <path id="Vector 2674" stroke="#4147d5" stroke-linecap="square" d="M7.392 21.305H2.695" stroke-width="1.5"></path>
   </g>
 </svg>

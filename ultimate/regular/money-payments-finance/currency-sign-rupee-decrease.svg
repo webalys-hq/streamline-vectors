@@ -2,10 +2,10 @@
   <desc>
     Currency Sign Rupee Decrease Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.5 18.75v4.5H18" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.5 23.2501 -5.05 -5.05c-0.2873 -0.2872 -0.6468 -0.4913 -1.0406 -0.5907 -0.3939 -0.0995 -0.8072 -0.0906 -1.1964 0.0257L9.5 19.1611c-0.38127 0.1021 -0.7827 0.1021 -1.16396 -0.0001 -0.38126 -0.1021 -0.72891 -0.3028 -1.00804 -0.5819L1.5 12.7461" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.14799 9.73897c-0.26577 -1.31519 -0.17385 -2.67759 0.26618 -3.94516 0.44003 -1.26757 1.21206 -2.39387 2.23558 -3.26149C6.67327 1.6647 7.91081 1.08756 9.23333 0.861054 10.5558 0.634551 11.9149 0.766988 13.1688 1.24456c1.2539 0.47756 2.3568 1.28277 3.1935 2.33167 0.8368 1.04889 1.3768 2.30306 1.5639 3.63174 0.187 1.32867 0.0142 2.68319 -0.5005 3.92233 -0.5147 1.2391 -1.3524 2.3175 -2.4257 3.1227" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.05501 5c0.76674 0 1.50209 0.30459 2.04429 0.84675 0.5421 0.54217 0.8467 1.27751 0.8467 2.04425s-0.3046 1.50208 -0.8467 2.04425c-0.5422 0.54215 -1.27755 0.84675 -2.04429 0.84675h-1.735l3.46899 3.469" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.32001 5.00195H13.68" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.05499 7.89307H13.68" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.5 18.75v4.5H18" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.5 23.2501 -5.05 -5.05c-0.2873 -0.2872 -0.6468 -0.4913 -1.0406 -0.5907 -0.3939 -0.0995 -0.8072 -0.0906 -1.1964 0.0257L9.5 19.1611c-0.38127 0.1021 -0.7827 0.1021 -1.16396 -0.0001 -0.38126 -0.1021 -0.72891 -0.3028 -1.00804 -0.5819L1.5 12.7461" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.14799 9.73897c-0.26577 -1.31519 -0.17385 -2.67759 0.26618 -3.94516 0.44003 -1.26757 1.21206 -2.39387 2.23558 -3.26149C6.67327 1.6647 7.91081 1.08756 9.23333 0.861054 10.5558 0.634551 11.9149 0.766988 13.1688 1.24456c1.2539 0.47756 2.3568 1.28277 3.1935 2.33167 0.8368 1.04889 1.3768 2.30306 1.5639 3.63174 0.187 1.32867 0.0142 2.68319 -0.5005 3.92233 -0.5147 1.2391 -1.3524 2.3175 -2.4257 3.1227" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.05501 5c0.76674 0 1.50209 0.30459 2.04429 0.84675 0.5421 0.54217 0.8467 1.27751 0.8467 2.04425s-0.3046 1.50208 -0.8467 2.04425c-0.5422 0.54215 -1.27755 0.84675 -2.04429 0.84675h-1.735l3.46899 3.469" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.32001 5.00195H13.68" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.05499 7.89307H13.68" stroke-width="1.5"></path>
 </svg>

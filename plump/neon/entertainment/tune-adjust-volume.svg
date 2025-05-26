@@ -3,21 +3,21 @@
     Tune Adjust Volume Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="tune-adjust-volume">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m21 27.0039 -9 9" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 2.5c-0.2761 0 -0.5 -0.22386 -0.5 -0.5s0.2239 -0.5 0.5 -0.5" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 2.5c0.2761 0 0.5 -0.22386 0.5 -0.5s-0.2239 -0.5 -0.5 -0.5" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M45.5 24c0 -0.2761 0.2239 -0.5 0.5 -0.5s0.5 0.2239 0.5 0.5" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M45.5 24c0 0.2761 0.2239 0.5 0.5 0.5s0.5 -0.2239 0.5 -0.5" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.5 24c0 -0.2761 0.22386 -0.5 0.5 -0.5s0.5 0.2239 0.5 0.5" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.5 24c0 0.2761 0.22386 0.5 0.5 0.5s0.5 -0.2239 0.5 -0.5" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.203 39.2011c0.1953 -0.1952 0.5119 -0.1952 0.7071 0 0.1953 0.1953 0.1953 0.5119 0 0.7071" stroke-width="1"></path>
-    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.2031 39.2011c-0.1953 0.1952 -0.1953 0.5118 0 0.7071 0.1952 0.1952 0.5118 0.1952 0.7071 0" stroke-width="1"></path>
-    <path id="Vector_10" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.08973 8.09176c0.19526 -0.19526 0.51185 -0.19526 0.70711 0s0.19526 0.51184 0 0.70711" stroke-width="1"></path>
-    <path id="Vector_11" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.08981 8.09168c-0.19527 0.19527 -0.19527 0.51185 0 0.70711 0.19526 0.19526 0.51184 0.19526 0.7071 0" stroke-width="1"></path>
-    <path id="Vector_12" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.79887 39.205c0.19526 0.1952 0.19526 0.5118 0 0.7071 -0.19527 0.1952 -0.51185 0.1952 -0.70711 0" stroke-width="1"></path>
-    <path id="Vector_13" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.79894 39.205c-0.19526 -0.1952 -0.51184 -0.1952 -0.70711 0 -0.19526 0.1953 -0.19526 0.5119 0 0.7071" stroke-width="1"></path>
-    <path id="Vector_14" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.9082 8.09168c0.1953 0.19527 0.1953 0.51185 0 0.70711 -0.1952 0.19526 -0.5118 0.19526 -0.7071 0" stroke-width="1"></path>
-    <path id="Vector_15" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.9083 8.09176c-0.1952 -0.19526 -0.5118 -0.19526 -0.7071 0 -0.1953 0.19526 -0.1953 0.51184 0 0.70711" stroke-width="1"></path>
-    <path id="Vector_16" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 24a17 17 0 1 0 34 0 17 17 0 1 0 -34 0" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m21 27.0039 -9 9" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 2.5c-0.2761 0 -0.5 -0.22386 -0.5 -0.5s0.2239 -0.5 0.5 -0.5" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 2.5c0.2761 0 0.5 -0.22386 0.5 -0.5s-0.2239 -0.5 -0.5 -0.5" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M45.5 24c0 -0.2761 0.2239 -0.5 0.5 -0.5s0.5 0.2239 0.5 0.5" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M45.5 24c0 0.2761 0.2239 0.5 0.5 0.5s0.5 -0.2239 0.5 -0.5" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.5 24c0 -0.2761 0.22386 -0.5 0.5 -0.5s0.5 0.2239 0.5 0.5" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M1.5 24c0 0.2761 0.22386 0.5 0.5 0.5s0.5 -0.2239 0.5 -0.5" stroke-width="3"></path>
+    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.203 39.2011c0.1953 -0.1952 0.5119 -0.1952 0.7071 0 0.1953 0.1953 0.1953 0.5119 0 0.7071" stroke-width="3"></path>
+    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.2031 39.2011c-0.1953 0.1952 -0.1953 0.5118 0 0.7071 0.1952 0.1952 0.5118 0.1952 0.7071 0" stroke-width="3"></path>
+    <path id="Vector_10" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.08973 8.09176c0.19526 -0.19526 0.51185 -0.19526 0.70711 0s0.19526 0.51184 0 0.70711" stroke-width="3"></path>
+    <path id="Vector_11" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.08981 8.09168c-0.19527 0.19527 -0.19527 0.51185 0 0.70711 0.19526 0.19526 0.51184 0.19526 0.7071 0" stroke-width="3"></path>
+    <path id="Vector_12" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.79887 39.205c0.19526 0.1952 0.19526 0.5118 0 0.7071 -0.19527 0.1952 -0.51185 0.1952 -0.70711 0" stroke-width="3"></path>
+    <path id="Vector_13" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8.79894 39.205c-0.19526 -0.1952 -0.51184 -0.1952 -0.70711 0 -0.19526 0.1953 -0.19526 0.5119 0 0.7071" stroke-width="3"></path>
+    <path id="Vector_14" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.9082 8.09168c0.1953 0.19527 0.1953 0.51185 0 0.70711 -0.1952 0.19526 -0.5118 0.19526 -0.7071 0" stroke-width="3"></path>
+    <path id="Vector_15" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.9083 8.09176c-0.1952 -0.19526 -0.5118 -0.19526 -0.7071 0 -0.1953 0.19526 -0.1953 0.51184 0 0.70711" stroke-width="3"></path>
+    <path id="Vector_16" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7 24a17 17 0 1 0 34 0 17 17 0 1 0 -34 0" stroke-width="3"></path>
   </g>
 </svg>

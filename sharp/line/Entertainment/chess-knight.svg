@@ -3,8 +3,8 @@
     Chess Knight Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="chess-knight">
-    <path id="Vector 1521" stroke="#000000" d="m5.5 22 1 -3h11l1 3h-13Z" stroke-width="1"></path>
-    <path id="Vector 1524" stroke="#000000" d="m9.75 10.5 2 -0.5" stroke-width="1"></path>
-    <path id="Vector 1525" stroke="#000000" d="M16.5 19 15 8c-0.5 -3 -2.4862 -4.90658 -5.75 -5.5v2l-5 4 1.5 3 4 -1L7.5 19" stroke-width="1"></path>
+    <path id="Vector 1521" stroke="#000000" d="m5.5 22 1 -3h11l1 3h-13Z" stroke-width="1.5"></path>
+    <path id="Vector 1524" stroke="#000000" d="m9.75 10.5 2 -0.5" stroke-width="1.5"></path>
+    <path id="Vector 1525" stroke="#000000" d="M16.5 19 15 8c-0.5 -3 -2.4862 -4.90658 -5.75 -5.5v2l-5 4 1.5 3 4 -1L7.5 19" stroke-width="1.5"></path>
   </g>
 </svg>

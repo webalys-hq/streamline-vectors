@@ -2,10 +2,10 @@
   <desc>
     Bandage Leg Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 14.25H8.74998c-3.328 0 -5.425 2.051 -6.292 5.243 -0.1159 0.4445 -0.1282 0.9096 -0.03595 1.3595 0.09225 0.45 0.28659 0.8728 0.56803 1.2358 0.28144 0.3629 0.64248 0.6565 1.05528 0.8579 0.4128 0.2014 0.86633 0.3053 1.32564 0.3038H20c0.3978 0 0.7793 -0.158 1.0606 -0.4393s0.4394 -0.6629 0.4394 -1.0607V2.25c0 -0.39782 -0.1581 -0.77936 -0.4394 -1.06066C20.7793 0.908035 20.3978 0.75 20 0.75h-7.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m21.5 6.75001 -14.37099 -5.475c-0.36807 -0.14078 -0.77676 -0.13106 -1.13772 0.02706 -0.36097 0.15812 -0.64521 0.45193 -0.79128 0.81794l-1.893 4.737c-0.07318 0.18292 -0.1096 0.37848 -0.10719 0.57548 0.00241 0.19701 0.04361 0.39161 0.12124 0.5727 0.07764 0.18108 0.19018 0.34509 0.33121 0.48267 0.14104 0.13758 0.30779 0.24603 0.49074 0.31915L21.5 15.75V6.75001Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.002 16.8311 -5.252 6.419" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.41101 17.205 9.42799 4.714" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11 14.25 3.782 5.294" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18.5 0.75 -1.686 4.215" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 14.25H8.74998c-3.328 0 -5.425 2.051 -6.292 5.243 -0.1159 0.4445 -0.1282 0.9096 -0.03595 1.3595 0.09225 0.45 0.28659 0.8728 0.56803 1.2358 0.28144 0.3629 0.64248 0.6565 1.05528 0.8579 0.4128 0.2014 0.86633 0.3053 1.32564 0.3038H20c0.3978 0 0.7793 -0.158 1.0606 -0.4393s0.4394 -0.6629 0.4394 -1.0607V2.25c0 -0.39782 -0.1581 -0.77936 -0.4394 -1.06066C20.7793 0.908035 20.3978 0.75 20 0.75h-7.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m21.5 6.75001 -14.37099 -5.475c-0.36807 -0.14078 -0.77676 -0.13106 -1.13772 0.02706 -0.36097 0.15812 -0.64521 0.45193 -0.79128 0.81794l-1.893 4.737c-0.07318 0.18292 -0.1096 0.37848 -0.10719 0.57548 0.00241 0.19701 0.04361 0.39161 0.12124 0.5727 0.07764 0.18108 0.19018 0.34509 0.33121 0.48267 0.14104 0.13758 0.30779 0.24603 0.49074 0.31915L21.5 15.75V6.75001Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.002 16.8311 -5.252 6.419" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.41101 17.205 9.42799 4.714" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11 14.25 3.782 5.294" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18.5 0.75 -1.686 4.215" stroke-width="1.5"></path>
 </svg>

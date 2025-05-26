@@ -2,10 +2,10 @@
   <desc>
     Analytics Net Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 14.25h22.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 18.75h22.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 0.75h19.5s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5V2.25s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.75 12.75 6 -4.79999c0.44748 -0.35809 0.98818 -0.58052 1.55812 -0.64095 0.56993 -0.06043 1.14525 0.04366 1.65788 0.29995l4.066 2.033c0.5125 0.25644 1.0878 0.36069 1.6577 0.30044 0.57 -0.06025 1.1107 -0.2825 1.5583 -0.64044l6 -4.8" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 7.315V23.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 9.93399V23.25" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 14.25h22.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 18.75h22.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 0.75h19.5s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5V2.25s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.75 12.75 6 -4.79999c0.44748 -0.35809 0.98818 -0.58052 1.55812 -0.64095 0.56993 -0.06043 1.14525 0.04366 1.65788 0.29995l4.066 2.033c0.5125 0.25644 1.0878 0.36069 1.6577 0.30044 0.57 -0.06025 1.1107 -0.2825 1.5583 -0.64044l6 -4.8" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 7.315V23.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 9.93399V23.25" stroke-width="1.5"></path>
 </svg>

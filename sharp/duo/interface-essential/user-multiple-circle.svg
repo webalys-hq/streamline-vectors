@@ -3,15 +3,15 @@
     User Multiple Circle Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-multiple-circle--close-geometric-human-multiple-person-up-user-circle">
-    <path id="Ellipse 421" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M12.9107 21.959c-0.2999 0.027 -0.6037 0.0409 -0.9107 0.0409 -3.9582 0 -7.37928 -2.2997 -9 -5.6359v-0.305c1.5019 -0.7135 3.182 -1.1127 4.95536 -1.1127 1.77335 0 3.45344 0.3992 4.95534 1.1127v5.9Z" clip-rule="evenodd" stroke-width="1"></path>
-    <path id="Intersect_2" fill="#ffffff" fill-rule="evenodd" d="M19.578 18.5251c-1.6496 1.9141 -4.0121 3.1964 -6.6752 3.4347v-4.1913c0.8343 -0.229 1.7128 -0.3513 2.6198 -0.3513 1.4454 0 2.8182 0.3106 4.0554 0.8685v0.2394Z" clip-rule="evenodd" stroke-width="1"></path>
-    <path id="Ellipse 350" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 418" fill="#ffffff" d="M5.218 9.578a2.891 2.891 0 1 0 5.782 0 2.891 2.891 0 1 0 -5.782 0" stroke-width="1"></path>
-    <path id="Ellipse 419" fill="#ffffff" d="M14.062 12.047a2.469 2.469 0 1 0 4.938 0 2.469 2.469 0 1 0 -4.938 0" stroke-width="1"></path>
-    <path id="Ellipse 422" stroke="#4147d5" d="M5.218 9.578a2.891 2.891 0 1 0 5.782 0 2.891 2.891 0 1 0 -5.782 0" stroke-width="1"></path>
-    <path id="Ellipse 423" stroke="#4147d5" d="M14.062 12.047a2.469 2.469 0 1 0 4.938 0 2.469 2.469 0 1 0 -4.938 0" stroke-width="1"></path>
-    <path id="Ellipse 417" stroke="#4147d5" d="M12.9107 21.6249V16.059c-1.5019 -0.7135 -3.18199 -1.1127 -4.95534 -1.1127 -1.77336 0 -3.45346 0.3992 -4.95536 1.1127" stroke-width="1"></path>
-    <path id="Ellipse 420" stroke="#4147d5" d="M19.5779 18.2857c-1.2372 -0.5579 -2.61 -0.8685 -4.0554 -0.8685 -0.9055 0 -1.7826 0.1219 -2.6158 0.3502" stroke-width="1"></path>
+    <path id="Ellipse 421" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M12.9107 21.959c-0.2999 0.027 -0.6037 0.0409 -0.9107 0.0409 -3.9582 0 -7.37928 -2.2997 -9 -5.6359v-0.305c1.5019 -0.7135 3.182 -1.1127 4.95536 -1.1127 1.77335 0 3.45344 0.3992 4.95534 1.1127v5.9Z" clip-rule="evenodd" stroke-width="1.5"></path>
+    <path id="Intersect_2" fill="#ffffff" fill-rule="evenodd" d="M19.578 18.5251c-1.6496 1.9141 -4.0121 3.1964 -6.6752 3.4347v-4.1913c0.8343 -0.229 1.7128 -0.3513 2.6198 -0.3513 1.4454 0 2.8182 0.3106 4.0554 0.8685v0.2394Z" clip-rule="evenodd" stroke-width="1.5"></path>
+    <path id="Ellipse 350" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 418" fill="#ffffff" d="M5.218 9.578a2.891 2.891 0 1 0 5.782 0 2.891 2.891 0 1 0 -5.782 0" stroke-width="1.5"></path>
+    <path id="Ellipse 419" fill="#ffffff" d="M14.062 12.047a2.469 2.469 0 1 0 4.938 0 2.469 2.469 0 1 0 -4.938 0" stroke-width="1.5"></path>
+    <path id="Ellipse 422" stroke="#4147d5" d="M5.218 9.578a2.891 2.891 0 1 0 5.782 0 2.891 2.891 0 1 0 -5.782 0" stroke-width="1.5"></path>
+    <path id="Ellipse 423" stroke="#4147d5" d="M14.062 12.047a2.469 2.469 0 1 0 4.938 0 2.469 2.469 0 1 0 -4.938 0" stroke-width="1.5"></path>
+    <path id="Ellipse 417" stroke="#4147d5" d="M12.9107 21.6249V16.059c-1.5019 -0.7135 -3.18199 -1.1127 -4.95534 -1.1127 -1.77336 0 -3.45346 0.3992 -4.95536 1.1127" stroke-width="1.5"></path>
+    <path id="Ellipse 420" stroke="#4147d5" d="M19.5779 18.2857c-1.2372 -0.5579 -2.61 -0.8685 -4.0554 -0.8685 -0.9055 0 -1.7826 0.1219 -2.6158 0.3502" stroke-width="1.5"></path>
   </g>
 </svg>

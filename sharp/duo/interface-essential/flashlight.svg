@@ -3,9 +3,9 @@
     Flashlight Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="flashlight">
-    <path id="Vector 2054" fill="#d7e0ff" d="m6 22 -4 -4 7.5 -7.5v-4l2 -2 8 8 -2 2h-4L6 22Z" stroke-width="1"></path>
-    <path id="Vector 2055" fill="#ffffff" d="m19.5 12.5 -8 -8L14 2l8 8 -2.5 2.5Z" stroke-width="1"></path>
-    <path id="Vector 2052" stroke="#4147d5" d="m6 22 -4 -4 7.5 -7.5v-4L14 2l8 8 -4.5 4.5h-4L6 22Z" stroke-width="1"></path>
-    <path id="Vector 2053" stroke="#4147d5" d="m11.5 4.5 8 8" stroke-width="1"></path>
+    <path id="Vector 2054" fill="#d7e0ff" d="m6 22 -4 -4 7.5 -7.5v-4l2 -2 8 8 -2 2h-4L6 22Z" stroke-width="1.5"></path>
+    <path id="Vector 2055" fill="#ffffff" d="m19.5 12.5 -8 -8L14 2l8 8 -2.5 2.5Z" stroke-width="1.5"></path>
+    <path id="Vector 2052" stroke="#4147d5" d="m6 22 -4 -4 7.5 -7.5v-4L14 2l8 8 -4.5 4.5h-4L6 22Z" stroke-width="1.5"></path>
+    <path id="Vector 2053" stroke="#4147d5" d="m11.5 4.5 8 8" stroke-width="1.5"></path>
   </g>
 </svg>

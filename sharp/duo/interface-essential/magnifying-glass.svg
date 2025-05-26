@@ -3,8 +3,8 @@
     Magnifying Glass Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="magnifying-glass--glass-search-magnifying">
-    <path id="Ellipse 44" fill="#d7e0ff" d="M2 11a9 9 0 1 0 18 0 9 9 0 1 0 -18 0" stroke-width="1"></path>
-    <path id="Ellipse 45" stroke="#4147d5" d="M2 11a9 9 0 1 0 18 0 9 9 0 1 0 -18 0" stroke-width="1"></path>
-    <path id="Vector 195" stroke="#4147d5" d="M17.364 17.364 22 22" stroke-width="1"></path>
+    <path id="Ellipse 44" fill="#d7e0ff" d="M2 11a9 9 0 1 0 18 0 9 9 0 1 0 -18 0" stroke-width="1.5"></path>
+    <path id="Ellipse 45" stroke="#4147d5" d="M2 11a9 9 0 1 0 18 0 9 9 0 1 0 -18 0" stroke-width="1.5"></path>
+    <path id="Vector 195" stroke="#4147d5" d="M17.364 17.364 22 22" stroke-width="1.5"></path>
   </g>
 </svg>

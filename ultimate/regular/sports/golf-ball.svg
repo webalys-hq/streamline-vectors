@@ -2,15 +2,15 @@
   <desc>
     Golf Ball Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.25c4.5563 0 8.25 -3.6937 8.25 -8.25 0 -4.55635 -3.6937 -8.25 -8.25 -8.25C7.44365 0.75 3.75 4.44365 3.75 9c0 4.5563 3.69365 8.25 8.25 8.25Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 18.5171c1.79643 1.1322 3.87655 1.733 6 1.733 2.1235 0 4.2036 -0.6008 6 -1.733" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 20.25v3" stroke-width="1"></path>
-  <path stroke="#000000" d="M13.5 11.625c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M13.5 11.625c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 14.625c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 14.625c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M15.75 13.875c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M15.75 13.875c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M17.25 10.875c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M17.25 10.875c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.25c4.5563 0 8.25 -3.6937 8.25 -8.25 0 -4.55635 -3.6937 -8.25 -8.25 -8.25C7.44365 0.75 3.75 4.44365 3.75 9c0 4.5563 3.69365 8.25 8.25 8.25Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 18.5171c1.79643 1.1322 3.87655 1.733 6 1.733 2.1235 0 4.2036 -0.6008 6 -1.733" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 20.25v3" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M13.5 11.625c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M13.5 11.625c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 14.625c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 14.625c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M15.75 13.875c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M15.75 13.875c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M17.25 10.875c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M17.25 10.875c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
 </svg>

@@ -3,10 +3,10 @@
     Thermometer Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="thermometer--temperature-thermometer-weather-level-meter-mercury-measure">
-    <path id="Union" fill="#ffffff" d="M30.993 25.509A10.978 10.978 0 0 1 35 34c0 6.075 -4.925 11 -11 11s-11 -4.925 -11 -11c0 -3.419 1.56 -6.474 4.007 -8.491 -0.005 -0.8 -0.007 -1.636 -0.007 -2.509 0 -6.05 0.11 -10.298 0.243 -13.222 0.17 -3.74 2.44 -6.714 6.184 -6.774a36.183 36.183 0 0 1 1.146 0c3.744 0.06 6.013 3.034 6.184 6.774C30.89 12.702 31 16.95 31 23c0 0.873 -0.002 1.71 -0.007 2.509Z" stroke-width="1"></path>
-    <path id="Ellipse 186" fill="#8fbffa" d="M20 34a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1"></path>
-    <path id="Union_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30.993 25.509A10.978 10.978 0 0 1 34.999 34c0 6.075 -4.924 11 -11 11 -6.075 0 -11 -4.925 -11 -11 0 -3.419 1.56 -6.474 4.007 -8.491 -0.004 -0.8 -0.006 -1.636 -0.006 -2.509 0 -6.05 0.11 -10.298 0.243 -13.222 0.17 -3.74 2.44 -6.714 6.183 -6.774a36.183 36.183 0 0 1 1.147 0c3.743 0.06 6.013 3.034 6.183 6.774C30.89 12.702 31 16.95 31 23c0 0.873 -0.003 1.71 -0.007 2.509Z" stroke-width="1"></path>
-    <path id="Ellipse 185" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M20 34a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1"></path>
-    <path id="Vector 1184" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M24 10v20" stroke-width="1"></path>
+    <path id="Union" fill="#ffffff" d="M30.993 25.509A10.978 10.978 0 0 1 35 34c0 6.075 -4.925 11 -11 11s-11 -4.925 -11 -11c0 -3.419 1.56 -6.474 4.007 -8.491 -0.005 -0.8 -0.007 -1.636 -0.007 -2.509 0 -6.05 0.11 -10.298 0.243 -13.222 0.17 -3.74 2.44 -6.714 6.184 -6.774a36.183 36.183 0 0 1 1.146 0c3.744 0.06 6.013 3.034 6.184 6.774C30.89 12.702 31 16.95 31 23c0 0.873 -0.002 1.71 -0.007 2.509Z" stroke-width="3"></path>
+    <path id="Ellipse 186" fill="#8fbffa" d="M20 34a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="3"></path>
+    <path id="Union_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30.993 25.509A10.978 10.978 0 0 1 34.999 34c0 6.075 -4.924 11 -11 11 -6.075 0 -11 -4.925 -11 -11 0 -3.419 1.56 -6.474 4.007 -8.491 -0.004 -0.8 -0.006 -1.636 -0.006 -2.509 0 -6.05 0.11 -10.298 0.243 -13.222 0.17 -3.74 2.44 -6.714 6.183 -6.774a36.183 36.183 0 0 1 1.147 0c3.743 0.06 6.013 3.034 6.183 6.774C30.89 12.702 31 16.95 31 23c0 0.873 -0.003 1.71 -0.007 2.509Z" stroke-width="3"></path>
+    <path id="Ellipse 185" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M20 34a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="3"></path>
+    <path id="Vector 1184" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M24 10v20" stroke-width="3"></path>
   </g>
 </svg>

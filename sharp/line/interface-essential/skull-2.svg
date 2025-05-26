@@ -3,9 +3,9 @@
     Skull 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="skull-2--crash-death-delete-die-error-garbage-remove-skull-trash">
-    <path id="Union" stroke="#000000" d="M21 11c0 -4.97056 -4.0294 -9 -9 -9 -4.97056 0 -9 4.02944 -9 9 0 3.5337 2.03656 6.5918 5 8.0645V22h13V11Z" stroke-width="1"></path>
-    <path id="Vector 1775" stroke="#000000" d="M11 11.5v3" stroke-width="1"></path>
-    <path id="Vector 1776" stroke="#000000" d="M18 11.5v3" stroke-width="1"></path>
-    <path id="Vector 1777" stroke="#000000" d="m13.2 18 1.8 -1.5 1.8 1.5" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" d="M21 11c0 -4.97056 -4.0294 -9 -9 -9 -4.97056 0 -9 4.02944 -9 9 0 3.5337 2.03656 6.5918 5 8.0645V22h13V11Z" stroke-width="1.5"></path>
+    <path id="Vector 1775" stroke="#000000" d="M11 11.5v3" stroke-width="1.5"></path>
+    <path id="Vector 1776" stroke="#000000" d="M18 11.5v3" stroke-width="1.5"></path>
+    <path id="Vector 1777" stroke="#000000" d="m13.2 18 1.8 -1.5 1.8 1.5" stroke-width="1.5"></path>
   </g>
 </svg>

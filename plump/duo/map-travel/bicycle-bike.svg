@@ -3,13 +3,13 @@
     Bicycle Bike Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="bicycle-bike">
-    <path id="Ellipse 112" fill="#8fbffa" d="M30 31a8 8 0 1 0 16 0 8 8 0 0 0 -16 0Z" stroke-width="1"></path>
-    <path id="Subtract" fill="#8fbffa" d="M17.99 30.58c-2.709 0.17 -6.084 0.147 -8.99 -0.58l4.863 -6.007a8 8 0 1 0 4.126 6.587Z" stroke-width="1"></path>
-    <path id="Ellipse 110" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M46 31a8 8 0 1 1 -16 0 8 8 0 1 1 16 0" stroke-width="1"></path>
-    <path id="Vector 1393" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M37 10c-4 0.5 -6.5 2 -6.5 2L37 30.5" stroke-width="1"></path>
-    <path id="Vector 1394" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32 16.5C30.333 19.667 23 30 23 30s-8 1.5 -14 0l8.5 -10.5" stroke-width="1"></path>
-    <path id="Subtract_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M13.863 23.993a8 8 0 1 0 4.126 6.587" stroke-width="1"></path>
-    <path id="Vector 1395" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M23 30c-1.711 -3.765 -5.507 -10.735 -7 -14.5" stroke-width="1"></path>
-    <path id="Vector 283" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M20.5 14.5S16 14.5 12 16" stroke-width="1"></path>
+    <path id="Ellipse 112" fill="#8fbffa" d="M30 31a8 8 0 1 0 16 0 8 8 0 0 0 -16 0Z" stroke-width="3"></path>
+    <path id="Subtract" fill="#8fbffa" d="M17.99 30.58c-2.709 0.17 -6.084 0.147 -8.99 -0.58l4.863 -6.007a8 8 0 1 0 4.126 6.587Z" stroke-width="3"></path>
+    <path id="Ellipse 110" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M46 31a8 8 0 1 1 -16 0 8 8 0 1 1 16 0" stroke-width="3"></path>
+    <path id="Vector 1393" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M37 10c-4 0.5 -6.5 2 -6.5 2L37 30.5" stroke-width="3"></path>
+    <path id="Vector 1394" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32 16.5C30.333 19.667 23 30 23 30s-8 1.5 -14 0l8.5 -10.5" stroke-width="3"></path>
+    <path id="Subtract_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M13.863 23.993a8 8 0 1 0 4.126 6.587" stroke-width="3"></path>
+    <path id="Vector 1395" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M23 30c-1.711 -3.765 -5.507 -10.735 -7 -14.5" stroke-width="3"></path>
+    <path id="Vector 283" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M20.5 14.5S16 14.5 12 16" stroke-width="3"></path>
   </g>
 </svg>

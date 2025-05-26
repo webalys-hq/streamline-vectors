@@ -2,10 +2,10 @@
   <desc>
     Paper Write Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.05 19.14 -3.71998 0.53 0.53 -3.67L19.41 6.45995c0.4265 -0.39744 0.9907 -0.61381 1.5736 -0.60352 0.5829 0.01028 1.139 0.24642 1.5513 0.65866 0.4122 0.41224 0.6484 0.96839 0.6586 1.5513 0.0103 0.5829 -0.206 1.14704 -0.6035 1.57357L13.05 19.14Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 0.75h7s0.75 0 0.75 0.75V4s0 0.75 -0.75 0.75h-7s-0.75 0 -0.75 -0.75V1.5s0 -0.75 0.75 -0.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.25 2.75h2.5c0.3978 0 0.7794 0.15804 1.0607 0.43934s0.4393 0.66284 0.4393 1.06066" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 18.75v3c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393H2.25c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393C0.908035 22.5294 0.75 22.1478 0.75 21.75V4.25c0 -0.39782 0.158035 -0.77936 0.43934 -1.06066 0.2813 -0.2813 0.66284 -0.43934 1.06066 -0.43934h2.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.75h7" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 13.25h2.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.05 19.14 -3.71998 0.53 0.53 -3.67L19.41 6.45995c0.4265 -0.39744 0.9907 -0.61381 1.5736 -0.60352 0.5829 0.01028 1.139 0.24642 1.5513 0.65866 0.4122 0.41224 0.6484 0.96839 0.6586 1.5513 0.0103 0.5829 -0.206 1.14704 -0.6035 1.57357L13.05 19.14Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 0.75h7s0.75 0 0.75 0.75V4s0 0.75 -0.75 0.75h-7s-0.75 0 -0.75 -0.75V1.5s0 -0.75 0.75 -0.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.25 2.75h2.5c0.3978 0 0.7794 0.15804 1.0607 0.43934s0.4393 0.66284 0.4393 1.06066" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 18.75v3c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393H2.25c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393C0.908035 22.5294 0.75 22.1478 0.75 21.75V4.25c0 -0.39782 0.158035 -0.77936 0.43934 -1.06066 0.2813 -0.2813 0.66284 -0.43934 1.06066 -0.43934h2.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.75h7" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 13.25h2.5" stroke-width="1.5"></path>
 </svg>

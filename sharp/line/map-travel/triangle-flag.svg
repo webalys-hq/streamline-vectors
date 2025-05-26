@@ -3,7 +3,7 @@
     Triangle Flag Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="triangle-flag--navigation-map-maps-flag-gps-location-destination-goal">
-    <path id="Vector" stroke="#000000" d="m5 2.711 15 6.796L5 16.38" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="M2 1.25v21.5" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="m5 2.711 15 6.796L5 16.38" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="M2 1.25v21.5" stroke-width="1.5"></path>
   </g>
 </svg>

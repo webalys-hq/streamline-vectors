@@ -3,11 +3,11 @@
     Text Tracking Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="text-tracking">
-    <path id="Vector 1" stroke="#000000" d="M12.5 13.5 16 3h2l3.5 10.5" stroke-width="1"></path>
-    <path id="Vector 1866" stroke="#000000" d="M13.666 10h6.667" stroke-width="1"></path>
-    <path id="Vector 3009" stroke="#000000" d="M3 2.5 6.5 13h1L11 2.5" stroke-width="1"></path>
-    <path id="Vector 1864" stroke="#000000" d="m5 22 -3 -3 3 -3" stroke-width="1"></path>
-    <path id="Vector 1864_2" stroke="#000000" d="m19 22 3 -3 -3 -3" stroke-width="1"></path>
-    <path id="Vector 1865" stroke="#000000" d="M22 19H2" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#000000" d="M12.5 13.5 16 3h2l3.5 10.5" stroke-width="1.5"></path>
+    <path id="Vector 1866" stroke="#000000" d="M13.666 10h6.667" stroke-width="1.5"></path>
+    <path id="Vector 3009" stroke="#000000" d="M3 2.5 6.5 13h1L11 2.5" stroke-width="1.5"></path>
+    <path id="Vector 1864" stroke="#000000" d="m5 22 -3 -3 3 -3" stroke-width="1.5"></path>
+    <path id="Vector 1864_2" stroke="#000000" d="m19 22 3 -3 -3 -3" stroke-width="1.5"></path>
+    <path id="Vector 1865" stroke="#000000" d="M22 19H2" stroke-width="1.5"></path>
   </g>
 </svg>

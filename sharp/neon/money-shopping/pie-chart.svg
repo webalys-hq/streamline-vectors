@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pie-Chart--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Pie-Chart--Streamline-Sharp-Neon">
   <desc>
     Pie Chart Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pie-chart--product-data-analysis-analytics-pie-business-chart">
-    <path id="Intersect" stroke="#000cfe" d="M22.1673 10.1662c0 -4.6025 -3.731 -8.3335 -8.3334 -8.3335v8.3335h8.3334Z" stroke-width="1"></path>
-    <path id="Subtract" stroke="#c71dff" d="M10.1662 22.1673c4.6024 0 8.3334 -3.731 8.3334 -8.3335h-8.3334V5.5003c-4.6025 0 -8.3336 3.7311 -8.3336 8.3335 0 4.6025 3.7311 8.3335 8.3336 8.3335Z" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" d="M21.243662500000003 9.742608333333333c0 -4.410729166666667 -3.5755416666666666 -7.986270833333334 -7.986174999999999 -7.986270833333334v7.986270833333334h7.986174999999999Z" stroke-width="1"></path>
+    <path id="Subtract" stroke="#c71dff" d="M9.742608333333333 21.243662500000003c4.410633333333334 0 7.986174999999999 -3.5755416666666666 7.986174999999999 -7.986270833333334h-7.986174999999999V5.271120833333334c-4.410729166666667 0 -7.986366666666668 3.5756375 -7.986366666666668 7.986270833333334 0 4.410729166666667 3.5756375 7.986270833333334 7.986366666666668 7.986270833333334Z" stroke-width="1"></path>
   </g>
 </svg>

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Time-Lapse--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Time-Lapse--Streamline-Sharp-Neon">
   <desc>
     Time Lapse Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="time-lapse--time-lapse-mode-photo-picture-image-setting">
-    <path id="Ellipse 445" stroke="#c71dff" d="M23 12c0 6.0751 -4.9249 11 -11 11 -6.07513 0 -11 -4.9249 -11 -11C1 5.92487 5.92487 1 12 1" stroke-width="1"></path>
-    <path id="Ellipse 446" stroke="#000cfe" d="M22.7799 9.7998c-0.1854 -0.91299 -0.4838 -1.78492 -0.88 -2.60053" stroke-width="1"></path>
-    <path id="Ellipse 448" stroke="#000cfe" d="M20.8001 5.39844c-0.6258 -0.8329 -1.367 -1.57407 -2.2 -2.19974" stroke-width="1"></path>
-    <path id="Ellipse 449" stroke="#000cfe" d="M16.8009 2.10059c-0.8156 -0.39628 -1.6876 -0.69472 -2.6007 -0.88006" stroke-width="1"></path>
-    <path id="Vector 3844" stroke="#000cfe" d="M12 7v5l4 4" stroke-width="1"></path>
+    <path id="Ellipse 445" stroke="#c71dff" d="M22.041666666666668 11.5c0 5.821970833333333 -4.719695833333334 10.541666666666668 -10.541666666666668 10.541666666666668 -5.821999583333334 0 -10.541666666666668 -4.719695833333334 -10.541666666666668 -10.541666666666668C0.9583333333333334 5.678000416666667 5.678000416666667 0.9583333333333334 11.5 0.9583333333333334" stroke-width="1"></path>
+    <path id="Ellipse 446" stroke="#000cfe" d="M21.8307375 9.391475c-0.17767500000000003 -0.87494875 -0.4636416666666667 -1.7105483333333336 -0.8433333333333334 -2.4921745833333335" stroke-width="1"></path>
+    <path id="Ellipse 448" stroke="#000cfe" d="M19.933429166666667 5.1735050000000005c-0.5997250000000001 -0.7981958333333333 -1.3100416666666668 -1.5084837500000001 -2.1083333333333334 -2.1080841666666665" stroke-width="1"></path>
+    <path id="Ellipse 449" stroke="#000cfe" d="M16.100862499999998 2.0130654166666666c-0.7816166666666667 -0.3797683333333334 -1.6172833333333334 -0.6657733333333333 -2.4923375 -0.8433908333333333" stroke-width="1"></path>
+    <path id="Vector 3844" stroke="#000cfe" d="M11.5 6.708333333333334v4.791666666666667l3.8333333333333335 3.8333333333333335" stroke-width="1"></path>
   </g>
 </svg>

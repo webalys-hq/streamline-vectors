@@ -2,11 +2,11 @@
   <desc>
     App Window Pie Chart Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.00999 14.25c0 1.1935 0.47411 2.3381 1.31802 3.182 0.84392 0.8439 1.98851 1.318 3.18198 1.318 1.19348 0 2.33811 -0.4741 3.18201 -1.318 0.8439 -0.8439 1.318 -1.9885 1.318 -3.182s-0.4741 -2.3381 -1.318 -3.182c-0.8439 -0.8439 -1.98853 -1.318 -3.18201 -1.318 -1.19347 0 -2.33806 0.4741 -3.18198 1.318 -0.84391 0.8439 -1.31802 1.9885 -1.31802 3.182Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.50999 9.75v4.5L11.7 17.43" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.51 10.25h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.51 14.25h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.51 18.25h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 2h19.5s1.5 0 1.5 1.5v17s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5v-17S0.75 2 2.25 2Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 6.5h22.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.00999 14.25c0 1.1935 0.47411 2.3381 1.31802 3.182 0.84392 0.8439 1.98851 1.318 3.18198 1.318 1.19348 0 2.33811 -0.4741 3.18201 -1.318 0.8439 -0.8439 1.318 -1.9885 1.318 -3.182s-0.4741 -2.3381 -1.318 -3.182c-0.8439 -0.8439 -1.98853 -1.318 -3.18201 -1.318 -1.19347 0 -2.33806 0.4741 -3.18198 1.318 -0.84391 0.8439 -1.31802 1.9885 -1.31802 3.182Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.50999 9.75v4.5L11.7 17.43" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.51 10.25h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.51 14.25h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.51 18.25h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 2h19.5s1.5 0 1.5 1.5v17s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5v-17S0.75 2 2.25 2Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 6.5h22.5" stroke-width="1.5"></path>
 </svg>

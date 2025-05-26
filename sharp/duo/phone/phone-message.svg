@@ -3,10 +3,10 @@
     Phone Message Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="phone-message--android-phone-mobile-device-smartphone-iphone-text-message">
-    <path id="Rectangle 38" fill="#d7e0ff" d="m16 22 0 -20L2 2l0 20 14 0Z" stroke-width="1"></path>
-    <path id="Rectangle 37" stroke="#4147d5" d="M8.5 2 2 2l0 20 14 0 0 -8.5" stroke-width="1"></path>
-    <path id="Vector 196" stroke="#4147d5" d="m11 18 -4 0" stroke-width="1"></path>
-    <path id="Vector 2315" fill="#ffffff" d="M15 10.5 11 13V2h11v8.5h-7Z" stroke-width="1"></path>
-    <path id="Vector 2314" stroke="#4147d5" d="M15 10.5 11 13V2h11v8.5h-7Z" stroke-width="1"></path>
+    <path id="Rectangle 38" fill="#d7e0ff" d="m16 22 0 -20L2 2l0 20 14 0Z" stroke-width="1.5"></path>
+    <path id="Rectangle 37" stroke="#4147d5" d="M8.5 2 2 2l0 20 14 0 0 -8.5" stroke-width="1.5"></path>
+    <path id="Vector 196" stroke="#4147d5" d="m11 18 -4 0" stroke-width="1.5"></path>
+    <path id="Vector 2315" fill="#ffffff" d="M15 10.5 11 13V2h11v8.5h-7Z" stroke-width="1.5"></path>
+    <path id="Vector 2314" stroke="#4147d5" d="M15 10.5 11 13V2h11v8.5h-7Z" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,11 +3,11 @@
     Delete PDF Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="delete-PDF--essential-files-folder-delete-PDF-page">
-    <path id="Rectangle 843" fill="#d7e0ff" d="M15 2H2v20h18V7l-5 -5Z" stroke-width="1"></path>
-    <path id="Vector 2875" stroke="#4147d5" d="M12 14.5h11" stroke-width="1"></path>
-    <path id="Vector 2876" fill="#ffffff" d="M14 22v-7.5h7V22h-7Z" stroke-width="1"></path>
-    <path id="Vector 2878" stroke="#4147d5" d="M14 22v-7.5h7V22h-7Z" stroke-width="1"></path>
-    <path id="Vector 2877" stroke="#4147d5" d="M15.5 14.5V14a2 2 0 1 1 4 0v0.5" stroke-width="1"></path>
-    <path id="Rectangle 842" stroke="#4147d5" d="M20 10V7l-5 -5H2v20h9" stroke-width="1"></path>
+    <path id="Rectangle 843" fill="#d7e0ff" d="M15 2H2v20h18V7l-5 -5Z" stroke-width="1.5"></path>
+    <path id="Vector 2875" stroke="#4147d5" d="M12 14.5h11" stroke-width="1.5"></path>
+    <path id="Vector 2876" fill="#ffffff" d="M14 22v-7.5h7V22h-7Z" stroke-width="1.5"></path>
+    <path id="Vector 2878" stroke="#4147d5" d="M14 22v-7.5h7V22h-7Z" stroke-width="1.5"></path>
+    <path id="Vector 2877" stroke="#4147d5" d="M15.5 14.5V14a2 2 0 1 1 4 0v0.5" stroke-width="1.5"></path>
+    <path id="Rectangle 842" stroke="#4147d5" d="M20 10V7l-5 -5H2v20h9" stroke-width="1.5"></path>
   </g>
 </svg>

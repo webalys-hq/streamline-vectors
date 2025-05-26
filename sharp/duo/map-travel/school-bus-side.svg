@@ -3,17 +3,17 @@
     School Bus Side Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="school-bus-side">
-    <path id="Vector 3221" fill="#d7e0ff" d="M22 13v6.5H2V4h18v9h2Z" stroke-width="1"></path>
-    <path id="Vector 3222" fill="#ffffff" d="M2 13V7.5h18V13H2Z" stroke-width="1"></path>
-    <path id="Ellipse 1118" fill="#ffffff" d="M4 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1119" fill="#ffffff" d="M14 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1120" stroke="#4147d5" d="M4 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1121" stroke="#4147d5" d="M14 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Vector 3141" stroke="#4147d5" d="M14 19.5H9" stroke-width="1"></path>
-    <path id="Vector 3215" stroke="#4147d5" d="M19 19.5h3V13h-2V4L2 4v15.5h2" stroke-width="1"></path>
-    <path id="Vector 3217" stroke="#4147d5" d="M2 7.5h18" stroke-width="1"></path>
-    <path id="Vector 3218" stroke="#4147d5" d="M8 7.5V13" stroke-width="1"></path>
-    <path id="Vector 3219" stroke="#4147d5" d="M14 7.5V13" stroke-width="1"></path>
-    <path id="Vector 3220" stroke="#4147d5" d="M2 13h18" stroke-width="1"></path>
+    <path id="Vector 3221" fill="#d7e0ff" d="M22 13v6.5H2V4h18v9h2Z" stroke-width="1.5"></path>
+    <path id="Vector 3222" fill="#ffffff" d="M2 13V7.5h18V13H2Z" stroke-width="1.5"></path>
+    <path id="Ellipse 1118" fill="#ffffff" d="M4 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1119" fill="#ffffff" d="M14 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1120" stroke="#4147d5" d="M4 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1121" stroke="#4147d5" d="M14 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Vector 3141" stroke="#4147d5" d="M14 19.5H9" stroke-width="1.5"></path>
+    <path id="Vector 3215" stroke="#4147d5" d="M19 19.5h3V13h-2V4L2 4v15.5h2" stroke-width="1.5"></path>
+    <path id="Vector 3217" stroke="#4147d5" d="M2 7.5h18" stroke-width="1.5"></path>
+    <path id="Vector 3218" stroke="#4147d5" d="M8 7.5V13" stroke-width="1.5"></path>
+    <path id="Vector 3219" stroke="#4147d5" d="M14 7.5V13" stroke-width="1.5"></path>
+    <path id="Vector 3220" stroke="#4147d5" d="M2 13h18" stroke-width="1.5"></path>
   </g>
 </svg>

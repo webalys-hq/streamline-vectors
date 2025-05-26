@@ -3,11 +3,11 @@
     Hide Layer Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hide-layer--show-layer-work">
-    <path id="Rectangle 769" fill="#ffffff" d="M10 2h10v16H10z" stroke-width="1"></path>
-    <path id="Rectangle 767" fill="#d7e0ff" d="M4 6h10v16H4z" stroke-width="1"></path>
-    <path id="Vector 1700" stroke="#4147d5" d="M18 18h2V2H10v4" stroke-width="1"></path>
-    <path id="Vector 1701" stroke="#4147d5" d="M6 6h8v8" stroke-width="1"></path>
-    <path id="Vector 1349" stroke="#4147d5" d="m1 1 22 22" stroke-width="1"></path>
-    <path id="Vector 1702" stroke="#4147d5" d="M4 8v14h10v-4" stroke-width="1"></path>
+    <path id="Rectangle 769" fill="#ffffff" d="M10 2h10v16H10z" stroke-width="1.5"></path>
+    <path id="Rectangle 767" fill="#d7e0ff" d="M4 6h10v16H4z" stroke-width="1.5"></path>
+    <path id="Vector 1700" stroke="#4147d5" d="M18 18h2V2H10v4" stroke-width="1.5"></path>
+    <path id="Vector 1701" stroke="#4147d5" d="M6 6h8v8" stroke-width="1.5"></path>
+    <path id="Vector 1349" stroke="#4147d5" d="m1 1 22 22" stroke-width="1.5"></path>
+    <path id="Vector 1702" stroke="#4147d5" d="M4 8v14h10v-4" stroke-width="1.5"></path>
   </g>
 </svg>

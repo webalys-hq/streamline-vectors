@@ -2,14 +2,14 @@
   <desc>
     Office Shredder 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 9.75001v-7.961c0 -0.27538 0.10933 -0.53951 0.30396 -0.73433 0.19464 -0.194819 0.45865 -0.304401 0.73404 -0.304666h6.551c0.1361 -0.000696 0.2709 0.025443 0.3969 0.07692 0.1259 0.051477 0.2405 0.127282 0.3371 0.223076l4.873 4.872c0.1932 0.19533 0.3011 0.45928 0.3 0.734v3.094" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 6.75h-4.962c-0.2753 0 -0.5393 -0.10936 -0.734 -0.30402 -0.1946 -0.19467 -0.304 -0.45869 -0.304 -0.73398V0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 17.248h-1.5c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393C0.908035 16.5274 0.75 16.1459 0.75 15.748v-4.5c0 -0.3978 0.158035 -0.7793 0.43934 -1.0606 0.2813 -0.28132 0.66284 -0.43935 1.06066 -0.43935h19.5c0.3978 0 0.7794 0.15803 1.0607 0.43935 0.2813 0.2813 0.4393 0.6628 0.4393 1.0606v4.5c0 0.3979 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393h-3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 14.248h12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 14.25v9" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.75 14.25v9" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 14.248v6c0 0.3979 -0.15804 0.7794 -0.43934 1.0607s-0.66284 0.4393 -1.06066 0.4393H4.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 14.248v6c0 0.3979 0.158 0.7794 0.4393 1.0607s0.6629 0.4393 1.0607 0.4393H18" stroke-width="1"></path>
-  <path stroke="#000000" d="M20.625 14.25c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M20.625 14.25c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 9.75001v-7.961c0 -0.27538 0.10933 -0.53951 0.30396 -0.73433 0.19464 -0.194819 0.45865 -0.304401 0.73404 -0.304666h6.551c0.1361 -0.000696 0.2709 0.025443 0.3969 0.07692 0.1259 0.051477 0.2405 0.127282 0.3371 0.223076l4.873 4.872c0.1932 0.19533 0.3011 0.45928 0.3 0.734v3.094" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 6.75h-4.962c-0.2753 0 -0.5393 -0.10936 -0.734 -0.30402 -0.1946 -0.19467 -0.304 -0.45869 -0.304 -0.73398V0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 17.248h-1.5c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393C0.908035 16.5274 0.75 16.1459 0.75 15.748v-4.5c0 -0.3978 0.158035 -0.7793 0.43934 -1.0606 0.2813 -0.28132 0.66284 -0.43935 1.06066 -0.43935h19.5c0.3978 0 0.7794 0.15803 1.0607 0.43935 0.2813 0.2813 0.4393 0.6628 0.4393 1.0606v4.5c0 0.3979 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393h-3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 14.248h12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 14.25v9" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.75 14.25v9" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 14.248v6c0 0.3979 -0.15804 0.7794 -0.43934 1.0607s-0.66284 0.4393 -1.06066 0.4393H4.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 14.248v6c0 0.3979 0.158 0.7794 0.4393 1.0607s0.6629 0.4393 1.0607 0.4393H18" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M20.625 14.25c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M20.625 14.25c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
 </svg>

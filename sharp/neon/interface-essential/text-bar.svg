@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Bar--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Text-Bar--Streamline-Sharp-Neon">
   <desc>
     Text Bar Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="text-bar--text-bar-formatting-format">
-    <path id="Vector 2128" stroke="#c71dff" d="M4 1h4c2.2091 0 4 1.79086 4 4v14c0 2.2091 -1.7909 4 -4 4H4" stroke-width="1"></path>
-    <path id="Vector 2130" stroke="#c71dff" d="M6 12h12" stroke-width="1"></path>
-    <path id="Vector 2129" stroke="#c71dff" d="M20 1h-4c-2.2091 0 -4 1.79086 -4 4v14c0 2.2091 1.7909 4 4 4h4" stroke-width="1"></path>
+    <path id="Vector 2128" stroke="#c71dff" d="M3.8333333333333335 0.9583333333333334h3.8333333333333335c2.1170541666666667 0 3.8333333333333335 1.7162408333333332 3.8333333333333335 3.8333333333333335v13.416666666666668c0 2.1170541666666667 -1.7162791666666666 3.8333333333333335 -3.8333333333333335 3.8333333333333335H3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 2130" stroke="#c71dff" d="M5.75 11.5h11.5" stroke-width="1"></path>
+    <path id="Vector 2129" stroke="#c71dff" d="M19.166666666666668 0.9583333333333334h-3.8333333333333335c-2.1170541666666667 0 -3.8333333333333335 1.7162408333333332 -3.8333333333333335 3.8333333333333335v13.416666666666668c0 2.1170541666666667 1.7162791666666666 3.8333333333333335 3.8333333333333335 3.8333333333333335h3.8333333333333335" stroke-width="1"></path>
   </g>
 </svg>

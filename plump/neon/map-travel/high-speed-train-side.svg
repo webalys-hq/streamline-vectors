@@ -3,10 +3,10 @@
     High Speed Train Side Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="high-speed-train-side">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8 45h16.8599c5.9066 0 10.4551 -0.1339 13.8486 -0.3037 4.5388 -0.2272 7.5654 -4.4408 5.8381 -8.6443 -2.4893 -6.058 -6.0667 -11.2065 -9.6047 -14.7516 -2.3986 -2.4034 -5.6801 -3.5668 -9.0676 -3.8004C22.2493 17.25 16.4995 17 8 17" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3 45V24.5122c0 -2.6452 0.02268 -5.0115 0.05967 -7.112C3.20154 9.34465 8.94315 3 17 3c6.5165 0 11.5185 4.1506 13.2679 10" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M17.8255 24.4856c-0.3703 -0.6665 0.1117 -1.4856 0.8742 -1.4856h5.9732c1.8594 0 3.7559 0.3725 5.1306 1.6244 1.7736 1.615 3.2005 3.7564 4.1071 5.3156 0.5489 0.9439 -0.1505 2.0589 -1.2425 2.0586 -2.9853 -0.0006 -6.9329 0.0013 -9.4933 0.0015 -0.7261 0 -1.3933 -0.3937 -1.746 -1.0285l-3.6033 -6.486Z" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8 32c1.26766 -0.0005 3.4276 -0.0003 5.2908 -0.0001l0.1706 0c0.7237 0 1.2075 -0.7448 0.9136 -1.4061l-2.8471 -6.4061C11.2069 23.4655 10.4906 23 9.70025 23H8" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 39 8 39" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8 45h16.8599c5.9066 0 10.4551 -0.1339 13.8486 -0.3037 4.5388 -0.2272 7.5654 -4.4408 5.8381 -8.6443 -2.4893 -6.058 -6.0667 -11.2065 -9.6047 -14.7516 -2.3986 -2.4034 -5.6801 -3.5668 -9.0676 -3.8004C22.2493 17.25 16.4995 17 8 17" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3 45V24.5122c0 -2.6452 0.02268 -5.0115 0.05967 -7.112C3.20154 9.34465 8.94315 3 17 3c6.5165 0 11.5185 4.1506 13.2679 10" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M17.8255 24.4856c-0.3703 -0.6665 0.1117 -1.4856 0.8742 -1.4856h5.9732c1.8594 0 3.7559 0.3725 5.1306 1.6244 1.7736 1.615 3.2005 3.7564 4.1071 5.3156 0.5489 0.9439 -0.1505 2.0589 -1.2425 2.0586 -2.9853 -0.0006 -6.9329 0.0013 -9.4933 0.0015 -0.7261 0 -1.3933 -0.3937 -1.746 -1.0285l-3.6033 -6.486Z" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M8 32c1.26766 -0.0005 3.4276 -0.0003 5.2908 -0.0001l0.1706 0c0.7237 0 1.2075 -0.7448 0.9136 -1.4061l-2.8471 -6.4061C11.2069 23.4655 10.4906 23 9.70025 23H8" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 39 8 39" stroke-width="3"></path>
   </g>
 </svg>

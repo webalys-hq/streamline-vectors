@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Type-Area--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Type-Area--Streamline-Sharp-Neon">
   <desc>
     Type Area Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="type-area">
-    <path id="rectangle 629" stroke="#c71dff" d="m22.7998 2 -3.6335 20 -14.33303 0L1.1998 2l21.6 0Z" stroke-width="1"></path>
-    <path id="Vector 73" stroke="#000cfe" d="m7 9 0 -3 10 0v3" stroke-width="1"></path>
-    <path id="Vector 74" stroke="#000cfe" d="M9 18h6" stroke-width="1"></path>
-    <path id="Vector 75" stroke="#000cfe" d="M12.0002 6v12" stroke-width="1"></path>
+    <path id="rectangle 629" stroke="#c71dff" d="m21.849808333333335 1.9166666666666667 -3.482104166666667 19.166666666666668 -13.735820416666668 0L1.1498083333333333 1.9166666666666667l20.700000000000003 0Z" stroke-width="1"></path>
+    <path id="Vector 73" stroke="#000cfe" d="m6.708333333333334 8.625 0 -2.875 9.583333333333334 0v2.875" stroke-width="1"></path>
+    <path id="Vector 74" stroke="#000cfe" d="M8.625 17.25h5.75" stroke-width="1"></path>
+    <path id="Vector 75" stroke="#000cfe" d="M11.500191666666666 5.75v11.5" stroke-width="1"></path>
   </g>
 </svg>

@@ -4,12 +4,12 @@
   </desc>
   <g id="graphic-template-website-ui">
     <g id="Group 176568">
-      <path id="Rectangle 594" stroke="#000000" d="M21 2 3 2l0 20 18 0z" stroke-width="1"></path>
-      <path id="Vector 2866" stroke="#000000" d="M16.655 14.1567c0.914 0 1.655 0.741 1.655 1.655 0 0.9141 -0.741 1.655 -1.655 1.655S15 16.7258 15 15.8117c0 -0.914 0.741 -1.655 1.655 -1.655Z" stroke-width="1"></path>
-      <path id="Vector 2867" stroke="#000000" d="m3 19.944 5.3828 -4.2565L17.3438 22" stroke-width="1"></path>
-      <path id="Rectangle 595" stroke="#000000" d="M12.2686 5 5.9999 5" stroke-width="1"></path>
-      <path id="Rectangle 596" stroke="#000000" d="m18 8.34375 -12 0" stroke-width="1"></path>
-      <path id="Rectangle 597" stroke="#000000" d="m21 11.5625 -18 0" stroke-width="1"></path>
+      <path id="Rectangle 594" stroke="#000000" d="M21 2 3 2l0 20 18 0z" stroke-width="1.5"></path>
+      <path id="Vector 2866" stroke="#000000" d="M16.655 14.1567c0.914 0 1.655 0.741 1.655 1.655 0 0.9141 -0.741 1.655 -1.655 1.655S15 16.7258 15 15.8117c0 -0.914 0.741 -1.655 1.655 -1.655Z" stroke-width="1.5"></path>
+      <path id="Vector 2867" stroke="#000000" d="m3 19.944 5.3828 -4.2565L17.3438 22" stroke-width="1.5"></path>
+      <path id="Rectangle 595" stroke="#000000" d="M12.2686 5 5.9999 5" stroke-width="1.5"></path>
+      <path id="Rectangle 596" stroke="#000000" d="m18 8.34375 -12 0" stroke-width="1.5"></path>
+      <path id="Rectangle 597" stroke="#000000" d="m21 11.5625 -18 0" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

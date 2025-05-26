@@ -3,9 +3,9 @@
     Pound Circle Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pound-circle--pound-sterling-exchange-payment-forex-finance-foreign-currency">
-    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3c11.598 0 21 9.402 21 21s-9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3Z" stroke-width="1"></path>
-    <path id="Ellipse 21" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 8c8.837 0 16 7.163 16 16s-7.163 16 -16 16S8 32.837 8 24 15.163 8 24 8Z" stroke-width="1"></path>
-    <path id="Vector 1000" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M29.5 15.885s-4.5 -2.337 -7 0.584C19.186 20.341 24 28.49 18 30.827c0 0 6.667 0.39 12 0" stroke-width="1"></path>
-    <path id="Vector 1001" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M28 23.648H18" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3c11.598 0 21 9.402 21 21s-9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3Z" stroke-width="3"></path>
+    <path id="Ellipse 21" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 8c8.837 0 16 7.163 16 16s-7.163 16 -16 16S8 32.837 8 24 15.163 8 24 8Z" stroke-width="3"></path>
+    <path id="Vector 1000" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M29.5 15.885s-4.5 -2.337 -7 0.584C19.186 20.341 24 28.49 18 30.827c0 0 6.667 0.39 12 0" stroke-width="3"></path>
+    <path id="Vector 1001" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M28 23.648H18" stroke-width="3"></path>
   </g>
 </svg>

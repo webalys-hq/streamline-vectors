@@ -2,10 +2,10 @@
   <desc>
     Electronics Led Light Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 15.75h16.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 7.5c0 -1.79021 -0.7112 -3.5071 -1.977 -4.77297C15.5071 1.46116 13.7902 0.75 12 0.75c-1.7902 0 -3.5071 0.71116 -4.77297 1.97703S5.25 5.70979 5.25 7.5v8.25h13.5V7.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.75v-4.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 9 12 11.25 14.25 9" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 15.75v7.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 15.75v7.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 15.75h16.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 7.5c0 -1.79021 -0.7112 -3.5071 -1.977 -4.77297C15.5071 1.46116 13.7902 0.75 12 0.75c-1.7902 0 -3.5071 0.71116 -4.77297 1.97703S5.25 5.70979 5.25 7.5v8.25h13.5V7.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.75v-4.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 9 12 11.25 14.25 9" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 15.75v7.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 15.75v7.5" stroke-width="1.5"></path>
 </svg>

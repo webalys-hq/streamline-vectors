@@ -3,18 +3,18 @@
     Tune Adjust Volume Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="tune-adjust-volume">
-    <path id="Ellipse 210" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 24a16 16 0 1 0 32 0 16 16 0 1 0 -32 0" stroke-width="1"></path>
-    <path id="Vector 1911" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 2v1" stroke-width="1"></path>
-    <path id="Vector 1911_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m39.5566 8.44336 -0.7071 0.70711" stroke-width="1"></path>
-    <path id="Vector 1912" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.15039 38.8496 -0.70711 0.7071" stroke-width="1"></path>
-    <path id="Vector 1913" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.7969 27.2051 -8 8" stroke-width="1"></path>
+    <path id="Ellipse 210" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8 24a16 16 0 1 0 32 0 16 16 0 1 0 -32 0" stroke-width="3"></path>
+    <path id="Vector 1911" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 2v1" stroke-width="3"></path>
+    <path id="Vector 1911_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m39.5566 8.44336 -0.7071 0.70711" stroke-width="3"></path>
+    <path id="Vector 1912" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.15039 38.8496 -0.70711 0.7071" stroke-width="3"></path>
+    <path id="Vector 1913" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.7969 27.2051 -8 8" stroke-width="3"></path>
     <g id="Group 5123">
-      <path id="Vector 1911_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m46 24 -1 0" stroke-width="1"></path>
-      <path id="Vector 1912_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3 24 -1 0" stroke-width="1"></path>
+      <path id="Vector 1911_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m46 24 -1 0" stroke-width="3"></path>
+      <path id="Vector 1912_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3 24 -1 0" stroke-width="3"></path>
     </g>
     <g id="Group 5125">
-      <path id="Vector 1911_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m39.5566 39.5566 -0.7071 -0.7071" stroke-width="1"></path>
-      <path id="Vector 1912_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.15039 9.15137 -0.70711 -0.70711" stroke-width="1"></path>
+      <path id="Vector 1911_4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m39.5566 39.5566 -0.7071 -0.7071" stroke-width="3"></path>
+      <path id="Vector 1912_3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.15039 9.15137 -0.70711 -0.70711" stroke-width="3"></path>
     </g>
   </g>
 </svg>

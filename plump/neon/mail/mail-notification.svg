@@ -3,8 +3,8 @@
     Mail Notification Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="mail-notification--inbox-envelope-email-message-notify-notification-alert-ping">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M46 11c0 4.9706 -4.0294 9 -9 9s-9 -4.0294 -9 -9c0 -4.97056 4.0294 -9 9 -9s9 4.02944 9 9Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M43.898 23.0533c-1.3327 0.6927 -15.4201 7.9471 -20.8987 7.9471 -5.4804 0 -19.5753 -7.2592 -20.89969 -7.9477" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M23 12c-7.3804 0 -12.5376 0.225 -15.76441 0.4377 -2.54308 0.1677 -4.54065 2.0499 -4.76997 4.5881C2.22759 19.6605 2 23.5933 2 29s0.22759 9.3395 0.46562 11.9742c0.22931 2.5382 2.22689 4.4204 4.76997 4.5881C10.4624 45.775 15.6196 46 23 46s12.5375 -0.225 15.7644 -0.4377c2.5431 -0.1677 4.5407 -2.0499 4.77 -4.5881C43.7724 38.3395 44 34.4067 44 29c0 -2.2513 -0.0395 -4.2471 -0.1027 -6" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M46 11c0 4.9706 -4.0294 9 -9 9s-9 -4.0294 -9 -9c0 -4.97056 4.0294 -9 9 -9s9 4.02944 9 9Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M43.898 23.0533c-1.3327 0.6927 -15.4201 7.9471 -20.8987 7.9471 -5.4804 0 -19.5753 -7.2592 -20.89969 -7.9477" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M23 12c-7.3804 0 -12.5376 0.225 -15.76441 0.4377 -2.54308 0.1677 -4.54065 2.0499 -4.76997 4.5881C2.22759 19.6605 2 23.5933 2 29s0.22759 9.3395 0.46562 11.9742c0.22931 2.5382 2.22689 4.4204 4.76997 4.5881C10.4624 45.775 15.6196 46 23 46s12.5375 -0.225 15.7644 -0.4377c2.5431 -0.1677 4.5407 -2.0499 4.77 -4.5881C43.7724 38.3395 44 34.4067 44 29c0 -2.2513 -0.0395 -4.2471 -0.1027 -6" stroke-width="3"></path>
   </g>
 </svg>

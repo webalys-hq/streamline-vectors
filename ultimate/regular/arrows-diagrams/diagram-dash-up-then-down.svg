@@ -2,9 +2,9 @@
   <desc>
     Diagram Dash Up Then Down Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.63662 2.44c-6.2226 0.3341 -9.7501 7.2791 -6.3495 12.5011 1.5027 2.3074 4.0754 3.6928 6.829 3.6773H23.0246" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.3687 2.44h-1.9326" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.6761 2.44h-1.6757" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.0246 2.44h-2.0365" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.0831 21.56 2.9415 -2.9416 -2.9415 -2.9415" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.63662 2.44c-6.2226 0.3341 -9.7501 7.2791 -6.3495 12.5011 1.5027 2.3074 4.0754 3.6928 6.829 3.6773H23.0246" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.3687 2.44h-1.9326" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.6761 2.44h-1.6757" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.0246 2.44h-2.0365" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.0831 21.56 2.9415 -2.9416 -2.9415 -2.9415" stroke-width="1.5"></path>
 </svg>

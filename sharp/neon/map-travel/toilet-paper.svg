@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Toilet-Paper--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Toilet-Paper--Streamline-Sharp-Neon">
   <desc>
     Toilet Paper Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="toilet-paper--tussie-roll-bathroom-restroom-toilet">
-    <path id="Vector 3049" stroke="#000cfe" d="M18 6.5v2" stroke-width="1"></path>
-    <path id="Vector 3050" stroke="#000cfe" d="M2 16h3" stroke-width="1"></path>
-    <path id="Vector 3051" stroke="#000cfe" d="M6.5 16h3" stroke-width="1"></path>
-    <path id="Vector 3052" stroke="#000cfe" d="M14 16h-3" stroke-width="1"></path>
-    <path id="Vector" stroke="#c71dff" d="M18 13c-2.2091 0 -4 -2.4624 -4 -5.5C14 4.46243 15.7909 2 18 2c2.2091 0 4 2.46243 4 5.5 0 3.0376 -1.7909 5.5 -4 5.5Z" stroke-width="1"></path>
-    <path id="Vector 3048" stroke="#c71dff" d="M18 2H8C4.68629 2 2 4.68629 2 8v14h12V7.5" stroke-width="1"></path>
+    <path id="Vector 3049" stroke="#000cfe" d="M17.25 6.229166666666667v1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 3050" stroke="#000cfe" d="M1.9166666666666667 15.333333333333334h2.875" stroke-width="1"></path>
+    <path id="Vector 3051" stroke="#000cfe" d="M6.229166666666667 15.333333333333334h2.875" stroke-width="1"></path>
+    <path id="Vector 3052" stroke="#000cfe" d="M13.416666666666668 15.333333333333334h-2.875" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="M17.25 12.458333333333334c-2.1170541666666667 0 -3.8333333333333335 -2.3598000000000003 -3.8333333333333335 -5.270833333333334C13.416666666666668 4.276495416666667 15.132945833333334 1.9166666666666667 17.25 1.9166666666666667c2.1170541666666667 0 3.8333333333333335 2.35982875 3.8333333333333335 5.270833333333334 0 2.911033333333333 -1.7162791666666666 5.270833333333334 -3.8333333333333335 5.270833333333334Z" stroke-width="1"></path>
+    <path id="Vector 3048" stroke="#c71dff" d="M17.25 1.9166666666666667H7.666666666666667C4.491027916666667 1.9166666666666667 1.9166666666666667 4.491027916666667 1.9166666666666667 7.666666666666667v13.416666666666668h11.5V7.1875" stroke-width="1"></path>
   </g>
 </svg>

@@ -3,12 +3,12 @@
     Box Waterproof Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="box-waterproof--box-package-label-delivery-shipment-shipping-waterproof-protect-water-wet">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.3213 42.447c0.1347 1.7499 1.4818 3.097 3.2317 3.2317C16.6127 45.8373 19.7591 46 24 46c4.2409 0 7.3873 -0.1627 9.447 -0.3212 1.7499 -0.1348 3.097 -1.4819 3.2317 -3.2318C36.8373 40.3873 37 37.2409 37 33c0 -4.2409 -0.1627 -7.3873 -0.3213 -9.447 -0.1347 -1.7499 -1.4818 -3.097 -3.2317 -3.2317C31.3873 20.1627 28.2409 20 24 20c-4.2409 0 -7.3873 0.1627 -9.447 0.3213 -1.7499 0.1347 -3.097 1.4818 -3.2317 3.2317C11.1627 25.6127 11 28.7591 11 33c0 4.2409 0.1627 7.3873 0.3213 9.447Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 39h-6" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 33h-4" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m23 2 3 3" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m36 5 3 3" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m10 5 3 3" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2 20s5.23808 -8 22 -8c16.7619 0 22 8 22 8" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.3213 42.447c0.1347 1.7499 1.4818 3.097 3.2317 3.2317C16.6127 45.8373 19.7591 46 24 46c4.2409 0 7.3873 -0.1627 9.447 -0.3212 1.7499 -0.1348 3.097 -1.4819 3.2317 -3.2318C36.8373 40.3873 37 37.2409 37 33c0 -4.2409 -0.1627 -7.3873 -0.3213 -9.447 -0.1347 -1.7499 -1.4818 -3.097 -3.2317 -3.2317C31.3873 20.1627 28.2409 20 24 20c-4.2409 0 -7.3873 0.1627 -9.447 0.3213 -1.7499 0.1347 -3.097 1.4818 -3.2317 3.2317C11.1627 25.6127 11 28.7591 11 33c0 4.2409 0.1627 7.3873 0.3213 9.447Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 39h-6" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 33h-4" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m23 2 3 3" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m36 5 3 3" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m10 5 3 3" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M2 20s5.23808 -8 22 -8c16.7619 0 22 8 22 8" stroke-width="3"></path>
   </g>
 </svg>

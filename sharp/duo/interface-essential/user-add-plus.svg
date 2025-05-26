@@ -3,10 +3,10 @@
     User Add Plus Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-add-plus--actions-add-close-geometric-human-person-plus-single-up-user">
-    <path id="Ellipse 443" fill="#d7e0ff" d="M10.5 13.5c-3.085 0 -5.983 0.798 -8.5 2.2v2.8h17v-2.8a17.421 17.421 0 0 0 -8.5 -2.2Z" stroke-width="1"></path>
-    <path id="Ellipse 442" stroke="#4147d5" d="M12 18.5H2v-2.8a17.421 17.421 0 0 1 8.5 -2.2c1.737 0 3.416 0.253 5 0.725" stroke-width="1"></path>
-    <path id="Ellipse 350" fill="#d7e0ff" d="M6.5 6.25a4.25 4.25 0 1 0 8.5 0 4.25 4.25 0 1 0 -8.5 0" stroke-width="1"></path>
-    <path id="Ellipse 444" stroke="#4147d5" d="M6.5 6.25a4.25 4.25 0 1 0 8.5 0 4.25 4.25 0 1 0 -8.5 0" stroke-width="1"></path>
-    <path id="Vector 1140" stroke="#4147d5" d="M23 18.5h-9m4.5 -4.5v9" stroke-width="1"></path>
+    <path id="Ellipse 443" fill="#d7e0ff" d="M10.5 13.5c-3.085 0 -5.983 0.798 -8.5 2.2v2.8h17v-2.8a17.421 17.421 0 0 0 -8.5 -2.2Z" stroke-width="1.5"></path>
+    <path id="Ellipse 442" stroke="#4147d5" d="M12 18.5H2v-2.8a17.421 17.421 0 0 1 8.5 -2.2c1.737 0 3.416 0.253 5 0.725" stroke-width="1.5"></path>
+    <path id="Ellipse 350" fill="#d7e0ff" d="M6.5 6.25a4.25 4.25 0 1 0 8.5 0 4.25 4.25 0 1 0 -8.5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 444" stroke="#4147d5" d="M6.5 6.25a4.25 4.25 0 1 0 8.5 0 4.25 4.25 0 1 0 -8.5 0" stroke-width="1.5"></path>
+    <path id="Vector 1140" stroke="#4147d5" d="M23 18.5h-9m4.5 -4.5v9" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -2,10 +2,10 @@
   <desc>
     Swimming Pool Stairs Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 22.8139c1.06668 0.4301 2.23439 0.545 3.36444 0.3311 1.13005 -0.214 2.17494 -0.7478 3.01056 -1.5381 1.11433 1.055 2.5905 1.6429 4.125 1.6429s3.0107 -0.5879 4.125 -1.6429c1.0521 0.9959 2.429 1.5775 3.8765 1.6374 1.4474 0.06 2.8677 -0.4058 3.9985 -1.3114" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 18.75v-15c0 -0.79565 0.3161 -1.55871 0.8787 -2.12132C18.6913 1.06607 19.4544 0.75 20.25 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868 0.5626 0.56261 0.8787 1.32567 0.8787 2.12132" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 18.75v-15c0 -0.79565 0.31607 -1.55871 0.87868 -2.12132C9.69129 1.06607 10.4544 0.75 11.25 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868 0.5626 0.56261 0.8787 1.32567 0.8787 2.12132" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 11.25h9" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 15.75h9" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h9" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 22.8139c1.06668 0.4301 2.23439 0.545 3.36444 0.3311 1.13005 -0.214 2.17494 -0.7478 3.01056 -1.5381 1.11433 1.055 2.5905 1.6429 4.125 1.6429s3.0107 -0.5879 4.125 -1.6429c1.0521 0.9959 2.429 1.5775 3.8765 1.6374 1.4474 0.06 2.8677 -0.4058 3.9985 -1.3114" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 18.75v-15c0 -0.79565 0.3161 -1.55871 0.8787 -2.12132C18.6913 1.06607 19.4544 0.75 20.25 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868 0.5626 0.56261 0.8787 1.32567 0.8787 2.12132" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 18.75v-15c0 -0.79565 0.31607 -1.55871 0.87868 -2.12132C9.69129 1.06607 10.4544 0.75 11.25 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868 0.5626 0.56261 0.8787 1.32567 0.8787 2.12132" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 11.25h9" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 15.75h9" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h9" stroke-width="1.5"></path>
 </svg>

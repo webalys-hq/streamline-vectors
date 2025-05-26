@@ -3,7 +3,7 @@
     Module Puzzle 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="module-puzzle-2--code-puzzle-module-programming-plugin-piece">
-    <path id="Union" fill="#d7e0ff" d="M12.663 7a3.5 3.5 0 1 0 -6.326 0H2v3.535a3.5 3.5 0 1 1 0 6.93V22h4.535a3.5 3.5 0 1 1 6.93 0H17v-4.337a3.5 3.5 0 1 0 0 -6.326V7h-4.337Z" stroke-width="1"></path>
-    <path id="Union_2" stroke="#4147d5" d="M12.663 7a3.5 3.5 0 1 0 -6.326 0H2v3.535a3.5 3.5 0 1 1 0 6.93V22h4.535a3.5 3.5 0 1 1 6.93 0H17v-4.337a3.5 3.5 0 1 0 0 -6.326V7h-4.337Z" stroke-width="1"></path>
+    <path id="Union" fill="#d7e0ff" d="M12.663 7a3.5 3.5 0 1 0 -6.326 0H2v3.535a3.5 3.5 0 1 1 0 6.93V22h4.535a3.5 3.5 0 1 1 6.93 0H17v-4.337a3.5 3.5 0 1 0 0 -6.326V7h-4.337Z" stroke-width="1.5"></path>
+    <path id="Union_2" stroke="#4147d5" d="M12.663 7a3.5 3.5 0 1 0 -6.326 0H2v3.535a3.5 3.5 0 1 1 0 6.93V22h4.535a3.5 3.5 0 1 1 6.93 0H17v-4.337a3.5 3.5 0 1 0 0 -6.326V7h-4.337Z" stroke-width="1.5"></path>
   </g>
 </svg>

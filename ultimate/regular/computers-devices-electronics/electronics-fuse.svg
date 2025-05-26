@@ -2,8 +2,8 @@
   <desc>
     Electronics Fuse Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.984648 14.5409 1.059212 -1.0592s0.52961 -0.5296 1.05921 0l7.41453 7.4145s0.5296 0.5296 0 1.0592l-1.05926 1.0592s-0.52961 0.5296 -1.05921 0L0.984648 15.6001s-0.529606 -0.5296 0 -1.0592Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.4825 2.04459 14.5417 0.98538s0.5296 -0.529605 1.0592 0l7.4145 7.41448s0.5296 0.52961 0 1.05921l-1.0593 1.05923s-0.5296 0.5296 -1.0592 0l-7.4144 -7.4145s-0.5297 -0.5296 0 -1.05921Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.63245 14.0118 14.0113 3.63293l6.3553 6.35527L9.98772 20.3671l-6.35527 -6.3553Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.1899 6.81006 14.5914 9.4085l-0.5293 2.6484H9.82493l-0.52927 2.6474 -2.4856 2.4856" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m0.984648 14.5409 1.059212 -1.0592s0.52961 -0.5296 1.05921 0l7.41453 7.4145s0.5296 0.5296 0 1.0592l-1.05926 1.0592s-0.52961 0.5296 -1.05921 0L0.984648 15.6001s-0.529606 -0.5296 0 -1.0592Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.4825 2.04459 14.5417 0.98538s0.5296 -0.529605 1.0592 0l7.4145 7.41448s0.5296 0.52961 0 1.05921l-1.0593 1.05923s-0.5296 0.5296 -1.0592 0l-7.4144 -7.4145s-0.5297 -0.5296 0 -1.05921Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.63245 14.0118 14.0113 3.63293l6.3553 6.35527L9.98772 20.3671l-6.35527 -6.3553Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.1899 6.81006 14.5914 9.4085l-0.5293 2.6484H9.82493l-0.52927 2.6474 -2.4856 2.4856" stroke-width="1.5"></path>
 </svg>

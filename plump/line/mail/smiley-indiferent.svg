@@ -3,9 +3,9 @@
     Smiley Indiferent Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="smiley-indiferent">
-    <path id="Ellipse 18" stroke="#000000" stroke-linejoin="round" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="1"></path>
-    <path id="Vector 1494" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 32h16" stroke-width="1"></path>
-    <path id="Vector 1487" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 18h6" stroke-width="1"></path>
-    <path id="Vector 1488" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m29 18 6 0" stroke-width="1"></path>
+    <path id="Ellipse 18" stroke="#000000" stroke-linejoin="round" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="3"></path>
+    <path id="Vector 1494" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16 32h16" stroke-width="3"></path>
+    <path id="Vector 1487" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 18h6" stroke-width="3"></path>
+    <path id="Vector 1488" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m29 18 6 0" stroke-width="3"></path>
   </g>
 </svg>

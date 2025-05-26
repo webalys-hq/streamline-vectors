@@ -3,10 +3,10 @@
     Voice Activation 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="voice-activation-1--secure-phone-identification-id-human-person-face-smartphone-scan-security">
-    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 3c9.5213 0 17.2532 7.7196 17.3669 17.2859l3.6906 5.2397c0.5482 0.7784 0.4518 1.8244 -0.3596 2.3226 -0.8158 0.501 -2.0283 1.0879 -3.6748 1.4931l-0.5545 6.7054c-0.1408 1.7014 -1.6709 2.9426 -3.3647 2.7293l-2.6829 -0.338v3.2382c0 1.2888 -0.8291 2.416 -2.0963 2.6507C9.60627 44.6452 6.83139 45 3.00002 45" stroke-width="1"></path>
-    <path id="Ellipse 68" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M40 18c6.6667 6.6274 6.6667 17.3726 0 24" stroke-width="1"></path>
-    <path id="Ellipse 69" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M35.25 22c4 4.4183 4 11.5817 0 16" stroke-width="1"></path>
-    <path id="Ellipse 70" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M29.5 25.5c2.6667 2.4853 2.6667 6.5147 0 9" stroke-width="1"></path>
-    <path id="Vector 1498" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 18v1" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 3c9.5213 0 17.2532 7.7196 17.3669 17.2859l3.6906 5.2397c0.5482 0.7784 0.4518 1.8244 -0.3596 2.3226 -0.8158 0.501 -2.0283 1.0879 -3.6748 1.4931l-0.5545 6.7054c-0.1408 1.7014 -1.6709 2.9426 -3.3647 2.7293l-2.6829 -0.338v3.2382c0 1.2888 -0.8291 2.416 -2.0963 2.6507C9.60627 44.6452 6.83139 45 3.00002 45" stroke-width="3"></path>
+    <path id="Ellipse 68" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M40 18c6.6667 6.6274 6.6667 17.3726 0 24" stroke-width="3"></path>
+    <path id="Ellipse 69" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M35.25 22c4 4.4183 4 11.5817 0 16" stroke-width="3"></path>
+    <path id="Ellipse 70" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M29.5 25.5c2.6667 2.4853 2.6667 6.5147 0 9" stroke-width="3"></path>
+    <path id="Vector 1498" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 18v1" stroke-width="3"></path>
   </g>
 </svg>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Lift--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Lift--Streamline-Sharp-Neon">
   <desc>
     Lift Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="lift--arrow-up-human-down-person-user-lift-elevator">
-    <path id="Ellipse 354" stroke="#c71dff" d="M4 3.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 409" stroke="#c71dff" d="M3 24v-6.5H1l0 -7S3 9 6.5 9s5.5 1.5 5.5 1.5v7h-2V24" stroke-width="1"></path>
-    <path id="Vector 1427" stroke="#000cfe" d="m17 5 3 -3 3 3" stroke-width="1"></path>
-    <path id="Vector 1428" stroke="#000cfe" d="m17 11 3 3 3 -3" stroke-width="1"></path>
+    <path id="Ellipse 354" stroke="#c71dff" d="M3.8333333333333335 3.354166666666667a2.3958333333333335 2.3958333333333335 0 1 0 4.791666666666667 0 2.3958333333333335 2.3958333333333335 0 1 0 -4.791666666666667 0" stroke-width="1"></path>
+    <path id="Ellipse 409" stroke="#c71dff" d="M2.875 23v-6.229166666666667H0.9583333333333334l0 -6.708333333333334S2.875 8.625 6.229166666666667 8.625s5.270833333333334 1.4375 5.270833333333334 1.4375v6.708333333333334h-1.9166666666666667V23" stroke-width="1"></path>
+    <path id="Vector 1427" stroke="#000cfe" d="m16.291666666666668 4.791666666666667 2.875 -2.875 2.875 2.875" stroke-width="1"></path>
+    <path id="Vector 1428" stroke="#000cfe" d="m16.291666666666668 10.541666666666668 2.875 2.875 2.875 -2.875" stroke-width="1"></path>
   </g>
 </svg>

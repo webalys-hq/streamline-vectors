@@ -3,10 +3,10 @@
     Test Tube Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
-    <path id="Union" fill="#8fbffa" d="M11.493 3.551C14.267 3.291 18.575 3 24 3c5.424 0 9.733 0.29 12.507 0.551 1.545 0.145 2.239 1.92 1.25 3.116L35 10l0 15.5c0 3.818 -0.061 7.044 -0.146 9.681 -0.17 5.287 -4.068 9.643 -9.355 9.797a51.651 51.651 0 0 1 -2.934 0.002c-5.318 -0.148 -9.24 -4.549 -9.415 -9.866A294.29 294.29 0 0 1 13 25.5L13 10l-2.757 -3.333c-0.989 -1.196 -0.295 -2.97 1.25 -3.116Z" stroke-width="1"></path>
-    <path id="Union_2" stroke="#2859c5" stroke-linejoin="round" d="M11.493 3.551C14.267 3.291 18.575 3 24 3c5.424 0 9.733 0.29 12.507 0.551 1.545 0.145 2.239 1.92 1.25 3.116L35 10l0 15.5c0 3.818 -0.061 7.044 -0.146 9.681 -0.17 5.287 -4.068 9.643 -9.355 9.797a51.651 51.651 0 0 1 -2.934 0.002c-5.318 -0.148 -9.24 -4.549 -9.415 -9.866A294.29 294.29 0 0 1 13 25.5L13 10l-2.757 -3.333c-0.989 -1.196 -0.295 -2.97 1.25 -3.116Z" stroke-width="1"></path>
-    <path id="Vector 1658" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17 15h-4" stroke-width="1"></path>
-    <path id="Vector 1659" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17 23h-4" stroke-width="1"></path>
-    <path id="Vector 1660" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17 31h-4" stroke-width="1"></path>
+    <path id="Union" fill="#8fbffa" d="M11.493 3.551C14.267 3.291 18.575 3 24 3c5.424 0 9.733 0.29 12.507 0.551 1.545 0.145 2.239 1.92 1.25 3.116L35 10l0 15.5c0 3.818 -0.061 7.044 -0.146 9.681 -0.17 5.287 -4.068 9.643 -9.355 9.797a51.651 51.651 0 0 1 -2.934 0.002c-5.318 -0.148 -9.24 -4.549 -9.415 -9.866A294.29 294.29 0 0 1 13 25.5L13 10l-2.757 -3.333c-0.989 -1.196 -0.295 -2.97 1.25 -3.116Z" stroke-width="3"></path>
+    <path id="Union_2" stroke="#2859c5" stroke-linejoin="round" d="M11.493 3.551C14.267 3.291 18.575 3 24 3c5.424 0 9.733 0.29 12.507 0.551 1.545 0.145 2.239 1.92 1.25 3.116L35 10l0 15.5c0 3.818 -0.061 7.044 -0.146 9.681 -0.17 5.287 -4.068 9.643 -9.355 9.797a51.651 51.651 0 0 1 -2.934 0.002c-5.318 -0.148 -9.24 -4.549 -9.415 -9.866A294.29 294.29 0 0 1 13 25.5L13 10l-2.757 -3.333c-0.989 -1.196 -0.295 -2.97 1.25 -3.116Z" stroke-width="3"></path>
+    <path id="Vector 1658" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17 15h-4" stroke-width="3"></path>
+    <path id="Vector 1659" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17 23h-4" stroke-width="3"></path>
+    <path id="Vector 1660" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17 31h-4" stroke-width="3"></path>
   </g>
 </svg>

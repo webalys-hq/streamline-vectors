@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Stock--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Stock--Streamline-Sharp-Neon">
   <desc>
     Stock Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="stock--price-stock-wallstreet-dollar-money-currency-fluctuate-candlestick-business">
-    <path id="Vector 2761" stroke="#000cfe" d="M4 6V1" stroke-width="1"></path>
-    <path id="Vector 2763" stroke="#000cfe" d="M12 13V8" stroke-width="1"></path>
-    <path id="Vector 2764" stroke="#000cfe" d="M12 23v-4" stroke-width="1"></path>
-    <path id="Vector 2762" stroke="#000cfe" d="M4 20v-3" stroke-width="1"></path>
-    <path id="Vector 2947" stroke="#000cfe" d="M19.5 3V1" stroke-width="1"></path>
-    <path id="Vector 2948" stroke="#000cfe" d="M19.5 12v-2" stroke-width="1"></path>
-    <path id="Vector 3037" stroke="#000cfe" d="M22 5V4c0 -0.55228 -0.4477 -1 -1 -1h-3c-0.5523 0 -1 0.44772 -1 1v0.9302c0 0.47668 0.3365 0.88709 0.8039 0.98058l3.3922 0.67844c0.4674 0.09349 0.8039 0.5039 0.8039 0.98058V9c0 0.55228 -0.4477 1 -1 1h-3c-0.5523 0 -1 -0.44772 -1 -1V8" stroke-width="1"></path>
-    <path id="Vector 2759" stroke="#c71dff" d="M2 17V6h4v11H2Z" stroke-width="1"></path>
-    <path id="Vector 2760" stroke="#c71dff" d="M10 19v-6h4v6h-4Z" stroke-width="1"></path>
+    <path id="Vector 2761" stroke="#000cfe" d="M3.8333333333333335 5.75V0.9583333333333334" stroke-width="1"></path>
+    <path id="Vector 2763" stroke="#000cfe" d="M11.5 12.458333333333334V7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 2764" stroke="#000cfe" d="M11.5 22.041666666666668v-3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 2762" stroke="#000cfe" d="M3.8333333333333335 19.166666666666668v-2.875" stroke-width="1"></path>
+    <path id="Vector 2947" stroke="#000cfe" d="M18.6875 2.875V0.9583333333333334" stroke-width="1"></path>
+    <path id="Vector 2948" stroke="#000cfe" d="M18.6875 11.5v-1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 3037" stroke="#000cfe" d="M21.083333333333336 4.791666666666667V3.8333333333333335c0 -0.5292683333333333 -0.42904583333333335 -0.9583333333333334 -0.9583333333333334 -0.9583333333333334h-2.875c-0.5292875 0 -0.9583333333333334 0.42906500000000003 -0.9583333333333334 0.9583333333333334v0.8914416666666667c0 0.4568183333333333 0.3224791666666667 0.8501279166666668 0.7704041666666667 0.9397225l3.2508583333333334 0.6501716666666667c0.447925 0.08959458333333334 0.7704041666666667 0.4829041666666667 0.7704041666666667 0.9397225V8.625c0 0.5292683333333333 -0.42904583333333335 0.9583333333333334 -0.9583333333333334 0.9583333333333334h-2.875c-0.5292875 0 -0.9583333333333334 -0.42906500000000003 -0.9583333333333334 -0.9583333333333334V7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 2759" stroke="#c71dff" d="M1.9166666666666667 16.291666666666668V5.75h3.8333333333333335v10.541666666666668H1.9166666666666667Z" stroke-width="1"></path>
+    <path id="Vector 2760" stroke="#c71dff" d="M9.583333333333334 18.208333333333336v-5.75h3.8333333333333335v5.75h-3.8333333333333335Z" stroke-width="1"></path>
   </g>
 </svg>

@@ -3,10 +3,10 @@
     Voice Activation 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="voice-activation-1--secure-phone-identification-id-human-person-face-smartphone-scan-security">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M40 20c6.6667 6.6274 6.6667 17.3726 0 24" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35.25 24c4 4.4183 4 11.5817 0 16" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M29.5 27.5c2.6667 2.4853 2.6667 6.5147 0 9" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12 18v1" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3 2c9.5213 0 17 7 17 17l4.4261 5.6332c0.6159 0.7839 0.5491 1.8957 -0.2682 2.4665C23.2096 27.7618 21.7901 28.5595 20 29l-0.3408 7.1575c-0.085 1.7841 -1.7003 3.0992 -3.4645 2.8206L10 38v8" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M40 20c6.6667 6.6274 6.6667 17.3726 0 24" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35.25 24c4 4.4183 4 11.5817 0 16" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M29.5 27.5c2.6667 2.4853 2.6667 6.5147 0 9" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12 18v1" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3 2c9.5213 0 17 7 17 17l4.4261 5.6332c0.6159 0.7839 0.5491 1.8957 -0.2682 2.4665C23.2096 27.7618 21.7901 28.5595 20 29l-0.3408 7.1575c-0.085 1.7841 -1.7003 3.0992 -3.4645 2.8206L10 38v8" stroke-width="3"></path>
   </g>
 </svg>

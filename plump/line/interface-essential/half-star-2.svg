@@ -3,7 +3,7 @@
     Half Star 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="half-star-2--reward-rating-rate-social-star-media-favorite-like-stars-half">
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3v36.879l-9.672 4.797c-2.244 1.113 -4.784 -0.798 -4.466 -3.36l1.381 -11.122 -7.388 -8.165c-1.698 -1.877 -0.73 -4.962 1.706 -5.44l10.555 -2.064 5.124 -9.818C21.834 3.569 22.917 3 24 3Z" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000000" stroke-dasharray="4 6" stroke-linecap="round" stroke-linejoin="round" d="M24 3c2.402 0 4.225 3.113 5.617 6.22 1.49 3.328 4.385 5.478 7.997 5.986 3.332 0.47 6.74 1.382 7.3 3.844 0.543 2.383 -2.099 5.051 -4.728 7.325 -2.64 2.282 -3.675 5.577 -2.834 8.964 0.895 3.602 1.56 7.629 -0.595 9.114 -1.658 1.142 -4.25 0.262 -6.757 -1.05 -2.357 -1.234 -4.64 -2.85 -6 -3.524" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3v36.879l-9.672 4.797c-2.244 1.113 -4.784 -0.798 -4.466 -3.36l1.381 -11.122 -7.388 -8.165c-1.698 -1.877 -0.73 -4.962 1.706 -5.44l10.555 -2.064 5.124 -9.818C21.834 3.569 22.917 3 24 3Z" stroke-width="3"></path>
+    <path id="Subtract" stroke="#000000" stroke-dasharray="4 6" stroke-linecap="round" stroke-linejoin="round" d="M24 3c2.402 0 4.225 3.113 5.617 6.22 1.49 3.328 4.385 5.478 7.997 5.986 3.332 0.47 6.74 1.382 7.3 3.844 0.543 2.383 -2.099 5.051 -4.728 7.325 -2.64 2.282 -3.675 5.577 -2.834 8.964 0.895 3.602 1.56 7.629 -0.595 9.114 -1.658 1.142 -4.25 0.262 -6.757 -1.05 -2.357 -1.234 -4.64 -2.85 -6 -3.524" stroke-width="3"></path>
   </g>
 </svg>

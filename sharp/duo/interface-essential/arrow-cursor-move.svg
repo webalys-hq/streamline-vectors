@@ -3,13 +3,13 @@
     Arrow Cursor Move Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="arrow-cursor-move--mouse-select-cursor-move-scroll">
-    <path id="Vector 2354" fill="#d7e0ff" d="M4.575 10.2441 2.15625 2.18164l8.06255 2.41875L4.575 10.2441Z" stroke-width="1"></path>
-    <path id="Vector" stroke="#4147d5" d="m14.3077 6.61536 0 15.38464" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#4147d5" d="M22 14.3077H6.61536" stroke-width="1"></path>
-    <path id="Vector 2353" stroke="#4147d5" d="M4.575 10.2441 2.15625 2.18164l8.06255 2.41875L4.575 10.2441Z" stroke-width="1"></path>
-    <path id="Vector 2348" stroke="#4147d5" d="m12 8.92305 2.3077 -2.30769 2.3077 2.30769" stroke-width="1"></path>
-    <path id="Vector 2350" stroke="#4147d5" d="M19.6923 12 22 14.3077l-2.3077 2.3077" stroke-width="1"></path>
-    <path id="Vector 2349" stroke="#4147d5" d="M12 19.6923 14.3077 22l2.3077 -2.3077" stroke-width="1"></path>
-    <path id="Vector 2351" stroke="#4147d5" d="m8.92305 12 -2.30769 2.3077 2.30769 2.3077" stroke-width="1"></path>
+    <path id="Vector 2354" fill="#d7e0ff" d="M4.575 10.2441 2.15625 2.18164l8.06255 2.41875L4.575 10.2441Z" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#4147d5" d="m14.3077 6.61536 0 15.38464" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#4147d5" d="M22 14.3077H6.61536" stroke-width="1.5"></path>
+    <path id="Vector 2353" stroke="#4147d5" d="M4.575 10.2441 2.15625 2.18164l8.06255 2.41875L4.575 10.2441Z" stroke-width="1.5"></path>
+    <path id="Vector 2348" stroke="#4147d5" d="m12 8.92305 2.3077 -2.30769 2.3077 2.30769" stroke-width="1.5"></path>
+    <path id="Vector 2350" stroke="#4147d5" d="M19.6923 12 22 14.3077l-2.3077 2.3077" stroke-width="1.5"></path>
+    <path id="Vector 2349" stroke="#4147d5" d="M12 19.6923 14.3077 22l2.3077 -2.3077" stroke-width="1.5"></path>
+    <path id="Vector 2351" stroke="#4147d5" d="m8.92305 12 -2.30769 2.3077 2.30769 2.3077" stroke-width="1.5"></path>
   </g>
 </svg>

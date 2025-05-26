@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Crutch--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Crutch--Streamline-Sharp-Neon">
   <desc>
     Crutch Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="crutch--disability-crutch">
-    <path id="Ellipse 354" stroke="#c71dff" d="M11 3.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 409" stroke="#c71dff" d="M16.9999 24v-6.5h2v-7s-2 -1.5 -5.5 -1.5c-0.9463 0 -1.7829 0.10964 -2.5 0.26965 -0.9089 0.20279 -1.62576 0.48648 -2.13052 0.73035" stroke-width="1"></path>
-    <path id="Vector 3129" stroke="#000cfe" d="M6 13v5s0.5 1 2 1 2 -1 2 -1v-5" stroke-width="1"></path>
-    <path id="Vector 3132" stroke="#000cfe" d="M4 13h8" stroke-width="1"></path>
-    <path id="Vector 3131" stroke="#000cfe" d="M6 23h4" stroke-width="1"></path>
-    <path id="Vector 3130" stroke="#000cfe" d="M8 19v4" stroke-width="1"></path>
+    <path id="Ellipse 354" stroke="#c71dff" d="M10.541666666666668 3.354166666666667a2.3958333333333335 2.3958333333333335 0 1 0 4.791666666666667 0 2.3958333333333335 2.3958333333333335 0 1 0 -4.791666666666667 0" stroke-width="1"></path>
+    <path id="Ellipse 409" stroke="#c71dff" d="M16.291570833333335 23v-6.229166666666667h1.9166666666666667v-6.708333333333334s-1.9166666666666667 -1.4375 -5.270833333333334 -1.4375c-0.9068708333333334 0 -1.7086125 0.10507166666666667 -2.3958333333333335 0.25841458333333334 -0.8710291666666667 0.19434041666666668 -1.5580200000000002 0.46621 -2.0417483333333335 0.69991875" stroke-width="1"></path>
+    <path id="Vector 3129" stroke="#000cfe" d="M5.75 12.458333333333334v4.791666666666667s0.4791666666666667 0.9583333333333334 1.9166666666666667 0.9583333333333334 1.9166666666666667 -0.9583333333333334 1.9166666666666667 -0.9583333333333334v-4.791666666666667" stroke-width="1"></path>
+    <path id="Vector 3132" stroke="#000cfe" d="M3.8333333333333335 12.458333333333334h7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 3131" stroke="#000cfe" d="M5.75 22.041666666666668h3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 3130" stroke="#000cfe" d="M7.666666666666667 18.208333333333336v3.8333333333333335" stroke-width="1"></path>
   </g>
 </svg>

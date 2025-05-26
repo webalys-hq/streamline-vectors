@@ -3,7 +3,7 @@
     Flip Horizontal Circle 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="flip-horizontal-circle-1--flip-left-object-work">
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.914 3.202C22.044 3.036 23 3.955 23 5.096v37.808c0 1.141 -0.957 2.06 -2.086 1.894C10.78 43.304 3 34.562 3 24 3 13.44 10.78 4.696 20.914 3.202Z" stroke-width="1"></path>
-    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33.793 5.397A20.842 20.842 0 0 0 29 3.577m9.667 5.376a21.084 21.084 0 0 1 4.178 5.759m1.852 5.705c0.2 1.165 0.304 2.362 0.304 3.583 0 1.222 -0.104 2.419 -0.304 3.583m-10.904 15.02A20.84 20.84 0 0 1 29 44.424m9.667 -5.377a21.083 21.083 0 0 0 4.178 -5.758" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.914 3.202C22.044 3.036 23 3.955 23 5.096v37.808c0 1.141 -0.957 2.06 -2.086 1.894C10.78 43.304 3 34.562 3 24 3 13.44 10.78 4.696 20.914 3.202Z" stroke-width="3"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33.793 5.397A20.842 20.842 0 0 0 29 3.577m9.667 5.376a21.084 21.084 0 0 1 4.178 5.759m1.852 5.705c0.2 1.165 0.304 2.362 0.304 3.583 0 1.222 -0.104 2.419 -0.304 3.583m-10.904 15.02A20.84 20.84 0 0 1 29 44.424m9.667 -5.377a21.083 21.083 0 0 0 4.178 -5.758" stroke-width="3"></path>
   </g>
 </svg>

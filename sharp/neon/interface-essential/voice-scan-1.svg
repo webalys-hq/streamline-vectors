@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Voice-Scan-1--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Voice-Scan-1--Streamline-Sharp-Neon">
   <desc>
     Voice Scan 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="voice-scan-1--identification-secure-id-soundwave-sound-voice-brackets-security">
-    <path id="Vector 2220" stroke="#000cfe" d="M3 12h3.5l3 -5 5 10 3 -5H21" stroke-width="1"></path>
-    <path id="Vector 2214" stroke="#c71dff" d="M8 22H2v-6" stroke-width="1"></path>
-    <path id="Vector 2818" stroke="#c71dff" d="M22 16v6h-6" stroke-width="1"></path>
-    <path id="Vector 2816" stroke="#c71dff" d="M2 8V2h6" stroke-width="1"></path>
-    <path id="Vector 2817" stroke="#c71dff" d="M16 2h6v6" stroke-width="1"></path>
+    <path id="Vector 2220" stroke="#000cfe" d="M2.875 11.5h3.354166666666667l2.875 -4.791666666666667 4.791666666666667 9.583333333333334 2.875 -4.791666666666667H20.125" stroke-width="1"></path>
+    <path id="Vector 2214" stroke="#c71dff" d="M7.666666666666667 21.083333333333336H1.9166666666666667v-5.75" stroke-width="1"></path>
+    <path id="Vector 2818" stroke="#c71dff" d="M21.083333333333336 15.333333333333334v5.75h-5.75" stroke-width="1"></path>
+    <path id="Vector 2816" stroke="#c71dff" d="M1.9166666666666667 7.666666666666667V1.9166666666666667h5.75" stroke-width="1"></path>
+    <path id="Vector 2817" stroke="#c71dff" d="M15.333333333333334 1.9166666666666667h5.75v5.75" stroke-width="1"></path>
   </g>
 </svg>

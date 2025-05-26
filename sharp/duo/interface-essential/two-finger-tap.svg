@@ -3,9 +3,9 @@
     Two Finger Tap Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="two-finger-tap">
-    <path id="Ellipse 595" stroke="#4147d5" d="M4 8a6 6 0 0 1 8 -5.659A6 6 0 0 1 20 8" stroke-width="1"></path>
-    <path id="Vector 2440" fill="#d7e0ff" d="m19 23 0 -7 -3 -2 0 -6a2 2 0 0 0 -2 -2L8 6l0 9 -3 3 3.16 5.008L19 23Z" stroke-width="1"></path>
-    <path id="Vector 57" stroke="#4147d5" d="m19 23 0 -7 -3 -2 0 -6a2 2 0 0 0 -2 -2L8 6l0 9 -3 3 3 4.75" stroke-width="1"></path>
-    <path id="Vector 2439" stroke="#4147d5" d="M8 6h2a2 2 0 0 1 2 2v7" stroke-width="1"></path>
+    <path id="Ellipse 595" stroke="#4147d5" d="M4 8a6 6 0 0 1 8 -5.659A6 6 0 0 1 20 8" stroke-width="1.5"></path>
+    <path id="Vector 2440" fill="#d7e0ff" d="m19 23 0 -7 -3 -2 0 -6a2 2 0 0 0 -2 -2L8 6l0 9 -3 3 3.16 5.008L19 23Z" stroke-width="1.5"></path>
+    <path id="Vector 57" stroke="#4147d5" d="m19 23 0 -7 -3 -2 0 -6a2 2 0 0 0 -2 -2L8 6l0 9 -3 3 3 4.75" stroke-width="1.5"></path>
+    <path id="Vector 2439" stroke="#4147d5" d="M8 6h2a2 2 0 0 1 2 2v7" stroke-width="1.5"></path>
   </g>
 </svg>

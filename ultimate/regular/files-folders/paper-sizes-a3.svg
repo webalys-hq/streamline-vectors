@@ -2,8 +2,8 @@
   <desc>
     Paper Sizes A3 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M19.3551 12.3803V6.90334c0 -0.25725 -0.0992 -0.5046 -0.2768 -0.69064l-4.6789 -4.89944c-0.1887 -0.19758 -0.45 -0.30935 -0.7232 -0.30935H3.67578c-0.55228 0 -1 0.44771 -1 1V21.9957c0 0.5522 0.44772 1 1 1h3.33965" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.89844 22.9958 1.74126 -6.9652c0.0901 -0.36 0.4136 -0.6126 0.7847 -0.6126 0.3711 0 0.6946 0.2526 0.7846 0.6126l1.7413 6.9652m-4.4204 -2.5259h3.7889" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.3789 1.00391v6.2539h5.9766" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.3887 21.6826c0.27 0.7641 1.1107 1.3116 1.9673 1.3116 1.0865 0 1.9672 -0.8808 1.9672 -1.9673v-0.3279c0 -1.0865 -0.8807 -1.9673 -1.9672 -1.9673h-0.0656c0.9416 0 1.705 -0.7633 1.705 -1.705v-0.2623c0 -0.9054 -0.734 -1.6394 -1.6394 -1.6394 -0.5364 0 -1.0126 0.2576 -1.3117 0.6558" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M19.3551 12.3803V6.90334c0 -0.25725 -0.0992 -0.5046 -0.2768 -0.69064l-4.6789 -4.89944c-0.1887 -0.19758 -0.45 -0.30935 -0.7232 -0.30935H3.67578c-0.55228 0 -1 0.44771 -1 1V21.9957c0 0.5522 0.44772 1 1 1h3.33965" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.89844 22.9958 1.74126 -6.9652c0.0901 -0.36 0.4136 -0.6126 0.7847 -0.6126 0.3711 0 0.6946 0.2526 0.7846 0.6126l1.7413 6.9652m-4.4204 -2.5259h3.7889" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.3789 1.00391v6.2539h5.9766" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.3887 21.6826c0.27 0.7641 1.1107 1.3116 1.9673 1.3116 1.0865 0 1.9672 -0.8808 1.9672 -1.9673v-0.3279c0 -1.0865 -0.8807 -1.9673 -1.9672 -1.9673h-0.0656c0.9416 0 1.705 -0.7633 1.705 -1.705v-0.2623c0 -0.9054 -0.734 -1.6394 -1.6394 -1.6394 -0.5364 0 -1.0126 0.2576 -1.3117 0.6558" stroke-width="1.5"></path>
 </svg>

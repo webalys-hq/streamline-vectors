@@ -3,9 +3,9 @@
     Align Text Center Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="align-text-center">
-    <path id="Rectangle 988" stroke="#000000" d="M2 2h20v20H2z" stroke-width="1"></path>
-    <path id="Vector 2197" stroke="#000000" d="M6 8.5h12" stroke-width="1"></path>
-    <path id="Vector 2198" stroke="#000000" d="M6 12h12" stroke-width="1"></path>
-    <path id="Vector 2199" stroke="#000000" d="M6 15.5h12" stroke-width="1"></path>
+    <path id="Rectangle 988" stroke="#000000" d="M2 2h20v20H2z" stroke-width="1.5"></path>
+    <path id="Vector 2197" stroke="#000000" d="M6 8.5h12" stroke-width="1.5"></path>
+    <path id="Vector 2198" stroke="#000000" d="M6 12h12" stroke-width="1.5"></path>
+    <path id="Vector 2199" stroke="#000000" d="M6 15.5h12" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,15 +3,15 @@
     3d Move Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="3d-move">
-    <path id="Vector 2076" fill="#d7e0ff" d="M8.154 15.846V8.154h7.692v7.692H8.154Z" stroke-width="1"></path>
-    <path id="Vector 2086" stroke="#4147d5" d="M8.154 15.847V8.154h7.692v7.693H8.154Z" stroke-width="1"></path>
-    <path id="Vector 2078" stroke="#4147d5" d="m12 2 0 6.154" stroke-width="1"></path>
-    <path id="Vector 2080" stroke="#4147d5" d="m22 12 -6.154 0" stroke-width="1"></path>
-    <path id="Vector 2079" stroke="#4147d5" d="M9.692 4.308 12 2l2.308 2.308" stroke-width="1"></path>
-    <path id="Vector 2081" stroke="#4147d5" d="M19.692 9.692 22 12l-2.308 2.308" stroke-width="1"></path>
-    <path id="Vector 2082" stroke="#4147d5" d="m12 22 0 -6.154" stroke-width="1"></path>
-    <path id="Vector 2083" stroke="#4147d5" d="m2 12 6.154 0" stroke-width="1"></path>
-    <path id="Vector 2084" stroke="#4147d5" d="M14.308 19.692 12 22l-2.308 -2.308" stroke-width="1"></path>
-    <path id="Vector 2085" stroke="#4147d5" d="M4.308 14.308 2 12l2.308 -2.308" stroke-width="1"></path>
+    <path id="Vector 2076" fill="#d7e0ff" d="M8.154 15.846V8.154h7.692v7.692H8.154Z" stroke-width="1.5"></path>
+    <path id="Vector 2086" stroke="#4147d5" d="M8.154 15.847V8.154h7.692v7.693H8.154Z" stroke-width="1.5"></path>
+    <path id="Vector 2078" stroke="#4147d5" d="m12 2 0 6.154" stroke-width="1.5"></path>
+    <path id="Vector 2080" stroke="#4147d5" d="m22 12 -6.154 0" stroke-width="1.5"></path>
+    <path id="Vector 2079" stroke="#4147d5" d="M9.692 4.308 12 2l2.308 2.308" stroke-width="1.5"></path>
+    <path id="Vector 2081" stroke="#4147d5" d="M19.692 9.692 22 12l-2.308 2.308" stroke-width="1.5"></path>
+    <path id="Vector 2082" stroke="#4147d5" d="m12 22 0 -6.154" stroke-width="1.5"></path>
+    <path id="Vector 2083" stroke="#4147d5" d="m2 12 6.154 0" stroke-width="1.5"></path>
+    <path id="Vector 2084" stroke="#4147d5" d="M14.308 19.692 12 22l-2.308 -2.308" stroke-width="1.5"></path>
+    <path id="Vector 2085" stroke="#4147d5" d="M4.308 14.308 2 12l2.308 -2.308" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -2,7 +2,7 @@
   <desc>
     Flash Drive Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 6.75h-7.5c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934 -0.2813 0.2813 -0.43934 0.66284 -0.43934 1.06066V18c0 1.3924 0.55312 2.7277 1.53769 3.7123C9.27226 22.6969 10.6076 23.25 12 23.25c1.3924 0 2.7277 -0.5531 3.7123 -1.5377 0.9846 -0.9846 1.5377 -2.3199 1.5377 -3.7123V8.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066 -0.2813 -0.2813 -0.6629 -0.43934 -1.0607 -0.43934Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 0.75h7.5v6h-7.5v-6Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 3.75h1.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 6.75h-7.5c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934 -0.2813 0.2813 -0.43934 0.66284 -0.43934 1.06066V18c0 1.3924 0.55312 2.7277 1.53769 3.7123C9.27226 22.6969 10.6076 23.25 12 23.25c1.3924 0 2.7277 -0.5531 3.7123 -1.5377 0.9846 -0.9846 1.5377 -2.3199 1.5377 -3.7123V8.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066 -0.2813 -0.2813 -0.6629 -0.43934 -1.0607 -0.43934Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 0.75h7.5v6h-7.5v-6Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 3.75h1.5" stroke-width="1.5"></path>
 </svg>

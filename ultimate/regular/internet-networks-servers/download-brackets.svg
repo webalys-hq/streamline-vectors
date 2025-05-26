@@ -2,8 +2,8 @@
   <desc>
     Download Brackets Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.001 18V6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m16.501 10.5 -4.5 -4.5 -4.49999 4.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 0.75h3.75c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v19.5c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393H18" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.00001 23.25h-3.749c-0.39783 0 -0.77936 -0.158 -1.06066 -0.4393 -0.281308 -0.2813 -0.439343 -0.6629 -0.439343 -1.0607V2.25c0 -0.39782 0.158035 -0.77936 0.439343 -1.06066C1.47165 0.908035 1.85318 0.75 2.25101 0.75h3.749" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.001 18V6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m16.501 10.5 -4.5 -4.5 -4.49999 4.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 0.75h3.75c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v19.5c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393H18" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.00001 23.25h-3.749c-0.39783 0 -0.77936 -0.158 -1.06066 -0.4393 -0.281308 -0.2813 -0.439343 -0.6629 -0.439343 -1.0607V2.25c0 -0.39782 0.158035 -0.77936 0.439343 -1.06066C1.47165 0.908035 1.85318 0.75 2.25101 0.75h3.749" stroke-width="1.5"></path>
 </svg>

@@ -3,12 +3,12 @@
     Dog 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="dog-1--nature-head-dog-pet-animals-canine">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M40.9255 31.1836C40.3783 20.6012 37 13 37 13m-26 0s-3.37833 7.6012 -3.92554 18.1836m33.84064 0C45.1009 29.3676 46 24.9238 46 22c0 -7.5 -6 -20 -22 -20S2 14.5 2 22c0 2.9238 0.89912 7.3676 5.08491 9.1836C7.0288 32.1218 7 33.0771 7 34.0476 7 36.9048 7 46 24 46c16.9999 0 17 -9.0952 17 -11.9524 0 -0.9705 -0.0288 -1.9258 -0.0849 -2.864Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 20v1" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18 20v1" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m24 34 0 3" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 37s1 2 4 2 4 -2 4 -2" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 37s1 2 4 2 4 -2 4 -2" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 34c-1.4999 0 -3.9999 -1.9355 -4 -4.357v-0.0001C20 29.6395 20.0041 28 24 28c4 0 4 1.6429 4 1.6429C28 32.0644 25.5 34 24 34Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M40.9255 31.1836C40.3783 20.6012 37 13 37 13m-26 0s-3.37833 7.6012 -3.92554 18.1836m33.84064 0C45.1009 29.3676 46 24.9238 46 22c0 -7.5 -6 -20 -22 -20S2 14.5 2 22c0 2.9238 0.89912 7.3676 5.08491 9.1836C7.0288 32.1218 7 33.0771 7 34.0476 7 36.9048 7 46 24 46c16.9999 0 17 -9.0952 17 -11.9524 0 -0.9705 -0.0288 -1.9258 -0.0849 -2.864Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 20v1" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18 20v1" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m24 34 0 3" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 37s1 2 4 2 4 -2 4 -2" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 37s1 2 4 2 4 -2 4 -2" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 34c-1.4999 0 -3.9999 -1.9355 -4 -4.357v-0.0001C20 29.6395 20.0041 28 24 28c4 0 4 1.6429 4 1.6429C28 32.0644 25.5 34 24 34Z" stroke-width="3"></path>
   </g>
 </svg>

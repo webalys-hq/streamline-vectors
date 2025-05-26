@@ -2,8 +2,8 @@
   <desc>
     Align Stroke To Center Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linejoin="round" d="M0.750488 23.25H23.2498V11.5584H12.4421L12.4422 0.750001 0.750505 0.75l-0.000017 22.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linejoin="round" d="M8.67163 17.4138H23.2491" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linejoin="round" d="M6.59229 0.755859V15.3353" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linejoin="round" d="M8.67162 15.3352v4.1571H4.51453v-4.1571h4.15709Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M0.750488 23.25H23.2498V11.5584H12.4421L12.4422 0.750001 0.750505 0.75l-0.000017 22.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M8.67163 17.4138H23.2491" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M6.59229 0.755859V15.3353" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M8.67162 15.3352v4.1571H4.51453v-4.1571h4.15709Z" stroke-width="1.5"></path>
 </svg>

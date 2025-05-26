@@ -3,11 +3,11 @@
     Notification Alert Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="notification-alert--android-phone-mobile-device-smartphone-iphone-alert">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m12.2656 3.12109 0.4063 3.2505c0.1877 1.50128 1.4639 2.62789 2.9769 2.62789h3.3516" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 39h4" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M23 14a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M34 18v1" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M34 14V9" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M32.9529 30c-0.0704 4.3031 -0.209 7.5377 -0.3417 9.8076 -0.1473 2.521 -1.9737 4.53 -4.4875 4.7705C25.8091 44.7995 22.4773 45 18 45s-7.8092 -0.2005 -10.12368 -0.4219c-2.51387 -0.2405 -4.34026 -2.2502 -4.48762 -4.7712C3.20026 36.5828 3 31.4129 3 24c0 -7.4129 0.20026 -12.5828 0.3887 -15.80685 0.14736 -2.52104 1.97376 -4.53077 4.48763 -4.77126C10.1908 3.20047 13.5227 3 18 3c1.4524 0 2.7843 0.0211 4 0.05716" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m12.2656 3.12109 0.4063 3.2505c0.1877 1.50128 1.4639 2.62789 2.9769 2.62789h3.3516" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 39h4" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M23 14a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M34 18v1" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M34 14V9" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M32.9529 30c-0.0704 4.3031 -0.209 7.5377 -0.3417 9.8076 -0.1473 2.521 -1.9737 4.53 -4.4875 4.7705C25.8091 44.7995 22.4773 45 18 45s-7.8092 -0.2005 -10.12368 -0.4219c-2.51387 -0.2405 -4.34026 -2.2502 -4.48762 -4.7712C3.20026 36.5828 3 31.4129 3 24c0 -7.4129 0.20026 -12.5828 0.3887 -15.80685 0.14736 -2.52104 1.97376 -4.53077 4.48763 -4.77126C10.1908 3.20047 13.5227 3 18 3c1.4524 0 2.7843 0.0211 4 0.05716" stroke-width="3"></path>
   </g>
 </svg>

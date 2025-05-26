@@ -2,10 +2,10 @@
   <desc>
     Common File Give Hand 3 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 12V2.25c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066C7.47064 0.908035 7.85218 0.75 8.25 0.75h10.629c0.3975 0.000085 0.7788 0.157982 1.06 0.439l2.872 2.872c0.281 0.2812 0.4389 0.66245 0.439 1.06V18.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 14.25h3c0.39782 0 0.77936 0.158 1.06066 0.4393 0.2813 0.2813 0.43934 0.6629 0.43934 1.0607v6c0 0.3978 -0.15804 0.7794 -0.43934 1.0607S4.14782 23.25 3.75 23.25h-3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 21.75c0 -0.7956 -0.3161 -1.5587 -0.8787 -2.1213 -0.5626 -0.5626 -1.3257 -0.8787 -2.1213 -0.8787H13.5c0 -0.7956 -0.3161 -1.5587 -0.8787 -2.1213 -0.5626 -0.5626 -1.3257 -0.8787 -2.1213 -0.8787H5.25v6h15Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 18.75h3" stroke-width="1"></path>
-  <path stroke="#000000" d="M2.625 20.25c-0.20711 0 -0.375 -0.1679 -0.375 -0.375s0.16789 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M2.625 20.25c0.20711 0 0.375 -0.1679 0.375 -0.375s-0.16789 -0.375 -0.375 -0.375" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 12V2.25c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066C7.47064 0.908035 7.85218 0.75 8.25 0.75h10.629c0.3975 0.000085 0.7788 0.157982 1.06 0.439l2.872 2.872c0.281 0.2812 0.4389 0.66245 0.439 1.06V18.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 14.25h3c0.39782 0 0.77936 0.158 1.06066 0.4393 0.2813 0.2813 0.43934 0.6629 0.43934 1.0607v6c0 0.3978 -0.15804 0.7794 -0.43934 1.0607S4.14782 23.25 3.75 23.25h-3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 21.75c0 -0.7956 -0.3161 -1.5587 -0.8787 -2.1213 -0.5626 -0.5626 -1.3257 -0.8787 -2.1213 -0.8787H13.5c0 -0.7956 -0.3161 -1.5587 -0.8787 -2.1213 -0.5626 -0.5626 -1.3257 -0.8787 -2.1213 -0.8787H5.25v6h15Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.5 18.75h3" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M2.625 20.25c-0.20711 0 -0.375 -0.1679 -0.375 -0.375s0.16789 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M2.625 20.25c0.20711 0 0.375 -0.1679 0.375 -0.375s-0.16789 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
 </svg>

@@ -3,9 +3,9 @@
     Cellular Network 5g Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="cellular-network-5g">
-    <path id="Vector 2727" stroke="#000000" d="M17.962 18.58h2.211v2.186a1.5 1.5 0 0 1 -1.5 1.5h-2.898a1.5 1.5 0 0 1 -1.5 -1.5v-5.847a1.5 1.5 0 0 1 1.5 -1.5l2.898 0a1.5 1.5 0 0 1 1.5 1.5v0.711" stroke-width="1"></path>
-    <path id="Vector 3" stroke="#000000" d="m10.18 13.418 -4.791 0 -0.738 3.687H9.05a1.5 1.5 0 0 1 1.5 1.5l0 1.449 0 0.712a1.5 1.5 0 0 1 -1.5 1.5H6.151a1.5 1.5 0 0 1 -1.5 -1.5v-0.712" stroke-width="1"></path>
-    <path id="Vector" stroke="#000000" stroke-linejoin="round" d="M16.332 8.307c-1.324 -0.938 -2.798 -1.46 -4.305 -1.529 -1.502 0.072 -2.972 0.598 -4.293 1.535" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" stroke-linejoin="round" d="M3.596 4.849a13.564 13.564 0 0 1 8.41 -3.216 13.542 13.542 0 0 1 8.397 3.216" stroke-width="1"></path>
+    <path id="Vector 2727" stroke="#000000" d="M17.962 18.58h2.211v2.186a1.5 1.5 0 0 1 -1.5 1.5h-2.898a1.5 1.5 0 0 1 -1.5 -1.5v-5.847a1.5 1.5 0 0 1 1.5 -1.5l2.898 0a1.5 1.5 0 0 1 1.5 1.5v0.711" stroke-width="1.5"></path>
+    <path id="Vector 3" stroke="#000000" d="m10.18 13.418 -4.791 0 -0.738 3.687H9.05a1.5 1.5 0 0 1 1.5 1.5l0 1.449 0 0.712a1.5 1.5 0 0 1 -1.5 1.5H6.151a1.5 1.5 0 0 1 -1.5 -1.5v-0.712" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000000" stroke-linejoin="round" d="M16.332 8.307c-1.324 -0.938 -2.798 -1.46 -4.305 -1.529 -1.502 0.072 -2.972 0.598 -4.293 1.535" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linejoin="round" d="M3.596 4.849a13.564 13.564 0 0 1 8.41 -3.216 13.542 13.542 0 0 1 8.397 3.216" stroke-width="1.5"></path>
   </g>
 </svg>

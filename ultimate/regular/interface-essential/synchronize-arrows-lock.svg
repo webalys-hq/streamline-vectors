@@ -2,10 +2,10 @@
   <desc>
     Synchronize Arrows Lock Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.71 5.00006c-1.215 -1.35924 -2.8142 -2.31744 -4.5858 -2.74774 -1.7716 -0.4303 -3.6321 -0.31241 -5.33528 0.33806 -1.70314 0.65046 -3.16857 1.80284 -4.20231 3.30456C3.55288 7.39667 2.99959 9.17693 3 11.0001v0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.28998 19c1.21501 1.3592 2.81417 2.3174 4.58579 2.7477 1.77163 0.4303 3.63213 0.3125 5.33533 -0.338 1.7031 -0.6505 3.1685 -1.8029 4.2023 -3.3046C20.4471 16.6034 21.0004 14.8231 21 13v-0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 14.5 21 12.25l2.25 2.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 9.5 3 11.75 0.75 9.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 10.25h4.5s1.5 0 1.5 1.5v3s0 1.5 -1.5 1.5h-4.5s-1.5 0 -1.5 -1.5v-3s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 10.25V8.5c0 -0.59674 0.23705 -1.16903 0.659 -1.59099 0.422 -0.42196 0.9943 -0.65901 1.591 -0.65901s1.169 0.23705 1.591 0.65901c0.4219 0.42196 0.659 0.99425 0.659 1.59099v1.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.71 5.00006c-1.215 -1.35924 -2.8142 -2.31744 -4.5858 -2.74774 -1.7716 -0.4303 -3.6321 -0.31241 -5.33528 0.33806 -1.70314 0.65046 -3.16857 1.80284 -4.20231 3.30456C3.55288 7.39667 2.99959 9.17693 3 11.0001v0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.28998 19c1.21501 1.3592 2.81417 2.3174 4.58579 2.7477 1.77163 0.4303 3.63213 0.3125 5.33533 -0.338 1.7031 -0.6505 3.1685 -1.8029 4.2023 -3.3046C20.4471 16.6034 21.0004 14.8231 21 13v-0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 14.5 21 12.25l2.25 2.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 9.5 3 11.75 0.75 9.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 10.25h4.5s1.5 0 1.5 1.5v3s0 1.5 -1.5 1.5h-4.5s-1.5 0 -1.5 -1.5v-3s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 10.25V8.5c0 -0.59674 0.23705 -1.16903 0.659 -1.59099 0.422 -0.42196 0.9943 -0.65901 1.591 -0.65901s1.169 0.23705 1.591 0.65901c0.4219 0.42196 0.659 0.99425 0.659 1.59099v1.75" stroke-width="1.5"></path>
 </svg>

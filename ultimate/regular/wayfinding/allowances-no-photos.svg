@@ -2,11 +2,11 @@
   <desc>
     Allowances No Photos Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 23.25c6.2132 0 11.25 -5.0368 11.25 -11.25S18.2132 0.75 12 0.75 0.75 5.7868 0.75 12 5.7868 23.25 12 23.25Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18 18 1.955 1.955" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.04498 4.04492 1.955 1.955" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 8.25h-7.5c-0.82843 0 -1.5 0.67157 -1.5 1.5v4.5c0 0.8284 0.67157 1.5 1.5 1.5h7.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-4.5c0 -0.82843 -0.6716 -1.5 -1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 12.375c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 12.375c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 8.25v-1.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 23.25c6.2132 0 11.25 -5.0368 11.25 -11.25S18.2132 0.75 12 0.75 0.75 5.7868 0.75 12 5.7868 23.25 12 23.25Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18 18 1.955 1.955" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.04498 4.04492 1.955 1.955" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 8.25h-7.5c-0.82843 0 -1.5 0.67157 -1.5 1.5v4.5c0 0.8284 0.67157 1.5 1.5 1.5h7.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-4.5c0 -0.82843 -0.6716 -1.5 -1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 12.375c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 12.375c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 8.25v-1.5" stroke-width="1.5"></path>
 </svg>

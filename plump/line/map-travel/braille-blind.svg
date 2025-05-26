@@ -3,13 +3,13 @@
     Braille Blind Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="braille-blind--disability-braille-blind">
-    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M32.528 45c2.6974 -4.9717 3.0857 -9.6998 2.9479 -12.7515 -0.1003 -2.2229 -1.5524 -4.1049 -3.6629 -4.81 -4.3734 -1.4612 -8.4388 -1.4612 -8.4388 -1.4612 0 -1.8081 -0.282 -5.936 -0.4843 -8.663 -0.1176 -1.5868 -1.1753 -2.9744 -2.7509 -3.1964 -0.4993 -0.0704 -1.0351 -0.1179 -1.5716 -0.1179 -0.5401 0 -1.0783 0.0482 -1.5786 0.1193 -1.5623 0.2223 -2.6108 1.5955 -2.7158 3.1701 -0.2027 3.0403 -0.4933 8.4263 -0.4933 14.3242 0 0 -1.7121 -1.3408 -4.3404 -2.9546 -1.35274 -0.8306 -3.09472 -0.8946 -4.12426 0.3136 -0.59856 0.7024 -1.1975 1.6686 -1.57042 2.9568 -0.20096 0.6942 -0.03741 1.4292 0.36531 2.0293C5.57899 36.1477 9.53449 41.6681 14.1388 45" stroke-width="1"></path>
-    <path id="Ellipse 575" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 16a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M32.528 45c2.6974 -4.9717 3.0857 -9.6998 2.9479 -12.7515 -0.1003 -2.2229 -1.5524 -4.1049 -3.6629 -4.81 -4.3734 -1.4612 -8.4388 -1.4612 -8.4388 -1.4612 0 -1.8081 -0.282 -5.936 -0.4843 -8.663 -0.1176 -1.5868 -1.1753 -2.9744 -2.7509 -3.1964 -0.4993 -0.0704 -1.0351 -0.1179 -1.5716 -0.1179 -0.5401 0 -1.0783 0.0482 -1.5786 0.1193 -1.5623 0.2223 -2.6108 1.5955 -2.7158 3.1701 -0.2027 3.0403 -0.4933 8.4263 -0.4933 14.3242 0 0 -1.7121 -1.3408 -4.3404 -2.9546 -1.35274 -0.8306 -3.09472 -0.8946 -4.12426 0.3136 -0.59856 0.7024 -1.1975 1.6686 -1.57042 2.9568 -0.20096 0.6942 -0.03741 1.4292 0.36531 2.0293C5.57899 36.1477 9.53449 41.6681 14.1388 45" stroke-width="3"></path>
+    <path id="Ellipse 575" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 16a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="3"></path>
     <g id="Group 730">
-      <path id="Ellipse 576" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M28 16a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
-      <path id="Ellipse 577" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M45 16a3 3 0 1 1 -6 0 3 3 0 1 1 6 0" stroke-width="1"></path>
-      <path id="Ellipse 578" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M45 6a3 3 0 1 1 -6 0 3 3 0 1 1 6 0" stroke-width="1"></path>
+      <path id="Ellipse 576" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M28 16a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="3"></path>
+      <path id="Ellipse 577" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M45 16a3 3 0 1 1 -6 0 3 3 0 1 1 6 0" stroke-width="3"></path>
+      <path id="Ellipse 578" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M45 6a3 3 0 1 1 -6 0 3 3 0 1 1 6 0" stroke-width="3"></path>
     </g>
-    <path id="Ellipse 574" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.5 6a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <path id="Ellipse 574" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.5 6a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="3"></path>
   </g>
 </svg>

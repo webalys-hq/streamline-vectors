@@ -3,11 +3,11 @@
     Calendar Warning Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="calendar-warning--alter-calendar-caution-date-day-month-notification-warning">
-    <path id="Rectangle 11" stroke="#000000" d="M2 4h20v18H2z" stroke-width="1"></path>
-    <path id="Vector 39" stroke="#000000" d="M7 1v3" stroke-width="1"></path>
-    <path id="Vector 40" stroke="#000000" d="M17 1v3" stroke-width="1"></path>
-    <path id="Vector 38" stroke="#000000" d="M2 8h20" stroke-width="1"></path>
-    <path id="Vector 1444" stroke="#000000" d="M12 10.5v5" stroke-width="1"></path>
-    <path id="Vector 1445" stroke="#000000" d="M12 17.5V19" stroke-width="1"></path>
+    <path id="Rectangle 11" stroke="#000000" d="M2 4h20v18H2z" stroke-width="1.5"></path>
+    <path id="Vector 39" stroke="#000000" d="M7 1v3" stroke-width="1.5"></path>
+    <path id="Vector 40" stroke="#000000" d="M17 1v3" stroke-width="1.5"></path>
+    <path id="Vector 38" stroke="#000000" d="M2 8h20" stroke-width="1.5"></path>
+    <path id="Vector 1444" stroke="#000000" d="M12 10.5v5" stroke-width="1.5"></path>
+    <path id="Vector 1445" stroke="#000000" d="M12 17.5V19" stroke-width="1.5"></path>
   </g>
 </svg>

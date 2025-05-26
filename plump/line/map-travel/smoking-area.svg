@@ -3,9 +3,9 @@
     Smoking Area Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="smoking-area">
-    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M38.591 3C37.38 6.653 37.96 10.463 41 14c3.04 3.538 3.621 7.347 2.409 11" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M30.591 3C29.38 6.653 29.96 10.463 33 14c3.04 3.538 3.621 7.347 2.409 11" stroke-width="1"></path>
-    <path id="Rectangle 1097" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M41.193 31.203C43.327 31.262 45 33.01 45 35.146L45 38l0 2.855c0 2.135 -1.673 3.883 -3.807 3.942C37.77 44.89 32.039 45 24 45c-7.99 0 -13.374 -0.109 -16.524 -0.202 -2.153 -0.064 -4.021 -1.369 -4.287 -3.506A26.74 26.74 0 0 1 3 38c0 -1.3 0.078 -2.392 0.19 -3.292 0.265 -2.137 2.133 -3.442 4.286 -3.506C10.626 31.109 16.01 31 24 31c8.04 0 13.77 0.11 17.193 0.203Z" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M36.136 44.906A156.33 156.33 0 0 1 36 38c0 -2.963 0.062 -5.242 0.136 -6.906" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M38.591 3C37.38 6.653 37.96 10.463 41 14c3.04 3.538 3.621 7.347 2.409 11" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M30.591 3C29.38 6.653 29.96 10.463 33 14c3.04 3.538 3.621 7.347 2.409 11" stroke-width="3"></path>
+    <path id="Rectangle 1097" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M41.193 31.203C43.327 31.262 45 33.01 45 35.146L45 38l0 2.855c0 2.135 -1.673 3.883 -3.807 3.942C37.77 44.89 32.039 45 24 45c-7.99 0 -13.374 -0.109 -16.524 -0.202 -2.153 -0.064 -4.021 -1.369 -4.287 -3.506A26.74 26.74 0 0 1 3 38c0 -1.3 0.078 -2.392 0.19 -3.292 0.265 -2.137 2.133 -3.442 4.286 -3.506C10.626 31.109 16.01 31 24 31c8.04 0 13.77 0.11 17.193 0.203Z" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M36.136 44.906A156.33 156.33 0 0 1 36 38c0 -2.963 0.062 -5.242 0.136 -6.906" stroke-width="3"></path>
   </g>
 </svg>

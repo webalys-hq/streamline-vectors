@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Roller--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Roller--Streamline-Sharp-Neon">
   <desc>
     Roller Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="roller--roller-bakery-kitchenware-cooking-baking-knead">
-    <path id="Vector" stroke="#000cfe" d="m1.00003 20 4.5 -3.5L7.5 18.5 4.00009 23c-1.65686 0 -3.00003 -1.3431 -3.00006 -3Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="m23.0001 4 -4.5 3.5 -2 -1.99997L20 1c1.6569 0 3.0001 1.34314 3.0001 3Z" stroke-width="1"></path>
-    <path id="Rectangle 2011" stroke="#c71dff" d="m14.5 3.5 6 6 -10.99997 11 -6 -6L14.5 3.5Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="m0.9583620833333334 19.166666666666668 4.3125 -3.354166666666667L7.1875 17.729166666666668 3.8334195833333338 22.041666666666668c-1.5878241666666668 0 -2.8750287500000002 -1.2871375 -2.8750575 -2.875Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="m22.0417625 3.8333333333333335 -4.3125 3.354166666666667 -1.9166666666666667 -1.9166379166666667L19.166666666666668 0.9583333333333334c1.5878625000000002 0 2.875095833333334 1.2871758333333334 2.875095833333334 2.875Z" stroke-width="1"></path>
+    <path id="Rectangle 2011" stroke="#c71dff" d="m13.895833333333334 3.354166666666667 5.75 5.75 -10.541637916666666 10.541666666666668 -5.75 -5.75L13.895833333333334 3.354166666666667Z" stroke-width="1"></path>
   </g>
 </svg>

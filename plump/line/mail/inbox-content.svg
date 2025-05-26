@@ -3,9 +3,9 @@
     Inbox Content Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="inbox-content--mail-email-outbox-drawer-content-open-inbox">
-    <path id="Vector 1479" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17 12h14" stroke-width="1"></path>
-    <path id="Vector 1480" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 20h18" stroke-width="1"></path>
-    <path id="Rectangle 56" stroke="#000000" stroke-linejoin="round" d="M3.45 40.152c0.212 2.387 2.03 4.181 4.418 4.374 3.021 0.244 8.08 0.493 16.132 0.493 8.052 0 13.11 -0.249 16.131 -0.493 2.388 -0.193 4.206 -1.987 4.418 -4.374 0.418 -4.732 0.45 -10.46 0.45 -11.829a5.217 5.217 0 0 0 -0.033 -0.612c-0.98 -9.013 -2.384 -16.162 -3.31 -20.292 -0.533 -2.382 -2.54 -4.073 -4.979 -4.179 -2.621 -0.113 -6.69 -0.22 -12.677 -0.22 -5.987 0 -10.056 0.107 -12.678 0.22 -2.44 0.106 -4.446 1.797 -4.98 4.18 -0.924 4.129 -2.328 11.278 -3.308 20.291a5.609 5.609 0 0 0 -0.034 0.612c0.001 1.369 0.032 7.097 0.45 11.83Z" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.008 28.02h10.83a3 3 0 0 1 2.845 2.05l0.633 1.898a3 3 0 0 0 2.846 2.052h7.675a3 3 0 0 0 2.846 -2.052l0.633 -1.897a3 3 0 0 1 2.846 -2.052h10.83" stroke-width="1"></path>
+    <path id="Vector 1479" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17 12h14" stroke-width="3"></path>
+    <path id="Vector 1480" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 20h18" stroke-width="3"></path>
+    <path id="Rectangle 56" stroke="#000000" stroke-linejoin="round" d="M3.45 40.152c0.212 2.387 2.03 4.181 4.418 4.374 3.021 0.244 8.08 0.493 16.132 0.493 8.052 0 13.11 -0.249 16.131 -0.493 2.388 -0.193 4.206 -1.987 4.418 -4.374 0.418 -4.732 0.45 -10.46 0.45 -11.829a5.217 5.217 0 0 0 -0.033 -0.612c-0.98 -9.013 -2.384 -16.162 -3.31 -20.292 -0.533 -2.382 -2.54 -4.073 -4.979 -4.179 -2.621 -0.113 -6.69 -0.22 -12.677 -0.22 -5.987 0 -10.056 0.107 -12.678 0.22 -2.44 0.106 -4.446 1.797 -4.98 4.18 -0.924 4.129 -2.328 11.278 -3.308 20.291a5.609 5.609 0 0 0 -0.034 0.612c0.001 1.369 0.032 7.097 0.45 11.83Z" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.008 28.02h10.83a3 3 0 0 1 2.845 2.05l0.633 1.898a3 3 0 0 0 2.846 2.052h7.675a3 3 0 0 0 2.846 -2.052l0.633 -1.897a3 3 0 0 1 2.846 -2.052h10.83" stroke-width="3"></path>
   </g>
 </svg>

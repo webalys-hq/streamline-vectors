@@ -2,9 +2,9 @@
   <desc>
     Layout Dashboard 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4.75h4.25s0.75 0 0.75 0.75v5.75s0 0.75 -0.75 0.75H5.5s-0.75 0 -0.75 -0.75V5.5s0 -0.75 0.75 -0.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 15h4.25s0.75 0 0.75 0.75v2.75s0 0.75 -0.75 0.75H5.5s-0.75 0 -0.75 -0.75v-2.75s0 -0.75 0.75 -0.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 12h4.25s0.75 0 0.75 0.75v5.75s0 0.75 -0.75 0.75h-4.25s-0.75 0 -0.75 -0.75v-5.75s0 -0.75 0.75 -0.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 4.75h4.25s0.75 0 0.75 0.75v2.75s0 0.75 -0.75 0.75h-4.25s-0.75 0 -0.75 -0.75V5.5s0 -0.75 0.75 -0.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 0.75h19.5s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5V2.25s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 4.75h4.25s0.75 0 0.75 0.75v5.75s0 0.75 -0.75 0.75H5.5s-0.75 0 -0.75 -0.75V5.5s0 -0.75 0.75 -0.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.5 15h4.25s0.75 0 0.75 0.75v2.75s0 0.75 -0.75 0.75H5.5s-0.75 0 -0.75 -0.75v-2.75s0 -0.75 0.75 -0.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 12h4.25s0.75 0 0.75 0.75v5.75s0 0.75 -0.75 0.75h-4.25s-0.75 0 -0.75 -0.75v-5.75s0 -0.75 0.75 -0.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 4.75h4.25s0.75 0 0.75 0.75v2.75s0 0.75 -0.75 0.75h-4.25s-0.75 0 -0.75 -0.75V5.5s0 -0.75 0.75 -0.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 0.75h19.5s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5V2.25s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
 </svg>

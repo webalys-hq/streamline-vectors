@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Megaphone-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Megaphone-2--Streamline-Sharp-Neon">
   <desc>
     Megaphone 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="megaphone-2--bullhorn-loud-megaphone-share-speaker-transmit">
-    <path id="Vector 1455" stroke="#000cfe" d="M8 15.5001V22H7c-1.65685 0 -3 -1.3431 -3 -3v-3.5" stroke-width="1"></path>
-    <path id="Vector" stroke="#c71dff" d="M22 2 8 7.5H2v8h6L22 22V2Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="M2 7.5h4.77746v8H2v-8Z" stroke-width="1"></path>
+    <path id="Vector 1455" stroke="#000cfe" d="M7.666666666666667 14.8542625V21.083333333333336H6.708333333333334c-1.5878145833333333 0 -2.875 -1.2871375 -2.875 -2.875v-3.354166666666667" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="M21.083333333333336 1.9166666666666667 7.666666666666667 7.1875H1.9166666666666667v7.666666666666667h5.75L21.083333333333336 21.083333333333336V1.9166666666666667Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="M1.9166666666666667 7.1875h4.578399166666666v7.666666666666667H1.9166666666666667v-7.666666666666667Z" stroke-width="1"></path>
   </g>
 </svg>

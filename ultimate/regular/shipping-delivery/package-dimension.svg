@@ -2,12 +2,12 @@
   <desc>
     Package Dimension Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.25 7.25v16" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m19.25 9.25 2 -2 2 2" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m23.25 21.25 -2 2 -2 -2" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.75 2.75h-16" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m14.75 0.75 2 2 -2 2" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m2.75 4.75 -2 -2 2 -2" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M15.75 7.25h-14c-0.6 0 -1 0.4 -1 1v14c0 0.6 0.4 1 1 1h14c0.6 0 1 -0.4 1 -1v-14c0 -0.6 -0.4 -1 -1 -1Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.25 7.25h-5v6h5v-6Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.25 7.25v16" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m19.25 9.25 2 -2 2 2" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m23.25 21.25 -2 2 -2 -2" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.75 2.75h-16" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m14.75 0.75 2 2 -2 2" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m2.75 4.75 -2 -2 2 -2" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M15.75 7.25h-14c-0.6 0 -1 0.4 -1 1v14c0 0.6 0.4 1 1 1h14c0.6 0 1 -0.4 1 -1v-14c0 -0.6 -0.4 -1 -1 -1Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.25 7.25h-5v6h5v-6Z" stroke-width="1.5"></path>
 </svg>

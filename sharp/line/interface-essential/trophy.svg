@@ -3,9 +3,9 @@
     Trophy Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="trophy--reward-rating-trophy-social-award-media">
-    <path id="Ellipse 1" stroke="#000000" d="m6 2 0 8a6 6 0 0 0 12 0V2L6 2Z" stroke-width="1"></path>
-    <path id="Vector 88" stroke="#000000" d="M22 10V2H2v8" stroke-width="1"></path>
-    <path id="Vector 116" stroke="#000000" d="M7 22h10" stroke-width="1"></path>
-    <path id="Vector 74" stroke="#000000" d="m12 16 0 6" stroke-width="1"></path>
+    <path id="Ellipse 1" stroke="#000000" d="m6 2 0 8a6 6 0 0 0 12 0V2L6 2Z" stroke-width="1.5"></path>
+    <path id="Vector 88" stroke="#000000" d="M22 10V2H2v8" stroke-width="1.5"></path>
+    <path id="Vector 116" stroke="#000000" d="M7 22h10" stroke-width="1.5"></path>
+    <path id="Vector 74" stroke="#000000" d="m12 16 0 6" stroke-width="1.5"></path>
   </g>
 </svg>

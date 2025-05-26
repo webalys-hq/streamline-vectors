@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Shinto--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Shinto--Streamline-Sharp-Neon">
   <desc>
     Shinto Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shinto--religion-gate-culture-shinto-japan-japanese-shrine">
-    <path id="Vector 4" stroke="#c71dff" d="M6 9.5 6 23" stroke-width="1"></path>
-    <path id="Vector 6" stroke="#c71dff" d="m22 15.5276 -20 0" stroke-width="1"></path>
-    <path id="Vector 7" stroke="#c71dff" d="m12 15.5276 0 -6.00084" stroke-width="1"></path>
-    <path id="Vector 5" stroke="#c71dff" d="M18 9.5 18 23" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000cfe" d="M3 3v6.5l18 0V3.00001c-2.6533 1.41631 -5.7255 2.22568 -9 2.22568 -3.2745 0 -6.34671 -0.80937 -9 -2.22569Z" stroke-width="1"></path>
+    <path id="Vector 4" stroke="#c71dff" d="M5.75 9.104166666666668 5.75 22.041666666666668" stroke-width="1"></path>
+    <path id="Vector 6" stroke="#c71dff" d="m21.083333333333336 14.880616666666667 -19.166666666666668 0" stroke-width="1"></path>
+    <path id="Vector 7" stroke="#c71dff" d="m11.5 14.880616666666667 0 -5.750805000000001" stroke-width="1"></path>
+    <path id="Vector 5" stroke="#c71dff" d="M17.25 9.104166666666668 17.25 22.041666666666668" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000cfe" d="M2.875 2.875v6.229166666666667l17.25 0V2.8750095833333336c-2.5427458333333335 1.3572970833333333 -5.486937500000001 2.1329433333333334 -8.625 2.1329433333333334 -3.1380625 0 -6.08226375 -0.7756462500000001 -8.625 -2.132952916666667Z" stroke-width="1"></path>
   </g>
 </svg>

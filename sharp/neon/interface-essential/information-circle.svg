@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Information-Circle--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Information-Circle--Streamline-Sharp-Neon">
   <desc>
     Information Circle Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="information-circle--information-frame-info-more-help-point-circle">
-    <path id="Ellipse 7" stroke="#c71dff" d="M1 12c0 2.9174 1.15893 5.7153 3.22183 7.7782S9.08262 23 12 23c2.9174 0 5.7153 -1.1589 7.7782 -3.2218S23 14.9174 23 12c0 -2.91738 -1.1589 -5.71527 -3.2218 -7.77817S14.9174 1 12 1C9.08262 1 6.28473 2.15893 4.22183 4.22183S1 9.08262 1 12Z" stroke-width="1"></path>
-    <path id="Vector 2348" stroke="#000cfe" d="M8 10h4v7" stroke-width="1"></path>
-    <path id="Vector 2350" stroke="#000cfe" d="M8 17h8" stroke-width="1"></path>
-    <path id="Vector 2349" stroke="#000cfe" d="M12 7V5" stroke-width="1"></path>
+    <path id="Ellipse 7" stroke="#c71dff" d="M0.9583333333333334 11.5c0 2.795841666666667 1.11064125 5.4771625 3.0875870833333336 7.454108333333334S8.7041775 22.041666666666668 11.5 22.041666666666668c2.795841666666667 0 5.4771625 -1.1106125 7.454108333333334 -3.0875583333333334S22.041666666666668 14.295841666666668 22.041666666666668 11.5c0 -2.7958225000000003 -1.1106125 -5.47713375 -3.0875583333333334 -7.454079583333334S14.295841666666668 0.9583333333333334 11.5 0.9583333333333334C8.7041775 0.9583333333333334 6.02286625 2.068974583333333 4.045920416666666 4.045920416666666S0.9583333333333334 8.7041775 0.9583333333333334 11.5Z" stroke-width="1"></path>
+    <path id="Vector 2348" stroke="#000cfe" d="M7.666666666666667 9.583333333333334h3.8333333333333335v6.708333333333334" stroke-width="1"></path>
+    <path id="Vector 2350" stroke="#000cfe" d="M7.666666666666667 16.291666666666668h7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 2349" stroke="#000cfe" d="M11.5 6.708333333333334V4.791666666666667" stroke-width="1"></path>
   </g>
 </svg>

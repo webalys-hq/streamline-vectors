@@ -3,15 +3,15 @@
     Mall Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="mall--production-store-shop-shops-stores-factory-building">
-    <path id="Rectangle 1774" fill="#8fbffa" d="M27.068 10.14c0.096 1.462 1.154 2.58 2.614 2.704 1.02 0.087 2.426 0.156 4.318 0.156 1.892 0 3.298 -0.069 4.318 -0.156 1.46 -0.124 2.518 -1.242 2.614 -2.704 0.04 -0.613 0.068 -1.332 0.068 -2.14s-0.028 -1.527 -0.068 -2.14c-0.096 -1.462 -1.154 -2.58 -2.614 -2.704C37.298 3.069 35.892 3 34 3c-1.892 0 -3.298 0.069 -4.318 0.156 -1.46 0.124 -2.518 1.242 -2.614 2.704A32.93 32.93 0 0 0 27 8c0 0.808 0.028 1.527 0.068 2.14Z" stroke-width="1"></path>
-    <path id="Rectangle 97" fill="#ffffff" d="M43 39a6 6 0 0 1 -6 6H11a6 6 0 0 1 -6 -6V21.998C5 19.236 7.236 17 9.995 17.124c8.854 0.4 20.827 1.755 28.989 3.87 2.442 0.633 4.016 2.9 4.016 5.423V39Z" stroke-width="1"></path>
-    <path id="Rectangle 1773" fill="#8fbffa" d="M5 33h38v12H5V33Z" stroke-width="1"></path>
-    <path id="Rectangle 100" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M43 45H5V21.998C5 19.236 7.236 17 9.995 17.124c8.854 0.4 20.827 1.755 28.989 3.87 2.442 0.633 4.016 2.9 4.016 5.423V45Z" stroke-width="1"></path>
-    <path id="Rectangle 99" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M5 33h38" stroke-width="1"></path>
-    <path id="Vector 2498" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 45h42" stroke-width="1"></path>
-    <path id="Vector 2499" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17.5 33v12" stroke-width="1"></path>
-    <path id="Vector 2500" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30.5 33v12" stroke-width="1"></path>
-    <path id="Vector 2501" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34 13v6.5" stroke-width="1"></path>
-    <path id="Rectangle 1775" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M27.068 10.14c0.096 1.462 1.154 2.58 2.614 2.704 1.02 0.087 2.426 0.156 4.318 0.156 1.892 0 3.298 -0.069 4.318 -0.156 1.46 -0.124 2.518 -1.242 2.614 -2.704 0.04 -0.613 0.068 -1.332 0.068 -2.14s-0.028 -1.527 -0.068 -2.14c-0.096 -1.462 -1.154 -2.58 -2.614 -2.704C37.298 3.069 35.892 3 34 3c-1.892 0 -3.298 0.069 -4.318 0.156 -1.46 0.124 -2.518 1.242 -2.614 2.704A32.93 32.93 0 0 0 27 8c0 0.808 0.028 1.527 0.068 2.14Z" stroke-width="1"></path>
+    <path id="Rectangle 1774" fill="#8fbffa" d="M27.068 10.14c0.096 1.462 1.154 2.58 2.614 2.704 1.02 0.087 2.426 0.156 4.318 0.156 1.892 0 3.298 -0.069 4.318 -0.156 1.46 -0.124 2.518 -1.242 2.614 -2.704 0.04 -0.613 0.068 -1.332 0.068 -2.14s-0.028 -1.527 -0.068 -2.14c-0.096 -1.462 -1.154 -2.58 -2.614 -2.704C37.298 3.069 35.892 3 34 3c-1.892 0 -3.298 0.069 -4.318 0.156 -1.46 0.124 -2.518 1.242 -2.614 2.704A32.93 32.93 0 0 0 27 8c0 0.808 0.028 1.527 0.068 2.14Z" stroke-width="3"></path>
+    <path id="Rectangle 97" fill="#ffffff" d="M43 39a6 6 0 0 1 -6 6H11a6 6 0 0 1 -6 -6V21.998C5 19.236 7.236 17 9.995 17.124c8.854 0.4 20.827 1.755 28.989 3.87 2.442 0.633 4.016 2.9 4.016 5.423V39Z" stroke-width="3"></path>
+    <path id="Rectangle 1773" fill="#8fbffa" d="M5 33h38v12H5V33Z" stroke-width="3"></path>
+    <path id="Rectangle 100" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M43 45H5V21.998C5 19.236 7.236 17 9.995 17.124c8.854 0.4 20.827 1.755 28.989 3.87 2.442 0.633 4.016 2.9 4.016 5.423V45Z" stroke-width="3"></path>
+    <path id="Rectangle 99" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M5 33h38" stroke-width="3"></path>
+    <path id="Vector 2498" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 45h42" stroke-width="3"></path>
+    <path id="Vector 2499" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M17.5 33v12" stroke-width="3"></path>
+    <path id="Vector 2500" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30.5 33v12" stroke-width="3"></path>
+    <path id="Vector 2501" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34 13v6.5" stroke-width="3"></path>
+    <path id="Rectangle 1775" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M27.068 10.14c0.096 1.462 1.154 2.58 2.614 2.704 1.02 0.087 2.426 0.156 4.318 0.156 1.892 0 3.298 -0.069 4.318 -0.156 1.46 -0.124 2.518 -1.242 2.614 -2.704 0.04 -0.613 0.068 -1.332 0.068 -2.14s-0.028 -1.527 -0.068 -2.14c-0.096 -1.462 -1.154 -2.58 -2.614 -2.704C37.298 3.069 35.892 3 34 3c-1.892 0 -3.298 0.069 -4.318 0.156 -1.46 0.124 -2.518 1.242 -2.614 2.704A32.93 32.93 0 0 0 27 8c0 0.808 0.028 1.527 0.068 2.14Z" stroke-width="3"></path>
   </g>
 </svg>

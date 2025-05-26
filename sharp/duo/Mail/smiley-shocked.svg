@@ -3,13 +3,13 @@
     Smiley Shocked Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="smiley-shocked">
-    <path id="Ellipse 8" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 7" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 564" fill="#ffffff" d="M9.5 15a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 565" stroke="#4147d5" d="M9.5 15a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Vector 2050" stroke="#4147d5" d="M9.841 7.16 6.66 10.34" stroke-width="1"></path>
-    <path id="Vector 3042" stroke="#4147d5" d="m6.659 7.16 3.181 3.18" stroke-width="1"></path>
-    <path id="Vector 3043" stroke="#4147d5" d="m14.159 7.16 3.182 3.181" stroke-width="1"></path>
-    <path id="Vector 3044" stroke="#4147d5" d="m17.34 7.16 -3.18 3.18" stroke-width="1"></path>
+    <path id="Ellipse 8" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 7" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 564" fill="#ffffff" d="M9.5 15a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 565" stroke="#4147d5" d="M9.5 15a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Vector 2050" stroke="#4147d5" d="M9.841 7.16 6.66 10.34" stroke-width="1.5"></path>
+    <path id="Vector 3042" stroke="#4147d5" d="m6.659 7.16 3.181 3.18" stroke-width="1.5"></path>
+    <path id="Vector 3043" stroke="#4147d5" d="m14.159 7.16 3.182 3.181" stroke-width="1.5"></path>
+    <path id="Vector 3044" stroke="#4147d5" d="m17.34 7.16 -3.18 3.18" stroke-width="1.5"></path>
   </g>
 </svg>

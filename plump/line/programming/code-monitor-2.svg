@@ -3,13 +3,13 @@
     Code Monitor 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="code-monitor-2--code-tags-angle-image-ui-ux-design">
-    <path id="Union" stroke="#000000" stroke-linejoin="round" d="m27.9996 35.002 0.6784 3.3922c0.187 0.9348 1.0078 1.6078 1.9612 1.6078h0.9009c1.4301 0 2.6613 1.0093 2.9418 2.4116l0.0392 0.1961c0.2475 1.2376 -0.6991 2.3923 -1.9612 2.3923H15.4392c-1.2621 0 -2.2087 -1.1547 -1.9612 -2.3923l0.0392 -0.1961c0.2805 -1.4023 1.5117 -2.4116 2.9418 -2.4116h0.9009c0.9534 0 1.7742 -0.673 1.9612 -1.6078l0.6785 -3.3922" stroke-width="1"></path>
-    <path id="Rectangle 1095" stroke="#000000" d="M3.44433 30.0445c0.23489 2.5277 2.23962 4.3849 4.7734 4.5424C11.4434 34.7875 16.6059 35 24 35c7.394 0 12.5566 -0.2125 15.7823 -0.4131 2.5337 -0.1575 4.5385 -2.0147 4.7734 -4.5424C44.7858 27.5679 45 23.9367 45 19c0 -4.9367 -0.2142 -8.5679 -0.4443 -11.04445 -0.2349 -2.52778 -2.2397 -4.38492 -4.7734 -4.54246C36.5566 3.21253 31.3941 3 24 3s-12.5566 0.21252 -15.78227 0.41308c-2.53377 0.15755 -4.53851 2.01469 -4.7734 4.54247C3.2142 10.4321 3 14.0633 3 19c0 4.9367 0.2142 8.5679 0.44433 11.0445Z" stroke-width="1"></path>
-    <path id="Vector 1666" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.5 3.5v31" stroke-width="1"></path>
-    <path id="Vector 1668" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 11h3" stroke-width="1"></path>
-    <path id="Vector 1671" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 11h16" stroke-width="1"></path>
-    <path id="Vector 1669" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 18h3" stroke-width="1"></path>
-    <path id="Vector 1672" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 18h16" stroke-width="1"></path>
-    <path id="Vector 1674" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 25h12" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linejoin="round" d="m27.9996 35.002 0.6784 3.3922c0.187 0.9348 1.0078 1.6078 1.9612 1.6078h0.9009c1.4301 0 2.6613 1.0093 2.9418 2.4116l0.0392 0.1961c0.2475 1.2376 -0.6991 2.3923 -1.9612 2.3923H15.4392c-1.2621 0 -2.2087 -1.1547 -1.9612 -2.3923l0.0392 -0.1961c0.2805 -1.4023 1.5117 -2.4116 2.9418 -2.4116h0.9009c0.9534 0 1.7742 -0.673 1.9612 -1.6078l0.6785 -3.3922" stroke-width="3"></path>
+    <path id="Rectangle 1095" stroke="#000000" d="M3.44433 30.0445c0.23489 2.5277 2.23962 4.3849 4.7734 4.5424C11.4434 34.7875 16.6059 35 24 35c7.394 0 12.5566 -0.2125 15.7823 -0.4131 2.5337 -0.1575 4.5385 -2.0147 4.7734 -4.5424C44.7858 27.5679 45 23.9367 45 19c0 -4.9367 -0.2142 -8.5679 -0.4443 -11.04445 -0.2349 -2.52778 -2.2397 -4.38492 -4.7734 -4.54246C36.5566 3.21253 31.3941 3 24 3s-12.5566 0.21252 -15.78227 0.41308c-2.53377 0.15755 -4.53851 2.01469 -4.7734 4.54247C3.2142 10.4321 3 14.0633 3 19c0 4.9367 0.2142 8.5679 0.44433 11.0445Z" stroke-width="3"></path>
+    <path id="Vector 1666" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.5 3.5v31" stroke-width="3"></path>
+    <path id="Vector 1668" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 11h3" stroke-width="3"></path>
+    <path id="Vector 1671" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 11h16" stroke-width="3"></path>
+    <path id="Vector 1669" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9 18h3" stroke-width="3"></path>
+    <path id="Vector 1672" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 18h16" stroke-width="3"></path>
+    <path id="Vector 1674" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 25h12" stroke-width="3"></path>
   </g>
 </svg>

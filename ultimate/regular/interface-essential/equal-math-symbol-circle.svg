@@ -2,7 +2,7 @@
   <desc>
     Equal Math Symbol Circle Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12 23c6.0751 0 11 -4.9248 11 -10.9999C23 5.92493 18.0751 1 12 1 5.92486 1 1 5.92493 1 12.0001 1 18.0752 5.92486 23 12 23Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.47559 9.7998H17.5245" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.47559 14.1021H17.5245" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12 23c6.0751 0 11 -4.9248 11 -10.9999C23 5.92493 18.0751 1 12 1 5.92486 1 1 5.92493 1 12.0001 1 18.0752 5.92486 23 12 23Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.47559 9.7998H17.5245" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6.47559 14.1021H17.5245" stroke-width="1.5"></path>
 </svg>

@@ -3,10 +3,10 @@
     Mail Send Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="mail-send--send-email-envelope-dash">
-    <path id="Rectangle 1098" stroke="#000000" stroke-linejoin="round" d="M13.412 34.508c0.158 1.698 1.482 2.974 3.182 3.103C19.018 37.794 23.067 38 29 38s9.982 -0.206 12.406 -0.39c1.7 -0.128 3.024 -1.404 3.182 -3.102 0.2 -2.151 0.412 -5.589 0.412 -10.508 0 -4.92 -0.212 -8.357 -0.412 -10.508 -0.158 -1.698 -1.482 -2.974 -3.182 -3.103C38.982 10.206 34.934 10 29 10s-9.982 0.206 -12.405 0.39c-1.7 0.128 -3.025 1.404 -3.183 3.102C13.212 15.643 13 19.08 13 24c0 4.92 0.212 8.357 0.412 10.508Z" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 22s11.616 6 16 6c4.383 0 16 -6 16 -6" stroke-width="1"></path>
-    <path id="Vector 1495" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 17h5" stroke-width="1"></path>
-    <path id="Vector 1496" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4 24 4 0" stroke-width="1"></path>
-    <path id="Vector 1497" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5 31 3 0" stroke-width="1"></path>
+    <path id="Rectangle 1098" stroke="#000000" stroke-linejoin="round" d="M13.412 34.508c0.158 1.698 1.482 2.974 3.182 3.103C19.018 37.794 23.067 38 29 38s9.982 -0.206 12.406 -0.39c1.7 -0.128 3.024 -1.404 3.182 -3.102 0.2 -2.151 0.412 -5.589 0.412 -10.508 0 -4.92 -0.212 -8.357 -0.412 -10.508 -0.158 -1.698 -1.482 -2.974 -3.182 -3.103C38.982 10.206 34.934 10 29 10s-9.982 0.206 -12.405 0.39c-1.7 0.128 -3.025 1.404 -3.183 3.102C13.212 15.643 13 19.08 13 24c0 4.92 0.212 8.357 0.412 10.508Z" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13 22s11.616 6 16 6c4.383 0 16 -6 16 -6" stroke-width="3"></path>
+    <path id="Vector 1495" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 17h5" stroke-width="3"></path>
+    <path id="Vector 1496" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4 24 4 0" stroke-width="3"></path>
+    <path id="Vector 1497" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5 31 3 0" stroke-width="3"></path>
   </g>
 </svg>

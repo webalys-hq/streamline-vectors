@@ -3,9 +3,9 @@
     Graph Arrow User Increase Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="graph-arrow-user-increase--ascend-growth-up-arrow-stats-graph-right-grow-user">
-    <path id="Vector 2454" stroke="#000000" d="m1 13 7 -7 1.5 1.5M22 2l-3.5 3.5" stroke-width="1"></path>
-    <path id="Vector 2455" stroke="#000000" d="M16.5 2H22v5.5" stroke-width="1"></path>
-    <path id="Ellipse 418" stroke="#000000" d="M11.5 10.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 419" stroke="#000000" d="M22 18.873A13.936 13.936 0 0 0 15 17c-2.55 0 -4.94 0.682 -7 1.873V22h14v-3.127Z" stroke-width="1"></path>
+    <path id="Vector 2454" stroke="#000000" d="m1 13 7 -7 1.5 1.5M22 2l-3.5 3.5" stroke-width="1.5"></path>
+    <path id="Vector 2455" stroke="#000000" d="M16.5 2H22v5.5" stroke-width="1.5"></path>
+    <path id="Ellipse 418" stroke="#000000" d="M11.5 10.5a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 419" stroke="#000000" d="M22 18.873A13.936 13.936 0 0 0 15 17c-2.55 0 -4.94 0.682 -7 1.873V22h14v-3.127Z" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,9 +3,9 @@
     Bomb Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="bomb--delete-bomb-remove">
-    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m36.489 11.3881 0.2353 -0.2941c1.876 -2.3451 5.197 -2.94192 7.7722 -1.3968L45 9.99933" stroke-width="1"></path>
-    <path id="Ellipse 351" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20 11c9.3888 0 17 7.6112 17 17s-7.6112 17 -17 17S3 37.3888 3 28s7.6112 -17 17 -17Z" stroke-width="1"></path>
-    <path id="Subtract_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m35.5293 21.0721 2.1358 -2.1359c1.4539 -1.4538 2.0116 -3.5767 0.8103 -5.2452 -0.4819 -0.6694 -1.1098 -1.4267 -1.925 -2.2419 -0.8152 -0.8152 -1.5726 -1.4432 -2.242 -1.9251 -1.6685 -1.20128 -3.7914 -0.64353 -5.2452 0.8103l-2.136 2.1359" stroke-width="1"></path>
-    <path id="Ellipse 352" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20 17c-6.0751 0 -11 4.9249 -11 11" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m36.489 11.3881 0.2353 -0.2941c1.876 -2.3451 5.197 -2.94192 7.7722 -1.3968L45 9.99933" stroke-width="3"></path>
+    <path id="Ellipse 351" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20 11c9.3888 0 17 7.6112 17 17s-7.6112 17 -17 17S3 37.3888 3 28s7.6112 -17 17 -17Z" stroke-width="3"></path>
+    <path id="Subtract_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m35.5293 21.0721 2.1358 -2.1359c1.4539 -1.4538 2.0116 -3.5767 0.8103 -5.2452 -0.4819 -0.6694 -1.1098 -1.4267 -1.925 -2.2419 -0.8152 -0.8152 -1.5726 -1.4432 -2.242 -1.9251 -1.6685 -1.20128 -3.7914 -0.64353 -5.2452 0.8103l-2.136 2.1359" stroke-width="3"></path>
+    <path id="Ellipse 352" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20 17c-6.0751 0 -11 4.9249 -11 11" stroke-width="3"></path>
   </g>
 </svg>

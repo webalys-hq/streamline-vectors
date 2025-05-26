@@ -2,10 +2,10 @@
   <desc>
     Text Image Left Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.89258 17.416c-0.55229 0 -1.000002 -0.4477 -1.000002 -1V7.58398c0 -0.55228 0.447712 -0.99999 1.000002 -0.99999l9.35192 -0.00001c0.5523 0 1 0.44772 1 1V16.416c0 0.5523 -0.4477 1 -1 1H1.89258Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.892578 1.16602H23.1074" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.0684 6.58398h7.039" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.0684 12.002h7.039" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.0684 17.416h7.039" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.892578 22.834H23.1074" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.89258 17.416c-0.55229 0 -1.000002 -0.4477 -1.000002 -1V7.58398c0 -0.55228 0.447712 -0.99999 1.000002 -0.99999l9.35192 -0.00001c0.5523 0 1 0.44772 1 1V16.416c0 0.5523 -0.4477 1 -1 1H1.89258Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.892578 1.16602H23.1074" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.0684 6.58398h7.039" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.0684 12.002h7.039" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.0684 17.416h7.039" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.892578 22.834H23.1074" stroke-width="1.5"></path>
 </svg>

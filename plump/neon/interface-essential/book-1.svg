@@ -3,10 +3,10 @@
     Book 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="book-1--content-books-book-close">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M41 45.75 41 38" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M43 45.8095S36.6671 46 24.0005 46c-7.5546 0 -12.5345 -0.0678 -15.32369 -0.1225 -1.75941 -0.0345 -3.41124 -0.9356 -3.61101 -2.684 -0.04088 -0.3578 -0.06534 -0.755 -0.06534 -1.1935s0.02446 -0.8357 0.06534 -1.1935c0.19977 -1.7484 1.8516 -2.6496 3.61102 -2.6841C11.466 38.0678 16.4459 38 24.0005 38" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5 21c0 -6.1241 0.23506 -10.7227 0.46525 -13.75785 0.19847 -2.61684 2.20579 -4.63186 4.82335 -4.82079C13.2239 2.20951 17.7058 2 23.9525 2s10.7287 0.20952 13.6639 0.42138c2.6176 0.18892 4.6249 2.20394 4.8234 4.82078C42.67 10.2773 42.905 14.8759 42.905 21c0 5.93 0.0232 10.1971 0.0467 12.9967 0.0191 2.2844 -1.8629 4.144 -4.1471 4.1077C35.6335 38.0539 30.6733 38 23.9525 38c-7.5254 0 -12.4895 0.0676 -15.27389 0.1222 -1.76178 0.0346 -3.41536 0.9383 -3.61399 2.6892C5.02418 41.1679 5 41.5635 5 42l0 -21Z" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15 11h18" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15 19h9" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M41 45.75 41 38" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M43 45.8095S36.6671 46 24.0005 46c-7.5546 0 -12.5345 -0.0678 -15.32369 -0.1225 -1.75941 -0.0345 -3.41124 -0.9356 -3.61101 -2.684 -0.04088 -0.3578 -0.06534 -0.755 -0.06534 -1.1935s0.02446 -0.8357 0.06534 -1.1935c0.19977 -1.7484 1.8516 -2.6496 3.61102 -2.6841C11.466 38.0678 16.4459 38 24.0005 38" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5 21c0 -6.1241 0.23506 -10.7227 0.46525 -13.75785 0.19847 -2.61684 2.20579 -4.63186 4.82335 -4.82079C13.2239 2.20951 17.7058 2 23.9525 2s10.7287 0.20952 13.6639 0.42138c2.6176 0.18892 4.6249 2.20394 4.8234 4.82078C42.67 10.2773 42.905 14.8759 42.905 21c0 5.93 0.0232 10.1971 0.0467 12.9967 0.0191 2.2844 -1.8629 4.144 -4.1471 4.1077C35.6335 38.0539 30.6733 38 23.9525 38c-7.5254 0 -12.4895 0.0676 -15.27389 0.1222 -1.76178 0.0346 -3.41536 0.9383 -3.61399 2.6892C5.02418 41.1679 5 41.5635 5 42l0 -21Z" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15 11h18" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15 19h9" stroke-width="3"></path>
   </g>
 </svg>

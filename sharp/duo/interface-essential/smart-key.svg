@@ -3,10 +3,10 @@
     Smart Key Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="smart-key--smart-key-entry-lock-login-pass-unlock-access-signal-wifi">
-    <path id="Vector 1289" stroke="#4147d5" d="M6 12h5v5l-3.5 3.5 -5 -5L6 12Z" stroke-width="1"></path>
-    <path id="Vector 1188" stroke="#4147d5" d="m11 12 8 -8 3.5 3.5" stroke-width="1"></path>
-    <path id="Vector 1189" stroke="#4147d5" d="m16 7 3.5 3.5" stroke-width="1"></path>
-    <path id="Vector 3053" stroke="#4147d5" d="m12.83 5.546 -0.707 -0.707a7 7 0 0 0 -9.9 0l-0.707 0.707" stroke-width="1"></path>
-    <path id="Vector 3056" stroke="#4147d5" d="m10.709 7.667 -0.566 -0.566a4.2 4.2 0 0 0 -5.94 0l-0.565 0.566" stroke-width="1"></path>
+    <path id="Vector 1289" stroke="#4147d5" d="M6 12h5v5l-3.5 3.5 -5 -5L6 12Z" stroke-width="1.5"></path>
+    <path id="Vector 1188" stroke="#4147d5" d="m11 12 8 -8 3.5 3.5" stroke-width="1.5"></path>
+    <path id="Vector 1189" stroke="#4147d5" d="m16 7 3.5 3.5" stroke-width="1.5"></path>
+    <path id="Vector 3053" stroke="#4147d5" d="m12.83 5.546 -0.707 -0.707a7 7 0 0 0 -9.9 0l-0.707 0.707" stroke-width="1.5"></path>
+    <path id="Vector 3056" stroke="#4147d5" d="m10.709 7.667 -0.566 -0.566a4.2 4.2 0 0 0 -5.94 0l-0.565 0.566" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,12 +3,12 @@
     Alien Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="alien--science-extraterristerial-life-form-space-universe-head-astronomy">
-    <path id="Ellipse 20" fill="#8fbffa" d="M24 45C14 45 3 33.882 3 19.579 3 16.579 3 3 24 3s21 13.579 21 16.579C45 33.882 34 45 24 45Z" stroke-width="1"></path>
-    <path id="Intersect" fill="#ffffff" d="M21.5 24.47c0 0.826 -0.646 1.499 -1.47 1.522 -0.188 0.005 -0.38 0.008 -0.574 0.008C8.5 26 8.5 17.424 8.5 15.53c0 -0.826 0.646 -1.499 1.47 -1.522 0.188 -0.005 0.38 -0.008 0.573 -0.008C21.5 14 21.5 22.576 21.5 24.47Z" stroke-width="1"></path>
-    <path id="Intersect_2" fill="#ffffff" d="M26.5 24.47c0 0.826 0.646 1.499 1.47 1.522 0.188 0.005 0.38 0.008 0.574 0.008C39.5 26 39.5 17.424 39.5 15.53c0 -0.826 -0.646 -1.499 -1.47 -1.522a20.292 20.292 0 0 0 -0.574 -0.008C26.5 14 26.5 22.576 26.5 24.47Z" stroke-width="1"></path>
-    <path id="Ellipse 18" stroke="#2859c5" stroke-linejoin="round" d="M24 45C14 45 3 33.882 3 19.579 3 16.579 3 3 24 3s21 13.579 21 16.579C45 33.882 34 45 24 45Z" stroke-width="1"></path>
-    <path id="Ellipse 19" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30 34s-2 3 -6 3 -6 -3 -6 -3" stroke-width="1"></path>
-    <path id="Intersect_3" stroke="#2859c5" stroke-linejoin="round" d="M21.5 24.47c0 0.826 -0.646 1.499 -1.47 1.522 -0.188 0.005 -0.38 0.008 -0.574 0.008C8.5 26 8.5 17.424 8.5 15.53c0 -0.826 0.646 -1.499 1.47 -1.522 0.188 -0.005 0.38 -0.008 0.573 -0.008C21.5 14 21.5 22.576 21.5 24.47Z" stroke-width="1"></path>
-    <path id="Intersect_4" stroke="#2859c5" stroke-linejoin="round" d="M26.5 24.47c0 0.826 0.646 1.499 1.47 1.522 0.188 0.005 0.38 0.008 0.574 0.008C39.5 26 39.5 17.424 39.5 15.53c0 -0.826 -0.646 -1.499 -1.47 -1.522a20.292 20.292 0 0 0 -0.574 -0.008C26.5 14 26.5 22.576 26.5 24.47Z" stroke-width="1"></path>
+    <path id="Ellipse 20" fill="#8fbffa" d="M24 45C14 45 3 33.882 3 19.579 3 16.579 3 3 24 3s21 13.579 21 16.579C45 33.882 34 45 24 45Z" stroke-width="3"></path>
+    <path id="Intersect" fill="#ffffff" d="M21.5 24.47c0 0.826 -0.646 1.499 -1.47 1.522 -0.188 0.005 -0.38 0.008 -0.574 0.008C8.5 26 8.5 17.424 8.5 15.53c0 -0.826 0.646 -1.499 1.47 -1.522 0.188 -0.005 0.38 -0.008 0.573 -0.008C21.5 14 21.5 22.576 21.5 24.47Z" stroke-width="3"></path>
+    <path id="Intersect_2" fill="#ffffff" d="M26.5 24.47c0 0.826 0.646 1.499 1.47 1.522 0.188 0.005 0.38 0.008 0.574 0.008C39.5 26 39.5 17.424 39.5 15.53c0 -0.826 -0.646 -1.499 -1.47 -1.522a20.292 20.292 0 0 0 -0.574 -0.008C26.5 14 26.5 22.576 26.5 24.47Z" stroke-width="3"></path>
+    <path id="Ellipse 18" stroke="#2859c5" stroke-linejoin="round" d="M24 45C14 45 3 33.882 3 19.579 3 16.579 3 3 24 3s21 13.579 21 16.579C45 33.882 34 45 24 45Z" stroke-width="3"></path>
+    <path id="Ellipse 19" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M30 34s-2 3 -6 3 -6 -3 -6 -3" stroke-width="3"></path>
+    <path id="Intersect_3" stroke="#2859c5" stroke-linejoin="round" d="M21.5 24.47c0 0.826 -0.646 1.499 -1.47 1.522 -0.188 0.005 -0.38 0.008 -0.574 0.008C8.5 26 8.5 17.424 8.5 15.53c0 -0.826 0.646 -1.499 1.47 -1.522 0.188 -0.005 0.38 -0.008 0.573 -0.008C21.5 14 21.5 22.576 21.5 24.47Z" stroke-width="3"></path>
+    <path id="Intersect_4" stroke="#2859c5" stroke-linejoin="round" d="M26.5 24.47c0 0.826 0.646 1.499 1.47 1.522 0.188 0.005 0.38 0.008 0.574 0.008C39.5 26 39.5 17.424 39.5 15.53c0 -0.826 -0.646 -1.499 -1.47 -1.522a20.292 20.292 0 0 0 -0.574 -0.008C26.5 14 26.5 22.576 26.5 24.47Z" stroke-width="3"></path>
   </g>
 </svg>

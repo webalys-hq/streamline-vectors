@@ -4,11 +4,11 @@
   </desc>
   <g id="view-document-files">
     <g id="Group 176461">
-      <path id="Rectangle 843" fill="#d7e0ff" d="M17.067 1.5h-13v20h18v-15l-5 -5Z" stroke-width="1"></path>
-      <path id="Rectangle 842" stroke="#4147d5" d="M4.067 11.5v-10h13l5 5v15h-6" stroke-width="1"></path>
-      <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M1.933 18.512a6.04 6.04 0 0 1 5.696 -3.987 6.04 6.04 0 0 1 5.697 3.987A6.04 6.04 0 0 1 7.629 22.5a6.04 6.04 0 0 1 -5.696 -3.988Z" clip-rule="evenodd" stroke-width="1"></path>
-      <path id="Intersect_2" stroke="#4147d5" d="M1.933 18.512a6.04 6.04 0 0 1 5.696 -3.987 6.04 6.04 0 0 1 5.697 3.987A6.04 6.04 0 0 1 7.629 22.5a6.04 6.04 0 0 1 -5.696 -3.988Z" stroke-width="1"></path>
-      <path id="Vector 2950" stroke="#4147d5" d="M7.37 18.771v-0.519h0.52v0.52h-0.52Z" stroke-width="1"></path>
+      <path id="Rectangle 843" fill="#d7e0ff" d="M17.067 1.5h-13v20h18v-15l-5 -5Z" stroke-width="1.5"></path>
+      <path id="Rectangle 842" stroke="#4147d5" d="M4.067 11.5v-10h13l5 5v15h-6" stroke-width="1.5"></path>
+      <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M1.933 18.512a6.04 6.04 0 0 1 5.696 -3.987 6.04 6.04 0 0 1 5.697 3.987A6.04 6.04 0 0 1 7.629 22.5a6.04 6.04 0 0 1 -5.696 -3.988Z" clip-rule="evenodd" stroke-width="1.5"></path>
+      <path id="Intersect_2" stroke="#4147d5" d="M1.933 18.512a6.04 6.04 0 0 1 5.696 -3.987 6.04 6.04 0 0 1 5.697 3.987A6.04 6.04 0 0 1 7.629 22.5a6.04 6.04 0 0 1 -5.696 -3.988Z" stroke-width="1.5"></path>
+      <path id="Vector 2950" stroke="#4147d5" d="M7.37 18.771v-0.519h0.52v0.52h-0.52Z" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

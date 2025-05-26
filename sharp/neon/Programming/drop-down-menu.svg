@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Drop-Down-Menu--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Drop-Down-Menu--Streamline-Sharp-Neon">
   <desc>
     Drop Down Menu Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="drop-down-menu--input-select-menu-drop-down-internet-form">
-    <path id="Rectangle 864" stroke="#c71dff" d="M12 6H1v12h11V6Z" stroke-width="1"></path>
-    <path id="Rectangle 865" stroke="#000cfe" d="M23 6H12v12h11V6Z" stroke-width="1"></path>
-    <path id="Vector 2593" stroke="#000cfe" d="m15 11 2.5 2.5L20 11" stroke-width="1"></path>
+    <path id="Rectangle 864" stroke="#c71dff" d="M11.5 5.75H0.9583333333333334v11.5h10.541666666666668V5.75Z" stroke-width="1"></path>
+    <path id="Rectangle 865" stroke="#000cfe" d="M22.041666666666668 5.75H11.5v11.5h10.541666666666668V5.75Z" stroke-width="1"></path>
+    <path id="Vector 2593" stroke="#000cfe" d="m14.375 10.541666666666668 2.3958333333333335 2.3958333333333335L19.166666666666668 10.541666666666668" stroke-width="1"></path>
   </g>
 </svg>

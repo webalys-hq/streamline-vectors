@@ -3,9 +3,9 @@
     Coffee Mug Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="coffee-mug--coffee-cook-cup-drink-mug-cooking-nutrition-cafe-caffeine-food">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15.0001 2c-1.2533 1.65685 -1.4113 3.69231 0 6 1.4112 2.3077 1.2532 4.3431 0 6" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M25.0001 2c-1.2533 1.65685 -1.4113 3.69231 0 6 1.4112 2.3077 1.2532 4.3431 0 6" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M31 18h6.6321c2.7327 0 5.1052 1.8624 5.2876 4.5891C42.969 23.3248 43 24.1325 43 25c0 0.8675 -0.031 1.6752 -0.0803 2.4109C42.7373 30.1376 40.3648 32 37.6321 32H35" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.07803 37.3105c0.15073 4.6518 3.2065 8.1313 7.84887 8.464C14.8103 45.9095 17.1397 46 20 46c2.8603 0 5.1897 -0.0905 7.0731 -0.2255 4.6424 -0.3327 7.6981 -3.8122 7.8489 -8.464C34.9699 35.8323 35 34.0769 35 32c0 -4.9807 -0.1733 -8.4515 -0.3492 -10.6915C34.4997 19.384 32.8845 18 30.9541 18L20 18 9.04595 18c-1.93044 0 -3.54562 1.384 -3.69674 3.3085C5.17332 23.5485 5 27.0193 5 32c0 2.0769 0.03014 3.8323 0.07803 5.3105Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15.0001 2c-1.2533 1.65685 -1.4113 3.69231 0 6 1.4112 2.3077 1.2532 4.3431 0 6" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M25.0001 2c-1.2533 1.65685 -1.4113 3.69231 0 6 1.4112 2.3077 1.2532 4.3431 0 6" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M31 18h6.6321c2.7327 0 5.1052 1.8624 5.2876 4.5891C42.969 23.3248 43 24.1325 43 25c0 0.8675 -0.031 1.6752 -0.0803 2.4109C42.7373 30.1376 40.3648 32 37.6321 32H35" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M5.07803 37.3105c0.15073 4.6518 3.2065 8.1313 7.84887 8.464C14.8103 45.9095 17.1397 46 20 46c2.8603 0 5.1897 -0.0905 7.0731 -0.2255 4.6424 -0.3327 7.6981 -3.8122 7.8489 -8.464C34.9699 35.8323 35 34.0769 35 32c0 -4.9807 -0.1733 -8.4515 -0.3492 -10.6915C34.4997 19.384 32.8845 18 30.9541 18L20 18 9.04595 18c-1.93044 0 -3.54562 1.384 -3.69674 3.3085C5.17332 23.5485 5 27.0193 5 32c0 2.0769 0.03014 3.8323 0.07803 5.3105Z" stroke-width="3"></path>
   </g>
 </svg>

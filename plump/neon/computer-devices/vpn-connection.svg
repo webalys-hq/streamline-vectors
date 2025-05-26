@@ -3,9 +3,9 @@
     VPN Connection Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="VPN-connection">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12 20c6.6274 -8 17.3726 -8 24 0" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 25c4.4183 -5.3333 11.5817 -5.3333 16 0" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 31c0 1.6569 -1.3431 3 -3 3s-3 -1.3431 -3 -3 1.3431 -3 3 -3 3 1.3431 3 3Z" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.40563 10.1073c0.06278 -1.04745 0.93307 -1.85115 1.98004 -1.92078C12.053 7.74308 19.0847 5.09746 22.2616 3.76547c1.1113 -0.46594 2.3655 -0.46594 3.4768 0 3.1769 1.33199 10.2085 3.97761 16.8759 4.42105 1.047 0.06963 1.9173 0.87333 1.9801 1.92078 0.1549 2.5843 0.4056 7.4394 0.4056 11.793 0 1.08 -0.0309 2.1601 -0.082 3.2084 -0.2958 6.0637 -3.5907 11.5387 -8.746 14.7448 -4.1649 2.5901 -9.0633 5.1468 -12.172 5.1468 -3.1087 0 -8.0071 -2.5567 -12.172 -5.1468 -5.15528 -3.2061 -8.4502 -8.6811 -8.746 -14.7448C3.03086 24.0604 3 22.9803 3 21.9003c0 -4.3536 0.25071 -9.2087 0.40563 -11.793Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M12 20c6.6274 -8 17.3726 -8 24 0" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 25c4.4183 -5.3333 11.5817 -5.3333 16 0" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 31c0 1.6569 -1.3431 3 -3 3s-3 -1.3431 -3 -3 1.3431 -3 3 -3 3 1.3431 3 3Z" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.40563 10.1073c0.06278 -1.04745 0.93307 -1.85115 1.98004 -1.92078C12.053 7.74308 19.0847 5.09746 22.2616 3.76547c1.1113 -0.46594 2.3655 -0.46594 3.4768 0 3.1769 1.33199 10.2085 3.97761 16.8759 4.42105 1.047 0.06963 1.9173 0.87333 1.9801 1.92078 0.1549 2.5843 0.4056 7.4394 0.4056 11.793 0 1.08 -0.0309 2.1601 -0.082 3.2084 -0.2958 6.0637 -3.5907 11.5387 -8.746 14.7448 -4.1649 2.5901 -9.0633 5.1468 -12.172 5.1468 -3.1087 0 -8.0071 -2.5567 -12.172 -5.1468 -5.15528 -3.2061 -8.4502 -8.6811 -8.746 -14.7448C3.03086 24.0604 3 22.9803 3 21.9003c0 -4.3536 0.25071 -9.2087 0.40563 -11.793Z" stroke-width="3"></path>
   </g>
 </svg>

@@ -2,9 +2,9 @@
   <desc>
     Microphone 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m16.65 16.9999 -1.75 1.5c-0.261 0.1922 -0.5759 0.2972 -0.9 0.3h-4c-0.32409 -0.0028 -0.63904 -0.1078 -0.9 -0.3l-1.75 -1.5c-0.18687 -0.1392 -0.3385 -0.3202 -0.4427 -0.5286 -0.10421 -0.2085 -0.15808 -0.4384 -0.1573 -0.6714v-12.63c-0.00335 -0.27798 0.07062 -0.55143 0.21365 -0.78981 0.14303 -0.23838 0.3495 -0.43233 0.59635 -0.56019C8.93397 1.11529 10.4559 0.747803 12 0.747803c1.5441 0 3.066 0.367487 4.44 1.072097 0.2469 0.12786 0.4533 0.32181 0.5964 0.56019 0.143 0.23838 0.217 0.51183 0.2136 0.78981v12.58c0.0088 0.2414 -0.0412 0.4813 -0.1457 0.699 -0.1046 0.2178 -0.2605 0.4069 -0.4543 0.551Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 8.25h10.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 12.25h10.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.48 18.6599 0.77 4.59h3.5l0.77 -4.59" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.25v-3" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m16.65 16.9999 -1.75 1.5c-0.261 0.1922 -0.5759 0.2972 -0.9 0.3h-4c-0.32409 -0.0028 -0.63904 -0.1078 -0.9 -0.3l-1.75 -1.5c-0.18687 -0.1392 -0.3385 -0.3202 -0.4427 -0.5286 -0.10421 -0.2085 -0.15808 -0.4384 -0.1573 -0.6714v-12.63c-0.00335 -0.27798 0.07062 -0.55143 0.21365 -0.78981 0.14303 -0.23838 0.3495 -0.43233 0.59635 -0.56019C8.93397 1.11529 10.4559 0.747803 12 0.747803c1.5441 0 3.066 0.367487 4.44 1.072097 0.2469 0.12786 0.4533 0.32181 0.5964 0.56019 0.143 0.23838 0.217 0.51183 0.2136 0.78981v12.58c0.0088 0.2414 -0.0412 0.4813 -0.1457 0.699 -0.1046 0.2178 -0.2605 0.4069 -0.4543 0.551Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 8.25h10.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 12.25h10.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m9.48 18.6599 0.77 4.59h3.5l0.77 -4.59" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.25v-3" stroke-width="1.5"></path>
 </svg>

@@ -2,21 +2,21 @@
   <desc>
     Casino Chip 5 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 12c0 2.9837 1.18526 5.8452 3.29505 7.955C6.15483 22.0647 9.01631 23.25 12 23.25c2.9837 0 5.8452 -1.1853 7.955 -3.295 2.1097 -2.1098 3.295 -4.9713 3.295 -7.955 0 -2.98369 -1.1853 -5.84517 -3.295 -7.95495C17.8452 1.93526 14.9837 0.75 12 0.75c-2.98369 0 -5.84517 1.18526 -7.95495 3.29505C1.93526 6.15483 0.75 9.01631 0.75 12Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.76801 11.9999c0 1.9181 0.76194 3.7576 2.1182 5.1138C8.24247 18.47 10.082 19.2319 12 19.2319c1.9181 0 3.7575 -0.7619 5.1138 -2.1182 1.3563 -1.3562 2.1182 -3.1957 2.1182 -5.1138 0 -1.918 -0.7619 -3.75749 -2.1182 -5.11375C15.7575 5.52988 13.9181 4.76794 12 4.76794c-1.918 0 -3.75753 0.76194 -5.11379 2.11821 -1.35626 1.35626 -2.1182 3.19575 -2.1182 5.11375Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.142 14.219c0.2164 0.2846 0.4983 0.5128 0.8218 0.6652 0.3235 0.1523 0.6789 0.2243 1.0362 0.2098 1.139 0 2.063 -0.693 2.063 -1.547S13.139 12 12 12c-1.139 0 -2.06201 -0.693 -2.06201 -1.548 0 -0.855 0.92301 -1.546 2.06201 -1.546 0.3572 -0.01448 0.7127 0.05751 1.0362 0.20984 0.3235 0.15234 0.6054 0.38052 0.8218 0.66516" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.094v1.031" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 7.875v1.031" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.86401 0.952026 10.627 4.90003" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.293 4.88296 0.718 -3.954005" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.36499 8.32605 3.8 1.312" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.483 7.32202 -3.065 -2.599" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.5 19.373 3.036 -2.633" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.19001 14.439 -3.783 1.354" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m14.136 23.048 -0.763 -3.948" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.707 19.1169 -0.71799 3.954" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.635 15.6741 -3.8 -1.312" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.517 16.678 3.065 2.599" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.5 4.62695 -3.036 2.633" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18.81 9.56103 3.783 -1.354" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 12c0 2.9837 1.18526 5.8452 3.29505 7.955C6.15483 22.0647 9.01631 23.25 12 23.25c2.9837 0 5.8452 -1.1853 7.955 -3.295 2.1097 -2.1098 3.295 -4.9713 3.295 -7.955 0 -2.98369 -1.1853 -5.84517 -3.295 -7.95495C17.8452 1.93526 14.9837 0.75 12 0.75c-2.98369 0 -5.84517 1.18526 -7.95495 3.29505C1.93526 6.15483 0.75 9.01631 0.75 12Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.76801 11.9999c0 1.9181 0.76194 3.7576 2.1182 5.1138C8.24247 18.47 10.082 19.2319 12 19.2319c1.9181 0 3.7575 -0.7619 5.1138 -2.1182 1.3563 -1.3562 2.1182 -3.1957 2.1182 -5.1138 0 -1.918 -0.7619 -3.75749 -2.1182 -5.11375C15.7575 5.52988 13.9181 4.76794 12 4.76794c-1.918 0 -3.75753 0.76194 -5.11379 2.11821 -1.35626 1.35626 -2.1182 3.19575 -2.1182 5.11375Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.142 14.219c0.2164 0.2846 0.4983 0.5128 0.8218 0.6652 0.3235 0.1523 0.6789 0.2243 1.0362 0.2098 1.139 0 2.063 -0.693 2.063 -1.547S13.139 12 12 12c-1.139 0 -2.06201 -0.693 -2.06201 -1.548 0 -0.855 0.92301 -1.546 2.06201 -1.546 0.3572 -0.01448 0.7127 0.05751 1.0362 0.20984 0.3235 0.15234 0.6054 0.38052 0.8218 0.66516" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.094v1.031" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 7.875v1.031" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.86401 0.952026 10.627 4.90003" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m13.293 4.88296 0.718 -3.954005" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.36499 8.32605 3.8 1.312" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.483 7.32202 -3.065 -2.599" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.5 19.373 3.036 -2.633" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.19001 14.439 -3.783 1.354" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m14.136 23.048 -0.763 -3.948" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.707 19.1169 -0.71799 3.954" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.635 15.6741 -3.8 -1.312" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.517 16.678 3.065 2.599" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.5 4.62695 -3.036 2.633" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18.81 9.56103 3.783 -1.354" stroke-width="1.5"></path>
 </svg>

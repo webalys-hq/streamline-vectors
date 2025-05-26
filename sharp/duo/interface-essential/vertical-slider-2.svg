@@ -3,15 +3,15 @@
     Vertical Slider 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="vertical-slider-2--adjustment-adjust-controls-fader-vertical-settings-slider">
-    <path id="Vector 2003" stroke="#4147d5" d="m12 1 0 6.5" stroke-width="1"></path>
-    <path id="Vector 2004" stroke="#4147d5" d="m12 16.5 0 6.5" stroke-width="1"></path>
-    <path id="Ellipse 611" fill="#d7e0ff" d="M10 12a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Vector 2006" stroke="#4147d5" d="M20 8.5 20 23" stroke-width="1"></path>
-    <path id="Ellipse 612" fill="#d7e0ff" d="M18 4a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Vector 2007" stroke="#4147d5" d="m4 1 0 14.5" stroke-width="1"></path>
-    <path id="Ellipse 613" fill="#d7e0ff" d="M2 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 614" stroke="#4147d5" d="M10 12a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 615" stroke="#4147d5" d="M18 4a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 616" stroke="#4147d5" d="M2 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
+    <path id="Vector 2003" stroke="#4147d5" d="m12 1 0 6.5" stroke-width="1.5"></path>
+    <path id="Vector 2004" stroke="#4147d5" d="m12 16.5 0 6.5" stroke-width="1.5"></path>
+    <path id="Ellipse 611" fill="#d7e0ff" d="M10 12a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Vector 2006" stroke="#4147d5" d="M20 8.5 20 23" stroke-width="1.5"></path>
+    <path id="Ellipse 612" fill="#d7e0ff" d="M18 4a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Vector 2007" stroke="#4147d5" d="m4 1 0 14.5" stroke-width="1.5"></path>
+    <path id="Ellipse 613" fill="#d7e0ff" d="M2 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 614" stroke="#4147d5" d="M10 12a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 615" stroke="#4147d5" d="M18 4a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 616" stroke="#4147d5" d="M2 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
   </g>
 </svg>

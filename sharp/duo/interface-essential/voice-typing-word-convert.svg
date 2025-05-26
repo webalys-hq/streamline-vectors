@@ -3,13 +3,13 @@
     Voice Typing Word Convert Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="voice-typing-word-convert">
-    <path id="Vector 1" stroke="#4147d5" d="M15.5205 19.1678h5.4179" stroke-width="1"></path>
-    <path id="Vector" stroke="#4147d5" stroke-linecap="square" d="m17.5475 6.80243 2.7557 1.51666 1.5167 -2.75567" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#4147d5" stroke-linejoin="round" d="M20.3007 8.31853c-0.165 -2.02974 -0.9271 -3.96522 -2.1903 -5.56251 -0.2083 -0.26335 -0.4287 -0.51557 -0.6601 -0.75598" stroke-width="1"></path>
-    <path id="Rectangle 18" fill="#d7e0ff" d="M5.06274 2h7.46546v6.71892c0 2.06148 -1.6712 3.73268 -3.73272 3.73268 -2.06154 0 -3.73274 -1.6712 -3.73274 -3.73269V2Z" stroke-width="1"></path>
-    <path id="Rectangle 19" stroke="#4147d5" d="M5.06274 2h7.46546v6.71892c0 2.06148 -1.6712 3.73268 -3.73272 3.73268 -2.06154 0 -3.73274 -1.6712 -3.73274 -3.73269V2Z" stroke-width="1"></path>
-    <path id="Vector 112" stroke="#4147d5" d="M2.07642 8.71924c0 3.71076 3.00816 6.71896 6.71891 6.71896 1.62687 0 3.11857 -0.5782 4.28107 -1.5403" stroke-width="1"></path>
-    <path id="Vector 113" stroke="#4147d5" d="m8.79468 15.4385 0 3.0096" stroke-width="1"></path>
-    <path id="Vector 114" stroke="#4147d5" stroke-linecap="square" d="m14.5354 21.9999 2.9552 -8.7426h1.4776l2.9553 8.7426" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#4147d5" d="M15.5205 19.1678h5.4179" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#4147d5" stroke-linecap="square" d="m17.5475 6.80243 2.7557 1.51666 1.5167 -2.75567" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#4147d5" stroke-linejoin="round" d="M20.3007 8.31853c-0.165 -2.02974 -0.9271 -3.96522 -2.1903 -5.56251 -0.2083 -0.26335 -0.4287 -0.51557 -0.6601 -0.75598" stroke-width="1.5"></path>
+    <path id="Rectangle 18" fill="#d7e0ff" d="M5.06274 2h7.46546v6.71892c0 2.06148 -1.6712 3.73268 -3.73272 3.73268 -2.06154 0 -3.73274 -1.6712 -3.73274 -3.73269V2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 19" stroke="#4147d5" d="M5.06274 2h7.46546v6.71892c0 2.06148 -1.6712 3.73268 -3.73272 3.73268 -2.06154 0 -3.73274 -1.6712 -3.73274 -3.73269V2Z" stroke-width="1.5"></path>
+    <path id="Vector 112" stroke="#4147d5" d="M2.07642 8.71924c0 3.71076 3.00816 6.71896 6.71891 6.71896 1.62687 0 3.11857 -0.5782 4.28107 -1.5403" stroke-width="1.5"></path>
+    <path id="Vector 113" stroke="#4147d5" d="m8.79468 15.4385 0 3.0096" stroke-width="1.5"></path>
+    <path id="Vector 114" stroke="#4147d5" stroke-linecap="square" d="m14.5354 21.9999 2.9552 -8.7426h1.4776l2.9553 8.7426" stroke-width="1.5"></path>
   </g>
 </svg>

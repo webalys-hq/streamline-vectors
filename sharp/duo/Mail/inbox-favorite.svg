@@ -3,10 +3,10 @@
     Inbox Favorite Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="inbox-favorite--mail-envelope-email-message-star-favorite-important-bookmark">
-    <path id="Rectangle 857" fill="#d7e0ff" d="M1.75 2h17v13h-17z" stroke-width="1"></path>
-    <path id="Vector 2578" stroke="#4147d5" d="M18.75 10V2h-17v13h7.5" stroke-width="1"></path>
-    <path id="Vector 2579" stroke="#4147d5" d="m1.75 4.5 8.5 5 8.5 -5" stroke-width="1"></path>
-    <path id="Star 5" fill="#ffffff" d="m17 12.5 1.616 2.775 3.14 0.68 -2.14 2.395 0.323 3.195L17 20.25l-2.939 1.295 0.324 -3.195 -2.14 -2.395 3.139 -0.68L17 12.5Z" stroke-width="1"></path>
-    <path id="Star 6" stroke="#4147d5" d="m17 12.5 1.616 2.775 3.14 0.68 -2.14 2.395 0.323 3.195L17 20.25l-2.939 1.295 0.324 -3.195 -2.14 -2.395 3.139 -0.68L17 12.5Z" stroke-width="1"></path>
+    <path id="Rectangle 857" fill="#d7e0ff" d="M1.75 2h17v13h-17z" stroke-width="1.5"></path>
+    <path id="Vector 2578" stroke="#4147d5" d="M18.75 10V2h-17v13h7.5" stroke-width="1.5"></path>
+    <path id="Vector 2579" stroke="#4147d5" d="m1.75 4.5 8.5 5 8.5 -5" stroke-width="1.5"></path>
+    <path id="Star 5" fill="#ffffff" d="m17 12.5 1.616 2.775 3.14 0.68 -2.14 2.395 0.323 3.195L17 20.25l-2.939 1.295 0.324 -3.195 -2.14 -2.395 3.139 -0.68L17 12.5Z" stroke-width="1.5"></path>
+    <path id="Star 6" stroke="#4147d5" d="m17 12.5 1.616 2.775 3.14 0.68 -2.14 2.395 0.323 3.195L17 20.25l-2.939 1.295 0.324 -3.195 -2.14 -2.395 3.139 -0.68L17 12.5Z" stroke-width="1.5"></path>
   </g>
 </svg>

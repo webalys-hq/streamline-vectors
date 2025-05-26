@@ -3,10 +3,10 @@
     Rotate Right Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="rotate-right">
-    <path id="Vector 2754" stroke="#4147d5" d="M19.5 1.5v4h-4" stroke-width="1"></path>
-    <path id="Ellipse 1206" stroke="#4147d5" d="M19.5 5.38544C17.6676 3.30939 14.9867 2 12 2 6.47715 2 2 6.47715 2 12c0 3.8338 2.15744 7.1637 5.32448 8.8419" stroke-width="1"></path>
-    <path id="Ellipse 1207" stroke="#4147d5" d="M9.35645 21.6469c0.84205 0.2302 1.72845 0.3531 2.64345 0.3531 1.3009 0 2.5437 -0.2484 3.6837 -0.7003" stroke-width="1"></path>
-    <path id="Ellipse 1208" stroke="#4147d5" d="M17.2703 20.5c1.3747 -0.8542 2.527 -2.0327 3.3499 -3.4285" stroke-width="1"></path>
-    <path id="Ellipse 1209" stroke="#4147d5" d="M21.9999 12c0 1.1773 -0.2034 2.307 -0.577 3.356" stroke-width="1"></path>
+    <path id="Vector 2754" stroke="#4147d5" d="M19.5 1.5v4h-4" stroke-width="1.5"></path>
+    <path id="Ellipse 1206" stroke="#4147d5" d="M19.5 5.38544C17.6676 3.30939 14.9867 2 12 2 6.47715 2 2 6.47715 2 12c0 3.8338 2.15744 7.1637 5.32448 8.8419" stroke-width="1.5"></path>
+    <path id="Ellipse 1207" stroke="#4147d5" d="M9.35645 21.6469c0.84205 0.2302 1.72845 0.3531 2.64345 0.3531 1.3009 0 2.5437 -0.2484 3.6837 -0.7003" stroke-width="1.5"></path>
+    <path id="Ellipse 1208" stroke="#4147d5" d="M17.2703 20.5c1.3747 -0.8542 2.527 -2.0327 3.3499 -3.4285" stroke-width="1.5"></path>
+    <path id="Ellipse 1209" stroke="#4147d5" d="M21.9999 12c0 1.1773 -0.2034 2.307 -0.577 3.356" stroke-width="1.5"></path>
   </g>
 </svg>

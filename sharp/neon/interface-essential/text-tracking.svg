@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Tracking--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Text-Tracking--Streamline-Sharp-Neon">
   <desc>
     Text Tracking Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="text-tracking">
-    <path id="Vector 1" stroke="#000cfe" d="M21.817 13.5339 18.1357 2.2852H16.295l-3.6814 11.2487" stroke-width="1"></path>
-    <path id="Vector 1865" stroke="#000cfe" d="M20.5899 9.8899h-6.7492" stroke-width="1"></path>
-    <path id="Vector 2" stroke="#000cfe" d="M11.4887 1.2626 7.8073 12.5113H5.9666L2.2852 1.2626" stroke-width="1"></path>
-    <path id="Vector 1864" stroke="#c71dff" d="m4.3304 22.7374 -3.0678 -3.0678 3.0678 -3.0679" stroke-width="1"></path>
-    <path id="Vector 1866" stroke="#c71dff" d="m19.6696 22.7374 3.0678 -3.0678 -3.0678 -3.0679" stroke-width="1"></path>
-    <path id="Vector 1867" stroke="#c71dff" d="M1.2626 19.6696h21.4748" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#000cfe" d="M20.907958333333333 12.9699875 17.380045833333334 2.1899833333333336H15.61604166666667l-3.5280083333333336 10.780004166666666" stroke-width="1"></path>
+    <path id="Vector 1865" stroke="#000cfe" d="M19.731987500000002 9.477820833333334h-6.467983333333334" stroke-width="1"></path>
+    <path id="Vector 2" stroke="#000cfe" d="M11.010004166666667 1.2099916666666666 7.481995833333333 11.989995833333333H5.717991666666666L2.1899833333333336 1.2099916666666666" stroke-width="1"></path>
+    <path id="Vector 1864" stroke="#c71dff" d="m4.149966666666667 21.790008333333336 -2.939975 -2.939975 2.939975 -2.9400708333333334" stroke-width="1"></path>
+    <path id="Vector 1866" stroke="#c71dff" d="m18.850033333333332 21.790008333333336 2.939975 -2.939975 -2.939975 -2.9400708333333334" stroke-width="1"></path>
+    <path id="Vector 1867" stroke="#c71dff" d="M1.2099916666666666 18.850033333333332h20.580016666666666" stroke-width="1"></path>
   </g>
 </svg>

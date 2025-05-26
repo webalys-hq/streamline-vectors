@@ -3,13 +3,13 @@
     Ribbon Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="ribbon--ribbon-reward-like-social-rating-media">
-    <path id="Vector 2337" fill="#d7e0ff" d="M8.5 2H2l4.85516 12.6234 4.77304 -3.5863L8.5 2Z" stroke-width="1"></path>
-    <path id="Vector 2338" fill="#d7e0ff" d="M15.5 2H22l-4.8552 12.6234 -4.773 -3.5863L15.5 2Z" stroke-width="1"></path>
-    <path id="Vector 2335" stroke="#4147d5" d="M11.6282 11.0371 8.5 2H2l4.85516 12.6234" stroke-width="1"></path>
-    <path id="Vector 2336" stroke="#4147d5" d="M12.375 11.0279 15.5001 2h6.5l-4.833 12.5656" stroke-width="1"></path>
-    <path id="Ellipse 644" fill="#ffffff" d="M6.5 16.5a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0 -11 0" stroke-width="1"></path>
-    <path id="Ellipse 663" stroke="#4147d5" d="M6.5 16.5a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0 -11 0" stroke-width="1"></path>
-    <path id="Ellipse 661" fill="#d7e0ff" d="M10 16.5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 662" stroke="#4147d5" d="M10 16.5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
+    <path id="Vector 2337" fill="#d7e0ff" d="M8.5 2H2l4.85516 12.6234 4.77304 -3.5863L8.5 2Z" stroke-width="1.5"></path>
+    <path id="Vector 2338" fill="#d7e0ff" d="M15.5 2H22l-4.8552 12.6234 -4.773 -3.5863L15.5 2Z" stroke-width="1.5"></path>
+    <path id="Vector 2335" stroke="#4147d5" d="M11.6282 11.0371 8.5 2H2l4.85516 12.6234" stroke-width="1.5"></path>
+    <path id="Vector 2336" stroke="#4147d5" d="M12.375 11.0279 15.5001 2h6.5l-4.833 12.5656" stroke-width="1.5"></path>
+    <path id="Ellipse 644" fill="#ffffff" d="M6.5 16.5a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0 -11 0" stroke-width="1.5"></path>
+    <path id="Ellipse 663" stroke="#4147d5" d="M6.5 16.5a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0 -11 0" stroke-width="1.5"></path>
+    <path id="Ellipse 661" fill="#d7e0ff" d="M10 16.5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 662" stroke="#4147d5" d="M10 16.5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,11 +3,11 @@
     Floppy Disk Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="floppy-disk--disk-floppy-electronics-device-disc-computer-storage">
-    <path id="Rectangle 41" fill="#d7e0ff" d="m2 2 0 20 20 0 0 -13.75L15.75 2 2 2Z" stroke-width="1"></path>
-    <path id="Rectangle 37" stroke="#4147d5" d="m2 2 0 20 20 0 0 -13.75L15.75 2 2 2Z" stroke-width="1"></path>
-    <path id="Rectangle 42" fill="#ffffff" d="M7 7V2h7v5H7Z" stroke-width="1"></path>
-    <path id="Rectangle 39" stroke="#4147d5" d="M7 7V2h7v5H7Z" stroke-width="1"></path>
-    <path id="Rectangle 43" fill="#ffffff" d="m17 14 0 8 -10 0 0 -8 10 0Z" stroke-width="1"></path>
-    <path id="Rectangle 40" stroke="#4147d5" d="m17 14 0 8 -10 0 0 -8 10 0Z" stroke-width="1"></path>
+    <path id="Rectangle 41" fill="#d7e0ff" d="m2 2 0 20 20 0 0 -13.75L15.75 2 2 2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 37" stroke="#4147d5" d="m2 2 0 20 20 0 0 -13.75L15.75 2 2 2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 42" fill="#ffffff" d="M7 7V2h7v5H7Z" stroke-width="1.5"></path>
+    <path id="Rectangle 39" stroke="#4147d5" d="M7 7V2h7v5H7Z" stroke-width="1.5"></path>
+    <path id="Rectangle 43" fill="#ffffff" d="m17 14 0 8 -10 0 0 -8 10 0Z" stroke-width="1.5"></path>
+    <path id="Rectangle 40" stroke="#4147d5" d="m17 14 0 8 -10 0 0 -8 10 0Z" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Dna--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Dna--Streamline-Sharp-Neon">
   <desc>
     Dna Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="dna--science-biology-experiment-lab-science">
-    <path id="Vector 2540" stroke="#000cfe" d="m8.5 8.5 7 7" stroke-width="1"></path>
-    <path id="Vector 2538" stroke="#c71dff" d="M19 0v12l-7 7H8" stroke-width="1"></path>
-    <path id="Vector 2542" stroke="#c71dff" d="M5 19H0" stroke-width="1"></path>
-    <path id="Vector 2539" stroke="#c71dff" d="M5 24V12l7 -7h4" stroke-width="1"></path>
-    <path id="Vector 2541" stroke="#c71dff" d="M19 5h5" stroke-width="1"></path>
+    <path id="Vector 2540" stroke="#000cfe" d="m8.145833333333334 8.145833333333334 6.708333333333334 6.708333333333334" stroke-width="1"></path>
+    <path id="Vector 2538" stroke="#c71dff" d="M18.208333333333336 0v11.5l-6.708333333333334 6.708333333333334H7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 2542" stroke="#c71dff" d="M4.791666666666667 18.208333333333336H0" stroke-width="1"></path>
+    <path id="Vector 2539" stroke="#c71dff" d="M4.791666666666667 23V11.5l6.708333333333334 -6.708333333333334h3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 2541" stroke="#c71dff" d="M18.208333333333336 4.791666666666667h4.791666666666667" stroke-width="1"></path>
   </g>
 </svg>

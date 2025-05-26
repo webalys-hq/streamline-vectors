@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Mail-Loading--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Mail-Loading--Streamline-Sharp-Neon">
   <desc>
     Mail Loading Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="mail-loading--inbox-envelope-email-message-refresh">
-    <path id="Vector 2539" stroke="#000cfe" d="m1.44 3.12 8.64 4.8 8.64 -4.8" stroke-width="1"></path>
-    <path id="Vector" stroke="#000cfe" d="M14.521 19.44c0.4262 1.6562 1.9297 2.88 3.719 2.88 1.6115 0 2.9912 -0.9927 3.5608 -2.4" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="M21.959 17.52c-0.4262 -1.6562 -1.9297 -2.88 -3.719 -2.88 -1.6115 0 -2.9912 0.9927 -3.5608 2.4" stroke-width="1"></path>
-    <path id="Vector 4044" stroke="#000cfe" d="M19.2 17.52h3.36v-3.36" stroke-width="1"></path>
-    <path id="Vector 4045" stroke="#000cfe" d="M17.28 19.44h-3.36v3.36" stroke-width="1"></path>
-    <path id="Rectangle 846" stroke="#c71dff" d="M12.96 14.64H1.44V1.2h17.28v10.56" stroke-width="1"></path>
+    <path id="Vector 2539" stroke="#000cfe" d="m1.38 2.99 8.280000000000001 4.6 8.280000000000001 -4.6" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="M13.915958333333334 18.630000000000003c0.4084416666666667 1.5871916666666666 1.8492958333333334 2.76 3.5640416666666668 2.76 1.5443541666666667 0 2.866566666666667 -0.9513375000000001 3.4124333333333334 -2.3" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="M21.04404166666667 16.79c-0.4084416666666667 -1.5871916666666666 -1.8492958333333334 -2.76 -3.5640416666666668 -2.76 -1.5443541666666667 0 -2.866566666666667 0.9513375000000001 -3.4124333333333334 2.3" stroke-width="1"></path>
+    <path id="Vector 4044" stroke="#000cfe" d="M18.4 16.79h3.22v-3.22" stroke-width="1"></path>
+    <path id="Vector 4045" stroke="#000cfe" d="M16.560000000000002 18.630000000000003h-3.22v3.22" stroke-width="1"></path>
+    <path id="Rectangle 846" stroke="#c71dff" d="M12.420000000000002 14.030000000000001H1.38V1.15h16.560000000000002v10.120000000000001" stroke-width="1"></path>
   </g>
 </svg>

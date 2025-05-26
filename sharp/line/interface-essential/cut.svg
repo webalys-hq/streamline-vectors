@@ -3,11 +3,11 @@
     Cut Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="cut--coupon-cut-discount-price-prices-scissors">
-    <path id="Ellipse 477" stroke="#000000" d="M2 6a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1"></path>
-    <path id="Ellipse 478" stroke="#000000" d="M2 18a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1"></path>
-    <path id="Vector 1510" stroke="#000000" d="m5.5 10 7.5 3.8636" stroke-width="1"></path>
-    <path id="Vector 1511" stroke="#000000" d="M22 5.5 5.5 14" stroke-width="1"></path>
-    <path id="Vector 1513" stroke="#000000" d="M23 17h-4" stroke-width="1"></path>
-    <path id="Vector 1514" stroke="#000000" d="M17 17h-4" stroke-width="1"></path>
+    <path id="Ellipse 477" stroke="#000000" d="M2 6a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1.5"></path>
+    <path id="Ellipse 478" stroke="#000000" d="M2 18a4 4 0 1 0 8 0 4 4 0 1 0 -8 0" stroke-width="1.5"></path>
+    <path id="Vector 1510" stroke="#000000" d="m5.5 10 7.5 3.8636" stroke-width="1.5"></path>
+    <path id="Vector 1511" stroke="#000000" d="M22 5.5 5.5 14" stroke-width="1.5"></path>
+    <path id="Vector 1513" stroke="#000000" d="M23 17h-4" stroke-width="1.5"></path>
+    <path id="Vector 1514" stroke="#000000" d="M17 17h-4" stroke-width="1.5"></path>
   </g>
 </svg>

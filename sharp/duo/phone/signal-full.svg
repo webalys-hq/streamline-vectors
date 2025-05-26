@@ -3,12 +3,12 @@
     Signal Full Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="signal-full--phone-mobile-device-signal-wireless-smartphone-iphone-bar-bars-full-android">
-    <path id="Rectangle 41" fill="#d7e0ff" d="M2.5 16H9v3.5H2.5z" stroke-width="1"></path>
-    <path id="Rectangle 42" fill="#d7e0ff" d="M9 9.5h6.5v10H9z" stroke-width="1"></path>
-    <path id="Rectangle 43" fill="#d7e0ff" d="M15.5 2.5h6v17h-6z" stroke-width="1"></path>
-    <path id="Vector 2335" stroke="#4147d5" d="M2.5 19.5V16H9v3.5" stroke-width="1"></path>
-    <path id="Vector 2336" stroke="#4147d5" d="M9 19.5v-10h6.5v10" stroke-width="1"></path>
-    <path id="Vector 2337" stroke="#4147d5" d="M15.5 19.5v-17h6v17" stroke-width="1"></path>
-    <path id="Vector 2338" stroke="#4147d5" d="M1 22h22" stroke-width="1"></path>
+    <path id="Rectangle 41" fill="#d7e0ff" d="M2.5 16H9v3.5H2.5z" stroke-width="1.5"></path>
+    <path id="Rectangle 42" fill="#d7e0ff" d="M9 9.5h6.5v10H9z" stroke-width="1.5"></path>
+    <path id="Rectangle 43" fill="#d7e0ff" d="M15.5 2.5h6v17h-6z" stroke-width="1.5"></path>
+    <path id="Vector 2335" stroke="#4147d5" d="M2.5 19.5V16H9v3.5" stroke-width="1.5"></path>
+    <path id="Vector 2336" stroke="#4147d5" d="M9 19.5v-10h6.5v10" stroke-width="1.5"></path>
+    <path id="Vector 2337" stroke="#4147d5" d="M15.5 19.5v-17h6v17" stroke-width="1.5"></path>
+    <path id="Vector 2338" stroke="#4147d5" d="M1 22h22" stroke-width="1.5"></path>
   </g>
 </svg>

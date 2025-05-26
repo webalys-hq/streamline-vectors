@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Middle-Click--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Middle-Click--Streamline-Sharp-Neon">
   <desc>
     Middle Click Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="middle-click">
-    <path id="Vector 2602" stroke="#000cfe" d="M12.0001 10v4" stroke-width="1"></path>
-    <path id="Vector 3058" stroke="#000cfe" d="M7.5 3S9 1 12 1s4.5 2 4.5 2" stroke-width="1"></path>
-    <path id="Vector 3059" stroke="#c71dff" d="M6 7h12v10c0 3.3137 -2.6863 6 -6 6 -3.31371 0 -6 -2.6863 -6 -6V7Z" stroke-width="1"></path>
+    <path id="Vector 2602" stroke="#000cfe" d="M11.500095833333333 9.583333333333334v3.8333333333333335" stroke-width="1"></path>
+    <path id="Vector 3058" stroke="#000cfe" d="M7.1875 2.875S8.625 0.9583333333333334 11.5 0.9583333333333334s4.3125 1.9166666666666667 4.3125 1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 3059" stroke="#c71dff" d="M5.75 6.708333333333334h11.5v9.583333333333334c0 3.1756291666666665 -2.5743708333333335 5.75 -5.75 5.75 -3.17563875 0 -5.75 -2.5743708333333335 -5.75 -5.75V6.708333333333334Z" stroke-width="1"></path>
   </g>
 </svg>

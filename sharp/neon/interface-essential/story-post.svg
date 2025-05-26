@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Story-Post--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Story-Post--Streamline-Sharp-Neon">
   <desc>
     Story Post Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="story-post">
-    <path id="Vector 1366" stroke="#000cfe" d="M12 6v12m-6 -6h12" stroke-width="1"></path>
-    <path id="Ellipse 445" stroke="#c71dff" d="M1 12c0 6.0751 4.92487 11 11 11 6.0751 0 11 -4.9249 11 -11 0 -6.07513 -4.9249 -11 -11 -11" stroke-width="1"></path>
-    <path id="Ellipse 446" stroke="#c71dff" d="M1.22021 9.80024c0.18533 -0.91299 0.48374 -1.78492 0.87996 -2.60053" stroke-width="1"></path>
-    <path id="Ellipse 448" stroke="#c71dff" d="M5.4002 3.19922c-0.83298 0.62567 -1.57424 1.36684 -2.2 2.19973" stroke-width="1"></path>
-    <path id="Ellipse 449" stroke="#c71dff" d="M9.79995 1.21973c-0.91307 0.18534 -1.78506 0.48378 -2.60073 0.88005" stroke-width="1"></path>
+    <path id="Vector 1366" stroke="#000cfe" d="M11.5 5.75v11.5m-5.75 -5.75h11.5" stroke-width="1"></path>
+    <path id="Ellipse 445" stroke="#c71dff" d="M0.9583333333333334 11.5c0 5.821970833333333 4.719667083333333 10.541666666666668 10.541666666666668 10.541666666666668 5.821970833333333 0 10.541666666666668 -4.719695833333334 10.541666666666668 -10.541666666666668 0 -5.821999583333334 -4.719695833333334 -10.541666666666668 -10.541666666666668 -10.541666666666668" stroke-width="1"></path>
+    <path id="Ellipse 446" stroke="#c71dff" d="M1.1693679166666666 9.391896666666668c0.17760791666666667 -0.87494875 0.4635841666666667 -1.7105483333333336 0.843295 -2.4921745833333335" stroke-width="1"></path>
+    <path id="Ellipse 448" stroke="#c71dff" d="M5.175191666666667 3.0659191666666668c-0.7982725 0.5996004166666666 -1.508646666666667 1.3098883333333335 -2.1083333333333334 2.1080745833333334" stroke-width="1"></path>
+    <path id="Ellipse 449" stroke="#c71dff" d="M9.391618750000001 1.1689079166666667c-0.8750254166666668 0.1776175 -1.7106825 0.4636225 -2.49236625 0.8433812500000001" stroke-width="1"></path>
   </g>
 </svg>

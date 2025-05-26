@@ -3,10 +3,10 @@
     Shipping Box 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shipping-box-1--box-package-label-delivery-shipment-shipping">
-    <path id="Vector 4" fill="#d7e0ff" d="M2 22V2h20v20H2Z" stroke-width="1"></path>
-    <path id="Vector 5" fill="#ffffff" d="M9 11V2h6v9l-3 -2 -3 2Z" stroke-width="1"></path>
-    <path id="Vector 1" stroke="#4147d5" d="M2 22V2h20v20H2Z" stroke-width="1"></path>
-    <path id="Vector 2" stroke="#4147d5" d="M9 11V2h6v9l-3 -2 -3 2Z" stroke-width="1"></path>
-    <path id="Vector 3" stroke="#4147d5" d="M14 18h4" stroke-width="1"></path>
+    <path id="Vector 4" fill="#d7e0ff" d="M2 22V2h20v20H2Z" stroke-width="1.5"></path>
+    <path id="Vector 5" fill="#ffffff" d="M9 11V2h6v9l-3 -2 -3 2Z" stroke-width="1.5"></path>
+    <path id="Vector 1" stroke="#4147d5" d="M2 22V2h20v20H2Z" stroke-width="1.5"></path>
+    <path id="Vector 2" stroke="#4147d5" d="M9 11V2h6v9l-3 -2 -3 2Z" stroke-width="1.5"></path>
+    <path id="Vector 3" stroke="#4147d5" d="M14 18h4" stroke-width="1.5"></path>
   </g>
 </svg>

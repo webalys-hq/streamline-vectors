@@ -3,9 +3,9 @@
     Shipment Check Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shipment-check--shipping-parcel-shipment-check-approved">
-    <path id="Vector" stroke="#000000" stroke-linecap="square" d="m15.625 11.574 -4.798 6.404 -3.202 -2.398" stroke-width="1"></path>
-    <path id="Vector 4" stroke="#000000" d="m5.083 1.75 -3.27 4.858v0.694h19.625v-0.694L18.166 1.75H5.083Z" stroke-width="1"></path>
-    <path id="Vector 5" stroke="#000000" d="M11.625 1.75v5.552" stroke-width="1"></path>
-    <path id="Vector 6" stroke="#000000" d="M1.813 22.25V7.302l19.625 0 0 14.948H1.811Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" stroke-linecap="square" d="m15.625 11.574 -4.798 6.404 -3.202 -2.398" stroke-width="1.5"></path>
+    <path id="Vector 4" stroke="#000000" d="m5.083 1.75 -3.27 4.858v0.694h19.625v-0.694L18.166 1.75H5.083Z" stroke-width="1.5"></path>
+    <path id="Vector 5" stroke="#000000" d="M11.625 1.75v5.552" stroke-width="1.5"></path>
+    <path id="Vector 6" stroke="#000000" d="M1.813 22.25V7.302l19.625 0 0 14.948H1.811Z" stroke-width="1.5"></path>
   </g>
 </svg>

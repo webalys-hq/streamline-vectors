@@ -2,8 +2,8 @@
   <desc>
     Vpn On Circle Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12 23.25c6.2132 0 11.25 -5.0368 11.25 -11.25C23.25 5.78679 18.2132 0.75 12 0.75 5.78679 0.75 0.75 5.78679 0.75 12c0 6.2132 5.03679 11.25 11.25 11.25Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.75 15.375v-6.75l3.375 6.75v-6.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.875 15.375v-2.8125m0 0V8.625h1.4063c1.0873 0 1.9687 0.88144 1.9687 1.9688 0 1.0873 -0.8814 1.9687 -1.9687 1.9687H10.875Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.375 8.625 -1.55107 6.2043c-0.08018 0.3207 -0.36835 0.5457 -0.69893 0.5457 -0.33059 0 -0.61875 -0.225 -0.69893 -0.5457L3.875 8.625" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12 23.25c6.2132 0 11.25 -5.0368 11.25 -11.25C23.25 5.78679 18.2132 0.75 12 0.75 5.78679 0.75 0.75 5.78679 0.75 12c0 6.2132 5.03679 11.25 11.25 11.25Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.75 15.375v-6.75l3.375 6.75v-6.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.875 15.375v-2.8125m0 0V8.625h1.4063c1.0873 0 1.9687 0.88144 1.9687 1.9688 0 1.0873 -0.8814 1.9687 -1.9687 1.9687H10.875Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m8.375 8.625 -1.55107 6.2043c-0.08018 0.3207 -0.36835 0.5457 -0.69893 0.5457 -0.33059 0 -0.61875 -0.225 -0.69893 -0.5457L3.875 8.625" stroke-width="1.5"></path>
 </svg>

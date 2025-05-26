@@ -2,8 +2,8 @@
   <desc>
     Text Underline Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 23.248h22.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 0.748047h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 0.748047h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 0.748047V12c0 1.7903 -0.7112 3.5071 -1.977 4.773 -1.2659 1.2659 -2.9828 1.977 -4.773 1.977 -1.7902 0 -3.5071 -0.7111 -4.77297 -1.977C5.96116 15.5071 5.25 13.7903 5.25 12V0.748047" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 23.248h22.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 0.748047h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 0.748047h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 0.748047V12c0 1.7903 -0.7112 3.5071 -1.977 4.773 -1.2659 1.2659 -2.9828 1.977 -4.773 1.977 -1.7902 0 -3.5071 -0.7111 -4.77297 -1.977C5.96116 15.5071 5.25 13.7903 5.25 12V0.748047" stroke-width="1.5"></path>
 </svg>

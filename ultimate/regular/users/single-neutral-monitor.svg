@@ -2,9 +2,9 @@
   <desc>
     Single Neutral Monitor Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.375 7.875c0 0.69619 0.27656 1.36387 0.7688 1.85616 0.4923 0.49224 1.16 0.76884 1.8562 0.76884 0.6962 0 1.3639 -0.2766 1.8562 -0.76884 0.4922 -0.49229 0.7688 -1.15997 0.7688 -1.85616 0 -0.69619 -0.2766 -1.36387 -0.7688 -1.85616C13.3639 5.52656 12.6962 5.25 12 5.25c-0.6962 0 -1.3639 0.27656 -1.8562 0.76884 -0.49224 0.49229 -0.7688 1.15997 -0.7688 1.85616Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 15.75c0 -1.1935 0.47411 -2.3381 1.31802 -3.182C9.66193 11.7241 10.8065 11.25 12 11.25c1.1935 0 2.3381 0.4741 3.182 1.318 0.8439 0.8439 1.318 1.9885 1.318 3.182" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 2.25h18s1.5 0 1.5 1.5v13.5s0 1.5 -1.5 1.5H3s-1.5 0 -1.5 -1.5V3.75s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 18.75v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 21.75h15" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.375 7.875c0 0.69619 0.27656 1.36387 0.7688 1.85616 0.4923 0.49224 1.16 0.76884 1.8562 0.76884 0.6962 0 1.3639 -0.2766 1.8562 -0.76884 0.4922 -0.49229 0.7688 -1.15997 0.7688 -1.85616 0 -0.69619 -0.2766 -1.36387 -0.7688 -1.85616C13.3639 5.52656 12.6962 5.25 12 5.25c-0.6962 0 -1.3639 0.27656 -1.8562 0.76884 -0.49224 0.49229 -0.7688 1.15997 -0.7688 1.85616Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 15.75c0 -1.1935 0.47411 -2.3381 1.31802 -3.182C9.66193 11.7241 10.8065 11.25 12 11.25c1.1935 0 2.3381 0.4741 3.182 1.318 0.8439 0.8439 1.318 1.9885 1.318 3.182" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 2.25h18s1.5 0 1.5 1.5v13.5s0 1.5 -1.5 1.5H3s-1.5 0 -1.5 -1.5V3.75s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 18.75v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 21.75h15" stroke-width="1.5"></path>
 </svg>

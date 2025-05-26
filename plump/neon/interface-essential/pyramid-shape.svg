@@ -3,7 +3,7 @@
     Pyramid Shape Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pyramid-shape">
-    <path id="Vector 1655" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m24 3 0 42" stroke-width="1"></path>
-    <path id="Rectangle 1096" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M43.3866 38.436C38.1087 40.8587 28.4379 45 24 45c-4.4379 0 -14.1087 -4.1413 -19.38662 -6.564 -2.00906 -0.9222 -2.8211 -3.3172 -1.77664 -5.2655C9.10076 21.4858 17.6264 9.5509 21.6779 4.08094c1.1659 -1.57406 3.4783 -1.57406 4.6442 0C30.3736 9.5509 38.8992 21.4858 45.1633 33.1705c1.0444 1.9483 0.2324 4.3433 -1.7767 5.2655Z" stroke-width="1"></path>
+    <path id="Vector 1655" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m24 3 0 42" stroke-width="3"></path>
+    <path id="Rectangle 1096" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M43.3866 38.436C38.1087 40.8587 28.4379 45 24 45c-4.4379 0 -14.1087 -4.1413 -19.38662 -6.564 -2.00906 -0.9222 -2.8211 -3.3172 -1.77664 -5.2655C9.10076 21.4858 17.6264 9.5509 21.6779 4.08094c1.1659 -1.57406 3.4783 -1.57406 4.6442 0C30.3736 9.5509 38.8992 21.4858 45.1633 33.1705c1.0444 1.9483 0.2324 4.3433 -1.7767 5.2655Z" stroke-width="3"></path>
   </g>
 </svg>

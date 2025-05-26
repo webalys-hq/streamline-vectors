@@ -3,9 +3,9 @@
     Chef Toque Hat Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="chef-toque-hat--cook-gear-chef-cooking-nutrition-tools-clothes-hat-clothing-food-kitchenware">
-    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M31.568 7.127A8.993 8.993 0 0 0 24 3a8.993 8.993 0 0 0 -7.568 4.127A8 8 0 1 0 8.72 20.67a479.006 479.006 0 0 0 2.18 21.55c0.17 1.36 1.251 2.4 2.62 2.488C15.606 44.842 19.1 45 24 45s8.394 -0.158 10.48 -0.293c1.369 -0.088 2.45 -1.128 2.62 -2.488a479.002 479.002 0 0 0 2.18 -21.549 8 8 0 1 0 -7.712 -13.543Z" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M37.753 37.363c-2.557 -0.133 -6.836 -0.265 -13.753 -0.265s-11.197 0.132 -13.753 0.265" stroke-width="1"></path>
-    <path id="Vector 1388" stroke="#000000" stroke-linecap="round" d="m19 21 1 8" stroke-width="1"></path>
-    <path id="Vector 1389" stroke="#000000" stroke-linecap="round" d="m29 21 -1 8" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M31.568 7.127A8.993 8.993 0 0 0 24 3a8.993 8.993 0 0 0 -7.568 4.127A8 8 0 1 0 8.72 20.67a479.006 479.006 0 0 0 2.18 21.55c0.17 1.36 1.251 2.4 2.62 2.488C15.606 44.842 19.1 45 24 45s8.394 -0.158 10.48 -0.293c1.369 -0.088 2.45 -1.128 2.62 -2.488a479.002 479.002 0 0 0 2.18 -21.549 8 8 0 1 0 -7.712 -13.543Z" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M37.753 37.363c-2.557 -0.133 -6.836 -0.265 -13.753 -0.265s-11.197 0.132 -13.753 0.265" stroke-width="3"></path>
+    <path id="Vector 1388" stroke="#000000" stroke-linecap="round" d="m19 21 1 8" stroke-width="3"></path>
+    <path id="Vector 1389" stroke="#000000" stroke-linecap="round" d="m29 21 -1 8" stroke-width="3"></path>
   </g>
 </svg>

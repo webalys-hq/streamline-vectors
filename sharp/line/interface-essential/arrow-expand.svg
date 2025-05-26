@@ -3,13 +3,13 @@
     Arrow Expand Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="arrow-expand--expand-small-bigger-retract-smaller-big">
-    <path id="Vector 2247" stroke="#000000" d="M2 9V2h7" stroke-width="1"></path>
-    <path id="Vector 2248" stroke="#000000" d="m14 14 8 8" stroke-width="1"></path>
-    <path id="Vector 2253" stroke="#000000" d="m2 2 8 8" stroke-width="1"></path>
-    <path id="Vector 2249" stroke="#000000" d="M22 15v7h-7" stroke-width="1"></path>
-    <path id="Vector 2250" stroke="#000000" d="M2 15v7h7" stroke-width="1"></path>
-    <path id="Vector 2251" stroke="#000000" d="m14 10 8 -8" stroke-width="1"></path>
-    <path id="Vector 2254" stroke="#000000" d="m2 22 8 -8" stroke-width="1"></path>
-    <path id="Vector 2252" stroke="#000000" d="M22 9V2h-7" stroke-width="1"></path>
+    <path id="Vector 2247" stroke="#000000" d="M2 9V2h7" stroke-width="1.5"></path>
+    <path id="Vector 2248" stroke="#000000" d="m14 14 8 8" stroke-width="1.5"></path>
+    <path id="Vector 2253" stroke="#000000" d="m2 2 8 8" stroke-width="1.5"></path>
+    <path id="Vector 2249" stroke="#000000" d="M22 15v7h-7" stroke-width="1.5"></path>
+    <path id="Vector 2250" stroke="#000000" d="M2 15v7h7" stroke-width="1.5"></path>
+    <path id="Vector 2251" stroke="#000000" d="m14 10 8 -8" stroke-width="1.5"></path>
+    <path id="Vector 2254" stroke="#000000" d="m2 22 8 -8" stroke-width="1.5"></path>
+    <path id="Vector 2252" stroke="#000000" d="M22 9V2h-7" stroke-width="1.5"></path>
   </g>
 </svg>

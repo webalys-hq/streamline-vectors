@@ -3,8 +3,8 @@
     Layout Window 4 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="layout-window-4--column-header-layout-layouts-masthead-sidebar">
-    <path id="Vector 883" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 15v29" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M44.8461 15H3.15625" stroke-width="1"></path>
-    <path id="Rectangle 1096" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M44.461 8.25718c-0.2076 -2.5553 -2.1629 -4.5106 -4.7182 -4.71821C36.5146 3.27668 31.364 3 24 3c-7.364 0 -12.5146 0.27667 -15.74282 0.53896 -2.5553 0.20761 -4.5106 2.16291 -4.71821 4.71821C3.27668 11.4854 3 16.636 3 24c0 7.364 0.27667 12.5146 0.53896 15.7428 0.20762 2.5553 2.16291 4.5106 4.71821 4.7182C11.4854 44.7233 16.636 45 24 45c7.364 0 12.5146 -0.2767 15.7428 -0.539 2.5553 -0.2076 4.5106 -2.1629 4.7182 -4.7182C44.7233 36.5146 45 31.364 45 24c0 -7.364 -0.2767 -12.5146 -0.539 -15.74282Z" stroke-width="1"></path>
+    <path id="Vector 883" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M16 15v29" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M44.8461 15H3.15625" stroke-width="3"></path>
+    <path id="Rectangle 1096" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M44.461 8.25718c-0.2076 -2.5553 -2.1629 -4.5106 -4.7182 -4.71821C36.5146 3.27668 31.364 3 24 3c-7.364 0 -12.5146 0.27667 -15.74282 0.53896 -2.5553 0.20761 -4.5106 2.16291 -4.71821 4.71821C3.27668 11.4854 3 16.636 3 24c0 7.364 0.27667 12.5146 0.53896 15.7428 0.20762 2.5553 2.16291 4.5106 4.71821 4.7182C11.4854 44.7233 16.636 45 24 45c7.364 0 12.5146 -0.2767 15.7428 -0.539 2.5553 -0.2076 4.5106 -2.1629 4.7182 -4.7182C44.7233 36.5146 45 31.364 45 24c0 -7.364 -0.2767 -12.5146 -0.539 -15.74282Z" stroke-width="3"></path>
   </g>
 </svg>

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Octagram-Shape--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Octagram-Shape--Streamline-Sharp-Neon">
   <desc>
     Octagram Shape Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="octagram-shape">
-    <path id="Union" stroke="#c71dff" d="M15.0859 4.5 12 1.41406 8.91406 4.5H4.5v4.41406L1.41406 12 4.5 15.0859V19.5h4.41406L12 22.5859 15.0859 19.5H19.5v-4.4141L22.5859 12 19.5 8.91406V4.5h-4.4141Z" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" d="M14.457320833333334 4.3125 11.5 1.3551408333333335 8.542640833333333 4.3125H4.3125v4.2301408333333335L1.3551408333333335 11.5 4.3125 14.457320833333334V18.6875h4.2301408333333335L11.5 21.644820833333334 14.457320833333334 18.6875H18.6875v-4.230179166666667L21.644820833333334 11.5 18.6875 8.542640833333333V4.3125h-4.230179166666667Z" stroke-width="1"></path>
   </g>
 </svg>

@@ -3,11 +3,11 @@
     Milk Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="milk--drink-cook-milk-cooking-carton-nutrition-food">
-    <path id="Rectangle 16" fill="#ffffff" d="M4 9.5h16l-3 -4H7l-3 4Z" stroke-width="1"></path>
-    <path id="Vector 2162" fill="#d7e0ff" d="M20 9.5H4V22h16V9.5Z" stroke-width="1"></path>
-    <path id="Vector 2161" fill="#d7e0ff" d="M7 2v3.5h10V2H7Z" stroke-width="1"></path>
-    <path id="Vector 2163" stroke="#4147d5" d="M7 2v3.5h10V2H7Z" stroke-width="1"></path>
-    <path id="Vector 2160" stroke="#4147d5" d="m4 9.5 16 0" stroke-width="1"></path>
-    <path id="Rectangle 17" stroke="#4147d5" d="M4 22h16V9.5l-3 -4H7l-3 4V22Z" stroke-width="1"></path>
+    <path id="Rectangle 16" fill="#ffffff" d="M4 9.5h16l-3 -4H7l-3 4Z" stroke-width="1.5"></path>
+    <path id="Vector 2162" fill="#d7e0ff" d="M20 9.5H4V22h16V9.5Z" stroke-width="1.5"></path>
+    <path id="Vector 2161" fill="#d7e0ff" d="M7 2v3.5h10V2H7Z" stroke-width="1.5"></path>
+    <path id="Vector 2163" stroke="#4147d5" d="M7 2v3.5h10V2H7Z" stroke-width="1.5"></path>
+    <path id="Vector 2160" stroke="#4147d5" d="m4 9.5 16 0" stroke-width="1.5"></path>
+    <path id="Rectangle 17" stroke="#4147d5" d="M4 22h16V9.5l-3 -4H7l-3 4V22Z" stroke-width="1.5"></path>
   </g>
 </svg>

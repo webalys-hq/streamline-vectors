@@ -2,11 +2,11 @@
   <desc>
     Shape Cube Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.629 23.25c0.3975 -0.0001 0.7788 -0.158 1.06 -0.439l5.122 -5.122c0.281 -0.2812 0.4389 -0.6625 0.439 -1.06V2.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C22.5294 0.908035 22.1478 0.75 21.75 0.75H7.371c-0.39755 0.000085 -0.7788 0.157982 -1.06 0.439L1.189 6.311c-0.281018 0.2812 -0.438915 0.66245 -0.439 1.06V21.75c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h14.379Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 23.115V6.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 17.25h16.365" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.189 22.811 6.75 17.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.25 6.74996 5.561 -5.561" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75H0.88501" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 0.88501V17.25" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.629 23.25c0.3975 -0.0001 0.7788 -0.158 1.06 -0.439l5.122 -5.122c0.281 -0.2812 0.4389 -0.6625 0.439 -1.06V2.25c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C22.5294 0.908035 22.1478 0.75 21.75 0.75H7.371c-0.39755 0.000085 -0.7788 0.157982 -1.06 0.439L1.189 6.311c-0.281018 0.2812 -0.438915 0.66245 -0.439 1.06V21.75c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h14.379Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 23.115V6.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 17.25h16.365" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.189 22.811 6.75 17.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.25 6.74996 5.561 -5.561" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75H0.88501" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 0.88501V17.25" stroke-width="1.5"></path>
 </svg>

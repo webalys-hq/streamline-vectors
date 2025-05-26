@@ -3,8 +3,8 @@
     Location Compass 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="location-compass-2--arrow-compass-location-gps-map-maps-point">
-    <path id="Vector" stroke="#000000" d="M12 22c5.523 0 10 -4.477 10 -10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="m15.077 15.077 1.539 -7.692 -7.693 1.538 -1.538 7.693 7.692 -1.539Z" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000000" d="m8.923 8.923 6.154 6.154" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="M12 22c5.523 0 10 -4.477 10 -10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="m15.077 15.077 1.539 -7.692 -7.693 1.538 -1.538 7.693 7.692 -1.539Z" stroke-width="1.5"></path>
+    <path id="Vector_3" stroke="#000000" d="m8.923 8.923 6.154 6.154" stroke-width="1.5"></path>
   </g>
 </svg>

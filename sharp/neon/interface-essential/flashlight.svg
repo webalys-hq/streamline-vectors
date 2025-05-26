@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Flashlight--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Flashlight--Streamline-Sharp-Neon">
   <desc>
     Flashlight Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="flashlight">
-    <path id="Vector 2052" stroke="#c71dff" d="M6 22.5 1.5 18 10 9.5V6l4.5 -4.5 8 8L18 14h-3.5L6 22.5Z" stroke-width="1"></path>
-    <path id="Vector" stroke="#000cfe" d="m14.5 1.5 8 8L20 12l-8 -8 2.5 -2.5Z" stroke-width="1"></path>
+    <path id="Vector 2052" stroke="#c71dff" d="M5.75 21.5625 1.4375 17.25 9.583333333333334 9.104166666666668V5.75l4.3125 -4.3125 7.666666666666667 7.666666666666667L17.25 13.416666666666668h-3.354166666666667L5.75 21.5625Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="m13.895833333333334 1.4375 7.666666666666667 7.666666666666667L19.166666666666668 11.5l-7.666666666666667 -7.666666666666667 2.3958333333333335 -2.3958333333333335Z" stroke-width="1"></path>
   </g>
 </svg>

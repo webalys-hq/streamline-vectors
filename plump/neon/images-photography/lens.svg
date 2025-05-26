@@ -3,13 +3,13 @@
     Lens Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="lens--photos-camera-shutter-picture-photography-pictures-photo-lens">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15.6191 23.9996c0 -12.5714 4.1905 -21.47616 4.1905 -21.47616" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32.3809 24c0 12.5714 -4.1905 21.4762 -4.1905 21.4762" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19.8096 16.7418c10.8871 -6.2857 20.6941 -7.10899 20.6941 -7.10899" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28.1902 31.2578c-10.8871 6.2857 -20.69411 7.109 -20.69411 7.109" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19.8093 31.2578C8.92217 24.9721 3.30566 16.8906 3.30566 16.8906" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28.1904 16.7422c10.8872 6.2857 16.5037 14.3671 16.5037 14.3671" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24 2c12.1502 0 22 9.8497 22 22s-9.8498 22 -22 22C11.8497 46 2 36.1502 2 24 2 11.8497 11.8497 2 24 2Z" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24.0001 15.6172c4.6287 0 8.3809 3.7523 8.3809 8.3809 0 4.6287 -3.7522 8.381 -8.3809 8.381s-8.381 -3.7523 -8.381 -8.381c0 -4.6286 3.7523 -8.3809 8.381 -8.3809Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15.6191 23.9996c0 -12.5714 4.1905 -21.47616 4.1905 -21.47616" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32.3809 24c0 12.5714 -4.1905 21.4762 -4.1905 21.4762" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19.8096 16.7418c10.8871 -6.2857 20.6941 -7.10899 20.6941 -7.10899" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28.1902 31.2578c-10.8871 6.2857 -20.69411 7.109 -20.69411 7.109" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19.8093 31.2578C8.92217 24.9721 3.30566 16.8906 3.30566 16.8906" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28.1904 16.7422c10.8872 6.2857 16.5037 14.3671 16.5037 14.3671" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24 2c12.1502 0 22 9.8497 22 22s-9.8498 22 -22 22C11.8497 46 2 36.1502 2 24 2 11.8497 11.8497 2 24 2Z" stroke-width="3"></path>
+    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24.0001 15.6172c4.6287 0 8.3809 3.7523 8.3809 8.3809 0 4.6287 -3.7522 8.381 -8.3809 8.381s-8.381 -3.7523 -8.381 -8.381c0 -4.6286 3.7523 -8.3809 8.381 -8.3809Z" stroke-width="3"></path>
   </g>
 </svg>

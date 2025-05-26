@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Text-Flow-Rows--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Text-Flow-Rows--Streamline-Sharp-Neon">
   <desc>
     Text Flow Rows Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="text-flow-rows">
-    <path id="Vector 1864" stroke="#000cfe" d="m18.1357 22.7374 4.0904 -4.0904 -4.0904 -4.0905" stroke-width="1"></path>
-    <path id="Vector 1865" stroke="#000cfe" d="M21.7148 18.647H7.9096" stroke-width="1"></path>
-    <path id="Vector 2189" stroke="#000cfe" d="m7.9096 15.5791 8.1808 -8.1808" stroke-width="1"></path>
-    <path id="Vector 2190" stroke="#000cfe" d="M7.9096 4.3304h8.1808" stroke-width="1"></path>
-    <path id="Rectangle 982" stroke="#c71dff" d="M1.7739 15.5791h6.1357v6.1357H1.7739Z" stroke-width="1"></path>
-    <path id="Rectangle 983" stroke="#c71dff" d="M1.7739 1.2626h6.1357v6.1357H1.7739Z" stroke-width="1"></path>
-    <path id="Rectangle 984" stroke="#c71dff" d="M16.0904 1.2626h6.1357v6.1357h-6.1357Z" stroke-width="1"></path>
+    <path id="Vector 1864" stroke="#000cfe" d="m17.380045833333334 21.790008333333336 3.919966666666667 -3.919966666666667 -3.919966666666667 -3.9200625" stroke-width="1"></path>
+    <path id="Vector 1865" stroke="#000cfe" d="M20.81001666666667 17.870041666666665H7.580033333333334" stroke-width="1"></path>
+    <path id="Vector 2189" stroke="#000cfe" d="m7.580033333333334 14.929970833333334 7.839933333333334 -7.839933333333334" stroke-width="1"></path>
+    <path id="Vector 2190" stroke="#000cfe" d="M7.580033333333334 4.149966666666667h7.839933333333334" stroke-width="1"></path>
+    <path id="Rectangle 982" stroke="#c71dff" d="M1.6999875000000002 14.929970833333334h5.880045833333334v5.880045833333334H1.6999875000000002Z" stroke-width="1"></path>
+    <path id="Rectangle 983" stroke="#c71dff" d="M1.6999875000000002 1.2099916666666666h5.880045833333334v5.880045833333334H1.6999875000000002Z" stroke-width="1"></path>
+    <path id="Rectangle 984" stroke="#c71dff" d="M15.419966666666665 1.2099916666666666h5.880045833333334v5.880045833333334h-5.880045833333334Z" stroke-width="1"></path>
   </g>
 </svg>

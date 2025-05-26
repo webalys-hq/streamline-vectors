@@ -2,12 +2,12 @@
   <desc>
     Switch Account 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.1013 1.48779H4.8291c-0.55228 0 -1 0.44771 -1 1v6.61374" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.8987 22.5122h6.2722c0.5523 0 1 -0.4477 1 -1v-6.6138" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.22949 6.5 2.6008 2.6008L6.43109 6.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.7705 17.5002 -2.6008 -2.6008 -2.6008 2.6008" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.50474 18.5461c1.40908 0 2.55137 -1.1423 2.55137 -2.5514s-1.14229 -2.5513 -2.55137 -2.5513c-1.40908 0 -2.55137 1.1422 -2.55137 2.5513 0 1.4091 1.14229 2.5514 2.55137 2.5514Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.78157 22.5111c-0.55862 -1.8303 -2.28869 -3.2025 -4.27604 -3.2025 -1.98735 0 -3.71742 1.3722 -4.27604 3.2025" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.493 6.59102c1.4091 0 2.5514 -1.14228 2.5514 -2.55137 0 -1.40908 -1.1423 -2.55137 -2.5514 -2.55137s-2.5513 1.14229 -2.5513 2.55137c0 1.40909 1.1422 2.55137 2.5513 2.55137Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.7698 10.556c-0.5586 -1.83027 -2.2886 -3.20248 -4.276 -3.20248 -1.9873 0 -3.7174 1.37221 -4.276 3.20248" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.1013 1.48779H4.8291c-0.55228 0 -1 0.44771 -1 1v6.61374" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.8987 22.5122h6.2722c0.5523 0 1 -0.4477 1 -1v-6.6138" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m1.22949 6.5 2.6008 2.6008L6.43109 6.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.7705 17.5002 -2.6008 -2.6008 -2.6008 2.6008" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.50474 18.5461c1.40908 0 2.55137 -1.1423 2.55137 -2.5514s-1.14229 -2.5513 -2.55137 -2.5513c-1.40908 0 -2.55137 1.1422 -2.55137 2.5513 0 1.4091 1.14229 2.5514 2.55137 2.5514Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.78157 22.5111c-0.55862 -1.8303 -2.28869 -3.2025 -4.27604 -3.2025 -1.98735 0 -3.71742 1.3722 -4.27604 3.2025" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.493 6.59102c1.4091 0 2.5514 -1.14228 2.5514 -2.55137 0 -1.40908 -1.1423 -2.55137 -2.5514 -2.55137s-2.5513 1.14229 -2.5513 2.55137c0 1.40909 1.1422 2.55137 2.5513 2.55137Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M22.7698 10.556c-0.5586 -1.83027 -2.2886 -3.20248 -4.276 -3.20248 -1.9873 0 -3.7174 1.37221 -4.276 3.20248" stroke-width="1.5"></path>
 </svg>

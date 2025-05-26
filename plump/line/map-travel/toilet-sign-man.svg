@@ -3,8 +3,8 @@
     Toilet Sign Man Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="toilet-sign-man--toilet-sign-restroom-bathroom-user-human-person-man-male">
-    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.066 16.215c-1.617 0.134 -2.946 1.2 -3.457 2.74a54.265 54.265 0 0 0 -2.364 10.684c-0.183 1.595 1.012 2.979 2.615 3.08 0.644 0.04 1.384 0.082 2.207 0.12l0.746 9.326c0.11 1.372 1.14 2.494 2.51 2.633 1.06 0.107 2.368 0.202 3.677 0.202 1.309 0 2.618 -0.095 3.677 -0.202 1.37 -0.14 2.4 -1.26 2.51 -2.633l0.746 -9.326c0.823 -0.038 1.564 -0.08 2.208 -0.12 1.602 -0.101 2.798 -1.485 2.614 -3.08a54.266 54.266 0 0 0 -2.363 -10.684c-0.512 -1.54 -1.841 -2.606 -3.458 -2.74C28.566 16.1 26.616 16 24 16c-2.615 0 -4.566 0.101 -5.934 0.215Z" stroke-width="1"></path>
-    <path id="Ellipse 135" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.5 9.5a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="1"></path>
-    <path id="Vector 999" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m24 35 0 10" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.066 16.215c-1.617 0.134 -2.946 1.2 -3.457 2.74a54.265 54.265 0 0 0 -2.364 10.684c-0.183 1.595 1.012 2.979 2.615 3.08 0.644 0.04 1.384 0.082 2.207 0.12l0.746 9.326c0.11 1.372 1.14 2.494 2.51 2.633 1.06 0.107 2.368 0.202 3.677 0.202 1.309 0 2.618 -0.095 3.677 -0.202 1.37 -0.14 2.4 -1.26 2.51 -2.633l0.746 -9.326c0.823 -0.038 1.564 -0.08 2.208 -0.12 1.602 -0.101 2.798 -1.485 2.614 -3.08a54.266 54.266 0 0 0 -2.363 -10.684c-0.512 -1.54 -1.841 -2.606 -3.458 -2.74C28.566 16.1 26.616 16 24 16c-2.615 0 -4.566 0.101 -5.934 0.215Z" stroke-width="3"></path>
+    <path id="Ellipse 135" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.5 9.5a6.5 6.5 0 1 0 13 0 6.5 6.5 0 1 0 -13 0" stroke-width="3"></path>
+    <path id="Vector 999" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m24 35 0 10" stroke-width="3"></path>
   </g>
 </svg>

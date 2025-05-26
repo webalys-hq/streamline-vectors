@@ -3,10 +3,10 @@
     Paragraph Right To Left Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="paragraph-right-to-left--paragraph-right-left-alignment-formatting-text">
-    <path id="Vector" stroke="#000000" d="M23 18.5H2.5" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="m6 22.5 -4 -4 4 -4" stroke-width="1"></path>
-    <path id="Vector 2115" stroke="#000000" d="M19.714 2h-8.666a4 4 0 0 0 0 8h2.666" stroke-width="1"></path>
-    <path id="Vector 2116" stroke="#000000" d="M13.714 2v13.5" stroke-width="1"></path>
-    <path id="Vector 2117" stroke="#000000" d="M17.048 2v13.5" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="M23 18.5H2.5" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="m6 22.5 -4 -4 4 -4" stroke-width="1.5"></path>
+    <path id="Vector 2115" stroke="#000000" d="M19.714 2h-8.666a4 4 0 0 0 0 8h2.666" stroke-width="1.5"></path>
+    <path id="Vector 2116" stroke="#000000" d="M13.714 2v13.5" stroke-width="1.5"></path>
+    <path id="Vector 2117" stroke="#000000" d="M17.048 2v13.5" stroke-width="1.5"></path>
   </g>
 </svg>

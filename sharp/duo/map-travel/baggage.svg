@@ -3,10 +3,10 @@
     Baggage Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="baggage--check-baggage-travel-adventure-luggage-bag-checked-airport">
-    <path id="Rectangle 20" stroke="#4147d5" d="M17 7v-0.2A4.8 4.8 0 0 0 12.2 2h-0.4A4.8 4.8 0 0 0 7 6.8V7" stroke-width="1"></path>
-    <path id="Rectangle 19" fill="#d7e0ff" d="M2 7h20v15H2z" stroke-width="1"></path>
-    <path id="Rectangle 21" stroke="#4147d5" d="M2 7h20v15H2z" stroke-width="1"></path>
-    <path id="Vector 156" stroke="#4147d5" d="m5.5 7 0 15" stroke-width="1"></path>
-    <path id="Vector 157" stroke="#4147d5" d="m18.5 7 0 15" stroke-width="1"></path>
+    <path id="Rectangle 20" stroke="#4147d5" d="M17 7v-0.2A4.8 4.8 0 0 0 12.2 2h-0.4A4.8 4.8 0 0 0 7 6.8V7" stroke-width="1.5"></path>
+    <path id="Rectangle 19" fill="#d7e0ff" d="M2 7h20v15H2z" stroke-width="1.5"></path>
+    <path id="Rectangle 21" stroke="#4147d5" d="M2 7h20v15H2z" stroke-width="1.5"></path>
+    <path id="Vector 156" stroke="#4147d5" d="m5.5 7 0 15" stroke-width="1.5"></path>
+    <path id="Vector 157" stroke="#4147d5" d="m18.5 7 0 15" stroke-width="1.5"></path>
   </g>
 </svg>

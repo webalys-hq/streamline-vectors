@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Page-Break--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Page-Break--Streamline-Sharp-Neon">
   <desc>
     Page Break Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="page-break">
-    <path id="Rectangle 844" stroke="#c71dff" d="M20.1415 9.2862V6.5723l-4.523 -4.5231h-11.76v7.2369m0 5.4277v7.237h16.283v-7.237" stroke-width="1"></path>
-    <path id="Vector 3034" stroke="#000cfe" d="M22.8554 12h-3.6185" stroke-width="1"></path>
-    <path id="Vector 3035" stroke="#000cfe" d="M16.8248 12h-3.6185" stroke-width="1"></path>
-    <path id="Vector 3036" stroke="#000cfe" d="M10.7941 12H7.1757" stroke-width="1"></path>
-    <path id="Vector 3038" stroke="#000cfe" d="M4.7631 12H1.1446" stroke-width="1"></path>
+    <path id="Rectangle 844" stroke="#c71dff" d="M19.302270833333335 8.899275V6.298454166666668l-4.3345416666666665 -4.3346375h-11.27v6.935362500000001m0 5.201545833333333v6.935458333333334h15.604541666666668v-6.935458333333334" stroke-width="1"></path>
+    <path id="Vector 3034" stroke="#000cfe" d="M21.90309166666667 11.5h-3.467729166666667" stroke-width="1"></path>
+    <path id="Vector 3035" stroke="#000cfe" d="M16.12376666666667 11.5h-3.467729166666667" stroke-width="1"></path>
+    <path id="Vector 3036" stroke="#000cfe" d="M10.344345833333334 11.5H6.8767125" stroke-width="1"></path>
+    <path id="Vector 3038" stroke="#000cfe" d="M4.5646375 11.5H1.0969083333333334" stroke-width="1"></path>
   </g>
 </svg>

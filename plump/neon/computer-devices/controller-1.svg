@@ -3,12 +3,12 @@
     Controller 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="controller-1--remote-quadcopter-drones-flying-drone-control-controller-technology-fly">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M14.9923 15.9932V24" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18.9957 19.9966h-8.0068" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.0076 22.9992V24" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30.0051 19.9966h-1.0009" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.0076 15.9932v1.0008" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M37.011 19.9966h-1.0008" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46.0097 33.0329c-0.4384 -10.2198 -1.8021 -16.9478 -2.8753 -20.8067 -0.7319 -2.6314 -2.9959 -4.371 -5.6943 -4.633 -3.0522 -0.2964 -7.6384 -0.6077 -13.4401 -0.6077 -5.8017 0 -10.3879 0.3113 -13.4401 0.6077 -2.6984 0.262 -4.9625 2.0016 -5.6943 4.633 -1.0731 3.8589 -2.4369 10.5869 -2.8753 20.8067 -0.1798 4.1924 2.3405 7.9816 6.5032 7.9816 0.552 0 1.0697 -0.0176 1.5529 -0.0485 3.3434 -0.2133 5.6792 -2.8876 6.7236 -6.0965l0.0407 -0.1249c0.3482 -1.0696 1.1101 -1.9559 2.1922 -2.2341 1.1076 -0.2846 2.7733 -0.5704 4.9971 -0.5704 2.2238 0 3.8894 0.2858 4.997 0.5704 1.0821 0.2782 1.8441 1.1645 2.1923 2.2341l0.0406 0.1249c1.0445 3.2089 3.3803 5.8832 6.7236 6.0965 0.4833 0.0309 1.001 0.0485 1.553 0.0485 4.1627 0 6.683 -3.7892 6.5032 -7.9816Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M14.9923 15.9932V24" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18.9957 19.9966h-8.0068" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.0076 22.9992V24" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30.0051 19.9966h-1.0009" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.0076 15.9932v1.0008" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M37.011 19.9966h-1.0008" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46.0097 33.0329c-0.4384 -10.2198 -1.8021 -16.9478 -2.8753 -20.8067 -0.7319 -2.6314 -2.9959 -4.371 -5.6943 -4.633 -3.0522 -0.2964 -7.6384 -0.6077 -13.4401 -0.6077 -5.8017 0 -10.3879 0.3113 -13.4401 0.6077 -2.6984 0.262 -4.9625 2.0016 -5.6943 4.633 -1.0731 3.8589 -2.4369 10.5869 -2.8753 20.8067 -0.1798 4.1924 2.3405 7.9816 6.5032 7.9816 0.552 0 1.0697 -0.0176 1.5529 -0.0485 3.3434 -0.2133 5.6792 -2.8876 6.7236 -6.0965l0.0407 -0.1249c0.3482 -1.0696 1.1101 -1.9559 2.1922 -2.2341 1.1076 -0.2846 2.7733 -0.5704 4.9971 -0.5704 2.2238 0 3.8894 0.2858 4.997 0.5704 1.0821 0.2782 1.8441 1.1645 2.1923 2.2341l0.0406 0.1249c1.0445 3.2089 3.3803 5.8832 6.7236 6.0965 0.4833 0.0309 1.001 0.0485 1.553 0.0485 4.1627 0 6.683 -3.7892 6.5032 -7.9816Z" stroke-width="3"></path>
   </g>
 </svg>

@@ -3,14 +3,14 @@
     Dna Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="dna--science-biology-experiment-lab-science">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M34.4546 2.0459c-2.0909 7.31816 7.3183 23 -1.0453 31.3636 -4.089 4.089 -9.9272 3.9299 -15.682 2.9435" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.04565 34.4547c2.64111 -0.7546 6.37164 -0.0113 10.45435 0.8538" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.5454 45.9547c2.091 -7.3182 -7.31829 -23 1.0453 -31.3637 4.089 -4.0889 9.9272 -3.9298 15.682 -2.9434" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M45.9544 13.5462c-2.6411 0.7546 -6.3716 0.0113 -10.4544 -0.8538" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18.7727 18.7725 29.2272 29.227" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m26.0908 16.6816 5.2273 5.2273" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m16.6819 26.0908 5.2273 5.2273" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m39.6819 7.27246 1.0454 1.04546" stroke-width="1"></path>
-    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7.27271 39.6816 1.04545 1.0455" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M34.4546 2.0459c-2.0909 7.31816 7.3183 23 -1.0453 31.3636 -4.089 4.089 -9.9272 3.9299 -15.682 2.9435" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.04565 34.4547c2.64111 -0.7546 6.37164 -0.0113 10.45435 0.8538" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.5454 45.9547c2.091 -7.3182 -7.31829 -23 1.0453 -31.3637 4.089 -4.0889 9.9272 -3.9298 15.682 -2.9434" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M45.9544 13.5462c-2.6411 0.7546 -6.3716 0.0113 -10.4544 -0.8538" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18.7727 18.7725 29.2272 29.227" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m26.0908 16.6816 5.2273 5.2273" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m16.6819 26.0908 5.2273 5.2273" stroke-width="3"></path>
+    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m39.6819 7.27246 1.0454 1.04546" stroke-width="3"></path>
+    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m7.27271 39.6816 1.04545 1.0455" stroke-width="3"></path>
   </g>
 </svg>

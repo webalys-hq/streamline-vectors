@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Search-Bar--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Search-Bar--Streamline-Sharp-Neon">
   <desc>
     Search Bar Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="search-bar--search-bar-input-magnifier-text">
-    <path id="Vector 2458" stroke="#c71dff" d="M1 4h22v16H1V4Z" stroke-width="1"></path>
-    <path id="Vector" stroke="#000cfe" d="M17.9 11.7c0 1.7673 -1.4327 3.2 -3.2 3.2s-3.2 -1.4327 -3.2 -3.2c0 -1.76731 1.4327 -3.2 3.2 -3.2s3.2 1.43269 3.2 3.2Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="m19.5002 16.5002 -2.5373 -2.5373" stroke-width="1"></path>
+    <path id="Vector 2458" stroke="#c71dff" d="M0.9583333333333334 3.8333333333333335h21.083333333333336v15.333333333333334H0.9583333333333334V3.8333333333333335Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="M17.154166666666665 11.2125c0 1.6936625 -1.3730041666666668 3.066666666666667 -3.066666666666667 3.066666666666667s-3.066666666666667 -1.3730041666666668 -3.066666666666667 -3.066666666666667c0 -1.6936720833333334 1.3730041666666668 -3.066666666666667 3.066666666666667 -3.066666666666667s3.066666666666667 1.3729945833333335 3.066666666666667 3.066666666666667Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="m18.687691666666666 15.812691666666668 -2.431579166666667 -2.431579166666667" stroke-width="1"></path>
   </g>
 </svg>

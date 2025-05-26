@@ -3,13 +3,13 @@
     Flip Vertical Square 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="flip-vertical-square-1--design-down-flip-reflect-vertical">
-    <path id="Rectangle 700" fill="#d7e0ff" d="m2 10.95 20 0L22 2 2 2l0 8.95Z" stroke-width="1"></path>
-    <path id="Rectangle 701" stroke="#4147d5" d="m2 10.95 20 0L22 2 2 2l0 8.95Z" stroke-width="1"></path>
-    <path id="Vector 1382" stroke="#4147d5" d="m2 17 0 -3" stroke-width="1"></path>
-    <path id="Vector 1387" stroke="#4147d5" d="m10.5 22 -3 0" stroke-width="1"></path>
-    <path id="Vector 1388" stroke="#4147d5" d="m13.5 22 3 0" stroke-width="1"></path>
-    <path id="Vector 1386" stroke="#4147d5" d="m22 17 0 -3" stroke-width="1"></path>
-    <path id="Vector 1380" stroke="#4147d5" d="m22 19 0 3h-3" stroke-width="1"></path>
-    <path id="Vector 1381" stroke="#4147d5" d="m2 19 0 3h3" stroke-width="1"></path>
+    <path id="Rectangle 700" fill="#d7e0ff" d="m2 10.95 20 0L22 2 2 2l0 8.95Z" stroke-width="1.5"></path>
+    <path id="Rectangle 701" stroke="#4147d5" d="m2 10.95 20 0L22 2 2 2l0 8.95Z" stroke-width="1.5"></path>
+    <path id="Vector 1382" stroke="#4147d5" d="m2 17 0 -3" stroke-width="1.5"></path>
+    <path id="Vector 1387" stroke="#4147d5" d="m10.5 22 -3 0" stroke-width="1.5"></path>
+    <path id="Vector 1388" stroke="#4147d5" d="m13.5 22 3 0" stroke-width="1.5"></path>
+    <path id="Vector 1386" stroke="#4147d5" d="m22 17 0 -3" stroke-width="1.5"></path>
+    <path id="Vector 1380" stroke="#4147d5" d="m22 19 0 3h-3" stroke-width="1.5"></path>
+    <path id="Vector 1381" stroke="#4147d5" d="m2 19 0 3h3" stroke-width="1.5"></path>
   </g>
 </svg>

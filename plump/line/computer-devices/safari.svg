@@ -3,14 +3,14 @@
     Safari Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="safari">
-    <path id="Ellipse 18" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3c11.598 0 21 9.402 21 21s-9.402 21 -21 21S3 35.598 3 24 12.402 2.99999 24 3Z" stroke-width="1"></path>
-    <path id="Ellipse 41" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M29 29c-1.1491 1.1491 -8.0991 3.4993 -12.453 4.8929 -1.5179 0.4859 -2.927 -0.9223 -2.4418 -2.4405C15.4957 27.1015 17.8415 20.1585 19 19s8.1015 -3.5043 12.4524 -4.8948c1.5182 -0.4852 2.9264 0.9239 2.4405 2.4418C32.4993 20.9009 30.1491 27.8509 29 29Z" stroke-width="1"></path>
-    <path id="Vector 1500" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m24 7 0 1" stroke-width="1"></path>
-    <path id="Vector 1510" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.9795 11.9795 0.7071 0.7071" stroke-width="1"></path>
-    <path id="Vector 1508" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 24 1 0" stroke-width="1"></path>
-    <path id="Vector 1507" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m24 41 0 -1" stroke-width="1"></path>
-    <path id="Vector 1511" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m36.0205 36.0205 -0.7071 -0.7071" stroke-width="1"></path>
-    <path id="Vector 1509" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M41 24h-1" stroke-width="1"></path>
-    <path id="Vector 1506" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19 19 10 10" stroke-width="1"></path>
+    <path id="Ellipse 18" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 3c11.598 0 21 9.402 21 21s-9.402 21 -21 21S3 35.598 3 24 12.402 2.99999 24 3Z" stroke-width="3"></path>
+    <path id="Ellipse 41" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M29 29c-1.1491 1.1491 -8.0991 3.4993 -12.453 4.8929 -1.5179 0.4859 -2.927 -0.9223 -2.4418 -2.4405C15.4957 27.1015 17.8415 20.1585 19 19s8.1015 -3.5043 12.4524 -4.8948c1.5182 -0.4852 2.9264 0.9239 2.4405 2.4418C32.4993 20.9009 30.1491 27.8509 29 29Z" stroke-width="3"></path>
+    <path id="Vector 1500" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m24 7 0 1" stroke-width="3"></path>
+    <path id="Vector 1510" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m11.9795 11.9795 0.7071 0.7071" stroke-width="3"></path>
+    <path id="Vector 1508" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7 24 1 0" stroke-width="3"></path>
+    <path id="Vector 1507" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m24 41 0 -1" stroke-width="3"></path>
+    <path id="Vector 1511" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m36.0205 36.0205 -0.7071 -0.7071" stroke-width="3"></path>
+    <path id="Vector 1509" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M41 24h-1" stroke-width="3"></path>
+    <path id="Vector 1506" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19 19 10 10" stroke-width="3"></path>
   </g>
 </svg>

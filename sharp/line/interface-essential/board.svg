@@ -3,8 +3,8 @@
     Board Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="board">
-    <path id="Rectangle 433" stroke="#000000" d="M2 2h20v20H2z" stroke-width="1"></path>
-    <path id="Rectangle 434" stroke="#000000" d="M5.331 5.5h5v13h-5z" stroke-width="1"></path>
-    <path id="Rectangle 435" stroke="#000000" d="M13.669 5.5h5V12h-5z" stroke-width="1"></path>
+    <path id="Rectangle 433" stroke="#000000" d="M2 2h20v20H2z" stroke-width="1.5"></path>
+    <path id="Rectangle 434" stroke="#000000" d="M5.331 5.5h5v13h-5z" stroke-width="1.5"></path>
+    <path id="Rectangle 435" stroke="#000000" d="M13.669 5.5h5V12h-5z" stroke-width="1.5"></path>
   </g>
 </svg>

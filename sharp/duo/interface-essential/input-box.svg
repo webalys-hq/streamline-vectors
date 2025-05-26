@@ -3,11 +3,11 @@
     Input Box Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="input-box--cursor-text-formatting-type-format">
-    <path id="Rectangle 1713" fill="#d7e0ff" d="M2 7h20v10H2z" stroke-width="1"></path>
-    <path id="Vector 2144" stroke="#4147d5" d="M6 3h8" stroke-width="1"></path>
-    <path id="Vector 2145" stroke="#4147d5" d="M6 21h8" stroke-width="1"></path>
-    <path id="Vector 2146" stroke="#4147d5" d="M10 21V3" stroke-width="1"></path>
-    <path id="Vector 2147" stroke="#4147d5" d="M13 7h9v10h-9" stroke-width="1"></path>
-    <path id="Vector 2148" stroke="#4147d5" d="M7 7H2v10h5" stroke-width="1"></path>
+    <path id="Rectangle 1713" fill="#d7e0ff" d="M2 7h20v10H2z" stroke-width="1.5"></path>
+    <path id="Vector 2144" stroke="#4147d5" d="M6 3h8" stroke-width="1.5"></path>
+    <path id="Vector 2145" stroke="#4147d5" d="M6 21h8" stroke-width="1.5"></path>
+    <path id="Vector 2146" stroke="#4147d5" d="M10 21V3" stroke-width="1.5"></path>
+    <path id="Vector 2147" stroke="#4147d5" d="M13 7h9v10h-9" stroke-width="1.5"></path>
+    <path id="Vector 2148" stroke="#4147d5" d="M7 7H2v10h5" stroke-width="1.5"></path>
   </g>
 </svg>

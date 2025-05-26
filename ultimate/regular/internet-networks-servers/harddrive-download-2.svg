@@ -2,12 +2,12 @@
   <desc>
     Harddrive Download 2 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.99899 7.50098 11.999 10.501l3 -3.00002" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.999 10.501V0.750977" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.99899 18.751h-3.75" stroke-width="1"></path>
-  <path stroke="#000000" d="M15.374 19.126c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M15.374 19.126c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M19.124 19.126c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M19.124 19.126c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.749 23.251H5.24899c-1.19347 0 -2.33806 -0.4741 -3.18198 -1.318 -0.84391 -0.844 -1.318017 -1.9886 -1.318017 -3.182 0 -1.1935 0.474107 -2.3381 1.318017 -3.182 0.84392 -0.8439 1.98851 -1.318 3.18198 -1.318H18.749c1.1935 0 2.3381 0.4741 3.182 1.318 0.8439 0.8439 1.318 1.9885 1.318 3.182 0 1.1934 -0.4741 2.338 -1.318 3.182 -0.8439 0.8439 -1.9885 1.318 -3.182 1.318Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.99899 7.50098 11.999 10.501l3 -3.00002" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.999 10.501V0.750977" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.99899 18.751h-3.75" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M15.374 19.126c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M15.374 19.126c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M19.124 19.126c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M19.124 19.126c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.749 23.251H5.24899c-1.19347 0 -2.33806 -0.4741 -3.18198 -1.318 -0.84391 -0.844 -1.318017 -1.9886 -1.318017 -3.182 0 -1.1935 0.474107 -2.3381 1.318017 -3.182 0.84392 -0.8439 1.98851 -1.318 3.18198 -1.318H18.749c1.1935 0 2.3381 0.4741 3.182 1.318 0.8439 0.8439 1.318 1.9885 1.318 3.182 0 1.1934 -0.4741 2.338 -1.318 3.182 -0.8439 0.8439 -1.9885 1.318 -3.182 1.318Z" stroke-width="1.5"></path>
 </svg>

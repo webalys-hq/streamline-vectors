@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Medical-Folder--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Medical-Folder--Streamline-Sharp-Neon">
   <desc>
     Medical Folder Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="medical-folder--medical-folder-report-history-cross">
-    <path id="Rectangle 18" stroke="#c71dff" d="M1.3091 1.8436h6.4146L12 6.12h10.6909v16.0364H1.3091V1.8436Z" stroke-width="1"></path>
-    <path id="Rectangle 2" stroke="#000cfe" d="M13.9304 12.1956h2.3339v3.861h-2.3339v2.3338h-3.8608v-2.3338H7.7357v-3.861h2.3339V9.8618h3.8608v2.3338Z" stroke-width="1"></path>
+    <path id="Rectangle 18" stroke="#c71dff" d="M1.2545541666666666 1.7667833333333334h6.147325L11.5 5.865h10.245445833333333v15.368216666666667H1.2545541666666666V1.7667833333333334Z" stroke-width="1"></path>
+    <path id="Rectangle 2" stroke="#000cfe" d="M13.349966666666667 11.687450000000002h2.236654166666667v3.7001250000000003h-2.236654166666667v2.2365583333333334h-3.699933333333333v-2.2365583333333334H7.413379166666666v-3.7001250000000003h2.236654166666667V9.450891666666667h3.699933333333333v2.2365583333333334Z" stroke-width="1"></path>
   </g>
 </svg>

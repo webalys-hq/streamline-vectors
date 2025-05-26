@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Input-Box--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Input-Box--Streamline-Sharp-Neon">
   <desc>
     Input Box Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="input-box--cursor-text-formatting-type-format">
-    <path id="Vector 2144" stroke="#000cfe" d="M5 2h10" stroke-width="1"></path>
-    <path id="Vector 2145" stroke="#000cfe" d="M5 22h10" stroke-width="1"></path>
-    <path id="Vector 2146" stroke="#000cfe" d="M10 22V2" stroke-width="1"></path>
-    <path id="Vector 2148" stroke="#c71dff" d="M7 7 2 7v10h5" stroke-width="1"></path>
-    <path id="Vector 2149" stroke="#c71dff" d="M13 7h9v10h-9" stroke-width="1"></path>
+    <path id="Vector 2144" stroke="#000cfe" d="M4.791666666666667 1.9166666666666667h9.583333333333334" stroke-width="1"></path>
+    <path id="Vector 2145" stroke="#000cfe" d="M4.791666666666667 21.083333333333336h9.583333333333334" stroke-width="1"></path>
+    <path id="Vector 2146" stroke="#000cfe" d="M9.583333333333334 21.083333333333336V1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 2148" stroke="#c71dff" d="M6.708333333333334 6.708333333333334 1.9166666666666667 6.708333333333334v9.583333333333334h4.791666666666667" stroke-width="1"></path>
+    <path id="Vector 2149" stroke="#c71dff" d="M12.458333333333334 6.708333333333334h8.625v9.583333333333334h-8.625" stroke-width="1"></path>
   </g>
 </svg>

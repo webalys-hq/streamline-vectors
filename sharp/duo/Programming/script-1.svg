@@ -3,11 +3,11 @@
     Script 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="script-1--language-programming-code">
-    <path id="Vector 2651" fill="#d7e0ff" d="M18 22H2v-6h2.99998l0.00006 -14H22.0001v6H18v14Z" stroke-width="1"></path>
-    <path id="Rectangle 821" stroke="#4147d5" d="M14.25 22h3.25H2l0 -6 12.25 0v4" stroke-width="1"></path>
-    <path id="Vector 2068" stroke="#4147d5" d="M13.5 22H18V4.5" stroke-width="1"></path>
-    <path id="Vector 2066" stroke="#4147d5" d="M8 8h7" stroke-width="1"></path>
-    <path id="Vector 2067" stroke="#4147d5" d="M8 12h7" stroke-width="1"></path>
-    <path id="Vector 2649" stroke="#4147d5" d="M5 16V2h17v6h-4" stroke-width="1"></path>
+    <path id="Vector 2651" fill="#d7e0ff" d="M18 22H2v-6h2.99998l0.00006 -14H22.0001v6H18v14Z" stroke-width="1.5"></path>
+    <path id="Rectangle 821" stroke="#4147d5" d="M14.25 22h3.25H2l0 -6 12.25 0v4" stroke-width="1.5"></path>
+    <path id="Vector 2068" stroke="#4147d5" d="M13.5 22H18V4.5" stroke-width="1.5"></path>
+    <path id="Vector 2066" stroke="#4147d5" d="M8 8h7" stroke-width="1.5"></path>
+    <path id="Vector 2067" stroke="#4147d5" d="M8 12h7" stroke-width="1.5"></path>
+    <path id="Vector 2649" stroke="#4147d5" d="M5 16V2h17v6h-4" stroke-width="1.5"></path>
   </g>
 </svg>

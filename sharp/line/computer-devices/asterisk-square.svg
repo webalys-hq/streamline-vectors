@@ -3,9 +3,9 @@
     Asterisk Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="asterisk-square--asterisk-star-keyboard-keyboard">
-    <path id="Vector" stroke="#000000" d="M12 6v12" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="M17.143 8.571 6.857 15.428" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000000" d="m6.857 8.571 10.286 6.857" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000000" d="M22 2H2v20h20V2Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="M12 6v12" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="M17.143 8.571 6.857 15.428" stroke-width="1.5"></path>
+    <path id="Vector_3" stroke="#000000" d="m6.857 8.571 10.286 6.857" stroke-width="1.5"></path>
+    <path id="Vector_4" stroke="#000000" d="M22 2H2v20h20V2Z" stroke-width="1.5"></path>
   </g>
 </svg>

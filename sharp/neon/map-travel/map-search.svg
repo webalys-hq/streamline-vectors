@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Map-Search--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Map-Search--Streamline-Sharp-Neon">
   <desc>
     Map Search Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="map-search--map-search-magnifier-navigation-gps-travel">
-    <path id="Vector" stroke="#000cfe" d="M21 17c0 2.2091 -1.7909 4 -4 4 -2.2091 0 -4 -1.7909 -4 -4 0 -2.2091 1.7909 -4 4 -4 2.2091 0 4 1.7909 4 4Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="m23 22.9997 -3.1716 -3.1716" stroke-width="1"></path>
-    <path id="Union" stroke="#c71dff" d="M22 10.0001V2.00009l-6.6667 1.5 -6.66664 -1.5L2 3.53855V22.0001L8.66666 20.5v-2.4999" stroke-width="1"></path>
-    <path id="Union_2" stroke="#c71dff" d="M8.66666 18V2" stroke-width="1"></path>
-    <path id="Union_3" stroke="#c71dff" d="M15.3333 3.5V10" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="M20.125 16.291666666666668c0 2.1170541666666667 -1.7162791666666666 3.8333333333333335 -3.8333333333333335 3.8333333333333335 -2.1170541666666667 0 -3.8333333333333335 -1.7162791666666666 -3.8333333333333335 -3.8333333333333335 0 -2.1170541666666667 1.7162791666666666 -3.8333333333333335 3.8333333333333335 -3.8333333333333335 2.1170541666666667 0 3.8333333333333335 1.7162791666666666 3.8333333333333335 3.8333333333333335Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="m22.041666666666668 22.04137916666667 -3.0394500000000004 -3.0394500000000004" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" d="M21.083333333333336 9.583429166666667V1.9167529166666668l-6.388920833333334 1.4375 -6.388863333333334 -1.4375L1.9166666666666667 3.391110416666667V21.08342916666667L8.305549166666667 19.645833333333336v-2.3957375" stroke-width="1"></path>
+    <path id="Union_2" stroke="#c71dff" d="M8.305549166666667 17.25V1.9166666666666667" stroke-width="1"></path>
+    <path id="Union_3" stroke="#c71dff" d="M14.6944125 3.354166666666667V9.583333333333334" stroke-width="1"></path>
   </g>
 </svg>

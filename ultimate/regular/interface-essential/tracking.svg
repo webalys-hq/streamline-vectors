@@ -2,9 +2,9 @@
   <desc>
     Tracking Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12.8408 14.9499 3.1028 -12.41101c0.1604 -0.64155 0.7368 -1.09162 1.3981 -1.09162 0.6613 0 1.2377 0.45006 1.3981 1.09162l3.1028 12.41101M13.966 10.449h6.7514" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.4443 1.44849 8.34157 13.8594c-0.16039 0.6416 -0.73682 1.0917 -1.39812 1.0917s-1.23774 -0.4501 -1.39813 -1.0917L2.44257 1.44849" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.0479 20.0918H1.95215" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.40918 22.5526 -2.4596 -2.4596 2.4596 -2.4595" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19.5889 17.6348 2.4596 2.4596 -2.4596 2.4595" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12.8408 14.9499 3.1028 -12.41101c0.1604 -0.64155 0.7368 -1.09162 1.3981 -1.09162 0.6613 0 1.2377 0.45006 1.3981 1.09162l3.1028 12.41101M13.966 10.449h6.7514" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.4443 1.44849 8.34157 13.8594c-0.16039 0.6416 -0.73682 1.0917 -1.39812 1.0917s-1.23774 -0.4501 -1.39813 -1.0917L2.44257 1.44849" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.0479 20.0918H1.95215" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m4.40918 22.5526 -2.4596 -2.4596 2.4596 -2.4595" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19.5889 17.6348 2.4596 2.4596 -2.4596 2.4595" stroke-width="1.5"></path>
 </svg>

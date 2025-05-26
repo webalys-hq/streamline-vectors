@@ -3,10 +3,10 @@
     Database Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="database--raid-storage-code-disk-programming-database-array-hard-disc">
-    <path id="Ellipse 712" fill="#d7e0ff" d="M12 21.5c5.523 0 10 -1.567 10 -3.5V5.5H2V18c0 1.933 4.477 3.5 10 3.5Z" stroke-width="1"></path>
-    <path id="Ellipse 713" fill="#ffffff" d="M22 5.5C22 7.433 17.523 9 12 9S2 7.433 2 5.5 6.477 2 12 2s10 1.567 10 3.5Z" stroke-width="1"></path>
-    <path id="Ellipse 709" stroke="#4147d5" d="M22 5.5C22 7.433 17.523 9 12 9S2 7.433 2 5.5 6.477 2 12 2s10 1.567 10 3.5Z" stroke-width="1"></path>
-    <path id="Ellipse 710" stroke="#4147d5" d="M22 11.5c0 1.933 -4.477 3.5 -10 3.5S2 13.433 2 11.5" stroke-width="1"></path>
-    <path id="Ellipse 711" stroke="#4147d5" d="M22 5.5V18c0 1.933 -4.477 3.5 -10 3.5S2 19.933 2 18V5.5" stroke-width="1"></path>
+    <path id="Ellipse 712" fill="#d7e0ff" d="M12 21.5c5.523 0 10 -1.567 10 -3.5V5.5H2V18c0 1.933 4.477 3.5 10 3.5Z" stroke-width="1.5"></path>
+    <path id="Ellipse 713" fill="#ffffff" d="M22 5.5C22 7.433 17.523 9 12 9S2 7.433 2 5.5 6.477 2 12 2s10 1.567 10 3.5Z" stroke-width="1.5"></path>
+    <path id="Ellipse 709" stroke="#4147d5" d="M22 5.5C22 7.433 17.523 9 12 9S2 7.433 2 5.5 6.477 2 12 2s10 1.567 10 3.5Z" stroke-width="1.5"></path>
+    <path id="Ellipse 710" stroke="#4147d5" d="M22 11.5c0 1.933 -4.477 3.5 -10 3.5S2 13.433 2 11.5" stroke-width="1.5"></path>
+    <path id="Ellipse 711" stroke="#4147d5" d="M22 5.5V18c0 1.933 -4.477 3.5 -10 3.5S2 19.933 2 18V5.5" stroke-width="1.5"></path>
   </g>
 </svg>

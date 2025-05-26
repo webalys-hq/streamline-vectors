@@ -2,17 +2,17 @@
   <desc>
     Treasure Chest Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 9.25h22.5v11.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929H1.75c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C0.855357 21.2696 0.75 21.0152 0.75 20.75V9.25Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.75 2.25h18.5c0.5304 0 1.0391 0.21071 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v5H0.75v-5c0 -0.53043 0.210714 -1.03914 0.58579 -1.41421C1.71086 2.46071 2.21957 2.25 2.75 2.25Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.25 13.25v8.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.25 2.25v7" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.75v6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 2.25v7" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.75 13.25v8.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.75 2.25v7" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 13.25h7.71" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.54 13.25h7.71" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 12c0 0.9946 -0.3951 1.9484 -1.0983 2.6517 -0.7033 0.7032 -1.6571 1.0983 -2.6517 1.0983 -0.9946 0 -1.9484 -0.3951 -2.65165 -1.0983C8.64509 13.9484 8.25 12.9946 8.25 12V9.25h7.5V12Z" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 12.75c-0.2071 0 -0.375 -0.1679 -0.375 -0.375S11.7929 12 12 12" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 12.75c0.2071 0 0.375 -0.1679 0.375 -0.375S12.2071 12 12 12" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 9.25h22.5v11.5c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929H1.75c-0.26522 0 -0.51957 -0.1054 -0.70711 -0.2929C0.855357 21.2696 0.75 21.0152 0.75 20.75V9.25Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.75 2.25h18.5c0.5304 0 1.0391 0.21071 1.4142 0.58579 0.3751 0.37507 0.5858 0.88378 0.5858 1.41421v5H0.75v-5c0 -0.53043 0.210714 -1.03914 0.58579 -1.41421C1.71086 2.46071 2.21957 2.25 2.75 2.25Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.25 13.25v8.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.25 2.25v7" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 15.75v6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 2.25v7" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.75 13.25v8.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.75 2.25v7" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 13.25h7.71" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.54 13.25h7.71" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 12c0 0.9946 -0.3951 1.9484 -1.0983 2.6517 -0.7033 0.7032 -1.6571 1.0983 -2.6517 1.0983 -0.9946 0 -1.9484 -0.3951 -2.65165 -1.0983C8.64509 13.9484 8.25 12.9946 8.25 12V9.25h7.5V12Z" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 12.75c-0.2071 0 -0.375 -0.1679 -0.375 -0.375S11.7929 12 12 12" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 12.75c0.2071 0 0.375 -0.1679 0.375 -0.375S12.2071 12 12 12" stroke-width="1.5"></path>
 </svg>

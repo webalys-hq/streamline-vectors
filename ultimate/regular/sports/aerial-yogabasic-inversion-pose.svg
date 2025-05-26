@@ -2,10 +2,10 @@
   <desc>
     Aerial Yogabasic Inversion Pose Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M14.45 7.5498H9.54999" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M8 0.75 6.00781 9l2.9375 2.7422L10.5 0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m16 0.75 1.9688 8.17969 -2.9141 2.72651L13.5 0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.0001 23.25c1.6568 0 3 -1.3432 3 -3 0 -1.6569 -1.3432 -3 -3 -3 -1.6569 0 -3.00004 1.3431 -3.00004 3 0 1.6568 1.34314 3 3.00004 3Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m9.50391 18.5818 -3.45386 2.168c-0.9 0.5 -2 0.2 -2.4 -0.7 -0.4 -0.7 -0.1 -1.7 0.6 -2.1l4.7 -2.9v-3.3L4.35004 7.44978c-0.8 -0.7 -0.89999 -1.9 -0.19999 -2.7 0.7 -0.9 2 -1 2.8 -0.2l0.12026 0.05942" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m14.3516 18.3908 3.5984 2.2593c0.8 0.5 1.9 0.2 2.4 -0.7 0.4 -0.8 0.1 -1.7 -0.6 -2.1l-4.7 -2.9v-3.3l4.6 -4.3c0.8 -0.7 0.8 -1.89999 0.2 -2.69999 -0.7 -0.9 -2 -0.90001 -2.8 -0.20001l-0.1359 0.08914" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M14.45 7.5498H9.54999" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M8 0.75 6.00781 9l2.9375 2.7422L10.5 0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m16 0.75 1.9688 8.17969 -2.9141 2.72651L13.5 0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.0001 23.25c1.6568 0 3 -1.3432 3 -3 0 -1.6569 -1.3432 -3 -3 -3 -1.6569 0 -3.00004 1.3431 -3.00004 3 0 1.6568 1.34314 3 3.00004 3Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m9.50391 18.5818 -3.45386 2.168c-0.9 0.5 -2 0.2 -2.4 -0.7 -0.4 -0.7 -0.1 -1.7 0.6 -2.1l4.7 -2.9v-3.3L4.35004 7.44978c-0.8 -0.7 -0.89999 -1.9 -0.19999 -2.7 0.7 -0.9 2 -1 2.8 -0.2l0.12026 0.05942" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m14.3516 18.3908 3.5984 2.2593c0.8 0.5 1.9 0.2 2.4 -0.7 0.4 -0.8 0.1 -1.7 -0.6 -2.1l-4.7 -2.9v-3.3l4.6 -4.3c0.8 -0.7 0.8 -1.89999 0.2 -2.69999 -0.7 -0.9 -2 -0.90001 -2.8 -0.20001l-0.1359 0.08914" stroke-width="1.5"></path>
 </svg>

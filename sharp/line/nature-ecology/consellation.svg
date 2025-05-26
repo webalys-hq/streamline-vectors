@@ -3,14 +3,14 @@
     Consellation Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="consellation--science-space-universe-star">
-    <path id="Vector 3003" stroke="#000000" d="M19.5 7V1" stroke-width="1"></path>
-    <path id="Ellipse 1218" stroke="#000000" d="M17 9.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1219" stroke="#000000" d="M11.5 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1220" stroke="#000000" d="M2 16a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1221" stroke="#000000" d="M5.5 6.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Vector 3002" stroke="#000000" d="m6.846 16.864 4.807 1.771" stroke-width="1"></path>
-    <path id="Vector 3004" stroke="#000000" d="m15.205 17.309 3.09 -5.618" stroke-width="1"></path>
-    <path id="Vector 3005" stroke="#000000" d="m7.136 8.846 -1.772 4.807" stroke-width="1"></path>
-    <path id="Vector 3006" stroke="#000000" d="m17.08 8.868 -6.66 -1.737" stroke-width="1"></path>
+    <path id="Vector 3003" stroke="#000000" d="M19.5 7V1" stroke-width="1.5"></path>
+    <path id="Ellipse 1218" stroke="#000000" d="M17 9.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1219" stroke="#000000" d="M11.5 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1220" stroke="#000000" d="M2 16a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1221" stroke="#000000" d="M5.5 6.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Vector 3002" stroke="#000000" d="m6.846 16.864 4.807 1.771" stroke-width="1.5"></path>
+    <path id="Vector 3004" stroke="#000000" d="m15.205 17.309 3.09 -5.618" stroke-width="1.5"></path>
+    <path id="Vector 3005" stroke="#000000" d="m7.136 8.846 -1.772 4.807" stroke-width="1.5"></path>
+    <path id="Vector 3006" stroke="#000000" d="m17.08 8.868 -6.66 -1.737" stroke-width="1.5"></path>
   </g>
 </svg>

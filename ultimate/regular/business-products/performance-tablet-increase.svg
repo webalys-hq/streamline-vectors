@@ -2,11 +2,11 @@
   <desc>
     Performance Tablet Increase Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m23.25 20.985 -1.49 -2.235V13.5c0 -2 -3.8 -4.14 -5.25 -5.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18.44 14.793 -3.648 -2.923c-0.2444 -0.2444 -0.5759 -0.3817 -0.9215 -0.3817 -0.3457 0 -0.6771 0.1373 -0.9215 0.3817 -0.2444 0.2444 -0.3817 0.5759 -0.3817 0.9215s0.1373 0.6771 0.3817 0.9215l3.533 3.987v2.5c0 1.181 1.688 3.045 1.688 3.045" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.51 21.75H2.13401c-0.3645 -0.0003 -0.71398 -0.1452 -0.97163 -0.4031 -0.257642 -0.2578 -0.40237 -0.6074 -0.40237 -0.9719V2.124c0 -0.36441 0.14476 -0.71389 0.40244 -0.97156C1.42012 0.894761 1.7696 0.75 2.13401 0.75H15.134c0.1806 -0.000131 0.3594 0.035304 0.5263 0.104283 0.1668 0.068979 0.3185 0.170147 0.4463 0.297737 0.1277 0.12759 0.2291 0.27909 0.2984 0.44587 0.0692 0.16677 0.1049 0.34554 0.105 0.52611v11.123" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.76001 3.75H12.76v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.76 3.75 3.76001 12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 15.75v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 13.5v5.25" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m23.25 20.985 -1.49 -2.235V13.5c0 -2 -3.8 -4.14 -5.25 -5.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m18.44 14.793 -3.648 -2.923c-0.2444 -0.2444 -0.5759 -0.3817 -0.9215 -0.3817 -0.3457 0 -0.6771 0.1373 -0.9215 0.3817 -0.2444 0.2444 -0.3817 0.5759 -0.3817 0.9215s0.1373 0.6771 0.3817 0.9215l3.533 3.987v2.5c0 1.181 1.688 3.045 1.688 3.045" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.51 21.75H2.13401c-0.3645 -0.0003 -0.71398 -0.1452 -0.97163 -0.4031 -0.257642 -0.2578 -0.40237 -0.6074 -0.40237 -0.9719V2.124c0 -0.36441 0.14476 -0.71389 0.40244 -0.97156C1.42012 0.894761 1.7696 0.75 2.13401 0.75H15.134c0.1806 -0.000131 0.3594 0.035304 0.5263 0.104283 0.1668 0.068979 0.3185 0.170147 0.4463 0.297737 0.1277 0.12759 0.2291 0.27909 0.2984 0.44587 0.0692 0.16677 0.1049 0.34554 0.105 0.52611v11.123" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.76001 3.75H12.76v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.76 3.75 3.76001 12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 15.75v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 13.5v5.25" stroke-width="1.5"></path>
 </svg>

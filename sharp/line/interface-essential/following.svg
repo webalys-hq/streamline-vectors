@@ -3,9 +3,9 @@
     Following Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="following">
-    <path id="Ellipse 442" stroke="#000000" d="M10.063 18.5H2v-2.8a17.421 17.421 0 0 1 8.5 -2.2c1.556 0 3.064 0.203 4.5 0.584" stroke-width="1"></path>
-    <path id="Ellipse 350" stroke="#000000" d="M6.5 6.25a4.25 4.25 0 1 0 8.5 0 4.25 4.25 0 1 0 -8.5 0" stroke-width="1"></path>
-    <path id="Vector" stroke="#000000" d="M22 18.5h-9" stroke-width="1"></path>
-    <path id="Vector 2988" stroke="#000000" d="m18 14.5 4 4 -4 4" stroke-width="1"></path>
+    <path id="Ellipse 442" stroke="#000000" d="M10.063 18.5H2v-2.8a17.421 17.421 0 0 1 8.5 -2.2c1.556 0 3.064 0.203 4.5 0.584" stroke-width="1.5"></path>
+    <path id="Ellipse 350" stroke="#000000" d="M6.5 6.25a4.25 4.25 0 1 0 8.5 0 4.25 4.25 0 1 0 -8.5 0" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000000" d="M22 18.5h-9" stroke-width="1.5"></path>
+    <path id="Vector 2988" stroke="#000000" d="m18 14.5 4 4 -4 4" stroke-width="1.5"></path>
   </g>
 </svg>

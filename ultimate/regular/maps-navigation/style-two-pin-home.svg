@@ -2,7 +2,7 @@
   <desc>
     Style Two Pin Home Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 8.75403V14.254H9V8.75403" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.5 9.75403 4.5 -3 4.5 3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 9.75403C21 17.654 14.068 22.085 12.371 23.054c-0.1131 0.0647 -0.2412 0.0987 -0.3715 0.0987s-0.2584 -0.034 -0.3715 -0.0987C9.931 22.084 3 17.652 3 9.75403c0 -2.38695 0.94821 -4.67614 2.63604 -6.36396C7.32387 1.70224 9.61305 0.754028 12 0.754028c2.3869 0 4.6761 0.948212 6.364 2.636042C20.0518 5.07789 21 7.36708 21 9.75403Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 8.75403V14.254H9V8.75403" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m7.5 9.75403 4.5 -3 4.5 3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 9.75403C21 17.654 14.068 22.085 12.371 23.054c-0.1131 0.0647 -0.2412 0.0987 -0.3715 0.0987s-0.2584 -0.034 -0.3715 -0.0987C9.931 22.084 3 17.652 3 9.75403c0 -2.38695 0.94821 -4.67614 2.63604 -6.36396C7.32387 1.70224 9.61305 0.754028 12 0.754028c2.3869 0 4.6761 0.948212 6.364 2.636042C20.0518 5.07789 21 7.36708 21 9.75403Z" stroke-width="1.5"></path>
 </svg>

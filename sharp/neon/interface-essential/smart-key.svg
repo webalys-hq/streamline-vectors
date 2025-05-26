@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Smart-Key--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Smart-Key--Streamline-Sharp-Neon">
   <desc>
     Smart Key Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="smart-key--smart-key-entry-lock-login-pass-unlock-access-signal-wifi">
-    <path id="Ellipse 352" stroke="#000cfe" d="M12.2503 4.4392c-1.2807 -1.4009 -3.05 -2.2674 -5.0042 -2.2674s-3.7236 0.8665 -5.0043 2.2674" stroke-width="1"></path>
-    <path id="Ellipse 353" stroke="#000cfe" d="M4.7439 7.176c0.6404 -0.7005 1.525 -1.1337 2.5022 -1.1337s1.8617 0.4332 2.5021 1.1337" stroke-width="1"></path>
-    <path id="Vector" stroke="#c71dff" d="m12.7492 13.2525 6.0065 -6.0065 3.0025 -3.0026 -3.0025 -3.0025" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" d="m18.7559 7.2465 -3.0026 -3.0026" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" d="m3.2426 16.754 3.503 -3.5029h6.0051v6.0051l-3.5029 3.503 -6.0052 -6.0052Z" stroke-width="1"></path>
+    <path id="Ellipse 352" stroke="#000cfe" d="M11.739870833333333 4.2542333333333335c-1.2273375 -1.3425291666666668 -2.9229166666666666 -2.1729249999999998 -4.7956916666666665 -2.1729249999999998s-3.56845 0.8303958333333334 -4.7957875 2.1729249999999998" stroke-width="1"></path>
+    <path id="Ellipse 353" stroke="#000cfe" d="M4.5462375 6.877000000000001c0.6137166666666667 -0.6713125000000001 1.4614583333333333 -1.0864624999999999 2.397941666666667 -1.0864624999999999s1.7841291666666665 0.41514999999999996 2.3978458333333332 1.0864624999999999" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="m12.217983333333335 12.7003125 5.7562291666666665 -5.7562291666666665 2.8773958333333334 -2.877491666666667 -2.8773958333333334 -2.8773958333333334" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" d="m17.974404166666666 6.944562500000001 -2.877491666666667 -2.877491666666667" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" d="m3.1074916666666668 16.05591666666667 3.357041666666667 -3.3569458333333335h5.7548875v5.7548875l-3.3569458333333335 3.357041666666667 -5.754983333333334 -5.754983333333334Z" stroke-width="1"></path>
   </g>
 </svg>

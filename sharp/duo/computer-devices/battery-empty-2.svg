@@ -3,9 +3,9 @@
     Battery Empty 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery">
-    <path id="Rectangle 1049" fill="#d7e0ff" d="M2 5.5h17.5V9H22v7h-2.5v3.5H2v-14Z" stroke-width="1"></path>
-    <path id="Rectangle 1048" stroke="#4147d5" d="M19.5 19.5V16H22V9h-2.5V5.5h-14" stroke-width="1"></path>
-    <path id="Rectangle 1050" stroke="#4147d5" d="M2 6.5v13h12" stroke-width="1"></path>
-    <path id="Vector 2783" stroke="#4147d5" d="m1 1 22 22" stroke-width="1"></path>
+    <path id="Rectangle 1049" fill="#d7e0ff" d="M2 5.5h17.5V9H22v7h-2.5v3.5H2v-14Z" stroke-width="1.5"></path>
+    <path id="Rectangle 1048" stroke="#4147d5" d="M19.5 19.5V16H22V9h-2.5V5.5h-14" stroke-width="1.5"></path>
+    <path id="Rectangle 1050" stroke="#4147d5" d="M2 6.5v13h12" stroke-width="1.5"></path>
+    <path id="Vector 2783" stroke="#4147d5" d="m1 1 22 22" stroke-width="1.5"></path>
   </g>
 </svg>

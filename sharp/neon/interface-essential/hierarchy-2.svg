@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Hierarchy-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Hierarchy-2--Streamline-Sharp-Neon">
   <desc>
     Hierarchy 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hierarchy-2--node-organization-links-structure-link-nodes-network-hierarchy">
-    <path id="Vector 2215" stroke="#000cfe" d="m12 5.49805 0 13.00485" stroke-width="1"></path>
-    <path id="Vector 2216" stroke="#000cfe" d="M3.25024 18.5024V12H20.7498v6.5024" stroke-width="1"></path>
-    <path id="Rectangle 983" stroke="#c71dff" d="M9.751 1h4.498v4.498H9.751z" stroke-width="1"></path>
-    <path id="Rectangle 987" stroke="#c71dff" d="M9.751 18.502h4.498V23H9.751z" stroke-width="1"></path>
-    <path id="Rectangle 988" stroke="#c71dff" d="M1 18.502h4.498V23H1z" stroke-width="1"></path>
-    <path id="Rectangle 989" stroke="#c71dff" d="M18.502 18.502H23V23h-4.498z" stroke-width="1"></path>
+    <path id="Vector 2215" stroke="#000cfe" d="m11.5 5.268964583333334 0 12.46298125" stroke-width="1"></path>
+    <path id="Vector 2216" stroke="#000cfe" d="M3.114813333333333 17.73146666666667V11.5H19.885225000000002v6.231466666666667" stroke-width="1"></path>
+    <path id="Rectangle 983" stroke="#c71dff" d="M9.344708333333333 0.9583333333333334h4.310583333333334v4.310583333333334H9.344708333333333z" stroke-width="1"></path>
+    <path id="Rectangle 987" stroke="#c71dff" d="M9.344708333333333 17.731083333333334h4.310583333333334V22.041666666666668H9.344708333333333z" stroke-width="1"></path>
+    <path id="Rectangle 988" stroke="#c71dff" d="M0.9583333333333334 17.731083333333334h4.310583333333334V22.041666666666668H0.9583333333333334z" stroke-width="1"></path>
+    <path id="Rectangle 989" stroke="#c71dff" d="M17.731083333333334 17.731083333333334H22.041666666666668V22.041666666666668h-4.310583333333334z" stroke-width="1"></path>
   </g>
 </svg>

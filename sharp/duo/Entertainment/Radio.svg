@@ -3,14 +3,14 @@
     Radio Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="radio--antenna-audio-music-radio-entertainment">
-    <path id="Vector 1244" fill="#d7e0ff" d="M22 22V6.5H2V22h20Z" stroke-width="1"></path>
-    <path id="Vector 1245" fill="#ffffff" d="M22 10V6.5H2V10h20Z" stroke-width="1"></path>
-    <path id="Vector 1239" stroke="#4147d5" d="M2 22V6.5h20V22H2Z" stroke-width="1"></path>
-    <path id="Ellipse 328" fill="#ffffff" d="M5 16a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Ellipse 327" stroke="#4147d5" d="M5 16a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1"></path>
-    <path id="Vector 1240" stroke="#4147d5" d="M22.5 2 2 5.25V7" stroke-width="1"></path>
-    <path id="Vector 1241" stroke="#4147d5" d="M15 14.25h4" stroke-width="1"></path>
-    <path id="Vector 1242" stroke="#4147d5" d="M15 17.75h4" stroke-width="1"></path>
-    <path id="Vector 1243" stroke="#4147d5" d="M2 10h20" stroke-width="1"></path>
+    <path id="Vector 1244" fill="#d7e0ff" d="M22 22V6.5H2V22h20Z" stroke-width="1.5"></path>
+    <path id="Vector 1245" fill="#ffffff" d="M22 10V6.5H2V10h20Z" stroke-width="1.5"></path>
+    <path id="Vector 1239" stroke="#4147d5" d="M2 22V6.5h20V22H2Z" stroke-width="1.5"></path>
+    <path id="Ellipse 328" fill="#ffffff" d="M5 16a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Ellipse 327" stroke="#4147d5" d="M5 16a3.5 3.5 0 1 0 7 0 3.5 3.5 0 1 0 -7 0" stroke-width="1.5"></path>
+    <path id="Vector 1240" stroke="#4147d5" d="M22.5 2 2 5.25V7" stroke-width="1.5"></path>
+    <path id="Vector 1241" stroke="#4147d5" d="M15 14.25h4" stroke-width="1.5"></path>
+    <path id="Vector 1242" stroke="#4147d5" d="M15 17.75h4" stroke-width="1.5"></path>
+    <path id="Vector 1243" stroke="#4147d5" d="M2 10h20" stroke-width="1.5"></path>
   </g>
 </svg>

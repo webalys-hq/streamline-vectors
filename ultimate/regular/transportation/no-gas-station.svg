@@ -2,10 +2,10 @@
   <desc>
     No Gas Station Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.875 1 -22 22" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.625 12v10.25c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-9.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.125 19.75v-18c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C4.60543 0.855357 4.85978 0.75 5.125 0.75h9.5c0.2652 0 0.5196 0.105357 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v6.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.125 9.75h10" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.625 10v8.75c0 0.3978 0.158 0.7794 0.4393 1.0607s0.6629 0.4393 1.0607 0.4393c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-6c-0.0003 -0.9787 0.2892 -1.9356 0.832 -2.75l0.668 -1" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.625 12.75h1.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m22.875 1 -22 22" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.625 12v10.25c0 0.2652 -0.1054 0.5196 -0.2929 0.7071s-0.4419 0.2929 -0.7071 0.2929h-9.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.125 19.75v-18c0 -0.26522 0.10536 -0.51957 0.29289 -0.70711C4.60543 0.855357 4.85978 0.75 5.125 0.75h9.5c0.2652 0 0.5196 0.105357 0.7071 0.29289 0.1875 0.18754 0.2929 0.44189 0.2929 0.70711v6.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.125 9.75h10" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.625 10v8.75c0 0.3978 0.158 0.7794 0.4393 1.0607s0.6629 0.4393 1.0607 0.4393c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-6c-0.0003 -0.9787 0.2892 -1.9356 0.832 -2.75l0.668 -1" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.625 12.75h1.5" stroke-width="1.5"></path>
 </svg>

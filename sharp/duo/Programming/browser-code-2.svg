@@ -3,12 +3,12 @@
     Browser Code 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="browser-code-2--code-browser-tags-angle-bracket">
-    <path id="Rectangle 595" fill="#ffffff" d="M22 7H2v14h20V7Z" stroke-width="1"></path>
-    <path id="Rectangle 596" fill="#d7e0ff" d="M22 3H2v4h20V3Z" stroke-width="1"></path>
-    <path id="Rectangle 594" stroke="#4147d5" d="M22 3H2v18h20V3Z" stroke-width="1"></path>
-    <path id="Vector 1373" stroke="#4147d5" d="M22 7H2" stroke-width="1"></path>
-    <path id="Vector 2050" stroke="#4147d5" d="m15.5 11 3 3 -3 3" stroke-width="1"></path>
-    <path id="Vector 2051" stroke="#4147d5" d="m8.5 11 -3 3 3 3" stroke-width="1"></path>
-    <path id="Vector 2052" stroke="#4147d5" d="m13.5 10 -3 8" stroke-width="1"></path>
+    <path id="Rectangle 595" fill="#ffffff" d="M22 7H2v14h20V7Z" stroke-width="1.5"></path>
+    <path id="Rectangle 596" fill="#d7e0ff" d="M22 3H2v4h20V3Z" stroke-width="1.5"></path>
+    <path id="Rectangle 594" stroke="#4147d5" d="M22 3H2v18h20V3Z" stroke-width="1.5"></path>
+    <path id="Vector 1373" stroke="#4147d5" d="M22 7H2" stroke-width="1.5"></path>
+    <path id="Vector 2050" stroke="#4147d5" d="m15.5 11 3 3 -3 3" stroke-width="1.5"></path>
+    <path id="Vector 2051" stroke="#4147d5" d="m8.5 11 -3 3 3 3" stroke-width="1.5"></path>
+    <path id="Vector 2052" stroke="#4147d5" d="m13.5 10 -3 8" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -2,9 +2,9 @@
   <desc>
     Smart Watch Square Power Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 3.75h10.5s3 0 3 3v10.5s0 3 -3 3H6.75s-3 0 -3 -3V6.75s0 -3 3 -3Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 3.75H6.75v-1.5c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066C7.47064 0.908035 7.85218 0.75 8.25 0.75h7.5c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 23.25h-7.5c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393 -0.2813 -0.2813 -0.43934 -0.6629 -0.43934 -1.0607v-1.5h10.5v1.5c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 7.5v3.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.818 9.56799c-0.62933 0.62931 -1.05791 1.43121 -1.23154 2.30411 -0.17362 0.8729 -0.08451 1.7777 0.25609 2.5999 0.3406 0.8223 0.91737 1.5251 1.65739 2.0196C10.24 16.986 11.11 17.25 12 17.25c0.89 0 1.76 -0.264 2.5001 -0.7584 0.74 -0.4945 1.3168 -1.1973 1.6574 -2.0196 0.3406 -0.8222 0.4297 -1.727 0.256 -2.5999 -0.1736 -0.8729 -0.6022 -1.6748 -1.2315 -2.30411" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 3.75h10.5s3 0 3 3v10.5s0 3 -3 3H6.75s-3 0 -3 -3V6.75s0 -3 3 -3Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 3.75H6.75v-1.5c0 -0.39782 0.15804 -0.77936 0.43934 -1.06066C7.47064 0.908035 7.85218 0.75 8.25 0.75h7.5c0.3978 0 0.7794 0.158035 1.0607 0.43934 0.2813 0.2813 0.4393 0.66284 0.4393 1.06066v1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 23.25h-7.5c-0.39782 0 -0.77936 -0.158 -1.06066 -0.4393 -0.2813 -0.2813 -0.43934 -0.6629 -0.43934 -1.0607v-1.5h10.5v1.5c0 0.3978 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 7.5v3.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.818 9.56799c-0.62933 0.62931 -1.05791 1.43121 -1.23154 2.30411 -0.17362 0.8729 -0.08451 1.7777 0.25609 2.5999 0.3406 0.8223 0.91737 1.5251 1.65739 2.0196C10.24 16.986 11.11 17.25 12 17.25c0.89 0 1.76 -0.264 2.5001 -0.7584 0.74 -0.4945 1.3168 -1.1973 1.6574 -2.0196 0.3406 -0.8222 0.4297 -1.727 0.256 -2.5999 -0.1736 -0.8729 -0.6022 -1.6748 -1.2315 -2.30411" stroke-width="1.5"></path>
 </svg>

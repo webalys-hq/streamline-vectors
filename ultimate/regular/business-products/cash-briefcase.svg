@@ -2,9 +2,9 @@
   <desc>
     Cash Briefcase Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 15.937c0 0.932 1.007 1.688 2.25 1.688s2.25 -0.756 2.25 -1.688c0 -0.932 -1.007 -1.687 -2.25 -1.687s-2.25 -0.756 -2.25 -1.688c0 -0.932 1.007 -1.687 2.25 -1.687s2.25 0.755 2.25 1.687" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 9.75v1.125" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.625v1.125" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 6.75h18s1.5 0 1.5 1.5v12s0 1.5 -1.5 1.5H3s-1.5 0 -1.5 -1.5v-12s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.342 3.275c-0.0997 -0.29854 -0.2907 -0.55817 -0.5461 -0.74212 -0.2554 -0.18396 -0.5622 -0.28292 -0.8769 -0.28288h-3.838c-0.31474 -0.00004 -0.62152 0.09892 -0.8769 0.28288 -0.25538 0.18395 -0.44643 0.44358 -0.5461 0.74212L7.5 6.75h9l-1.158 -3.475Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 15.937c0 0.932 1.007 1.688 2.25 1.688s2.25 -0.756 2.25 -1.688c0 -0.932 -1.007 -1.687 -2.25 -1.687s-2.25 -0.756 -2.25 -1.688c0 -0.932 1.007 -1.687 2.25 -1.687s2.25 0.755 2.25 1.687" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 9.75v1.125" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.625v1.125" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 6.75h18s1.5 0 1.5 1.5v12s0 1.5 -1.5 1.5H3s-1.5 0 -1.5 -1.5v-12s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.342 3.275c-0.0997 -0.29854 -0.2907 -0.55817 -0.5461 -0.74212 -0.2554 -0.18396 -0.5622 -0.28292 -0.8769 -0.28288h-3.838c-0.31474 -0.00004 -0.62152 0.09892 -0.8769 0.28288 -0.25538 0.18395 -0.44643 0.44358 -0.5461 0.74212L7.5 6.75h9l-1.158 -3.475Z" stroke-width="1.5"></path>
 </svg>

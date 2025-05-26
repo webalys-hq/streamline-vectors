@@ -3,9 +3,9 @@
     Volume Sleep Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="volume-sleep--volume-sleep-speaker-music-mute-audio-entertainment">
-    <path id="Union" fill="#d7e0ff" d="m12.5 3 -7 5 -3 0v8l3 0 7 5 0 -18Z" stroke-width="1"></path>
-    <path id="Union_2" stroke="#4147d5" d="M12.5 15.5V3l-7 5 -3 0v8l3 0 4 2.857" stroke-width="1"></path>
-    <path id="Vector 2952" stroke="#4147d5" d="M16 8.5h6.5V9l-6 5v0.5H23" stroke-width="1"></path>
-    <path id="Vector 2953" stroke="#4147d5" d="M10.815 18H15.5v0.333l-4 3.334V22h4.67" stroke-width="1"></path>
+    <path id="Union" fill="#d7e0ff" d="m12.5 3 -7 5 -3 0v8l3 0 7 5 0 -18Z" stroke-width="1.5"></path>
+    <path id="Union_2" stroke="#4147d5" d="M12.5 15.5V3l-7 5 -3 0v8l3 0 4 2.857" stroke-width="1.5"></path>
+    <path id="Vector 2952" stroke="#4147d5" d="M16 8.5h6.5V9l-6 5v0.5H23" stroke-width="1.5"></path>
+    <path id="Vector 2953" stroke="#4147d5" d="M10.815 18H15.5v0.333l-4 3.334V22h4.67" stroke-width="1.5"></path>
   </g>
 </svg>

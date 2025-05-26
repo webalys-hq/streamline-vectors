@@ -2,9 +2,9 @@
   <desc>
     Cloud File Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.75 11.25h9s1.5 0 1.5 1.5v9s0 1.5 -1.5 1.5h-9s-1.5 0 -1.5 -1.5v-9s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 14.25h6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 17.25h6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 20.25h2.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.483 8.24999c-0.3518 -0.55193 -0.8113 -1.02721 -1.3511 -1.39737 -0.5398 -0.37017 -1.1487 -0.62761 -1.7903 -0.75693 -0.6416 -0.12931 -1.3027 -0.12783 -1.9437 0.00436s-1.2488 0.39236 -1.7869 0.76494c-0.2631 -1.40001 -0.9194 -2.69616 -1.8922 -3.73678 -0.9728 -1.04062 -2.2219 -1.78267 -3.601 -2.139331 -1.37915 -0.35666 -2.83135 -0.313177 -4.18669 0.125361 -1.35533 0.43854 -2.55775 1.254 -3.46655 2.35096C1.55575 4.56216 0.978149 5.89525 0.799324 7.3085c-0.178824 1.41325 0.048529 2.8482 0.655456 4.1369 0.60693 1.2888 1.56834 2.3781 2.77172 3.1404 1.20339 0.7623 2.59899 1.1661 4.0235 1.1642" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12.75 11.25h9s1.5 0 1.5 1.5v9s0 1.5 -1.5 1.5h-9s-1.5 0 -1.5 -1.5v-9s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 14.25h6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 17.25h6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 20.25h2.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.483 8.24999c-0.3518 -0.55193 -0.8113 -1.02721 -1.3511 -1.39737 -0.5398 -0.37017 -1.1487 -0.62761 -1.7903 -0.75693 -0.6416 -0.12931 -1.3027 -0.12783 -1.9437 0.00436s-1.2488 0.39236 -1.7869 0.76494c-0.2631 -1.40001 -0.9194 -2.69616 -1.8922 -3.73678 -0.9728 -1.04062 -2.2219 -1.78267 -3.601 -2.139331 -1.37915 -0.35666 -2.83135 -0.313177 -4.18669 0.125361 -1.35533 0.43854 -2.55775 1.254 -3.46655 2.35096C1.55575 4.56216 0.978149 5.89525 0.799324 7.3085c-0.178824 1.41325 0.048529 2.8482 0.655456 4.1369 0.60693 1.2888 1.56834 2.3781 2.77172 3.1404 1.20339 0.7623 2.59899 1.1661 4.0235 1.1642" stroke-width="1.5"></path>
 </svg>

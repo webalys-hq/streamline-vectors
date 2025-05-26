@@ -2,9 +2,9 @@
   <desc>
     Ted Logo Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 7.63h5.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 11.63h5.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7.63v8.74" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.75 7.63h-5.5v8h5.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 11.63c0 1.0609 -0.4214 2.0783 -1.1716 2.8284 -0.7501 0.7502 -1.7675 1.1716 -2.8284 1.1716h-1.5v-8h1.5c1.0609 0 2.0783 0.42143 2.8284 1.17158 0.7502 0.75014 1.1716 1.76752 1.1716 2.82842Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 7.63h5.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 11.63h5.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.5 7.63v8.74" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.75 7.63h-5.5v8h5.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 11.63c0 1.0609 -0.4214 2.0783 -1.1716 2.8284 -0.7501 0.7502 -1.7675 1.1716 -2.8284 1.1716h-1.5v-8h1.5c1.0609 0 2.0783 0.42143 2.8284 1.17158 0.7502 0.75014 1.1716 1.76752 1.1716 2.82842Z" stroke-width="1.5"></path>
 </svg>

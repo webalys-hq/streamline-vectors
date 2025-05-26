@@ -3,11 +3,11 @@
     Shopping Cart Add Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shopping-cart-add--shopping-cart-checkout-add-plus-new">
-    <path id="Vector 2848" fill="#d7e0ff" d="M5.5 17V7H21l-4 10 -11.5 0Z" stroke-width="1"></path>
-    <path id="Vector 1455" stroke="#4147d5" d="M14.875 12h-6" stroke-width="1"></path>
-    <path id="Vector 1456" stroke="#4147d5" d="m11.875 9 0 6" stroke-width="1"></path>
-    <path id="Vector 98" stroke="#4147d5" d="m1 2 4.5 0v15L17 17l4 -10L5.5 7" stroke-width="1"></path>
-    <path id="Vector 2846" stroke="#4147d5" d="M5.5 22v-0.75h0.75V22H5.5Z" stroke-width="1"></path>
-    <path id="Vector 2847" stroke="#4147d5" d="M11.5 22v-0.75h0.75V22h-0.75Z" stroke-width="1"></path>
+    <path id="Vector 2848" fill="#d7e0ff" d="M5.5 17V7H21l-4 10 -11.5 0Z" stroke-width="1.5"></path>
+    <path id="Vector 1455" stroke="#4147d5" d="M14.875 12h-6" stroke-width="1.5"></path>
+    <path id="Vector 1456" stroke="#4147d5" d="m11.875 9 0 6" stroke-width="1.5"></path>
+    <path id="Vector 98" stroke="#4147d5" d="m1 2 4.5 0v15L17 17l4 -10L5.5 7" stroke-width="1.5"></path>
+    <path id="Vector 2846" stroke="#4147d5" d="M5.5 22v-0.75h0.75V22H5.5Z" stroke-width="1.5"></path>
+    <path id="Vector 2847" stroke="#4147d5" d="M11.5 22v-0.75h0.75V22h-0.75Z" stroke-width="1.5"></path>
   </g>
 </svg>

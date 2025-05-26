@@ -3,8 +3,8 @@
     Diagonal Scroll 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="diagonal-scroll-1--move-scroll">
-    <path id="Vector 2273" stroke="#000000" d="M13 2h9v9" stroke-width="1"></path>
-    <path id="Vector 2274" stroke="#000000" d="M2 13v9h9" stroke-width="1"></path>
-    <path id="Ellipse 652" stroke="#000000" d="M9 12a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1"></path>
+    <path id="Vector 2273" stroke="#000000" d="M13 2h9v9" stroke-width="1.5"></path>
+    <path id="Vector 2274" stroke="#000000" d="M2 13v9h9" stroke-width="1.5"></path>
+    <path id="Ellipse 652" stroke="#000000" d="M9 12a3 3 0 1 0 6 0 3 3 0 1 0 -6 0" stroke-width="1.5"></path>
   </g>
 </svg>

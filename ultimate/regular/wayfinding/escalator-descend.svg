@@ -2,7 +2,7 @@
   <desc>
     Escalator Descend Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m23.25 8.25 -7.5 -7.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25h6v-6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 18.75v1.5c0 0.7956 -0.3161 1.5587 -0.8787 2.1213 -0.5626 0.5626 -1.3257 0.8787 -2.1213 0.8787h-4.5l-9 -7.5h-3c-0.79565 0 -1.55871 -0.3161 -2.12132 -0.8787C1.06607 14.3087 0.75 13.5456 0.75 12.75v-1.5c0 -0.7956 0.31607 -1.55871 0.87868 -2.12132C2.19129 8.56607 2.95435 8.25 3.75 8.25h4.5l9 7.5h3c0.7956 0 1.5587 0.3161 2.1213 0.8787 0.5626 0.5626 0.8787 1.3257 0.8787 2.1213Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m23.25 8.25 -7.5 -7.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25h6v-6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 18.75v1.5c0 0.7956 -0.3161 1.5587 -0.8787 2.1213 -0.5626 0.5626 -1.3257 0.8787 -2.1213 0.8787h-4.5l-9 -7.5h-3c-0.79565 0 -1.55871 -0.3161 -2.12132 -0.8787C1.06607 14.3087 0.75 13.5456 0.75 12.75v-1.5c0 -0.7956 0.31607 -1.55871 0.87868 -2.12132C2.19129 8.56607 2.95435 8.25 3.75 8.25h4.5l9 7.5h3c0.7956 0 1.5587 0.3161 2.1213 0.8787 0.5626 0.5626 0.8787 1.3257 0.8787 2.1213Z" stroke-width="1.5"></path>
 </svg>

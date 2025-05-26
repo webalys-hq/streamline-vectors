@@ -2,6 +2,6 @@
   <desc>
     Number Five Square Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 1h20s1 0 1 1v20s0 1 -1 1H2s-1 0 -1 -1V2s0 -1 1 -1Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.6667 8h-3.3334L10 11.6667l0.7703 -0.3852c0.3703 -0.1851 0.7786 -0.2815 1.1925 -0.2815H12c1.1046 0 2 0.8954 2 2v1c0 1.1046 -0.8954 2 -2 2 -0.8708 0 -1.7254 -0.5565 -2 -1.3333" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2 1h20s1 0 1 1v20s0 1 -1 1H2s-1 0 -1 -1V2s0 -1 1 -1Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.6667 8h-3.3334L10 11.6667l0.7703 -0.3852c0.3703 -0.1851 0.7786 -0.2815 1.1925 -0.2815H12c1.1046 0 2 0.8954 2 2v1c0 1.1046 -0.8954 2 -2 2 -0.8708 0 -1.7254 -0.5565 -2 -1.3333" stroke-width="1.5"></path>
 </svg>

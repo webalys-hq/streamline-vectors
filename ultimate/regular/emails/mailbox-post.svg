@@ -2,11 +2,11 @@
   <desc>
     Mailbox Post Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00001 0.750011c-0.59132 -0.001318 -1.17707 0.114178 -1.72363 0.339859 -0.54656 0.22568 -1.04316 0.55709 -1.46129 0.97522 -0.41813 0.41813 -0.74954 0.91473 -0.97522 1.46129 -0.22568 0.54656 -0.34118 1.13231 -0.33986 1.72363V20.25H21.5V5.25001c0.0013 -0.59132 -0.1142 -1.17707 -0.3398 -1.72363 -0.2257 -0.54656 -0.5571 -1.04316 -0.9753 -1.46129 -0.4181 -0.41813 -0.9147 -0.74954 -1.4613 -0.97522C18.1771 0.864189 17.5913 0.748693 17 0.750011H7.00001Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 20.25v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.5 20.25v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 0.76001V20.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 0.76001V20.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 6.75h10.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.5 11.25 3.75 2.25 -3.75 2.25" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.00001 0.750011c-0.59132 -0.001318 -1.17707 0.114178 -1.72363 0.339859 -0.54656 0.22568 -1.04316 0.55709 -1.46129 0.97522 -0.41813 0.41813 -0.74954 0.91473 -0.97522 1.46129 -0.22568 0.54656 -0.34118 1.13231 -0.33986 1.72363V20.25H21.5V5.25001c0.0013 -0.59132 -0.1142 -1.17707 -0.3398 -1.72363 -0.2257 -0.54656 -0.5571 -1.04316 -0.9753 -1.46129 -0.4181 -0.41813 -0.9147 -0.74954 -1.4613 -0.97522C18.1771 0.864189 17.5913 0.748693 17 0.750011H7.00001Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.5 20.25v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.5 20.25v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 0.76001V20.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 0.76001V20.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 6.75h10.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m10.5 11.25 3.75 2.25 -3.75 2.25" stroke-width="1.5"></path>
 </svg>

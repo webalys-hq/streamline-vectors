@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Threat-Usb--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Threat-Usb--Streamline-Sharp-Neon">
   <desc>
     Threat Usb Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="threat-usb--bug-usb-file-threat-danger">
-    <path id="Rectangle 883" stroke="#000cfe" d="M4.16 1.22h9.8V7.1h-9.8V1.22Z" stroke-width="1"></path>
-    <path id="Rectangle 884" stroke="#c71dff" d="M15.92 9.06V7.1H2.2v10.78c0 2.7062 2.1938 4.9 4.9 4.9h2.45" stroke-width="1"></path>
-    <path id="Vector 2632" stroke="#000cfe" d="M9.06 4.16V1.22" stroke-width="1"></path>
-    <path id="Rectangle 883_2" stroke="#000cfe" d="M11.02 17.39c0 -2.9769 2.4132 -5.39 5.39 -5.39s5.39 2.4131 5.39 5.39 -2.4132 5.39 -5.39 5.39 -5.39 -2.4131 -5.39 -5.39Z" stroke-width="1"></path>
-    <path id="Vector 3842" stroke="#000cfe" d="M16.41 13.96v3.9198" stroke-width="1"></path>
-    <path id="Vector 3843" stroke="#000cfe" d="M16.41 18.86v1.9599" stroke-width="1"></path>
+    <path id="Rectangle 883" stroke="#000cfe" d="M3.986666666666667 1.1691666666666667h9.391666666666667V6.804166666666666h-9.391666666666667V1.1691666666666667Z" stroke-width="1"></path>
+    <path id="Rectangle 884" stroke="#c71dff" d="M15.256666666666668 8.682500000000001V6.804166666666666H2.1083333333333334v10.330833333333333c0 2.5934416666666666 2.1023916666666667 4.695833333333334 4.695833333333334 4.695833333333334h2.347916666666667" stroke-width="1"></path>
+    <path id="Vector 2632" stroke="#000cfe" d="M8.682500000000001 3.986666666666667V1.1691666666666667" stroke-width="1"></path>
+    <path id="Rectangle 883_2" stroke="#000cfe" d="M10.560833333333333 16.66541666666667c0 -2.8528625 2.31265 -5.165416666666666 5.165416666666666 -5.165416666666666s5.165416666666666 2.3125541666666667 5.165416666666666 5.165416666666666 -2.31265 5.165416666666666 -5.165416666666666 5.165416666666666 -5.165416666666666 -2.3125541666666667 -5.165416666666666 -5.165416666666666Z" stroke-width="1"></path>
+    <path id="Vector 3842" stroke="#000cfe" d="M15.72625 13.378333333333334v3.756475" stroke-width="1"></path>
+    <path id="Vector 3843" stroke="#000cfe" d="M15.72625 18.074166666666667v1.8782375" stroke-width="1"></path>
   </g>
 </svg>

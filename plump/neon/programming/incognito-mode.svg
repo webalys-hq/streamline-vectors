@@ -3,10 +3,10 @@
     Incognito Mode Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="incognito-mode--internet-safe-mode-browser">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M21 38c0 3.866 -3.134 7 -7 7s-7 -3.134 -7 -7 3.134 -7 7 -7 7 3.134 7 7Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 38c0 3.866 3.134 7 7 7s7 -3.134 7 -7 -3.134 -7 -7 -7 -7 3.134 -7 7Z" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M21 38c1.6569 -1.3333 4.3431 -1.3333 6 0" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.04951 23.0629c0.11016 1.0888 1.06378 1.674 2.15738 1.713C7.70036 24.8648 13.2588 25 24 25s16.2996 -0.1352 18.7931 -0.2241c1.0936 -0.039 2.0472 -0.6242 2.1574 -1.713C44.981 22.7611 45 22.409 45 22c0 -0.409 -0.019 -0.7611 -0.0495 -1.0629 -0.1102 -1.0888 -1.0638 -1.674 -2.1574 -1.713C40.2996 19.1352 34.7412 19 24 19s-16.29963 0.1352 -18.79311 0.2241c-1.0936 0.039 -2.04722 0.6242 -2.15738 1.713C3.01896 21.2389 3 21.591 3 22c0 0.409 0.01896 0.7611 0.04951 1.0629Z" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.21484 19.1392c0.31921 -2.4984 1.02088 -7.1667 2.27996 -11.84884 0.5843 -2.17287 2.4604 -3.71122 4.702 -3.90656C17.413 3.19068 20.4899 3 24.0001 3c3.5101 0 6.5871 0.19068 8.8032 0.3838 2.2416 0.19534 4.1177 1.73369 4.702 3.90655 1.2591 4.68215 1.9608 9.35045 2.28 11.84885" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M21 38c0 3.866 -3.134 7 -7 7s-7 -3.134 -7 -7 3.134 -7 7 -7 7 3.134 7 7Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 38c0 3.866 3.134 7 7 7s7 -3.134 7 -7 -3.134 -7 -7 -7 -7 3.134 -7 7Z" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M21 38c1.6569 -1.3333 4.3431 -1.3333 6 0" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.04951 23.0629c0.11016 1.0888 1.06378 1.674 2.15738 1.713C7.70036 24.8648 13.2588 25 24 25s16.2996 -0.1352 18.7931 -0.2241c1.0936 -0.039 2.0472 -0.6242 2.1574 -1.713C44.981 22.7611 45 22.409 45 22c0 -0.409 -0.019 -0.7611 -0.0495 -1.0629 -0.1102 -1.0888 -1.0638 -1.674 -2.1574 -1.713C40.2996 19.1352 34.7412 19 24 19s-16.29963 0.1352 -18.79311 0.2241c-1.0936 0.039 -2.04722 0.6242 -2.15738 1.713C3.01896 21.2389 3 21.591 3 22c0 0.409 0.01896 0.7611 0.04951 1.0629Z" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.21484 19.1392c0.31921 -2.4984 1.02088 -7.1667 2.27996 -11.84884 0.5843 -2.17287 2.4604 -3.71122 4.702 -3.90656C17.413 3.19068 20.4899 3 24.0001 3c3.5101 0 6.5871 0.19068 8.8032 0.3838 2.2416 0.19534 4.1177 1.73369 4.702 3.90655 1.2591 4.68215 1.9608 9.35045 2.28 11.84885" stroke-width="3"></path>
   </g>
 </svg>

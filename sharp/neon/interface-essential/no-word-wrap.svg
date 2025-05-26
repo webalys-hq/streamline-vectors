@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="No-Word-Wrap--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="No-Word-Wrap--Streamline-Sharp-Neon">
   <desc>
     No Word Wrap Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="no-word-wrap">
-    <path id="Rectangle 944" stroke="#000cfe" d="M7 7h10v10H7z" stroke-width="1"></path>
-    <path id="Vector 2101" stroke="#c71dff" d="M0.999993 2H23M0.999993 22H23M0.999993 7H23M0.999993 17H23M0.999993 12H23" stroke-width="1"></path>
+    <path id="Rectangle 944" stroke="#000cfe" d="M6.708333333333334 6.708333333333334h9.583333333333334v9.583333333333334H6.708333333333334z" stroke-width="1"></path>
+    <path id="Vector 2101" stroke="#c71dff" d="M0.9583266250000001 1.9166666666666667H22.041666666666668M0.9583266250000001 21.083333333333336H22.041666666666668M0.9583266250000001 6.708333333333334H22.041666666666668M0.9583266250000001 16.291666666666668H22.041666666666668M0.9583266250000001 11.5H22.041666666666668" stroke-width="1"></path>
   </g>
 </svg>

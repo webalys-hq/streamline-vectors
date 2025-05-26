@@ -3,9 +3,9 @@
     Shipping Box 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shipping-box-1--box-package-label-delivery-shipment-shipping">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30.6764 3.08984c-0.0457 4.26008 -0.3544 8.61776 -0.5338 10.83156 -0.0575 0.7098 -0.8203 1.123 -1.4497 0.79l-4.4591 -2.3592c-0.1463 -0.0774 -0.3214 -0.0774 -0.4677 0l-4.4583 2.3591c-0.6295 0.333 -1.3922 -0.0802 -1.4498 -0.79 -0.1794 -2.2139 -0.4881 -6.57142 -0.5338 -10.83144" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 36h-9" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 28h-5" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.54522 39.5961c0.20899 2.6243 2.23434 4.6497 4.85868 4.8587C11.7206 44.7189 16.9148 45 24 45s12.2794 -0.2811 15.5961 -0.5452c2.6243 -0.209 4.6497 -2.2344 4.8587 -4.8587C44.7189 36.2794 45 31.0852 45 24s-0.2811 -12.2794 -0.5452 -15.5961c-0.209 -2.62434 -2.2344 -4.64969 -4.8587 -4.85868C36.2794 3.28109 31.0852 3 24 3s-12.2794 0.28109 -15.59609 0.54522c-2.62435 0.20899 -4.6497 2.23434 -4.85869 4.85868C3.2811 11.7206 3 16.9148 3 24s0.28109 12.2794 0.54522 15.5961Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30.6764 3.08984c-0.0457 4.26008 -0.3544 8.61776 -0.5338 10.83156 -0.0575 0.7098 -0.8203 1.123 -1.4497 0.79l-4.4591 -2.3592c-0.1463 -0.0774 -0.3214 -0.0774 -0.4677 0l-4.4583 2.3591c-0.6295 0.333 -1.3922 -0.0802 -1.4498 -0.79 -0.1794 -2.2139 -0.4881 -6.57142 -0.5338 -10.83144" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 36h-9" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 28h-5" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M3.54522 39.5961c0.20899 2.6243 2.23434 4.6497 4.85868 4.8587C11.7206 44.7189 16.9148 45 24 45s12.2794 -0.2811 15.5961 -0.5452c2.6243 -0.209 4.6497 -2.2344 4.8587 -4.8587C44.7189 36.2794 45 31.0852 45 24s-0.2811 -12.2794 -0.5452 -15.5961c-0.209 -2.62434 -2.2344 -4.64969 -4.8587 -4.85868C36.2794 3.28109 31.0852 3 24 3s-12.2794 0.28109 -15.59609 0.54522c-2.62435 0.20899 -4.6497 2.23434 -4.85869 4.85868C3.2811 11.7206 3 16.9148 3 24s0.28109 12.2794 0.54522 15.5961Z" stroke-width="3"></path>
   </g>
 </svg>

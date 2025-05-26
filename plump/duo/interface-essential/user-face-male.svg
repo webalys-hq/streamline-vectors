@@ -3,14 +3,14 @@
     User Face Male Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-face-male--user-face-male-man">
-    <path id="Ellipse 25" fill="#ffffff" d="M3 24c0 11.598 9.402 21 21 21s21 -9.402 21 -21S35.598 3 24 3 3 12.402 3 24Z" stroke-width="1"></path>
-    <path id="Vector" fill="#8fbffa" d="M3.09446 21.9987C13.9749 21.951 22.9015 13.6287 23.9062 3c-10.8804 0.04774 -19.80701 8.37 -20.81174 18.9987Z" stroke-width="1"></path>
-    <path id="Vector_2" fill="#8fbffa" d="M44.9055 21.9987C34.0251 21.951 25.0985 13.6287 24.0938 3c10.8804 0.04774 19.807 8.37 20.8117 18.9987Z" stroke-width="1"></path>
-    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 24c0 11.598 9.402 21 21 21s21 -9.402 21 -21S35.598 3 24 3 3 12.402 3 24Z" stroke-width="1"></path>
-    <path id="Intersect" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M23.906 3c-1.0047 10.6287 -9.9313 18.951 -20.81176 18.9987" stroke-width="1"></path>
-    <path id="Intersect_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M44.9058 21.9987C34.0253 21.951 25.0987 13.6287 24.094 3" stroke-width="1"></path>
-    <path id="Vector 839" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M16 24v2" stroke-width="1"></path>
-    <path id="Vector 840" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32 24v2" stroke-width="1"></path>
-    <path id="Ellipse 24" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M31 34c-3.0625 4 -10.9375 4 -14 0" stroke-width="1"></path>
+    <path id="Ellipse 25" fill="#ffffff" d="M3 24c0 11.598 9.402 21 21 21s21 -9.402 21 -21S35.598 3 24 3 3 12.402 3 24Z" stroke-width="3"></path>
+    <path id="Vector" fill="#8fbffa" d="M3.09446 21.9987C13.9749 21.951 22.9015 13.6287 23.9062 3c-10.8804 0.04774 -19.80701 8.37 -20.81174 18.9987Z" stroke-width="3"></path>
+    <path id="Vector_2" fill="#8fbffa" d="M44.9055 21.9987C34.0251 21.951 25.0985 13.6287 24.0938 3c10.8804 0.04774 19.807 8.37 20.8117 18.9987Z" stroke-width="3"></path>
+    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M3 24c0 11.598 9.402 21 21 21s21 -9.402 21 -21S35.598 3 24 3 3 12.402 3 24Z" stroke-width="3"></path>
+    <path id="Intersect" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M23.906 3c-1.0047 10.6287 -9.9313 18.951 -20.81176 18.9987" stroke-width="3"></path>
+    <path id="Intersect_2" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M44.9058 21.9987C34.0253 21.951 25.0987 13.6287 24.094 3" stroke-width="3"></path>
+    <path id="Vector 839" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M16 24v2" stroke-width="3"></path>
+    <path id="Vector 840" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32 24v2" stroke-width="3"></path>
+    <path id="Ellipse 24" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M31 34c-3.0625 4 -10.9375 4 -14 0" stroke-width="3"></path>
   </g>
 </svg>

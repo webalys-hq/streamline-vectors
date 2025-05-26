@@ -3,12 +3,12 @@
     Cashier Machine 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="cashier-machine-2--shop-shopping-pay-payment-cashier-store-cash-register-machine">
-    <path id="Rectangle 1715" fill="#d7e0ff" d="M3 17h18v5H3z" stroke-width="1"></path>
-    <path id="Rectangle 1714" fill="#ffffff" d="M4 2h16v12H4L4 2Z" stroke-width="1"></path>
-    <path id="Rectangle 1712" stroke="#4147d5" d="M4 2h16v12H4L4 2Z" stroke-width="1"></path>
-    <path id="Rectangle 1713" stroke="#4147d5" d="M3 17h18v5H3z" stroke-width="1"></path>
-    <path id="Vector 927" stroke="#4147d5" d="m12.1426 14 0 3" stroke-width="1"></path>
-    <path id="Vector 2027" stroke="#4147d5" d="M10 9.49945v0.62555c0 0.4832 0.4197 0.875 0.9375 0.875h2.4107c0.5178 0 0.9375 -0.3914 0.9375 -0.8746l0 -1.17757c0 -0.38889 -0.275 -0.73103 -0.675 -0.83992l-2.9357 -0.79916c-0.4 -0.10889 -0.675 -0.45107 -0.675 -0.83996l0 -0.59384C10 5.3917 10.4197 5 10.9375 5h2.4107c0.5178 0 0.9375 0.39175 0.9375 0.875v0.62583" stroke-width="1"></path>
-    <path id="Vector 2976" stroke="#4147d5" d="M11 19.5h2" stroke-width="1"></path>
+    <path id="Rectangle 1715" fill="#d7e0ff" d="M3 17h18v5H3z" stroke-width="1.5"></path>
+    <path id="Rectangle 1714" fill="#ffffff" d="M4 2h16v12H4L4 2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 1712" stroke="#4147d5" d="M4 2h16v12H4L4 2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 1713" stroke="#4147d5" d="M3 17h18v5H3z" stroke-width="1.5"></path>
+    <path id="Vector 927" stroke="#4147d5" d="m12.1426 14 0 3" stroke-width="1.5"></path>
+    <path id="Vector 2027" stroke="#4147d5" d="M10 9.49945v0.62555c0 0.4832 0.4197 0.875 0.9375 0.875h2.4107c0.5178 0 0.9375 -0.3914 0.9375 -0.8746l0 -1.17757c0 -0.38889 -0.275 -0.73103 -0.675 -0.83992l-2.9357 -0.79916c-0.4 -0.10889 -0.675 -0.45107 -0.675 -0.83996l0 -0.59384C10 5.3917 10.4197 5 10.9375 5h2.4107c0.5178 0 0.9375 0.39175 0.9375 0.875v0.62583" stroke-width="1.5"></path>
+    <path id="Vector 2976" stroke="#4147d5" d="M11 19.5h2" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,9 +3,9 @@
     Web Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="web--server-world-internet-earth-www-globe-worldwide-web-network">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.4284 24c0 -12.1503 -4.2213 -22 -9.4285 -22 -5.2073 0 -9.4286 9.8497 -9.4286 22s4.2213 22 9.4286 22c5.2072 0 9.4285 -9.8497 9.4285 -22Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.25195 16.666H44.7483" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M44.7483 31.332H3.25195" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 24c0 12.1503 -9.8497 22 -22 22S2 36.1503 2 24 11.8497 2 24 2s22 9.8497 22 22Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.4284 24c0 -12.1503 -4.2213 -22 -9.4285 -22 -5.2073 0 -9.4286 9.8497 -9.4286 22s4.2213 22 9.4286 22c5.2072 0 9.4285 -9.8497 9.4285 -22Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M3.25195 16.666H44.7483" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M44.7483 31.332H3.25195" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 24c0 12.1503 -9.8497 22 -22 22S2 36.1503 2 24 11.8497 2 24 2s22 9.8497 22 22Z" stroke-width="3"></path>
   </g>
 </svg>

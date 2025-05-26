@@ -3,10 +3,10 @@
     Add PDF Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="add-PDF--essential-files-folder-edit-PDF-add-plus">
-    <path id="Rectangle 730" fill="#d7e0ff" d="M20 2 2 2l0 19 4 -2.5 14 0L20 2Z" stroke-width="1"></path>
-    <path id="Rectangle 729" stroke="#4147d5" d="m20 12 0 -10L2 2l0 19 4 -2.5 6 0" stroke-width="1"></path>
-    <path id="Vector 2046" stroke="#4147d5" d="M6 7.5h10" stroke-width="1"></path>
-    <path id="Vector 2047" stroke="#4147d5" d="M6 12h7" stroke-width="1"></path>
-    <path id="Vector 1140" stroke="#4147d5" d="M23 18.5h-9m4.5 -4.5v9" stroke-width="1"></path>
+    <path id="Rectangle 730" fill="#d7e0ff" d="M20 2 2 2l0 19 4 -2.5 14 0L20 2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 729" stroke="#4147d5" d="m20 12 0 -10L2 2l0 19 4 -2.5 6 0" stroke-width="1.5"></path>
+    <path id="Vector 2046" stroke="#4147d5" d="M6 7.5h10" stroke-width="1.5"></path>
+    <path id="Vector 2047" stroke="#4147d5" d="M6 12h7" stroke-width="1.5"></path>
+    <path id="Vector 1140" stroke="#4147d5" d="M23 18.5h-9m4.5 -4.5v9" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,10 +3,10 @@
     Hourglass Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hourglass--hourglass-loading-measure-clock-time">
-    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M17.0008 24c0 -4 -11.00036 -8 -9.00045 -22L23.987 2l16.0129 0c2.0005 14 -8.9991 18 -8.9991 22s10.9996 8 8.9991 22L23.987 46 8.00035 46C6.00044 32 17.0008 28 17.0008 24Z" stroke-width="1"></path>
-    <path id="Union_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M14 40.5c0 -3.5 6 -10 10 -10s10 6.5 10 10H14Z" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32 12s-2.5 -1 -7.9985 -1S16 12 16 12c1 3 5.479 7.0001 8.0023 7.0001C26.5255 19.0001 31 15 32 12Z" stroke-width="1"></path>
-    <path id="Vector 4159" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 2h40" stroke-width="1"></path>
-    <path id="Vector 4160" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 46h40" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M17.0008 24c0 -4 -11.00036 -8 -9.00045 -22L23.987 2l16.0129 0c2.0005 14 -8.9991 18 -8.9991 22s10.9996 8 8.9991 22L23.987 46 8.00035 46C6.00044 32 17.0008 28 17.0008 24Z" stroke-width="3"></path>
+    <path id="Union_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M14 40.5c0 -3.5 6 -10 10 -10s10 6.5 10 10H14Z" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32 12s-2.5 -1 -7.9985 -1S16 12 16 12c1 3 5.479 7.0001 8.0023 7.0001C26.5255 19.0001 31 15 32 12Z" stroke-width="3"></path>
+    <path id="Vector 4159" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 2h40" stroke-width="3"></path>
+    <path id="Vector 4160" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M4 46h40" stroke-width="3"></path>
   </g>
 </svg>

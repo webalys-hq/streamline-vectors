@@ -3,9 +3,9 @@
     Dashboard Gauge 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="dashboard-gauge-2--bar-speed-test-loading-dashboard-internet-gauge-progress">
-    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.85353 32C9.30077 30.4361 9 28.7532 9 27c0 -8.2843 6.7157 -15 15 -15s15 6.7157 15 15c0 1.7532 -0.3008 3.4361 -0.8535 5" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 38h6.0775c1.2151 0 2.3978 -0.539 2.946 -1.6235C44.3412 33.7695 45 30.1047 45 27c0 -11.598 -9.402 -21 -21 -21S3 15.402 3 27c0 3.1047 0.65885 6.7695 1.97655 9.3765C5.52468 37.461 6.70736 38 7.9225 38H14" stroke-width="1"></path>
-    <path id="Ellipse 76" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.1362966948 34.9647238196a4 4 0 1 0 7.7274066104 2.0705523608 4 4 0 1 0 -7.7274066104 -2.0705523608" stroke-width="1"></path>
-    <path id="Vector 1437" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m25.0347 32.1362 3.6235 -13.5229" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.85353 32C9.30077 30.4361 9 28.7532 9 27c0 -8.2843 6.7157 -15 15 -15s15 6.7157 15 15c0 1.7532 -0.3008 3.4361 -0.8535 5" stroke-width="3"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 38h6.0775c1.2151 0 2.3978 -0.539 2.946 -1.6235C44.3412 33.7695 45 30.1047 45 27c0 -11.598 -9.402 -21 -21 -21S3 15.402 3 27c0 3.1047 0.65885 6.7695 1.97655 9.3765C5.52468 37.461 6.70736 38 7.9225 38H14" stroke-width="3"></path>
+    <path id="Ellipse 76" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.1362966948 34.9647238196a4 4 0 1 0 7.7274066104 2.0705523608 4 4 0 1 0 -7.7274066104 -2.0705523608" stroke-width="3"></path>
+    <path id="Vector 1437" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m25.0347 32.1362 3.6235 -13.5229" stroke-width="3"></path>
   </g>
 </svg>

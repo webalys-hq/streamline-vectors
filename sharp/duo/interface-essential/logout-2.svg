@@ -3,9 +3,9 @@
     Logout 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="logout-2--arrow-enter-right-logout-point-circle">
-    <path id="Ellipse 379" fill="#d7e0ff" d="M2 12a9 9 0 1 0 18 0 9 9 0 0 0 -18 0Z" stroke-width="1"></path>
-    <path id="Ellipse 378" stroke="#4147d5" d="M17.708 6a9 9 0 1 0 0 12" stroke-width="1"></path>
-    <path id="Vector 1185" stroke="#4147d5" d="M22 12H8" stroke-width="1"></path>
-    <path id="Vector 1186" stroke="#4147d5" d="m18 8 4 4 -4 4" stroke-width="1"></path>
+    <path id="Ellipse 379" fill="#d7e0ff" d="M2 12a9 9 0 1 0 18 0 9 9 0 0 0 -18 0Z" stroke-width="1.5"></path>
+    <path id="Ellipse 378" stroke="#4147d5" d="M17.708 6a9 9 0 1 0 0 12" stroke-width="1.5"></path>
+    <path id="Vector 1185" stroke="#4147d5" d="M22 12H8" stroke-width="1.5"></path>
+    <path id="Vector 1186" stroke="#4147d5" d="m18 8 4 4 -4 4" stroke-width="1.5"></path>
   </g>
 </svg>

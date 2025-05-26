@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Diagonal-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Arrow-Diagonal-2--Streamline-Sharp-Neon">
   <desc>
     Arrow Diagonal 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="diagonal-line-arrow-2--expand-smaller-retract-bigger-big-small-diagonal">
-    <path id="Vector" stroke="#c71dff" d="m2 2 20 20" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" d="M22 10.5 22 22l-11.5 0" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" d="M2 13.5 2.00001 2 13.5 2" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="m1.9166666666666667 1.9166666666666667 19.166666666666668 19.166666666666668" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" d="M21.083333333333336 10.0625 21.083333333333336 21.083333333333336l-11.020833333333334 0" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" d="M1.9166666666666667 12.9375 1.91667625 1.9166666666666667 12.9375 1.9166666666666667" stroke-width="1"></path>
   </g>
 </svg>

@@ -4,13 +4,13 @@
   </desc>
   <g id="router-wifi-network">
     <g id="Group 176661">
-      <path id="Vector 2433" stroke="#000000" stroke-linecap="square" d="M2 18.7499v-7.2831h20v7.2831H2Z" stroke-width="1"></path>
-      <path id="Vector 2434" stroke="#000000" stroke-linecap="square" d="M5.84619 18.75v2" stroke-width="1"></path>
-      <path id="Vector 2436" stroke="#000000" stroke-linecap="square" d="M10.7681 15.1084h6.7127" stroke-width="1"></path>
-      <path id="Vector 2440" stroke="#000000" stroke-linecap="square" d="m6.69629 15.1084 0.16284 0" stroke-width="1"></path>
-      <path id="Vector 2437" stroke="#000000" stroke-linecap="square" d="m7.21045 7.16699 0 4.29951" stroke-width="1"></path>
-      <path id="Vector 2438" stroke="#000000" stroke-linecap="square" d="M17.4023 3.25v8.2169" stroke-width="1"></path>
-      <path id="Vector 2439" stroke="#000000" stroke-linecap="square" d="M18.1538 18.75v2" stroke-width="1"></path>
+      <path id="Vector 2433" stroke="#000000" stroke-linecap="square" d="M2 18.7499v-7.2831h20v7.2831H2Z" stroke-width="1.5"></path>
+      <path id="Vector 2434" stroke="#000000" stroke-linecap="square" d="M5.84619 18.75v2" stroke-width="1.5"></path>
+      <path id="Vector 2436" stroke="#000000" stroke-linecap="square" d="M10.7681 15.1084h6.7127" stroke-width="1.5"></path>
+      <path id="Vector 2440" stroke="#000000" stroke-linecap="square" d="m6.69629 15.1084 0.16284 0" stroke-width="1.5"></path>
+      <path id="Vector 2437" stroke="#000000" stroke-linecap="square" d="m7.21045 7.16699 0 4.29951" stroke-width="1.5"></path>
+      <path id="Vector 2438" stroke="#000000" stroke-linecap="square" d="M17.4023 3.25v8.2169" stroke-width="1.5"></path>
+      <path id="Vector 2439" stroke="#000000" stroke-linecap="square" d="M18.1538 18.75v2" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

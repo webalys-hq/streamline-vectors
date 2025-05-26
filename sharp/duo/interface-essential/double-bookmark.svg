@@ -3,8 +3,8 @@
     Double Bookmark Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="double-bookmark--bookmarks-double-tags-favorite">
-    <path id="Rectangle 919" stroke="#4147d5" d="M8 2h11v16" stroke-width="1"></path>
-    <path id="Rectangle 920" fill="#d7e0ff" d="M4.5 5.5h11V21L10 16.5 4.5 21V5.5Z" stroke-width="1"></path>
-    <path id="Rectangle 921" stroke="#4147d5" d="M4.5 5.5h11V21L10 16.5 4.5 21V5.5Z" stroke-width="1"></path>
+    <path id="Rectangle 919" stroke="#4147d5" d="M8 2h11v16" stroke-width="1.5"></path>
+    <path id="Rectangle 920" fill="#d7e0ff" d="M4.5 5.5h11V21L10 16.5 4.5 21V5.5Z" stroke-width="1.5"></path>
+    <path id="Rectangle 921" stroke="#4147d5" d="M4.5 5.5h11V21L10 16.5 4.5 21V5.5Z" stroke-width="1.5"></path>
   </g>
 </svg>

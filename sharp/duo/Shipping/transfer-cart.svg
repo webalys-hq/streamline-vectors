@@ -3,12 +3,12 @@
     Transfer Cart Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="transfer-cart--package-box-fulfillment-cart-warehouse-shipping-delivery-transfer">
-    <path id="Vector 51" fill="#d7e0ff" d="M9 16V7h10v9H9Z" stroke-width="1"></path>
-    <path id="Ellipse 3" fill="#ffffff" d="M3 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Vector 1" stroke="#4147d5" d="M9 16V7h10v9H9Z" stroke-width="1"></path>
-    <path id="Vector 41" stroke="#4147d5" d="M13.5 13h3" stroke-width="1"></path>
-    <path id="Ellipse 2" stroke="#4147d5" d="M3 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Vector 48" stroke="#4147d5" d="M7 20h13l2 2" stroke-width="1"></path>
-    <path id="Vector 50" stroke="#4147d5" d="M5 18V4L2.5 1.5" stroke-width="1"></path>
+    <path id="Vector 51" fill="#d7e0ff" d="M9 16V7h10v9H9Z" stroke-width="1.5"></path>
+    <path id="Ellipse 3" fill="#ffffff" d="M3 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Vector 1" stroke="#4147d5" d="M9 16V7h10v9H9Z" stroke-width="1.5"></path>
+    <path id="Vector 41" stroke="#4147d5" d="M13.5 13h3" stroke-width="1.5"></path>
+    <path id="Ellipse 2" stroke="#4147d5" d="M3 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Vector 48" stroke="#4147d5" d="M7 20h13l2 2" stroke-width="1.5"></path>
+    <path id="Vector 50" stroke="#4147d5" d="M5 18V4L2.5 1.5" stroke-width="1.5"></path>
   </g>
 </svg>

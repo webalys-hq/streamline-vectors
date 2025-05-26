@@ -3,12 +3,12 @@
     Eye Optic Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="eye-optic--health-medical-eye-optic">
-    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.8005 26.9011c-0.16368 -0.5893 -0.16369 -1.2124 -0.00002 -1.8016C5.37918 15.8146 13.8939 9 24.0002 9c10.1062 0 18.6207 6.8143 21.1996 16.0989 0.1637 0.5893 0.1637 1.2124 0 1.8016C42.6211 36.1854 34.1064 43 24.0001 43 13.894 43 5.37939 36.1857 2.8005 26.9011Z" stroke-width="1"></path>
-    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 26c0 5.5228 -4.4772 10 -10 10s-10 -4.4772 -10 -10 4.4772 -10 10 -10 10 4.4772 10 10Z" stroke-width="1"></path>
-    <path id="Vector 2106" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 9V2" stroke-width="1"></path>
-    <path id="Vector 2109" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.5 11.0817 11 5.01953" stroke-width="1"></path>
-    <path id="Vector 2111" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33.5 11.0817 37 5.01953" stroke-width="1"></path>
-    <path id="Vector 2110" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.97904 16.983 2.0293 12.0332" stroke-width="1"></path>
-    <path id="Vector 2112" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m41.021 16.981 4.9497 -4.9498" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.8005 26.9011c-0.16368 -0.5893 -0.16369 -1.2124 -0.00002 -1.8016C5.37918 15.8146 13.8939 9 24.0002 9c10.1062 0 18.6207 6.8143 21.1996 16.0989 0.1637 0.5893 0.1637 1.2124 0 1.8016C42.6211 36.1854 34.1064 43 24.0001 43 13.894 43 5.37939 36.1857 2.8005 26.9011Z" stroke-width="3"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 26c0 5.5228 -4.4772 10 -10 10s-10 -4.4772 -10 -10 4.4772 -10 10 -10 10 4.4772 10 10Z" stroke-width="3"></path>
+    <path id="Vector 2106" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 9V2" stroke-width="3"></path>
+    <path id="Vector 2109" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.5 11.0817 11 5.01953" stroke-width="3"></path>
+    <path id="Vector 2111" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33.5 11.0817 37 5.01953" stroke-width="3"></path>
+    <path id="Vector 2110" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.97904 16.983 2.0293 12.0332" stroke-width="3"></path>
+    <path id="Vector 2112" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m41.021 16.981 4.9497 -4.9498" stroke-width="3"></path>
   </g>
 </svg>

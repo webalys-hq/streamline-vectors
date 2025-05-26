@@ -2,13 +2,13 @@
   <desc>
     Modern Music Dj Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 20.25H0.75v1.5c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h19.5c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.669 14.25H5.331c-0.25441 0 -0.50464 0.0647 -0.72715 0.188 -0.22252 0.1234 -0.41001 0.3013 -0.54485 0.517L0.75 20.25h22.5l-3.309 -5.295c-0.1348 -0.2157 -0.3223 -0.3936 -0.5448 -0.517 -0.2226 -0.1233 -0.4728 -0.188 -0.7272 -0.188Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 17.25h1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 16.5 6.75 18" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m16.5 16.5 0.75 1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 8.25c0 0.99456 0.39509 1.9484 1.09835 2.6517C10.0516 11.6049 11.0054 12 12 12c0.9946 0 1.9484 -0.3951 2.6517 -1.0983 0.7032 -0.7033 1.0983 -1.65714 1.0983 -2.6517 0 -0.99456 -0.3951 -1.94839 -1.0983 -2.65165C13.9484 4.89509 12.9946 4.5 12 4.5c-0.9946 0 -1.9484 0.39509 -2.65165 1.09835C8.64509 6.30161 8.25 7.25544 8.25 8.25Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 6.75c0 -1.5913 -0.6321 -3.11742 -1.7574 -4.24264C15.1174 1.38214 13.5913 0.75 12 0.75c-1.5913 0 -3.11742 0.63214 -4.24264 1.75736C6.63214 3.63258 6 5.1587 6 6.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 5.25c0.7956 0 1.5587 0.31607 2.1213 0.87868C20.6839 6.69129 21 7.45435 21 8.25s-0.3161 1.55871 -0.8787 2.1213c-0.5626 0.5626 -1.3257 0.8787 -2.1213 0.8787v-6Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 5.25c-0.79565 0 -1.55871 0.31607 -2.12132 0.87868C3.31607 6.69129 3 7.45435 3 8.25s0.31607 1.55871 0.87868 2.1213c0.56261 0.5626 1.32567 0.8787 2.12132 0.8787v-6Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 20.25H0.75v1.5c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h19.5c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.669 14.25H5.331c-0.25441 0 -0.50464 0.0647 -0.72715 0.188 -0.22252 0.1234 -0.41001 0.3013 -0.54485 0.517L0.75 20.25h22.5l-3.309 -5.295c-0.1348 -0.2157 -0.3223 -0.3936 -0.5448 -0.517 -0.2226 -0.1233 -0.4728 -0.188 -0.7272 -0.188Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 17.25h1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.5 16.5 6.75 18" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m16.5 16.5 0.75 1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 8.25c0 0.99456 0.39509 1.9484 1.09835 2.6517C10.0516 11.6049 11.0054 12 12 12c0.9946 0 1.9484 -0.3951 2.6517 -1.0983 0.7032 -0.7033 1.0983 -1.65714 1.0983 -2.6517 0 -0.99456 -0.3951 -1.94839 -1.0983 -2.65165C13.9484 4.89509 12.9946 4.5 12 4.5c-0.9946 0 -1.9484 0.39509 -2.65165 1.09835C8.64509 6.30161 8.25 7.25544 8.25 8.25Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 6.75c0 -1.5913 -0.6321 -3.11742 -1.7574 -4.24264C15.1174 1.38214 13.5913 0.75 12 0.75c-1.5913 0 -3.11742 0.63214 -4.24264 1.75736C6.63214 3.63258 6 5.1587 6 6.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 5.25c0.7956 0 1.5587 0.31607 2.1213 0.87868C20.6839 6.69129 21 7.45435 21 8.25s-0.3161 1.55871 -0.8787 2.1213c-0.5626 0.5626 -1.3257 0.8787 -2.1213 0.8787v-6Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 5.25c-0.79565 0 -1.55871 0.31607 -2.12132 0.87868C3.31607 6.69129 3 7.45435 3 8.25s0.31607 1.55871 0.87868 2.1213c0.56261 0.5626 1.32567 0.8787 2.12132 0.8787v-6Z" stroke-width="1.5"></path>
 </svg>

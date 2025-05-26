@@ -3,8 +3,8 @@
     Atom Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="atom--science-atom">
-    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M42.2584 5.74156c6.1515 6.15144 1.3894 17.73854 -8.6945 27.82234 -10.0838 10.0839 -21.6709 14.846 -27.82234 8.6945C-0.40991 36.107 4.3522 24.5199 14.4361 14.4361 24.5199 4.3522 36.107 -0.40991 42.2584 5.74156Z" stroke-width="1"></path>
-    <path id="Ellipse 20" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.74156 5.74156C-0.409909 11.893 4.3522 23.4801 14.4361 33.5639c10.0838 10.0839 21.6709 14.846 27.8223 8.6945 6.1515 -6.1514 1.3894 -17.7385 -8.6945 -27.8223C23.4801 4.3522 11.893 -0.40991 5.74156 5.74156Z" stroke-width="1"></path>
-    <path id="Ellipse 21" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M30 24c0 3.3137 -2.6863 6 -6 6s-6 -2.6863 -6 -6 2.6863 -6 6 -6 6 2.6863 6 6Z" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M42.2584 5.74156c6.1515 6.15144 1.3894 17.73854 -8.6945 27.82234 -10.0838 10.0839 -21.6709 14.846 -27.82234 8.6945C-0.40991 36.107 4.3522 24.5199 14.4361 14.4361 24.5199 4.3522 36.107 -0.40991 42.2584 5.74156Z" stroke-width="3"></path>
+    <path id="Ellipse 20" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.74156 5.74156C-0.409909 11.893 4.3522 23.4801 14.4361 33.5639c10.0838 10.0839 21.6709 14.846 27.8223 8.6945 6.1515 -6.1514 1.3894 -17.7385 -8.6945 -27.8223C23.4801 4.3522 11.893 -0.40991 5.74156 5.74156Z" stroke-width="3"></path>
+    <path id="Ellipse 21" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M30 24c0 3.3137 -2.6863 6 -6 6s-6 -2.6863 -6 -6 2.6863 -6 6 -6 6 2.6863 6 6Z" stroke-width="3"></path>
   </g>
 </svg>

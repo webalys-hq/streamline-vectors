@@ -3,9 +3,9 @@
     Sd Card Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="sd-card--computer-device-chips">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24.0086 45.9996c-6.0589 0 -10.4564 -0.113 -13.4297 -0.2341 -2.88491 -0.1176 -5.12961 -2.3721 -5.25395 -5.2567 -0.15194 -3.5247 -0.30771 -8.9744 -0.30771 -16.5036 0 -1.929 -0.01628 -3.7701 -0.01724 -5.4452 -0.00096 -1.6807 0.54448 -3.3234 1.62401 -4.6116C11.0348 8.68507 16.0582 4.93255 18.6654 3.16056c1.1517 -0.78278 2.5148 -1.16366 3.9074 -1.16054 0.7536 0.00169 1.2783 0.0085 1.4058 0.0103 0.0207 0.00029 0.0409 0.00044 0.0617 0.00044 6.0425 0.00039 10.4299 0.11323 13.398 0.23417 2.8849 0.11755 5.1296 2.37203 5.2539 5.25665C42.8442 11.0263 43 16.476 43 24.0052c0 7.5292 -0.1558 12.9789 -0.3078 16.5036 -0.1243 2.8846 -2.369 5.1391 -5.2539 5.2567 -2.9733 0.1211 -7.3708 0.2341 -13.4297 0.2341Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 8v5" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 8v5" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 8v5" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24.0086 45.9996c-6.0589 0 -10.4564 -0.113 -13.4297 -0.2341 -2.88491 -0.1176 -5.12961 -2.3721 -5.25395 -5.2567 -0.15194 -3.5247 -0.30771 -8.9744 -0.30771 -16.5036 0 -1.929 -0.01628 -3.7701 -0.01724 -5.4452 -0.00096 -1.6807 0.54448 -3.3234 1.62401 -4.6116C11.0348 8.68507 16.0582 4.93255 18.6654 3.16056c1.1517 -0.78278 2.5148 -1.16366 3.9074 -1.16054 0.7536 0.00169 1.2783 0.0085 1.4058 0.0103 0.0207 0.00029 0.0409 0.00044 0.0617 0.00044 6.0425 0.00039 10.4299 0.11323 13.398 0.23417 2.8849 0.11755 5.1296 2.37203 5.2539 5.25665C42.8442 11.0263 43 16.476 43 24.0052c0 7.5292 -0.1558 12.9789 -0.3078 16.5036 -0.1243 2.8846 -2.369 5.1391 -5.2539 5.2567 -2.9733 0.1211 -7.3708 0.2341 -13.4297 0.2341Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 8v5" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M30 8v5" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 8v5" stroke-width="3"></path>
   </g>
 </svg>

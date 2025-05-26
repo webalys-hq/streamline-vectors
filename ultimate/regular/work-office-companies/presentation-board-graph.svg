@@ -2,9 +2,9 @@
   <desc>
     Presentation Board Graph Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.25v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 20.25 -3 3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 20.25 3 3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 0.75h18s1.5 0 1.5 1.5v13.5s0 1.5 -1.5 1.5H3s-1.5 0 -1.5 -1.5V2.25S1.5 0.75 3 0.75Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.75h3l1.5 -3L12 12l2.25 -3.75 2.25 1.5 3 -3.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 17.25v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 20.25 -3 3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 20.25 3 3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3 0.75h18s1.5 0 1.5 1.5v13.5s0 1.5 -1.5 1.5H3s-1.5 0 -1.5 -1.5V2.25S1.5 0.75 3 0.75Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 9.75h3l1.5 -3L12 12l2.25 -3.75 2.25 1.5 3 -3.75" stroke-width="1.5"></path>
 </svg>

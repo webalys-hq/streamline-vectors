@@ -3,9 +3,9 @@
     Hotel Bed 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hotel-bed-2--bed-double-bedroom-bedrooms-queen-king-full-hotel-hotel">
-    <path id="Vector" stroke="#000000" d="M6 6V2h6l0 4H6Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="M12 6V2h6v4h-6Z" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000000" d="M2 2h20v20H2V2Z" stroke-width="1"></path>
-    <path id="Vector 2055" stroke="#000000" d="M22 10 2 10" stroke-width="1"></path>
+    <path id="Vector" stroke="#000000" d="M6 6V2h6l0 4H6Z" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="M12 6V2h6v4h-6Z" stroke-width="1.5"></path>
+    <path id="Vector_3" stroke="#000000" d="M2 2h20v20H2V2Z" stroke-width="1.5"></path>
+    <path id="Vector 2055" stroke="#000000" d="M22 10 2 10" stroke-width="1.5"></path>
   </g>
 </svg>

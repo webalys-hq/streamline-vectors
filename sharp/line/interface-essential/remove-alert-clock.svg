@@ -4,12 +4,12 @@
   </desc>
   <g id="remove-alert-clock">
     <g id="Group 176480">
-      <path id="Vector 2132" stroke="#000000" stroke-linecap="square" d="M12 9.097v4.687h4.625" stroke-width="1"></path>
-      <path id="Ellipse 618" stroke="#000000" d="M3 13a9 9 0 1 1 7.71 8.908" stroke-width="1"></path>
-      <path id="Vector 2021" stroke="#000000" d="m18 2 4.5 4.5" stroke-width="1"></path>
-      <path id="Vector 2022" stroke="#000000" d="M1.5 6.5 6 2" stroke-width="1"></path>
-      <path id="Vector 2131" stroke="#000000" stroke-linecap="square" d="m20.378 21.922 -2.097 -2.324" stroke-width="1"></path>
-      <path id="Vector" stroke="#000000" stroke-linecap="square" d="m7.625 16.7 -5.3 5.3m0 -5.3 5.3 5.3" stroke-width="1"></path>
+      <path id="Vector 2132" stroke="#000000" stroke-linecap="square" d="M12 9.097v4.687h4.625" stroke-width="1.5"></path>
+      <path id="Ellipse 618" stroke="#000000" d="M3 13a9 9 0 1 1 7.71 8.908" stroke-width="1.5"></path>
+      <path id="Vector 2021" stroke="#000000" d="m18 2 4.5 4.5" stroke-width="1.5"></path>
+      <path id="Vector 2022" stroke="#000000" d="M1.5 6.5 6 2" stroke-width="1.5"></path>
+      <path id="Vector 2131" stroke="#000000" stroke-linecap="square" d="m20.378 21.922 -2.097 -2.324" stroke-width="1.5"></path>
+      <path id="Vector" stroke="#000000" stroke-linecap="square" d="m7.625 16.7 -5.3 5.3m0 -5.3 5.3 5.3" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

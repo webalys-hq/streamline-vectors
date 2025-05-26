@@ -2,9 +2,9 @@
   <desc>
     Checkup Diagnostic Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.17 21.971c3.1834 0 5.764 -2.5807 5.764 -5.764 0 -3.1834 -2.5806 -5.764 -5.764 -5.764 -3.1834 0 -5.764 2.5806 -5.764 5.764 0 3.1833 2.5806 5.764 5.764 5.764Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.2434 20.2802 2.6515 2.6514" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.406 16.4454h2.3847l1.4308 -1.9078 1.9077 3.3386 1.4308 -1.9078h1.4308" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.73258 9.30489c2.32252 0 4.20522 -1.88275 4.20522 -4.20524S11.0551 0.894409 8.73258 0.894409c-2.32249 0 -4.20524 1.882751 -4.20524 4.205241s1.88275 4.20524 4.20524 4.20524Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.07487 21.0795H1.16309v-0.9119c0.01339 -1.2821 0.35152 -2.5399 0.9828 -3.6559 0.63128 -1.116 1.53513 -2.0538 2.6271 -2.7258 1.09198 -0.6719 2.33645 -1.0562 3.61719 -1.1168" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M16.17 21.971c3.1834 0 5.764 -2.5807 5.764 -5.764 0 -3.1834 -2.5806 -5.764 -5.764 -5.764 -3.1834 0 -5.764 2.5806 -5.764 5.764 0 3.1833 2.5806 5.764 5.764 5.764Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m20.2434 20.2802 2.6515 2.6514" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10.406 16.4454h2.3847l1.4308 -1.9078 1.9077 3.3386 1.4308 -1.9078h1.4308" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.73258 9.30489c2.32252 0 4.20522 -1.88275 4.20522 -4.20524S11.0551 0.894409 8.73258 0.894409c-2.32249 0 -4.20524 1.882751 -4.20524 4.205241s1.88275 4.20524 4.20524 4.20524Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.07487 21.0795H1.16309v-0.9119c0.01339 -1.2821 0.35152 -2.5399 0.9828 -3.6559 0.63128 -1.116 1.53513 -2.0538 2.6271 -2.7258 1.09198 -0.6719 2.33645 -1.0562 3.61719 -1.1168" stroke-width="1.5"></path>
 </svg>

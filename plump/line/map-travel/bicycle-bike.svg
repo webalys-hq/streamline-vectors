@@ -3,11 +3,11 @@
     Bicycle Bike Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="bicycle-bike">
-    <path id="Ellipse 110" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M46 31a8 8 0 1 1 -16 0 8 8 0 1 1 16 0" stroke-width="1"></path>
-    <path id="Vector 1393" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M37 10c-4 0.5 -6.5 2 -6.5 2L37 30.5" stroke-width="1"></path>
-    <path id="Vector 1394" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M32 16.5C30.333 19.667 23 30 23 30s-8 1.5 -14 0l8.5 -10.5" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.863 23.993a8 8 0 1 0 4.126 6.587" stroke-width="1"></path>
-    <path id="Vector 1395" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 30c-1.711 -3.765 -5.507 -10.735 -7 -14.5" stroke-width="1"></path>
-    <path id="Vector 283" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.5 14.5S16 14.5 12 16" stroke-width="1"></path>
+    <path id="Ellipse 110" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M46 31a8 8 0 1 1 -16 0 8 8 0 1 1 16 0" stroke-width="3"></path>
+    <path id="Vector 1393" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M37 10c-4 0.5 -6.5 2 -6.5 2L37 30.5" stroke-width="3"></path>
+    <path id="Vector 1394" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M32 16.5C30.333 19.667 23 30 23 30s-8 1.5 -14 0l8.5 -10.5" stroke-width="3"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M13.863 23.993a8 8 0 1 0 4.126 6.587" stroke-width="3"></path>
+    <path id="Vector 1395" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23 30c-1.711 -3.765 -5.507 -10.735 -7 -14.5" stroke-width="3"></path>
+    <path id="Vector 283" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.5 14.5S16 14.5 12 16" stroke-width="3"></path>
   </g>
 </svg>

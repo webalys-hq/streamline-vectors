@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Surveillance-Camera--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Surveillance-Camera--Streamline-Sharp-Neon">
   <desc>
     Surveillance Camera Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="surveillance-camera">
-    <path id="Vector 3662" stroke="#000cfe" d="M1 16v6" stroke-width="1"></path>
-    <path id="Vector 3663" stroke="#000cfe" d="M1 19h8v-6" stroke-width="1"></path>
-    <path id="Vector 3666" stroke="#000cfe" d="M23 6v8" stroke-width="1"></path>
-    <path id="Vector 3667" stroke="#000cfe" d="M7 6v2" stroke-width="1"></path>
-    <path id="Vector 3664" stroke="#c71dff" d="M3 13V3h17.5l-3 10H3Z" stroke-width="1"></path>
-    <path id="Vector 3668" stroke="#c71dff" d="m3 3 21 0 -3.5 0" stroke-width="1"></path>
+    <path id="Vector 3662" stroke="#000cfe" d="M0.9583333333333334 15.333333333333334v5.75" stroke-width="1"></path>
+    <path id="Vector 3663" stroke="#000cfe" d="M0.9583333333333334 18.208333333333336h7.666666666666667v-5.75" stroke-width="1"></path>
+    <path id="Vector 3666" stroke="#000cfe" d="M22.041666666666668 5.75v7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 3667" stroke="#000cfe" d="M6.708333333333334 5.75v1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 3664" stroke="#c71dff" d="M2.875 12.458333333333334V2.875h16.770833333333336l-2.875 9.583333333333334H2.875Z" stroke-width="1"></path>
+    <path id="Vector 3668" stroke="#c71dff" d="m2.875 2.875 20.125 0 -3.354166666666667 0" stroke-width="1"></path>
   </g>
 </svg>

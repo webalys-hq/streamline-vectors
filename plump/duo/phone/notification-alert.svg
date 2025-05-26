@@ -3,14 +3,14 @@
     Notification Alert Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="notification-alert--android-phone-mobile-device-smartphone-iphone-alert">
-    <path id="Subtract" fill="#8fbffa" d="M22.5 3.073c0.44 0.015 0.65 0.56 0.354 0.888A14.944 14.944 0 0 0 19 14c0 7.938 6.165 14.435 13.968 14.965 -0.064 4.823 -0.214 8.393 -0.357 10.842 -0.147 2.52 -1.973 4.53 -4.487 4.771C25.809 44.8 22.477 45 18 45s-7.81 -0.2 -10.124 -0.422c-2.514 -0.24 -4.34 -2.25 -4.487 -4.771C3.2 36.583 3 31.413 3 24s0.2 -12.583 0.389 -15.807c0.147 -2.52 1.973 -4.53 4.487 -4.771C10.191 3.2 13.523 3 18 3c1.654 0 3.152 0.027 4.5 0.073Z" stroke-width="1"></path>
-    <path id="Subtract_2" fill="#ffffff" d="M22.5 3.073c0.44 0.015 0.65 0.56 0.354 0.888a14.992 14.992 0 0 0 -3 5.039h-4.205a3 3 0 0 1 -2.977 -2.628l-0.406 -3.25C13.916 3.047 15.823 3 18 3c1.654 0 3.152 0.027 4.5 0.073Z" stroke-width="1"></path>
-    <path id="Ellipse 20" fill="#ffffff" d="M23 14a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="1"></path>
-    <path id="Rectangle 1095" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32.953 30c-0.07 4.303 -0.21 7.538 -0.342 9.808 -0.147 2.52 -1.973 4.53 -4.487 4.77C25.809 44.8 22.477 45 18 45s-7.81 -0.2 -10.124 -0.422c-2.514 -0.24 -4.34 -2.25 -4.487 -4.771C3.2 36.583 3 31.413 3 24s0.2 -12.583 0.389 -15.807c0.147 -2.52 1.973 -4.53 4.487 -4.771C10.191 3.2 13.523 3 18 3c1.452 0 2.784 0.021 4 0.057" stroke-width="1"></path>
-    <path id="Intersect" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m12.266 3.122 0.406 3.25A3 3 0 0 0 15.649 9H19" stroke-width="1"></path>
-    <path id="Vector 1363" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M16 39h4" stroke-width="1"></path>
-    <path id="Ellipse 19" stroke="#2859c5" stroke-linejoin="round" d="M23 14a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="1"></path>
-    <path id="Vector 1192" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34 18v1" stroke-width="1"></path>
-    <path id="Vector 1193" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34 14V9" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" d="M22.5 3.073c0.44 0.015 0.65 0.56 0.354 0.888A14.944 14.944 0 0 0 19 14c0 7.938 6.165 14.435 13.968 14.965 -0.064 4.823 -0.214 8.393 -0.357 10.842 -0.147 2.52 -1.973 4.53 -4.487 4.771C25.809 44.8 22.477 45 18 45s-7.81 -0.2 -10.124 -0.422c-2.514 -0.24 -4.34 -2.25 -4.487 -4.771C3.2 36.583 3 31.413 3 24s0.2 -12.583 0.389 -15.807c0.147 -2.52 1.973 -4.53 4.487 -4.771C10.191 3.2 13.523 3 18 3c1.654 0 3.152 0.027 4.5 0.073Z" stroke-width="3"></path>
+    <path id="Subtract_2" fill="#ffffff" d="M22.5 3.073c0.44 0.015 0.65 0.56 0.354 0.888a14.992 14.992 0 0 0 -3 5.039h-4.205a3 3 0 0 1 -2.977 -2.628l-0.406 -3.25C13.916 3.047 15.823 3 18 3c1.654 0 3.152 0.027 4.5 0.073Z" stroke-width="3"></path>
+    <path id="Ellipse 20" fill="#ffffff" d="M23 14a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="3"></path>
+    <path id="Rectangle 1095" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M32.953 30c-0.07 4.303 -0.21 7.538 -0.342 9.808 -0.147 2.52 -1.973 4.53 -4.487 4.77C25.809 44.8 22.477 45 18 45s-7.81 -0.2 -10.124 -0.422c-2.514 -0.24 -4.34 -2.25 -4.487 -4.771C3.2 36.583 3 31.413 3 24s0.2 -12.583 0.389 -15.807c0.147 -2.52 1.973 -4.53 4.487 -4.771C10.191 3.2 13.523 3 18 3c1.452 0 2.784 0.021 4 0.057" stroke-width="3"></path>
+    <path id="Intersect" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m12.266 3.122 0.406 3.25A3 3 0 0 0 15.649 9H19" stroke-width="3"></path>
+    <path id="Vector 1363" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M16 39h4" stroke-width="3"></path>
+    <path id="Ellipse 19" stroke="#2859c5" stroke-linejoin="round" d="M23 14a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="3"></path>
+    <path id="Vector 1192" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34 18v1" stroke-width="3"></path>
+    <path id="Vector 1193" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M34 14V9" stroke-width="3"></path>
   </g>
 </svg>

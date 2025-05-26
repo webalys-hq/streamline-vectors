@@ -2,9 +2,9 @@
   <desc>
     Lock Shield Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 9.75h-7.5c-0.82843 0 -1.5 0.6716 -1.5 1.5v4.5c0 0.8284 0.67157 1.5 1.5 1.5h7.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-4.5c0 -0.8284 -0.6716 -1.5 -1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 13.875c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" d="M12 13.875c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 9.75V7.5c0 -0.99456 0.39509 -1.94839 1.09835 -2.65165C10.0516 4.14509 11.0054 3.75 12 3.75c0.9946 0 1.9484 0.39509 2.6517 1.09835C15.3549 5.55161 15.75 6.50544 15.75 7.5v2.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 23.25C5.324 21.469 0.75 17.51 0.75 10.5V0.75h22.5v9.75c0 7.005 -4.567 10.967 -11.25 12.75Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 9.75h-7.5c-0.82843 0 -1.5 0.6716 -1.5 1.5v4.5c0 0.8284 0.67157 1.5 1.5 1.5h7.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-4.5c0 -0.8284 -0.6716 -1.5 -1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 13.875c-0.2071 0 -0.375 -0.1679 -0.375 -0.375s0.1679 -0.375 0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" d="M12 13.875c0.2071 0 0.375 -0.1679 0.375 -0.375s-0.1679 -0.375 -0.375 -0.375" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 9.75V7.5c0 -0.99456 0.39509 -1.94839 1.09835 -2.65165C10.0516 4.14509 11.0054 3.75 12 3.75c0.9946 0 1.9484 0.39509 2.6517 1.09835C15.3549 5.55161 15.75 6.50544 15.75 7.5v2.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 23.25C5.324 21.469 0.75 17.51 0.75 10.5V0.75h22.5v9.75c0 7.005 -4.567 10.967 -11.25 12.75Z" stroke-width="1.5"></path>
 </svg>

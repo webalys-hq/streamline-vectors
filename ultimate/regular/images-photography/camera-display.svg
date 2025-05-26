@@ -2,9 +2,9 @@
   <desc>
     Camera Display Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19.5 6 -1.085 -2.171c-0.1246 -0.24918 -0.3162 -0.45872 -0.5532 -0.60515 -0.2371 -0.14642 -0.5102 -0.22393 -0.7888 -0.22385h-5.646c-0.2786 -0.00008 -0.5517 0.07743 -0.7888 0.22385 -0.237 0.14643 -0.4286 0.35597 -0.5532 0.60515L9 6H2.25c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934C0.908035 6.72064 0.75 7.10218 0.75 7.5v12c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h19.5c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-12c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C22.5294 6.15804 22.1478 6 21.75 6H19.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 10.5h9V18h-9v-7.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 12h1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 16.5h1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 6V4.5" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m19.5 6 -1.085 -2.171c-0.1246 -0.24918 -0.3162 -0.45872 -0.5532 -0.60515 -0.2371 -0.14642 -0.5102 -0.22393 -0.7888 -0.22385h-5.646c-0.2786 -0.00008 -0.5517 0.07743 -0.7888 0.22385 -0.237 0.14643 -0.4286 0.35597 -0.5532 0.60515L9 6H2.25c-0.39782 0 -0.77936 0.15804 -1.06066 0.43934C0.908035 6.72064 0.75 7.10218 0.75 7.5v12c0 0.3978 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h19.5c0.3978 0 0.7794 -0.158 1.0607 -0.4393s0.4393 -0.6629 0.4393 -1.0607v-12c0 -0.39782 -0.158 -0.77936 -0.4393 -1.06066C22.5294 6.15804 22.1478 6 21.75 6H19.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.75 10.5h9V18h-9v-7.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 12h1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18 16.5h1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 6V4.5" stroke-width="1.5"></path>
 </svg>

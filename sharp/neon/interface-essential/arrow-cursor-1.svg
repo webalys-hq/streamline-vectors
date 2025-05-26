@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Cursor-1--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Arrow-Cursor-1--Streamline-Sharp-Neon">
   <desc>
     Arrow Cursor 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="arrow-cursor-1--mouse-select-cursor">
-    <path id="Union" stroke="#c71dff" d="m2 2 4 19 5 -5 6 6 5 -5 -6 -6 5 -5L2 2Z" stroke-width="1"></path>
+    <path id="Union" stroke="#c71dff" d="m1.9166666666666667 1.9166666666666667 3.8333333333333335 18.208333333333336 4.791666666666667 -4.791666666666667 5.75 5.75 4.791666666666667 -4.791666666666667 -5.75 -5.75 4.791666666666667 -4.791666666666667L1.9166666666666667 1.9166666666666667Z" stroke-width="1"></path>
   </g>
 </svg>

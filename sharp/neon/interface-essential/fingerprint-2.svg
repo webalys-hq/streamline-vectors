@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Fingerprint-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Fingerprint-2--Streamline-Sharp-Neon">
   <desc>
     Fingerprint 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="fingerprint-2--identification-password-touch-id-secure-fingerprint-finger-security">
-    <path id="Rectangle 919" stroke="#c71dff" d="M20.777 16c-0.9095 4.008 -4.4938 7 -8.777 7 -4.97056 0 -9 -4.0294 -9 -9l0 -2" stroke-width="1"></path>
-    <path id="Rectangle 921" stroke="#c71dff" d="M21 14v-4c0 -4.97056 -4.0294 -9 -9 -9" stroke-width="1"></path>
-    <path id="Rectangle 920" stroke="#c71dff" d="M3 9.99964c0 -4.28318 2.99202 -7.86753 7 -8.77698" stroke-width="1"></path>
-    <path id="Rectangle 919_2" stroke="#000cfe" d="M16.5 10c0 -2.48528 -2.0147 -4.5 -4.5 -4.5 -1.7668 0 -3.29588 1.01828 -4.03223 2.5" stroke-width="1"></path>
-    <path id="Rectangle 923" stroke="#000cfe" d="M12 18.5c2.4853 0 4.5 -2.0147 4.5 -4.5v-2" stroke-width="1"></path>
-    <path id="Rectangle 922" stroke="#000cfe" d="m7.5 10 0 4c0 1.7669 1.01828 3.2959 2.5 4.0322" stroke-width="1"></path>
-    <path id="Vector 2264" stroke="#c71dff" d="M12 9v6" stroke-width="1"></path>
+    <path id="Rectangle 919" stroke="#c71dff" d="M19.911291666666667 15.333333333333334c-0.8716041666666666 3.841 -4.306558333333334 6.708333333333334 -8.411291666666667 6.708333333333334 -4.7634533333333335 0 -8.625 -3.8615083333333335 -8.625 -8.625l0 -1.9166666666666667" stroke-width="1"></path>
+    <path id="Rectangle 921" stroke="#c71dff" d="M20.125 13.416666666666668v-3.8333333333333335c0 -4.7634533333333335 -3.8615083333333335 -8.625 -8.625 -8.625" stroke-width="1"></path>
+    <path id="Rectangle 920" stroke="#c71dff" d="M2.875 9.582988333333333c0 -4.104714166666667 2.8673525000000004 -7.539716250000001 6.708333333333334 -8.4112725" stroke-width="1"></path>
+    <path id="Rectangle 919_2" stroke="#000cfe" d="M15.8125 9.583333333333334c0 -2.3817266666666668 -1.9307541666666668 -4.3125 -4.3125 -4.3125 -1.6931833333333333 0 -3.158551666666667 0.9758516666666668 -3.864220416666667 2.3958333333333335" stroke-width="1"></path>
+    <path id="Rectangle 923" stroke="#000cfe" d="M11.5 17.729166666666668c2.3817458333333335 0 4.3125 -1.9307541666666668 4.3125 -4.3125v-1.9166666666666667" stroke-width="1"></path>
+    <path id="Rectangle 922" stroke="#000cfe" d="m7.1875 9.583333333333334 0 3.8333333333333335c0 1.6932791666666667 0.9758516666666668 3.1585708333333335 2.3958333333333335 3.8641916666666662" stroke-width="1"></path>
+    <path id="Vector 2264" stroke="#c71dff" d="M11.5 8.625v5.75" stroke-width="1"></path>
   </g>
 </svg>

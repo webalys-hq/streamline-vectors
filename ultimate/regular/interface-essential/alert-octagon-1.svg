@@ -2,7 +2,7 @@
   <desc>
     Alert Octagon 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.65 0.800049h-9.3L0.75 7.30005v9.40005l6.6 6.5h9.3l6.6 -6.5V7.30005L16.65 0.800049Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.95 18.5c0.8284 0 1.5 -0.6715 1.5 -1.5 0 -0.8284 -0.6716 -1.5 -1.5 -1.5 -0.8285 0 -1.5 0.6716 -1.5 1.5 0 0.8285 0.6715 1.5 1.5 1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.95 7c0 1.1 -2 5.5 -2 5.5S9.94995 8.1 9.94995 7c0 -1.1 0.90005 -2 2.00005 -2 1.1 0 2 0.9 2 2Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.65 0.800049h-9.3L0.75 7.30005v9.40005l6.6 6.5h9.3l6.6 -6.5V7.30005L16.65 0.800049Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.95 18.5c0.8284 0 1.5 -0.6715 1.5 -1.5 0 -0.8284 -0.6716 -1.5 -1.5 -1.5 -0.8285 0 -1.5 0.6716 -1.5 1.5 0 0.8285 0.6715 1.5 1.5 1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.95 7c0 1.1 -2 5.5 -2 5.5S9.94995 8.1 9.94995 7c0 -1.1 0.90005 -2 2.00005 -2 1.1 0 2 0.9 2 2Z" stroke-width="1.5"></path>
 </svg>

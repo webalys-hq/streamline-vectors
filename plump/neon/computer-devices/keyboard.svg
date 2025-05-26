@@ -3,16 +3,16 @@
     Keyboard Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="keyboard--keyboard-device-electronics-dvorak-qwerty">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18 38h12" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 15v-2.1068c0 -1.9743 1.4404 -3.65327 3.3918 -3.95347l5.2164 -0.80253C34.5596 7.83699 36 6.15799 36 4.18371V3" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11 23.5h2" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11 29.5h2" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19 23.5h2" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19 29.5h2" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 23.5h2" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 29.5h2" stroke-width="1"></path>
-    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35 23.5h2" stroke-width="1"></path>
-    <path id="Vector_10" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35 29.5h2" stroke-width="1"></path>
-    <path id="Vector_11" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7.21504 15.4014c-2.50988 0.1435 -4.51858 1.9463 -4.77033 4.4477C2.21167 22.1646 2 25.5051 2 30s0.21167 7.8353 0.44471 10.1509c0.25174 2.5014 2.26045 4.3042 4.77033 4.4477C10.5749 44.7906 16.059 45 24 45c7.941 0 13.4251 -0.2094 16.785 -0.4014 2.5098 -0.1435 4.5185 -1.9463 4.7703 -4.4477C45.7883 37.8353 46 34.4949 46 30s-0.2117 -7.8353 -0.4447 -10.1509c-0.2518 -2.5014 -2.2605 -4.3042 -4.7703 -4.4477C37.4251 15.2094 31.941 15 24 15c-7.941 0 -13.4251 0.2094 -16.78496 0.4014Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M18 38h12" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 15v-2.1068c0 -1.9743 1.4404 -3.65327 3.3918 -3.95347l5.2164 -0.80253C34.5596 7.83699 36 6.15799 36 4.18371V3" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11 23.5h2" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M11 29.5h2" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19 23.5h2" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M19 29.5h2" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 23.5h2" stroke-width="3"></path>
+    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M27 29.5h2" stroke-width="3"></path>
+    <path id="Vector_9" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35 23.5h2" stroke-width="3"></path>
+    <path id="Vector_10" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M35 29.5h2" stroke-width="3"></path>
+    <path id="Vector_11" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M7.21504 15.4014c-2.50988 0.1435 -4.51858 1.9463 -4.77033 4.4477C2.21167 22.1646 2 25.5051 2 30s0.21167 7.8353 0.44471 10.1509c0.25174 2.5014 2.26045 4.3042 4.77033 4.4477C10.5749 44.7906 16.059 45 24 45c7.941 0 13.4251 -0.2094 16.785 -0.4014 2.5098 -0.1435 4.5185 -1.9463 4.7703 -4.4477C45.7883 37.8353 46 34.4949 46 30s-0.2117 -7.8353 -0.4447 -10.1509c-0.2518 -2.5014 -2.2605 -4.3042 -4.7703 -4.4477C37.4251 15.2094 31.941 15 24 15c-7.941 0 -13.4251 0.2094 -16.78496 0.4014Z" stroke-width="3"></path>
   </g>
 </svg>

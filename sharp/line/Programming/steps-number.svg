@@ -3,13 +3,13 @@
     Steps Number Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="steps-number--interface-number-internet-menu-progress">
-    <path id="Rectangle 33" stroke="#000000" d="m1 18.5 21 0" stroke-width="1"></path>
-    <path id="Vector 163" stroke="#000000" d="m18 14.5 4 4 -4 4" stroke-width="1"></path>
-    <path id="Vector 2757" stroke="#000000" d="M17.4844 5v-0.5c0 -0.55228 0.4477 -1 1 -1h1.9844c0.5522 0 1 0.44772 1 1v1.25c0 0.55228 -0.4478 1 -1.0001 1H18.5" stroke-width="1"></path>
-    <path id="Vector 2758" stroke="#000000" d="M17 9v0.5c0 0.5523 0.4477 1 1 1l2.75 0c0.5523 0 1 -0.4477 1 -1V7.75c0 -0.55228 -0.4477 -1 -1 -1H18.5" stroke-width="1"></path>
-    <path id="Vector" stroke="#000000" d="m4 10.0003 0 -6.74737c0 0.82843 -0.67157 1.5 -1.5 1.5h-1" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000000" d="m4 2.75293 0 7.74737" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000000" d="M6.5 10.5h-5" stroke-width="1"></path>
-    <path id="Vector 2756" stroke="#000000" d="M9 5v-0.5c0 -0.55228 0.44772 -1 1 -1h2.5c0.5523 0 1 0.44772 1 1v1.31149c0 0.41462 -0.2559 0.78624 -0.6432 0.93417L9.6432 7.97308C9.25586 8.12102 9 8.49264 9 8.90726L9 10.5h5.25" stroke-width="1"></path>
+    <path id="Rectangle 33" stroke="#000000" d="m1 18.5 21 0" stroke-width="1.5"></path>
+    <path id="Vector 163" stroke="#000000" d="m18 14.5 4 4 -4 4" stroke-width="1.5"></path>
+    <path id="Vector 2757" stroke="#000000" d="M17.4844 5v-0.5c0 -0.55228 0.4477 -1 1 -1h1.9844c0.5522 0 1 0.44772 1 1v1.25c0 0.55228 -0.4478 1 -1.0001 1H18.5" stroke-width="1.5"></path>
+    <path id="Vector 2758" stroke="#000000" d="M17 9v0.5c0 0.5523 0.4477 1 1 1l2.75 0c0.5523 0 1 -0.4477 1 -1V7.75c0 -0.55228 -0.4477 -1 -1 -1H18.5" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000000" d="m4 10.0003 0 -6.74737c0 0.82843 -0.67157 1.5 -1.5 1.5h-1" stroke-width="1.5"></path>
+    <path id="Vector_2" stroke="#000000" d="m4 2.75293 0 7.74737" stroke-width="1.5"></path>
+    <path id="Vector_3" stroke="#000000" d="M6.5 10.5h-5" stroke-width="1.5"></path>
+    <path id="Vector 2756" stroke="#000000" d="M9 5v-0.5c0 -0.55228 0.44772 -1 1 -1h2.5c0.5523 0 1 0.44772 1 1v1.31149c0 0.41462 -0.2559 0.78624 -0.6432 0.93417L9.6432 7.97308C9.25586 8.12102 9 8.49264 9 8.90726L9 10.5h5.25" stroke-width="1.5"></path>
   </g>
 </svg>

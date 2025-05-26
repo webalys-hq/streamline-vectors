@@ -3,9 +3,9 @@
     Notification Alarm Snooze Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="notification-alarm-snooze--android-phone-mobile-device-smartphone-iphone-alert-bell-alarm">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15.5931 37.888c2.2825 0.0777 4.9318 0.1236 8.0062 0.1236s5.7236 -0.0459 8.0061 -0.1236c0.0006 0.0411 0.0009 0.0824 0.0009 0.1236 0 4.4222 -3.5848 8.0071 -8.007 8.0071s-8.0071 -3.5849 -8.0071 -8.0071c0 -0.0412 0.0003 -0.0825 0.0009 -0.1236Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32.6072 7.9866h11.0097L33.6081 19.9972h11.0097" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M22.5984 15.9937h7.3398l-6.6725 8.007h7.3397" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M39.7036 25.0016c0.3966 1.621 1.0454 3.1751 1.9273 4.604l1.4569 2.3607c1.4785 2.3958 0.672 4.8707 -2.1187 5.2419 -3.191 0.4245 -8.5197 0.8049 -17.3701 0.8049 -8.8503 0 -14.1791 -0.3804 -17.3701 -0.8049 -2.7907 -0.3712 -3.5972 -2.8461 -2.1186 -5.2419l1.4569 -2.3607c1.3263 -2.1491 2.1255 -4.5815 2.3324 -7.0985l0.5392 -6.5606C9.0874 8.0553 15.6812 1.9813 23.599 1.9813c2.3213 0 4.5288 0.5221 6.506 1.4589" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M15.5931 37.888c2.2825 0.0777 4.9318 0.1236 8.0062 0.1236s5.7236 -0.0459 8.0061 -0.1236c0.0006 0.0411 0.0009 0.0824 0.0009 0.1236 0 4.4222 -3.5848 8.0071 -8.007 8.0071s-8.0071 -3.5849 -8.0071 -8.0071c0 -0.0412 0.0003 -0.0825 0.0009 -0.1236Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32.6072 7.9866h11.0097L33.6081 19.9972h11.0097" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M22.5984 15.9937h7.3398l-6.6725 8.007h7.3397" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M39.7036 25.0016c0.3966 1.621 1.0454 3.1751 1.9273 4.604l1.4569 2.3607c1.4785 2.3958 0.672 4.8707 -2.1187 5.2419 -3.191 0.4245 -8.5197 0.8049 -17.3701 0.8049 -8.8503 0 -14.1791 -0.3804 -17.3701 -0.8049 -2.7907 -0.3712 -3.5972 -2.8461 -2.1186 -5.2419l1.4569 -2.3607c1.3263 -2.1491 2.1255 -4.5815 2.3324 -7.0985l0.5392 -6.5606C9.0874 8.0553 15.6812 1.9813 23.599 1.9813c2.3213 0 4.5288 0.5221 6.506 1.4589" stroke-width="3"></path>
   </g>
 </svg>

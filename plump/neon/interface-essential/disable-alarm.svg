@@ -3,20 +3,20 @@
     Disable Alarm Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="disable-alarm--time-tock-stopwatch-measure-clock-tick-disabled-off">
-    <path id="Vector 4161" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.5 24h1" stroke-width="1"></path>
-    <path id="Vector 4165" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m13.0391 13.0391 0.7071 0.7071" stroke-width="1"></path>
-    <path id="Vector 4169" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m34.9609 13.0391 -0.7071 0.7071" stroke-width="1"></path>
-    <path id="Vector 4163" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m24 8.5 0 1" stroke-width="1"></path>
-    <path id="Vector 4162" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M39.5 24h-1" stroke-width="1"></path>
-    <path id="Vector 4167" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m34.9609 34.9609 -0.7071 -0.7071" stroke-width="1"></path>
-    <path id="Vector 4164" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m24 39.5 0 -1" stroke-width="1"></path>
-    <path id="Vector 4168" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m13.0391 34.9609 0.7071 -0.7071" stroke-width="1"></path>
-    <path id="Subtract" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M9.85798 9.85786c1.89752 -1.89751 4.17452 -3.41551 6.70742 -4.43037C15.1197 3.35555 12.7182 2 10.0001 2c-2.20912 0 -4.20912 0.89543 -5.65684 2.34315" stroke-width="1"></path>
-    <path id="Subtract_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.62641 14.0861c-0.45411 0.794 -0.85535 1.6222 -1.19892 2.4797C3.35555 15.1201 2 12.7186 2 10.0005c0 -0.17604 0.00569 -0.35074 0.01688 -0.52394" stroke-width="1"></path>
-    <path id="Subtract_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M37.9999 2c-2.7181 0 -5.1196 1.35555 -6.5653 3.42749 5.0658 2.02973 9.1081 6.07201 11.1378 11.13781 2.0719 -1.4457 3.4275 -3.8472 3.4275 -6.5653 0 -4.41828 -3.5817 -8 -8 -8Z" stroke-width="1"></path>
-    <path id="Subtract_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.5747 41.0704c-2.0504 -1.2548 -3.85715 -2.8686 -5.33293 -4.754 -0.92459 1.9234 -1.89746 3.991 -2.53332 5.3492 -0.44173 0.9435 -0.37657 2.0733 0.3824 2.787 0.30018 0.2822 0.64923 0.561 1.03015 0.7757 0.40751 0.2297 0.86181 0.3918 1.28674 0.506 0.97231 0.2612 1.94396 -0.2206 2.53716 -1.034 0.6799 -0.9324 1.6458 -2.2614 2.6298 -3.6299Z" stroke-width="1"></path>
-    <path id="Subtract_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M38.1422 38.1421C41.7615 34.5228 44 29.5228 44 24c0 -11.0457 -8.9543 -20 -20 -20 -5.5228 0 -10.5228 2.23858 -14.14209 5.85786" stroke-width="1"></path>
-    <path id="Subtract_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.62641 14.0859C4.95517 17.0082 4 20.3927 4 24.0003c0 11.0457 8.9543 20 20 20 3.7001 0 7.2529 -1.053 10.4258 -2.9287 0.984 1.3685 1.9499 2.6975 2.6298 3.6299 0.472 0.6472 1.1835 1.0844 1.9444 1.1045" stroke-width="1"></path>
-    <path id="Vector 864" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m2 2 44 44" stroke-width="1"></path>
+    <path id="Vector 4161" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M8.5 24h1" stroke-width="3"></path>
+    <path id="Vector 4165" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m13.0391 13.0391 0.7071 0.7071" stroke-width="3"></path>
+    <path id="Vector 4169" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m34.9609 13.0391 -0.7071 0.7071" stroke-width="3"></path>
+    <path id="Vector 4163" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m24 8.5 0 1" stroke-width="3"></path>
+    <path id="Vector 4162" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M39.5 24h-1" stroke-width="3"></path>
+    <path id="Vector 4167" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m34.9609 34.9609 -0.7071 -0.7071" stroke-width="3"></path>
+    <path id="Vector 4164" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m24 39.5 0 -1" stroke-width="3"></path>
+    <path id="Vector 4168" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m13.0391 34.9609 0.7071 -0.7071" stroke-width="3"></path>
+    <path id="Subtract" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M9.85798 9.85786c1.89752 -1.89751 4.17452 -3.41551 6.70742 -4.43037C15.1197 3.35555 12.7182 2 10.0001 2c-2.20912 0 -4.20912 0.89543 -5.65684 2.34315" stroke-width="3"></path>
+    <path id="Subtract_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.62641 14.0861c-0.45411 0.794 -0.85535 1.6222 -1.19892 2.4797C3.35555 15.1201 2 12.7186 2 10.0005c0 -0.17604 0.00569 -0.35074 0.01688 -0.52394" stroke-width="3"></path>
+    <path id="Subtract_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M37.9999 2c-2.7181 0 -5.1196 1.35555 -6.5653 3.42749 5.0658 2.02973 9.1081 6.07201 11.1378 11.13781 2.0719 -1.4457 3.4275 -3.8472 3.4275 -6.5653 0 -4.41828 -3.5817 -8 -8 -8Z" stroke-width="3"></path>
+    <path id="Subtract_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M13.5747 41.0704c-2.0504 -1.2548 -3.85715 -2.8686 -5.33293 -4.754 -0.92459 1.9234 -1.89746 3.991 -2.53332 5.3492 -0.44173 0.9435 -0.37657 2.0733 0.3824 2.787 0.30018 0.2822 0.64923 0.561 1.03015 0.7757 0.40751 0.2297 0.86181 0.3918 1.28674 0.506 0.97231 0.2612 1.94396 -0.2206 2.53716 -1.034 0.6799 -0.9324 1.6458 -2.2614 2.6298 -3.6299Z" stroke-width="3"></path>
+    <path id="Subtract_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M38.1422 38.1421C41.7615 34.5228 44 29.5228 44 24c0 -11.0457 -8.9543 -20 -20 -20 -5.5228 0 -10.5228 2.23858 -14.14209 5.85786" stroke-width="3"></path>
+    <path id="Subtract_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M6.62641 14.0859C4.95517 17.0082 4 20.3927 4 24.0003c0 11.0457 8.9543 20 20 20 3.7001 0 7.2529 -1.053 10.4258 -2.9287 0.984 1.3685 1.9499 2.6975 2.6298 3.6299 0.472 0.6472 1.1835 1.0844 1.9444 1.1045" stroke-width="3"></path>
+    <path id="Vector 864" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m2 2 44 44" stroke-width="3"></path>
   </g>
 </svg>

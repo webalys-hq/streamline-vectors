@@ -3,13 +3,13 @@
     Charging Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="charging--phone-mobile-charge-device-electricity-power-battery-charging">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M44.7856 21C43.3299 10.8231 34.5777 3 23.9983 3 13.4189 3 4.66663 10.8231 3.21094 21" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.49338 31.797c-0.60795 -1.5194 -1.0435 -3.1265 -1.28244 -4.797" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.0079 40.5016c-1.31254 -1.0347 -2.49865 -2.2226 -3.53134 -3.5368" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M20.9969 44.7874c-1.6822 -0.2406 -3.3001 -0.6806 -4.8289 -1.2952" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M31.7941 43.5039c-1.5198 0.6081 -3.1272 1.0438 -4.798 1.2828" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M40.5185 36.9648c-1.0396 1.323 -2.2346 2.5179 -3.5576 3.5574" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M44.7863 27c-0.2389 1.6705 -0.6744 3.2776 -1.2824 4.797" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M20.7448 26.7937c-2.7504 -0.3361 -5.0089 -0.7194 -6.6567 -1.0381 -1.4425 -0.279 -1.987 -1.9554 -1.0052 -3.0485 2.5118 -2.7966 7.0061 -7.6053 11.8698 -11.8828 1.2901 -1.13451 3.2353 -0.1403 3.1161 1.5735 -0.2501 3.5973 -0.5424 6.527 -0.815 8.8083 2.7504 0.3362 5.0089 0.7194 6.6568 1.0381 1.4424 0.279 1.9869 1.9555 1.0052 3.0485 -2.5119 2.7967 -7.0062 7.6053 -11.8699 11.8828 -1.29 1.1345 -3.2353 0.1404 -3.1161 -1.5734 0.2501 -3.5974 0.5424 -6.5271 0.815 -8.8084Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M44.7856 21C43.3299 10.8231 34.5777 3 23.9983 3 13.4189 3 4.66663 10.8231 3.21094 21" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M4.49338 31.797c-0.60795 -1.5194 -1.0435 -3.1265 -1.28244 -4.797" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.0079 40.5016c-1.31254 -1.0347 -2.49865 -2.2226 -3.53134 -3.5368" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M20.9969 44.7874c-1.6822 -0.2406 -3.3001 -0.6806 -4.8289 -1.2952" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M31.7941 43.5039c-1.5198 0.6081 -3.1272 1.0438 -4.798 1.2828" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M40.5185 36.9648c-1.0396 1.323 -2.2346 2.5179 -3.5576 3.5574" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M44.7863 27c-0.2389 1.6705 -0.6744 3.2776 -1.2824 4.797" stroke-width="3"></path>
+    <path id="Vector_8" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M20.7448 26.7937c-2.7504 -0.3361 -5.0089 -0.7194 -6.6567 -1.0381 -1.4425 -0.279 -1.987 -1.9554 -1.0052 -3.0485 2.5118 -2.7966 7.0061 -7.6053 11.8698 -11.8828 1.2901 -1.13451 3.2353 -0.1403 3.1161 1.5735 -0.2501 3.5973 -0.5424 6.527 -0.815 8.8083 2.7504 0.3362 5.0089 0.7194 6.6568 1.0381 1.4424 0.279 1.9869 1.9555 1.0052 3.0485 -2.5119 2.7967 -7.0062 7.6053 -11.8699 11.8828 -1.29 1.1345 -3.2353 0.1404 -3.1161 -1.5734 0.2501 -3.5974 0.5424 -6.5271 0.815 -8.8084Z" stroke-width="3"></path>
   </g>
 </svg>

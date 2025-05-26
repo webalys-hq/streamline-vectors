@@ -2,6 +2,6 @@
   <desc>
     Move Expand Vertical Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.75 15 7.72 7.72c0.1408 0.1402 0.3313 0.2189 0.53 0.2189 0.1987 0 0.3892 -0.0787 0.53 -0.2189L20.25 15" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.75 9.00006 7.72 -7.72c0.0696 -0.06967 0.1522 -0.12493 0.2431 -0.16264 0.091 -0.03771 0.1885 -0.05712 0.2869 -0.05712 0.0984 0 0.1959 0.01941 0.2869 0.05712 0.0909 0.03771 0.1735 0.09297 0.2431 0.16264l7.72 7.72" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.75 15 7.72 7.72c0.1408 0.1402 0.3313 0.2189 0.53 0.2189 0.1987 0 0.3892 -0.0787 0.53 -0.2189L20.25 15" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m3.75 9.00006 7.72 -7.72c0.0696 -0.06967 0.1522 -0.12493 0.2431 -0.16264 0.091 -0.03771 0.1885 -0.05712 0.2869 -0.05712 0.0984 0 0.1959 0.01941 0.2869 0.05712 0.0909 0.03771 0.1735 0.09297 0.2431 0.16264l7.72 7.72" stroke-width="1.5"></path>
 </svg>

@@ -2,10 +2,10 @@
   <desc>
     Delivery Package Person Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 6V0.75H9v5.21L4.5 6Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 12.75h-8.2c-0.21217 0 -0.41566 -0.0843 -0.565685 -0.2343C0.834285 12.3657 0.75 12.1622 0.75 11.95V1.55c0 -0.21217 0.084285 -0.41566 0.234315 -0.565685C1.13434 0.834285 1.33783 0.75 1.55 0.75H12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 14.5c0 -1.3924 -0.5531 -2.7277 -1.5377 -3.7123C20.7277 9.80312 19.3924 9.25 18 9.25c-1.3924 0 -2.7277 0.55312 -3.7123 1.5377 -0.9846 0.9846 -1.5377 2.3199 -1.5377 3.7123v1.25H15l0.75 7.5h4.5l0.75 -7.5h2.25V14.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 3.75c0 -0.79565 0.3161 -1.55871 0.8787 -2.12132C16.4413 1.06607 17.2044 0.75 18 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868C20.6839 2.19129 21 2.95435 21 3.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 3.75h-8.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.46 6.51c-0.2779 0.3937 -0.6465 0.71467 -1.0747 0.93573 -0.4282 0.22107 -0.9034 0.33572 -1.3853 0.33427 -0.4827 0.00033 -0.9585 -0.11586 -1.3867 -0.3387 -0.4283 -0.22284 -0.7965 -0.54575 -1.0733 -0.9413" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M4.5 6V0.75H9v5.21L4.5 6Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 12.75h-8.2c-0.21217 0 -0.41566 -0.0843 -0.565685 -0.2343C0.834285 12.3657 0.75 12.1622 0.75 11.95V1.55c0 -0.21217 0.084285 -0.41566 0.234315 -0.565685C1.13434 0.834285 1.33783 0.75 1.55 0.75H12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 14.5c0 -1.3924 -0.5531 -2.7277 -1.5377 -3.7123C20.7277 9.80312 19.3924 9.25 18 9.25c-1.3924 0 -2.7277 0.55312 -3.7123 1.5377 -0.9846 0.9846 -1.5377 2.3199 -1.5377 3.7123v1.25H15l0.75 7.5h4.5l0.75 -7.5h2.25V14.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 3.75c0 -0.79565 0.3161 -1.55871 0.8787 -2.12132C16.4413 1.06607 17.2044 0.75 18 0.75c0.7956 0 1.5587 0.31607 2.1213 0.87868C20.6839 2.19129 21 2.95435 21 3.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21 3.75h-8.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.46 6.51c-0.2779 0.3937 -0.6465 0.71467 -1.0747 0.93573 -0.4282 0.22107 -0.9034 0.33572 -1.3853 0.33427 -0.4827 0.00033 -0.9585 -0.11586 -1.3867 -0.3387 -0.4283 -0.22284 -0.7965 -0.54575 -1.0733 -0.9413" stroke-width="1.5"></path>
 </svg>

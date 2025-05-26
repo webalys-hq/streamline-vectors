@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Definition-Search-Book--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Definition-Search-Book--Streamline-Sharp-Neon">
   <desc>
     Definition Search Book Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="definition-search-book">
-    <path id="Rectangle 27" stroke="#c71dff" d="M6 17.0101H1V1h8.41469c1.41751 0 2.56661 1.14912 2.56661 2.56662V6" stroke-width="1"></path>
-    <path id="Rectangle 28" stroke="#c71dff" d="M22.9629 11.1217V1h-8.4147c-1.4175 0 -2.5666 1.14912 -2.5666 2.56662" stroke-width="1"></path>
-    <path id="Vector" stroke="#000cfe" d="M20.2 14.6c0 3.0928 -2.5072 5.6 -5.6 5.6 -3.0928 0 -5.6 -2.5072 -5.6 -5.6C9 11.5072 11.5072 9 14.6 9c3.0928 0 5.6 2.5072 5.6 5.6Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="m23 23 -4.4402 -4.4402" stroke-width="1"></path>
+    <path id="Rectangle 27" stroke="#c71dff" d="M5.75 16.301345833333336H0.9583333333333334V0.9583333333333334h8.064077916666667c1.3584470833333335 0 2.4596679166666666 1.10124 2.4596679166666666 2.4596775V5.75" stroke-width="1"></path>
+    <path id="Rectangle 28" stroke="#c71dff" d="M22.0061125 10.658295833333334V0.9583333333333334h-8.0640875c-1.3584375 0 -2.4596583333333335 1.10124 -2.4596583333333335 2.4596775" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="M19.358333333333334 13.991666666666667c0 2.9639333333333333 -2.4027333333333334 5.366666666666666 -5.366666666666666 5.366666666666666 -2.9639333333333333 0 -5.366666666666666 -2.4027333333333334 -5.366666666666666 -5.366666666666666C8.625 11.027733333333334 11.027733333333334 8.625 13.991666666666667 8.625c2.9639333333333333 0 5.366666666666666 2.4027333333333334 5.366666666666666 5.366666666666666Z" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="m22.041666666666668 22.041666666666668 -4.255191666666667 -4.255191666666667" stroke-width="1"></path>
   </g>
 </svg>

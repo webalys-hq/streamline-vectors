@@ -4,8 +4,8 @@
   </desc>
   <g id="remove-favorite-highlight">
     <g id="Group 176486">
-      <path id="Star 5" stroke="#000000" d="M12.376 18.02 18.833 21l-0.993 -6.954 3.974 -4.47 -5.961 -1.49 -3.477 -5.961 -3.477 5.96 -5.96 1.49 1.764 1.985" stroke-width="1"></path>
-      <path id="Vector 1144" stroke="#000000" d="m10.187 13.875 -8 8m8 0 -8 -8" stroke-width="1"></path>
+      <path id="Star 5" stroke="#000000" d="M12.376 18.02 18.833 21l-0.993 -6.954 3.974 -4.47 -5.961 -1.49 -3.477 -5.961 -3.477 5.96 -5.96 1.49 1.764 1.985" stroke-width="1.5"></path>
+      <path id="Vector 1144" stroke="#000000" d="m10.187 13.875 -8 8m8 0 -8 -8" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

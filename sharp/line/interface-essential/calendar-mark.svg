@@ -3,14 +3,14 @@
     Calendar Mark Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="calendar-mark--calendar-date-day-month-mark">
-    <path id="Rectangle 11" stroke="#000000" d="M2 4h20v18H2z" stroke-width="1"></path>
-    <path id="Vector 39" stroke="#000000" d="M7 1v3" stroke-width="1"></path>
-    <path id="Vector 40" stroke="#000000" d="M17 1v3" stroke-width="1"></path>
-    <path id="Vector 38" stroke="#000000" d="M2 8h20" stroke-width="1"></path>
-    <path id="Vector 1456" stroke="#000000" d="M5 12.5h3" stroke-width="1"></path>
-    <path id="Vector 1457" stroke="#000000" d="M5 17.5h3" stroke-width="1"></path>
-    <path id="Vector 1458" stroke="#000000" d="M10.5 12.5h3" stroke-width="1"></path>
-    <path id="Vector 1460" stroke="#000000" d="M16 12.5h3" stroke-width="1"></path>
-    <path id="Vector 1459" stroke="#000000" d="M10.5 17.5h3" stroke-width="1"></path>
+    <path id="Rectangle 11" stroke="#000000" d="M2 4h20v18H2z" stroke-width="1.5"></path>
+    <path id="Vector 39" stroke="#000000" d="M7 1v3" stroke-width="1.5"></path>
+    <path id="Vector 40" stroke="#000000" d="M17 1v3" stroke-width="1.5"></path>
+    <path id="Vector 38" stroke="#000000" d="M2 8h20" stroke-width="1.5"></path>
+    <path id="Vector 1456" stroke="#000000" d="M5 12.5h3" stroke-width="1.5"></path>
+    <path id="Vector 1457" stroke="#000000" d="M5 17.5h3" stroke-width="1.5"></path>
+    <path id="Vector 1458" stroke="#000000" d="M10.5 12.5h3" stroke-width="1.5"></path>
+    <path id="Vector 1460" stroke="#000000" d="M16 12.5h3" stroke-width="1.5"></path>
+    <path id="Vector 1459" stroke="#000000" d="M10.5 17.5h3" stroke-width="1.5"></path>
   </g>
 </svg>

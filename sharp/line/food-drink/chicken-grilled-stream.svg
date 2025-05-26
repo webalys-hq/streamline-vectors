@@ -4,12 +4,12 @@
   </desc>
   <g id="chicken-grilled-stream">
     <g id="Group 176609">
-      <path id="Ellipse 1455" stroke="#000000" stroke-linecap="square" d="M18.122912535 7.0799328936a1.911 1.911 0 1 0 3.80017493 -0.4078657872 1.911 1.911 0 1 0 -3.80017493 0.4078657872" stroke-width="1"></path>
-      <path id="Ellipse 1456" stroke="#000000" d="M18.1543 14.3371c2.0471 0 3.7066 1.6595 3.7067 3.7065l0.0001 3.3479 -19.98781 0 -0.00005 -2.0876c-0.00011 -4.4184 3.58165 -8.0002 8 -8.0002h1.95636" stroke-width="1"></path>
-      <path id="Ellipse 1453" stroke="#000000" stroke-linecap="square" d="m10.1982 13.4956 1.235 -1.6148c1.3914 -1.90166 3.833 -2.48199 5.4536 -1.2962 1.6206 1.1857 1.8064 3.6885 0.415 5.5901l-1.0968 1.5582" stroke-width="1"></path>
-      <path id="Vector" stroke="#000000" stroke-linecap="square" d="m18.8477 8.35547 -1.7562 2.29723" stroke-width="1"></path>
-      <path id="Ellipse 593" stroke="#000000" d="M6.16113 6.6084c-1.10457 0 -2 -0.89543 -2 -2s0.89543 -2 2 -2" stroke-width="1"></path>
-      <path id="Ellipse 594" stroke="#000000" d="M10.425 6.6084c-1.10452 0 -1.99995 -0.89543 -1.99995 -2s0.89543 -2 1.99995 -2" stroke-width="1"></path>
+      <path id="Ellipse 1455" stroke="#000000" stroke-linecap="square" d="M18.122912535 7.0799328936a1.911 1.911 0 1 0 3.80017493 -0.4078657872 1.911 1.911 0 1 0 -3.80017493 0.4078657872" stroke-width="1.5"></path>
+      <path id="Ellipse 1456" stroke="#000000" d="M18.1543 14.3371c2.0471 0 3.7066 1.6595 3.7067 3.7065l0.0001 3.3479 -19.98781 0 -0.00005 -2.0876c-0.00011 -4.4184 3.58165 -8.0002 8 -8.0002h1.95636" stroke-width="1.5"></path>
+      <path id="Ellipse 1453" stroke="#000000" stroke-linecap="square" d="m10.1982 13.4956 1.235 -1.6148c1.3914 -1.90166 3.833 -2.48199 5.4536 -1.2962 1.6206 1.1857 1.8064 3.6885 0.415 5.5901l-1.0968 1.5582" stroke-width="1.5"></path>
+      <path id="Vector" stroke="#000000" stroke-linecap="square" d="m18.8477 8.35547 -1.7562 2.29723" stroke-width="1.5"></path>
+      <path id="Ellipse 593" stroke="#000000" d="M6.16113 6.6084c-1.10457 0 -2 -0.89543 -2 -2s0.89543 -2 2 -2" stroke-width="1.5"></path>
+      <path id="Ellipse 594" stroke="#000000" d="M10.425 6.6084c-1.10452 0 -1.99995 -0.89543 -1.99995 -2s0.89543 -2 1.99995 -2" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

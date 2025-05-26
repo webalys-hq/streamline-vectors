@@ -3,13 +3,13 @@
     Pet Friendly Hotel Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pet-friendly-hotel--pet-friendly-hotel-animals-canine-feline-cat-dog">
-    <path id="Vector 3609" fill="#d7e0ff" d="M22 22H2V11l10 -9 10 9v11Z" stroke-width="1"></path>
-    <path id="Vector 1" stroke="#4147d5" d="M22 22H2V11l10 -9 10 9v11Z" stroke-width="1"></path>
-    <path id="Ellipse 1204" stroke="#4147d5" d="M7.713 12.289c0 0.22 -0.4 0.665 -0.4 0.665s-0.398 -0.445 -0.398 -0.665a0.4 0.4 0 1 1 0.798 0Z" stroke-width="1"></path>
-    <path id="Vector 3610" fill="#ffffff" d="m12 13.544 -3.032 2.205v0.276a3.032 3.032 0 0 0 6.064 0v-0.276L12 13.544Z" stroke-width="1"></path>
-    <path id="Vector 3608" stroke="#4147d5" d="m12 13.544 -3.032 2.205v0.276a3.032 3.032 0 0 0 6.064 0v-0.276L12 13.544Z" stroke-width="1"></path>
-    <path id="Ellipse 1208" stroke="#4147d5" d="M10.607 9.808c0 0.22 -0.399 0.665 -0.399 0.665s-0.399 -0.445 -0.399 -0.665a0.4 0.4 0 1 1 0.798 0Z" stroke-width="1"></path>
-    <path id="Ellipse 1209" stroke="#4147d5" d="M16.287 12.289c0 0.22 0.4 0.665 0.4 0.665s0.398 -0.445 0.398 -0.665a0.399 0.399 0 1 0 -0.798 0Z" stroke-width="1"></path>
-    <path id="Ellipse 1210" stroke="#4147d5" d="M13.393 9.808c0 0.22 0.399 0.665 0.399 0.665s0.399 -0.445 0.399 -0.665a0.399 0.399 0 1 0 -0.798 0Z" stroke-width="1"></path>
+    <path id="Vector 3609" fill="#d7e0ff" d="M22 22H2V11l10 -9 10 9v11Z" stroke-width="1.5"></path>
+    <path id="Vector 1" stroke="#4147d5" d="M22 22H2V11l10 -9 10 9v11Z" stroke-width="1.5"></path>
+    <path id="Ellipse 1204" stroke="#4147d5" d="M7.713 12.289c0 0.22 -0.4 0.665 -0.4 0.665s-0.398 -0.445 -0.398 -0.665a0.4 0.4 0 1 1 0.798 0Z" stroke-width="1.5"></path>
+    <path id="Vector 3610" fill="#ffffff" d="m12 13.544 -3.032 2.205v0.276a3.032 3.032 0 0 0 6.064 0v-0.276L12 13.544Z" stroke-width="1.5"></path>
+    <path id="Vector 3608" stroke="#4147d5" d="m12 13.544 -3.032 2.205v0.276a3.032 3.032 0 0 0 6.064 0v-0.276L12 13.544Z" stroke-width="1.5"></path>
+    <path id="Ellipse 1208" stroke="#4147d5" d="M10.607 9.808c0 0.22 -0.399 0.665 -0.399 0.665s-0.399 -0.445 -0.399 -0.665a0.4 0.4 0 1 1 0.798 0Z" stroke-width="1.5"></path>
+    <path id="Ellipse 1209" stroke="#4147d5" d="M16.287 12.289c0 0.22 0.4 0.665 0.4 0.665s0.398 -0.445 0.398 -0.665a0.399 0.399 0 1 0 -0.798 0Z" stroke-width="1.5"></path>
+    <path id="Ellipse 1210" stroke="#4147d5" d="M13.393 9.808c0 0.22 0.399 0.665 0.399 0.665s0.399 -0.445 0.399 -0.665a0.399 0.399 0 1 0 -0.798 0Z" stroke-width="1.5"></path>
   </g>
 </svg>

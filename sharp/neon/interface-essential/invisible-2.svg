@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Invisible-2--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Invisible-2--Streamline-Sharp-Neon">
   <desc>
     Invisible 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="invisible-2">
-    <path id="Intersect" stroke="#c71dff" d="M1.4363 6.1194c3.4302 4.9002 5.1745 8.8204 10.5647 8.8204 5.3903 0 7.1348 -3.9202 10.5649 -8.8204" stroke-width="1"></path>
-    <path id="Vector 4032" stroke="#c71dff" d="m1.22 11.9399 3.0329 -1.9003" stroke-width="1"></path>
-    <path id="Vector 4033" stroke="#c71dff" d="m7.7416 17.8806 1.1628 -3.4672" stroke-width="1"></path>
-    <path id="Vector 4034" stroke="#c71dff" d="m16.2582 17.8806 -1.1625 -3.4662" stroke-width="1"></path>
-    <path id="Vector 4035" stroke="#c71dff" d="m22.78 11.9406 -3.031 -1.8991" stroke-width="1"></path>
+    <path id="Intersect" stroke="#c71dff" d="M1.3764541666666665 5.864425c3.287275 4.696025 4.958895833333334 8.452883333333332 10.124504166666668 8.452883333333332 5.165704166666667 0 6.837516666666668 -3.756858333333333 10.124695833333334 -8.452883333333332" stroke-width="1"></path>
+    <path id="Vector 4032" stroke="#c71dff" d="m1.1691666666666667 11.442404166666666 2.906529166666667 -1.8211208333333335" stroke-width="1"></path>
+    <path id="Vector 4033" stroke="#c71dff" d="m7.419033333333334 17.135575000000003 1.1143500000000002 -3.3227333333333333" stroke-width="1"></path>
+    <path id="Vector 4034" stroke="#c71dff" d="m15.580775 17.135575000000003 -1.1140625000000002 -3.321775" stroke-width="1"></path>
+    <path id="Vector 4035" stroke="#c71dff" d="m21.830833333333334 11.443075 -2.9047083333333337 -1.8199708333333333" stroke-width="1"></path>
   </g>
 </svg>

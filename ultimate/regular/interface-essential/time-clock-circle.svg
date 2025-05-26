@@ -2,7 +2,7 @@
   <desc>
     Time Clock Circle Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 12c0 2.7848 1.10625 5.4555 3.07538 7.4246C6.54451 21.3938 9.21523 22.5 12 22.5c2.7848 0 5.4555 -1.1062 7.4246 -3.0754C21.3938 17.4555 22.5 14.7848 22.5 12c0 -2.78477 -1.1062 -5.45549 -3.0754 -7.42462C17.4555 2.60625 14.7848 1.5 12 1.5c-2.78477 0 -5.45549 1.10625 -7.42462 3.07538C2.60625 6.54451 1.5 9.21523 1.5 12Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 12V8.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 12 4.687 4.688" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M1.5 12c0 2.7848 1.10625 5.4555 3.07538 7.4246C6.54451 21.3938 9.21523 22.5 12 22.5c2.7848 0 5.4555 -1.1062 7.4246 -3.0754C21.3938 17.4555 22.5 14.7848 22.5 12c0 -2.78477 -1.1062 -5.45549 -3.0754 -7.42462C17.4555 2.60625 14.7848 1.5 12 1.5c-2.78477 0 -5.45549 1.10625 -7.42462 3.07538C2.60625 6.54451 1.5 9.21523 1.5 12Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M12 12V8.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m12 12 4.687 4.688" stroke-width="1.5"></path>
 </svg>

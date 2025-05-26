@@ -3,9 +3,9 @@
     Test Tube Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="test-tube--science-experiment-lab-chemistry-test-tube-solution">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m18 15 -5 0" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m18 24 -5 0" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m18 33 -4.5 0" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.4933 2.551C14.2666 2.29051 18.5754 2 23.9998 2c5.4244 0 9.7334 0.29052 12.5068 0.55101 1.5451 0.14513 2.2389 1.92032 1.2497 3.11625L34.9999 9l0 17c0 4.0355 -0.0651 7.4269 -0.1539 10.177 -0.1705 5.2772 -4.0468 9.6402 -9.3244 9.7996 -0.4993 0.0151 -1.0077 0.0234 -1.5217 0.0234 -0.4925 0 -0.9797 -0.0076 -1.4587 -0.0215 -5.308 -0.1541 -9.2083 -4.5567 -9.3829 -9.864 -0.0911 -2.7713 -0.1584 -6.1571 -0.1584 -10.1145l0 -17.00008 -2.7564 -3.33269c-0.98909 -1.19592 -0.29537 -2.9711 1.2498 -3.11623Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m18 15 -5 0" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m18 24 -5 0" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m18 33 -4.5 0" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11.4933 2.551C14.2666 2.29051 18.5754 2 23.9998 2c5.4244 0 9.7334 0.29052 12.5068 0.55101 1.5451 0.14513 2.2389 1.92032 1.2497 3.11625L34.9999 9l0 17c0 4.0355 -0.0651 7.4269 -0.1539 10.177 -0.1705 5.2772 -4.0468 9.6402 -9.3244 9.7996 -0.4993 0.0151 -1.0077 0.0234 -1.5217 0.0234 -0.4925 0 -0.9797 -0.0076 -1.4587 -0.0215 -5.308 -0.1541 -9.2083 -4.5567 -9.3829 -9.864 -0.0911 -2.7713 -0.1584 -6.1571 -0.1584 -10.1145l0 -17.00008 -2.7564 -3.33269c-0.98909 -1.19592 -0.29537 -2.9711 1.2498 -3.11623Z" stroke-width="3"></path>
   </g>
 </svg>

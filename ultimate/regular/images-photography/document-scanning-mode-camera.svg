@@ -2,12 +2,12 @@
   <desc>
     Document Scanning Mode Camera Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.25 18.75v3c0 0.8 -0.7 1.5 -1.5 1.5h-3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.75 0.75h3c0.8 0 1.5 0.7 1.5 1.5v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M0.75 5.25v-3c0 -0.8 0.7 -1.5 1.5 -1.5h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.25 23.25h-3c-0.8 0 -1.5 -0.7 -1.5 -1.5v-3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17.8502 17.4499c0 0.6 -0.4 1 -1 1H7.15015c-0.6 0 -1 -0.4 -1 -1V6.44995c0 -0.6 0.4 -1 1 -1h9.70005c0.6 0 1 0.4 1 1V17.4499Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.05005 8.75h2.60005" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.05005 11.75H15.05" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.05005 14.75H15.05" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.25 18.75v3c0 0.8 -0.7 1.5 -1.5 1.5h-3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.75 0.75h3c0.8 0 1.5 0.7 1.5 1.5v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M0.75 5.25v-3c0 -0.8 0.7 -1.5 1.5 -1.5h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.25 23.25h-3c-0.8 0 -1.5 -0.7 -1.5 -1.5v-3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17.8502 17.4499c0 0.6 -0.4 1 -1 1H7.15015c-0.6 0 -1 -0.4 -1 -1V6.44995c0 -0.6 0.4 -1 1 -1h9.70005c0.6 0 1 0.4 1 1V17.4499Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.05005 8.75h2.60005" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.05005 11.75H15.05" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.05005 14.75H15.05" stroke-width="1.5"></path>
 </svg>

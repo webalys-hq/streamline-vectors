@@ -1,13 +1,13 @@
-<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="Car-2--Streamline-Sharp-Neon">
+<svg viewBox="-0.5 -0.5 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="Car-2--Streamline-Sharp-Neon">
   <desc>
     Car 2 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="car-2--transportation-travel-transport-car">
-    <path id="Vector 3151" d="m5 3 -2 8h18l-2 -8H5Z" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Vector 3154" d="M3 19v3" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Vector 3156" d="M21 19v3" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Vector 3150" d="M1 19v-8h22v8H1Z" stroke="#c71dff" stroke-width="1"></path>
-    <path id="Vector 3152" d="M4 15h3" stroke="#000cfe" stroke-width="1"></path>
-    <path id="Vector 3155" d="M20 15h-3" stroke="#000cfe" stroke-width="1"></path>
+    <path id="Vector 3151" d="m4.791666666666667 2.875 -1.9166666666666667 7.666666666666667h17.25l-1.9166666666666667 -7.666666666666667H4.791666666666667Z" stroke="#000cfe" stroke-width="1"></path>
+    <path id="Vector 3154" d="M2.875 18.208333333333336v2.875" stroke="#000cfe" stroke-width="1"></path>
+    <path id="Vector 3156" d="M20.125 18.208333333333336v2.875" stroke="#000cfe" stroke-width="1"></path>
+    <path id="Vector 3150" d="M0.9583333333333334 18.208333333333336v-7.666666666666667h21.083333333333336v7.666666666666667H0.9583333333333334Z" stroke="#c71dff" stroke-width="1"></path>
+    <path id="Vector 3152" d="M3.8333333333333335 14.375h2.875" stroke="#000cfe" stroke-width="1"></path>
+    <path id="Vector 3155" d="M19.166666666666668 14.375h-2.875" stroke="#000cfe" stroke-width="1"></path>
   </g>
 </svg>

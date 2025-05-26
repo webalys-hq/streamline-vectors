@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Arrow-Expand--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Arrow-Expand--Streamline-Sharp-Neon">
   <desc>
     Arrow Expand Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="line-arrow-expand--expand-small-bigger-retract-smaller-big">
-    <path id="Vector" stroke="#c71dff" d="M2 10V2h8" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" d="m2 2 8 8" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" d="M22 14v8h-8" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" d="m22 22 -8 -8" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#c71dff" d="M22 10V2h-8" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#c71dff" d="m22 2 -8 8" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#c71dff" d="M2 14v8h8" stroke-width="1"></path>
-    <path id="Vector_8" stroke="#c71dff" d="m2 22 8 -8" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" d="M1.9166666666666667 9.583333333333334V1.9166666666666667h7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#c71dff" d="m1.9166666666666667 1.9166666666666667 7.666666666666667 7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#c71dff" d="M21.083333333333336 13.416666666666668v7.666666666666667h-7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#c71dff" d="m21.083333333333336 21.083333333333336 -7.666666666666667 -7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_5" stroke="#c71dff" d="M21.083333333333336 9.583333333333334V1.9166666666666667h-7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_6" stroke="#c71dff" d="m21.083333333333336 1.9166666666666667 -7.666666666666667 7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_7" stroke="#c71dff" d="M1.9166666666666667 13.416666666666668v7.666666666666667h7.666666666666667" stroke-width="1"></path>
+    <path id="Vector_8" stroke="#c71dff" d="m1.9166666666666667 21.083333333333336 7.666666666666667 -7.666666666666667" stroke-width="1"></path>
   </g>
 </svg>

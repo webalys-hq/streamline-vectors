@@ -2,12 +2,12 @@
   <desc>
     Shipment Barcode Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 9.163c-0.0003 0.09342 -0.0256 0.18504 -0.0733 0.26539 -0.0476 0.08036 -0.1159 0.14651 -0.1977 0.19161 -0.0829 0.04566 -0.1763 0.06901 -0.2709 0.06779 -0.0947 -0.00123 -0.1874 -0.027 -0.2691 -0.07479L12 8.25 9.033 9.691c-0.08183 0.04172 -0.17289 0.06204 -0.26469 0.05906 -0.0918 -0.00297 -0.18135 -0.02914 -0.26031 -0.07606 -0.07828 -0.04601 -0.14323 -0.1116 -0.18847 -0.19033 -0.04524 -0.07872 -0.0692 -0.16787 -0.06953 -0.25867V0.75h7.5v8.413Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 20.25v-6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 20.2501v-1.379" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 20.25v-5.781" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 0.75h19.5s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5V2.25s0 -1.5 1.5 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 16.426v-1.957" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 20.0311v-1.379" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 16.207V14.25" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15.75 9.163c-0.0003 0.09342 -0.0256 0.18504 -0.0733 0.26539 -0.0476 0.08036 -0.1159 0.14651 -0.1977 0.19161 -0.0829 0.04566 -0.1763 0.06901 -0.2709 0.06779 -0.0947 -0.00123 -0.1874 -0.027 -0.2691 -0.07479L12 8.25 9.033 9.691c-0.08183 0.04172 -0.17289 0.06204 -0.26469 0.05906 -0.0918 -0.00297 -0.18135 -0.02914 -0.26031 -0.07606 -0.07828 -0.04601 -0.14323 -0.1116 -0.18847 -0.19033 -0.04524 -0.07872 -0.0692 -0.16787 -0.06953 -0.25867V0.75h7.5v8.413Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 20.25v-6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 20.2501v-1.379" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 20.25v-5.781" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.25 0.75h19.5s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.25s-1.5 0 -1.5 -1.5V2.25s0 -1.5 1.5 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 16.426v-1.957" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 20.0311v-1.379" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 16.207V14.25" stroke-width="1.5"></path>
 </svg>

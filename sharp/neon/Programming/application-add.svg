@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Application-Add--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Application-Add--Streamline-Sharp-Neon">
   <desc>
     Application Add Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="application-add--application-new-add-square">
-    <path id="Rectangle 889" stroke="#c71dff" d="M2 2h8v8H2z" stroke-width="1"></path>
-    <path id="Rectangle 891" stroke="#c71dff" d="M2 14h8v8H2z" stroke-width="1"></path>
-    <path id="Rectangle 890" stroke="#c71dff" d="M14 2h8v8h-8z" stroke-width="1"></path>
-    <path id="Rectangle 892" stroke="#000cfe" d="m18 13 0 10" stroke-width="1"></path>
-    <path id="Rectangle 893" stroke="#000cfe" d="M13 18h10" stroke-width="1"></path>
+    <path id="Rectangle 889" stroke="#c71dff" d="M1.9166666666666667 1.9166666666666667h7.666666666666667v7.666666666666667H1.9166666666666667z" stroke-width="1"></path>
+    <path id="Rectangle 891" stroke="#c71dff" d="M1.9166666666666667 13.416666666666668h7.666666666666667v7.666666666666667H1.9166666666666667z" stroke-width="1"></path>
+    <path id="Rectangle 890" stroke="#c71dff" d="M13.416666666666668 1.9166666666666667h7.666666666666667v7.666666666666667h-7.666666666666667z" stroke-width="1"></path>
+    <path id="Rectangle 892" stroke="#000cfe" d="m17.25 12.458333333333334 0 9.583333333333334" stroke-width="1"></path>
+    <path id="Rectangle 893" stroke="#000cfe" d="M12.458333333333334 17.25h9.583333333333334" stroke-width="1"></path>
   </g>
 </svg>

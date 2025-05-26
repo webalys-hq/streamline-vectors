@@ -3,8 +3,8 @@
     Location Pin Disabled Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M36.4671 36.4671C40.0458 32.4502 43 27.2434 43 21c0 -10.4934 -8.5066 -19 -19 -19 -6.011 0 -11.37 2.79132 -14.85154 7.14846M32.9358 39.9358c-2.3883 2.0715 -4.7289 3.6379 -6.4151 4.6594 -1.5643 0.9477 -3.4771 0.9477 -5.0414 0C16.312 41.4649 5 33.217 5 21c0 -2.6534 0.54391 -5.1798 1.52632 -7.4737" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M27.9557 27.9554c2.4158 -1.3768 4.0446 -3.9759 4.0446 -6.9554 0 -4.4183 -3.5817 -8 -8 -8 -2.9795 0 -5.5786 1.6288 -6.9554 4.0446l10.9108 10.9108Z" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m2 2 44 44" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M36.4671 36.4671C40.0458 32.4502 43 27.2434 43 21c0 -10.4934 -8.5066 -19 -19 -19 -6.011 0 -11.37 2.79132 -14.85154 7.14846M32.9358 39.9358c-2.3883 2.0715 -4.7289 3.6379 -6.4151 4.6594 -1.5643 0.9477 -3.4771 0.9477 -5.0414 0C16.312 41.4649 5 33.217 5 21c0 -2.6534 0.54391 -5.1798 1.52632 -7.4737" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M27.9557 27.9554c2.4158 -1.3768 4.0446 -3.9759 4.0446 -6.9554 0 -4.4183 -3.5817 -8 -8 -8 -2.9795 0 -5.5786 1.6288 -6.9554 4.0446l10.9108 10.9108Z" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m2 2 44 44" stroke-width="3"></path>
   </g>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Warning-Shield--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Warning-Shield--Streamline-Sharp-Neon">
   <desc>
     Warning Shield Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="warning-shield--frame-alert-warning-shield-exclamation-caution-security-protection">
-    <path id="Rectangle 37" stroke="#c71dff" d="m3 1 0 17 8.9999 4.86L21 18l0 -17L3 1Z" stroke-width="1"></path>
-    <path id="Vector 2351" stroke="#000cfe" d="M12 5v8" stroke-width="1"></path>
-    <path id="Vector 2352" stroke="#000cfe" d="M12 15v2" stroke-width="1"></path>
+    <path id="Rectangle 37" stroke="#c71dff" d="m2.875 0.9583333333333334 0 16.291666666666668 8.624904166666667 4.657500000000001L20.125 17.25l0 -16.291666666666668L2.875 0.9583333333333334Z" stroke-width="1"></path>
+    <path id="Vector 2351" stroke="#000cfe" d="M11.5 4.791666666666667v7.666666666666667" stroke-width="1"></path>
+    <path id="Vector 2352" stroke="#000cfe" d="M11.5 14.375v1.9166666666666667" stroke-width="1"></path>
   </g>
 </svg>

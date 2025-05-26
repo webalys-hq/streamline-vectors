@@ -3,12 +3,12 @@
     Phone Circle Off Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="phone-circle-off--android-phone-mobile-device-smartphone-iphone-off-mute-dnd-circle">
-    <path id="Ellipse 444" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 313" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 443" fill="#ffffff" d="m7.19453 14.3567 0.32498 2.7126c1.53561 -0.0851 3.05559 -0.518 4.43159 -1.2988l-1.4138 -2.3689 -3.34277 0.9551Z" stroke-width="1"></path>
-    <path id="Ellipse 442" fill="#ffffff" d="m14.3566 7.19359 2.7127 0.32497c-0.0851 1.53562 -0.518 3.05554 -1.2988 4.43164l-2.3689 -1.4139 0.955 -3.34271Z" stroke-width="1"></path>
-    <path id="Vector 1194" stroke="#4147d5" d="m5 5 14 14" stroke-width="1"></path>
-    <path id="Ellipse 441" stroke="#4147d5" d="m10.5368 13.4016 -3.34274 0.9551 0.32498 2.7126c1.53561 -0.085 3.05556 -0.518 4.43166 -1.2988 0.1516 -0.086 0.3014 -0.1762 0.4494 -0.2707" stroke-width="1"></path>
-    <path id="Ellipse 445" stroke="#4147d5" d="M14.1182 14.1182c0.6614 -0.6615 1.2123 -1.3917 1.6526 -2.1677m0 0c0.7808 -1.3761 1.2137 -2.896 1.2988 -4.43161l-2.7127 -0.32498 -0.955 3.34279 2.3689 1.4138Z" stroke-width="1"></path>
+    <path id="Ellipse 444" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 313" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 443" fill="#ffffff" d="m7.19453 14.3567 0.32498 2.7126c1.53561 -0.0851 3.05559 -0.518 4.43159 -1.2988l-1.4138 -2.3689 -3.34277 0.9551Z" stroke-width="1.5"></path>
+    <path id="Ellipse 442" fill="#ffffff" d="m14.3566 7.19359 2.7127 0.32497c-0.0851 1.53562 -0.518 3.05554 -1.2988 4.43164l-2.3689 -1.4139 0.955 -3.34271Z" stroke-width="1.5"></path>
+    <path id="Vector 1194" stroke="#4147d5" d="m5 5 14 14" stroke-width="1.5"></path>
+    <path id="Ellipse 441" stroke="#4147d5" d="m10.5368 13.4016 -3.34274 0.9551 0.32498 2.7126c1.53561 -0.085 3.05556 -0.518 4.43166 -1.2988 0.1516 -0.086 0.3014 -0.1762 0.4494 -0.2707" stroke-width="1.5"></path>
+    <path id="Ellipse 445" stroke="#4147d5" d="M14.1182 14.1182c0.6614 -0.6615 1.2123 -1.3917 1.6526 -2.1677m0 0c0.7808 -1.3761 1.2137 -2.896 1.2988 -4.43161l-2.7127 -0.32498 -0.955 3.34279 2.3689 1.4138Z" stroke-width="1.5"></path>
   </g>
 </svg>

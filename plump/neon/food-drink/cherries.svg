@@ -3,12 +3,12 @@
     Cherries Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="cherries--cook-plant-cherry-plants-cooking-nutrition-vegetarian-fruit-food-cherries">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M26 9c-8.1774 2.6367 -12.9951 7.4166 -14 14" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 5c4.0231 2.47864 8.2089 3.53819 12.5973 3.90515 4.0042 0.33483 9.6045 -0.16592 13.4027 -2.32179" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M17 33c0 -2.7614 -2.2386 -5 -5 -5" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M31.8997 19.8766C27.829 16.7697 26.6483 12.5625 26 9" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M41 29c0 -2.7614 -2.2386 -5 -5 -5" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M22 33c0 5.5228 -4.4772 10 -10 10 -5.52285 0 -10 -4.4772 -10 -10s4.47715 -10 10 -10c5.5228 0 10 4.4772 10 10Z" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 29c0 5.5228 -4.4772 10 -10 10s-10 -4.4772 -10 -10 4.4772 -10 10 -10 10 4.4772 10 10Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M26 9c-8.1774 2.6367 -12.9951 7.4166 -14 14" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M13 5c4.0231 2.47864 8.2089 3.53819 12.5973 3.90515 4.0042 0.33483 9.6045 -0.16592 13.4027 -2.32179" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M17 33c0 -2.7614 -2.2386 -5 -5 -5" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M31.8997 19.8766C27.829 16.7697 26.6483 12.5625 26 9" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M41 29c0 -2.7614 -2.2386 -5 -5 -5" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M22 33c0 5.5228 -4.4772 10 -10 10 -5.52285 0 -10 -4.4772 -10 -10s4.47715 -10 10 -10c5.5228 0 10 4.4772 10 10Z" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 29c0 5.5228 -4.4772 10 -10 10s-10 -4.4772 -10 -10 4.4772 -10 10 -10 10 4.4772 10 10Z" stroke-width="3"></path>
   </g>
 </svg>

@@ -3,8 +3,8 @@
     Insert Row Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="insert-row">
-    <path id="Rectangle 852" stroke="#000000" d="m7 21 0 -6 15 0v6L7 21Z" stroke-width="1"></path>
-    <path id="Rectangle 853" stroke="#000000" d="m7 9 0 -6 15 0v6L7 9Z" stroke-width="1"></path>
-    <path id="Vector 1864" stroke="#000000" d="M2 15.5 5.5 12 2 8.5" stroke-width="1"></path>
+    <path id="Rectangle 852" stroke="#000000" d="m7 21 0 -6 15 0v6L7 21Z" stroke-width="1.5"></path>
+    <path id="Rectangle 853" stroke="#000000" d="m7 9 0 -6 15 0v6L7 9Z" stroke-width="1.5"></path>
+    <path id="Vector 1864" stroke="#000000" d="M2 15.5 5.5 12 2 8.5" stroke-width="1.5"></path>
   </g>
 </svg>

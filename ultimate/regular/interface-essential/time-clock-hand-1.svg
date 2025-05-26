@@ -2,9 +2,9 @@
   <desc>
     Time Clock Hand 1 Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 14.25v9" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 21.75h15c0 -0.7956 -0.3161 -1.5587 -0.8787 -2.1213 -0.5626 -0.5626 -1.3257 -0.8787 -2.1213 -0.8787H9c0 -0.7956 -0.31607 -1.5587 -0.87868 -2.1213C7.55871 16.0661 6.79565 15.75 6 15.75H0.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 18.75h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.68398 12.816c-0.79232 -1.5195 -1.0918 -3.24799 -0.85686 -4.94547 0.23494 -1.69748 0.99264 -3.27968 2.16789 -4.52685C10.1703 2.0965 11.7047 1.24625 13.3853 0.911003c1.6805 -0.335246 3.4238 -0.138848 4.9876 0.561917 1.5638 0.70077 2.8706 1.87113 3.7389 3.34853 0.8683 1.47741 1.255 3.18853 1.1063 4.89574 -0.1486 1.70721 -0.8252 3.32571 -1.9357 4.63091 -1.1106 1.3051 -2.6 2.232 -4.2614 2.6519" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 3.75v6H18" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 14.25v9" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 21.75h15c0 -0.7956 -0.3161 -1.5587 -0.8787 -2.1213 -0.5626 -0.5626 -1.3257 -0.8787 -2.1213 -0.8787H9c0 -0.7956 -0.31607 -1.5587 -0.87868 -2.1213C7.55871 16.0661 6.79565 15.75 6 15.75H0.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6 18.75h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.68398 12.816c-0.79232 -1.5195 -1.0918 -3.24799 -0.85686 -4.94547 0.23494 -1.69748 0.99264 -3.27968 2.16789 -4.52685C10.1703 2.0965 11.7047 1.24625 13.3853 0.911003c1.6805 -0.335246 3.4238 -0.138848 4.9876 0.561917 1.5638 0.70077 2.8706 1.87113 3.7389 3.34853 0.8683 1.47741 1.255 3.18853 1.1063 4.89574 -0.1486 1.70721 -0.8252 3.32571 -1.9357 4.63091 -1.1106 1.3051 -2.6 2.232 -4.2614 2.6519" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.25 3.75v6H18" stroke-width="1.5"></path>
 </svg>

@@ -3,9 +3,9 @@
     Yin Yang Symbol Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="yin-yang-symbol--religion-tao-yin-yang-taoism-culture-symbol">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 46c-6.0751 0 -11 -4.9249 -11 -11s4.9249 -11 11 -11 11 -4.9249 11 -11c0 -6.07513 -4.9249 -11 -11 -11" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2 24c0 12.1503 9.8497 22 22 22s22 -9.8497 22 -22S36.1503 2 24 2 2 11.8497 2 24Z" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28 35c0 2.2091 -1.7909 4 -4 4 -2.2091 0 -4 -1.7909 -4 -4 0 -2.2091 1.7909 -4 4 -4 2.2091 0 4 1.7909 4 4Z" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28 13c0 -2.2091 -1.7909 -4 -4 -4 -2.2091 0 -4 1.7909 -4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4 -1.7909 4 -4Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 46c-6.0751 0 -11 -4.9249 -11 -11s4.9249 -11 11 -11 11 -4.9249 11 -11c0 -6.07513 -4.9249 -11 -11 -11" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2 24c0 12.1503 9.8497 22 22 22s22 -9.8497 22 -22S36.1503 2 24 2 2 11.8497 2 24Z" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28 35c0 2.2091 -1.7909 4 -4 4 -2.2091 0 -4 -1.7909 -4 -4 0 -2.2091 1.7909 -4 4 -4 2.2091 0 4 1.7909 4 4Z" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M28 13c0 -2.2091 -1.7909 -4 -4 -4 -2.2091 0 -4 1.7909 -4 4 0 2.2091 1.7909 4 4 4 2.2091 0 4 -1.7909 4 -4Z" stroke-width="3"></path>
   </g>
 </svg>

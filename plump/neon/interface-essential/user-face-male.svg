@@ -3,11 +3,11 @@
     User Face Male Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-face-male--user-face-male-man">
-    <path id="Ellipse 18" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 24c0 12.1503 -9.8497 22 -22 22S2 36.1503 2 24 11.8497 2 24 2s22 9.8497 22 22Z" stroke-width="1"></path>
-    <path id="Ellipse 24" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32 34c-3.5 5.3333 -12.5 5.3333 -16 0" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M23.9015 2c-11.3986 0.05001 -20.75029 8.7686 -21.80287 19.9034C13.4972 21.8534 22.8489 13.1348 23.9015 2Z" stroke-width="1"></path>
-    <path id="Intersect_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M45.9015 21.9034C34.5029 21.8534 25.1512 13.1349 24.0986 2c11.3986 0.05001 20.7503 8.7686 21.8029 19.9034Z" stroke-width="1"></path>
-    <path id="Vector 839" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M17 23v2" stroke-width="1"></path>
-    <path id="Vector 840" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M31 23v2" stroke-width="1"></path>
+    <path id="Ellipse 18" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M46 24c0 12.1503 -9.8497 22 -22 22S2 36.1503 2 24 11.8497 2 24 2s22 9.8497 22 22Z" stroke-width="3"></path>
+    <path id="Ellipse 24" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32 34c-3.5 5.3333 -12.5 5.3333 -16 0" stroke-width="3"></path>
+    <path id="Intersect" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M23.9015 2c-11.3986 0.05001 -20.75029 8.7686 -21.80287 19.9034C13.4972 21.8534 22.8489 13.1348 23.9015 2Z" stroke-width="3"></path>
+    <path id="Intersect_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M45.9015 21.9034C34.5029 21.8534 25.1512 13.1349 24.0986 2c11.3986 0.05001 20.7503 8.7686 21.8029 19.9034Z" stroke-width="3"></path>
+    <path id="Vector 839" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M17 23v2" stroke-width="3"></path>
+    <path id="Vector 840" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M31 23v2" stroke-width="3"></path>
   </g>
 </svg>

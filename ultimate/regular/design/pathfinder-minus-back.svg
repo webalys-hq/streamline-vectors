@@ -2,6 +2,6 @@
   <desc>
     Pathfinder Minus Back Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.8047 7.26562c0.5523 0 1 0.44773 1 1.00001l-0.0001 13.53877c0 0.5522 -0.4477 1 -1 1H8.01685c-0.55228 0 -1 -0.4478 -1 -1v-5.2032c0 -0.5523 0.44772 -1 1 -1h6.58455c0.5523 0 1 -0.4477 1 -1l0.0001 -6.33559c0.0001 -0.55228 0.4478 -0.99999 1 -0.99999h5.2032Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round" d="M10.3984 15.6016H2.19531c-0.55228 0 -1 -0.4478 -1 -1V2.19531c0 -0.55228 0.44772 -1 1 -1H14.6016c0.5522 0 1 0.44772 1 1v8.20309" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.8047 7.26562c0.5523 0 1 0.44773 1 1.00001l-0.0001 13.53877c0 0.5522 -0.4477 1 -1 1H8.01685c-0.55228 0 -1 -0.4478 -1 -1v-5.2032c0 -0.5523 0.44772 -1 1 -1h6.58455c0.5523 0 1 -0.4477 1 -1l0.0001 -6.33559c0.0001 -0.55228 0.4478 -0.99999 1 -0.99999h5.2032Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round" d="M10.3984 15.6016H2.19531c-0.55228 0 -1 -0.4478 -1 -1V2.19531c0 -0.55228 0.44772 -1 1 -1H14.6016c0.5522 0 1 0.44772 1 1v8.20309" stroke-width="1.5"></path>
 </svg>

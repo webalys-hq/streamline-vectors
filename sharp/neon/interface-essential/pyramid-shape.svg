@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Pyramid-Shape--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Pyramid-Shape--Streamline-Sharp-Neon">
   <desc>
     Pyramid Shape Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pyramid-shape">
-    <path id="Polygon 8" stroke="#000cfe" d="M12 1.7207V22.834" stroke-width="1"></path>
-    <path id="Polygon 7" stroke="#c71dff" d="M12.0001 1.71973 1.44141 16.4499 12.0001 22.833l10.5585 -6.3831L12.0001 1.71973Z" stroke-width="1"></path>
+    <path id="Polygon 8" stroke="#000cfe" d="M11.5 1.6490041666666666V21.882583333333333" stroke-width="1"></path>
+    <path id="Polygon 7" stroke="#c71dff" d="M11.500095833333333 1.6480745833333335 1.38135125 15.7644875 11.500095833333333 21.881625l10.118562500000001 -6.1171375L11.500095833333333 1.6480745833333335Z" stroke-width="1"></path>
   </g>
 </svg>

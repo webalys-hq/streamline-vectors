@@ -3,7 +3,7 @@
     Dark Dislay Mode Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="dark-dislay-mode">
-    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 45C12.402 45 3 35.598 3 24S12.402 3 24 3s21 9.402 21 21 -9.402 21 -21 21Z" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34.0439 14.2472c0.6467 0.6658 -0.115 1.7538 -1.0432 1.7538 -4.4183 0 -8 3.5817 -8 8s3.5817 8 8 8c0.9282 0 1.6899 1.0879 1.0431 1.7537 -2.544 2.619 -6.1035 4.2463 -10.0431 4.2463 -7.732 0 -14 -6.268 -14 -14s6.268 -14 14 -14c3.9396 0 7.4992 1.6272 10.0432 4.2462Z" stroke-width="1"></path>
+    <path id="Ellipse 19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M24 45C12.402 45 3 35.598 3 24S12.402 3 24 3s21 9.402 21 21 -9.402 21 -21 21Z" stroke-width="3"></path>
+    <path id="Subtract" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34.0439 14.2472c0.6467 0.6658 -0.115 1.7538 -1.0432 1.7538 -4.4183 0 -8 3.5817 -8 8s3.5817 8 8 8c0.9282 0 1.6899 1.0879 1.0431 1.7537 -2.544 2.619 -6.1035 4.2463 -10.0431 4.2463 -7.732 0 -14 -6.268 -14 -14s6.268 -14 14 -14c3.9396 0 7.4992 1.6272 10.0432 4.2462Z" stroke-width="3"></path>
   </g>
 </svg>

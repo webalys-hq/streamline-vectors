@@ -2,10 +2,10 @@
   <desc>
     Archive Locker Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.251 0.75H21.75s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.251s-1.500001 0 -1.500001 -1.5V2.25s0 -1.5 1.500001 -1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.750999 8.25H23.249" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.750999 15.75H23.249" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 18.75c0 0.1989 -0.079 0.3897 -0.2197 0.5303 -0.1406 0.1407 -0.3314 0.2197 -0.5303 0.2197h-4.5c-0.19891 0 -0.38968 -0.079 -0.53033 -0.2197C9.07902 19.1397 9 18.9489 9 18.75" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 11.25c0 0.1989 -0.079 0.3897 -0.2197 0.5303 -0.1406 0.1407 -0.3314 0.2197 -0.5303 0.2197h-4.5c-0.19891 0 -0.38968 -0.079 -0.53033 -0.2197C9.07902 11.6397 9 11.4489 9 11.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 3.75c0 0.19891 -0.079 0.38968 -0.2197 0.53033 -0.1406 0.14065 -0.3314 0.21967 -0.5303 0.21967h-4.5c-0.19891 0 -0.38968 -0.07902 -0.53033 -0.21967C9.07902 4.13968 9 3.94891 9 3.75" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.251 0.75H21.75s1.5 0 1.5 1.5v19.5s0 1.5 -1.5 1.5H2.251s-1.500001 0 -1.500001 -1.5V2.25s0 -1.5 1.500001 -1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.750999 8.25H23.249" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.750999 15.75H23.249" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 18.75c0 0.1989 -0.079 0.3897 -0.2197 0.5303 -0.1406 0.1407 -0.3314 0.2197 -0.5303 0.2197h-4.5c-0.19891 0 -0.38968 -0.079 -0.53033 -0.2197C9.07902 19.1397 9 18.9489 9 18.75" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 11.25c0 0.1989 -0.079 0.3897 -0.2197 0.5303 -0.1406 0.1407 -0.3314 0.2197 -0.5303 0.2197h-4.5c-0.19891 0 -0.38968 -0.079 -0.53033 -0.2197C9.07902 11.6397 9 11.4489 9 11.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M15 3.75c0 0.19891 -0.079 0.38968 -0.2197 0.53033 -0.1406 0.14065 -0.3314 0.21967 -0.5303 0.21967h-4.5c-0.19891 0 -0.38968 -0.07902 -0.53033 -0.21967C9.07902 4.13968 9 3.94891 9 3.75" stroke-width="1.5"></path>
 </svg>

@@ -4,10 +4,10 @@
   </desc>
   <g id="one-handed-holding-tablet-handheld">
     <g id="Group 176656">
-      <path id="Vector" fill="#d7e0ff" d="M17.2194 1.90234H2V20.5364h15.2194V1.90234Z" stroke-width="1"></path>
-      <path id="Vector 297" fill="#ffffff" d="m17.207 5.07338 -0.0003 10.97472 -3.8873 -1.699c-0.8159 -0.3566 -1.7693 -0.1309 -2.3387 0.5537l-0.2824 0.3396 5.3015 6.7943 4.8293 0.061 1.1707 -6.0496 -2.0474 -10.97472 -2.7454 0Z" stroke-width="1"></path>
-      <path id="Vector_2" stroke="#4147d5" stroke-linecap="square" d="M17.2194 7.6584V1.90234H2V20.5364h8.2188" stroke-width="1"></path>
-      <path id="Vector 296" stroke="#4147d5" stroke-linecap="square" d="m15.9998 22.0367 -5.3015 -6.7943 0.2824 -0.3396c0.5694 -0.6846 1.5228 -0.9103 2.3387 -0.5537l3.8873 1.699 0.0003 -10.97472 2.7454 0 2.0474 10.97472 -1.1707 6.0496" stroke-width="1"></path>
+      <path id="Vector" fill="#d7e0ff" d="M17.2194 1.90234H2V20.5364h15.2194V1.90234Z" stroke-width="1.5"></path>
+      <path id="Vector 297" fill="#ffffff" d="m17.207 5.07338 -0.0003 10.97472 -3.8873 -1.699c-0.8159 -0.3566 -1.7693 -0.1309 -2.3387 0.5537l-0.2824 0.3396 5.3015 6.7943 4.8293 0.061 1.1707 -6.0496 -2.0474 -10.97472 -2.7454 0Z" stroke-width="1.5"></path>
+      <path id="Vector_2" stroke="#4147d5" stroke-linecap="square" d="M17.2194 7.6584V1.90234H2V20.5364h8.2188" stroke-width="1.5"></path>
+      <path id="Vector 296" stroke="#4147d5" stroke-linecap="square" d="m15.9998 22.0367 -5.3015 -6.7943 0.2824 -0.3396c0.5694 -0.6846 1.5228 -0.9103 2.3387 -0.5537l3.8873 1.699 0.0003 -10.97472 2.7454 0 2.0474 10.97472 -1.1707 6.0496" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

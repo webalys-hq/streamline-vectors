@@ -3,9 +3,9 @@
     Volume Level High Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="volume-level-high--speaker-high-volume-control-audio-music-entertainment">
-    <path id="Ellipse 68" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M40 12c6.667 6.627 6.667 17.373 0 24" stroke-width="1"></path>
-    <path id="Ellipse 69" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M35 16c4 4.418 4 11.582 0 16" stroke-width="1"></path>
-    <path id="Union" stroke="#000000" stroke-linejoin="round" d="M28.352 7.194c-0.157 -1.732 -1.801 -2.88 -3.439 -2.294C17.248 7.642 11 13.5 11 13.5s-2.752 0.611 -5.147 1.356a3.282 3.282 0 0 0 -2.273 2.558A37.372 37.372 0 0 0 3 24c0 2.768 0.307 5.076 0.58 6.585a3.282 3.282 0 0 0 2.273 2.558C8.248 33.888 11 34.5 11 34.5s6.248 5.858 13.913 8.6c1.638 0.586 3.282 -0.562 3.439 -2.294 0.288 -3.2 0.648 -8.801 0.648 -16.806s-0.36 -13.607 -0.648 -16.806Z" stroke-width="1"></path>
-    <path id="Vector 1357" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 13.5s-0.5 4.786 -0.5 10.5 0.5 10.5 0.5 10.5" stroke-width="1"></path>
+    <path id="Ellipse 68" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M40 12c6.667 6.627 6.667 17.373 0 24" stroke-width="3"></path>
+    <path id="Ellipse 69" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M35 16c4 4.418 4 11.582 0 16" stroke-width="3"></path>
+    <path id="Union" stroke="#000000" stroke-linejoin="round" d="M28.352 7.194c-0.157 -1.732 -1.801 -2.88 -3.439 -2.294C17.248 7.642 11 13.5 11 13.5s-2.752 0.611 -5.147 1.356a3.282 3.282 0 0 0 -2.273 2.558A37.372 37.372 0 0 0 3 24c0 2.768 0.307 5.076 0.58 6.585a3.282 3.282 0 0 0 2.273 2.558C8.248 33.888 11 34.5 11 34.5s6.248 5.858 13.913 8.6c1.638 0.586 3.282 -0.562 3.439 -2.294 0.288 -3.2 0.648 -8.801 0.648 -16.806s-0.36 -13.607 -0.648 -16.806Z" stroke-width="3"></path>
+    <path id="Vector 1357" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11 13.5s-0.5 4.786 -0.5 10.5 0.5 10.5 0.5 10.5" stroke-width="3"></path>
   </g>
 </svg>

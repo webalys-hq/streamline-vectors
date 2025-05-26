@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Peace-Symbol--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Peace-Symbol--Streamline-Sharp-Neon">
   <desc>
     Peace Symbol Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="peace-symbol--religion-peace-war-culture-symbol">
-    <path id="Vector 1" stroke="#000cfe" d="m12 1 0 22" stroke-width="1"></path>
-    <path id="Polygon 1" stroke="#000cfe" d="m20.5562 20.0038 -8.5561 -9.0695 -8.55601 9.0695" stroke-width="1"></path>
-    <path id="Ellipse 3" stroke="#c71dff" d="M1 12a11 11 0 1 0 22 0 11 11 0 1 0 -22 0" stroke-width="1"></path>
+    <path id="Vector 1" stroke="#000cfe" d="m11.5 0.9583333333333334 0 21.083333333333336" stroke-width="1"></path>
+    <path id="Polygon 1" stroke="#000cfe" d="m19.699691666666666 19.17030833333333 -8.199595833333335 -8.691604166666666 -8.199509583333334 8.691604166666666" stroke-width="1"></path>
+    <path id="Ellipse 3" stroke="#c71dff" d="M0.9583333333333334 11.5a10.541666666666668 10.541666666666668 0 1 0 21.083333333333336 0 10.541666666666668 10.541666666666668 0 1 0 -21.083333333333336 0" stroke-width="1"></path>
   </g>
 </svg>

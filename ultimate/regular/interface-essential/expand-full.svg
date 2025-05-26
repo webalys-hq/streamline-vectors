@@ -2,9 +2,9 @@
   <desc>
     Expand Full Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 8.24805v-6c0 -0.39783 0.158035 -0.77936 0.43934 -1.06066C1.47064 0.906082 1.85218 0.748047 2.25 0.748047h6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 8.24805v-6c0 -0.39783 -0.158 -0.77936 -0.4393 -1.06066 -0.2813 -0.281308 -0.6629 -0.439343 -1.0607 -0.439343h-6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 15.748v6c0 0.3979 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 15.748v6c0 0.3979 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393h-6" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.24805h13.5V18.748H5.25V5.24805Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 8.24805v-6c0 -0.39783 0.158035 -0.77936 0.43934 -1.06066C1.47064 0.906082 1.85218 0.748047 2.25 0.748047h6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 8.24805v-6c0 -0.39783 -0.158 -0.77936 -0.4393 -1.06066 -0.2813 -0.281308 -0.6629 -0.439343 -1.0607 -0.439343h-6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 15.748v6c0 0.3979 0.158035 0.7794 0.43934 1.0607 0.2813 0.2813 0.66284 0.4393 1.06066 0.4393h6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.25 15.748v6c0 0.3979 -0.158 0.7794 -0.4393 1.0607s-0.6629 0.4393 -1.0607 0.4393h-6" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.24805h13.5V18.748H5.25V5.24805Z" stroke-width="1.5"></path>
 </svg>

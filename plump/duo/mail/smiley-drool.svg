@@ -3,11 +3,11 @@
     Smiley Drool Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="smiley-drool">
-    <path id="Ellipse 23" fill="#8fbffa" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="1"></path>
-    <path id="Union" fill="#ffffff" d="m31 34.748 0.01 -0.008A2.5 2.5 0 0 0 36 34.5V27a2 2 0 0 0 -2 -2H13.997c-1.104 0 -2.015 0.902 -1.833 1.992C13.113 32.672 18.05 37 23.999 37c0.337 0 0.67 -0.014 1 -0.041V37a3 3 0 1 0 6 0v-2.252Z" stroke-width="1"></path>
-    <path id="Ellipse 18" stroke="#2859c5" stroke-linejoin="round" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="1"></path>
-    <path id="Ellipse 22" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M11 19c0.817 -2.878 3.951 -4.586 7 -3.815" stroke-width="1"></path>
-    <path id="Ellipse 151" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M37 19c-0.817 -2.878 -3.951 -4.586 -7 -3.815" stroke-width="1"></path>
-    <path id="Union_2" stroke="#2859c5" stroke-linejoin="round" d="m31 34.748 0.012 -0.008A2.5 2.5 0 0 0 36 34.5V27a2 2 0 0 0 -1.998 -2H13.998c-1.104 0 -2.015 0.902 -1.833 1.992C13.114 32.672 18.05 37 24 37c0.337 0 0.67 -0.014 1 -0.041V37a3 3 0 0 0 6 0v-2.252Z" stroke-width="1"></path>
+    <path id="Ellipse 23" fill="#8fbffa" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="3"></path>
+    <path id="Union" fill="#ffffff" d="m31 34.748 0.01 -0.008A2.5 2.5 0 0 0 36 34.5V27a2 2 0 0 0 -2 -2H13.997c-1.104 0 -2.015 0.902 -1.833 1.992C13.113 32.672 18.05 37 23.999 37c0.337 0 0.67 -0.014 1 -0.041V37a3 3 0 1 0 6 0v-2.252Z" stroke-width="3"></path>
+    <path id="Ellipse 18" stroke="#2859c5" stroke-linejoin="round" d="M45 24c0 11.598 -9.402 21 -21 21S3 35.598 3 24 12.402 3 24 3s21 9.402 21 21Z" stroke-width="3"></path>
+    <path id="Ellipse 22" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M11 19c0.817 -2.878 3.951 -4.586 7 -3.815" stroke-width="3"></path>
+    <path id="Ellipse 151" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M37 19c-0.817 -2.878 -3.951 -4.586 -7 -3.815" stroke-width="3"></path>
+    <path id="Union_2" stroke="#2859c5" stroke-linejoin="round" d="m31 34.748 0.012 -0.008A2.5 2.5 0 0 0 36 34.5V27a2 2 0 0 0 -1.998 -2H13.998c-1.104 0 -2.015 0.902 -1.833 1.992C13.114 32.672 18.05 37 24 37c0.337 0 0.67 -0.014 1 -0.041V37a3 3 0 0 0 6 0v-2.252Z" stroke-width="3"></path>
   </g>
 </svg>

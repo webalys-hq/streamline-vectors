@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Fire-Wall--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Fire-Wall--Streamline-Sharp-Neon">
   <desc>
     Fire Wall Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="fire-wall--code-firewall-programming-secure-security">
-    <path id="Rectangle 737" stroke="#000cfe" d="M1.7739 18.1356h20.4522" stroke-width="1"></path>
-    <path id="Rectangle 736" stroke="#000cfe" d="M8.9322 18.1356v4.6018" stroke-width="1"></path>
-    <path id="Rectangle 735" stroke="#000cfe" d="M15.0678 13.5339v4.6017" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000cfe" d="M12 1.2626h-0.1271L8.3845 4.7654c-1.9967 2.005 -1.9967 5.2558 0 7.2608 1.9968 2.005 5.2342 2.005 7.2309 0 1.6467 -1.6536 1.9354 -4.1545 0.8659 -6.1051 -0.4748 0.4108 -1.0931 0.6593 -1.7691 0.6593 -1.4976 0 -2.7116 -1.2191 -2.7116 -2.7228L12 1.2626Z" stroke-width="1"></path>
-    <path id="Rectangle 734" stroke="#c71dff" d="M1.7739 13.5339h20.4522v9.2035H1.7739v-9.2035Z" stroke-width="1"></path>
+    <path id="Rectangle 737" stroke="#000cfe" d="M1.6999875000000002 17.37995h19.600025000000002" stroke-width="1"></path>
+    <path id="Rectangle 736" stroke="#000cfe" d="M8.560025 17.37995v4.410058333333334" stroke-width="1"></path>
+    <path id="Rectangle 735" stroke="#000cfe" d="M14.439975 12.9699875v4.409962500000001" stroke-width="1"></path>
+    <path id="Subtract" stroke="#000cfe" d="M11.5 1.2099916666666666h-0.12180416666666666L8.035145833333333 4.566841666666667c-1.9135041666666666 1.9214583333333333 -1.9135041666666666 5.036808333333333 0 6.958266666666667 1.9136 1.9214583333333333 5.016108333333334 1.9214583333333333 6.9296125 0 1.5780875 -1.5847 1.8547583333333335 -3.981395833333333 0.8298208333333333 -5.850720833333334 -0.4550166666666667 0.39368333333333333 -1.0475541666666666 0.6318291666666667 -1.6953875 0.6318291666666667 -1.4352 0 -2.5986166666666666 -1.1683041666666667 -2.5986166666666666 -2.60935L11.5 1.2099916666666666Z" stroke-width="1"></path>
+    <path id="Rectangle 734" stroke="#c71dff" d="M1.6999875000000002 12.9699875h19.600025000000002v8.820020833333334H1.6999875000000002v-8.820020833333334Z" stroke-width="1"></path>
   </g>
 </svg>

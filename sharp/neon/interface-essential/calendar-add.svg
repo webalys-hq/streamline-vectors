@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Calendar-Add--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Calendar-Add--Streamline-Sharp-Neon">
   <desc>
     Calendar Add Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="calendar-add--add-calendar-date-day-month">
-    <path id="Rectangle 11" stroke="#c71dff" d="M11.5296 19.9968H1.1808V3.0624h18.816v8.4672" stroke-width="1"></path>
-    <path id="Vector 38" stroke="#000cfe" d="M19.9968 6.8256H1.1808V3.0624h18.816v3.7632Z" stroke-width="1"></path>
-    <path id="Vector 39" stroke="#000cfe" d="M4.944 0.24v2.8224" stroke-width="1"></path>
-    <path id="Vector 40" stroke="#000cfe" d="M16.2336 0.24v2.8224" stroke-width="1"></path>
-    <path id="Vector 1141" stroke="#000cfe" d="M22.8192 18.1152h-9.408m4.704 -4.704v9.408" stroke-width="1"></path>
+    <path id="Rectangle 11" stroke="#c71dff" d="M11.0492 19.163600000000002H1.1316000000000002V2.9348h18.032v8.1144" stroke-width="1"></path>
+    <path id="Vector 38" stroke="#000cfe" d="M19.163600000000002 6.5412H1.1316000000000002V2.9348h18.032v3.6064Z" stroke-width="1"></path>
+    <path id="Vector 39" stroke="#000cfe" d="M4.738 0.23v2.7048" stroke-width="1"></path>
+    <path id="Vector 40" stroke="#000cfe" d="M15.5572 0.23v2.7048" stroke-width="1"></path>
+    <path id="Vector 1141" stroke="#000cfe" d="M21.8684 17.360400000000002h-9.016m4.508 -4.508v9.016" stroke-width="1"></path>
   </g>
 </svg>

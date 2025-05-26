@@ -3,10 +3,10 @@
     Story Post Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="story-post">
-    <path id="Vector 1366" stroke="#4147d5" d="M12 7.5v9M7.5 12h9" stroke-width="1"></path>
-    <path id="Ellipse 445" stroke="#4147d5" d="M2 12c0 5.523 4.477 10 10 10s10 -4.477 10 -10S17.523 2 12 2" stroke-width="1"></path>
-    <path id="Ellipse 446" stroke="#4147d5" d="M2.2 10c0.169 -0.83 0.44 -1.623 0.8 -2.364" stroke-width="1"></path>
-    <path id="Ellipse 448" stroke="#4147d5" d="M6 4a10.058 10.058 0 0 0 -2 1.999" stroke-width="1"></path>
-    <path id="Ellipse 449" stroke="#4147d5" d="M10 2.2c-0.83 0.168 -1.623 0.44 -2.364 0.8" stroke-width="1"></path>
+    <path id="Vector 1366" stroke="#4147d5" d="M12 7.5v9M7.5 12h9" stroke-width="1.5"></path>
+    <path id="Ellipse 445" stroke="#4147d5" d="M2 12c0 5.523 4.477 10 10 10s10 -4.477 10 -10S17.523 2 12 2" stroke-width="1.5"></path>
+    <path id="Ellipse 446" stroke="#4147d5" d="M2.2 10c0.169 -0.83 0.44 -1.623 0.8 -2.364" stroke-width="1.5"></path>
+    <path id="Ellipse 448" stroke="#4147d5" d="M6 4a10.058 10.058 0 0 0 -2 1.999" stroke-width="1.5"></path>
+    <path id="Ellipse 449" stroke="#4147d5" d="M10 2.2c-0.83 0.168 -1.623 0.44 -2.364 0.8" stroke-width="1.5"></path>
   </g>
 </svg>

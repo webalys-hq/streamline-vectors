@@ -3,7 +3,7 @@
     Ticket Star Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="ticket-star--hobby-ticket-star-event-entertainment-stub-theater-entertainment">
-    <path id="Star 5" stroke="#000000" d="m12 8 1.459 2.5 2.5 0.625L14.292 13l0.417 2.916L12 14.666l-2.708 1.25L9.709 13l-1.667 -1.875 2.5 -0.625L12 8Z" stroke-width="1"></path>
-    <path id="Subtract" stroke="#000000" d="M2 4h20v5.17a3.001 3.001 0 0 0 0 5.66V20H2v-5.17a3.001 3.001 0 0 0 0 -5.66V4Z" stroke-width="1"></path>
+    <path id="Star 5" stroke="#000000" d="m12 8 1.459 2.5 2.5 0.625L14.292 13l0.417 2.916L12 14.666l-2.708 1.25L9.709 13l-1.667 -1.875 2.5 -0.625L12 8Z" stroke-width="1.5"></path>
+    <path id="Subtract" stroke="#000000" d="M2 4h20v5.17a3.001 3.001 0 0 0 0 5.66V20H2v-5.17a3.001 3.001 0 0 0 0 -5.66V4Z" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,13 +3,13 @@
     School Bus Side Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="school-bus-side">
-    <path id="Ellipse 1118" stroke="#000000" d="M4 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Ellipse 1119" stroke="#000000" d="M14 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1"></path>
-    <path id="Vector 3141" stroke="#000000" d="M14 19.5H9" stroke-width="1"></path>
-    <path id="Vector 3215" stroke="#000000" d="M19 19.5h3V13h-2V4L2 4v15.5h2" stroke-width="1"></path>
-    <path id="Vector 3217" stroke="#000000" d="M2 7.5h18" stroke-width="1"></path>
-    <path id="Vector 3218" stroke="#000000" d="M8 7.5V13" stroke-width="1"></path>
-    <path id="Vector 3219" stroke="#000000" d="M14 7.5V13" stroke-width="1"></path>
-    <path id="Vector 3220" stroke="#000000" d="M2 13h18" stroke-width="1"></path>
+    <path id="Ellipse 1118" stroke="#000000" d="M4 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Ellipse 1119" stroke="#000000" d="M14 19.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 1 0 -5 0" stroke-width="1.5"></path>
+    <path id="Vector 3141" stroke="#000000" d="M14 19.5H9" stroke-width="1.5"></path>
+    <path id="Vector 3215" stroke="#000000" d="M19 19.5h3V13h-2V4L2 4v15.5h2" stroke-width="1.5"></path>
+    <path id="Vector 3217" stroke="#000000" d="M2 7.5h18" stroke-width="1.5"></path>
+    <path id="Vector 3218" stroke="#000000" d="M8 7.5V13" stroke-width="1.5"></path>
+    <path id="Vector 3219" stroke="#000000" d="M14 7.5V13" stroke-width="1.5"></path>
+    <path id="Vector 3220" stroke="#000000" d="M2 13h18" stroke-width="1.5"></path>
   </g>
 </svg>

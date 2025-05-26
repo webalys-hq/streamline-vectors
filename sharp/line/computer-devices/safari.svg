@@ -3,11 +3,11 @@
     Safari Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="safari">
-    <path id="Ellipse 794" stroke="#000000" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Vector 2863" stroke="#000000" d="M12 2v3" stroke-width="1"></path>
-    <path id="Vector 2864" stroke="#000000" d="M12 19v3" stroke-width="1"></path>
-    <path id="Vector 2867" stroke="#000000" d="m10 10 6 -2 -2 6 -6 2 2 -6Z" stroke-width="1"></path>
-    <path id="Vector 2868" stroke="#000000" d="m20.6602 17 -2.5981 -1.5" stroke-width="1"></path>
-    <path id="Vector 2869" stroke="#000000" d="M5.9375 8.5 3.33942 7" stroke-width="1"></path>
+    <path id="Ellipse 794" stroke="#000000" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Vector 2863" stroke="#000000" d="M12 2v3" stroke-width="1.5"></path>
+    <path id="Vector 2864" stroke="#000000" d="M12 19v3" stroke-width="1.5"></path>
+    <path id="Vector 2867" stroke="#000000" d="m10 10 6 -2 -2 6 -6 2 2 -6Z" stroke-width="1.5"></path>
+    <path id="Vector 2868" stroke="#000000" d="m20.6602 17 -2.5981 -1.5" stroke-width="1.5"></path>
+    <path id="Vector 2869" stroke="#000000" d="M5.9375 8.5 3.33942 7" stroke-width="1.5"></path>
   </g>
 </svg>

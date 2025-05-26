@@ -2,9 +2,9 @@
   <desc>
     Chromium Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 19h10" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.813 9.00049c-0.3089 -0.8739 -1.2703 -1.5 -2.25001 -1.5 -1.24264 0 -2.25 1.00736 -2.25 2.25v4.50001c0 1.2426 1.00736 2.25 2.25 2.25 0.97971 0 1.94111 -0.6261 2.25001 -1.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.584 16.501v-3.3334c0 -0.9204 0.7462 -1.6666 1.6667 -1.6666 0.4936 0 0.9371 0.2146 1.2422 0.5555" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.584 13.1676V11.501" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linejoin="round" d="M1.75 0.75h20.5s1 0 1 1v20.5s0 1 -1 1H1.75s-1 0 -1 -1V1.75s0 -1 1 -1Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7 19h10" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.813 9.00049c-0.3089 -0.8739 -1.2703 -1.5 -2.25001 -1.5 -1.24264 0 -2.25 1.00736 -2.25 2.25v4.50001c0 1.2426 1.00736 2.25 2.25 2.25 0.97971 0 1.94111 -0.6261 2.25001 -1.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.584 16.501v-3.3334c0 -0.9204 0.7462 -1.6666 1.6667 -1.6666 0.4936 0 0.9371 0.2146 1.2422 0.5555" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.584 13.1676V11.501" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linejoin="round" d="M1.75 0.75h20.5s1 0 1 1v20.5s0 1 -1 1H1.75s-1 0 -1 -1V1.75s0 -1 1 -1Z" stroke-width="1.5"></path>
 </svg>

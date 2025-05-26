@@ -3,15 +3,15 @@
     Add Bell Notification Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="add-bell-notification--notification-alarm-alert-bell-add">
-    <path id="Subtract" fill="#8fbffa" d="M20.777 3.342c0.475 -0.103 0.759 0.486 0.43 0.844A15.943 15.943 0 0 0 17 15c0 8.837 7.163 16 16 16a15.93 15.93 0 0 0 7.98 -2.129 0.527 0.527 0 0 1 0.72 0.196c0.097 0.171 0.197 0.34 0.3 0.508l1.471 2.384c1.478 2.393 0.672 4.866 -2.116 5.237C38.166 37.62 32.842 38 24 38c-8.843 0 -14.167 -0.38 -17.355 -0.804 -2.788 -0.371 -3.594 -2.844 -2.117 -5.237L6 29.575a16 16 0 0 0 2.326 -7.037l0.48 -5.59c0.581 -6.789 5.551 -12.223 11.972 -13.606Z" stroke-width="1"></path>
-    <path id="Ellipse 19" fill="#ffffff" d="M21 15a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="1"></path>
-    <path id="Subtract_2" fill="#ffffff" d="M16.048 37.878A235.7 235.7 0 0 0 24 38c3.05 0 5.683 -0.045 7.953 -0.122a8.001 8.001 0 0 1 -15.905 0Z" stroke-width="1"></path>
-    <path id="Union" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m42 29.575 1.471 2.384c1.478 2.393 0.672 4.866 -2.116 5.237C38.167 37.62 32.843 38 24 38s-14.167 -0.38 -17.355 -0.804c-2.788 -0.37 -3.594 -2.844 -2.117 -5.237L6 29.575a16 16 0 0 0 2.325 -7.037l0.48 -5.589C9.392 10.081 14.47 4.6 21 3.296" stroke-width="1"></path>
-    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M21 15a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="1"></path>
-    <path id="Vector 881" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M33 10v10" stroke-width="1"></path>
-    <path id="Vector 883" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M33 9v12" stroke-width="1"></path>
-    <path id="Vector 882" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m38 15 -10 0" stroke-width="1"></path>
-    <path id="Vector 884" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m39 15 -12 0" stroke-width="1"></path>
-    <path id="Subtract_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M16.048 37.878a8.001 8.001 0 0 0 15.904 0" stroke-width="1"></path>
+    <path id="Subtract" fill="#8fbffa" d="M20.777 3.342c0.475 -0.103 0.759 0.486 0.43 0.844A15.943 15.943 0 0 0 17 15c0 8.837 7.163 16 16 16a15.93 15.93 0 0 0 7.98 -2.129 0.527 0.527 0 0 1 0.72 0.196c0.097 0.171 0.197 0.34 0.3 0.508l1.471 2.384c1.478 2.393 0.672 4.866 -2.116 5.237C38.166 37.62 32.842 38 24 38c-8.843 0 -14.167 -0.38 -17.355 -0.804 -2.788 -0.371 -3.594 -2.844 -2.117 -5.237L6 29.575a16 16 0 0 0 2.326 -7.037l0.48 -5.59c0.581 -6.789 5.551 -12.223 11.972 -13.606Z" stroke-width="3"></path>
+    <path id="Ellipse 19" fill="#ffffff" d="M21 15a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="3"></path>
+    <path id="Subtract_2" fill="#ffffff" d="M16.048 37.878A235.7 235.7 0 0 0 24 38c3.05 0 5.683 -0.045 7.953 -0.122a8.001 8.001 0 0 1 -15.905 0Z" stroke-width="3"></path>
+    <path id="Union" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m42 29.575 1.471 2.384c1.478 2.393 0.672 4.866 -2.116 5.237C38.167 37.62 32.843 38 24 38s-14.167 -0.38 -17.355 -0.804c-2.788 -0.37 -3.594 -2.844 -2.117 -5.237L6 29.575a16 16 0 0 0 2.325 -7.037l0.48 -5.589C9.392 10.081 14.47 4.6 21 3.296" stroke-width="3"></path>
+    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M21 15a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="3"></path>
+    <path id="Vector 881" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M33 10v10" stroke-width="3"></path>
+    <path id="Vector 883" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M33 9v12" stroke-width="3"></path>
+    <path id="Vector 882" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m38 15 -10 0" stroke-width="3"></path>
+    <path id="Vector 884" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m39 15 -12 0" stroke-width="3"></path>
+    <path id="Subtract_3" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M16.048 37.878a8.001 8.001 0 0 0 15.904 0" stroke-width="3"></path>
   </g>
 </svg>

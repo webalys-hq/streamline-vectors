@@ -3,9 +3,9 @@
     Chess Pawn Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="chess-pawn">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m19.2559 18.6484 -1.2563 3.3505s-3.8975 9.4731 -5.5465 18.1758" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m28.7422 18.6484 1.2564 3.3505s3.8975 9.473 5.5464 18.1758" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M33 11c0 4.9706 -4.0294 9 -9 9s-9 -4.0294 -9 -9c0 -4.97056 4.0294 -9 9 -9s9 4.02944 9 9Z" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.1489 46C39.621 46 40 44.8925 40 44.4205c0 -2.6885 -2.0742 -4.1749 -4.7614 -4.2605C32.611 40.0763 28.8787 40 24 40s-8.611 0.0763 -11.2386 0.16C10.0742 40.2456 8 41.732 8 44.4205 8 44.8925 8.37903 46 8.85106 46L24 46l15.1489 0Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m19.2559 18.6484 -1.2563 3.3505s-3.8975 9.4731 -5.5465 18.1758" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="m28.7422 18.6484 1.2564 3.3505s3.8975 9.473 5.5464 18.1758" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M33 11c0 4.9706 -4.0294 9 -9 9s-9 -4.0294 -9 -9c0 -4.97056 4.0294 -9 9 -9s9 4.02944 9 9Z" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M39.1489 46C39.621 46 40 44.8925 40 44.4205c0 -2.6885 -2.0742 -4.1749 -4.7614 -4.2605C32.611 40.0763 28.8787 40 24 40s-8.611 0.0763 -11.2386 0.16C10.0742 40.2456 8 41.732 8 44.4205 8 44.8925 8.37903 46 8.85106 46L24 46l15.1489 0Z" stroke-width="3"></path>
   </g>
 </svg>

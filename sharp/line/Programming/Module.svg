@@ -3,8 +3,8 @@
     Module Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="module--cube-code-module-programming-plugin">
-    <path id="Vector 1374" stroke="#000000" d="m2 6 10 -4 10 4v12l-10 4 -10 -4V6Z" stroke-width="1"></path>
-    <path id="Vector 1375" stroke="#000000" d="m2 6 10 4 10 -4" stroke-width="1"></path>
-    <path id="Vector 1376" stroke="#000000" d="M12 10v12" stroke-width="1"></path>
+    <path id="Vector 1374" stroke="#000000" d="m2 6 10 -4 10 4v12l-10 4 -10 -4V6Z" stroke-width="1.5"></path>
+    <path id="Vector 1375" stroke="#000000" d="m2 6 10 4 10 -4" stroke-width="1.5"></path>
+    <path id="Vector 1376" stroke="#000000" d="M12 10v12" stroke-width="1.5"></path>
   </g>
 </svg>

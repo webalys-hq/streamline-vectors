@@ -3,9 +3,9 @@
     Wifi Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="wifi-signal-full--wireless-wifi-internet-server-network-connection">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M41.337 18.3426C36.792 14.4072 30.6978 12 23.9994 12c-6.6983 0 -12.7923 2.4071 -17.33729 6.3423" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M36.5403 24.0577C33.1483 21.5251 28.7742 20 23.9998 20c-4.7746 0 -9.1488 1.5252 -12.5408 4.0579" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M29 39c0 2.7614 -2.2386 5 -5 5s-5 -2.2386 -5 -5 2.2386 -5 5 -5 5 2.2386 5 5Z" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M23.9991 4c7.2283 0 13.8809 2.37688 19.163 6.3643 1.6778 1.2665 1.7887 3.6723 0.4372 5.2825L32.3999 28.9906c-0.6974 0.831 -1.9238 0.9362 -2.8752 0.415C27.8906 28.5104 26.006 28 23.9992 28c-2.0067 0 -3.8913 0.5104 -5.5254 1.4056 -0.9515 0.5212 -2.1778 0.416 -2.8753 -0.415L4.39926 15.6464c-1.35139 -1.6102 -1.24049 -4.016 0.43731 -5.2825C10.1186 6.37673 16.771 4 23.9991 4Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M41.337 18.3426C36.792 14.4072 30.6978 12 23.9994 12c-6.6983 0 -12.7923 2.4071 -17.33729 6.3423" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M36.5403 24.0577C33.1483 21.5251 28.7742 20 23.9998 20c-4.7746 0 -9.1488 1.5252 -12.5408 4.0579" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M29 39c0 2.7614 -2.2386 5 -5 5s-5 -2.2386 -5 -5 2.2386 -5 5 -5 5 2.2386 5 5Z" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M23.9991 4c7.2283 0 13.8809 2.37688 19.163 6.3643 1.6778 1.2665 1.7887 3.6723 0.4372 5.2825L32.3999 28.9906c-0.6974 0.831 -1.9238 0.9362 -2.8752 0.415C27.8906 28.5104 26.006 28 23.9992 28c-2.0067 0 -3.8913 0.5104 -5.5254 1.4056 -0.9515 0.5212 -2.1778 0.416 -2.8753 -0.415L4.39926 15.6464c-1.35139 -1.6102 -1.24049 -4.016 0.43731 -5.2825C10.1186 6.37673 16.771 4 23.9991 4Z" stroke-width="3"></path>
   </g>
 </svg>

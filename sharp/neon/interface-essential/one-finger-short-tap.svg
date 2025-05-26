@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="One-Finger-Short-Tap--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="One-Finger-Short-Tap--Streamline-Sharp-Neon">
   <desc>
     One Finger Short Tap Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="one-finger-short-tap">
-    <path id="Vector 2448" stroke="#000cfe" d="M7 8H5" stroke-width="1"></path>
-    <path id="Vector 2449" stroke="#000cfe" d="M19 8h-2" stroke-width="1"></path>
-    <path id="Vector 2450" stroke="#000cfe" d="m12 3 0 -2" stroke-width="1"></path>
-    <path id="Vector 2452" stroke="#000cfe" d="M8.46402 4.46402 7.0498 3.0498" stroke-width="1"></path>
-    <path id="Vector 2455" stroke="#000cfe" d="m16.9494 3.05078 -1.4142 1.41421" stroke-width="1"></path>
-    <path id="Vector 58" stroke="#c71dff" d="M19.9999 24.0001V16L14 13V8c0 -1.10457 -0.8954 -2 -2 -2h-2v11l-3.36754 -1.1225C5.33739 15.4458 4 16.4097 4 17.7749v0.2252l5 5" stroke-width="1"></path>
+    <path id="Vector 2448" stroke="#000cfe" d="M6.708333333333334 7.666666666666667H4.791666666666667" stroke-width="1"></path>
+    <path id="Vector 2449" stroke="#000cfe" d="M18.208333333333336 7.666666666666667h-1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 2450" stroke="#000cfe" d="m11.5 2.875 0 -1.9166666666666667" stroke-width="1"></path>
+    <path id="Vector 2452" stroke="#000cfe" d="M8.1113525 4.278019166666667 6.756058333333334 2.922725" stroke-width="1"></path>
+    <path id="Vector 2455" stroke="#000cfe" d="m16.243175 2.9236641666666667 -1.355275 1.3552845833333333" stroke-width="1"></path>
+    <path id="Vector 58" stroke="#c71dff" d="M19.166570833333335 23.000095833333333V15.333333333333334L13.416666666666668 12.458333333333334V7.666666666666667c0 -1.05854625 -0.8580916666666667 -1.9166666666666667 -1.9166666666666667 -1.9166666666666667h-1.9166666666666667v10.541666666666668l-3.2272258333333332 -1.0757291666666668C5.114998750000001 14.802225 3.8333333333333335 15.725962500000001 3.8333333333333335 17.034279166666668v0.21581666666666668l4.791666666666667 4.791666666666667" stroke-width="1"></path>
   </g>
 </svg>

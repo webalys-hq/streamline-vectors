@@ -3,9 +3,9 @@
     Division Circle Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="division-circle--interface-math-divided-by-sign-mathematics">
-    <path id="Rectangle 1918" stroke="#000000" d="M11.75 7.25h0.5v0.5h-0.5v-0.5Z" stroke-width="1"></path>
-    <path id="Rectangle 1919" stroke="#000000" d="M11.75 16.25h0.5v0.5h-0.5v-0.5Z" stroke-width="1"></path>
-    <path id="Vector" stroke="#000000" d="M12 22c5.523 0 10 -4.477 10 -10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" stroke-width="1"></path>
-    <path id="Vector 279" stroke="#000000" d="M5.5 12h13" stroke-width="1"></path>
+    <path id="Rectangle 1918" stroke="#000000" d="M11.75 7.25h0.5v0.5h-0.5v-0.5Z" stroke-width="1.5"></path>
+    <path id="Rectangle 1919" stroke="#000000" d="M11.75 16.25h0.5v0.5h-0.5v-0.5Z" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000000" d="M12 22c5.523 0 10 -4.477 10 -10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" stroke-width="1.5"></path>
+    <path id="Vector 279" stroke="#000000" d="M5.5 12h13" stroke-width="1.5"></path>
   </g>
 </svg>

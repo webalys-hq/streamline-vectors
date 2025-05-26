@@ -4,12 +4,12 @@
   </desc>
   <g id="clean-broom-wipe">
     <g id="Group 176473">
-      <path id="Rectangle 21" fill="#d7e0ff" d="M3.26512 16.4295c0.3934 -1.7245 1.9271 -2.9477 3.6959 -2.9477 2.09363 0 3.79088 1.6972 3.79088 3.7909v0.515c0 0.8872 0.2949 1.7492 0.8384 2.4504l1.2444 1.6056H2.03003l1.23509 -5.4142Z" stroke-width="1"></path>
-      <path id="Rectangle 22" stroke="#4147d5" stroke-linecap="square" d="M3.26512 16.4295c0.3934 -1.7245 1.9271 -2.9477 3.6959 -2.9477v0c2.09363 0 3.79088 1.6972 3.79088 3.7909v0.515c0 0.8872 0.2949 1.7492 0.8384 2.4504l1.2444 1.6056H2.03003l1.23509 -5.4142Z" stroke-width="1"></path>
-      <path id="Vector 2098" fill="#4147d5" d="m12.169 2.41258 0.2562 -0.70488 -1.4098 -0.51242 -0.2562 0.70488 1.4098 0.51242ZM8.10259 13.6001 12.169 2.41258l-1.4098 -0.51242L6.69282 13.0877l1.40977 0.5124Z" stroke-width="1"></path>
-      <path id="Vector 2097" stroke="#4147d5" stroke-linecap="square" d="M17.2299 21.8434H21.97" stroke-width="1"></path>
-      <path id="Vector 2099" stroke="#4147d5" stroke-linecap="square" d="M15.62 18.205h4.7401" stroke-width="1"></path>
-      <path id="Vector 2100" stroke="#4147d5" stroke-linecap="square" d="M13.6078 14.3734h4.7401" stroke-width="1"></path>
+      <path id="Rectangle 21" fill="#d7e0ff" d="M3.26512 16.4295c0.3934 -1.7245 1.9271 -2.9477 3.6959 -2.9477 2.09363 0 3.79088 1.6972 3.79088 3.7909v0.515c0 0.8872 0.2949 1.7492 0.8384 2.4504l1.2444 1.6056H2.03003l1.23509 -5.4142Z" stroke-width="1.5"></path>
+      <path id="Rectangle 22" stroke="#4147d5" stroke-linecap="square" d="M3.26512 16.4295c0.3934 -1.7245 1.9271 -2.9477 3.6959 -2.9477v0c2.09363 0 3.79088 1.6972 3.79088 3.7909v0.515c0 0.8872 0.2949 1.7492 0.8384 2.4504l1.2444 1.6056H2.03003l1.23509 -5.4142Z" stroke-width="1.5"></path>
+      <path id="Vector 2098" fill="#4147d5" d="m12.169 2.41258 0.2562 -0.70488 -1.4098 -0.51242 -0.2562 0.70488 1.4098 0.51242ZM8.10259 13.6001 12.169 2.41258l-1.4098 -0.51242L6.69282 13.0877l1.40977 0.5124Z" stroke-width="1.5"></path>
+      <path id="Vector 2097" stroke="#4147d5" stroke-linecap="square" d="M17.2299 21.8434H21.97" stroke-width="1.5"></path>
+      <path id="Vector 2099" stroke="#4147d5" stroke-linecap="square" d="M15.62 18.205h4.7401" stroke-width="1.5"></path>
+      <path id="Vector 2100" stroke="#4147d5" stroke-linecap="square" d="M13.6078 14.3734h4.7401" stroke-width="1.5"></path>
     </g>
   </g>
 </svg>

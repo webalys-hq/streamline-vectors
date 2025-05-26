@@ -3,8 +3,8 @@
     Chef Toque Hat Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="chef-toque-hat--cook-gear-chef-cooking-nutrition-tools-clothes-hat-clothing-food-kitchenware">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M37.7643 37.3632c-2.555 -0.1332 -6.8366 -0.2655 -13.7647 -0.2655 -6.9285 0 -11.2102 0.1323 -13.7652 0.2655" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M31.5679 6.12695C29.9657 3.6439 27.1748 2 24 2c-3.1748 0 -5.9657 1.6439 -7.5679 4.12695C15.0055 4.80681 13.097 4 11 4c-4.41828 0 -8 3.58172 -8 8 0 3.5892 2.36363 6.6263 5.61925 7.6398 0.80609 10.8851 1.80275 19.6047 2.28785 23.5616 0.1669 1.3614 1.2449 2.4067 2.6135 2.4975C15.6069 45.8374 19.1 46 24 46s8.3931 -0.1626 10.4794 -0.3011c1.3686 -0.0908 2.4466 -1.1361 2.6135 -2.4975 0.4851 -3.9569 1.4818 -12.6765 2.2878 -23.5616C42.6364 18.6263 45 15.5892 45 12c0 -4.41828 -3.5817 -8 -8 -8 -2.097 0 -4.0055 0.80681 -5.4321 2.12695Z" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m19 20 1 10m9 -10 -1 10" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M37.7643 37.3632c-2.555 -0.1332 -6.8366 -0.2655 -13.7647 -0.2655 -6.9285 0 -11.2102 0.1323 -13.7652 0.2655" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M31.5679 6.12695C29.9657 3.6439 27.1748 2 24 2c-3.1748 0 -5.9657 1.6439 -7.5679 4.12695C15.0055 4.80681 13.097 4 11 4c-4.41828 0 -8 3.58172 -8 8 0 3.5892 2.36363 6.6263 5.61925 7.6398 0.80609 10.8851 1.80275 19.6047 2.28785 23.5616 0.1669 1.3614 1.2449 2.4067 2.6135 2.4975C15.6069 45.8374 19.1 46 24 46s8.3931 -0.1626 10.4794 -0.3011c1.3686 -0.0908 2.4466 -1.1361 2.6135 -2.4975 0.4851 -3.9569 1.4818 -12.6765 2.2878 -23.5616C42.6364 18.6263 45 15.5892 45 12c0 -4.41828 -3.5817 -8 -8 -8 -2.097 0 -4.0055 0.80681 -5.4321 2.12695Z" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m19 20 1 10m9 -10 -1 10" stroke-width="3"></path>
   </g>
 </svg>

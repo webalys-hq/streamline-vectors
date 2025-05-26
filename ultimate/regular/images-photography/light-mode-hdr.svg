@@ -2,12 +2,12 @@
   <desc>
     Light Mode Hdr Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 15.75v-7.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 15.75v-7.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 12h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 15.75v-7.5" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25h1.125c0.4973 0 0.9742 0.19754 1.3258 0.54917 0.3517 0.35164 0.5492 0.82855 0.5492 1.32583 0 0.4973 -0.1975 0.9742 -0.5492 1.3258 -0.3516 0.3517 -0.8285 0.5492 -1.3258 0.5492H17.25" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 15.75 18 12" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 15.75c0.7956 0 1.5587 -0.3161 2.1213 -0.8787 0.5626 -0.5626 0.8787 -1.3257 0.8787 -2.1213v-1.5c0 -0.7956 -0.3161 -1.55871 -0.8787 -2.12132C12.8087 8.56607 12.0456 8.25 11.25 8.25v7.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 4.5h13.5s4.5 0 4.5 4.5v6s0 4.5 -4.5 4.5H5.25s-4.5 0 -4.5 -4.5V9s0 -4.5 4.5 -4.5Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 15.75v-7.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M8.25 15.75v-7.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 12h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 15.75v-7.5" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25h1.125c0.4973 0 0.9742 0.19754 1.3258 0.54917 0.3517 0.35164 0.5492 0.82855 0.5492 1.32583 0 0.4973 -0.1975 0.9742 -0.5492 1.3258 -0.3516 0.3517 -0.8285 0.5492 -1.3258 0.5492H17.25" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 15.75 18 12" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 15.75c0.7956 0 1.5587 -0.3161 2.1213 -0.8787 0.5626 -0.5626 0.8787 -1.3257 0.8787 -2.1213v-1.5c0 -0.7956 -0.3161 -1.55871 -0.8787 -2.12132C12.8087 8.56607 12.0456 8.25 11.25 8.25v7.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M5.25 4.5h13.5s4.5 0 4.5 4.5v6s0 4.5 -4.5 4.5H5.25s-4.5 0 -4.5 -4.5V9s0 -4.5 4.5 -4.5Z" stroke-width="1.5"></path>
 </svg>

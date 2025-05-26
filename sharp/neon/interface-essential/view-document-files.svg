@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="View-Document-Files--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="View-Document-Files--Streamline-Sharp-Neon">
   <desc>
     View Document Files Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="view-document-files">
-    <path id="Rectangle 843" stroke="#c71dff" d="M5 11V1h13l5 5v17h-9" stroke-width="1"></path>
-    <path id="Intersect" stroke="#000cfe" d="M7.00004 14c-4 0 -5.90995 4.5 -5.90995 4.5S3.00004 23 7.00004 23C11 23 12.9101 18.5 12.9101 18.5S11 14 7.00004 14Z" stroke-width="1"></path>
-    <path id="Vector 3975" stroke="#000cfe" d="M6 18.5h2" stroke-width="1"></path>
+    <path id="Rectangle 843" stroke="#c71dff" d="M4.791666666666667 10.541666666666668V0.9583333333333334h12.458333333333334l4.791666666666667 4.791666666666667v16.291666666666668h-8.625" stroke-width="1"></path>
+    <path id="Intersect" stroke="#000cfe" d="M6.708371666666667 13.416666666666668c-3.8333333333333335 0 -5.663702083333334 4.3125 -5.663702083333334 4.3125S2.8750383333333334 22.041666666666668 6.708371666666667 22.041666666666668C10.541666666666668 22.041666666666668 12.372179166666667 17.729166666666668 12.372179166666667 17.729166666666668S10.541666666666668 13.416666666666668 6.708371666666667 13.416666666666668Z" stroke-width="1"></path>
+    <path id="Vector 3975" stroke="#000cfe" d="M5.75 17.729166666666668h1.9166666666666667" stroke-width="1"></path>
   </g>
 </svg>

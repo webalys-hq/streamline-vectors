@@ -3,10 +3,10 @@
     Shopping Cart Add Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shopping-cart-add--shopping-cart-checkout-add-plus-new">
-    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.007 5.528C3.054 4.062 4.324 3 5.791 3l4.19 0a5 5 0 0 1 4.766 3.485L16.5 12l23.98 0c2.402 0 4.263 2.104 3.829 4.466 -0.813 4.428 -2.027 9.126 -3.39 12.997 -0.581 1.647 -1.947 2.846 -3.68 3.066 -1.866 0.238 -4.823 0.471 -9.24 0.471 -4.286 0 -7.29 -0.22 -9.262 -0.45 -1.95 -0.227 -3.47 -1.625 -4.062 -3.498C12.495 22.17 11.05 16.06 9 9H5.79C4.324 9 3.054 7.938 3.007 6.472a14.912 14.912 0 0 1 0 -0.944Z" stroke-width="1"></path>
-    <path id="Ellipse 40" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 41a4 4 0 1 0 8 0 4 4 0 0 0 -8 0Z" stroke-width="1"></path>
-    <path id="Ellipse 41" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14 41a4 4 0 1 0 8 0 4 4 0 0 0 -8 0Z" stroke-width="1"></path>
-    <path id="Vector 1455" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33 22.5H23" stroke-width="1"></path>
-    <path id="Vector 1456" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m28 17.5 0 10" stroke-width="1"></path>
+    <path id="Union" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M3.007 5.528C3.054 4.062 4.324 3 5.791 3l4.19 0a5 5 0 0 1 4.766 3.485L16.5 12l23.98 0c2.402 0 4.263 2.104 3.829 4.466 -0.813 4.428 -2.027 9.126 -3.39 12.997 -0.581 1.647 -1.947 2.846 -3.68 3.066 -1.866 0.238 -4.823 0.471 -9.24 0.471 -4.286 0 -7.29 -0.22 -9.262 -0.45 -1.95 -0.227 -3.47 -1.625 -4.062 -3.498C12.495 22.17 11.05 16.06 9 9H5.79C4.324 9 3.054 7.938 3.007 6.472a14.912 14.912 0 0 1 0 -0.944Z" stroke-width="3"></path>
+    <path id="Ellipse 40" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M34 41a4 4 0 1 0 8 0 4 4 0 0 0 -8 0Z" stroke-width="3"></path>
+    <path id="Ellipse 41" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14 41a4 4 0 1 0 8 0 4 4 0 0 0 -8 0Z" stroke-width="3"></path>
+    <path id="Vector 1455" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M33 22.5H23" stroke-width="3"></path>
+    <path id="Vector 1456" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m28 17.5 0 10" stroke-width="3"></path>
   </g>
 </svg>

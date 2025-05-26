@@ -2,9 +2,9 @@
   <desc>
     Power Outlet Type B Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14 15.8125h-4v-1.5c0 -1.1046 0.8954 -2 2 -2s2 0.8954 2 2v1.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.75 8.1875v2" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 8.1875v2" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.49143 5.75853C6.65696 5.593 6.88148 5.5 7.11558 5.5h9.76882c0.2341 0 0.4586 0.093 0.6241 0.25853 3.4471 3.44707 3.4471 9.03587 0 12.48297 -0.1655 0.1655 -0.39 0.2585 -0.6241 0.2585H7.11558c-0.2341 0 -0.45862 -0.093 -0.62415 -0.2585 -3.44707 -3.4471 -3.44707 -9.0359 0 -12.48297Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 0.75H3.75c-1.65685 0 -3 1.34315 -3 3v16.5c0 1.6569 1.34315 3 3 3h16.5c1.6569 0 3 -1.3431 3 -3V3.75c0 -1.65685 -1.3431 -3 -3 -3Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14 15.8125h-4v-1.5c0 -1.1046 0.8954 -2 2 -2s2 0.8954 2 2v1.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.75 8.1875v2" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.25 8.1875v2" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.49143 5.75853C6.65696 5.593 6.88148 5.5 7.11558 5.5h9.76882c0.2341 0 0.4586 0.093 0.6241 0.25853 3.4471 3.44707 3.4471 9.03587 0 12.48297 -0.1655 0.1655 -0.39 0.2585 -0.6241 0.2585H7.11558c-0.2341 0 -0.45862 -0.093 -0.62415 -0.2585 -3.44707 -3.4471 -3.44707 -9.0359 0 -12.48297Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 0.75H3.75c-1.65685 0 -3 1.34315 -3 3v16.5c0 1.6569 1.34315 3 3 3h16.5c1.6569 0 3 -1.3431 3 -3V3.75c0 -1.65685 -1.3431 -3 -3 -3Z" stroke-width="1.5"></path>
 </svg>

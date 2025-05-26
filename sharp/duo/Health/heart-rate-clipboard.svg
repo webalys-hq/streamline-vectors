@@ -3,10 +3,10 @@
     Heart Rate Clipboard Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="heart-rate-clipboard--heart-rate-clipboard-checkup-medical-report-information-data-beat-pulse-monitor">
-    <path id="Rectangle 691" fill="#d7e0ff" d="M3.5 22h17V3h-17v19Z" stroke-width="1"></path>
-    <path id="Rectangle 689" stroke="#4147d5" d="M8 3H3.5l0 19h17V3H16" stroke-width="1"></path>
-    <path id="Rectangle 692" fill="#ffffff" d="M8 2h8v4H8V2Z" stroke-width="1"></path>
-    <path id="Rectangle 690" stroke="#4147d5" d="M8 2h8v4H8V2Z" stroke-width="1"></path>
-    <path id="Vector 3835" stroke="#4147d5" d="M3.5 14H9l2 -3 2.5 6 1.5 -3h5.5" stroke-width="1"></path>
+    <path id="Rectangle 691" fill="#d7e0ff" d="M3.5 22h17V3h-17v19Z" stroke-width="1.5"></path>
+    <path id="Rectangle 689" stroke="#4147d5" d="M8 3H3.5l0 19h17V3H16" stroke-width="1.5"></path>
+    <path id="Rectangle 692" fill="#ffffff" d="M8 2h8v4H8V2Z" stroke-width="1.5"></path>
+    <path id="Rectangle 690" stroke="#4147d5" d="M8 2h8v4H8V2Z" stroke-width="1.5"></path>
+    <path id="Vector 3835" stroke="#4147d5" d="M3.5 14H9l2 -3 2.5 6 1.5 -3h5.5" stroke-width="1.5"></path>
   </g>
 </svg>

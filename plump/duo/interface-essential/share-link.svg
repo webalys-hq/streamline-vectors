@@ -3,12 +3,12 @@
     Share Link Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="share-link--share-transmit">
-    <path id="Ellipse 23" fill="#8fbffa" d="M45 36a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="1"></path>
-    <path id="Ellipse 22" fill="#8fbffa" d="M45 12a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="1"></path>
-    <path id="Ellipse 21" fill="#8fbffa" d="M21 24a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="1"></path>
-    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M21 24a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="1"></path>
-    <path id="Ellipse 19" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 12a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="1"></path>
-    <path id="Ellipse 20" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 36a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="1"></path>
-    <path id="Subtract" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m27.948 16.025 -7.896 3.949m7.896 12 -7.896 -3.949" stroke-width="1"></path>
+    <path id="Ellipse 23" fill="#8fbffa" d="M45 36a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="3"></path>
+    <path id="Ellipse 22" fill="#8fbffa" d="M45 12a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="3"></path>
+    <path id="Ellipse 21" fill="#8fbffa" d="M21 24a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="3"></path>
+    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M21 24a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="3"></path>
+    <path id="Ellipse 19" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 12a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="3"></path>
+    <path id="Ellipse 20" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M45 36a9 9 0 1 1 -18 0 9 9 0 0 1 18 0Z" stroke-width="3"></path>
+    <path id="Subtract" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="m27.948 16.025 -7.896 3.949m7.896 12 -7.896 -3.949" stroke-width="3"></path>
   </g>
 </svg>

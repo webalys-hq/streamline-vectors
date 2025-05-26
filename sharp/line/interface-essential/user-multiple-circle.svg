@@ -3,10 +3,10 @@
     User Multiple Circle Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="user-multiple-circle--close-geometric-human-multiple-person-up-user-circle">
-    <path id="Ellipse 350" stroke="#000000" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 418" stroke="#000000" d="M5.218 9.578a2.891 2.891 0 1 0 5.782 0 2.891 2.891 0 1 0 -5.782 0" stroke-width="1"></path>
-    <path id="Ellipse 419" stroke="#000000" d="M14.062 12.047a2.469 2.469 0 1 0 4.938 0 2.469 2.469 0 1 0 -4.938 0" stroke-width="1"></path>
-    <path id="Ellipse 417" stroke="#000000" d="M12.91 21.625v-5.566a11.517 11.517 0 0 0 -4.955 -1.113c-1.773 0 -3.453 0.4 -4.955 1.113" stroke-width="1"></path>
-    <path id="Ellipse 420" stroke="#000000" d="M19.71 18.344c-1.236 -0.558 -2.742 -0.927 -4.188 -0.927 -0.903 0 -1.777 0.121 -2.609 0.349" stroke-width="1"></path>
+    <path id="Ellipse 350" stroke="#000000" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 418" stroke="#000000" d="M5.218 9.578a2.891 2.891 0 1 0 5.782 0 2.891 2.891 0 1 0 -5.782 0" stroke-width="1.5"></path>
+    <path id="Ellipse 419" stroke="#000000" d="M14.062 12.047a2.469 2.469 0 1 0 4.938 0 2.469 2.469 0 1 0 -4.938 0" stroke-width="1.5"></path>
+    <path id="Ellipse 417" stroke="#000000" d="M12.91 21.625v-5.566a11.517 11.517 0 0 0 -4.955 -1.113c-1.773 0 -3.453 0.4 -4.955 1.113" stroke-width="1.5"></path>
+    <path id="Ellipse 420" stroke="#000000" d="M19.71 18.344c-1.236 -0.558 -2.742 -0.927 -4.188 -0.927 -0.903 0 -1.777 0.121 -2.609 0.349" stroke-width="1.5"></path>
   </g>
 </svg>

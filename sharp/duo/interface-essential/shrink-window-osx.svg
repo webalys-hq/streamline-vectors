@@ -3,9 +3,9 @@
     Shrink Window Osx Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="shrink-window-osx">
-    <path id="Ellipse 629" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 630" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Vector 2094" stroke="#4147d5" d="M5.5 13H11v5.5" stroke-width="1"></path>
-    <path id="Vector 2095" stroke="#4147d5" d="M13 5.5V11h5.5" stroke-width="1"></path>
+    <path id="Ellipse 629" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 630" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Vector 2094" stroke="#4147d5" d="M5.5 13H11v5.5" stroke-width="1.5"></path>
+    <path id="Vector 2095" stroke="#4147d5" d="M13 5.5V11h5.5" stroke-width="1.5"></path>
   </g>
 </svg>

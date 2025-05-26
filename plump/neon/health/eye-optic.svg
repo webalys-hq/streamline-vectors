@@ -3,12 +3,12 @@
     Eye Optic Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="eye-optic--health-medical-eye-optic">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 10.5v-7" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m14.4531 12.5495 -3.452 -6.03127" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.5304 12.5291 37 6.51952" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m6.71048 18.2437 -4.68219 -4.7114" stroke-width="1"></path>
-    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m41.2715 18.2324 4.6997 -4.7026" stroke-width="1"></path>
-    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.1332 28.4356c-0.17475 -0.6058 -0.175 -1.2491 -0.00073 -1.8551C4.79989 17.3053 13.5811 10.5 24.0024 10.5c10.4153 0 19.1924 6.7975 21.8653 16.0644 0.1748 0.6059 0.175 1.2491 0.0008 1.8551C43.201 37.6947 34.4198 44.5 23.9985 44.5c-10.4153 0 -19.19235 -6.7975 -21.8653 -16.0644Z" stroke-width="1"></path>
-    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M14 27.5a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M24 10.5v-7" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m14.4531 12.5495 -3.452 -6.03127" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M33.5304 12.5291 37 6.51952" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m6.71048 18.2437 -4.68219 -4.7114" stroke-width="3"></path>
+    <path id="Vector_5" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="m41.2715 18.2324 4.6997 -4.7026" stroke-width="3"></path>
+    <path id="Vector_6" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M2.1332 28.4356c-0.17475 -0.6058 -0.175 -1.2491 -0.00073 -1.8551C4.79989 17.3053 13.5811 10.5 24.0024 10.5c10.4153 0 19.1924 6.7975 21.8653 16.0644 0.1748 0.6059 0.175 1.2491 0.0008 1.8551C43.201 37.6947 34.4198 44.5 23.9985 44.5c-10.4153 0 -19.19235 -6.7975 -21.8653 -16.0644Z" stroke-width="3"></path>
+    <path id="Vector_7" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M14 27.5a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="3"></path>
   </g>
 </svg>

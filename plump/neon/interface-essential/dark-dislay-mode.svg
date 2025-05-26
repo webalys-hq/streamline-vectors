@@ -3,7 +3,7 @@
     Dark Dislay Mode Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="dark-dislay-mode">
-    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24 46C11.8497 46 2 36.1503 2 24S11.8497 2 24 2s22 9.8497 22 22 -9.8497 22 -22 22Z" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32.7045 14.0384c0.758 0.626 -0.0682 1.8366 -1.0578 1.8366 -4.5611 0 -8.2587 3.6377 -8.2587 8.125 0 4.4873 3.6976 8.125 8.2587 8.125 0.9896 0 1.8158 1.2106 1.0578 1.8366C30.4082 35.8579 27.4466 37 24.2139 37 16.9161 37 11 31.1797 11 24s5.9161 -13 13.2139 -13c3.2327 0 6.1943 1.1421 8.4906 3.0384Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M24 46C11.8497 46 2 36.1503 2 24S11.8497 2 24 2s22 9.8497 22 22 -9.8497 22 -22 22Z" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M32.7045 14.0384c0.758 0.626 -0.0682 1.8366 -1.0578 1.8366 -4.5611 0 -8.2587 3.6377 -8.2587 8.125 0 4.4873 3.6976 8.125 8.2587 8.125 0.9896 0 1.8158 1.2106 1.0578 1.8366C30.4082 35.8579 27.4466 37 24.2139 37 16.9161 37 11 31.1797 11 24s5.9161 -13 13.2139 -13c3.2327 0 6.1943 1.1421 8.4906 3.0384Z" stroke-width="3"></path>
   </g>
 </svg>

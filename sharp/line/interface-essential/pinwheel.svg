@@ -3,9 +3,9 @@
     Pinwheel Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pinwheel--windmill-velocity-weather-wind">
-    <path id="Vector 2196" stroke="#000000" d="M12 2v10h6V8c0 -3.31371 -2.6863 -6 -6 -6Z" stroke-width="1"></path>
-    <path id="Vector 2197" stroke="#000000" d="M22 12H12v6h4c3.3137 0 6 -2.6863 6 -6Z" stroke-width="1"></path>
-    <path id="Vector 2198" stroke="#000000" d="M12 22V12H6v4c0 3.3137 2.68629 6 6 6Z" stroke-width="1"></path>
-    <path id="Vector 2199" stroke="#000000" d="M2 12h10V6H8c-3.31371 0 -6 2.68629 -6 6Z" stroke-width="1"></path>
+    <path id="Vector 2196" stroke="#000000" d="M12 2v10h6V8c0 -3.31371 -2.6863 -6 -6 -6Z" stroke-width="1.5"></path>
+    <path id="Vector 2197" stroke="#000000" d="M22 12H12v6h4c3.3137 0 6 -2.6863 6 -6Z" stroke-width="1.5"></path>
+    <path id="Vector 2198" stroke="#000000" d="M12 22V12H6v4c0 3.3137 2.68629 6 6 6Z" stroke-width="1.5"></path>
+    <path id="Vector 2199" stroke="#000000" d="M2 12h10V6H8c-3.31371 0 -6 2.68629 -6 6Z" stroke-width="1.5"></path>
   </g>
 </svg>

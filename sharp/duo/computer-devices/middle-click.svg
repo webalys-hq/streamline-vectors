@@ -3,10 +3,10 @@
     Middle Click Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="middle-click">
-    <path id="Vector 3054" fill="#d7e0ff" d="M18 7H6v9.5a6 6 0 0 0 12 0V7Z" stroke-width="1"></path>
-    <path id="Vector 3060" stroke="#4147d5" d="M18 7H6v9.5a6 6 0 0 0 12 0V7Z" stroke-width="1"></path>
-    <path id="Vector 2602" fill="#ffffff" d="M10.5 14v-4h3v4h-3Z" stroke-width="1"></path>
-    <path id="Vector 3059" stroke="#4147d5" d="M10.5 14v-4h3v4h-3Z" stroke-width="1"></path>
-    <path id="Vector 3058" stroke="#4147d5" d="M7.5 4S9 2 12 2s4.5 2 4.5 2" stroke-width="1"></path>
+    <path id="Vector 3054" fill="#d7e0ff" d="M18 7H6v9.5a6 6 0 0 0 12 0V7Z" stroke-width="1.5"></path>
+    <path id="Vector 3060" stroke="#4147d5" d="M18 7H6v9.5a6 6 0 0 0 12 0V7Z" stroke-width="1.5"></path>
+    <path id="Vector 2602" fill="#ffffff" d="M10.5 14v-4h3v4h-3Z" stroke-width="1.5"></path>
+    <path id="Vector 3059" stroke="#4147d5" d="M10.5 14v-4h3v4h-3Z" stroke-width="1.5"></path>
+    <path id="Vector 3058" stroke="#4147d5" d="M7.5 4S9 2 12 2s4.5 2 4.5 2" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Presentation--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Presentation--Streamline-Sharp-Neon">
   <desc>
     Presentation Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="presentation">
-    <path id="Vector 2990" stroke="#000cfe" d="m7.2 22.8 -1.92 -5.28h13.44L16.8 22.8" stroke-width="1"></path>
-    <path id="Rectangle 1907" stroke="#c71dff" d="M20.64 14.64V1.2H3.36v13.44" stroke-width="1"></path>
-    <path id="Ellipse 354" stroke="#000cfe" d="M7.2 14.64V13.2s1.92 -0.96 4.8 -0.96 4.8 0.96 4.8 0.96v1.44" stroke-width="1"></path>
-    <path id="Ellipse 355" stroke="#000cfe" d="M14.4 6.96c0 1.3255 -1.0745 2.4 -2.4 2.4s-2.4 -1.0745 -2.4 -2.4 1.0745 -2.4 2.4 -2.4 2.4 1.0745 2.4 2.4Z" stroke-width="1"></path>
+    <path id="Vector 2990" stroke="#000cfe" d="m6.9 21.85 -1.84 -5.0600000000000005h12.88L16.1 21.85" stroke-width="1"></path>
+    <path id="Rectangle 1907" stroke="#c71dff" d="M19.78 14.030000000000001V1.15H3.22v12.88" stroke-width="1"></path>
+    <path id="Ellipse 354" stroke="#000cfe" d="M6.9 14.030000000000001V12.65s1.84 -0.92 4.6 -0.92 4.6 0.92 4.6 0.92v1.38" stroke-width="1"></path>
+    <path id="Ellipse 355" stroke="#000cfe" d="M13.8 6.67c0 1.2702708333333332 -1.0297291666666668 2.3 -2.3 2.3s-2.3 -1.0297291666666668 -2.3 -2.3 1.0297291666666668 -2.3 2.3 -2.3 2.3 1.0297291666666668 2.3 2.3Z" stroke-width="1"></path>
   </g>
 </svg>

@@ -3,12 +3,12 @@
     Summit Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="summit--shop-target-flag-summit-mountain-goal">
-    <path id="Vector 2791" fill="#d7e0ff" d="M19 2h-7v5h7V2Z" stroke-width="1"></path>
-    <path id="Vector 2790" fill="#d7e0ff" d="m12 10.5 -10 12h20.5L12 10.5Z" stroke-width="1"></path>
-    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M7.45459 15.9545 10 18.5l2 -2 2 2 2.6667 -2.6667L12 10.5l-4.54541 5.4545Z" clip-rule="evenodd" stroke-width="1"></path>
-    <path id="Vector 2787" stroke="#4147d5" d="m2 22.5 10 -12 10.5 12" stroke-width="1"></path>
-    <path id="Vector 2788" stroke="#4147d5" d="M19 2h-7v5h7V2Z" stroke-width="1"></path>
-    <path id="Vector 2792" stroke="#4147d5" d="M12 10.5V7" stroke-width="1"></path>
-    <path id="Vector 2789" stroke="#4147d5" d="M7.46826 15.9682 10.0002 18.5l2 -2 2 2 2.6719 -2.6719" stroke-width="1"></path>
+    <path id="Vector 2791" fill="#d7e0ff" d="M19 2h-7v5h7V2Z" stroke-width="1.5"></path>
+    <path id="Vector 2790" fill="#d7e0ff" d="m12 10.5 -10 12h20.5L12 10.5Z" stroke-width="1.5"></path>
+    <path id="Intersect" fill="#ffffff" fill-rule="evenodd" d="M7.45459 15.9545 10 18.5l2 -2 2 2 2.6667 -2.6667L12 10.5l-4.54541 5.4545Z" clip-rule="evenodd" stroke-width="1.5"></path>
+    <path id="Vector 2787" stroke="#4147d5" d="m2 22.5 10 -12 10.5 12" stroke-width="1.5"></path>
+    <path id="Vector 2788" stroke="#4147d5" d="M19 2h-7v5h7V2Z" stroke-width="1.5"></path>
+    <path id="Vector 2792" stroke="#4147d5" d="M12 10.5V7" stroke-width="1.5"></path>
+    <path id="Vector 2789" stroke="#4147d5" d="M7.46826 15.9682 10.0002 18.5l2 -2 2 2 2.6719 -2.6719" stroke-width="1.5"></path>
   </g>
 </svg>

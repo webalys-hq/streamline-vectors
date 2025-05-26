@@ -3,15 +3,15 @@
     Transfer Truck Time Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="transfer-truck-time--truck-shipping-delivery-time-waiting-delay-transfer">
-    <path id="Vector 2028" fill="#d7e0ff" d="M22 9.5V20H7v-4l2 -3h4V9.5h9Z" stroke-width="1"></path>
-    <path id="Ellipse 556" fill="#ffffff" d="M16 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 557" fill="#ffffff" d="M9 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 555" fill="#ffffff" d="M12 7A5 5 0 1 0 2 7a5 5 0 0 0 10 0Z" stroke-width="1"></path>
-    <path id="Vector 2025" stroke="#4147d5" d="M7 4.5V7L5 8.5" stroke-width="1"></path>
-    <path id="Vector 2027" stroke="#4147d5" d="M9.03 20H7v-4l2 -3h4V9.5h9V20h-2" stroke-width="1"></path>
-    <path id="Vector 2029" stroke="#4147d5" d="M13 13v7h3" stroke-width="1"></path>
-    <path id="Ellipse 553" stroke="#4147d5" d="M16 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 554" stroke="#4147d5" d="M9 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 549" stroke="#4147d5" d="M12 7a5 5 0 1 0 -6 4.9" stroke-width="1"></path>
+    <path id="Vector 2028" fill="#d7e0ff" d="M22 9.5V20H7v-4l2 -3h4V9.5h9Z" stroke-width="1.5"></path>
+    <path id="Ellipse 556" fill="#ffffff" d="M16 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 557" fill="#ffffff" d="M9 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 555" fill="#ffffff" d="M12 7A5 5 0 1 0 2 7a5 5 0 0 0 10 0Z" stroke-width="1.5"></path>
+    <path id="Vector 2025" stroke="#4147d5" d="M7 4.5V7L5 8.5" stroke-width="1.5"></path>
+    <path id="Vector 2027" stroke="#4147d5" d="M9.03 20H7v-4l2 -3h4V9.5h9V20h-2" stroke-width="1.5"></path>
+    <path id="Vector 2029" stroke="#4147d5" d="M13 13v7h3" stroke-width="1.5"></path>
+    <path id="Ellipse 553" stroke="#4147d5" d="M16 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 554" stroke="#4147d5" d="M9 20a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 549" stroke="#4147d5" d="M12 7a5 5 0 1 0 -6 4.9" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Inbox-Favorite--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Inbox-Favorite--Streamline-Sharp-Neon">
   <desc>
     Inbox Favorite Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="inbox-favorite--mail-envelope-email-message-star-favorite-important-bookmark">
-    <path id="Vector 2539" stroke="#000cfe" d="m1.2626 3.3078 9.2035 5.1131 9.2035 -5.1131" stroke-width="1"></path>
-    <path id="Star 5" stroke="#000cfe" d="m19.7463 16.295 -1.6107 -2.7611 -1.6106 2.7611 -2.9911 0.9203 2.0708 2.0708 -0.6903 3.4513 3.2212 -1.4532 3.2213 1.4532 -0.6903 -3.4513 2.0708 -2.0708 -2.9911 -0.9203Z" stroke-width="1"></path>
-    <path id="Rectangle 846" stroke="#c71dff" d="M19.6696 10.4661V1.2626H1.2626v14.3165h9.2035" stroke-width="1"></path>
+    <path id="Vector 2539" stroke="#000cfe" d="m1.2099916666666666 3.169975 8.820020833333334 4.900054166666667 8.820020833333334 -4.900054166666667" stroke-width="1"></path>
+    <path id="Star 5" stroke="#000cfe" d="m18.923537500000002 15.61604166666667 -1.5435875000000001 -2.6460541666666666 -1.5434916666666667 2.6460541666666666 -2.8664708333333335 0.8819541666666667 1.984516666666667 1.984516666666667 -0.6615375 3.3074958333333333 3.0869833333333334 -1.3926500000000002 3.087079166666667 1.3926500000000002 -0.6615375 -3.3074958333333333 1.984516666666667 -1.984516666666667 -2.8664708333333335 -0.8819541666666667Z" stroke-width="1"></path>
+    <path id="Rectangle 846" stroke="#c71dff" d="M18.850033333333332 10.030012500000002V1.2099916666666666H1.2099916666666666v13.719979166666667h8.820020833333334" stroke-width="1"></path>
   </g>
 </svg>

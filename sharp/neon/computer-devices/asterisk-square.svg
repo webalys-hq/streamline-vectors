@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Asterisk-Square--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Asterisk-Square--Streamline-Sharp-Neon">
   <desc>
     Asterisk Square Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="asterisk-square--asterisk-star-keyboard-keyboard">
-    <path id="Vector" stroke="#000cfe" d="M12 6v12" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" d="M17.1431 8.57153 6.85735 15.4287" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" d="M6.85718 8.57129 17.1429 15.4284" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" d="M22 2H2v20h20V2Z" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" d="M11.5 5.75v11.5" stroke-width="1"></path>
+    <path id="Vector_2" stroke="#000cfe" d="M16.42880416666667 8.214382916666667 6.5716270833333335 14.7858375" stroke-width="1"></path>
+    <path id="Vector_3" stroke="#000cfe" d="M6.571464166666667 8.214152916666666 16.4286125 14.78555" stroke-width="1"></path>
+    <path id="Vector_4" stroke="#c71dff" d="M21.083333333333336 1.9166666666666667H1.9166666666666667v19.166666666666668h19.166666666666668V1.9166666666666667Z" stroke-width="1"></path>
   </g>
 </svg>

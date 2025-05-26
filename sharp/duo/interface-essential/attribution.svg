@@ -3,11 +3,11 @@
     Attribution Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="attribution">
-    <path id="Ellipse 570" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 575" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 574" fill="#ffffff" d="M12 11c-1.0929 0 -2.11748 0.2922 -3 0.8027V15.5h1v4h4v-4h1v-3.6973C14.1175 11.2922 13.0929 11 12 11Z" stroke-width="1"></path>
-    <path id="Ellipse 572" fill="#ffffff" d="M10 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 576" stroke="#4147d5" d="M10 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1"></path>
-    <path id="Ellipse 573" stroke="#4147d5" d="M10 19.5v-4H9v-3.6973C9.88252 11.2922 10.9071 11 12 11s2.1175 0.2922 3 0.8027V15.5h-1v4" stroke-width="1"></path>
+    <path id="Ellipse 570" fill="#d7e0ff" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 575" stroke="#4147d5" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 574" fill="#ffffff" d="M12 11c-1.0929 0 -2.11748 0.2922 -3 0.8027V15.5h1v4h4v-4h1v-3.6973C14.1175 11.2922 13.0929 11 12 11Z" stroke-width="1.5"></path>
+    <path id="Ellipse 572" fill="#ffffff" d="M10 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 576" stroke="#4147d5" d="M10 7a2 2 0 1 0 4 0 2 2 0 1 0 -4 0" stroke-width="1.5"></path>
+    <path id="Ellipse 573" stroke="#4147d5" d="M10 19.5v-4H9v-3.6973C9.88252 11.2922 10.9071 11 12 11s2.1175 0.2922 3 0.8027V15.5h-1v4" stroke-width="1.5"></path>
   </g>
 </svg>

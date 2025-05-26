@@ -2,15 +2,15 @@
   <desc>
     Space Astronaut Alternate Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 19.5h6v3.75h-6V19.5Z" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 23.25v-3c0.0001 -0.9735 -0.3156 -1.9208 -0.8996 -2.6998 -0.584 -0.7789 -1.4049 -1.3474 -2.3394 -1.6202 -0.3639 -0.1056 -0.6836 -0.3265 -0.911 -0.6295 -0.2274 -0.303 -0.3503 -0.6716 -0.35 -1.0505v-3c0 -1.1935 -0.4741 -2.33807 -1.318 -3.18198C12.0881 7.22411 10.9435 6.75 9.75 6.75c-1.19347 0 -2.33807 0.47411 -3.18198 1.31802C5.72411 8.91193 5.25 10.0565 5.25 11.25v3c0.00005 0.3787 -0.12289 0.7471 -0.3503 1.0499 -0.22741 0.3028 -0.54701 0.5236 -0.9107 0.6291 -0.93453 0.2728 -1.75539 0.8413 -2.3394 1.6202 -0.58401 0.779 -0.899663 1.7263 -0.8996 2.6998v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.25 11.25 1.658 -0.829c0.88239 -0.44126 1.85542 -0.671 2.842 -0.671 0.9866 0 1.9596 0.22974 2.842 0.671l1.658 0.829" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.25 14.25 1.658 0.829c0.88239 0.4413 1.85542 0.671 2.842 0.671 0.9866 0 1.9596 -0.2297 2.842 -0.671l1.658 -0.829" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 20.25V13.5c0 -0.5967 0.237053 -1.169 0.65901 -1.591 0.42196 -0.4219 0.99425 -0.659 1.59099 -0.659" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 20.25V13.5c0 -0.5967 -0.2371 -1.169 -0.659 -1.591 -0.422 -0.4219 -0.9943 -0.659 -1.591 -0.659" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 0.75v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 2.25h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.75 8.25v3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 9.75h3" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 0.75c-0.0063 0.79371 -0.3244 1.55313 -0.8856 2.11439 -0.5613 0.56125 -1.3207 0.87934 -2.1144 0.88561 0.7937 0.00627 1.5531 0.32436 2.1144 0.88561 0.5612 0.56126 0.8793 1.32068 0.8856 2.11439 0.0063 -0.79371 0.3244 -1.55313 0.8856 -2.11439 0.5613 -0.56125 1.3207 -0.87934 2.1144 -0.88561 -0.7937 -0.00627 -1.5531 -0.32436 -2.1144 -0.88561 -0.5612 -0.56126 -0.8793 -1.32068 -0.8856 -2.11439Z" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M6.75 19.5h6v3.75h-6V19.5Z" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 23.25v-3c0.0001 -0.9735 -0.3156 -1.9208 -0.8996 -2.6998 -0.584 -0.7789 -1.4049 -1.3474 -2.3394 -1.6202 -0.3639 -0.1056 -0.6836 -0.3265 -0.911 -0.6295 -0.2274 -0.303 -0.3503 -0.6716 -0.35 -1.0505v-3c0 -1.1935 -0.4741 -2.33807 -1.318 -3.18198C12.0881 7.22411 10.9435 6.75 9.75 6.75c-1.19347 0 -2.33807 0.47411 -3.18198 1.31802C5.72411 8.91193 5.25 10.0565 5.25 11.25v3c0.00005 0.3787 -0.12289 0.7471 -0.3503 1.0499 -0.22741 0.3028 -0.54701 0.5236 -0.9107 0.6291 -0.93453 0.2728 -1.75539 0.8413 -2.3394 1.6202 -0.58401 0.779 -0.899663 1.7263 -0.8996 2.6998v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.25 11.25 1.658 -0.829c0.88239 -0.44126 1.85542 -0.671 2.842 -0.671 0.9866 0 1.9596 0.22974 2.842 0.671l1.658 0.829" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m5.25 14.25 1.658 0.829c0.88239 0.4413 1.85542 0.671 2.842 0.671 0.9866 0 1.9596 -0.2297 2.842 -0.671l1.658 -0.829" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M0.75 20.25V13.5c0 -0.5967 0.237053 -1.169 0.65901 -1.591 0.42196 -0.4219 0.99425 -0.659 1.59099 -0.659" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 20.25V13.5c0 -0.5967 -0.2371 -1.169 -0.659 -1.591 -0.422 -0.4219 -0.9943 -0.659 -1.591 -0.659" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M11.25 0.75v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.75 2.25h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M21.75 8.25v3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.25 9.75h3" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M18.75 0.75c-0.0063 0.79371 -0.3244 1.55313 -0.8856 2.11439 -0.5613 0.56125 -1.3207 0.87934 -2.1144 0.88561 0.7937 0.00627 1.5531 0.32436 2.1144 0.88561 0.5612 0.56126 0.8793 1.32068 0.8856 2.11439 0.0063 -0.79371 0.3244 -1.55313 0.8856 -2.11439 0.5613 -0.56125 1.3207 -0.87934 2.1144 -0.88561 -0.7937 -0.00627 -1.5531 -0.32436 -2.1144 -0.88561 -0.5612 -0.56126 -0.8793 -1.32068 -0.8856 -2.11439Z" stroke-width="1.5"></path>
 </svg>

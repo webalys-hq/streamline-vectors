@@ -3,13 +3,13 @@
     Hierarchy 16 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="hierarchy-16">
-    <path id="Vector 2255" fill="#d7e0ff" d="M10.5 7 2 7l0 -5 8.5 0v5Z" stroke-width="1"></path>
-    <path id="Vector 2257" fill="#d7e0ff" d="m22 22 -11 0 0 -4.5 11 0V22Z" stroke-width="1"></path>
-    <path id="Vector 2266" fill="#d7e0ff" d="m22 14.5 -11 0 0 -4.5 11 0v4.5Z" stroke-width="1"></path>
-    <path id="Vector 2267" stroke="#4147d5" d="M10.5 7 2 7l0 -5 8.5 0v5Z" stroke-width="1"></path>
-    <path id="Vector 2268" stroke="#4147d5" d="m22 22 -11 0 0 -4.5 11 0V22Z" stroke-width="1"></path>
-    <path id="Vector 2269" stroke="#4147d5" d="m22 14.5 -11 0 0 -4.5 11 0v4.5Z" stroke-width="1"></path>
-    <path id="Vector 2264" stroke="#4147d5" d="M6 7v12.75h5" stroke-width="1"></path>
-    <path id="Vector 2265" stroke="#4147d5" d="M6 12.25h5" stroke-width="1"></path>
+    <path id="Vector 2255" fill="#d7e0ff" d="M10.5 7 2 7l0 -5 8.5 0v5Z" stroke-width="1.5"></path>
+    <path id="Vector 2257" fill="#d7e0ff" d="m22 22 -11 0 0 -4.5 11 0V22Z" stroke-width="1.5"></path>
+    <path id="Vector 2266" fill="#d7e0ff" d="m22 14.5 -11 0 0 -4.5 11 0v4.5Z" stroke-width="1.5"></path>
+    <path id="Vector 2267" stroke="#4147d5" d="M10.5 7 2 7l0 -5 8.5 0v5Z" stroke-width="1.5"></path>
+    <path id="Vector 2268" stroke="#4147d5" d="m22 22 -11 0 0 -4.5 11 0V22Z" stroke-width="1.5"></path>
+    <path id="Vector 2269" stroke="#4147d5" d="m22 14.5 -11 0 0 -4.5 11 0v4.5Z" stroke-width="1.5"></path>
+    <path id="Vector 2264" stroke="#4147d5" d="M6 7v12.75h5" stroke-width="1.5"></path>
+    <path id="Vector 2265" stroke="#4147d5" d="M6 12.25h5" stroke-width="1.5"></path>
   </g>
 </svg>

@@ -3,8 +3,8 @@
     Pathfinder Outline Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="pathfinder-outline">
-    <path id="Rectangle 716" stroke="#000000" d="M16 5V2H2v14h3" stroke-width="1"></path>
-    <path id="Rectangle 715" stroke="#000000" d="M19 8h3v14H8l0 -3" stroke-width="1"></path>
-    <path id="Vector 1562" stroke="#000000" d="M8 8h8v8H8V8Z" stroke-width="1"></path>
+    <path id="Rectangle 716" stroke="#000000" d="M16 5V2H2v14h3" stroke-width="1.5"></path>
+    <path id="Rectangle 715" stroke="#000000" d="M19 8h3v14H8l0 -3" stroke-width="1.5"></path>
+    <path id="Vector 1562" stroke="#000000" d="M8 8h8v8H8V8Z" stroke-width="1.5"></path>
   </g>
 </svg>

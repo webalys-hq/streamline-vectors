@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chess-Knight--Streamline-Sharp-Neon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="-0.5 -0.5 24 24" id="Chess-Knight--Streamline-Sharp-Neon">
   <desc>
     Chess Knight Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="chess-knight">
-    <path id="Vector 1525" stroke="#c71dff" d="M16.9702 18.9998 15.3551 7.15552c-0.5384 -3.23025 -2.677 -5.28316 -6.19133 -5.92212v2.1535L3.78003 7.69389l1.61512 3.23021 4.307 -1.07671 -2.42269 9.15241" stroke-width="1"></path>
-    <path id="Vector 1524" stroke="#c71dff" d="m9.70215 9.84794 2.15345 -0.53837" stroke-width="1"></path>
-    <path id="Vector 1521" stroke="#000cfe" d="M4.31958 23.0063 5.65503 19H18.345l1.3354 4.0063H4.31958Z" stroke-width="1"></path>
+    <path id="Vector 1525" stroke="#c71dff" d="M16.26310833333333 18.208141666666666 14.715304166666668 6.857373333333333c-0.5159666666666667 -3.0956562499999998 -2.5654583333333334 -5.0630283333333335 -5.933357916666667 -5.675365v2.0637708333333338L3.6225287500000003 7.3733112499999995l1.5478233333333333 3.095617916666667 4.1275416666666676 -1.0318470833333335 -2.321744583333333 8.771059583333333" stroke-width="1"></path>
+    <path id="Vector 1524" stroke="#c71dff" d="m9.29789375 9.437609166666666 2.0637229166666664 -0.5159379166666667" stroke-width="1"></path>
+    <path id="Vector 1521" stroke="#000cfe" d="M4.139597500000001 22.047704166666666 5.41940375 18.208333333333336H17.580625l1.2797583333333333 3.839370833333334H4.139597500000001Z" stroke-width="1"></path>
   </g>
 </svg>

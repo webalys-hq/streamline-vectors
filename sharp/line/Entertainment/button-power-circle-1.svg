@@ -3,8 +3,8 @@
     Button Power Circle 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="button-power-circle-1--power-button-on-off">
-    <path id="Ellipse 313" stroke="#000000" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1"></path>
-    <path id="Ellipse 314" stroke="#000000" d="M14.6278 7.729c1.4319 0.88284 2.3864 2.4656 2.3864 4.2712 0 2.7693 -2.245 5.0142 -5.0142 5.0142 -2.76924 0 -5.01416 -2.2449 -5.01416 -5.0142 0 -1.8056 0.95443 -3.38836 2.38631 -4.2712" stroke-width="1"></path>
-    <path id="Vector 2884" stroke="#000000" d="M12 5.05371v3.99317" stroke-width="1"></path>
+    <path id="Ellipse 313" stroke="#000000" d="M2 12a10 10 0 1 0 20 0 10 10 0 1 0 -20 0" stroke-width="1.5"></path>
+    <path id="Ellipse 314" stroke="#000000" d="M14.6278 7.729c1.4319 0.88284 2.3864 2.4656 2.3864 4.2712 0 2.7693 -2.245 5.0142 -5.0142 5.0142 -2.76924 0 -5.01416 -2.2449 -5.01416 -5.0142 0 -1.8056 0.95443 -3.38836 2.38631 -4.2712" stroke-width="1.5"></path>
+    <path id="Vector 2884" stroke="#000000" d="M12 5.05371v3.99317" stroke-width="1.5"></path>
   </g>
 </svg>

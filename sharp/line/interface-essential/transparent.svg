@@ -3,9 +3,9 @@
     Transparent Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="transparent">
-    <path id="Rectangle 715" stroke="#000000" d="M17 7H7v10M19.5 7H22v15H7v-2.5" stroke-width="1"></path>
-    <path id="Rectangle 716" stroke="#000000" d="M17 2H2v15h15V2Z" stroke-width="1"></path>
-    <path id="Vector 1754" stroke="#000000" d="m7 2 10 10" stroke-width="1"></path>
-    <path id="Vector 1755" stroke="#000000" d="M12 17 2 7" stroke-width="1"></path>
+    <path id="Rectangle 715" stroke="#000000" d="M17 7H7v10M19.5 7H22v15H7v-2.5" stroke-width="1.5"></path>
+    <path id="Rectangle 716" stroke="#000000" d="M17 2H2v15h15V2Z" stroke-width="1.5"></path>
+    <path id="Vector 1754" stroke="#000000" d="m7 2 10 10" stroke-width="1.5"></path>
+    <path id="Vector 1755" stroke="#000000" d="M12 17 2 7" stroke-width="1.5"></path>
   </g>
 </svg>

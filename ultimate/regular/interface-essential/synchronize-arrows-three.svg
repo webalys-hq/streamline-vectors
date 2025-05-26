@@ -2,10 +2,10 @@
   <desc>
     Synchronize Arrows Three Streamline Icon: https://streamlinehq.com
   </desc>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.5199 16.2004 11.16 19.5602l3.3599 3.3599" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.0346 11.2334c-0.468 4.7273 -4.4442 8.3296 -9.1947 8.3301H11.16" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.0912 5.92621 4.5895 1.2297 1.2309 -4.5895" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.0322 1.9023c4.3275 -1.9569993 9.4338 -0.3143 11.8086 3.7988l0.8399 1.4559" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.90761 8.83559 -1.2297 -4.5895 -4.5895 1.2297" stroke-width="1"></path>
-  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.4519 17.8288C3.5942 15.058 2.465 9.81412 4.8402 5.70102l0.84 -1.4559" stroke-width="1"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M14.5199 16.2004 11.16 19.5602l3.3599 3.3599" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M22.0346 11.2334c-0.468 4.7273 -4.4442 8.3296 -9.1947 8.3301H11.16" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m17.0912 5.92621 4.5895 1.2297 1.2309 -4.5895" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M9.0322 1.9023c4.3275 -1.9569993 9.4338 -0.3143 11.8086 3.7988l0.8399 1.4559" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m6.90761 8.83559 -1.2297 -4.5895 -4.5895 1.2297" stroke-width="1.5"></path>
+  <path stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7.4519 17.8288C3.5942 15.058 2.465 9.81412 4.8402 5.70102l0.84 -1.4559" stroke-width="1.5"></path>
 </svg>

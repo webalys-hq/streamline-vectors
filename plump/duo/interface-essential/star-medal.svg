@@ -3,15 +3,15 @@
     Star Medal Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="star-medal--ribbon-reward-like-social-rating-media">
-    <path id="Subtract" fill="#ffffff" d="M24 3c-7 0 -10 1 -10 1v0.491c0.014 0.033 1.707 4.066 4.599 9.668C19.964 14.064 21.727 14 24 14c2.273 0 4.036 0.064 5.401 0.16C32.304 8.533 34 4.49 34 4.49L34 4s-3 -1 -10 -1Z" stroke-width="1"></path>
-    <path id="Subtract_2" fill="#8fbffa" d="M35.462 29.438c4.05 -4.593 7.256 -9.086 8.702 -11.194 0.536 -0.782 0.655 -1.774 0.255 -2.634C41.15 8.588 34 4 34 4s-3.337 7.957 -8.663 17.074c4.793 0.53 8.735 3.886 10.125 8.364Z" stroke-width="1"></path>
-    <path id="Subtract_3" fill="#8fbffa" d="M3.836 18.244c-0.536 -0.782 -0.655 -1.774 -0.255 -2.634C6.85 8.588 14 4 14 4s3.337 7.957 8.663 17.074c-4.794 0.531 -8.735 3.886 -10.126 8.364 -4.05 -4.593 -7.255 -9.086 -8.7 -11.194Z" stroke-width="1"></path>
-    <path id="Ellipse 19" fill="#ffffff" d="M12 33a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="1"></path>
-    <path id="Star 5" fill="#8fbffa" d="M22.89 26.64a1.25 1.25 0 0 1 2.22 0l1.51 2.912 3.22 0.634a1.25 1.25 0 0 1 0.688 2.062l-2.288 2.545 0.42 3.395a1.25 1.25 0 0 1 -1.8 1.272L24 38.032l-2.86 1.428a1.25 1.25 0 0 1 -1.799 -1.272l0.42 -3.395 -2.289 -2.545a1.25 1.25 0 0 1 0.688 -2.062l3.22 -0.634 1.51 -2.913Z" stroke-width="1"></path>
-    <path id="Subtract_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M14 4s3 -1 10 -1 10 1 10 1M18.845 14.143A80.638 80.638 0 0 1 24 14c2.139 0 3.826 0.056 5.155 0.143" stroke-width="1"></path>
-    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M12 33a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="1"></path>
-    <path id="Subtract_5" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M35.462 29.438c4.05 -4.593 7.256 -9.086 8.702 -11.194 0.536 -0.782 0.655 -1.774 0.255 -2.634C41.15 8.588 34 4 34 4s-3.337 7.957 -8.663 17.074" stroke-width="1"></path>
-    <path id="Subtract_6" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22.663 21.074C17.337 11.957 14 4 14 4S6.85 8.588 3.58 15.61c-0.4 0.86 -0.281 1.852 0.255 2.634 1.446 2.108 4.651 6.6 8.701 11.194" stroke-width="1"></path>
-    <path id="Star 4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22.89 26.64a1.25 1.25 0 0 1 2.22 0l1.51 2.912 3.22 0.634a1.25 1.25 0 0 1 0.688 2.062l-2.288 2.545 0.419 3.395a1.25 1.25 0 0 1 -1.799 1.272L24 38.032l-2.86 1.428a1.25 1.25 0 0 1 -1.8 -1.272l0.42 -3.395 -2.288 -2.545a1.25 1.25 0 0 1 0.688 -2.062l3.22 -0.634 1.51 -2.913Z" stroke-width="1"></path>
+    <path id="Subtract" fill="#ffffff" d="M24 3c-7 0 -10 1 -10 1v0.491c0.014 0.033 1.707 4.066 4.599 9.668C19.964 14.064 21.727 14 24 14c2.273 0 4.036 0.064 5.401 0.16C32.304 8.533 34 4.49 34 4.49L34 4s-3 -1 -10 -1Z" stroke-width="3"></path>
+    <path id="Subtract_2" fill="#8fbffa" d="M35.462 29.438c4.05 -4.593 7.256 -9.086 8.702 -11.194 0.536 -0.782 0.655 -1.774 0.255 -2.634C41.15 8.588 34 4 34 4s-3.337 7.957 -8.663 17.074c4.793 0.53 8.735 3.886 10.125 8.364Z" stroke-width="3"></path>
+    <path id="Subtract_3" fill="#8fbffa" d="M3.836 18.244c-0.536 -0.782 -0.655 -1.774 -0.255 -2.634C6.85 8.588 14 4 14 4s3.337 7.957 8.663 17.074c-4.794 0.531 -8.735 3.886 -10.126 8.364 -4.05 -4.593 -7.255 -9.086 -8.7 -11.194Z" stroke-width="3"></path>
+    <path id="Ellipse 19" fill="#ffffff" d="M12 33a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="3"></path>
+    <path id="Star 5" fill="#8fbffa" d="M22.89 26.64a1.25 1.25 0 0 1 2.22 0l1.51 2.912 3.22 0.634a1.25 1.25 0 0 1 0.688 2.062l-2.288 2.545 0.42 3.395a1.25 1.25 0 0 1 -1.8 1.272L24 38.032l-2.86 1.428a1.25 1.25 0 0 1 -1.799 -1.272l0.42 -3.395 -2.289 -2.545a1.25 1.25 0 0 1 0.688 -2.062l3.22 -0.634 1.51 -2.913Z" stroke-width="3"></path>
+    <path id="Subtract_4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M14 4s3 -1 10 -1 10 1 10 1M18.845 14.143A80.638 80.638 0 0 1 24 14c2.139 0 3.826 0.056 5.155 0.143" stroke-width="3"></path>
+    <path id="Ellipse 18" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M12 33a12 12 0 1 0 24 0 12 12 0 1 0 -24 0" stroke-width="3"></path>
+    <path id="Subtract_5" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M35.462 29.438c4.05 -4.593 7.256 -9.086 8.702 -11.194 0.536 -0.782 0.655 -1.774 0.255 -2.634C41.15 8.588 34 4 34 4s-3.337 7.957 -8.663 17.074" stroke-width="3"></path>
+    <path id="Subtract_6" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22.663 21.074C17.337 11.957 14 4 14 4S6.85 8.588 3.58 15.61c-0.4 0.86 -0.281 1.852 0.255 2.634 1.446 2.108 4.651 6.6 8.701 11.194" stroke-width="3"></path>
+    <path id="Star 4" stroke="#2859c5" stroke-linecap="round" stroke-linejoin="round" d="M22.89 26.64a1.25 1.25 0 0 1 2.22 0l1.51 2.912 3.22 0.634a1.25 1.25 0 0 1 0.688 2.062l-2.288 2.545 0.419 3.395a1.25 1.25 0 0 1 -1.799 1.272L24 38.032l-2.86 1.428a1.25 1.25 0 0 1 -1.8 -1.272l0.42 -3.395 -2.288 -2.545a1.25 1.25 0 0 1 0.688 -2.062l3.22 -0.634 1.51 -2.913Z" stroke-width="3"></path>
   </g>
 </svg>

@@ -3,8 +3,8 @@
     Radioactive 1 Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="radioactive-1--danger-nuke-radiation-nuclear-warning-alert-radioactive-caution">
-    <path id="Ellipse 581" stroke="#000000" d="M7 20.662A9.954 9.954 0 0 0 12 22c1.822 0 3.53 -0.487 5 -1.338l-3 -5.197A3.983 3.983 0 0 1 12 16a3.982 3.982 0 0 1 -2 -0.535l-3 5.197Z" stroke-width="1"></path>
-    <path id="Ellipse 582" stroke="#000000" d="M7 3.338A9.996 9.996 0 0 0 2 12h6c0 -1.48 0.804 -2.773 2 -3.465L7 3.338Z" stroke-width="1"></path>
-    <path id="Ellipse 583" stroke="#000000" d="M22 12a9.996 9.996 0 0 0 -5 -8.662l-3 5.197c1.196 0.692 2 1.985 2 3.465h6Z" stroke-width="1"></path>
+    <path id="Ellipse 581" stroke="#000000" d="M7 20.662A9.954 9.954 0 0 0 12 22c1.822 0 3.53 -0.487 5 -1.338l-3 -5.197A3.983 3.983 0 0 1 12 16a3.982 3.982 0 0 1 -2 -0.535l-3 5.197Z" stroke-width="1.5"></path>
+    <path id="Ellipse 582" stroke="#000000" d="M7 3.338A9.996 9.996 0 0 0 2 12h6c0 -1.48 0.804 -2.773 2 -3.465L7 3.338Z" stroke-width="1.5"></path>
+    <path id="Ellipse 583" stroke="#000000" d="M22 12a9.996 9.996 0 0 0 -5 -8.662l-3 5.197c1.196 0.692 2 1.985 2 3.465h6Z" stroke-width="1.5"></path>
   </g>
 </svg>

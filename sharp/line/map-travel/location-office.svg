@@ -3,11 +3,11 @@
     Location Office Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="location-office--travel-places-location-office">
-    <path id="Rectangle 983" stroke="#000000" d="M15 15v7H2V3.5h9.5" stroke-width="1"></path>
-    <path id="Vector 3562" stroke="#000000" d="M4.5 12.5h8" stroke-width="1"></path>
-    <path id="Vector 3563" stroke="#000000" d="M4.5 8h7" stroke-width="1"></path>
-    <path id="Vector 3561" stroke="#000000" d="M8.5 18v4" stroke-width="1"></path>
-    <path id="Vector" stroke="#000000" d="M18 14s4 -5.06 4 -8c0 -2.32 -1.68 -4 -4 -4 -2.32 0 -4 1.68 -4 4 0 2.94 4 8 4 8Z" stroke-width="1"></path>
-    <path id="Vector 3557" stroke="#000000" d="M18 5.5V7" stroke-width="1"></path>
+    <path id="Rectangle 983" stroke="#000000" d="M15 15v7H2V3.5h9.5" stroke-width="1.5"></path>
+    <path id="Vector 3562" stroke="#000000" d="M4.5 12.5h8" stroke-width="1.5"></path>
+    <path id="Vector 3563" stroke="#000000" d="M4.5 8h7" stroke-width="1.5"></path>
+    <path id="Vector 3561" stroke="#000000" d="M8.5 18v4" stroke-width="1.5"></path>
+    <path id="Vector" stroke="#000000" d="M18 14s4 -5.06 4 -8c0 -2.32 -1.68 -4 -4 -4 -2.32 0 -4 1.68 -4 4 0 2.94 4 8 4 8Z" stroke-width="1.5"></path>
+    <path id="Vector 3557" stroke="#000000" d="M18 5.5V7" stroke-width="1.5"></path>
   </g>
 </svg>

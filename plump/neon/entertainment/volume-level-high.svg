@@ -3,9 +3,9 @@
     Volume Level High Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="volume-level-high--speaker-high-volume-control-audio-music-entertainment">
-    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M41 12c6.6667 6.6274 6.6667 17.3726 0 24" stroke-width="1"></path>
-    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 16c4 4.4183 4 11.5817 0 16" stroke-width="1"></path>
-    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10 12.4492s-2.78583 0.681 -5.19138 1.5072c-1.15735 0.3974 -1.98763 1.3829 -2.1934 2.5892C2.33343 18.1976 2 20.8233 2 23.9992c0 3.1759 0.33343 5.8016 0.61522 7.4536 0.20577 1.2063 1.03605 2.1918 2.19341 2.5893C7.21417 34.8682 10 35.5492 10 35.5492" stroke-width="1"></path>
-    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11 11.4995v-0.015m0 25.015v0.015m0 -25.03c-0.6448 0.5988 -1 0.965 -1 0.965 -0.27885 1.8946 -0.75 6.4061 -0.75 11.5499 0 5.1435 0.47113 9.6553 0.75 11.5501 0 0 0.3552 0.3663 1 0.965m0 -25.03c2.0505 -1.90389 7.0299 -6.15855 12.8331 -8.46339 1.6546 -0.65714 3.3532 0.51213 3.5014 2.28626C27.6252 8.78927 28 15.02 28 23.9995c0 8.9796 -0.3748 15.2103 -0.6655 18.6922 -0.1482 1.7741 -1.8468 2.9434 -3.5014 2.2862C18.0299 42.6731 13.0505 38.4184 11 36.5145" stroke-width="1"></path>
+    <path id="Vector" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M41 12c6.6667 6.6274 6.6667 17.3726 0 24" stroke-width="3"></path>
+    <path id="Vector_2" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M36 16c4 4.4183 4 11.5817 0 16" stroke-width="3"></path>
+    <path id="Vector_3" stroke="#000cfe" stroke-linecap="round" stroke-linejoin="round" d="M10 12.4492s-2.78583 0.681 -5.19138 1.5072c-1.15735 0.3974 -1.98763 1.3829 -2.1934 2.5892C2.33343 18.1976 2 20.8233 2 23.9992c0 3.1759 0.33343 5.8016 0.61522 7.4536 0.20577 1.2063 1.03605 2.1918 2.19341 2.5893C7.21417 34.8682 10 35.5492 10 35.5492" stroke-width="3"></path>
+    <path id="Vector_4" stroke="#c71dff" stroke-linecap="round" stroke-linejoin="round" d="M11 11.4995v-0.015m0 25.015v0.015m0 -25.03c-0.6448 0.5988 -1 0.965 -1 0.965 -0.27885 1.8946 -0.75 6.4061 -0.75 11.5499 0 5.1435 0.47113 9.6553 0.75 11.5501 0 0 0.3552 0.3663 1 0.965m0 -25.03c2.0505 -1.90389 7.0299 -6.15855 12.8331 -8.46339 1.6546 -0.65714 3.3532 0.51213 3.5014 2.28626C27.6252 8.78927 28 15.02 28 23.9995c0 8.9796 -0.3748 15.2103 -0.6655 18.6922 -0.1482 1.7741 -1.8468 2.9434 -3.5014 2.2862C18.0299 42.6731 13.0505 38.4184 11 36.5145" stroke-width="3"></path>
   </g>
 </svg>

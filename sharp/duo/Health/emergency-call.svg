@@ -3,11 +3,11 @@
     Emergency Call Streamline Icon: https://streamlinehq.com
   </desc>
   <g id="emergency-call--health-medical-ambulance-emergency-call">
-    <path id="Ellipse 578" fill="#d7e0ff" d="m16.89 17.97 -0.487 4.072a15.173 15.173 0 0 1 -6.651 -1.95l2.122 -3.555 5.016 1.434Z" stroke-width="1"></path>
-    <path id="Ellipse 579" fill="#d7e0ff" d="m6.14 7.221 -4.07 0.488a15.173 15.173 0 0 0 1.949 6.65l3.555 -2.121L6.14 7.22Z" stroke-width="1"></path>
-    <path id="Union" fill="#ffffff" d="M19 5V2h-4v3h-3v4h3v3h4V9h3V5h-3Z" stroke-width="1"></path>
-    <path id="Union_2" stroke="#4147d5" d="M19 5V2h-4v3h-3v4h3v3h4V9h3V5h-3Z" stroke-width="1"></path>
-    <path id="Ellipse 441" stroke="#4147d5" d="M4.018 14.36A15.173 15.173 0 0 1 2.07 7.709l4.07 -0.489 1.433 5.017 -3.555 2.122Zm0 0a15.218 15.218 0 0 0 2.48 3.253c0.993 0.992 2.089 1.82 3.254 2.48m0 0a15.171 15.171 0 0 0 6.65 1.949l0.488 -4.071 -5.017 -1.433 -2.121 3.555Z" stroke-width="1"></path>
-    <path id="Ellipse 577" stroke="#4147d5" d="M4.018 14.36A15.173 15.173 0 0 1 2.07 7.709l4.07 -0.489 1.433 5.017 -3.555 2.122Zm0 0a15.218 15.218 0 0 0 2.48 3.253c0.993 0.992 2.089 1.82 3.254 2.48m0 0a15.171 15.171 0 0 0 6.65 1.949l0.488 -4.071 -5.017 -1.433 -2.121 3.555Z" stroke-width="1"></path>
+    <path id="Ellipse 578" fill="#d7e0ff" d="m16.89 17.97 -0.487 4.072a15.173 15.173 0 0 1 -6.651 -1.95l2.122 -3.555 5.016 1.434Z" stroke-width="1.5"></path>
+    <path id="Ellipse 579" fill="#d7e0ff" d="m6.14 7.221 -4.07 0.488a15.173 15.173 0 0 0 1.949 6.65l3.555 -2.121L6.14 7.22Z" stroke-width="1.5"></path>
+    <path id="Union" fill="#ffffff" d="M19 5V2h-4v3h-3v4h3v3h4V9h3V5h-3Z" stroke-width="1.5"></path>
+    <path id="Union_2" stroke="#4147d5" d="M19 5V2h-4v3h-3v4h3v3h4V9h3V5h-3Z" stroke-width="1.5"></path>
+    <path id="Ellipse 441" stroke="#4147d5" d="M4.018 14.36A15.173 15.173 0 0 1 2.07 7.709l4.07 -0.489 1.433 5.017 -3.555 2.122Zm0 0a15.218 15.218 0 0 0 2.48 3.253c0.993 0.992 2.089 1.82 3.254 2.48m0 0a15.171 15.171 0 0 0 6.65 1.949l0.488 -4.071 -5.017 -1.433 -2.121 3.555Z" stroke-width="1.5"></path>
+    <path id="Ellipse 577" stroke="#4147d5" d="M4.018 14.36A15.173 15.173 0 0 1 2.07 7.709l4.07 -0.489 1.433 5.017 -3.555 2.122Zm0 0a15.218 15.218 0 0 0 2.48 3.253c0.993 0.992 2.089 1.82 3.254 2.48m0 0a15.171 15.171 0 0 0 6.65 1.949l0.488 -4.071 -5.017 -1.433 -2.121 3.555Z" stroke-width="1.5"></path>
   </g>
 </svg>
